@@ -1,0 +1,1 @@
+An Act to reform the constitutional law of New Zealand, to bring together into one enactment certain provisions of constitutional significance, and to provide that the New Zealand Constitution Act 1852 of the Parliament of the United Kingdom shall cease to have effect as part of the law of New Zealand

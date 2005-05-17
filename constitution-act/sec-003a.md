@@ -1,0 +1,5 @@
+# 3A Advice and consent of Executive Council
+(1) The Sovereign or the Governor-General may perform a function or duty, or exercise a power, on the advice and with the consent of the Executive Council if that advice and consent are given at a meeting of the Executive Council at which neither the Sovereign nor the Governor-General is present if the Sovereign or the Governor-General is prevented from attending the meeting by some necessary or reasonable cause.
+(2) The performance of the function or duty, or the exercise of the power takes effect from the date of the meeting unless another time is specified for the performance of the function or duty, or for the exercise of the power, to take effect.
+(3) Neither the validity of the performance of the function or duty, nor the validity of the exercise of the power, can be challenged in any legal proceedings on the ground that the Sovereign or the Governor-General was not prevented from attending the meeting of the Executive Council by some necessary or reasonable cause.
+Compare: 1924 No 11 s 23; 1983 No 22 s 3
