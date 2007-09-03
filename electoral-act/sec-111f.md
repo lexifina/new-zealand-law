@@ -1,0 +1,8 @@
+# 111F Designated body may supply information from register of iwi affiliations to iwi organisation and other Maori organisation
+(1) The designated body may supply the information in relation to a particular Maori elector that is held on a register of iwi affiliations—
+(a) if the Maori elector has specified a particular organisation or organisations under section 111C(3)(b)(ii), to that organisation or organisations; or
+(b) in any other case, to any iwi organisation or organisations or other Maori organisation or organisations that the designated body is satisfied represents the iwi to which the Maori elector claims an affiliation.
+(2) If the designated body is satisfied that iwi affiliation information given by a Maori elector under section 111C(3)(b)(i) contains a spelling error or other obvious mistake, but the designated body is satisfied that it is clear to which iwi the Maori elector was referring, the designated body may apply subsection (1) as if the elector had specified that iwi.
+(3) If the designated body is satisfied that the name of an organisation or organisations specified by a Maori elector under section 111C(3)(b)(ii) contains a spelling error or other obvious mistake, but the designated body is satisfied that it is clear to which organisation or organisations the elector was referring, the designated body may apply subsection (1) as if the elector had specified that organisation or organisations.
+(4) Information supplied under this section is supplied for the purposes of the iwi organisation or other Maori organisation to which it is supplied.
+(5) Any fee charged by the designated body for the supply of information under this section must be a reasonable fee.

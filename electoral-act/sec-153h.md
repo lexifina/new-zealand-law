@@ -1,0 +1,6 @@
+# 153H How application under section 153G to be dealt with
+(1) On receiving an application made under subsection (1) of section 153G, the Returning Officer or, as the case requires, the Chief Electoral Officer must, without delay, determine whether or not the candidate became incapacitated in the circumstances set out in that subsection.
+(2) For the purpose of making a determination under subsection (1), the Returning Officer or Chief Electoral Officer may make any inquiries, and seek any assistance (including, without limitation, expert medical assistance), that he or she considers necessary.
+(3) If, before the declaration of the result of the poll, the Returning Officer or Chief Electoral Officer determines that the candidate became incapacitated in the circumstances set out in section 153G(1), the Returning Officer or Chief Electoral Officer must cancel the candidate's nomination.
+(4) If the Returning Officer or Chief Electoral Officer has not made a determination under subsection (1) before the declaration of the result of the poll, the application is to be treated as having been declined.
+(5) As soon as practicable after making a determination under subsection (1), the Returning Officer or Chief Electoral Officer must inform the applicant or applicants of that determination.
