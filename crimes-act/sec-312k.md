@@ -1,0 +1,6 @@
+# 312K Prohibition on disclosure of private communications lawfully intercepted
+(1) No person who—
+(a) Intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
+(b) Acquires knowledge of a private communication as a direct or indirect result of that interception—
+shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of that person's duty.
+(2) Every person who acts in contravention of subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $500.

@@ -1,0 +1,7 @@
+# 216L Disposal and forfeiture
+(1) Where any person is convicted of an offence against section 216H or section 216I or section 216J, the Court may, in addition to or instead of passing any other sentence or making any other order in respect of the offence, order that the intimate visual recording be destroyed within 10 working days from the making of the order, and that the recording in the meantime be impounded.
+(2) Where any person is convicted of an offence against section 216H or section 216I or section 216J, the Court may, in addition to or instead of passing any other sentence or making any other order in respect of the offence, order that any equipment, goods, or other thing used in respect of the commission of the offence be forfeited to the Crown; and anything so forfeited must be sold, destroyed, or otherwise disposed of as the Minister of Justice directs.
+(3) Before making an order under subsection (1) or subsection (2), the Court must give the following persons an opportunity to be heard:
+(a) the person convicted; and
+(b) any other person who, in the opinion of the Court, would be directly affected by the making of the order.
+(4) If the Court is satisfied that the intimate visual recording that was the subject of the prosecution, or any equipment, goods, or other thing used in respect of the commission of the offence, should be delivered to a person other than the person convicted, it may so order.

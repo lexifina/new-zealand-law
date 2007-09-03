@@ -1,0 +1,5 @@
+# 406A Appeals against decisions made on references
+(1) With the leave of the court appealed to, a party to proceedings in which the High Court heard and determined a question referred to it under section 406(a) may appeal to the Court of Appeal or the Supreme Court against the High Court's determination of the question.
+(2) With the leave of the Supreme Court, a party to proceedings in which the Court of Appeal heard and determined a question referred to it under section 380 or section 406(a) may appeal to the Supreme Court against the Court of Appeal's opinion on or determination of the question.
+(3) With the leave of the Supreme Court, a party to an appeal to the Court of Appeal under subsection (1) may appeal to the Supreme Court against the Court of Appeal's determination of the appeal.
+(4) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).

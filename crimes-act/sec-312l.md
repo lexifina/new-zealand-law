@@ -1,0 +1,4 @@
+# 312L Notice to be given of intention to produce evidence of private communication
+Particulars of a private communication intercepted pursuant to an interception warrant or an emergency permit shall not be received in evidence by any Court against any person unless the party intending to adduce it has given to that person reasonable notice of that person's intention to do so, together with—
+(a) A transcript of the private communication where that person intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where that person intends to adduce oral evidence of it; and
+(b) A statement of the time, place (if known), and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
