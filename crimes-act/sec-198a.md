@@ -1,0 +1,3 @@
+# 198A Using any firearm against law enforcement officer, etc
+(1) Every one is liable to imprisonment for a term not exceeding 14 years who uses any firearm in any manner whatever against any member of the Police, or any traffic officer, or any prison officer, acting in the course of his or her duty knowing that, or being reckless whether or not, that person is a member of the Police or a traffic officer or a prison officer so acting.
+(2) Every one is liable to imprisonment for a term not exceeding 10 years who uses any firearm in any manner whatever with intent to resist the lawful arrest or detention of himself or herself or of any other person.

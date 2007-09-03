@@ -1,0 +1,9 @@
+# 202B Powers in respect of crime against section 202A
+(1) Where any constable has reasonable grounds for believing that any person is committing an offence against section 202A(4)(a) of this Act he may—
+(a) Stop and search that person and any package or receptacle he has with him that the constable has reasonable grounds for believing contains any knife, offensive weapon, or disabling substance, and may detain that person for as long as is reasonably necessary to conduct that search:
+(b) Stop and search any vehicle in which that person is travelling or from which he has alighted if the constable has reasonable grounds for believing that the vehicle contains any knife, offensive weapon, or disabling substance, and may detain that vehicle for as long as is reasonably necessary to conduct that search;—
+and in any such case the constable may take possession of any knife, offensive weapon, or disabling substance found.
+(2) Every constable exercising the powers conferred by subsection (1) of this section shall identify himself to every person searched, tell him that the search is being made under this section, and, if not in uniform and if so required, produce evidence that he is a member of the Police.
+(2A) If it is necessary for any constable to stop a vehicle for the purpose of exercising the power conferred by subsection (1)(a) to search a person who is in the vehicle, sections 314B to 314D apply with any necessary modifications as if references in those sections to a statutory search power are references to subsection (1)(a).
+(2B) Despite section 314A, sections 314B to 314D apply to the exercise of the power to stop a vehicle conferred by subsection (1)(b).
+(3) Where any person is convicted of a crime against section 202A of this Act, the Court may make an order for the forfeiture or disposal of any knife, offensive weapon, or substance in respect of which the crime was committed.
