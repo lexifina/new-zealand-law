@@ -1,0 +1,2 @@
+# 237F Compensation for taking of esplanade reserves or strips on allotments of 4 hectares or more
+Where any esplanade reserve or esplanade strip of any width is required to be set aside or created on an allotment of 4 hectares or more created when land is subdivided, the territorial authority shall pay to the registered proprietor of that allotment compensation for any esplanade reserve or any interest in land taken for any esplanade strip, unless the registered proprietor agrees otherwise.

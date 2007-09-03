@@ -1,0 +1,2 @@
+# 3A Person acting under resource consent with permission
+Subject to section 134 and any specific conditions included in the resource consent, any reference in this Act to activities being allowed by a resource consent includes a reference to a person acting under a resource consent with the permission (including implied permission) of the consent holder as if the resource consent had been granted to that person as well as to the holder of the resource consent.

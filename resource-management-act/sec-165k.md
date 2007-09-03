@@ -1,0 +1,2 @@
+# 165K Applications not to be made or granted unless applicant holds authorisation
+If this Act or a regional coastal plan provides for space in the coastal marine area to be allocated by tender of authorisations or other allocation of authorisations, a person must not apply for, and a consent authority must not grant, a coastal permit authorising occupation of a space in a coastal marine area unless the person is the holder of an authorisation for the space.

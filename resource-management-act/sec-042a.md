@@ -1,0 +1,5 @@
+# 42A Reports to local authority
+(1) At any reasonable time before a hearing or, if no hearing is to be held, before the decision is made, a local authority may require an officer of a local authority as defined in section 42(6), or may commission a consultant or any other person employed for the purpose, to prepare a report on information provided on any matter described in section 39(1) by the applicant or any person who made a submission.
+(2) Any report prepared under subsection (1) may be considered at any hearing conducted by the local authority.
+(3) A copy of any written report prepared under subsection (1) shall be sent, so that it is received at least 5 working days before the hearing, to the applicant and any person who made a submission and stated they wished to be heard at the hearing.
+(4) The local authority may waive compliance with subsection (3) if it is satisfied that there is no material prejudice, or is not aware of any material prejudice, to any person who should have been sent a copy of the report under subsection (3).

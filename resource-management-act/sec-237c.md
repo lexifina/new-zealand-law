@@ -1,0 +1,3 @@
+# 237C Closure of strips to public
+(1) An esplanade strip or access strip may be closed to the public for the times and periods specified in the instrument or easement under Schedule 10, or by the local authority during periods of emergency or public risk likely to cause loss of life, injury, or serious damage to property.
+(2) The local authority shall ensure, where practicable, that any closure specified in the instrument or easement, or any closure for safety or emergency reasons, is adequately notified (including notification that it is an offence to enter the strip during the period of closure) to the public by signs erected at all entry points to the strip, unless the instrument or easement provides that another person is responsible for such notification.

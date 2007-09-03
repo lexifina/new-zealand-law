@@ -1,0 +1,10 @@
+# 10B Certain existing building works allowed
+(1) Land may be used in a manner that contravenes a rule in a district plan or proposed district plan if the use of land is a building work or intended use of a building (as defined in section 7 of the Building Act 2004) which is deemed to be lawfully established in accordance with subsection (2).
+(2) Subject to subsection (3), the building work or intended use of the building shall be deemed to be lawfully established if—
+(a) A building consent was issued and any amendments were incorporated in the building consent in accordance with the Building Act 2004 for the building work or intended use of the building before the rule in a district plan or proposed district plan was notified; and
+(b) The building work or intended use of the building, as stated on the building consent, would not, at the time the building consent was issued and any amendments were incorporated, have contravened a rule in a district plan or proposed district plan or otherwise could have been carried out without a resource consent.
+(3) Subsection (2) shall not apply if—
+(a) The building consent is amended (after the rule in the district plan or proposed plan has been notified) in such a way that the effects of the building work or intended use of a building will no longer be the same or similar in character, intensity, and scale as before the amendment; or
+(b) The building consent has lapsed or is cancelled, but the issuing under the Building Act 2004 of a code compliance certificate in respect of the building work shall not, for the purposes of this section, be deemed to have cancelled the building consent for that work; or
+(c) A code compliance certificate for the building work has not been issued in accordance with the Building Act 2004 within 2 years after the rule in the district plan or proposed district plan was notified or within such further period as the territorial authority may allow upon being satisfied that reasonable progress has been made towards completion of the building work within that 2-year period.
+(4) Subsections 10(4), (5), and (6) shall apply to this section.

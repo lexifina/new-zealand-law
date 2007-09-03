@@ -1,0 +1,4 @@
+# 165ZB Acceptance of request or part of request for change
+(1) If the regional council accepts the request under clause 25(2)(b) of Schedule 1, the council must specify that the person or persons who requested the change are to receive an authorisation under section 165ZF for 80% of the available space in the aquaculture management area.
+(2) Schedule 1A applies to a request adopted and combined with another request under section 165ZA and clause 25(2)(a) of Schedule 1 or accepted under clause 25(2)(b) as if the reference to the regional council in clause 2 of Schedule 1A were a reference to the person who requested the change.
+(3) Sections 186D and 186E of the Fisheries Act 1996 apply to a request adopted and combined with another request under section 165ZA and clause 25(2)(a) of Schedule 1 or accepted under clause 25(2)(b) of Schedule 1 as if the reference to the regional council were a reference to the person who requested the change.

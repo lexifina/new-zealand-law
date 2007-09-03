@@ -1,0 +1,2 @@
+# 382A Return of property seized under Noise Control Act 1982
+Any property seized and impounded under the provisions of section 7 or section 11 of the Noise Control Act 1982 which has not been returned to the owner, or person from whom it was seized, at the date of commencement of this Act shall be deemed to be property seized under section 328; and the provisions of this Act shall apply accordingly.
