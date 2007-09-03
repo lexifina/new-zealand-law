@@ -1,0 +1,2 @@
+# 18B Duty to consider consulting person if request likely to be refused under section 18(e) or (f)
+If a request is likely to be refused under section 18(e) or (f), the Department, Minister of the Crown, or organisation must, before that request is refused, consider whether consulting with the person who made the request would assist that person to make the request in a form that would remove the reason for the refusal.
