@@ -85,6 +85,11 @@ and, where the award is remitted under paragraph (b), the arbitral tribunal shal
 (9) For the purposes of article 36 of Schedule 1,—
 (a) An appeal under this clause shall be treated as an application for the setting aside of an award; and
 (b) An award which has been remitted by the High Court under subclause (4)(b) to the original or a new arbitral tribunal shall be treated as an award which has been suspended.
+(10) For the purposes of this clause, question of law—
+(a) includes an error of law that involves an incorrect interpretation of the applicable law (whether or not the error appears on the record of the decision); but
+(b) does not include any question as to whether—
+(i) the award or any part of the award was supported by any evidence or any sufficient or substantial evidence; and
+(ii) the arbitral tribunal drew the correct factual inferences from the relevant primary facts.
 6 Costs and expenses of an arbitration
 (1) Unless the parties agree otherwise,—
 (a) The costs and expenses of an arbitration, being the legal and other expenses of the parties, the fees and expenses of the arbitral tribunal, and any other expenses related to the arbitration shall be as fixed and allocated by the arbitral tribunal in its award under article 31 of Schedule 1, or any additional award under article 33(3) of Schedule 1; or

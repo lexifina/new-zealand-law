@@ -19,6 +19,7 @@ General provisions
 For the purposes of this Schedule,—
 (a) Arbitration, arbitration agreement, arbitral tribunal, and award have the meanings assigned to those terms by section 2:
 (b) Court means a body or organ of the judicial system of a State:
+(ba) interim measure has the meaning given to it by article 17:
 (c) Where a provision of this Schedule, except article 28, leaves the parties free to determine a certain issue, such freedom includes the right of the parties to authorise a third party, including an institution, to make that determination:
 (d) Where a provision of this Schedule refers to the fact that the parties have agreed or that they may agree or in any other way refers to an agreement of the parties, such agreement includes any arbitration rules referred to in that agreement:
 (e) Where a provision of this Schedule, other than in articles 25(a) and 32(2)(a), refers to a claim, it also applies to a counter-claim, and where it refers to a defence, it also applies to a defence to such counter-claim:
@@ -43,13 +44,8 @@ Arbitration agreement
 (1) A court before which proceedings are brought in a matter which is the subject of an arbitration agreement shall, if a party so requests not later than when submitting that party's first statement on the substance of the dispute, stay those proceedings and refer the parties to arbitration unless it finds that the agreement is null and void, inoperative, or incapable of being performed, or that there is not in fact any dispute between the parties with regard to the matters agreed to be referred.
 (2) Where proceedings referred to in paragraph (1) have been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court.
 9 Arbitration agreement and interim measures by court
-(1) It is not incompatible with an arbitration agreement for a party to request, before or during arbitral proceedings, from a court an interim measure of protection and for a court to grant such measure.
-(2) For the purposes of paragraph (1), the High Court or a District Court shall have the same power as it has for the purposes of proceedings before that court to make—
-(a) Orders for the preservation, interim custody, or sale of any goods which are the subject-matter of the dispute; or
-(b) An order securing the amount in dispute; or
-(c) An order appointing a receiver; or
-(d) Any other orders to ensure that any award which may be made in the arbitral proceedings is not rendered ineffectual by the dissipation of assets by the other party; or
-(e) An interim injunction or other interim order.
+(1) It is not incompatible with an arbitration agreement for a party to request, before or during arbitral proceedings, from a court an interim measure and for a court to grant such measure.
+(2) For the purposes of paragraph (1), the High Court or a District Court has the same powers as an arbitral tribunal to grant an interim measure under article 17A for the purposes of proceedings before that Court, and that article and article 17B apply accordingly subject to all necessary modifications.
 (3) Where a party applies to a court for an interim injunction or other interim order and an arbitral tribunal has already ruled on any matter relevant to the application, the court shall treat the ruling or any finding of fact made in the course of the ruling as conclusive for the purposes of the application.
 3
 Composition of arbitral tribunal
@@ -96,9 +92,97 @@ Jurisdiction of arbitral tribunal
 (1) The arbitral tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement. For that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure (necessarily) the invalidity of the arbitration clause.
 (2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence. A party is not precluded from raising such a plea by the fact that that party has appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.
 (3) The arbitral tribunal may rule on a plea referred to in paragraph (2) either as a preliminary question or in an award on the merits. If the arbitral tribunal rules on such a plea as a preliminary question, any party may request, within 30 days after having received notice of that ruling, the High Court to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
-17 Power of arbitral tribunal to order interim measures
-(1) Unless otherwise agreed by the parties, the arbitral tribunal may, at the request of a party, order any party to take such interim measure of protection as the arbitral tribunal may consider necessary in respect of the subject-matter of the dispute. The arbitral tribunal may require any party to provide appropriate security in connection with such measure.
-(2) Unless otherwise agreed by the parties, articles 35 and 36 apply to orders made by an arbitral tribunal under this article as if a reference in those articles to an award were a reference to such an order.
+4A
+Interim measures and preliminary orders
+Preliminary
+17 Interpretation
+In this Chapter, unless the context otherwise requires,—
+applicant means any of the following, as the case may be
+(a) a party who requests an interim measure:
+(b) a party who applies for a preliminary order:
+(c) a party who seeks or obtains recognition or enforcement of an interim measure
+Court, in articles 17L and 17M, has the meaning given to it by article 35(3)
+interim measure means a temporary measure (whether or not in the form of an award) by which a party is required, at any time before an award is made in relation to a dispute, to do all or any of the following
+(a) maintain or restore the status quo pending the determination of the dispute:
+(b) take action that would prevent, or refrain from taking action that is likely to cause, current or imminent harm or prejudice to the arbitral proceedings:
+(c) provide a means of preserving assets out of which a subsequent award may be satisfied:
+(d) preserve evidence that may be relevant and material to the resolution of the dispute:
+(e) give security for costs
+preliminary order means an order directing a party not to frustrate the purpose of an interim measure
+respondent means any of the following, as the case may be
+(a) a party against whom an interim measure is requested or directed:
+(b) a party against whom a preliminary order is applied for or directed:
+(c) a party against whom recognition or enforcement of an interim measure is sought or has been obtained.
+Interim measures
+17A Power of arbitral tribunal to grant interim measure
+Unless otherwise agreed by the parties, the arbitral tribunal may, at the request of a party, grant an interim measure.
+17B Conditions for granting interim measure
+(1) If an interim measure of a kind described in subparagraph (a), (b), or (c) of the definition of that term in article 17 is requested, the applicant must satisfy the arbitral tribunal that—
+(a) harm not adequately reparable by an award of damages is likely to result if the measure is not granted; and
+(b) the harm substantially outweighs the harm that is likely to result to the respondent if the measure is granted; and
+(c) there is a reasonable possibility that the applicant will succeed on the merits of the claim.
+(2) If an interim measure of a kind described in subparagraph (d) of the definition of that term in article 17 is requested, the applicant must satisfy the arbitral tribunal of the matters specified in paragraph (1)(a) to (c), but only to the extent that the arbitral tribunal considers appropriate.
+(3) If an interim measure of a kind described in subparagraph (e) of the definition of that term in article 17 is requested, the applicant must satisfy the arbitral tribunal that the applicant will be able to pay the costs of the respondent if the applicant is unsuccessful on the merits of the claim.
+(4) A determination by the arbitral tribunal on the matter specified in paragraph (1)(c) does not affect its discretion to make any subsequent determination.
+Preliminary orders
+17C Power of arbitral tribunal to issue preliminary order
+Unless otherwise agreed by the parties, a party may, without notice to any other party, apply for a preliminary order when making a request for an interim measure to be granted under article 17A.
+17D Conditions for issuing preliminary order
+(1) The arbitral tribunal may issue a preliminary order if it considers that prior disclosure of the request for the interim measure to the respondent risks frustrating the purpose of the measure.
+(2) An applicant for a preliminary order must satisfy the arbitral tribunal of the matters specified in article 17B. That article applies to a preliminary order subject to—
+(a) the modification that the harm to be assessed under article 17B(1)(a) is the harm likely to result from the order being issued or not; and
+(b) all other necessary modifications.
+17E Procedure for preliminary order
+(1) Immediately after the arbitral tribunal makes a determination in respect of an application for a preliminary order, it must—
+(a) give notice to all the parties of—
+(i) the request for the interim measure; and
+(ii) the application for the preliminary order; and
+(iii) the preliminary order issued by the arbitral tribunal (if any); and
+(iv) all other communications (whether oral or written) between a party and the arbitral tribunal in relation to the matters specified in subparagraph (a)(i) to (iii); and
+(b) give an opportunity to each respondent to present the respondent's case at the earliest practicable time.
+(2) The arbitral tribunal must decide promptly on any objection to the preliminary order.
+17F Duration of preliminary order
+(1) A preliminary order expires 20 days after the date on which it was issued by the arbitral tribunal.
+(2) However, the arbitral tribunal may grant an interim measure adopting or modifying the preliminary order, after each respondent has been given—
+(a) notice under article 17E(1); and
+(b) an opportunity to present the respondent's case.
+17G Effect of preliminary order
+(1) A preliminary order is binding on the parties but is not enforceable by a court.
+(2) A preliminary order does not constitute an award.
+Supplementary provisions for interim measures and preliminary orders
+17H Modification, suspension, and cancellation
+If the arbitral tribunal grants or issues an interim measure or a preliminary order, it may modify, suspend, or cancel the measure or order—
+(a) on the application of a party; or
+(b) on its own initiative, but only in exceptional circumstances and after giving prior notice to the parties.
+17I Provision of security
+(1) The arbitral tribunal may require the applicant for an interim measure to provide appropriate security in connection with the measure.
+(2) The arbitral tribunal must require the applicant for a preliminary order to provide appropriate security in connection with the order unless it considers it inappropriate or unnecessary to do so.
+17J Disclosure of material circumstances
+(1) The arbitral tribunal may require a party to promptly disclose to the arbitral tribunal a material change in the circumstances upon which an interim measure was requested or granted.
+(2) The applicant for a preliminary order must disclose to the arbitral tribunal all circumstances that are likely to be relevant to the arbitral tribunal's determination as to whether to issue or extend the order.
+(3) The obligation in paragraph (2) continues until each respondent has had an opportunity to present the respondent's case, after which paragraph (1) applies.
+17K Costs and damages
+(1) An applicant for an interim measure or a preliminary order is liable for any costs and damages caused to any party by the measure or order if the arbitral tribunal later determines that, in the circumstances, the measure or order should not have been granted or issued.
+(2) The arbitral tribunal may award those costs and damages at any time during the arbitral proceedings.
+Recognition and enforcement of interim measures
+17L Recognition and enforcement
+(1) An interim measure granted by an arbitral tribunal must be recognised as binding and, unless otherwise provided by the arbitral tribunal, enforced upon application to the competent Court, irrespective of the country in which it was granted.
+(2) Paragraph (1) is subject to article 17M
+(3) The applicant for recognition or enforcement of an interim measure under article 35 must promptly inform the Court of any modification, suspension, or cancellation of that interim measure.
+(4) The Court may, if it considers it proper, order the applicant to provide appropriate security if—
+(a) the arbitral tribunal has not already made a decision with respect to the provision of security; or
+(b) the decision with respect to the provision of security is necessary to protect the rights of third parties.
+17M Grounds for refusing recognition or enforcement
+(1) Recognition or enforcement of an interim measure may be refused only—
+(a) at the request of the respondent if the Court is satisfied that—
+(i) the refusal is warranted on the grounds set out in article 36(1)(a)(i), (ii), or (iv); or
+(ii) the arbitral tribunal's decision with respect to the provision of security in connection with the interim measure granted by it has not been complied with; or
+(iii) the interim measure has been suspended or cancelled by the arbitral tribunal or, if so empowered, by the Court of the country in which the arbitration took place or under the law of which that interim measure was granted; or
+(b) if the Court finds that—
+(i) the interim measure is incompatible with the powers conferred on the Court, unless the Court decides to reformulate the interim measure to the extent necessary to adapt it to its own powers and procedures for the purposes of enforcing that interim measure and without modifying its substance; or
+(ii) any of the grounds set out in article 36(1)(b) apply to the recognition and enforcement of the interim measure.
+(2) A determination made by the Court on any ground in paragraph (1) is effective only for the purposes of the application to recognise and enforce the interim measure.
+(3) The Court must not, in making that determination, undertake a review of the substance of the interim measure.
 5
 Conduct of arbitral proceedings
 18 Equal treatment of parties
@@ -203,8 +287,16 @@ Recourse against award
 8
 Recognition and enforcement of awards
 35 Recognition and enforcement
-(1) An arbitral award, irrespective of the country in which it was made, shall be recognised as binding and, upon application in writing to the High Court, shall be enforced by entry as a judgment in terms of the award, or by action, subject to the provisions of this article and of article 36.
-(2) The party relying on an award or applying for its enforcement shall supply the duly authenticated original award or a duly certified copy and, if recorded in writing, the original arbitration agreement or a duly certified copy. If the award or agreement is not made in the English language, the party shall supply a duly certified translation into the English language.
+(1) An arbitral award, irrespective of the country in which it was made,—
+(a) must be recognised as binding; and
+(b) on application in writing to a Court, must be enforced by entry as a judgment in terms of the award, or by action, subject to the provisions of this article and of article 36.
+(2) The party relying on an award or applying for its enforcement must supply—
+(a) the duly authenticated original award or a duly certified copy of the award; and
+(b) if the arbitration agreement is recorded in writing, the original arbitration agreement or a duly certified copy of the agreement; and
+(c) if the award or agreement is not made in the English language, a duly certified translation into the English language of either or both documents.
+(3) For the purposes of this article, Court means—
+(a) the High Court; or
+(b) a District Court in any case where the amount of any money made payable by the award does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases.
 36 Grounds for refusing recognition or enforcement
 (1) Recognition or enforcement of an arbitral award, irrespective of the country in which it was made, may be refused only—
 (a) At the request of the party against whom it is invoked, if that party furnishes to the court where recognition or enforcement is sought proof that—
