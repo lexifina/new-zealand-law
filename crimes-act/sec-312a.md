@@ -31,7 +31,7 @@ Specified offence means any of the following offences
 (d) an offence punishable under section 223(b) (theft of an object exceeding $1,000 in value):
 (e) an offence against section 243 (which relates to money laundering):
 (f) an offence punishable under section 247 (which relates to receiving property dishonestly obtained).
-terrorist offence means an offence against any of sections 7, 8, 9, 10, 12, 13, and 13A of the Terrorism Suppression Act 2002.
+terrorist offence means an offence against any of sections 6A to 13E of the Terrorism Suppression Act 2002.
 (2) A reference in this Part to a party to a private communication is a reference to—
 (a) Any originator of the communication and any person intended by the originator to receive it; and
 (b) A person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
