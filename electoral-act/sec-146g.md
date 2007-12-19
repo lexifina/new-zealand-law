@@ -4,6 +4,9 @@
 (b) if the intention to lodge the schedule has not been notified under section 146B; or
 (c) if the schedule is not lodged with the Chief Electoral Officer by noon on the day before nomination day; or
 (d) if the schedule does not contain the declaration required by section 146E(2); or
+(da) if the schedule is lodged by a party that—
+(i) is listed as a third party under section 18 of the Electoral Finance Act 2007; or
+(ii) has submitted a non-contest declaration under section 15(4) of the Electoral Finance Act 2007 and is awaiting a decision on whether it is to be listed as a third party; or
 (e) if the deposit required by section 146F(1) is not paid by noon on the day before nomination day.
 (2) The Chief Electoral Officer must not accept the nomination of a candidate listed on a bulk nomination schedule in any case where a Returning Officer would be required to reject the nomination of that candidate under section 145(2) if the candidate had been nominated under section 143; and the provisions of subsections (2) to (5) of section 145 apply accordingly with all necessary modifications.
 (3) The Chief Electoral Officer must reject the nomination of a candidate listed on a bulk nomination schedule if—

@@ -1,7 +1,7 @@
 # Schedule 1 Provisions relating to Electoral Commission
 Section 14
 1 Conflict of interest disclosure rules do not apply to additional members who hold office for purposes of jurisdiction under Part 6 of Broadcasting Act 1989
-Sections 62 to 72 of the Crown Entities Act 2004 do not apply to a member of the Electoral Commission appointed under section 8(4)(b).
+[Repealed]
 2 Travelling allowances and expenses
 [Repealed]
 2A Meetings of Commission
