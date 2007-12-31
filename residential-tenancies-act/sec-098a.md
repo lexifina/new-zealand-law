@@ -1,0 +1,3 @@
+# 98A Other witness expenses
+(1) The Tribunal may order that a witness attending a hearing of the Tribunal (other than a witness attending pursuant to a witness summons) shall be entitled to a sum for that witness's travelling allowances, travelling expenses, and fees as prescribed by any rules made under section 116 of this Act.
+(2) The allowances, travelling expenses, and fees payable to a witness pursuant to subsection (1) of this section shall be paid by such party or parties to the proceedings as the Tribunal shall order or, if the Tribunal so decides, shall be met from any appropriation by Parliament for that purpose.

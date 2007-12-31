@@ -1,0 +1,3 @@
+# 21A Notification of changes of address to chief executive
+(1) Where a bond is being held in the Residential Tenancies Trust Account in respect of a tenancy agreement and the landlord or tenant changes his or her name or contact address or address for service, the landlord or the tenant, as the case may be, shall, within 10 working days thereafter, cause notice of the new particulars to be sent to the chief executive.
+(2) Where a bond is being held in the Residential Tenancies Trust Account in respect of a tenancy agreement and the landlord's or the tenant's interest under the tenancy agreement passes to some other person, that other person shall, within 10 working days thereafter, cause notice of the new particulars to be sent to the chief executive.
