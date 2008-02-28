@@ -1,0 +1,2 @@
+# 239AX Disclosure of voting arrangements
+The administrator and the directors of the company under administration must, before the meeting votes on any resolution, inform the meeting of any voting arrangement of which the administrator or a director, as the case may be, is aware that requires 1 or more creditors to vote in a particular way on any resolution that will or may be voted on by the meeting.

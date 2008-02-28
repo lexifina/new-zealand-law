@@ -1,0 +1,2 @@
+# 310I Set-off under netting agreement not affected by notice under section 294
+The filing of a notice under section 294 in respect of any transaction that is subject to a netting agreement does not affect the operation of section 310C in respect of the transaction, and that section continues to apply to the transaction until the transaction is set aside under subsection (3) or subsection (4) of section 294.

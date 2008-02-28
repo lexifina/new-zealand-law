@@ -1,0 +1,2 @@
+# 316A Transitional provision in relation to voidable transactions
+Where an existing company that reregisters as a company under this Act is put into liquidation, nothing in sections 292 to 299 of this Act shall apply in relation to any transaction entered into by the company before the commencement of this Act; but sections 309, 310, 311, 311A, 311B and 311C of the Companies Act 1955, as in force immediately before the commencement of this Act, shall continue to apply in respect of the transaction or matter as if this Act had not been passed.
