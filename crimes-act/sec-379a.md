@@ -13,6 +13,7 @@
 (e) Against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
 (f) Against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section.
 (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross examination of a complainant, or against the refusal to make such an order.
+(ga) against the making of an order under section 378A for a person to be retried or against the refusal to make such an order:
 (2) At any time before the trial, the accused person, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court—
 (a) Against the making of an order under subsection (1) of section 322 of this Act, or against the imposition by a Judge of any condition under subsection (3) of that section:
 (b) Against a refusal to make an order under the proviso to section 331 of this Act.
