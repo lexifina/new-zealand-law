@@ -1,0 +1,6 @@
+# 80ZF Application of Injury Prevention, Rehabilitation, and Compensation Act 2001 to persons serving home detention sentence
+When an offender performs any service or does any work or attends any assessment, course, or programme for the purposes of a home detention sentence, the following provisions apply:
+(a) if the offender suffers any personal injury for which he or she has cover under the Injury Prevention, Rehabilitation, and Compensation Act 2001 arising out of and in the course of performing the activities described above,—
+(i) the personal injury is deemed, for the purposes of section 97 of that Act only, to be a work-related personal injury; and
+(ii) the Crown is liable to pay compensation to which the offender is entitled under that section:
+(b) the cost of all other entitlements of the offender under that Act must be met from the Earners' Account in the case of an offender who is an earner and from the Non-Earners' Account in all other cases.

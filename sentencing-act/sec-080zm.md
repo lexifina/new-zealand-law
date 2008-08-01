@@ -1,0 +1,4 @@
+# 80ZM Procedure if possible grounds for variation or cancellation of sentence exist
+(1) If, after hearing from the offender and the probation officer, the Judge considers that there may be grounds for variation or cancellation of the sentence of intensive supervision or home detention, he or she may request submissions on whether the sentence should be varied or cancelled.
+(2) If the Judge requests further submissions under subsection (1), he or she must set the matter down for a hearing.
+(3) After hearing submissions on whether the sentence should be varied or cancelled at the hearing, the Judge may vary or cancel the sentence of intensive supervision or home detention in accordance with section 54K or 80F (whichever is applicable) as if an application had been made under either of those sections.

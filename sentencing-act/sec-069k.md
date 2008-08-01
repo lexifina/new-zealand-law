@@ -1,0 +1,6 @@
+# 69K Alternative curfew address pending determination of application under section 69I
+(1) This section applies if a probation officer or an offender who is subject to a sentence of community detention intends to apply, or has applied, for a variation of conditions under section 69I on the ground specified in section 69I(1)(b) (which relates to the offender's curfew address).
+(2) A probation officer may approve an alternative curfew address at which the offender must remain during the curfew period pending the determination of an application.
+(3) If a probation officer approves an alternative curfew address before an application under section 69I has been made, the probation officer must make an application to the court under that section within 5 working days.
+(4) Subsection (3) does not apply if an offender makes an application under section 69I within the 5-day period specified in subsection (3).
+(5) If, in the opinion of the probation officer, there is no suitable alternative curfew address available and the probation officer has not made an application under section 69I, the probation officer must make an application to the court under that section at the earliest opportunity.
