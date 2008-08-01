@@ -1,0 +1,3 @@
+# 99A Vesting by statute
+Where by any enactment any estate or interest under this Act is vested in any person, then, subject to the provisions of that enactment, the Registrar, on application made to him by that person and on the registration or deposit of such documents and plans as the Registrar may require, shall make such entries in the register and generally do all such things as may be necessary to give full effect to the provisions of the enactment:
+Provided that where the enactment specifies the estate or interest vested by a description sufficient to identify it in the records of the Registrar, no such application shall be necessary.
