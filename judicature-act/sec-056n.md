@@ -1,0 +1,2 @@
+# 56N Orders made by Federal Court of Australia not subject to review
+No application for review under Part 1 of the Judicature Amendment Act 1972 and no application for an order of mandamus or prohibition or certiorari or for a declaration or injunction may be brought in respect of any judgment or order or determination of the Federal Court made or given at a sitting of that Court in New Zealand in an Australian proceeding.

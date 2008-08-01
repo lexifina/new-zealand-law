@@ -1,0 +1,3 @@
+# 24G Restriction of right of appeal from interlocutory decisions
+(1) No appeal shall lie from an interlocutory decision of the High Court in respect of any proceeding entered on a commercial list unless leave to appeal to the Court of Appeal is given by the High Court on application made within 7 days of the decision being given or within such further time as the High Court may allow.
+(2) If the High Court refuses leave to appeal from any such interlocutory decision, the Court of Appeal may grant that leave on application made to the Court of Appeal within 21 days of the refusal of leave by the High Court.

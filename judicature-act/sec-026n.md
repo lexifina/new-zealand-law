@@ -1,0 +1,6 @@
+# 26N Transfer of proceedings from Associate Judge to Judge
+(1) In any proceedings before an Associate Judge, an Associate Judge may, on the application of any party to the proceedings, or of the Associate Judge's own motion, refer the proceedings or any matter arising therein to a Judge if the Associate Judge is satisfied that because of the complexity of the proceedings or of that matter, or of any question in issue in the proceedings, it is expedient that the proceedings or that matter be referred to a Judge.
+(2) Where any proceedings are to be dealt with or are being dealt with by an Associate Judge, a Judge may, at any time before the conclusion of those proceedings, on application made on notice by any party to the proceedings, order that the proceedings or any part thereof be transferred to a Judge if that Judge is satisfied that it is desirable that the proceedings or that part thereof be dealt with by a Judge.
+(3) Upon the reference of any proceedings, or any matter arising therein, to a Judge under subsection (1) of this section, or the transfer of any proceedings or any part thereof to a Judge under subsection (2) of this section, the Judge may
+(a) Dispose of the proceedings; or
+(b) Refer the proceedings or the matter back to the Associate Judge with such directions as the Judge thinks fit.
