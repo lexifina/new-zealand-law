@@ -8,7 +8,8 @@ Section 124
 (1) Written notice of the time and place of a meeting of shareholders must be sent to every shareholder entitled to receive notice of the meeting and to every director and an auditor of the company not less than 10 working days before the meeting.
 (2) The notice must state—
 (a) The nature of the business to be transacted at the meeting in sufficient detail to enable a shareholder to form a reasoned judgment in relation to it; and
-(b) The text of any special resolution to be submitted to the meeting.
+(b) The text of any special resolution to be submitted to the meeting; and
+(c) in the case of special resolutions required by section 106(1)(a) or (b), the right of a shareholder under section 110.
 (3) An irregularity in a notice of a meeting is waived if all the shareholders entitled to attend and vote at the meeting attend the meeting without protest as to the irregularity, or if all such shareholders agree to the waiver.
 (3A) Subject to the constitution of the company, the accidental omission to give notice of a meeting to, or the failure to receive notice of a meeting by, a shareholder does not invalidate the proceedings at that meeting.
 (4) Subject to the constitution of the company, if a meeting of shareholders is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
