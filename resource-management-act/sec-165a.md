@@ -9,7 +9,7 @@ available space, in relation to an aquaculture management area,—
 (iii) a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 that authorises occupation of the space; or
 (iv) an application for a coastal permit to occupy space in a coastal marine area for aquaculture activities; or
 (v) a lease or licence under the Marine Farming Act 1971 until the lease or licence becomes a deemed coastal permit under section 10 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
-(vi) a coastal permit, or an application for a coastal permit, to occupy space in an aquaculture management area for activities that are not aquaculture activities; and
+(vi) a coastal permit to occupy space in an aquaculture management area for activities that are not aquaculture activities if the activities authorised by the coastal permit are not compatible with aquaculture activities; and
 (b) does not include an actual space (as defined in section 53(12) of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004)
 chief executive means the chief executive of the Ministry of Fisheries
 Minister means the Minister of Conservation

@@ -16,8 +16,4 @@
 (2) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area must include provisions to ensure that an aquaculture management area is principally for aquaculture activities.
 (3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 (4) A regional coastal plan or proposed regional coastal plan that provides for aquaculture management areas must be prepared in the manner set out in Schedule 1A.
-(5) To avoid doubt,—
-(a) subsections (2) and (4)—
-(i) do not apply to a proposed regional coastal plan notified under clause 5 of Schedule 1 before the commencement of this Part; but
-(ii) do apply to a variation to a proposed regional coastal plan referred to in subparagraph (i) if the variation is notified on or after the commencement of this Part:
-(b) this section applies subject to section 12A.
+(5) [Repealed]
