@@ -9,4 +9,5 @@ Ngati Tama Claims Settlement Act 2003
 Ngati Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005.
 Pouakani Claims Settlement Act 2000.
 Te Arawa Lakes Settlement Act 2006
+Te Roroa Claims Settlement Act 2008.
 Te Uri o Hau Claims Settlement Act 2002
