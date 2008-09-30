@@ -1,5 +1,5 @@
 # 317B Road blocks
-(1) Where any senior member of the Police (holding a rank not lower than sergeant) has reasonable grounds to suspect that there is in or on any vehicle any person who—
+(1) Where any senior member of the Police (holding a level of position not lower than sergeant) has reasonable grounds to suspect that there is in or on any vehicle any person who—
 (a) Has committed an offence punishable by a term of imprisonment of 7 years or more; or
 (b) Is unlawfully at large,—
 that senior member of the Police may authorise the establishment of a road block for the purpose of arresting that person if he or she—
