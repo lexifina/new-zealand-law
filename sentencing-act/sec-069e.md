@@ -5,7 +5,7 @@
 (ii) the offender is under the supervision of a probation officer and must co-operate with the probation officer and comply with any lawful direction given by that probation officer:
 (b) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 24 hours, after the sentence is imposed, unless the 24 hours elapses on a weekend or a public holiday, in which case the offender must report on the next working day:
 (c) the offender must report to a probation officer as and when required to do so by the probation officer, and must notify the probation officer of his or her residential address, any change to that address, and the nature and place of his or her employment when asked to do so:
-(d) the offender must keep in his or her possession the curfew order drawn up under section 74 and, if requested to do so by a member of the police or a probation officer, must produce the order for inspection:
+(d) the offender must keep in his or her possession the curfew order drawn up under section 74 and, if requested to do so by a constable or a probation officer, must produce the order for inspection:
 (e) the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with the conditions of his or her sentence, which may require the offender to be connected to electronic monitoring equipment throughout the sentence term and not just throughout the curfew period.
 (2) An offender may leave the curfew address during the curfew period only—
 (a) to seek urgent medical or dental treatment; or
