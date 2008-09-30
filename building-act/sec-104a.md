@@ -1,0 +1,2 @@
+# 104A Territorial authority must issue statement in relation to compliance schedule
+A territorial authority that receives a copy under section 104 of a compliance schedule must, within 5 working days after receiving the compliance schedule, provide the owner of the building for which the compliance schedule was issued with the statement in relation to the compliance schedule described in section 105(e).
