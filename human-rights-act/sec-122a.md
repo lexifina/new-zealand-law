@@ -1,0 +1,12 @@
+# 122A Removal to High Court of proceedings or issue
+(1) The Tribunal may, with the leave of the High Court, order that proceedings before it under this Act, or a matter at issue in them, be removed to the High Court for determination.
+(2) The Tribunal may make an order under this section, with the leave of the High Court, before or during the hearing, and either on the application of a party to the proceedings or on its own initiative, but only if—
+(a) an important question of law is likely to arise in the proceedings or matter other than incidentally; or
+(b) the validity of any regulation is questioned in proceedings before the Tribunal (whether on the ground that it authorises or requires unjustifiable discrimination in circumstances where the statutory provision purportedly empowering the making of the regulation does not authorise the making of a regulation authorising or requiring unjustified discrimination, or otherwise); or
+(c) the nature and the urgency of the proceedings or matter mean that it is in the public interest that they or it be removed immediately to the High Court; or
+(d) the High Court already has before it other proceedings, or other matters, that are between the same parties and involve issues that are the same as, or similar or related to, those raised by the proceedings or matter; or
+(e) the Tribunal is of the opinion that, in all the circumstances, the High Court should determine the proceedings or matter.
+(3) Despite subsection (2), if the validity of any regulation is questioned in proceedings before the Tribunal and the leave of the High Court is obtained for the making of an order under this section, the Tribunal must make an order under this section.
+(4) If the Tribunal declines to remove proceedings, or a matter at issue in them, to the High Court (whether as a result of the refusal of the High Court to grant leave or otherwise), the party applying for the removal may seek the special leave of the High Court for an order of the High Court that the proceedings or matter be removed to the High Court and, in determining whether to grant an order of that kind, the High Court must apply the criteria stated in subsection (2)(a) to (d).
+(5) An order for removal to the High Court under this section may be made subject to any conditions the Tribunal or the High Court, as the case may be, thinks fit.
+(6) Nothing in this section limits section 122.

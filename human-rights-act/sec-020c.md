@@ -1,0 +1,4 @@
+# 20C Appointment of Judge as Human Rights Commissioner
+(1) The appointment of a Judge as a Commissioner or alternate Commissioner or service by a Judge as a Commissioner or alternate Commissioner does not affect his or her tenure of judicial office or his or her rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation), and, for all purposes, his or her service as a Commissioner or alternate Commissioner must be taken to be service as a Judge.
+(2) A Judge who is for the time being holding office as a Commissioner may, at any time, decline to participate in, or withdraw from participation in, any particular function or activity of the Commission if the Judge considers it incompatible with his or her judicial office.
+Compare: 1977 No 49 ss 7(5A), 7A; 1983 No 56 ss 4(3), 5; 1985 No 23 s 3(1)
