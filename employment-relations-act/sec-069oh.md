@@ -1,0 +1,2 @@
+# 69OH Object of this subpart
+The object of this subpart is to provide protection to employees to whom subpart 1 does not apply if, as a result of a restructuring, their work is to be performed by or on behalf of another person and, to this end, to require their employment agreements to contain employee protection provisions relating to negotiations between the employer and the other person about the transfer of affected employees to the other person.
