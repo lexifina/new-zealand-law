@@ -1,0 +1,2 @@
+# 86A Interim services orders
+Where an application is made to the Court for a declaration under section 67 of this Act in relation to a child or young person, the Court may, on application by the applicant, or a barrister or solicitor representing the child or young person, or of its own motion, make such an order as it is empowered to make under section 86 of this Act pending the determination of the application.
