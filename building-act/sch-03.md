@@ -1,5 +1,49 @@
 # Schedule 3 Further provisions applying to Board
 s 346
+Contents
+Members' appointment
+1 Method of appointment
+2 Qualifications of members
+3 Term of appointment
+4 Validity of members' acts
+5 Position where concurrent office
+Resignation and removal of members
+6 Resignation
+7 Removal from office
+8 No compensation for ceasing to hold office
+9 Members ceasing to hold office
+Vacancies in membership of Board
+10 Position where vacancy in membership
+11 Effect of vacancy in membership
+Duties of members
+12 Accountability for duties
+13 Duties of members
+14 Collective duties of Board
+Disclosure of interests of members in matters of Board
+15 Meaning of interested
+16 Obligation to disclose interest
+17 Method of disclosure of interest
+18 Consequences of interest
+Confidentiality of information
+19 Confidentiality of information
+Liability of Board and others
+20 Liability of Board and others
+Members' remuneration and allowances
+21 Members' remuneration and allowances
+Chairperson and deputy chairperson
+22 Appointment
+23 Term of appointment
+24 Resignation
+25 Removal
+26 Performance and exercise of chairperson's functions, duties, and powers during vacancy
+Procedures of Board
+27 Procedure generally
+28 Notice of meetings
+29 Methods of holding meetings
+30 Quorum
+31 Presiding at meetings
+32 Voting at meetings
+33 Unanimous written resolutions
 Members' appointment
 1 Method of appointment
 (1) The Governor-General appoints a member by sending written notice to the member (with a copy to the Board).
@@ -59,7 +103,7 @@ Vacancies in membership of Board
 The powers and functions of the Board are not affected by any vacancy in its membership.
 Duties of members
 12 Accountability for duties
-(1) The duties of members of the Board under this Schedule are duties owed to the Minister, and do not provide any ground of action for any other person.
+(1) The duties of members of the Board under this schedule are duties owed to the Minister, and do not provide any ground of action for any other person.
 (2) If the Board breaches any of its duties under clause 14,—
 (a) each member of the Board is accountable to the Minister for the breach; and
 (b) that breach justifies all or any of the members being removed from office.
@@ -70,7 +114,7 @@ A member, when acting as a member, must act—
 (c) with honesty and integrity; and
 (d) in accordance with any statement of expectations as to standards of good conduct for members of statutory bodies issued by 1 or more Ministers of the Crown that applies to statutory bodies (or classes of them) generally.
 14 Collective duties of Board
-The Board must——
+The Board must—
 (a) not contravene this Act; and
 (b) act in a manner consistent with the objectives and functions of the Board; and
 (c) perform its functions efficiently and effectively and in a manner consistent with the spirit of service to the public.
@@ -80,7 +124,7 @@ Disclosure of interests of members in matters of Board
 (a) is a party to, or will or may derive a material financial benefit from, the matter; or
 (b) has a material financial interest in a person to whom the matter relates; or
 (c) is a director, officer, member, or trustee of a person who will or may derive a material financial benefit from the matter; or
-(d) is the parent, child, spouse civil union partner, or de facto partner of a person who will or may derive a material financial benefit from the matter; or
+(d) is the parent, child, spouse, civil union partner, or de facto partner of a person who will or may derive a material financial benefit from the matter; or
 (e) is otherwise directly or indirectly materially interested in the matter.
 (2) However, a member is not interested in a matter merely because he or she is a member of a professional building industry body.
 16 Obligation to disclose interest

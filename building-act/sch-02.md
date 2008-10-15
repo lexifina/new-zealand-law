@@ -9,7 +9,7 @@ The buildings in respect of which the requirement for the provision of access an
 (f) commercial buildings and premises for business and professional purposes, including computer centres:
 (g) central, regional, and local government offices and facilities:
 (h) courthouses:
-(i) police stations:
+(i) Police stations:
 (j) hotels, motels, hostels, halls of residence, holiday cabins, groups of pensioner flats, boarding houses, guest houses, and other premises providing accommodation for the public:
 (k) hospitals, whether public or private, and rest homes:
 (l) medical and dental surgeries, and medical and paramedical and other primary health care centres:
@@ -27,4 +27,4 @@ The buildings in respect of which the requirement for the provision of access an
 (x) car parks, parking buildings, and parking facilities:
 (y) factories and industrial buildings where more than 10 persons are employed:
 (z) other buildings, premises, or facilities to which the public are to be admitted, whether for free or on payment of a charge.
-Compare 1991 No 150 s 47A(4)
+Compare: 1991 No 150 s 47A(4)
