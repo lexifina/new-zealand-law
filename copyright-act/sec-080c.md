@@ -1,0 +1,2 @@
+# 80C Observing, studying, or testing of computer program
+The lawful user of a computer program (A) does not infringe copyright in it by observing, studying, or testing the functioning of the program in order to determine the ideas and principles that underlie any element of the program if A does so while performing the acts of loading, displaying, running, transmitting, or storing the program that A is entitled to do.
