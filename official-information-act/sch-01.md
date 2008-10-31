@@ -31,7 +31,7 @@ Meteorological Service of New Zealand Limited
 National Library of New Zealand
 New Zealand Council for Educational Research
 New Zealand Film Commission
-New Zealand Geographic Board
+New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa
 New Zealand Government Property Corporation
 New Zealand Kiwifruit Board
 New Zealand Lottery Grants Board
