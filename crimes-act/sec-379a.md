@@ -10,6 +10,8 @@
 (cc) Against an order under section 345D of this Act granting or refusing leave to file an amended indictment:
 (cd) Against an order under section 346 of this Act discharging or refusing to discharge an accused:
 (d) Against the making of an order directing separate trials of persons jointly charged, or against a refusal to make such an order:
+(da) against the making of an order under section 361D(2) (Judge may order trial without a jury in certain cases that are likely to be long and complex), or against a refusal to make such an order:
+(db) against the making of an order under section 361E(1) (Judge may order trial without a jury in cases involving intimidation of jurors), or against a refusal to make such an order:
 (e) Against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
 (f) Against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section.
 (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross examination of a complainant, or against the refusal to make such an order.

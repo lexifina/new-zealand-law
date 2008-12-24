@@ -1,2 +1,3 @@
 # 361A Trial before a Judge with a jury general rule
-Subject to sections 361B and 361C of this Act, every accused person shall be tried before a Judge with a jury.
+(1) Every accused person shall be tried before a Judge with a jury.
+(2) Subsection (1) is subject to sections 361B to 361E.
