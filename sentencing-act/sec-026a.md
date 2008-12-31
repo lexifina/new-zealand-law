@@ -6,7 +6,7 @@
 (a) information regarding the suitability of the proposed curfew address or home detention residence, including the safety and welfare of the occupants of the proposed curfew address or home detention residence; and
 (b) in the case of a sentence of community detention, confirmation that the offender consents to the conditions of the sentence and the proposed curfew period; and
 (c) in the case of a sentence of home detention, confirmation that the offender consents to the standard detention conditions and any special conditions recommended by the probation officer or that the court has indicated it is considering imposing.
-(3) Before completing a report that covers the matters in subsection (2) of this section, the probation officer must—
+(3) Before completing a report that covers the matters in subsection (2), the probation officer must—
 (a) ensure that every relevant occupant of the proposed curfew address or home detention residence, as the case may be, is aware of the nature of the offender's past and current offending; and
 (b) tell every relevant occupant that the reason for giving that information is to enable the occupant to make an informed decision about whether to consent to the offender remaining at the curfew address during the curfew period, or at the home detention residence while serving the sentence of home detention, as the case may be; and
 (c) tell every relevant occupant that the information provided about the offender must not be used for any purpose other than that described in paragraph (b); and

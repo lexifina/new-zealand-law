@@ -15,6 +15,6 @@
 (b) the offender perform any service that he or she could have been required to perform if he or she had been sentenced to community work; or
 (c) the offender submit to electronic monitoring.
 (5) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
-(a) has been fully advised, by a person who is qualified to prescribe that medication about, nature and likely or intended effect of the medication and any known risks; and
+(a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
 (b) consents to taking the prescription medication.
 (6) An offender does not breach his or her conditions for the purposes of section 70A if he or she withdraws consent to taking prescription medication, but the failure to take the medication may give rise to a ground for variation or cancellation of the sentence of intensive supervision under section 54K.
