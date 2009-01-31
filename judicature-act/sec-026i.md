@@ -5,6 +5,8 @@
 (c) Any proceedings under which relief is claimed solely under any of the provisions of sections 140, 143, 144, 145, 145A, and 148 of the Land Transfer Act 1952 (which provisions relate to caveats):
 (d) The assessment of damages where liability has been determined, or the trial of proceedings in which only the amount of the debt or damages is disputed:
 (e) The entry of any judgment by consent, or the making of any other order by consent:
+(ea) the making of any order (other than an arrest order or an order relating to an arrest order) that may be made under rules of court against a judgment debtor who has been ordered to attend court for examination:
+(eb) the making, variation, suspension, or discharge of attachment orders under rules of court:
 (f) Any other matter in respect of which jurisdiction is conferred on an Associate Judge by or under any Act.
 (2) An Associate Judge shall have and may exercise all the jurisdiction and powers which are vested in the Court or a Judge by the following enactments:
 (a) Article 11 of Schedule 1 to the Arbitration Act 1996:
