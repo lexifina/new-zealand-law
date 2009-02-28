@@ -1,5 +1,5 @@
 # Schedule 1 Provisions relating to Electoral Commission
-Section 14
+s 14
 1 Conflict of interest disclosure rules do not apply to additional members who hold office for purposes of jurisdiction under Part 6 of Broadcasting Act 1989
 [Repealed]
 2 Travelling allowances and expenses
@@ -11,8 +11,8 @@ The chief executive of the Electoral Commission may, under delegation from the B
 4 Superannuation or retiring allowances
 (1) For the purposes of providing superannuation or retiring allowances for the chief executive, the Commission may, out of the funds of the Commission, make payment to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 (2) Notwithstanding anything in this Act, any person who, immediately before being appointed as the chief executive or, as the case may be, becoming an officer or employee of the Electoral Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 shall be deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as the chief executive or, as the case may be, to be an officer or employee of the Commission; and that Act shall apply to that person in all respects as if that person's service as the chief executive or, as the case may be, as such an officer or employee were Government service.
-(3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) of this clause entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
-(4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2) of this clause, to a person who holds office as the chief executive or, as the case may be, is in the service of the Electoral Commission as an officer or employee and (in any such case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the chief executive.
+(3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the chief executive or, as the case may be, is in the service of the Electoral Commission as an officer or employee and (in any such case) is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the chief executive.
 5 Application of certain Acts to Commission and staff
 [Repealed]
 6 Services for Commission
