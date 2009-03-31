@@ -10,7 +10,7 @@
 (3) The definition of contracting out applies whether or not the work is to be performed by—
 (a) person B or employees (if any) of person B; or
 (b) a subcontractor or employees (if any) of a subcontractor.
-(4) In this subpart, unless the context otherwise requires,
+(4) In this subpart, unless the context otherwise requires,—
 subsequent contracting means a situation where—
 (a) a person (person A) has an agreement with another person (person B) under which person B performs work as an independent contractor for person A; and
 (b) the work or some of the work is actually performed by employees of person B or of a subcontractor; and

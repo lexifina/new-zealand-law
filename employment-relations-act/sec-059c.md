@@ -11,7 +11,7 @@
 (6) In determining whether subsection (2)(a) and (b) or subsection (4)(a) or (b) applies, the following matters must be taken into account:
 (a) whether the employer and union bargained before agreeing on the provision:
 (b) whether the employer and union consulted, in good faith, the parties to the other collective agreement or collective bargaining:
-(c) the number of the employer's employees bound by the collective agreement or covered by the collective bar-gaining compared to the number of the employer's employees bound by the other collective agreement or covered by the other collective bargaining:
+(c) the number of the employer's employees bound by the collective agreement or covered by the collective bargaining compared to the number of the employer's employees bound by the other collective agreement or covered by the other collective bargaining:
 (d) how long the other collective agreement has been in force.
 (7) Subsection (4) does not limit the matters that may be taken into account for the purposes of subsection (2)(a) and (b) or subsection (4)(a) or (b).
 (8) Every employer who commits a breach of the duty of good faith under this section is liable to a penalty under this Act.

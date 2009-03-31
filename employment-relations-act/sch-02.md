@@ -5,7 +5,7 @@ s 165
 (a) any question connected with an employment agreement, being a question that arises in the course of any investigation by the Authority:
 (b) any question connected with the construction of this Act or of any other Act, being a question that arises in the course of any investigation by the Authority.
 (2) Subclause (1)(b) has effect in relation to a question even though that question concerns the meaning of this Act (being the Act under which the Authority is constituted) or of an Act under which the Authority operates in a particular case.
-Compare: 1991 No 22 s 79(1)(h), s (i)
+Compare: 1991 No 22 s 79(1)(h), (i)
 2 Representation of parties
 (1) Any party or person involved in a matter before the Authority, or called upon to appear before the Authority, may—
 (a) appear personally; or
@@ -39,8 +39,8 @@ Compare: 1991 No 22 s 96
 (3) On each occasion on which the Authority issues a summons under clause 5, the Authority, or the person exercising the power of the Authority under subclause (3) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) of this clause is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the Authority or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 (5) Where the Authority, on its own volition, issues a summons to any person under clause 5(1),—
-(a) that person, if he or she attends the Authority on that summons, is entitled, subject to subclause (2), to be paid by the Department the amount of the witnesses' fees, allowances, and travelling expenses specified in subclause (1); and
-(b) the Department must provide any amount fixed under subclause (3) as the amount required to be paid or tendered to that person.
+(a) that person, if he or she attends the Authority on that summons, is entitled, subject to subclause (2), to be paid by the department the amount of the witnesses' fees, allowances, and travelling expenses specified in subclause (1); and
+(b) the department must provide any amount fixed under subclause (3) as the amount required to be paid or tendered to that person.
 Compare: 1991 No 22 s 96
 7 Evidence at distance
 (1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the District Courts Act 1947.

@@ -7,10 +7,10 @@
 (3) To avoid doubt,—
 (a) the election of an employee to transfer to a new employer may result in the employee being employed by more than 1 employer if—
 (i) only part of the employee's work is affected by the restructuring; or
-(ii) the work performed by the employee will be performed by or on behalf of more than one new employer; and
+(ii) the work performed by the employee will be performed by or on behalf of more than 1 new employer; and
 (b) a person becomes the new employer of an employee who elects to transfer to the new employer whether or not the new employer—
 (i) has, or intends to have, employees performing the type of work (or work that is substantially similar) to the work performed by the employee who has elected to transfer to the new employer; or
-(ii) was an employer before the employee transferred to the new employer.
+(ii) was an employer before the employee transferred to the new employer:
 (c) this section does not affect the employment agreement of an employee who elects not to transfer to the new employer.
 Example
 This example relates to subsection (3)(a). A retailer owns 3 gift shops and engages an independent contractor to clean the shops. The independent contractor employs a cleaner to clean the gift shops.

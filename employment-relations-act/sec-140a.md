@@ -3,7 +3,7 @@
 (a) any person has not observed or complied with section 69OC, 69OD, or 69OE; or
 (b) there are reasonable grounds to believe that a person will not observe or comply with section 69OC, 69OD, or 69OE.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require that person to do any specified thing or to cease any specified activity for the purpose of preventing—
-(a) further non-observance of or non-compliance with section 69OC, 69OD,or 69OE; or
+(a) further non-observance of or non-compliance with section 69OC, 69OD, or 69OE; or
 (b) non-observance of or non-compliance with section 69OC, 69OD, or 69OE.
 (3) The Authority must specify a time within which the order is to be obeyed.
 (4) An application to the Authority for an order of the kind described in subsection (2) may be made by the following persons:

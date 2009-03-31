@@ -27,5 +27,5 @@
 (C) whose work comes within the coverage clause in the agreement.
 (5) For the purposes of this section, a party to a collective agreement is notified—
 (a) when the notice is given to the party; or
-(b) if the notice is posted to the party, on the 7th day after the day on which the notice is posted.
-(6) For the purposes of subsection (l)(b) and (c), employees includes persons whom the employer might employ in the future.
+(b) if the notice is posted to the party, on the seventh day after the day on which the notice is posted.
+(6) For the purposes of subsection (1)(b) and (c), employees includes persons whom the employer might employ in the future.

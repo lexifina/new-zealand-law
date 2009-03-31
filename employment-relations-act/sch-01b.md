@@ -34,7 +34,7 @@ industrial action means a strike or a lockout
 life preserving services means—
 (a) crisis intervention for the preservation of life:
 (b) care required for therapeutic services without which life would be jeopardised:
-(c) urgent diagnostic procedures required to obtain information on potentially life-threatening conditions
+(c) urgent diagnostic procedures required to obtain information on potentially life-threatening conditions:
 (d) crisis intervention for the prevention of permanent disability:
 (e) care required for therapeutic services without which permanent disability would occur:
 (f) urgent diagnostic procedures required to obtain information on conditions that could potentially lead to permanent disability
