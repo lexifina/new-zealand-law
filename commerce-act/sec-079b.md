@@ -1,0 +1,3 @@
+# 79B Relationship between pecuniary penalties and criminal liability
+(1) Once criminal proceedings against a person for an offence under section 86B or 87B are determined, the High Court may not order the person to pay a pecuniary penalty in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
+(2) Once civil proceedings against a person for a pecuniary penalty under this Part are determined, the person may not be convicted of an offence under section 86B or 87B in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.

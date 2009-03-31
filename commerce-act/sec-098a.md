@@ -1,0 +1,7 @@
+# 98A Power to search
+(1) The Commission may, from time to time, authorise an employee of the Commission to search under a warrant issued under subsection (2) of this section any place named in the warrant for the purpose of ascertaining whether a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A of this Act.
+(2) A District Court Judge, Justice, or Community Magistrate, or a Court Registrar (not being a constable) who is satisfied on application made on oath by a person who is authorised under subsection (1) of this section that there are reasonable grounds to believe that it is necessary for the purpose of ascertaining whether or not a person has engaged in or is engaging in conduct that constitutes or may constitute a contravention of this Act, not being a contravention of section 99A of this Act, for an employee of the Commission to search any place may, by warrant, authorise that employee to search a place specified in the warrant.
+(3) A person who applies for a warrant shall, having made reasonable inquiries, disclose—
+(a) Details of every previous application for a warrant to search the place that the person knows has been made within the preceding 28 days; and
+(b) The result of the application.
+(4) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under Part 4.

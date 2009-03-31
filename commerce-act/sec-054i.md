@@ -1,0 +1,4 @@
+# 54I Commission must make section 52P determination specifying how subpart applies
+(1) The section 52P determinations that specify how information disclosure regulation applies to each supplier of electricity lines services must be made as soon as practicable after 1 April 2009.
+(2) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that is subject to that form of regulation as at 1 April 2009 are made as set out in section 54J.
+(3) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that becomes subject to that form of regulation as a result of an Order in Council made under section 54H must be made as soon as practicable after the order comes into force.

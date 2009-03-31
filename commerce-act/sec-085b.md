@@ -1,0 +1,3 @@
+# 85B Court may order divestiture of assets or shares in respect of contravention of undertaking
+(1) If the Court, on the application of the Commission, is satisfied that any person has contravened an undertaking accepted under section 69A and the acquisition to which the undertaking relates has proceeded, the Court may, by order, give directions for the disposal by that person of any assets or shares in accordance with the undertaking.
+(2) An application under this section may be made at any time within 12 months from the date on which the relevant obligation under the undertaking was required to be met.

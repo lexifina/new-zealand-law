@@ -1,0 +1,4 @@
+# 55E Commission must make section 52P determination specifying how subpart applies
+(1) The section 52P determinations that specify how information disclosure regulation applies to each supplier of gas pipeline services must be made as soon as practicable after this subpart comes into force.
+(2) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services must be made as soon as practicable after 1 July 2010, in the manner set out in section 55F.
+(3) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services that become subject to that form of regulation as a result of an Order in Council made under section 55A(5)(a) must be made as soon as practicable after the order comes into force.

@@ -1,0 +1,2 @@
+# 56E Commission must make determination specifying how subpart applies
+The section 52P determinations that specify how information disclosure regulation applies to each supplier of specified airport services must be made no later than 1 July 2010 (or, if the deadline for determining input methodologies is extended under section 52U(2), no later than the day after the date to which that deadline is extended).

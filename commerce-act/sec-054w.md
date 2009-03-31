@@ -1,0 +1,2 @@
+# 54W Savings provision relating to existing information disclosure requirements
+Any information disclosure requirements published by the Commission under subpart 3 of Part 4A before 1 April 2009 continue to apply to each supplier of electricity lines services in respect of every financial year that precedes the first financial year to which a determination made by the Commission under section 54I(1) applies to that supplier.
