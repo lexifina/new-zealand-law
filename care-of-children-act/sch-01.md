@@ -1,12 +1,11 @@
 # Schedule 1 Convention on the Civil Aspects of International Child Abduction
 s 95
-Preamble
 The States signatory to the present Convention,
 Firmly convinced that the interests of children are of paramount importance in matters relating to their custody,
 Desiring to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access,
-Have resolved to conclude a Convention to this effect, and have agreed upon the following provisions
-I
-SCOPE OF THE CONVENTION
+Have resolved to conclude a Convention to this effect, and have agreed upon the following provisions—
+Chapter I
+Scope of the Convention
 Article 1
 The objects of the present Convention are—
 a to secure the prompt return of children, wrongfully removed to or retained in any Contracting State; and
@@ -15,45 +14,45 @@ Article 2
 Contracting States shall take all appropriate measures to secure within their territories the implementation of the objects of the Convention. For this purpose they shall use the most expeditious procedures available.
 Article 3
 The removal or the retention of a child is to be considered wrongful where—
-a it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the State in which the child was habitually resident immediately before the removal or retention; and
-b at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention.
+it is in breach of rights of custody attributed to a person, an institution or any other body, either jointly or alone, under the law of the State in which the child was habitually resident immediately before the removal or retention; and
+at the time of removal or retention those rights were actually exercised, either jointly or alone, or would have been so exercised but for the removal or retention.
 The rights of custody mentioned in sub-paragraph a above, may arise in particular by operation of law or by reason of a judicial or administrative decision, or by reason of an agreement having legal effect under the law of that State.
 Article 4
 The Convention shall apply to any child who was habitually resident in a Contracting State immediately before any breach of custody or access rights. The Convention shall cease to apply when the child attains the age of 16 years.
 Article 5
 For the purposes of this Convention—
-a rights of custody' shall include rights relating to the care of the person of the child and, in particular, the right to determine the child's place of residence;
-b rights of access' shall include the right to take a child for a limited period of time to a place other than the child's habitual residence.
-II
-CENTRAL AUTHORITIES
+'rights of custody' shall include rights relating to the care of the person of the child and, in particular, the right to determine the child's place of residence;
+'rights of access' shall include the right to take a child for a limited period of time to a place other than the child's habitual residence.
+Chapter II
+Central Authorities
 Article 6
 A Contracting State shall designate a Central Authority to discharge the duties which are imposed by the Convention upon such authorities.
 Federal States, States with more than one system of law or States having autonomous territorial organisations shall be free to appoint more than one Central Authority and to specify the territorial extent of their powers. Where a State has appointed more than one Central Authority, it shall designate the Central Authority to which applications may be addressed for transmission to the appropriate Central Authority within that State.
 Article 7
 Central Authorities shall co-operate with each other and promote co-operation amongst the competent authorities in their respective States to secure the prompt return of children and to achieve the other objects of this Convention.
 In particular, either directly or through any intermediary, they shall take all appropriate measures—
-a to discover the whereabouts of a child who has been wrong-fully removed or retained;
-b to prevent further harm to the child or prejudice to interested parties by taking or causing to be taken provisional measures;
-c to secure the voluntary return of the child or to bring about an amicable resolution of the issues;
-d to exchange, where desirable, information relating to the social background of the child;
-e to provide information of a general character as to the law of their State in connection with the application of the Convention;
-f to initiate or facilitate the institution of judicial or administrative proceedings with a view to obtaining the return of the child and, in a proper case, to make arrangements for organising or securing the effective exercise of rights of access;
-g where the circumstances so require, to provide or facilitate the provision of legal aid and advice, including the participation of legal counsel and advisers;
-h to provide such administrative arrangements as may be necessary and appropriate to secure the safe return of the child;
-i to keep each other informed with respect to the operation of this Convention and, as far as possible, to eliminate any obstacles to its application.
-III
-RETURN OF CHILDREN
+to discover the whereabouts of a child who has been wrongfully removed or retained;
+to prevent further harm to the child or prejudice to interested parties by taking or causing to be taken provisional measures;
+to secure the voluntary return of the child or to bring about an amicable resolution of the issues;
+to exchange, where desirable, information relating to the social background of the child;
+to provide information of a general character as to the law of their State in connection with the application of the Convention;
+to initiate or facilitate the institution of judicial or administrative proceedings with a view to obtaining the return of the child and, in a proper case, to make arrangements for organising or securing the effective exercise of rights of access;
+where the circumstances so require, to provide or facilitate the provision of legal aid and advice, including the participation of legal counsel and advisers;
+to provide such administrative arrangements as may be necessary and appropriate to secure the safe return of the child;
+to keep each other informed with respect to the operation of this Convention and, as far as possible, to eliminate any obstacles to its application.
+Chapter III
+Return of children
 Article 8
 Any person, institution or other body claiming that a child has been removed or retained in breach of custody rights may apply either to the Central Authority of the child's habitual residence or to the Central Authority of any other Contracting State for assistance in securing the return of the child.
 The application shall contain—
-a information concerning the identity of the applicant, of the child and of the person alleged to have removed or retained the child;
-b where available, the date of birth of the child;
-c the grounds on which the applicant's claim for return of the child is based;
-d all available information relating to the whereabouts of the child and the identity of the person with whom the child is presumed to be.
-g any other relevant document.
+information concerning the identity of the applicant, of the child and of the person alleged to have removed or retained the child;
+where available, the date of birth of the child;
+the grounds on which the applicant's claim for return of the child is based;
+all available information relating to the whereabouts of the child and the identity of the person with whom the child is presumed to be.
 The application may be accompanied or supplemented by—
-e an authenticated copy of any relevant decision or agreement;
-f a certificate or an affidavit emanating from a Central Authority, or other competent authority of the State of the child's habitual residence, or from a qualified person, concerning the relevant law of that State;
+an authenticated copy of any relevant decision or agreement;
+a certificate or an affidavit emanating from a Central Authority, or other competent authority of the State of the child's habitual residence, or from a qualified person, concerning the relevant law of that State;
+any other relevant document.
 Article 9
 If the Central Authority which receives an application referred to in Article 8 has reason to believe that the child is in another Contracting State, it shall directly and without delay transmit the application to the Central Authority of that Contracting State and inform the requesting Central Authority, or the applicant, as the case may be.
 Article 10
@@ -67,8 +66,8 @@ The judicial or administrative authority, even where the proceedings have been c
 Where the judicial or administrative authority in the requested State has reason to believe that the child has been taken to another State, it may stay the proceedings or dismiss the application for the return of the child.
 Article 13
 Notwithstanding the provisions of the preceding Article, the judicial or administrative authority of the requested State is not bound to order the return of the child if the person, institution or other body which opposes its return establishes that—
-a the person, institution or other body having the care of the person of the child was not actually exercising the custody rights at the time of removal or retention, or had consented to or subsequently acquiesced in the removal or retention; or
-b there is a grave risk that his or her return would expose the child to physical or psychological harm or otherwise place the child in an intolerable situation.
+the person, institution or other body having the care of the person of the child was not actually exercising the custody rights at the time of removal or retention, or had consented to or subsequently acquiesced in the removal or retention; or
+there is a grave risk that his or her return would expose the child to physical or psychological harm or otherwise place the child in an intolerable situation.
 The judicial or administrative authority may also refuse to order the return of the child if it finds that the child objects to being returned and has attained an age and degree of maturity at which it is appropriate to take account of its views.
 In considering the circumstances referred to in this Article, the judicial and administrative authorities shall take into account the information relating to the social background of the child provided by the Central Authority or other competent authority of the child's habitual residence
 Article 14
@@ -85,14 +84,14 @@ Article 19
 A decision under this Convention concerning the return of the child shall not be taken to be a determination on the merits of any custody issue.
 Article 20
 The return of the child under the provisions of Article 12 may be refused if this would not be permitted by the fundamental principles of the requested State relating to the protection of human rights and fundamental freedoms.
-IV
-RIGHTS OF ACCESS
+Chapter IV
+Rights of access
 Article 21
 An application to make arrangements for organizing or securing the effective exercise of rights of access may be presented to the Central Authorities of the Contracting States in the same way as an application for the return of a child.
 The Central Authorities are bound by the obligations of co-operation which are set forth in Article 7 to promote the peaceful enjoyment of access rights and the fulfilment of any conditions to which the exercise of those rights may be subject. The Central Authorities shall take steps to remove, as far as possible, all obstacles to the exercise of such rights.
 The Central Authorities, either directly or through intermediaries, may initiate or assist in the institution of proceedings with a view to organizing or protecting these rights and securing respect for the conditions to which the exercise of these rights may be subject.
-V
-GENERAL PROVISIONS
+Chapter V
+General provisions
 Article 22
 No security, bond or deposit, however described, shall be required to guarantee the payment of costs and expenses in the judicial or administrative proceedings falling within the scope of this Convention.
 Article 23
@@ -116,9 +115,9 @@ This Convention shall not preclude any person, institution or body who claims th
 Article 30
 Any application submitted to the Central Authorities or directly to the judicial or administrative authorities of a Contracting State in accordance with the terms of this Convention, together with documents and any other information appended thereto or provided by a Central Authority, shall be admissible in the courts or administrative authorities of the Contracting States.
 Article 31
-In relation to a State which in matters of custody of children has two or more systems of law applicable in different territorial units
-a any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit of that State:
-b any reference to the law of the State of habitual residence shall be construed as referring to the law of the territorial unit in that State where the child habitually resides.
+In relation to a State which in matters of custody of children has two or more systems of law applicable in different territorial units—
+any reference to habitual residence in that State shall be construed as referring to habitual residence in a territorial unit of that State:
+any reference to the law of the State of habitual residence shall be construed as referring to the law of the territorial unit in that State where the child habitually resides.
 Article 32
 In relation to a State which in matters of custody of children has two or more systems of law applicable to different categories of persons, any reference to the law of that State shall be construed as referring to the legal system specified by the law of that State.
 Article 33
@@ -130,10 +129,10 @@ This Convention shall apply as between Contracting States only to wrongful remov
 Where a declaration has been made under Article 39 or 40, the reference in the preceding paragraph to a Contracting State shall be taken to refer to the territorial unit or units in relation to which this Convention applies.
 Article 36
 Nothing in this Convention shall prevent two or more Contracting States, in order to limit the restrictions to which the return of the child may be subject, from agreeing among themselves to derogate from any provisions of this Convention which may imply such a restriction.
-VI
-FINAL CLAUSES
+Chapter VI
+Final clauses
 Article 37
-The Convention shall be open for signature by the. States which were Members of the Hague Conference on Private International Law at the time of its Fourteenth Session. It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
+The Convention shall be open for signature by the States which were Members of the Hague Conference on Private International Law at the time of its Fourteenth Session. It shall be ratified, accepted or approved and the instruments of ratification, acceptance or approval shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
 Article 38
 Any other State may accede to the Convention.
 The instrument of accession shall be deposited with the Ministry of Foreign Affairs of the Kingdom of the Netherlands.
@@ -155,18 +154,18 @@ The reservation shall cease to have effect on the first day of the third calenda
 Article 43
 The Convention shall enter into force on the first day of the third calendar month after the deposit of the third instrument of ratification, acceptance, approval or accession referred to in Articles 37 and 38.
 Thereafter the Convention shall enter into force—
-1 for each State ratifying, accepting, approving or acceding to it subsequently, on the first day of the third calendar month after the deposit of its instrument of ratification, acceptance, approval or accession;
-2 for any territory or territorial unit to which the Convention has been extended in conformity with Article 39 or 40, on the first day of the third calendar month after the notification referred to in that Article.
+1for each State ratifying, accepting, approving or acceding to it subsequently, on the first day of the third calendar month after the deposit of its instrument of ratification, acceptance, approval or accession;
+2for any territory or territorial unit to which the Convention has been extended in conformity with Article 39 or 40, on the first day of the third calendar month after the notification referred to in that Article.
 Article 44
 The Convention shall remain in force for five years from the date of its entry into force in accordance with the first paragraph of Article 43 even for States which subsequently have ratified, accepted, approved it or acceded to it. If there has been no denunciation, it shall be renewed tacitly every five years.
 Any denunciation shall be notified to the Ministry of Foreign Affairs of the Kingdom of the Netherlands at least six months before the expiry of the five year period. It may be limited to certain of the territories or territorial units to which the Convention applies.
 The denunciation shall have effect only as regards the State which has notified it. The Convention shall remain in force for the other Contracting States.
 Article 45
 The Ministry of Foreign Affairs of the Kingdom of the Netherlands shall notify the States Members of the Conference, and the States which have acceded in accordance with Article 38, of the following—
-1 the signatures and ratifications, acceptances and approvals referred to in Article 37;
-2 the accessions referred to in Article 38;
-3 the date on which the Convention enters into force in accordance with Article 43;
-4 the extensions referred to in Article 39;
-5 the declarations referred to in Articles 38 and 40;
-6 the reservations referred to in Article 24 and Article 26, third paragraph, and the withdrawals referred to in Article 42;
-7 the denunciations referred to in Article 44.
+1the signatures and ratifications, acceptances and approvals referred to in Article 37;
+2the accessions referred to in Article 38;
+3the date on which the Convention enters into force in accordance with Article 43;
+4the extensions referred to in Article 39;
+5the declarations referred to in Article 38 and 40;
+6the reservations referred to in Article 24 and Article 26, third paragraph, and the withdrawals referred to in Article 42;
+7the denunciations referred to in Article 44.
