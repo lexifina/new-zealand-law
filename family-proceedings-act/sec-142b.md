@@ -6,9 +6,10 @@
 (d) an order remitting or suspending arrears due under a child maintenance order for the purposes of New Zealand law:
 (e) an order varying or extending an order for the giving of security for the payment of maintenance (whether by altering the term of the order, or the nature of any security, or by increasing or diminishing the amount of any security, or otherwise):
 (f) an order discharging an order for the giving of security for the payment of maintenance.
-(2) The Court may make an order under this section even if the child maintenance order to which the order relates was made by consent of the parties.
-(3) If an application is made under this section, notice of the application must be given to any person or persons that the Court directs.
+(2) The court may make an order under this section even if the child maintenance order to which the order relates was made by consent of the parties.
+(3) If an application is made under this section, notice of the application must be given to any person or persons that the court directs.
 (4) If an application is made under this section,—
-(a) the Court may, if it thinks fit, require the Commissioner of Inland Revenue to provide it with a report on the relevant financial implications of the application for the position of any person under the Child Support Act 1991; and
-(b) the Commissioner must provide that report to the Court within any period that the Court directs.
-(5) If it appears to the Court to be necessary, for the purpose of taking further evidence, to remit the case to the Court that made the child maintenance order, the Court may remit the case and adjourn the proceedings for that purpose.
+(a) the court may, if it thinks fit, require the Commissioner of Inland Revenue to provide it with a report on the relevant financial implications of the application for the position of any person under the Child Support Act 1991; and
+(b) the Commissioner must provide that report to the court within any period that the court directs.
+(5) If it appears to the court to be necessary, for the purpose of taking further evidence, to remit the case to the court that made the child maintenance order, the court may remit the case and adjourn the proceedings for that purpose.
+(6) This section is subject to section 142E.
