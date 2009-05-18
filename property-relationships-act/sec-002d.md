@@ -15,8 +15,8 @@
 (i) the reputation and public aspects of the relationship.
 (3) In determining whether 2 persons live together as a couple,—
 (a) no finding in respect of any of the matters stated in subsection (2), or in respect of any combination of them, is to be regarded as necessary; and
-(b) a Court is entitled to have regard to such matters, and to attach such weight to any matter, as may seem appropriate to the Court in the circumstances of the case.
+(b) a court is entitled to have regard to such matters, and to attach such weight to any matter, as may seem appropriate to the court in the circumstances of the case.
 (4) For the purposes of this Act, a de facto relationship ends if—
 (a) the de facto partners cease to live together as a couple; or
-(b) 1 of the de facto partners dies.
+(b) one of the de facto partners dies.
 Compare: Property (Relationships) Act 1984 (New South Wales) s 4(1)-(3)

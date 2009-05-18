@@ -1,6 +1,6 @@
 # 44D Definition of qualifying company
 (1) In sections 44E and 44F, qualifying company means a company in which a controlling interest is held by, as the case requires,—
-(a) 1 of the spouses or partners; or
+(a) one of the spouses or partners; or
 (b) the estate of the deceased spouse or partner.
 (2) For the purposes of this section, a person holds a controlling interest in a company if that person holds (whether directly or indirectly) equity securities in that company that carry in the aggregate 50% or more of the voting rights at a general meeting of the company.
 (3) For the purposes of this section, a person holds equity securities in a company (company A) if—

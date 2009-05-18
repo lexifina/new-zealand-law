@@ -7,6 +7,6 @@
 (e) Part 5—relationship property and creditors:
 (f) Part 6—contracting out:
 (g) Part 7—proceedings under this Act:
-(h) Part 8—division of property where 1 spouse or partner dies:
+(h) Part 8—division of property where one spouse or partner dies:
 (i) Part 9—transitional provisions and savings.
 (2) Sections 1E to 1L summarise what each Part (other than this Part) contains.

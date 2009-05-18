@@ -1,3 +1,3 @@
 # Schedule 3 Enactments repealed
-Section 57
+s 57
 [Repealed]

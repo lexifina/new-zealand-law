@@ -6,5 +6,5 @@
 (a) may relate to existing or future property, or both:
 (b) may relate to the status, ownership, or division of property in either or both of the following circumstances:
 (i) during the joint lives of the de facto partners:
-(ii) when 1 of them dies.
+(ii) when one of them dies.
 (3) Subsection (2) does not limit the generality of subsection (1).

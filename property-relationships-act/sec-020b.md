@@ -9,11 +9,11 @@
 (3) The value of the protected interest of a spouse or partner is as follows:
 (a) where section 11 applies, the protected interest is to the extent of the lesser of—
 (i) the specified sum; or
-(ii) one half of the equity of the spouses or partners in the family home:
+(ii) one-half of the equity of the spouses or partners in the family home:
 (b) where section 11A applies, the protected interest is to the extent of the lesser of—
 (i) the specified sum; or
-(ii) one half of the proceeds of the sale of the family home:
+(ii) one-half of the proceeds of the sale of the family home:
 (c) where section 11B or section 12 applies, the protected interest is to the extent of the lesser of—
 (i) the specified sum; or
-(ii) one half of the property or money shared under the applicable section.
+(ii) one-half of the property or money shared under the applicable section.
 (4) In this section, specified sum means the amount for the time being prescribed under section 53A for the purposes of this section.

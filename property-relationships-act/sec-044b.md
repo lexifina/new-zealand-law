@@ -1,3 +1,3 @@
 # 44B Court may require party to disclose information about dispositions of property to trust
-(1) In any proceedings for an order under section 25(1)(a), the Court may make an order requiring a spouse or partner to disclose to the Court such information as the Court specifies relating to the disposition of relationship property by either or both spouses or partners to a trust since the marriage, the civil union, or the de facto relationship began.
-(2) The Court may make an order under this section on the application of either party to the proceedings or on its own initiative.
+(1) In any proceedings for an order under section 25(1)(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a trust since the marriage, the civil union, or the de facto relationship began.
+(2) The court may make an order under this section on the application of either party to the proceedings or on its own initiative.

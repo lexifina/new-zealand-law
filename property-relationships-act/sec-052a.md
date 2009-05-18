@@ -1,6 +1,6 @@
 # 52A Priority of claims where marriage or civil union and de facto relationship
 (1) This section applies in respect of relationship property if—
-(a) competing claims are made for property orders in respect of that property, 1 claim being in respect of a marriage or civil union, as the case may be, and the other claim being in respect of a de facto relationship; and
+(a) competing claims are made for property orders in respect of that property, one claim being in respect of a marriage or civil union, as the case may be, and the other claim being in respect of a de facto relationship; and
 (b) there is insufficient property to satisfy the property orders made under this Act.
 (2) If this section applies, the relationship property is to be divided as follows:
 (a) if the marriage or civil union and the de facto relationship are successive (regardless of the order in which they occur), then in accordance with the chronological order of the marriage or civil union and the de facto relationship:

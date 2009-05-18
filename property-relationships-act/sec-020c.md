@@ -7,4 +7,4 @@
 (b) any unsecured debt incurred—
 (i) by the spouses or partners jointly; or
 (ii) by the spouse or partner subsequently declared bankrupt, for the purpose of acquiring, improving, or repairing the family home.
-(3) If, on the bankruptcy of a spouse or partner, section 11B applies, the Official Assignee must pay to the other spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the Court may direct, on application by the Official Assignee or by that spouse or partner.
+(3) If, on the bankruptcy of a spouse or partner, section 11B applies, the Official Assignee must pay to the other spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the court may direct, on application by the Official Assignee or by that spouse or partner.
