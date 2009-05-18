@@ -2,7 +2,7 @@
 (1) If a marriage or civil union is dissolved or, in the case of a de facto relationship, the de facto partners cease to live together,—
 (a) each spouse, civil union partner, or de facto partner must assume responsibility, within a period of time that is reasonable in all the circumstances of the particular case, for meeting his or her own needs; and
 (b) on the expiry of that period of time, neither spouse, civil union partner, or de facto partner is liable to maintain the other under section 64.
-(2) Regardless of subsection (1), if a marriage or civil union is dissolved or, in the case of a de facto relationship, the de facto partners cease to live together, 1 spouse, civil union partner, or de facto partner (party A) is liable to maintain the other spouse, civil union partner, or de facto partner (party B) under section 64, to the extent that such maintenance is necessary to meet the reasonable needs of party B if, having regard to the matters referred to in subsection (3),—
+(2) Regardless of subsection (1), if a marriage or civil union is dissolved or, in the case of a de facto relationship, the de facto partners cease to live together, one spouse, civil union partner, or de facto partner (party A) is liable to maintain the other spouse, civil union partner, or de facto partner (party B) under section 64, to the extent that such maintenance is necessary to meet the reasonable needs of party B if, having regard to the matters referred to in subsection (3),—
 (a) it is unreasonable to require party B to do without maintenance from party A; and
 (b) it is reasonable to require party A to provide maintenance to party B.
 (3) The matters referred to in subsection (2) are as follows:
