@@ -14,6 +14,6 @@
 (B) the size of space that may be the subject of a coastal permit granted for the purposes of section 12(2) and the proportion of an aquaculture management area that may be occupied for the purpose of specified activities; and
 (vi) provide for the management of competition for the occupation of space vested in the Crown or a regional council in an aquaculture management area.
 (2) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area must include provisions to ensure that an aquaculture management area is principally for aquaculture activities.
-(3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 200.
 (4) A regional coastal plan or proposed regional coastal plan that provides for aquaculture management areas must be prepared in the manner set out in Schedule 1A.
 (5) [Repealed]

@@ -1,17 +1,17 @@
 # 138A Special provisions relating to coastal permits for dumping and incineration
 (1) Without limiting section 104, when considering an application for a coastal permit to do something that would otherwise contravene section 15A(1), the consent authority shall, in having regard to the actual and potential effects of allowing the activity, have regard to—
-(a) The nature of any discharge of any contaminant which the dumping or incineration may involve and the sensitivity of the receiving environment to adverse effects and the applicant's reasons for making the proposed choice; and
-(b) Any possible alternative methods of disposal or combustion including any involving discharge into any other receiving environment,—
+(a) the nature of any discharge of any contaminant which the dumping or incineration may involve and the sensitivity of the receiving environment to adverse effects and the applicant's reasons for making the proposed choice; and
+(b) any possible alternative methods of disposal or combustion including any involving discharge into any other receiving environment,—
 and, without limiting the powers of the consent authority under section 92, it may, at any reasonable time before the hearing (or, if there is no hearing, the determination) of the application, by written notice to the applicant, require the applicant to provide, by way of further information, an explanation of those matters.
 (2) Without limiting section 108, but subject to subsection (5), a coastal permit to which subsection (1) applies may include a condition requiring the holder to adopt the best practicable option to prevent or minimise any actual or likely adverse effect on the environment of any discharge of any contaminant which may occur in the exercise of the permit; provided that before a consent authority decides to grant a coastal permit subject to such a condition, it shall be satisfied that, in the particular circumstances, and having regard to—
-(a) The nature of any discharge of a contaminant and the receiving environment; and
-(b) Other alternatives, including any condition requiring the observance of minimum standards of quality of the receiving environment,—
+(a) the nature of any discharge of a contaminant and the receiving environment; and
+(b) other alternatives, including any condition requiring the observance of minimum standards of quality of the receiving environment,—
 the inclusion of the condition is the most efficient and effective means of preventing or minimising any actual or likely adverse effect on the environment.
 (3) In respect of a coastal permit to do something that would otherwise contravene section 15A(1), a consent authority may, at any time specified for that purpose in the permit, in accordance with section 129, serve notice on the holder of the permit of its intention to review the conditions of the permit for the purpose of requiring the holder to adopt the best practicable option to remove or reduce any adverse effect on the environment.
 (4) Subject to subsection (5), sections 129 to 133 shall apply to any review of a coastal permit under subsection (3) and the powers conferred on a consent authority by that subsection are in addition to the powers conferred by section 128.
 (5) Before deciding to grant a coastal permit subject to a condition described in subsection (2) and before deciding to change the conditions of a coastal permit pursuant to subsections (3) and (4), the consent authority shall be satisfied, in the particular circumstances, and having regard to—
-(a) The nature of any discharge of a contaminant and the receiving environment; and
-(b) The financial implications for the holder of including that condition; and
-(c) Other alternatives, including a condition requiring the observance of minimum standards of quality of the receiving environment—
+(a) the nature of any discharge of a contaminant and the receiving environment; and
+(b) the financial implications for the holder of including that condition; and
+(c) other alternatives, including a condition requiring the observance of minimum standards of quality of the receiving environment—
 that including a condition in the permit requiring the holder to adopt the best practicable option to remove or reduce any adverse effect on the environment is the most efficient and effective means of removing or reducing that adverse effect.
 (6) In every coastal permit to do something that would otherwise contravene section 15A(1), there shall be implied a condition that the holder shall, in the prescribed form and at the cost of the holder in all respects, keep such records and furnish to the Director of Maritime New Zealand such information and returns as may from time to time be required by regulations.

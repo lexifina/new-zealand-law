@@ -1,12 +1,12 @@
 # 168A Notice of requirement by territorial authority
 (1) When a territorial authority proposes to issue notice of a requirement for a designation—
-(a) For a public work within its district and for which it has financial responsibility; or
-(b) In respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work—
+(a) for a public work within its district and for which it has financial responsibility; or
+(b) in respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work—
 it shall notify the requirement in accordance with section 93(2); and the provisions of section 168, with all necessary modifications, shall apply to such notice.
-(2) Sections, 96, 97, and 99 to 103 shall apply, with all necessary modifications, in respect of a notice under subsection (1), as if every reference in those sections—
-(a) To a resource consent were a reference to the requirement; and
-(b) To an applicant or a consent authority were a reference to the territorial authority; and
-(c) To an application for a resource consent were a reference to the notice under subsection (1).
+(2) Sections 96, 97, and 99 to 103 shall apply, with all necessary modifications, in respect of a notice under subsection (1), as if every reference in those sections—
+(a) to a resource consent were a reference to the requirement; and
+(b) to an applicant or a consent authority were a reference to the territorial authority; and
+(c) to an application for a resource consent were a reference to the notice under subsection (1).
 (3) When considering a requirement and any submissions received, a territorial authority must, subject to Part 2, consider the effects on the environment of allowing the requirement, having particular regard to—
 (a) any relevant provisions of—
 (i) a national policy statement:

@@ -3,7 +3,7 @@ ss 17A, 17B
 1 Application and interpretation
 (1) This schedule applies if a customary rights order has been made and appeals (if any) have been disposed of.
 (2) In this schedule, regional council includes the Chatham Islands Council.
-1
+Part 1
 Controls by the Minister of Conservation
 2 Power to impose controls
 The Minister of Conservation may impose controls (including terms, standards, and restrictions) on a recognised customary activity only if he or she considers that—
@@ -46,7 +46,7 @@ The Minister of Conservation must—
 (ii) the holder of the customary rights order; and
 (iii) the Minister of Maori Affairs; and
 (iv) the chief executive of the Ministry of Justice.
-2
+Part 2
 Adverse effects assessment and report by regional council
 6 Adverse effects assessment
 (1) A regional council must, not later than 5 working days after being so directed by the Minister of Conservation under section 17B, begin an adverse effects assessment of a recognised customary activity that may be carried out in its region.
@@ -96,7 +96,7 @@ A regional council, in carrying out an adverse effects assessment of a recognise
 No later than 5 working days after completing an adverse effects report, a regional council must give a copy to—
 (a) the Minister of Conservation; and
 (b) the holder of a customary rights order.
-3
+Part 3
 Review of controls by the Minister of Conservation
 12 Review
 The Minister of Conservation may—

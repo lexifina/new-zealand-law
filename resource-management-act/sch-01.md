@@ -1,5 +1,5 @@
 # Schedule 1 Preparation, change, and review of policy statements and plans
-Sections 60, 64, 65, and 73
+ss 60, 64, 65, 73
 Contents
 Part 1
 Preparation and change of policy statements and plans by local authorities
@@ -13,7 +13,7 @@ Preparation and change of policy statements and plans by local authorities
 5 Public notice and provision of document to public bodies
 6 Making submissions
 7 Public notification of submissions
-8 Limitations on further submissions
+8 Further submissions
 8A Service of further submissions
 8AA Resolution of disputes
 8B Hearing by local authority
@@ -22,6 +22,7 @@ Preparation and change of policy statements and plans by local authorities
 9 Recommendations and decisions on requirements
 10 Decision of local authority
 11 Notification of decision
+12 Record of effect of decisions on provisions other than requirements [Repealed]
 13 Decision of requiring authority or heritage protection authority
 14 Appeals to Environment Court
 15 Hearing by the Environment Court
@@ -51,8 +52,8 @@ Incorporation of documents by reference in plans and proposed plans
 32 Proof of material incorporated by reference
 33 Effect of expiry of material incorporated by reference
 34 Consultation on proposal to incorporate material by reference
-35 Access to material incorporated by reference.
-1
+35 Access to material incorporated by reference
+Part 1
 Preparation and change of policy statements and plans by local authorities
 1 Interpretation and time limits
 (1) In this Schedule, a reference to a policy statement or plan includes a reference to a change to a policy statement or plan.
@@ -67,16 +68,16 @@ Preparation and change of policy statements and plans by local authorities
 (c) the board of any foreshore and seabed reserve in the region.
 3 Consultation
 (1) During the preparation of a proposed policy statement or plan, the local authority concerned shall consult—
-(a) The Minister for the Environment; and
-(b) Those other Ministers of the Crown who may be affected by the policy statement or plan; and
-(c) Local authorities who may be so affected; and
-(d) The tangata whenua of the area who may be so affected, through iwi authorities; and
+(a) the Minister for the Environment; and
+(b) those other Ministers of the Crown who may be affected by the policy statement or plan; and
+(c) local authorities who may be so affected; and
+(d) the tangata whenua of the area who may be so affected, through iwi authorities; and
 (e) the board of any foreshore and seabed reserve in the area.
 (2) A local authority may consult anyone else during the preparation of a proposed policy statement or plan.
 (3) Without limiting subclauses (1) and (2), a regional council which is preparing a regional coastal plan shall consult—
-(a) The Minister of Conservation generally as to the content of the plan, and with particular respect to those activities to be described as restricted coastal activities in the proposed plan; and
-(b) The Minister of Transport in relation to matters to do with navigation and the Minister's functions under Parts XVIII to XXVII of the Maritime Transport Act 1994; and
-(c) The Minister of Fisheries in relation to fisheries management, and the management of aquaculture activities.
+(a) the Minister of Conservation generally as to the content of the plan, and with particular respect to those activities to be described as restricted coastal activities in the proposed plan; and
+(b) the Minister of Transport in relation to matters to do with navigation and the Minister's functions under Parts 18 to 27 of the Maritime Transport Act 1994; and
+(c) the Minister of Fisheries in relation to fisheries management, and the management of aquaculture activities.
 (4) In consulting persons for the purposes of subclause (2), a local authority must undertake the consultation in accordance with section 82 of the Local Government Act 2002.
 3A Consultation in relation to policy statements
 (1) A triennial agreement entered into under section 15(1) of the Local Government Act 2002 must include an agreement on the consultation process to be used by the affected local authorities in the course of—
@@ -117,8 +118,8 @@ A local authority is not required to comply with clause 3 to the extent that any
 (4) If the requiring authority fails to notify the local authority in accordance with subclause (1), no provision for the designation shall be included in the proposed plan.
 (5) A territorial authority shall include in its proposed plan provision for any designation it receives notice of under this clause, any existing heritage orders, and any requirements for designations and heritage orders to which sections 170 and 192 apply.
 (6) A territorial authority may include in its proposed district plan—
-(a) Any requirement for a designation or heritage order which the territorial authority has responsibility for within its district; and
-(b) Any existing designations or heritage orders, with or without modifications, which the territorial authority has responsibility for within its own district.
+(a) any requirement for a designation or heritage order which the territorial authority has responsibility for within its district; and
+(b) any existing designations or heritage orders, with or without modifications, which the territorial authority has responsibility for within its own district.
 (7) The provisions of section 168(3) or section 189(3) shall apply to any requirement or modification under subclause (6).
 (8) Nothing in this clause applies where a territorial authority publicly notifies a change or variation to a district plan under clause 5.
 (9) A requiring authority may withdraw a requirement for a designation in accordance with section 168(4) and a heritage protection authority may withdraw a requirement for a heritage order in accordance with section 189(4).
@@ -126,27 +127,27 @@ A local authority is not required to comply with clause 3 to the extent that any
 5 Public notice and provision of document to public bodies
 (1) A local authority that has prepared a proposed policy statement or plan shall publicly notify it.
 (1A) A territorial authority shall, not earlier than 60 working days before public notification or later than 10 working days after public notification of its plan, either—
-(a) Send a copy of the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, to every ratepayer for the area of the territorial authority where that person, in the local authority's opinion, is likely to be directly affected by the proposed plan; or
-(b) Include the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, in any publication or circular which is issued or sent to all residential properties and Post Office box addresses located in the affected area—
+(a) send a copy of the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, to every ratepayer for the area of the territorial authority where that person, in the local authority's opinion, is likely to be directly affected by the proposed plan; or
+(b) include the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, in any publication or circular which is issued or sent to all residential properties and Post Office box addresses located in the affected area—
 and shall send a copy of the public notice to any other person who, in the territorial authority's opinion, is directly affected by the plan.
 (1B) Notwithstanding subclause (1A), a territorial authority shall ensure that notice is given of any requirement or modification of a designation or heritage order under clause 4 to land owners and occupiers who, in the territorial authority's opinion, are likely to be directly affected.
 (1C) A regional council shall, not earlier than 60 working days before public notification or later than 10 working days after public notification, send a copy of the public notice and such further information as the regional council thinks fit relating to the proposed policy statement or plan to any person who, in the regional council's opinion, is likely to be directly affected by the proposed policy statement or plan.
 (2) Public notice under subclause (1) shall state—
-(a) Where the proposed policy statement or plan may be inspected; and
-(b) That any person may make a submission on the proposed policy statement or plan; and
-(c) The process for public participation in the consideration of the proposed policy statement or plan; and
-(d) The closing date for submissions; and
-(e) The address for service of the local authority.
+(a) where the proposed policy statement or plan may be inspected; and
+(b) that any person may make a submission on the proposed policy statement or plan; and
+(c) the process for public participation in the consideration of the proposed policy statement or plan; and
+(d) the closing date for submissions; and
+(e) the address for service of the local authority.
 (3) The closing date for submissions—
-(a) Shall, in the case of a proposed policy statement or plan, be at least 40 working days after public notification; and
-(b) Shall, in the case of a proposed change or variation to a policy statement or plan, be at least 20 working days after public notification.
-(4) A local authority shall provide one copy of its proposed policy statement or plan without charge to—
-(a) The Minister for the Environment; and
+(a) shall, in the case of a proposed policy statement or plan, be at least 40 working days after public notification; and
+(b) shall, in the case of a proposed change or variation to a policy statement or plan, be at least 20 working days after public notification.
+(4) A local authority shall provide 1 copy of its proposed policy statement or plan without charge to—
+(a) the Minister for the Environment; and
 (b) [Repealed]
-(c) In the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
-(d) In the case of a district plan, the regional council and adjacent local authorities; and
-(e) In the case of a policy statement or regional plan, constituent territorial authorities, and adjacent regional councils; and
-(f) The tangata whenua of the area, through iwi authorities; and
+(c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
+(d) in the case of a district plan, the regional council and adjacent local authorities; and
+(e) in the case of a policy statement or regional plan, constituent territorial authorities, and adjacent regional councils; and
+(f) the tangata whenua of the area, through iwi authorities; and
 (g) the board of any foreshore and seabed reserve in the area.
 (5) A local authority shall make any proposed policy statement or plan prepared by it available in every public library in its area and in every other place in its area that it considers appropriate.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
@@ -154,10 +155,10 @@ and shall send a copy of the public notice to any other person who, in the terri
 Any person, including the local authority in its own area, may, in the prescribed form, make a submission to the relevant local authority on a proposed policy statement or plan that is publicly notified under clause 5.
 7 Public notification of submissions
 (1) A local authority shall publicly notify, through a prominent advertisement,—
-(a) The availability of a summary of all decisions requested by persons making submissions on a proposed policy statement or plan; and
-(b) Where the summary of decisions and the submissions can be inspected; and
-(c) The date on which further submissions close, which date shall not be less than 20 working days after the date of notification; and
-(d) The address for service of the local authority.
+(a) the availability of a summary of all decisions requested by persons making submissions on a proposed policy statement or plan; and
+(b) where the summary of decisions and the submissions can be inspected; and
+(c) the date on which further submissions close, which date shall not be less than 20 working days after the date of notification; and
+(d) the address for service of the local authority.
 (2) A local authority shall send a copy of the public notice advising of the summary of all decisions requested by persons making submissions to all persons who made submissions.
 8 Further submissions
 Any person, including the local authority in its own area, may, in the prescribed form, make a further submission to the relevant local authority, but only in support of or in opposition to those submissions made under clause 6 on a proposed policy statement or plan.
@@ -179,8 +180,8 @@ Where a person makes a further submission under clause 8, that person shall, wit
 (7) The local authority must have regard to the report in making its decision under clause 10.
 8B Hearing by local authority
 A local authority shall hold a hearing into submissions on its proposed policy statement or plan, and any requirements notified under clause 4, and give at least 10 working days notice of the dates, times, and place of the hearings to—
-(a) Every person who made a submission or further submission, and who requested to be heard (and has not since withdrawn that request); and
-(b) In the case of a district plan, every authority which made a requirement under clause 4.
+(a) every person who made a submission or further submission, and who requested to be heard (and has not since withdrawn that request); and
+(b) in the case of a district plan, every authority which made a requirement under clause 4.
 8C Hearing not needed
 Where submissions are made but no person indicates they wish to be heard, or the request to be heard is withdrawn, the local authority shall consider the submissions along with the other relevant matters, but shall not be required to hold a hearing.
 8D Withdrawal of proposed policy statements and plans
@@ -232,8 +233,8 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (1) The Environment Court shall hold a public hearing into any provision or matter referred to it.
 (2) If the Environment Court, in a hearing into any provision of a proposed policy statement or plan (other than a proposed regional coastal plan), directs a local authority under section 293(1), the local authority must comply with the Court's directions.
 (3) Where the Environment Court hears an appeal against a provision of a proposed regional coastal plan, that appeal is an inquiry and the Environment Court—
-(a) Shall report its findings to the appellant, the local authority concerned, and the Minister of Conservation; and
-(b) May include a direction given under section 293(1) to the proposed regional council to make modifications to, deletions from, or additions to, the regional coastal plan.
+(a) shall report its findings to the appellant, the local authority concerned, and the Minister of Conservation; and
+(b) may include a direction given under section 293(1) to the proposed regional council to make modifications to, deletions from, or additions to, the regional coastal plan.
 16 Amendment of proposed policy statement or plan
 (1) A local authority shall make an amendment to its proposed policy statement or plan to give effect to any direction in a national environmental standard or a national policy statement or to any directions of the Environment Court under section 292.
 (2) A local authority may make an amendment, without further formality, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
@@ -266,19 +267,19 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (1) Subject to subclause (2), an approved policy statement or plan shall become an operative policy statement or plan on a date which is to be publicly notified.
 (2) The local authority shall publicly notify the date on which the policy statement or plan becomes operative at least 5 working days before the date on which it becomes operative.
 (3) [Repealed]
-(4) The local authority shall provide one copy of its operative policy statement or plan without charge to—
-(a) The Minister for the Environment; and
-(b) The appropriate regional manager for the Ministry for the Environment; and
-(c) In the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
-(d) In the case of a district plan, the regional council and adjacent territorial authorities; and
-(e) In the case of a policy statement or regional plan, constituent territorial authorities and adjacent regional councils; and
-(f) The tangata whenua of the area, through iwi authorities; and
+(4) The local authority shall provide 1 copy of its operative policy statement or plan without charge to—
+(a) the Minister for the Environment; and
+(b) the appropriate regional manager for the Ministry for the Environment; and
+(c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
+(d) in the case of a district plan, the regional council and adjacent territorial authorities; and
+(e) in the case of a policy statement or regional plan, constituent territorial authorities and adjacent regional councils; and
+(f) the tangata whenua of the area, through iwi authorities; and
 (g) the board of any foreshore and seabed reserve in the area.
-(5) The local authority shall provide one copy of its operative policy statement or plan to every public library in its area.
+(5) The local authority shall provide 1 copy of its operative policy statement or plan to every public library in its area.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 20A Correction of operative policy statement or plan
 A local authority may amend, without further formality, an operative policy statement or plan to correct any minor errors.
-2
+Part 2
 Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
 21 Requests
 (1) Any person may request a change to a district plan or a regional plan (including a regional coastal plan).
@@ -290,10 +291,10 @@ Requests for changes to policy statements and plans of local authorities and req
 (2) Where environmental effects are anticipated, the request shall describe those effects, taking into account the provisions of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
 23 Further information may be required
 (1) Where a local authority receives a request from any person under clause 21, it may within 20 working days, by written notice, require that person to provide further information necessary to enable the local authority to better understand—
-(a) The nature of the request in respect of the effect it will have on the environment, including taking into account the provisions of Schedule 4; or
-(b) The ways in which any adverse effects may be mitigated; or
-(c) The benefits and costs, the efficiency and effectiveness, and any possible alternatives to the request; or
-(d) The nature of any consultation undertaken or required to be undertaken—
+(a) the nature of the request in respect of the effect it will have on the environment, including taking into account the provisions of Schedule 4; or
+(b) the ways in which any adverse effects may be mitigated; or
+(c) the benefits and costs, the efficiency and effectiveness, and any possible alternatives to the request; or
+(d) the nature of any consultation undertaken or required to be undertaken—
 if such information is appropriate to the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change or plan.
 (2) A local authority, within 15 working days of receiving any information under this clause, may require additional information relating to the request.
 (3) A local authority may, within 20 working days of receiving a request under clause 21, or, if further or additional information is sought under subclause (1) or subclause (2), within 15 working days of receiving that information, commission a report in relation to the request and shall notify the person who made the request that such a report has been commissioned.
@@ -306,30 +307,30 @@ if such information is appropriate to the scale and significance of the actual o
 As a result of further or additional information, commissioned reports, or other relevant matters, the local authority may, with the agreement of the person who made the request, modify the request.
 25 Local authority to consider request
 (1) A local authority shall, within 30 working days of—
-(a) Receiving a request under clause 21; or
-(b) Receiving all required information or any report which was commissioned under clause 23; or
-(c) Modifying the request under clause 24—
+(a) receiving a request under clause 21; or
+(b) receiving all required information or any report which was commissioned under clause 23; or
+(c) modifying the request under clause 24—
 whichever is the latest, decide under which of subclauses (2), (3), and (4), or a combination of subclauses (2) and (4), the request shall be dealt with.
 (2) The local authority may either—
-(a) Adopt the request, or part of the request, as if it were a proposed policy statement or plan made by the local authority itself and, if it does so,—
-(i) The request must be notified in accordance with clause 5 of this Schedule within 4 months of the local authority adopting the request; and
-(ii) The provisions of Part 1 of this Schedule must apply; and
-(iii) The request has effect once publicly notified; or
-(b) Accept the request, in whole or in part, and proceed to notify the request, or part of the request, under clause 26.
+(a) adopt the request, or part of the request, as if it were a proposed policy statement or plan made by the local authority itself and, if it does so,—
+(i) the request must be notified in accordance with clause 5 of this Schedule within 4 months of the local authority adopting the request; and
+(ii) the provisions of Part 1 of this Schedule must apply; and
+(iii) the request has effect once publicly notified; or
+(b) accept the request, in whole or in part, and proceed to notify the request, or part of the request, under clause 26.
 (3) The local authority may decide to deal with the request as if it were an application for a resource consent and the provisions of Part 6 shall apply accordingly.
 (4) The local authority may reject the request in whole or in part, but only on the grounds that—
-(a) The request or part of the request is frivolous or vexatious; or
-(b) The substance of the request or part of the request has been considered and given effect to or rejected by the local authority or Environment Court within the last 2 years; or
-(c) The request or part of the request is not in accordance with sound resource management practice; or
-(d) The request or part of the request would make the policy statement or plan inconsistent with Part 5; or
-(e) In the case of a proposed change to a policy statement or plan, the policy statement or plan has been operative for less than 2 years.
+(a) the request or part of the request is frivolous or vexatious; or
+(b) the substance of the request or part of the request has been considered and given effect to or rejected by the local authority or Environment Court within the last 2 years; or
+(c) the request or part of the request is not in accordance with sound resource management practice; or
+(d) the request or part of the request would make the policy statement or plan inconsistent with Part 5; or
+(e) in the case of a proposed change to a policy statement or plan, the policy statement or plan has been operative for less than 2 years.
 (5) The local authority shall notify the person who made the request, within 10 working days, of its decision under this clause, and the reasons for that decision.
 26 Notification timeframes
 Where a local authority accepts the request or part of the request under clause 25(2)(b)—
-(a) The local authority shall prepare the change to the policy statement or plan in consultation with the person who made the request under clause 21; and
-(b) The local authority shall publicly notify the change or the proposed policy statement or plan—
-(i) Within 4 months of agreeing to accept the request; or
-(ii) Within the period that the Environment Court directs under clause 27.
+(a) the local authority shall prepare the change to the policy statement or plan in consultation with the person who made the request under clause 21; and
+(b) the local authority shall publicly notify the change or the proposed policy statement or plan—
+(i) within 4 months of agreeing to accept the request; or
+(ii) within the period that the Environment Court directs under clause 27.
 27 Appeals
 (1) A person who requests a plan change under clause 21 may appeal to the Environment Court against a decision referred to in subclause (1A) within 15 working days of receiving the decision.
 (1A) The decisions that may be appealed under subclause (1) are decisions—
@@ -355,7 +356,7 @@ Where a local authority accepts the request or part of the request under clause 
 (7) Where a plan or change has been appealed to the Environment Court, clauses 14 and 15 shall apply, with all necessary modifications.
 (8) Where a plan or change has been appealed to the Environment Court, the person who made the request under clause 21 has the right to appear before the Environment Court.
 (9) With the agreement of the person who made the request, the local authority may, at any time before its decision on the plan or change, initiate a variation under clause 16A.
-3
+Part 3
 Incorporation of documents by reference in plans and proposed plans
 30 Incorporation of documents by reference in plans and proposed plans
 (1) The following written material may be incorporated by reference in a plan or proposed plan:

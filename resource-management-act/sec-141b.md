@@ -6,7 +6,7 @@
 (a) has aroused widespread public concern or interest regarding its actual or likely effect on the environment, including the global environment; or
 (b) involves or is likely to involve significant use of natural and physical resources; or
 (c) affects or is likely to affect any structure, feature, place, or area of national significance; or
-(d) affects or is likely to affect more than one region or district; or
+(d) affects or is likely to affect more than 1 region or district; or
 (e) affects or is likely to affect or is relevant to New Zealand's international obligations to the global environment; or
 (f) involves or is likely to involve technology, processes, or methods which are new to New Zealand and which may affect the environment; or
 (g) results or is likely to result in or contribute to significant or irreversible changes to the environment, including the global environment; or

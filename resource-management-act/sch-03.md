@@ -1,17 +1,18 @@
 # Schedule 3 Water quality classes
-Section 69
+s 69
+Note: The standards listed for each class apply after reasonable mixing of any contaminant or water with the receiving water and disregard the effect of any natural perturbations that may affect the water body.
 1 Class AE Water (being water managed for aquatic ecosystem purposes)
 (1) The natural temperature of the water shall not be changed by more than 3° Celsius.
 (2) The following shall not be allowed if they have an adverse effect on aquatic life:
-(a) Any pH change:
-(b) Any increase in the deposition of matter on the bed of the water body or coastal water:
-(c) Any discharge of a contaminant into the water.
+(a) any pH change:
+(b) any increase in the deposition of matter on the bed of the water body or coastal water:
+(c) any discharge of a contaminant into the water.
 (3) The concentration of dissolved oxygen shall exceed 80% of saturation concentration.
 (4) There shall be no undesirable biological growths as a result of any discharge of a contaminant into the water.
 2 Class F Water (being water managed for fishery purposes)
 (1) The natural temperature of the water—
-(a) Shall not be changed by more than 3° Celsius; and
-(b) Shall not exceed 25° Celsius.
+(a) shall not be changed by more than 3° Celsius; and
+(b) shall not exceed 25° Celsius.
 (2) The concentration of dissolved oxygen shall exceed 80% of saturation concentration.
 (3) Fish shall not be rendered unsuitable for human consumption by the presence of contaminants.
 3 Class FS Water (being water managed for fish spawning purposes)
