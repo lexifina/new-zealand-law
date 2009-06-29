@@ -1,3 +1,3 @@
 # 207ZL Disclosure of information to interstate officer
-(1) This section applies to information that has come to the notice of the chief executive, or to an officer or employee of the Department, in the performance of duties or exercise of powers under this Act.
+(1) This section applies to information that has come to the notice of the chief executive, or to an officer or employee of the department, in the performance of duties or exercise of powers under this Act.
 (2) Despite anything to the contrary in this Act, the chief executive may disclose to an interstate officer information to which this section applies if the chief executive considers the disclosure necessary or desirable to enable the interstate officer to perform duties or exercise powers under a child welfare law or an interstate law.

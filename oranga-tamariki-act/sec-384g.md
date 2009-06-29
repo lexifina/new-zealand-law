@@ -4,7 +4,7 @@
 (3) A pat down search or a strip search must not be carried out in view of—
 (a) a person who is not of the same sex as the child or young person, unless the person is a parent or guardian (other than the chief executive) of the child or young person or a person who would otherwise have the care of the child or young person:
 (b) another child or young person in the residence.
-(4) A pat down search or a strip search must not be conducted unless 1 of the following persons is also present:
+(4) A pat down search or a strip search must not be conducted unless one of the following persons is also present:
 (a) another member of staff:
 (b) a constable:
 (c) a parent or guardian (other than the chief executive) of the child or young person or a person who would otherwise have the care of the child or young person.

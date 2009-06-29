@@ -7,7 +7,7 @@ mail includes—
 (c) an envelope or package
 manager means the person for the time being in charge of a residence
 member of staff means every person employed as a member of staff of a residence; and includes the manager of the residence
-pat down search means a search of a clothed child or young person in a residence in which the person conducting the search may do the following
+pat down search means a search of a clothed child or young person in a residence in which the person conducting the search may do the following:
 (a) run or pat his or her hand over the body of the person being searched, whether inside or outside the clothing (other than any underclothing) of that person:
 (b) insert his or her hand inside any pocket or pouch in the clothing (other than the underclothing) of the person being searched:
 (c) for the purpose of permitting a visual inspection, require the person being searched to do all or any of the following:
