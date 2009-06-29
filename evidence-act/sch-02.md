@@ -99,13 +99,13 @@ Section 13(1): repeal and substitute:
 Plant Variety Rights Act 1987 (1987 No 5)
 Repeal section 29(3) and substitute:
 "(3) For the purposes of subsection (2),—
-"Court includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+"court includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
 "District Court includes—
 "(a) a Family Court; and
 "(b) a Youth Court
 "person acting judicially means any person having in New Zealand by law authority to hear, receive, and examine evidence."
 Reprint of Statutes Act 1931 (1931 No 13)
-Section 4: omit "section twenty-nine of the Evidence Act 1908" and substitute "section 16C of the Acts and Regulations Publication Act 1989".
+Section 4: omit "section 29 of the Evidence Act 1908" and substitute "section 16C of the Acts and Regulations Publication Act 1989".
 Reserve Bank of New Zealand Act 1989 (1989 No 157)
 Section 156A(4)(b): omit "section 47B of the Evidence Act 1908" and substitute "the Evidence Act 2006".
 Sale of Liquor Act 1989 (1989 No 63)
