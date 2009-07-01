@@ -2,7 +2,7 @@
 ss 5(1), 24(2), 25(3)-(4), 26(3), 27(2)
 Part 1
 Reorganisation proposals
-1—Initiation of reorganisation proposals
+Subpart 1—Initiation of reorganisation proposals
 Initiation
 1 Who may make reorganisation proposal
 (1) A reorganisation proposal that involves the alteration of a boundary or the transfer of a responsibility may be made—
@@ -30,7 +30,7 @@ Compare: 1974 No 66 s 37ZO
 (b) the proposal must include the name and address of a representative of the proposers.
 (2) A proposal involving a boundary change or the definition of boundaries must be accompanied by a plan or other description sufficient to identify the area or areas concerned.
 Compare: 1974 No 66 ss 37ZP, 37ZQ
-2—Criteria to be considered
+Subpart 2—Criteria to be considered
 3 Promotion of good local government
 (1) When considering a reorganisation proposal or scheme, the joint committee of the affected local authorities or the appointed local authority or the Commission must satisfy itself that the proposal or scheme will—
 (a) promote good local government of the districts or regions concerned; and
@@ -68,7 +68,7 @@ A reorganisation scheme issued under subpart 4 may not provide that a territoria
 (b) is predominantly urban; and
 (c) is a distinct entity and a major centre of activity within the region.
 Compare: 1974 No 66 s 37M
-3—Proposals for boundary alterations and transfer of responsibilities
+Subpart 3—Proposals for boundary alterations and transfer of responsibilities
 8 Application of this subpart
 Reorganisation proposals for the alteration of the boundaries of a district or region, or the transfer of any responsibility from one local authority to another must be dealt with under this subpart.
 9 Reorganisation proposal initiated when filed with affected local authorities
@@ -119,8 +119,8 @@ Compare: 1974 No 66 ss 37ZT, 37ZV
 (iv) the Parliamentary Commissioner for the Environment; and
 (v) the Secretary; and
 (vi) the Secretary for the Environment; and
-(vii) the Chief Executive of Te Puni Kokiri; and
-(viii) any affected Maori organisations identified by Te Puni Kokiri; and
+(vii) the Chief Executive of Te Puni Kōkiri; and
+(viii) any affected Māori organisations identified by Te Puni Kōkiri; and
 (ix) any other organisations that the joint committee of the affected local authorities, the appointed local authority, or the Commission considers appropriate; and
 (c) invite submissions in relation to the draft reorganisation scheme.
 Compare: 1974 No 66 s 37ZW
@@ -275,7 +275,7 @@ Compare: 1974 No 66 s 37ZZMA
 32 Provisions pending determination of appeal
 Pending the determination of an appeal under clause 20, the decision to which the appeal relates is deemed to have no effect.
 Compare: 1974 No 66 s 37ZZN
-4—Proposals for union, constitution, and abolition of districts and regions, and creation of unitary authorities
+Subpart 4—Proposals for union, constitution, and abolition of districts and regions, and creation of unitary authorities
 33 Application of this subpart
 This subpart applies to any reorganisation proposal for any of the matters listed in section 24(1)(a), (b), (c), and (f).
 Initiation of proposal
@@ -312,8 +312,8 @@ Consideration of proposals
 (iv) the Parliamentary Commissioner for the Environment; and
 (v) the Secretary; and
 (vi) the Secretary for the Environment; and
-(vii) the Chief Executive of Te Puni Kokiri; and
-(viii) any affected Maori organisations identified by Te Puni Kokiri; and
+(vii) the Chief Executive of Te Puni Kōkiri; and
+(viii) any affected Māori organisations identified by Te Puni Kōkiri; and
 (ix) any other persons or organisations that the Commission considers appropriate.
 (2) Any body or person that wishes to make a submission on a proposal must make the submission to the Commission within 60 days after the first public notification of the proposal or within any further time that the Commission may allow.
 (3) The Commission must grant the opportunity to meet with, and be heard by, the Commission on the proposal to—
@@ -560,7 +560,7 @@ If considered necessary or desirable, the following provisions may be included i
 (i) provisions determining the system of rating to be in force in a new district or region, or enlarged district or region, which provisions may provide that, for a specified period, different rating systems apply to all rates, or to the kinds of rates that are specified in the scheme, made and levied in those parts of the new district or region, or enlarged district or region, that were, or formed part of, separate districts or regions:
 (j) despite paragraph (i), if the Commission agrees, provisions that provide that, for a specified period (not exceeding 5 years), different rating systems may be applied to all rates in a district or region, or to the kinds of rates that are specified in the order, made and levied in those parts of the new district or region, or enlarged district or region, at the time the order takes effect:
 (k) if a district or region is abolished and the whole or any part of it is included in the district or region of another local authority, provisions for the representation of that first-mentioned district or region or part of it on that local authority until the next triennial general election of members of that local authority.
-Compare: 1974 No 66 Part 1 of Schedule 3B
+Compare: 1974 No 66 Schedule 3B Part 1
 Provisions that apply to each reorganisation scheme
 67 Provisions that apply to each reorganisation scheme
 The following provisions apply to each reorganisation scheme unless amended or declared not to apply by a reorganisation scheme:
@@ -579,7 +579,7 @@ The following provisions apply to each reorganisation scheme unless amended or d
 (j) except in the circumstances specified in clause 1, clause 2, clause 3, or clause 4, if part of a district or region is excluded from that district or region and included in another district or region, the members of the local authority of the first-mentioned district or region continue to be members of that district or region as if that part had not been excluded from the district or region:
 (k) if an area is included in the district of another territorial authority, the civil defence emergency management group plan for the district in which the area is included applies to the area so included and is the only operative local civil defence plan to apply in that area:
 (l) if a new district or region is constituted, every civil defence emergency management group plan that is in force in respect of any area included in that district or region continues in force until a new plan is prepared and approved for the district under the Civil Defence Emergency Management Act 2002.
-Compare: 1974 No 66 Part 2 of Schedule 3B
+Compare: 1974 No 66 Schedule 3B Part 2
 Provisions consequential on coming into force of Order in Council giving effect to reorganisation scheme
 68 General
 (1) This clause applies if, under a reorganisation scheme, a local authority assumes jurisdiction over an area formerly comprising a separate district or region, or formerly constituting a defined part of the district or region from which it was excluded.
@@ -592,7 +592,7 @@ Provisions consequential on coming into force of Order in Council giving effect 
 (c) before the union, inclusion, abolition, or exclusion, the local authority of an area formerly comprising a separate district, or of the district or region from which the part was excluded, had resolved to raise a loan, being a loan for the benefit of that defined part, but had not raised the loan, or had raised only part of the loan, and the resolution has not lapsed.
 (3) If, on the addition of an area to a district of a territorial authority, a liability is imposed on the local authority, a special rate made and levied as security for a loan raised under subclause (2) may be made and levied over the whole district or, if the special order to raise the loan so provides, over the added area.
 (4) If part of a district or region is excluded from that district or region and included in another district or region, the remaining part of the first-mentioned district or region continues to be the same district or region.
-Compare: 1974 No 66 cls 24-26 of Schedule 3B
+Compare: 1974 No 66 Schedule 3B cls 24-26
 69 Apportionment of assets and liabilities
 (1) If an Order in Council does not make provision for the apportionment of the assets and liabilities of the local authorities affected by the order, those local authorities may, by agreement, determine the manner in which those assets and liabilities must be apportioned.
 (2) If an agreement is not entered into by the local authorities concerned within 3 months after the date of the coming into force of the order, a local authority directly affected may apply to the Commission for an order apportioning assets and liabilities, and the Commission must make an order directing the manner in which assets and liabilities must be apportioned among the local authorities concerned.
@@ -600,7 +600,7 @@ Compare: 1974 No 66 cls 24-26 of Schedule 3B
 (4) In the exercise of its powers under subclause (2), the Commission may identify the assets and liabilities to be transferred, which assets and liabilities must include all amounts and items that properly ought to be treated as being of the same character irrespective of how they may be described in the accounts or records of any local authority.
 (5) An order of the Commission under subclause (2) may be enforced as if it were an agreement between the local authorities concerned.
 (6) For the purposes of the Income Tax Act 2007, the Goods and Services Tax Act 1985, and the Injury Prevention, Rehabilitation, and Compensation Act 2001, a local authority constituted under a reorganisation scheme is deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
-Compare: 1974 No 66 s 37E, cls 27-31 of Part 3 of Schedule 3B, 1989 No 1 s 29A
+Compare: 1974 No 66 s 37E, Schedule 3B Part 3 cls 27-31; 1989 No 1 s 29A
 Payment on transfer of trading undertaking
 70 Apportionment of fuel tax revenue
 (1) This clause applies if, under an Order in Council giving effect to a proposal in a final reorganisation scheme under this Act,—
@@ -611,4 +611,4 @@ Payment on transfer of trading undertaking
 (2) Despite the requirement of Part 11 of the Local Government Act 1974 that those proceeds must be distributed according to the proportion that the total rate revenue of each such component authority for the immediately preceding financial year bears to the total rate revenue of all the component authorities within the meaning of Part 11 of that Act for the preceding financial year, the component authorities whose districts have respectively been increased and decreased in area and the component authority for the newly constituted district may, by agreement, determine the basis on which those proceeds are distributed among them until the expiration of the year commencing on 1 July on or after the day on which the Order in Council comes into force.
 (3) Clauses 69(3) to (5) apply as if an order of the Commission under clause 69(2) were an order determining an issue under subclause (2) of this clause.
 (4) Nothing in this clause has the effect of altering the provisions of Part 11 of the Local Government Act 1974 in respect of the proportion of the proceeds of any tax distributed under that Part to any constituent authorities whose districts are not altered by the Order in Council or other instrument.
-Compare: 1974 No 66 s 37G; 1977 No 109 s 2, cl 59 of Schedule 3B
+Compare: 1974 No 66 s 37G; 1977 No 109 s 2, Schedule 3B cl 59

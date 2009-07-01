@@ -1,5 +1,5 @@
 # Schedule 8 Statements of intent
-ss 64(1) and (4), 65(2)
+ss 64(1), (4), 65(2)
 1 Purpose of statement of intent
 The purpose of a statement of intent is to—
 (a) state publicly the activities and intentions of a council-controlled organisation for the year and the objectives to which those activities will contribute; and

@@ -9,7 +9,7 @@ Compare: 1974 No 66 s 37ZM
 2 Appeal to High Court
 (1) If a party to proceedings before the Commission or the Minister is dissatisfied with a decision of the Commission in the proceedings as being erroneous in point of law, the party or the Minister may appeal to the High Court on the question of law.
 (2) The decision of the High Court on the appeal is final.
-(3) Subject to clauses 4 to 9, an appeal under this clause must be dealt with in accordance with rules of Court.
+(3) Subject to clauses 4 to 9, an appeal under this clause must be dealt with in accordance with rules of court.
 (4) For the purposes of this clause and clauses 4 to 9, a local authority affected by the decision, and a person who has made submissions to the Commission in the proceedings, is to be treated as a party to the proceedings before the Commission.
 Compare: 1974 No 66 s 37ZE
 3 Appeal in respect of additional points of law
@@ -26,14 +26,14 @@ Compare: 1974 No 66 s 37ZJ
 (a) the decision or the part of the decision appealed from; and
 (b) the error of law alleged by the appellant; and
 (c) the question of law to be resolved; and
-(d) the grounds of the appeal, specified with such reasonable particularity as to give full advice to both the Court and the other parties of the issues involved.
+(d) the grounds of the appeal, specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved.
 (5) The Chief Executive Officer of the Commission must, as soon as practicable after receiving a copy of the notice of appeal, send a copy of the whole of the decision appealed from to the Registrar of the High Court in Wellington.
 Compare: 1974 No 66 s 37ZF
 5 Preliminary orders
 (1) The High Court may, of its own motion or on the application of a party to the appeal, make 1 or more of the following orders:
 (a) an order directing the Commission to lodge with the Registrar of the High Court in Wellington a document or other written material or an exhibit in the possession or custody of the Commission:
-(b) an order directing the Commission to lodge with the Registrar a report recording, in respect of any matter or issue that the Court may specify, any of the findings of fact of the Commission that are not set out or fully set out in its decision:
-(c) an order directing the Commission to lodge with the Registrar a report setting out, in respect of a matter or issue that the Court may specify, any reasons or considerations of the Commission to which the Commission had regard but which are not set out in its decision.
+(b) an order directing the Commission to lodge with the Registrar a report recording, in respect of any matter or issue that the court may specify, any of the findings of fact of the Commission that are not set out or fully set out in its decision:
+(c) an order directing the Commission to lodge with the Registrar a report setting out, in respect of a matter or issue that the court may specify, any reasons or considerations of the Commission to which the Commission had regard but which are not set out in its decision.
 (2) An application under subclause (1) must,—
 (a) in the case of the appellant, be made within 1 month after the date of the lodging of the notice of appeal; or
 (b) in the case of any other party to the appeal, within 1 month after the date of the service on that party of a copy of the notice of appeal.
@@ -57,7 +57,7 @@ Compare: 1974 No 66 s 37ZG
 8 Dismissal of appeal
 The High Court may dismiss an appeal—
 (a) if the appellant does not appear at the time appointed for the hearing of the appeal; or
-(b) if the appellant does not prosecute the appeal with all due diligence and a party applies to the Court for the dismissal of the appeal.
+(b) if the appellant does not prosecute the appeal with all due diligence and a party applies to the court for the dismissal of the appeal.
 Compare: 1974 No 66 s 37ZI
 9 Extension of time
 The High Court or a High Court Judge may, in its or the Judge's discretion, on the application of the appellant or intending appellant or any other party, extend any time provided under this schedule for the lodging of any notice, application, or other document.

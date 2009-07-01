@@ -10,7 +10,7 @@ A long-term council community plan must, to the extent determined appropriate by
 (d) describe how the community outcomes relate to other key strategic planning documents or processes:
 (e) outline how the local authority will, to further community outcomes, work with—
 (i) other local organisations and regional organisations; and
-(ii) Maori, central government, and non-government organisations; and
+(ii) Māori, central government, and non-government organisations; and
 (iii) the private sector:
 (f) state what measures will be used to assess progress towards the achievement of community outcomes:
 (g) state how the local authority will monitor and, not less than once in every 3 years, report on the community's progress towards achieving community outcomes.
@@ -50,8 +50,8 @@ A long-term council community plan must, in relation to each council-controlled 
 (i) the local authority's significant policies and objectives in regard to ownership and control of the organisation; and
 (ii) the nature and scope of the activities to be provided by the council-controlled organisation; and
 (iii) the key performance targets and other measures by which performance may be judged.
-5 Development of Maori capacity to contribute to decision-making processes
-A long-term council community plan must set out any steps that the local authority intends to take, having considered ways in which it might foster the development of Maori capacity to contribute to the decision-making processes of the local authority, over the period covered by that plan.
+5 Development of Māori capacity to contribute to decision-making processes
+A long-term council community plan must set out any steps that the local authority intends to take, having considered ways in which it might foster the development of Māori capacity to contribute to the decision-making processes of the local authority, over the period covered by that plan.
 6 Funding and financial policies
 A long-term council community plan must include the funding and financial policies of the local authority adopted under section 102.
 7 Determining significance
@@ -87,7 +87,7 @@ If the local authority has resolved, under section 100(2), not to balance its op
 (iv) if the targeted rate is set differentially, a statement of the total revenue sought from each category of rateable land or of the relationship between the rates set on rateable land in each category; and
 (v) whether lump sum contributions will be invited in respect of the targeted rate; and
 (e) for each mechanism, a statement of its relationship to the sources of funding described in clause 2(2)(d).
-(2) If the same mechanism is to be used in more than one of the years covered by the long-term council community plan, it is sufficient compliance with paragraphs (c) to (e) of subclause (1), in respect of that mechanism, if—
+(2) If the same mechanism is to be used in more than 1 of the years covered by the long-term council community plan, it is sufficient compliance with paragraphs (c) to (e) of subclause (1), in respect of that mechanism, if—
 (a) those paragraphs are complied with in respect of one of those years; and
 (b) the funding impact statement specifies the other years in respect of which that mechanism is to be used.
 11 Significant forecasting assumptions
@@ -139,7 +139,7 @@ An annual report must, in relation to each group of activities of the local auth
 (i) setting out a comparison between the actual levels of service provision of that group of activities and the intended levels of service provision (as set out in the long-term council community plan in respect of that year) of that group of activities; and
 (ii) giving the reasons for any significant variance between the actual service provision and the expected service provision; and
 (f) include an audited statement—
-(i) describing any significant acquisitions or replacements of assets undertaken by the local authority in the year to which the report relates; nd
+(i) describing any significant acquisitions or replacements of assets undertaken by the local authority in the year to which the report relates; and
 (ii) giving the reasons why the local authority acquired or replaced those assets; and
 (iii) giving the reasons for any significant variation between the acquisitions and replacements projected in the long-term council community plan and those actually made.
 16 Council-controlled organisations
@@ -175,4 +175,4 @@ Compare: 1974 No 66 s 223E(12)
 (a) by the mayor or chairperson of the local authority; and
 (b) by the chief executive of the local authority.
 21 General
-An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide for opportunities for Maori to contribute to the decision-making processes of the local authority.
+An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide for opportunities for Māori to contribute to the decision-making processes of the local authority.

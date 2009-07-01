@@ -1,7 +1,7 @@
 # Schedule 4 Provisions relating to Local Government Commission and its proceedings
 s 36
 1 Interpretation
-In this Schedule, unless the context otherwise requires,—
+In this schedule, unless the context otherwise requires,—
 member means a member of the Commission appointed under section 33
 transaction means a matter referred to in clause 17(2).
 Members
@@ -19,7 +19,7 @@ Compare: 1974 No 66 s 37Z(1), (2)
 (3) If a member dies, resigns, or is removed from office, his or her office becomes vacant.
 (4) A vacancy under this clause is an extraordinary vacancy, and must be filled in the manner in which the appointment to the vacant office was made.
 (5) A person appointed to fill an extraordinary vacancy must be appointed for the residue of the term for which the vacating member was appointed.
-Compare: 1974 No 66 s 37Z(3), cl 1 of Schedule 3A
+Compare: 1974 No 66 s 37Z(3), Schedule 3A cl 1
 4 Deputies of members
 (1) If a member is, or is likely to be, unable to perform his or her duties because of illness, absence, or any other reason, and the Minister considers that the inability to perform the duties is likely to continue for a period of more than 14 days, the Minister may appoint a deputy to perform—
 (a) all the functions, responsibilities, duties, and powers of the member; or
@@ -49,10 +49,10 @@ Meetings of members
 (a) half of the members if the number of members is even; and
 (b) a majority of the members if the number of members is odd; but
 (c) in no case, to be fewer than 2 members.
-Compare: 1974 No 66 cl 3(1), (2) of Schedule 3A
+Compare: 1974 No 66 Schedule 3A cl 3(1), (2)
 9 Chairperson to preside
 (1) The chairperson must preside at all meetings of the Commission at which he or she is present.
-(2) The members present must appoint 1 of their number (not being a temporary member) to be the chairperson for the meeting if—
+(2) The members present must appoint one of their number (not being a temporary member) to be the chairperson for the meeting if—
 (a) the chairperson is not present; or
 (b) there is no chairperson.
 (3) The appointed person has and may exercise all the powers, duties, and functions of the chairperson for the purposes of the meeting.
@@ -61,7 +61,7 @@ Compare: 1974 No 66 cl 3(1), (2) of Schedule 3A
 (2) The presiding member has—
 (a) a deliberative vote; and
 (b) a casting vote if there are more than 2 members voting and there is an equality of votes.
-Compare: 1974 No 66 cl 3(5) of Schedule 3A
+Compare: 1974 No 66 Schedule 3A cl 3(5)
 11 Resolution assented to by all members
 (1) A resolution in writing signed or assented to by letter, facsimile message, or electronic message by all members is as valid and effectual as if it had been passed at a meeting of the Commission duly called and constituted.
 (2) The resolution may consist of several documents in the same form, each signed or appearing to have been sent by 1 or more members.
@@ -87,7 +87,7 @@ The Commission must appoint the times and places for all its ordinary meetings.
 (1) The Commission may invite any officer of the Public Service or any other person or a representative of any body who or that, in the opinion of the Commission, has specialist knowledge that is likely to be of assistance to the Commission to attend any meeting or discussion held by the Commission and to take part in the proceedings.
 (2) The Commission may engage any consultants that it thinks necessary or desirable to assist it to carry out its functions.
 (3) The Commission may pay to a person engaged under subclause (2), for services rendered by the person, the fees or commissions or both that it thinks fit, and may reimburse the person for expenses reasonably incurred in rendering services for the Commission.
-Compare: 1974 No 66 cls 5, 6 of Schedule 3A
+Compare: 1974 No 66 Schedule 3A cls 5, 6
 Interested members
 17 Obligation to disclose interest
 (1) A member who (otherwise than as a member) is interested, directly or indirectly, in any of the matters listed in subclause (2) must, as soon as practicable after the member knows about the relevant facts, disclose the nature of the interest in accordance with clause 19.
@@ -132,7 +132,7 @@ Delegations
 (2) The Commission may refer to a committee appointed by it under this clause any proposal or matter for investigation or inquiry, and may delegate to the committee any of the functions, responsibilities, powers, or duties conferred or imposed upon the Commission by this or any other enactment in accordance with clauses 25 to 28.
 (3) A committee may regulate its own procedure, subject to any direction from the Commission.
 (4) Clauses 8 to 23 apply to a committee with all necessary modifications.
-Compare: 1974 No 66 cls 2(1), (2), (3) of Schedule 3A
+Compare: 1974 No 66 Schedule 3A cl 2(1), (2), (3)
 25 Delegations
 (1) The Commission may by writing, either generally or specifically, delegate any of its functions or powers to a committee of the Commission.
 (2) However, the Commission may not delegate its power to delegate.
@@ -150,7 +150,7 @@ Miscellaneous provisions
 29 Chief Executive Officer
 (1) There may from time to time be appointed under the State Sector Act 1988 a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
 (2) A person may hold office under this clause in conjunction with any other office in the Public Service.
-Compare: 1974 No 66 cl 7 of Schedule 3A
+Compare: 1974 No 66 Schedule 3A cl 7
 30 Liability of members
 (1) A member is not personally liable, in an action taken against him or her by the Commission, for any liability of the Commission, or for any act done or omitted to be done by the Commission or by any person acting under a delegation of the Commission's functions and powers, if the member acted in good faith in pursuance or intended pursuance of the functions or powers of the Commission.
 (2) Every member is indemnified by the Commission—
@@ -161,4 +161,4 @@ Compare: 1974 No 66 cl 7 of Schedule 3A
 31 Annual report
 (1) The Commission must provide to the Minister a report of its proceedings and operations during each year ending with 30 June as soon as practicable after the end of that year.
 (2) A copy of the report must be presented to the House of Representatives as soon as practicable after its receipt by the Minister.
-Compare: 1974 No 66 cl 10 of Schedule 3A
+Compare: 1974 No 66 Schedule 3A cl 10

@@ -1,6 +1,6 @@
 # Schedule 15 Powers of Minister
 ss 254, 258
-1
+Part 1
 Ministerial reviews of local authorities
 1 Interpretation
 In this Part, unless the context otherwise requires, review authority means a review authority appointed under section 254.
@@ -127,7 +127,7 @@ Compare: 1974 No 66 s 692Z
 19 Members not to act while commission in office
 While a commission is in office, neither the chairperson of the local authority nor any member of the local authority may exercise or purport to exercise any power, right, or entitlement, or perform or purport to perform any function or duty conferred or imposed on it or him or her in that capacity by this or any other Act, or by any instrument or otherwise, and is not entitled to be paid in that capacity any salary, allowances, or expenses under this Act.
 Compare: 1974 No 66 s 692ZA
-2
+Part 2
 Commissioners for Disaster Recovery
 20 Interpretation
 In this Part, unless the context otherwise requires,—

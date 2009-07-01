@@ -16,8 +16,8 @@ Vacation of office by members
 Compare: 1974 No 66 s 101X
 2 Ouster of office of member
 (1) On proof by affidavit that a member of a local authority is, or has become, or was at the date of appointment or election, incapable of holding office under this Act, a District Court may call on that person to show cause why he or she should not be adjudged to be ousted from office.
-(2) If a District Court concludes that the member is or was incapable of holding office, the Court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
-(3) In proceedings under this clause, the District Court may exercise all the powers and authorities that it may exercise in its ordinary jurisdiction in civil cases, and the procedure of the Court applies generally, so far as practicable.
+(2) If a District Court concludes that the member is or was incapable of holding office, the court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
+(3) In proceedings under this clause, the District Court may exercise all the powers and authorities that it may exercise in its ordinary jurisdiction in civil cases, and the procedure of the court applies generally, so far as practicable.
 (4) No matter in relation to a disputed appointment or election is to be heard by a District Court under this clause.
 (5) If a District Court adjudges that a member be ousted from his or her office,—
 (a) the decision is not to take effect—
@@ -135,7 +135,12 @@ Conduct of members
 (d) the chief executive of the local authority; or
 (e) in the absence of the chief executive, some other officer appointed by the chief executive.
 (3) The form of the declaration must consist of the following elements:
-Declaration by mayor or chairperson or member I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [ region or district ], the powers, authorities, and duties vested in, or imposed upon, me as [ mayor or chairperson or member ] of the [ local authority ] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other Act Dated at [ place ] this [ number ] day of [ month ] [ year ] Signature: Signed in the presence of: CD, [ mayor or chairperson or member or chief executive of local authority ].
+Declaration by mayor or chairperson or member
+"I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other Act
+Dated at [place] this [number] day of [month] [year]
+Signature:
+Signed in the presence of:
+CD, [mayor or chairperson or member or chief executive of local authority]".
 Compare: 1974 No 66 s 114U
 15 Code of conduct
 (1) A local authority must adopt a code of conduct for members of the local authority as soon as practicable after the commencement of this Act.
@@ -262,19 +267,18 @@ Compare: 1974 No 66 s 114I
 (4) Subsections (1) and (2) apply unless—
 (a) this Act provides otherwise; or
 (b) the standing orders of the local authority expressly provide otherwise.
-Compare: 1974 No 66 s 114J
 25 Voting systems for certain appointments
 (1) This clause applies to—
 (a) the election or appointment of the chairperson and deputy chairperson of a regional council; and
 (b) the election or appointment of the deputy mayor; and
 (c) the election or appointment of the chairperson and deputy chairperson of a committee; and
 (d) the election or appointment of a representative of a local authority.
-(2) If this clause applies, a local authority or a committee (if the local authority has so directed) must determine by resolution that a person be elected or appointed by using one of the following systems of voting:—
+(2) If this clause applies, a local authority or a committee (if the local authority has so directed) must determine by resolution that a person be elected or appointed by using one of the following systems of voting:
 (a) the voting system in subclause (3) (system A):
 (b) the voting system in subclause (4) (system B).
 (3) System A—
 (a) requires that a person is elected or appointed if he or she receives the votes of a majority of the members of the local authority or committee present and voting; and
-(b) has the following characteristics:—
+(b) has the following characteristics:
 (i) there is a first round of voting for all candidates; and
 (ii) if no candidate is successful in that round there is a second round of voting from which the candidate with the fewest votes in the first round is excluded; and
 (iii) if no candidate is successful in the second round there is a third, and if necessary subsequent, round of voting from which, each time, the candidate with the fewest votes in the previous round is excluded; and
@@ -422,9 +426,9 @@ Compare: 1974 No 66 s 119E
 (b) an equal employment opportunities programme; and
 (c) the impartial selection of suitably qualified persons for appointment; and
 (d) recognition of—
-(i) the aims and aspirations of Maori; and
-(ii) the employment requirements of Maori; and
-(iii) the need for greater involvement of Maori in local government employment; and
+(i) the aims and aspirations of Māori; and
+(ii) the employment requirements of Māori; and
+(iii) the need for greater involvement of Māori in local government employment; and
 (e) opportunities for the enhancement of the abilities of individual employees; and
 (f) recognition of the aims and aspirations, and the cultural differences, of ethnic or minority groups; and
 (g) recognition of the employment requirements of women; and
@@ -438,7 +442,7 @@ Provisions relating to community boards and their members
 37 Chairpersons of community boards
 (1) A community board must have a chairperson.
 (2) Clause 25 applies to the election of chairpersons of community boards.
-Compare: 1974 No 66 ss 101ZT
+Compare: 1974 No 66 s 101ZT
 38 Provision of administrative and other facilities for community boards
 A territorial authority within whose district the community of a community board is situated must provide the necessary administrative and other facilities for that community board.
 Compare: 1974 No 66 s 101ZZB

@@ -1,6 +1,6 @@
 # 71A Application of Part to listed companies
 (1) This section applies to a council-controlled organisation if the shares of any of the following are listed on a stock exchange:
-(a) the-council-controlled organisation:
+(a) the council-controlled organisation:
 (b) a holding company of the council-controlled organisation:
 (c) controlling companies of the council-controlled organisation.
 (2) If subsection (1) applies, the council-controlled organisation is not required to—
