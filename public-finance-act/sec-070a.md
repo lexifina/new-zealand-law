@@ -1,0 +1,2 @@
+# 70A Interpretation
+[Repealed]
