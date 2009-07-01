@@ -9,4 +9,4 @@ it is not necessary for that proceeding to be reheard, and the remaining members
 (4) The Court of Appeal must sit as a Full Court to hear and determine
 (a) Cases that are considered, in accordance with the procedure adopted under section 58E, to be of sufficient significance to warrant the consideration of a Full Court:
 (b) Any proceeding, case, or question referred under section 58(6) for hearing and determination by a Full Court:
-(c) Any appeal from a decision of the Courts Martial Appeal Court under section 10 of the Courts Martial Appeals Act 1953.
+(c) Any appeal from a decision of the Court Martial Appeal Court under section 10 of the Court Martial Appeals Act 1953.
