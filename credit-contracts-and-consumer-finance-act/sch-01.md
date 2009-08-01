@@ -47,6 +47,29 @@ Default interest charges and default fees
 (r) particulars that describe any default interest charges and default fees that may be payable under the contract including how and when default interest charges and default fees would become payable:
 Debtor's right to cancel
 (s) a statement of the debtor's rights under section 27 in the following form (unless the contract is a revolving credit contract):
+"Statement of right to cancel
+The Credit Contracts and Consumer Finance Act 2003 gives you a right for a short time after the terms of this contract have been disclosed to you to cancel the contract.
+How to cancel
+If you want to cancel this contract you must give written notice to the creditor.
+*You must also—
+(a) return to the creditor any advance and any other property received by you under the contract (but you cannot do this if you have taken possession of any goods or if you bought any property at an auction or if the contract is for the sale of services that have been performed); or
+(b) pay the cash price of the property or services within 15 working days of the day you give notice.
+*Delete if the credit contract does not involve a credit sale.
+†You must also return to the creditor any advance and any other property received by you under the contract.
+†Delete if the credit contract involves a credit sale.
+Time limits for cancellation
+If the disclosure documents are handed to you directly you must give notice that you intend to cancel within 3 working days after you receive the documents.
+If the disclosure documents are sent to you by electronic means (for example, e-mail) you must give notice that you intend to cancel within 5 working days after the electronic communication is sent.
+If the documents are mailed to you, you must give the notice within 7 working days after they were posted.
+Saturdays, Sundays, and national public holidays are not counted as working days.
+What you may have to pay if you cancel
+If you cancel the contract the creditor can charge you—
+(a) the amount of any reasonable expenses the creditor had to pay in connection with the contract and its cancellation (including legal fees and fees for credit reports, etc); and
+*(b) interest for the period from the day you received the property or services until the day you either pay the cash price for the property or services or return the property to the creditor.
+*Delete if the credit contract does not involve a credit sale.
+†(b) interest for the period from the day you received the advance until the day you repay the advance.
+†Delete if the credit contract involves a credit sale.
+This statement only contains a summary of your rights and obligations in connection with the right to cancel. If there is anything about your rights or obligations under the Credit Contracts and Consumer Finance Act 2003 that you do not understand, if there is a dispute about your rights, or if you think that the creditor is being unreasonable in any way, you should seek legal advice immediately.":
 Continuing disclosure statements
 (t) the frequency with which continuing disclosure statements will be provided (assuming that section 21 does not apply):
 Consent to electronic communications
