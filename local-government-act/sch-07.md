@@ -55,6 +55,8 @@ Remuneration of members
 (b) chairpersons of committees of local authorities:
 (c) chairpersons and members of community boards:
 (d) chairpersons of committees of community boards.
+(e) chairpersons and members of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009):
+(f) chairpersons of committees of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009).
 (2) The Remuneration Authority may do 1 or more of the following things under subclause (1):
 (a) fix—
 (i) scales of salaries:
