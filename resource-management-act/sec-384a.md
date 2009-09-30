@@ -25,6 +25,4 @@ the consent authority shall, notwithstanding any other provision, adjourn any co
 provided that, where the application is made by a person who owns or has an interest in land immediately adjacent to the coastal marine area sought to be occupied, the application shall not be adjourned but shall in all cases be publicly notified.
 (11) For the purposes of this section—
 port company and port related commercial undertaking have the same meanings as in section 2(1) of the Port Companies Act 1988
-occupy
-[Repealed]
 (12) For the purposes of this Act, the consent authority for any coastal permit approved under this section is the regional council whose consent, but for this section, would normally be required.
