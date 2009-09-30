@@ -1,4 +1,15 @@
-# 77A Power to include rules in plans
-(1) A local authority may make rules describing an activity as an activity in section 77B.
-(2) When an activity in a plan or proposed plan is described as an activity in section 77B, the requirements, restrictions, permissions, and prohibitions specified for that type of activity apply to that activity in that plan or proposed plan.
-(3) The power to specify conditions in a plan or proposed plan is limited to conditions for the matters in section 108 or section 220.
+# 77A Power to make rules to apply to classes of activities and specify conditions
+(1) A local authority may—
+(a) categorise activities as belonging to one of the classes of activity described in subsection (2); and
+(b) make rules in its plan or proposed plan for each class of activity that apply—
+(i) to each activity within the class; and
+(ii) for the purposes of that plan or proposed plan; and
+(c) specify conditions in a plan or proposed plan, but only if the conditions relate to the matters described in section 108 or 220.
+(2) An activity may be—
+(a) a permitted activity; or
+(b) a controlled activity; or
+(c) a restricted discretionary activity; or
+(d) a discretionary activity; or
+(e) a non-complying activity; or
+(f) a prohibited activity.
+(3) Subsection (1)(b) is subject to section 77B.

@@ -1,5 +1,5 @@
 # Schedule 4 Assessment of effects on the environment
-s 88(6)(b)
+s 88, Schedule 1
 1 Matters that should be included in an assessment of effects on the environment
 Subject to the provisions of any policy statement or plan, an assessment of effects on the environment for the purposes of section 88 should include—
 (a) a description of the proposal:

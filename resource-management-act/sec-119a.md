@@ -1,6 +1,8 @@
-# 119A Residual powers of regional council
-Where the Minister of Conservation has granted a coastal permit for a restricted coastal activity, the regional council which would otherwise have decided the application for that permit—
-(a) shall have the powers under sections 127 to 132 (relating to the change of consent conditions) in regard to that coastal permit; but
-(i) shall not exercise any of those powers without obtaining the prior written consent of the Minister of Conservation to do so; and
-(ii) shall comply with any conditions imposed by the Minister in regard to the exercise of those powers; and
-(b) shall have all other functions, duties, and powers in respect of the coastal permit as if it had itself granted the permit.
+# 119A Coastal permit for restricted coastal activity treated as if granted by regional council
+(1) Subsection (3) applies to a coastal permit for a restricted coastal activity granted at any time by the Minister of Conservation for a coastal marine area within the region of a regional council.
+(2) If subsection (3) applies to a coastal permit, it applies on and from the later of—
+(a) 1 October 2009; or
+(b) the date that the coastal permit is granted.
+(3) The coastal permit is to be treated as if—
+(a) it were granted by the regional council; and
+(b) the regional council were the consent authority in relation to the coastal permit on and from the date it was granted.

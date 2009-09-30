@@ -15,8 +15,8 @@ Subject to sections 232(4) and 237B(3), every instrument creating an esplanade s
 (d) camping:
 (e) taking any animal on to, or having charge of any animal on, the land:
 (f) taking any vehicle on to, or driving or having charge or control of any vehicle on, the land (whether the vehicle is motorised or non-motorised):
-(g) wilfully damaging or removing any plant (unless acting in accordance with the Noxious Plants Act 1978):
-(h) laying any poison or setting any snare or trap (unless acting in accordance with the Agricultural Pests Destruction Act 1967).
+(g) wilfully damaging or removing any plant (unless acting in accordance with the Biosecurity Act 1993):
+(h) laying any poison or setting any snare or trap (unless acting in accordance with the Biosecurity Act 1993).
 3 Fencing
 The instrument or easement may include any fencing requirements, including gates, stiles, and the repositioning or removal of any fence.
 4 Access on esplanade strips for conservation purposes

@@ -9,7 +9,7 @@
 (g) specify the criteria that the regional council will apply in selecting the successful offer; and
 (h) include details of any direction given under section 165O in relation to the offer; and
 (i) specify the manner in which offers must be submitted; and
-(j) specify any charge payable under section 36(ca); and
+(j) specify any charge payable under section 36(1)(ca); and
 (k) specify any other matter that the regional council considers appropriate in the circumstances.
 (2) If an offer of authorisations is to be by tender, the notice must also—
 (a) specify the form of remuneration required, whether all by advance payment, or by deposit and annual rental payments; and

@@ -6,17 +6,15 @@
 (iii) section 126(2)(b) (which relates to the cancellation of consents):
 (iv) section 139 (which relates to certificates of compliance):
 (v) section 139A (which relates to existing use certificates):
-(b) in respect of a request to provide further information, for a person who has been so requested by a consent authority under section 92(1):
-(c) in respect of a request to consent to the commissioning of a report, for a person who has been so requested under section 92(2)(b):
+(b) [Repealed]
+(c) [Repealed]
 (d) in respect of an application or a submission that a consent authority declines to process or to consider, as provided for by section 99(8), for the person who made the application or submission:
-(e) in respect of a consent authority's decision on an application or review of a kind referred to in subsection (2), for an applicant or consent holder if—
-(i) the application or review was not notified or notice of the application or review was not served (in accordance with section 93, section 94, section 127(3), or section 130); or
-(ii) the application or review was notified or served and—
-(A) no submissions were received; or
-(B) any submissions received were withdrawn.
-(2) Unless subsection (3) applies, subsection (1)(e) applies to—
-(a) an application made under section 88 for a resource consent; or
-(b) an application made under section 127 for a change or cancellation of a condition of a resource consent; or
-(c) a review of the conditions of a resource consent under sections 128 to 132; or
-(d) an application made under section 221 to vary or cancel a condition specified in a consent notice.
-(3) Subsection (2) does not apply in the case of an application for a resource consent under section 88 if, under sections 104B and 104C, the consent authority refuses to grant the resource consent, unless the application is refused by an officer of the consent authority exercising delegated authority under section 34A.
+(e) in respect of a decision of the authority under section 87E(5) or (6), for a person who made a request under section 87D:
+(f) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if—
+(i) the application or review was notified; and
+(ii) either no submissions were received or any submissions received were withdrawn:
+(g) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if the application or review was not notified.
+(2) Subsection (1)(f) and (g) apply to an application made under section 88 for a resource consent. However, they do not apply if the consent authority refuses to grant the resource consent under sections 104B and 104C. They do apply if an officer of the consent authority exercising delegated authority under section 34A refuses to grant the resource consent under sections 104B and 104C.
+(3) Subsection (1)(f) and (g) apply to an application made under section 127 for a change or cancellation of a condition of a resource consent.
+(4) Subsection (1)(f) and (g) apply to a review of the conditions of a resource consent under sections 128 to 132.
+(5) Subsection (1)(f) and (g) apply to an application made under section 221 to vary or cancel a condition specified in a consent notice.

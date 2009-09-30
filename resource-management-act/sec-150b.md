@@ -1,9 +1,9 @@
 # 150B Moratorium
 (1) Subsection (2) applies to—
-(a) an application that requires notification if it was made to a consent authority before the moratorium and the consent authority had not, before the moratorium, notified the application:
-(b) an application that does not require notification if—
+(a) an application that requires public notification if it was made to a consent authority before the moratorium and the consent authority had not, before the moratorium, notified the application:
+(b) an application that does not require public notification if—
 (i) it was made to a consent authority before the moratorium; and
-(ii) the consent authority had not, before the moratorium, decided not to notify the application under section 94.
+(ii) the consent authority had not, before the moratorium, decided not to give limited notification of the application.
 (2) The consent authority must not process or determine the application until the moratorium has expired in relation to the area that the application relates to.
 (3) Subsection (4) applies if an application is made to a consent authority during the moratorium.
 (4) The consent authority—

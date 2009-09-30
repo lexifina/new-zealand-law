@@ -13,7 +13,17 @@
 (a) the activity that is the subject of the hearing may, in the authority's opinion, have a significant adverse environmental effect; and
 (b) the applicant is notified before the authority commissions the report; and
 (c) the applicant does not refuse to agree to the commissioning of the report.
-(5) The authority must provide copies of the report to the applicant and any person who made a submission.
+(5) The authority must provide a copy of any further information requested under subsection (2), and received before the hearing, to the applicant and every person who made a submission.
+(5A) Subsection (5B) applies to—
+(a) any further information that—
+(i) is requested under subsection (2) or (3); and
+(ii) is received in writing or electronically after the start of the hearing; but
+(iii) is not given as evidence at the hearing; and
+(b) any report that is commissioned under subsection (4).
+(5B) The authority must—
+(a) provide a copy of the further information or report to the applicant and every person who made a submission and stated a wish to be heard; and
+(b) make the further information or report available at its office to any person who made a submission and did not state a wish to be heard.
+(5C) However, the authority does not need to provide further information to the applicant or submitter who provided the information.
 (6) At the hearing, the authority may direct a person presenting a submission not to present—
 (a) the whole submission, if all of it is irrelevant or not in dispute; or
 (b) any part of it that is irrelevant or not in dispute.

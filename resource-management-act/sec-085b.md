@@ -1,6 +1,6 @@
 # 85B Process to apply if plan or proposed plan does not comply with section 85A
 (1) If the holder of a customary rights order considers that a rule in a plan or proposed plan does not comply with section 85A, the holder may—
-(a) make a submission to the local authority concerned under clause 6 or clause 8 of Schedule 1; or
+(a) make a submission to the local authority concerned under clause 6 of Schedule 1; or
 (b) request a change under clause 21 of Schedule 1; or
 (c) apply to the Environment Court in accordance with section 293A(3) for a change to a rule in the plan or proposed plan.
 (2) A local authority or the Environment Court, as the case may be, in determining whether or not a rule in a plan or proposed plan complies with section 85A, must consider the following matters:

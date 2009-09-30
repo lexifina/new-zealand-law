@@ -8,10 +8,11 @@
 (2) When choosing between subsection (1)(a) and subsection (1)(b), the Minister may consider the following matters:
 (a) the advantages and disadvantages of having the proposed national policy statement made quickly:
 (b) the extent to which the policy in the proposed national policy statement differs from the policies in—
-(i) other national policy statements; and
+(i) national environmental standards; and
+(ia) other national policy statements; and
 (ii) regional policy statements; and
 (iii) regional or district plans:
 (c) the extent and timing of public debate and public consultation that took place on the policy before the proposed national policy statement was prepared:
 (d) any other relevant matter.
-(3) The Minister must not choose a process established under subsection (1)(b) if the proposed national policy statement includes a provision of the kind described in section 55(2A)(b).
+(3) [Repealed]
 (4) A national policy statement prepared after the use of a process established under subsection (1)(b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.

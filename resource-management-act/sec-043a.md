@@ -1,4 +1,4 @@
-# 43A Additional powers to implement national environmental standards
+# 43A Contents of national environmental standards
 (1) National environmental standards may—
 (a) prohibit an activity:
 (b) allow an activity:
@@ -34,3 +34,7 @@
 (b) may state the matters over which—
 (i) control is reserved; or
 (ii) discretion is restricted.
+(7) A national environmental standard may specify the activities for which the consent authority—
+(a) must give public notification of an application for a resource consent:
+(b) is precluded from giving public notification of an application for a resource consent:
+(c) is precluded from giving limited notification of an application for a resource consent.

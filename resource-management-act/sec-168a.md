@@ -1,12 +1,15 @@
 # 168A Notice of requirement by territorial authority
-(1) When a territorial authority proposes to issue notice of a requirement for a designation—
+(1) This section applies if a territorial authority decides to issue a notice of requirement for a designation—
 (a) for a public work within its district and for which it has financial responsibility; or
-(b) in respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work—
-it shall notify the requirement in accordance with section 93(2); and the provisions of section 168, with all necessary modifications, shall apply to such notice.
-(2) Sections 96, 97, and 99 to 103 shall apply, with all necessary modifications, in respect of a notice under subsection (1), as if every reference in those sections—
-(a) to a resource consent were a reference to the requirement; and
-(b) to an applicant or a consent authority were a reference to the territorial authority; and
-(c) to an application for a resource consent were a reference to the notice under subsection (1).
+(b) in respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work.
+(1A) The territorial authority must decide whether to notify the notice of requirement under sections 95A to 95F (but without the time limit specified by section 95), which apply with all necessary modifications and as if—
+(a) a reference to a resource consent were a reference to the requirement; and
+(b) a reference to an applicant or a consent authority were a reference to the territorial authority; and
+(c) a reference to an application for a resource consent were a reference to the notice of requirement; and
+(d) a reference to an activity were a reference to the designation.
+(1B) Section 168 applies to the notice of requirement with all necessary modifications.
+(2) Sections 96, 97, and 99 to 103 apply to the notice of requirement with the modifications described in subsection (1A).
+(2A) When considering a requirement and any submissions received, a territorial authority must not have regard to trade competition or the effects of trade competition.
 (3) When considering a requirement and any submissions received, a territorial authority must, subject to Part 2, consider the effects on the environment of allowing the requirement, having particular regard to—
 (a) any relevant provisions of—
 (i) a national policy statement:

@@ -6,12 +6,10 @@
 (2) A consent authority that receives a written notice under subsection (1)(b) must—
 (a) set a reasonable time within which the applicant must provide the information; and
 (b) tell the applicant in a written notice the date by which the applicant must provide the information.
-(3) The consent authority may decline the application if—
-(a) 1 of the following applies:
-(i) the applicant does not respond within the time limit specified in subsection (1); or
-(ii) the applicant responds under subsection (1)(b) but does not comply with the time limit set under subsection (2); or
-(iii) the applicant responds under subsection (1)(c); and
-(b) the authority considers that it has insufficient information to enable it to determine the application.
-(4) If the applicant appeals to the Environment Court against the decision to decline the application, the Court must decide whether the authority had sufficient information to enable it to determine the application.
-(5) If the Court decides that the authority did not have sufficient information to enable it to determine the application, it must decline the appeal.
-(6) If the Court decides that the authority had sufficient information to enable it to determine the application, it must hear and decide the appeal.
+(3) The consent authority must consider the application under section 104 even if the applicant—
+(a) does not respond to the request; or
+(b) agrees to provide the information under subsection (1)(b) but does not do so; or
+(c) refuses to provide the information under subsection (1)(c).
+(4) [Repealed]
+(5) [Repealed]
+(6) [Repealed]

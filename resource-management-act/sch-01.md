@@ -3,7 +3,7 @@ ss 60, 64, 65, 73
 Contents
 Part 1
 Preparation and change of policy statements and plans by local authorities
-1 Interpretation and time limits
+1 Time limits
 2 Preparation of proposed policy statement or plan
 3 Consultation
 3A Consultation in relation to policy statements
@@ -11,16 +11,16 @@ Preparation and change of policy statements and plans by local authorities
 3C Previous consultation under other enactments
 4 Requirements to be inserted prior to notification of proposed district plans
 5 Public notice and provision of document to public bodies
-6 Making submissions
-7 Public notification of submissions
-8 Further submissions
+6 Making of submissions
+7 Public notice of submissions
+8 Certain persons may make further submissions
 8A Service of further submissions
 8AA Resolution of disputes
 8B Hearing by local authority
 8C Hearing not needed
 8D Withdrawal of proposed policy statements and plans
 9 Recommendations and decisions on requirements
-10 Decision of local authority
+10 Decisions on provisions and matters raised in submissions
 11 Notification of decision
 12 Record of effect of decisions on provisions other than requirements [Repealed]
 13 Decision of requiring authority or heritage protection authority
@@ -55,8 +55,8 @@ Incorporation of documents by reference in plans and proposed plans
 35 Access to material incorporated by reference
 Part 1
 Preparation and change of policy statements and plans by local authorities
-1 Interpretation and time limits
-(1) In this Schedule, a reference to a policy statement or plan includes a reference to a change to a policy statement or plan.
+1 Time limits
+(1) [Repealed]
 (2) Where any time limit is set in this Schedule, a local authority may extend it under section 37.
 (3) Where no time limit is set, section 21 (obligation to avoid unreasonable delay) applies.
 (4) Where, under this Schedule, a request for a plan change is to be heard and an application for a resource consent or a requirement for a designation or heritage order has been made in relation to the same proposal, section 102 (joint hearings) and section 103 (combined hearings) may apply.
@@ -110,24 +110,24 @@ For the purposes of clause 3(1)(d), a local authority is to be treated as having
 (d) enables those iwi authorities to identify resource management issues of concern to them; and
 (e) indicates how those issues have been or are to be addressed.
 3C Previous consultation under other enactments
-A local authority is not required to comply with clause 3 to the extent that any matter in a proposed policy statement or plan has been the subject of consultation with the same person, group of persons, or their representative or agent under another enactment within the 12 months preceding public notification of the proposed policy statement or plan that the matter relates to, so long as that person, group of persons, or their representative or agent were advised that the information obtained from that consultation was also to apply in relation to matters under this Act.
+A local authority is not required to comply with clause 3 to the extent that any matter in a proposed policy statement or plan has been the subject of consultation with the same person, group of persons, or their representative or agent under another enactment within the 36 months preceding public notification of the proposed policy statement or plan that the matter relates to, so long as that person, group of persons, or their representative or agent were advised that the information obtained from that consultation was also to apply in relation to matters under this Act.
 4 Requirements to be inserted prior to notification of proposed district plans
 (1) Before a territorial authority publicly notifies a district plan under clause 5, it shall, by written request, invite requiring authorities which have a designation in the district that has not lapsed to give written notice to the territorial authority stating whether the requiring authority requires the designation to be included in the proposed plan, with or without modification.
 (2) The written request shall give the requiring authority at least 30 working days to respond, and shall specify the final date for the requiring authority to provide its written notice.
 (3) Where the requiring authority states that a designation is to be included in the proposed plan, with modifications, the requiring authority shall include in its written notice the nature of the modifications, and the reasons for the modifications.
-(4) If the requiring authority fails to notify the local authority in accordance with subclause (1), no provision for the designation shall be included in the proposed plan.
+(4) If the requiring authority fails to notify the territorial authority in accordance with subclause (1), no provision for the designation shall be included in the proposed plan.
 (5) A territorial authority shall include in its proposed plan provision for any designation it receives notice of under this clause, any existing heritage orders, and any requirements for designations and heritage orders to which sections 170 and 192 apply.
 (6) A territorial authority may include in its proposed district plan—
 (a) any requirement for a designation or heritage order which the territorial authority has responsibility for within its district; and
 (b) any existing designations or heritage orders, with or without modifications, which the territorial authority has responsibility for within its own district.
-(7) The provisions of section 168(3) or section 189(3) shall apply to any requirement or modification under subclause (6).
+(7) If a territorial authority includes a requirement, or modification of a requirement, in its proposed district plan under subclause (6), it must make available for public inspection all information about the requirement that is required by the prescribed form for the notice of that requirement.
 (8) Nothing in this clause applies where a territorial authority publicly notifies a change or variation to a district plan under clause 5.
 (9) A requiring authority may withdraw a requirement for a designation in accordance with section 168(4) and a heritage protection authority may withdraw a requirement for a heritage order in accordance with section 189(4).
-(10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without further formality, amend its proposed district plan accordingly.
+(10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this Schedule, amend its proposed district plan accordingly.
 5 Public notice and provision of document to public bodies
 (1) A local authority that has prepared a proposed policy statement or plan shall publicly notify it.
 (1A) A territorial authority shall, not earlier than 60 working days before public notification or later than 10 working days after public notification of its plan, either—
-(a) send a copy of the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, to every ratepayer for the area of the territorial authority where that person, in the local authority's opinion, is likely to be directly affected by the proposed plan; or
+(a) send a copy of the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, to every ratepayer for the area of the territorial authority where that person, in the territorial authority's opinion, is likely to be directly affected by the proposed plan; or
 (b) include the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, in any publication or circular which is issued or sent to all residential properties and Post Office box addresses located in the affected area—
 and shall send a copy of the public notice to any other person who, in the territorial authority's opinion, is directly affected by the plan.
 (1B) Notwithstanding subclause (1A), a territorial authority shall ensure that notice is given of any requirement or modification of a designation or heritage order under clause 4 to land owners and occupiers who, in the territorial authority's opinion, are likely to be directly affected.
@@ -151,19 +151,33 @@ and shall send a copy of the public notice to any other person who, in the terri
 (g) the board of any foreshore and seabed reserve in the area.
 (5) A local authority shall make any proposed policy statement or plan prepared by it available in every public library in its area and in every other place in its area that it considers appropriate.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
-6 Making submissions
-Any person, including the local authority in its own area, may, in the prescribed form, make a submission to the relevant local authority on a proposed policy statement or plan that is publicly notified under clause 5.
-7 Public notification of submissions
-(1) A local authority shall publicly notify, through a prominent advertisement,—
-(a) the availability of a summary of all decisions requested by persons making submissions on a proposed policy statement or plan; and
+6 Making of submissions
+(1) Once a proposed policy statement or plan is publicly notified under clause 5, the persons described in subclauses (2) to (4) may make a submission on it to the relevant local authority.
+(2) The local authority in its own area may make a submission.
+(3) Any other person may make a submission but, if the person could gain an advantage in trade competition through the submission, the person's right to make a submission is limited by subclause (4).
+(4) A person who could gain an advantage in trade competition through the submission may make a submission only if directly affected by an effect of the proposed policy statement or plan that—
+(a) adversely affects the environment; and
+(b) does not relate to trade competition or the effects of trade competition.
+(5) A submission must be in the prescribed form.
+7 Public notice of submissions
+(1) A local authority must give public notice of—
+(a) the availability of a summary of decisions requested by persons making submissions on a proposed policy statement or plan; and
 (b) where the summary of decisions and the submissions can be inspected; and
-(c) the date on which further submissions close, which date shall not be less than 20 working days after the date of notification; and
-(d) the address for service of the local authority.
-(2) A local authority shall send a copy of the public notice advising of the summary of all decisions requested by persons making submissions to all persons who made submissions.
-8 Further submissions
-Any person, including the local authority in its own area, may, in the prescribed form, make a further submission to the relevant local authority, but only in support of or in opposition to those submissions made under clause 6 on a proposed policy statement or plan.
+(c) the fact that no later than 10 working days after the day on which this public notice is given, the persons described in clause 8(1) may make a further submission on the proposed policy statement or plan; and
+(d) the date of the last day for making further submissions (as calculated under paragraph (c)); and
+(e) the limitations on the content and form of a further submission.
+(2) The local authority must serve a copy of the public notice on all persons who made submissions.
+8 Certain persons may make further submissions
+(1) The following persons may make a further submission, in the prescribed form, on a proposed policy statement or plan to the relevant local authority:
+(a) any person representing a relevant aspect of the public interest; and
+(b) any person that has an interest in the proposed policy statement or plan greater than the interest that the general public has; and
+(c) the local authority itself.
+(2) A further submission must be limited to a matter in support of or in opposition to the relevant submission made under clause 6.
 8A Service of further submissions
-Where a person makes a further submission under clause 8, that person shall, within 5 working days after making the submission to the local authority, serve a copy of the further submission on the person who made a submission under clause 6 to which the further submission relates.
+(1) A person who makes a further submission under clause 8 must serve a copy of it on—
+(a) the relevant local authority; and
+(b) the person who made the submission under clause 6 to which the further submission relates.
+(2) The further submission must be served on the person referred to in subclause (1)(b) not later than 5 working days after the day on which the person provides the relevant local authority with the further submission.
 8AA Resolution of disputes
 (1) For the purpose of clarifying or facilitating the resolution of any matter relating to a proposed policy statement or plan, a local authority may, if requested or on its own initiative, invite anyone who has made a submission on the proposed policy statement or plan to meet with the local authority or such other person as the local authority thinks appropriate.
 (2) A member of the local authority who attends a meeting under subclause (1) is not disqualified from participating in a decision made under clause 10.
@@ -193,15 +207,26 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (1) The territorial authority shall make and notify its recommendation in respect of any provision included in the proposed district plan under clause 4(5) to the appropriate authority in accordance with section 171 or section 191.
 (2) The territorial authority shall make its decision on provisions included in the proposed district plan under clause 4(6) in accordance with section 168A(3) or section 189A(3), as the case may be.
 (3) Nothing in this clause shall allow the territorial authority to make a recommendation or decision in respect of any existing designations or heritage orders that are included without modification and on which no submissions are received.
-10 Decision of local authority
-(1) Subject to clause 9, whether or not a hearing is held on a proposed policy statement or plan, the local authority shall give its decisions, which shall include the reasons for accepting or rejecting any submissions (grouped by subject-matter or individually).
-(2) The decisions of the local authority may include any consequential alterations arising out of submissions and any other relevant matters it considered relating to matters raised in submissions.
-(3) If a local authority publicly notifies a proposed policy statement or plan under clause 5, it must, not later that 2 years after giving that notice, make its decisions under subclause (1) and publicly notify that fact.
-(4) On and from the date of the public notice given under subclause (3), the proposed plan is amended in accordance with the decisions of the local authority given under subclause (1).
+10 Decisions on provisions and matters raised in submissions
+(1) A local authority must give a decision on the provisions and matters raised in submissions, whether or not a hearing is held on the proposed policy statement or plan concerned.
+(2) The decision—
+(a) must include the reasons for accepting or rejecting the submissions and, for that purpose, may address the submissions by grouping them according to—
+(i) the provisions of the proposed statement or plan to which they relate; or
+(ii) the matters to which they relate; and
+(b) may include—
+(i) matters relating to any consequential alterations necessary to the proposed statement or plan arising from the submissions; and
+(ii) any other matter relevant to the proposed statement or plan arising from the submissions.
+(3) To avoid doubt, the local authority is not required to give a decision that addresses each submission individually.
+(4) The local authority must—
+(a) give its decision no later than 2 years after notifying the proposed policy statement or plan under clause 5; and
+(b) publicly notify the decision within the same time.
+(5) On and from the date the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
 11 Notification of decision
-(1) At the same time as a local authority gives public notice under clause 10(3), it shall serve, on every person who made a submission on a provision, a notice of decision and a statement of the time within which an appeal may be lodged on that provision.
-(2) Where a decision has been made under clause 9(2), the territorial authority shall also send or provide a notice of decision to land owners and occupiers who, in the territorial authority's opinion, are directly affected by the decision.
-(3) If the local authority gives a notice summarising a decision, it must—
+(1) At the same time as a local authority publicly notifies a decision under clause 10(4)(b), it must serve, on every person who made a submission on the proposed policy statement or plan concerned,—
+(a) a copy of the public notice; and
+(b) a statement of the time within which an appeal may be lodged by the person.
+(2) Where a decision has been made under clause 9(2), the territorial authority, at the same time as it publicly notifies a decision under clause 10(4)(b), must serve a copy of the public notice on landowners and occupiers who, in the territorial authority's opinion, are directly affected by the decision.
+(3) If the local authority serves or provides a copy of the public notice under subclause (1) or (2), it must—
 (a) make a copy of the decision available (whether physically or by electronic means) at all its offices, and all public libraries in the district (if it relates to a district plan) or region (in all other cases); and
 (b) include with the notice a statement of the places where a copy of the decision is available; and
 (c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
@@ -223,7 +248,10 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (b) a provision that the decision on submissions proposes to include in the policy statement or plan; or
 (c) a matter excluded from the proposed policy statement or plan; or
 (d) a provision that the decision on submissions proposes to exclude from the policy statement or plan.
-(2) However, a person may appeal under subclause (1) only if the person referred to the provision or the matter in the person's submission on the proposed policy statement or plan.
+(2) However, a person may appeal under subclause (1) only if—
+(a) the person referred to the provision or the matter in the person's submission on the proposed policy statement or plan; and
+(b) the appeal does not seek the withdrawal of the proposed policy statement or plan as a whole.
+(2A) For the purposes of subclause (2)(b), proposed plan does not include a variation or a change.
 (3) The following persons may appeal to the Environment Court against any aspect of a requiring authority's or heritage protection authority's decision:
 (a) any person who made a submission on the requirement that referred to that matter:
 (b) the territorial authority.
@@ -236,9 +264,9 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (a) shall report its findings to the appellant, the local authority concerned, and the Minister of Conservation; and
 (b) may include a direction given under section 293(1) to the proposed regional council to make modifications to, deletions from, or additions to, the regional coastal plan.
 16 Amendment of proposed policy statement or plan
-(1) A local authority shall make an amendment to its proposed policy statement or plan to give effect to any direction in a national environmental standard or a national policy statement or to any directions of the Environment Court under section 292.
-(2) A local authority may make an amendment, without further formality, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
-(3) A local authority must make an amendment, without further formality, to its policy statement or regional plan or district plan to give effect to a direction to include specific provisions under section 55.
+(1) A local authority must, without using the process in this Schedule, make an amendment to its proposed policy statement or plan that is required by section 55(2) or by a direction of the Environment Court under section 293.
+(2) A local authority may make an amendment, without using the process in this Schedule, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
+(3) [Repealed]
 16A Variation of proposed policy statement or plan
 (1) A local authority may initiate variations (being alterations other than those under clause 16) to a proposed policy statement or plan, or to a change, at any time before the approval of the policy statement or plan.
 (2) The provisions of this Schedule, with all necessary modifications, shall apply to every variation as if it were a change.
@@ -269,7 +297,7 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (3) [Repealed]
 (4) The local authority shall provide 1 copy of its operative policy statement or plan without charge to—
 (a) the Minister for the Environment; and
-(b) the appropriate regional manager for the Ministry for the Environment; and
+(b) [Repealed]
 (c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
 (d) in the case of a district plan, the regional council and adjacent territorial authorities; and
 (e) in the case of a policy statement or regional plan, constituent territorial authorities and adjacent regional councils; and
@@ -278,14 +306,14 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (5) The local authority shall provide 1 copy of its operative policy statement or plan to every public library in its area.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 20A Correction of operative policy statement or plan
-A local authority may amend, without further formality, an operative policy statement or plan to correct any minor errors.
+A local authority may amend, without using the process in this Schedule, an operative policy statement or plan to correct any minor errors.
 Part 2
 Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
 21 Requests
 (1) Any person may request a change to a district plan or a regional plan (including a regional coastal plan).
 (2) Any person may request the preparation of a regional plan, other than a regional coastal plan.
 (3) Any Minister of the Crown or any territorial authority in the region may request a change to a policy statement.
-(4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in Part I shall apply.
+(4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in Part 1 shall apply.
 22 Form of request
 (1) A request made under clause 21 shall be made to the appropriate local authority in writing and shall explain the purpose of, and reasons for, the proposed plan or change to a policy statement or plan and contain an evaluation under section 32 for any objectives, policies, rules, or other methods proposed.
 (2) Where environmental effects are anticipated, the request shall describe those effects, taking into account the provisions of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
@@ -313,10 +341,11 @@ As a result of further or additional information, commissioned reports, or other
 whichever is the latest, decide under which of subclauses (2), (3), and (4), or a combination of subclauses (2) and (4), the request shall be dealt with.
 (2) The local authority may either—
 (a) adopt the request, or part of the request, as if it were a proposed policy statement or plan made by the local authority itself and, if it does so,—
-(i) the request must be notified in accordance with clause 5 of this Schedule within 4 months of the local authority adopting the request; and
-(ii) the provisions of Part 1 of this Schedule must apply; and
-(iii) the request has effect once publicly notified; or
+(i) the request must be notified in accordance with clause 5 within 4 months of the local authority adopting the request; and
+(ii) the provisions of Part 1 must apply; and
+(iii) the request has legal effect once publicly notified; or
 (b) accept the request, in whole or in part, and proceed to notify the request, or part of the request, under clause 26.
+(2A) Subclause (2)(a)(iii) is subject to section 86B.
 (3) The local authority may decide to deal with the request as if it were an application for a resource consent and the provisions of Part 6 shall apply accordingly.
 (4) The local authority may reject the request in whole or in part, but only on the grounds that—
 (a) the request or part of the request is frivolous or vexatious; or
@@ -347,7 +376,11 @@ Where a local authority accepts the request or part of the request under clause 
 (5) Where notice of withdrawal is given under subclause (1) or is deemed to be given under subclause (4), preparation of the policy statement or plan or change shall cease, unless the local authority determines to proceed with the request itself under this Part.
 (6) The local authority shall ensure that, within 15 working days of receiving a notice of withdrawal under subclause (1) or deeming it to be withdrawn under subclause (4), public notice of the withdrawal, including the reason for the withdrawal, is given, unless the local authority determines to proceed with the request itself.
 29 Procedure under this Part
-(1) Except as provided in subclauses (2) to (9), Part 1 of this Schedule, with all necessary modifications, shall apply to any plan or change requested under this Part and accepted under clause 25(2)(b).
+(1) Except as provided in subclauses (1A) to (9), Part 1, with all necessary modifications, shall apply to any plan or change requested under this Part and accepted under clause 25(2)(b).
+(1A) Any person may make a submission but, if the person is a trade competitor of the person who made the request, the person's right to make a submission is limited by subclause (1B).
+(1B) A trade competitor of the person who made the request may make a submission only if directly affected by an effect of the plan or change that—
+(a) adversely affects the environment; and
+(b) does not relate to trade competition or the effects of trade competition.
 (2) The local authority shall send copies of all submissions on the plan or change to the person who made the request.
 (3) The person who made the request has the right to appear before the local authority under clause 8B.
 (4) After considering a plan or change, the local authority may decline, approve, or approve with modifications, the plan or change, and shall give reasons for its decision.

@@ -1,5 +1,2 @@
 # 94D When public notification and service requirements may be varied
-(1) Despite section 93(1)(a), a consent authority must notify an application for a resource consent for a controlled activity in accordance with section 93(2) if a rule in a plan or proposed plan expressly provides that such an application must be notified.
-(2) Despite section 93(1)(b), a consent authority is not required to notify an application for a resource consent for a restricted discretionary activity if a rule in a plan or proposed plan expressly provides that such an application does not need to be notified.
-(3) Despite section 94(1), a consent authority is not required to serve notice of an application for a resource consent for a controlled or restricted discretionary activity if a rule in a plan or proposed plan expressly provides that notice of such applications does not need to be served.
-(4) A rule included in a plan under subsection (3) does not waive the need to serve an application if, in the opinion of the consent authority, the grant of a resource consent may adversely affect a recognised customary activity carried out in accordance with section 17A(2).
+[Repealed]

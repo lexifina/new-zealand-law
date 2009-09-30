@@ -14,7 +14,7 @@
 (d) the use of the strip and adjoining land by the owner and occupier; and
 (e) where appropriate, the use of the river, lake, or coastal marine area within or adjacent to the access strip; and
 (f) the management of any reserve in the vicinity.
-(5) Any such easement shall take effect when registered at the office of the District Land Registrar.
+(5) Any such easement shall take effect when registered at the office of the Registrar-General of Land.
 (6) An access strip may be closed to public entry under section 237C.
-(7) No easement for an access strip may be registered with the District Land Registrar unless every person having a registered interest in the land has endorsed his or her consent on the easement.
+(7) No easement for an access strip may be registered with the Registrar-General of Land unless every person having a registered interest in the land has endorsed his or her consent on the easement.
 (8) The registered proprietor and the local authority may, by agreement, vary or cancel the easement if the matters in subsection (4) and any change in circumstances have been taken into account; and in any such case the provisions of section 234(7) and (8) shall apply, with all necessary modifications.

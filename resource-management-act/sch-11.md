@@ -1,5 +1,5 @@
 # Schedule 11 Acts that include statutory acknowledgements
-ss 93, 94, 274
+ss 95E, 274
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
 Ngāi Tahu Claims Settlement Act 1998

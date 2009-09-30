@@ -9,7 +9,7 @@ then the consent authority may grant a discharge permit to the approval holder u
 (f) every local authority affected by an application to which subsection (2) applies has received at least 10 working days' opportunity to comment on or seek variation to any of those conditions, and that such local authorities have not sought any variation to the conditions of approval within that time; and
 (g) the conditions of operation contained in the approval are appropriate and adequate.
 (2) Where the provisions of subsection (1) are satisfied, the consent authority shall determine the application in accordance with the following provisions:
-(a) the application shall not be notified in accordance with section 93 or notice of the application served in accordance with section 94; and
+(a) the application shall not be notified under sections 95 to 95F; and
 (b) the consent authority shall not hold a hearing in terms of section 100 to determine the application; and
 (c) any discharge permit granted under this section shall expire 1 year after the date on which it commences; and
 (d) in all other respects the application shall be determined by the consent authority in accordance with the provisions of this Act.
