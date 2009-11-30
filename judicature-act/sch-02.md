@@ -52,6 +52,7 @@ Subpart 1—Registry hours and court holidays
 3.1 Registry hours
 3.2 Court holidays
 3.3 Sitting on court holidays
+3.3A Vacations
 3.4 Epidemics and emergencies
 Subpart 2—Access to court documents
 3.5 Interpretation
@@ -544,6 +545,11 @@ Subpart 4—Separate decision of questions
 10.21 Insufficient case or disputed facts or documents
 Subpart 5—Counsel assisting
 10.22 Counsel assisting
+Subpart 6—Hearings by video link
+10.23 Interpretation
+10.24 Judge may preside at hearing of certain matters by video link
+10.25 Requirements for hearing by video link
+10.26 Incidental directions
 Part 11
 Judgment
 Subpart 1—General provisions
@@ -876,6 +882,7 @@ Subpart 2—Procedure for originating applications
 19.10 Application of rules relating to interlocutory applications
 19.11 Directions as to parties and conduct of applications
 19.12 Originating applications relating to certain proceedings under Companies Act 1993
+19.12A Special provisions for service of applications to remove caveats or set aside statutory demands
 Subpart 3—Evidence in originating applications
 19.13 Evidence
 19.14 Cross-examination of person making affidavit
@@ -1538,7 +1545,7 @@ Compare: 1908 No 89 Schedule 2 r 65A
 Compare: 1908 No 89 Schedule 2 rr 62-64
 1.13 Failure to give notice
 A failure to comply with rule 1.11 does not prevent a person speaking Māori at a case management conference or pre-trial conference or hearing, but—
-(a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
+(a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c)of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
 (b) the court may treat the failure to comply as a relevant consideration in an award of costs.
 Compare: 1908 No 89 Schedule 2 r 65B
 1.14 Translation may be ordered by court
@@ -1603,7 +1610,7 @@ Subpart 1—Associate Judges
 (1) An Associate Judge has the jurisdiction and powers of a Judge in chambers conferred by the Act or these rules or another enactment.
 (2) The jurisdiction and powers referred to in subclause (1) are in addition to the jurisdiction and powers conferred by section 26I of the Act.
 (3) Despite subclause (1), an Associate Judge does not have jurisdiction or powers in respect of the matters specified in—
-(a) section 26J(3) and (4) of the Act; or
+(a) section 26J(3) and (4)of the Act; or
 (b) section 26P(1) of the Act.
 Compare: 1908 No 89 Schedule 2 r 61A
 2.2 Interim order on transfer of proceeding
@@ -1712,6 +1719,9 @@ Compare: 1908 No 89 Schedule 2 rr 18, 19
 (a) authorise the receipt or issue of any document complying with these rules; and
 (b) despite section 54 of the Act, authorise the service of any document received or issued under paragraph (a).
 Compare: 1908 No 89 Schedule 2 r 21
+3.3A Vacations
+(1) There is to be a long vacation beginning on 20 December and ending with the close of 31 January.
+(2) There is to be an Easter vacation beginning on the day before Good Friday and ending with the close of the Saturday following Easter.
 3.4 Epidemics and emergencies
 (1) Despite rule 3.1, a Judge may order that the court and its registries be closed for a period specified in the order (not exceeding 1 week) if an epidemic or emergency exists in the place where the court is located.
 (2) A Registrar must ensure that an order made under this rule is immediately advertised in the manner the Judge directs.
@@ -3867,7 +3877,7 @@ Compare: 1908 No 89 Schedule 2 r 305
 (b) specify by description or otherwise a group of persons or a class of persons, each of whom may make the affidavit.
 (2) If the Judge does not specify the person or the group or class of persons, the affidavit of documents may be made as follows:
 (a) by the person required to make discovery:
-(b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of a registry), by a person who meets the requirements of rule 9.82:
+(b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office), by a person who meets the requirements of rule 9.82:
 (c) if the person required to make discovery is the Crown, an officer of the Crown who sues or is sued in an official capacity, or as representing a government department, by an officer of the Crown.
 Compare: 1908 No 89 Schedule 2 r 306
 8.31 Challenge to privilege or confidentiality claim
@@ -4276,6 +4286,7 @@ Compare: 1908 No 89 Schedule 2 r 496
 (1) Orders of subpoena in form G 25 to require the attendance of witnesses at the trial to testify or to produce documents, or both, may be obtained by any party, at any time after the filing of the statement of claim.
 (2) A party requiring the issue of an order of subpoena must file a written request to obtain it.
 (3) The names of more than 1 witness may be included in an order of subpoena, but it is not necessary to show the names on the written request.
+(4) Upon receiving a written request under this rule the Registrar must forthwith issue the order or orders of subpoena requested.
 Compare: 1908 No 89 Schedule 2 r 497
 9.53 Service of subpoena
 The order of subpoena must be served on the witness personally, by leaving a sealed copy of it with the witness, together with any allowances and travelling expenses required by section 56A(3) of the Act.
@@ -4494,8 +4505,8 @@ Compare: 1908 No 89 Schedule 2 r 519
 (3) Subclause (2) overrides subclause (1).
 (4) In this rule,—
 Registrar includes—
-(a) a Deputy Registrar of the High Court:
-(b) a Registrar of a District Court:
+(a) a Deputy Registrar of the High Court
+(b) a Registrar of a District Court
 (c) a Deputy Registrar of a District Court
 solicitor means a person enrolled as a barrister and solicitor of the High Court.
 Compare: 1908 No 89 Schedule 2 r 521
@@ -4645,6 +4656,35 @@ Subpart 5—Counsel assisting
 10.22 Counsel assisting
 At the request of the court, the Solicitor-General must appoint counsel to appear and be heard as counsel assisting the court.
 Compare: 1908 No 89 Schedule 2 r 438A
+Subpart 6—Hearings by video link
+10.23 Interpretation
+In this subpart,—
+eligible persons means the persons that the Judge considers should be treated as eligible persons for the purposes of a hearing by video link
+judicial location means the courtroom or other place where the Judge hearing a matter by video link is located
+remote location means the courtroom or other place, outside the judicial location, where a party, witness, counsel, or other person participating in the hearing of a matter by video link is located
+video link means facilities that enable audio and visual communication between persons at a judicial location and persons at a remote location.
+10.24 Judge may preside at hearing of certain matters by video link
+(1) For the purposes of section 26IB of the Act, a Judge may, by video link, preside at the hearing of any matter referred to in section 26I of the Act.
+(2) A Judge may direct that a matter be heard by video link on the application of 1 or more parties or on the Judge's own initiative.
+(3) This rule is subject to rule 10.25.
+(4) This rule does not limit or affect the inherent jurisdiction of the court.
+10.25 Requirements for hearing by video link
+A Judge must not preside at the hearing of a matter by video link under rule 10.24 unless he or she is satisfied that—
+(a) the judicial location and every remote location is equipped with facilities that will—
+(i) enable all eligible persons at every remote location to see and hear the Judge and all eligible persons at the judicial location; and
+(ii) enable the Judge and all eligible persons at the judicial location to see and hear all eligible persons at every remote location; and
+(iii) enable any document necessary for the purposes of the hearing to be viewed at both the judicial location and every remote location; and
+(b) use of a video link is, in all the circumstances, consistent with fairness and the interests of justice.
+10.26 Incidental directions
+(1) A Judge presiding at the hearing of a matter by video link under rule 10.24 may give directions concerning the procedure for the hearing as he or she thinks fit.
+(2) Without limiting subclause (1), the Judge may—
+(a) direct that an officer of the court, or other person approved by the court, be present to operate video equipment:
+(b) direct that an officer of the court, or other person approved by the court, be present to assist in the hearing, and in particular to—
+(i) introduce persons appearing or witnesses giving evidence:
+(ii) assist with the administration of oaths and affirmations:
+(iii) assist with the implementation of any directions or requests given or made by the Judge:
+(c) direct seating arrangements at a remote location to ensure all participants in the hearing can be seen and heard:
+(d) direct when the video link must be operational in relation to his or her own entry to, or rising from, the judicial location.
 Part 11
 Judgment
 Subpart 1—General provisions
@@ -5157,7 +5197,7 @@ Preliminary provisions
 796 Interpretation
 In this Part, unless the context otherwise requires,
 Act means the Electoral Act 1993
-Petition
+petition
 (a) Means an election petition presented under section 229(3) of the Act (that is, an election petition relating to either
 (i) The return of a member of Parliament representing an electoral district; or
 (ii) A failure to present a return at an election for a member of Parliament representing an electoral district); and
@@ -5182,7 +5222,7 @@ This Part applies to the determination, under sections 230 to 257 of the Act, of
 (j) Rule 129 (Filing and service of statement of defence):
 (k) Rule 130 (Requirements as to statement of defence):
 (l) Rules 135 to 144 (Summary judgment procedure):
-(m) rules 433 to 438AA (allocation of hearing dates and setting down date):
+(m) Rules 433 to 438AA (allocation of hearing dates and setting down date):
 (n) Rule 474 (Discontinuance of cause of action):
 (o) Rule 481 (Mode of trial).
 Petitions
@@ -6461,7 +6501,7 @@ Applications to the court under the following enactments must be made by origina
 (o) section 12(1)(a) of the Minors' Contracts Act 1969:
 (p) section 41 of the Patents Act 1953 (subject to Part 22 of these rules):
 (q) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
-(r) the Proceeds of Crime Act 1991:
+(r) the Criminal Proceeds (Recovery) Act 2009:
 (s) sections 126, 136, 244, 248, 253, 254, 258, 261, and 357 of the Property Law Act 2007:
 (t) the Protection of Personal and Property Rights Act 1988:
 (u) the Reciprocal Enforcement of Judgments Act 1934:
@@ -6543,6 +6583,9 @@ Rule 7.9 applies, with all necessary modifications, to an originating applicatio
 (2) An originating application under section 299 of the Companies Act 1993 must be filed in the proper office of the court, as determined in accordance with rule 31.38.
 (3) The affidavit filed in support of an originating application under section 294(5) or 295 of the Companies Act 1993 must have attached to it a copy of the notice under section 294(1) of that Act.
 Compare: 1908 No 89 Schedule 2 r 458EA
+19.12A Special provisions for service of applications to remove caveats or set aside statutory demands
+(1) An originating application under section 143 of the Land Transfer Act 1952 for the removal of a caveat may be served, in accordance with rule 6.5, at the address for service stated in the caveat.
+(2) An originating application under section 290 of the Companies Act 1993 to set aside a statutory demand may be served, in accordance with rule 6.5, at the address shown in the statutory demand as the creditor's address or the address for payment.
 Subpart 3—Evidence in originating applications
 19.13 Evidence
 Despite rules 7.20 and 7.25 (as applied by rule 19.10), in a proceeding commenced by originating application evidence may be taken orally on oath if the court, on application before or at the hearing, so directs.
@@ -6798,8 +6841,8 @@ appropriate officer, in relation to a tribunal, means the Registrar, secretary, 
 appropriate registry means the registry of the court where the appeal or reference is to be filed
 decision includes any order made by a tribunal or person
 tribunal includes any—
-(a) Minister of the Crown:
-(b) government department or officer:
+(a) Minister of the Crown
+(b) government department or officer
 (c) any other person or body that may be required, or is authorised, by or under any Act to state or refer a case for the opinion of the court.
 Compare: 1908 No 89 Schedule 2 r 721
 21.4 Method of commencing appeal or reference
@@ -10248,7 +10291,7 @@ To [name, place of residence, occupation]
 1 You are ordered to attend the High Court at [place, date, time] and, on each subsequent day until you are discharged from attendance, to give evidence on behalf of the [party] in this proceeding.
 2 Omit this paragraph if it does not apply.
 You are ordered to bring with you and produce at the same time and place [details of documents and things to be produced].
-3 This order of subpoena is issued by [full name], the party/solicitor for the party*, with the leave of the Honourable Justice [name].
+3 This order of subpoena is issued by [full name], the party/solicitor for the party.*
 *Select one.
 Date:
 Signature:
@@ -12382,7 +12425,7 @@ Signature:
 *Select one.
 Note
 Definition of working day (Companies Act 1993)
-Working day means a day of the week other than—
+working day means a day of the week other than—
 (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
 (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
 (c) if 1 January in any year falls on a Friday, the following Monday; and
@@ -12417,7 +12460,7 @@ Signature:
 *Select one.
 Note
 Definition of working day (Companies Act 1993)
-Working day means a day of the week other than—
+working day means a day of the week other than—
 (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and Waitangi Day; and
 (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
 (c) if 1 January in any year falls on a Friday, the following Monday; and
@@ -12748,7 +12791,7 @@ Note
 The notice filed and served under section 206(2) of the Insolvency Act 2006 and the written notice of objection received by the Assignee under section 206(4) must both be attached to this application.
 Form B 15
 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006
-nr 24.35(3)
+r 24.35(3)
 Insert a heading that conforms with rule 24.5.
 To the Registrar of the High Court at [place]
 and
@@ -12777,30 +12820,30 @@ Signature:
 *Select one.
 Form 83
 Constituency Election Petition
-Rule 799(1)(a
+r 799(1)(a)
 Part 8, Electoral Act 1993
 In the High Court of New Zealand No...................Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) Election This petition relates to the election of a member of Parliament for the Electoral District of:.................. Polling day:.................. Candidate(s):.................. Candidate returned as duly elected by Returning Officer:.................. Day on which the Returning Officer publicly notified result of poll:.................. Petitioner(s) Note: See section 230(1) of the Electoral Act 1993 for the persons who may present a constituency election petition. Name(s):.................. Respondent(s) Name(s): [Insert the name of the member whose election or return this petition complains of, and, if the petition complains of the conduct of the Returning Officer, the name of the Returning Officer, and, if the petition complains of the conduct of the Registrar of Electors, the name of the Registrar of Electors.] Grounds The petition is based on the following grounds:.......................................................................................... Facts The petition relies on the following facts:..........................................................................................
 Determination(s) sought The petition seeks the following determination(s): [For example, That the candidate returned was not duly elected or returned and that the election was void, or That the candidate was duly elected and should have been duly returned, or as the case may be.].................................... Signature(s) of petitioner(s): [Insert name(s)] Date Note: Once completed this petition must be presented by being filed (a) In the Registry of the High Court nearest the place where the election was held (see section 230(4) of the Electoral Act 1993); and (b) Within 28 days after the day on which the Returning Officer publicly notified the result of the poll (unless section 231(2) of the Electoral Act 1993 applies). The petition is filed by the petitioner(s) in person. The address for service of the petitioner(s) is or The petition is filed by AB, solicitor for the petitioner(s), of the firm of XYZ. The address for service of the petitioner(s) is Documents for service on the petitioner(s) may be left at that address for service or may be (a) Posted to the solicitor at [Insert Post Office box address]; or (b) Left for the solicitor at a document exchange for direction to [Insert document exchange box number]; or (c) Transmitted to the solicitor by facsimile to [Insert facsimile number]. or The petition is filed by AB, solicitor for the petitioner(s), of the firm of XYZ, whose postal address is The solicitor's agent in the proceeding is The address for service of the petitioner(s) is Documents for service on the petitioner(s) may be left at that address for service or may be (a) Posted to the solicitor at [Insert Post Office box address]; or (b) Left for the solicitor at a document exchange for direction to [Insert document exchange box number]; or (c) Transmitted to the solicitor by facsimile to [Insert facsimile number].
 Form 84
 Bond for Security
-Rule 805(1)
+r 805(1)
 In the High Court of New Zealand No.................................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) I (or We): [Insert the full name, residence, and occupation of the, or each, surety] am (or are jointly and severally) bound to pay to Her Majesty in respect of the Government of New Zealand any amount not exceeding $[Insert sum], unless the petitioner(s) pays (or pay) all costs that in proceedings to determine the petition may become payable by the petitioner(s) (a) To any witness summoned on the petitioner's (or s') behalf; and (b) To the respondent(s). The Common Seal etc, or This bond was signed by [Insert name of the, or each, surety] at this day of 19 [Insert signature(s) or seal(s)] before me Signature:.................. A Solicitor of the High Court of New Zealand (or A Registrar, or Deputy Registrar, of the High Court of New Zealand) (or A Notary Public).
 Form 85
 Notice of Time and Place Appointed for the Trial of a Constituency Election Petition
-Rule 809(4)
+r 809(4)
 In the High Court of New Zealand No.................................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petition will be tried at.................. on the.................. day of.................. 19...., at.................. am (or pm), or as soon after that time as the parties may be heard. Dated this.................. day of.................. 19..... Signature:.................. (Deputy) Registrar of the High Court at..................
 Form 86
 Notice of Intention to Apply for Leave to Withdraw a Constituency Election Petition
-Rule 810(2)
-In the High Court of New ZealandNo Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petitioner(s) will at such time and place as the Court may appoint for the purpose, being at least 7 days after the day of 19, apply to the High Court for leave to withdraw the petition on the grounds that: At the hearing of the application for leave to withdraw the petition, a person may apply to be substituted as a petitioner, if (and only if) (a) The person might in the first instance have presented the petition; and (b) The person has given the Registrar of the Court, within 7 days after the publication of this notice, written notice that the person intends to apply to be substituted. Dated this..... day of...... 19.. Signature(s) of Petitioner(s):
+r 810(2)
+In the High Court of New Zealand No Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petitioner(s) will at such time and place as the Court may appoint for the purpose, being at least 7 days after the day of 19, apply to the High Court for leave to withdraw the petition on the grounds that: At the hearing of the application for leave to withdraw the petition, a person may apply to be substituted as a petitioner, if (and only if) (a) The person might in the first instance have presented the petition; and (b) The person has given the Registrar of the Court, within 7 days after the publication of this notice, written notice that the person intends to apply to be substituted. Dated this..... day of...... 19.. Signature(s) of Petitioner(s):
 Form 87
 Application for Leave to Withdraw a Constituency Election Petition
-Rule 811
+r 811
 In the High Court of New Zealand No.................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petitioner(s) will on the..... day of..... 19.., at..... am (or pm) (the time and place appointed for the purpose by the Court), or as soon after that time as the petitioner(s) may be heard, apply to the Court for leave to withdraw the petition on the grounds that:.......... and on the grounds that the prescribed notice of the petitioner's (or s') intention to make this application has been duly served and published. Dated this..... day of..... 19.. Signature(s) of Petitioner(s):..........
 Form 88
 Notice of Abatement of a Constituency Election Petition
-Rule 814(2)
-In the High Court of New Zealand No.................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District BetweenAB [and others], Petitioner(s), and CD [and others], Respondent(s) AB [and others], Petitioner(s), and CD [and others], Respondent(s) This petition has abated because the petitioner (or the survivor of the petitioners) has died. Any person who might in the first instance have presented the petition may apply to the High Court to be substituted as a petitioner, by giving notice to the Registrar of the Court within 28 days from the date of publication of this notice. Dated this..... day of..... 19.. Signature:.......... (Deputy) Registrar of the High Court at..........
+r 814(2)
+In the High Court of New Zealand No.................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) AB [and others], Petitioner(s), and CD [and others], Respondent(s) This petition has abated because the petitioner (or the survivor of the petitioners) has died. Any person who might in the first instance have presented the petition may apply to the High Court to be substituted as a petitioner, by giving notice to the Registrar of the Court within 28 days from the date of publication of this notice. Dated this..... day of..... 19.. Signature:.......... (Deputy) Registrar of the High Court at..........
 Schedule 2
 Appropriate daily recovery rates
 r 14.4
@@ -12922,7 +12965,7 @@ Duty to confer
 (a) confer with another expert witness:
 (b) try to reach agreement with the other expert witness on matters within the field of expertise of the expert witnesses:
 (c) prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement.
-7 In conferring with another expert witness, the expert witness must exercise independent and professional judgement and must not act on the instructions or directions of any person to withhold or avoid disagreement.
+7 In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement.
 Schedule 5
 Matters for consideration at case management conference for proceeding other than appeal
 r 7.4
