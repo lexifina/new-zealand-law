@@ -13,7 +13,7 @@
 (c) if a person in respect of whom the offence is alleged to have been committed—
 (i) is a New Zealand citizen; or
 (ii) is ordinarily resident in New Zealand; or
-(d) in the case of an offence against section 98A, if the group of people in which the person to be charged is alleged to have participated are alleged to have as their objective or one of their objectives the obtaining of material benefits by the commission in New Zealand of offences or conduct referred to in paragraph (a) or paragraph (b) of section 98A(2).
+(d) in the case of an offence against section 98A, if the group of people with or in which the person to be charged is alleged to have participated are alleged to have as their objective or one of their objectives the obtaining of material benefits by the commission in New Zealand of offences or conduct referred to in paragraph (a) or paragraph (b) of section 98A(2).
 (2) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for an offence against section 98C or section 98D,—
 (a) in the case of an offence against section 98C(1) or section 98D, if the act or omission is alleged to relate to the entry of a person into New Zealand; or
 (b) in the case of an offence against section 98C(2), if the act or omission is alleged to relate to arranging the bringing of a person to New Zealand.
