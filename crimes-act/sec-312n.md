@@ -8,4 +8,5 @@ Even if the communication was intercepted under an interception warrant or an em
 (f) a conspiracy to commit a serious violent offence; or
 (g) a drug dealing offence (as that term is defined in section 10 of the Misuse of Drugs Amendment Act 1978); or
 (h) a prescribed cannabis offence (as that term is defined in section 10 of the Misuse of Drugs Amendment Act 1978); or
-(i) offences of 2 or more of those kinds.
+(i) offences of 2 or more of those kinds specified in paragraphs (a) to (h); or
+(j) an offence specified in paragraphs (a) to (h) and the evidence is relevant to a proceeding under the Criminal Proceeds (Recovery) Act 2009 or a proceeding under sections 142A to 142Q of the Sentencing Act 2002.
