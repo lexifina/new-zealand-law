@@ -1,5 +1,5 @@
 # Schedule 1 Enactments consolidated
-Section 1(2)
+s 1(2)
 1856, No 3-The Law Amendment Act 1856.
 1874, No 14-The Imprisonment for Debt Abolition Act 1874: Section 15.
 1875, No 39-The Imprisonment for Debt Abolition Act Amendment Act 1875.
