@@ -1,0 +1,4 @@
+# 142K Hearings concerning instrument forfeiture orders
+(1) If a court issues a direction under section 142C, it may convene a hearing to determine whether to make an instrument forfeiture order or to grant an application made for relief from an instrument forfeiture order under section 142J.
+(2) At the hearing, the prosecutor, the offender, any person making an application for relief from an instrument forfeiture order, and any other person who claims to have an interest in the property that may be the subject of the instrument forfeiture order or who believes that he or she may suffer undue hardship if the property is forfeited, may be heard.
+(3) If a hearing is not held under subsection (1), the matters referred to in that subsection and subsection (2) may occur during the sentencing hearing.
