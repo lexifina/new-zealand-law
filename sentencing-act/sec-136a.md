@@ -1,0 +1,2 @@
+# 136A Registrar must seek deregistration of motor vehicle subject to confiscation and destruction order
+If, under section 129A or 136(4), the court orders a motor vehicle to be confiscated and destroyed, a Registrar must, before the motor vehicle is sold, seek to have the registration of the motor vehicle cancelled by taking, so far as practicable, any steps required to be taken, under the Land Transport Act 1998, for that purpose by the owner of, or the person who is registered in respect of, the motor vehicle.
