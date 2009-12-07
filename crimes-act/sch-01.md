@@ -1,3 +1,3 @@
-# Schedule 1 Carrying out sentence of death
-Section 14(4)
+# Schedule 1 Carrying out of sentence of death
+s 14(4)
 [Repealed]

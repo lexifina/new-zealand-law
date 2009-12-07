@@ -10,6 +10,6 @@ courier means a person carrying on business as a courier
 network operator has the same meaning as in section 3(1) of the Telecommunications (Interception Capability) Act 2004
 postal operator has the same meaning as in section 2(1) of the Postal Services Act 1998
 public data network has the same meaning as in section 5 of the Telecommunications Act 2001
-service provider —
+service provider—
 (a) means a person providing Internet access, email access, or both of those facilities, by means of a public data network; but
 (b) does not include a network operator.
