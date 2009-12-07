@@ -5,7 +5,7 @@
 (c) exports from New Zealand the intimate visual recording:
 (d) sells the intimate visual recording.
 (2) In this section, unless the context otherwise requires,—
-publishes means any of the following
+publishes means any of the following:
 (a) displays by any means:
 (b) sends to any person by any means:
 (c) distributes by any means:

@@ -8,9 +8,9 @@
 (b) section 132(2) (attempted sexual connection with a child under 12); or
 (c) section 132(3) (doing an indecent act on a child under 12).
 (3) This subsection applies to an act that, if done in New Zealand, would be an offence against—
-(a) section 134(1) of this Act (sexual connection with a young person); or
-(b) section 134(2) of this Act (attempted sexual connection with a young person); or
-(c) section 134(3) of this Act (doing an indecent act on a young person).
+(a) section 134(1) (sexual connection with a young person); or
+(b) section 134(2) (attempted sexual connection with a young person); or
+(c) section 134(3) (doing an indecent act on a young person).
 (4) This subsection applies to an act that, if done in New Zealand, would be an offence against section 23(1) of the Prostitution Reform Act 2003 (breach of prohibitions on use in prostitution of persons under 18 years).
 (5) A person who commits an offence against this section in respect of a provision specified in any of subsections (2) to (4) is liable to the penalty to which he or she would be liable if convicted of an offence against the provision.
 (6) Every limiting provision that applied to a provision specified in any of subsections (2) to (4) when an offence against this section in respect of the provision specified is alleged to have been committed applies also to—

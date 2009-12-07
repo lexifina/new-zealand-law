@@ -1,6 +1,6 @@
 # 216N Protection from liability
 (1) This section applies to the following persons:
-(a) any member of the police; and
+(a) any constable; and
 (b) any Customs officer; and
 (c) any officer or employee of the New Zealand Security Intelligence Service; and
 (d) any employee of the Department of Corrections and any other employee exercising powers or functions under the Corrections Act 2004; and
