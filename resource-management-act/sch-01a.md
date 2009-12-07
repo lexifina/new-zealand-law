@@ -1,7 +1,7 @@
 # Schedule 1A Preparation and change of regional coastal plans providing for aquaculture activities
 s 64
 1 Preparation and change of regional coastal plans providing for aquaculture activities
-(1AA) This Schedule applies to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
+(1AA) This schedule applies to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
 (1) Schedule 1 applies, subject to this schedule, to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
 (2) The provisions of this schedule apply, with all necessary modifications, to a variation to a proposed plan or proposed change of a plan as if it were a change.
 1A Proposed regional coastal plan or proposed change to regional coastal plan must not describe certain areas as aquaculture management areas
@@ -20,14 +20,14 @@ s 64
 (ii) the coastal permit has not lapsed or been cancelled or surrendered; but
 (iii) the application for a marine farming permit or spat catching permit referred to in section 50(3) of that Act has not been made or has been made but has not been determined or withdrawn.
 (2) To avoid doubt, subclause (1) does not prevent a proposed regional coastal plan or a proposed change to a regional coastal plan describing as an aquaculture management area an area to which a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 relates.
-(3) Subclause (1) does not apply to a proposed regional coastal plan or a proposed change to a regional coastal plan if the proposed plan or proposed change has been notified under clause 5 or clause 26 of Schedule 1 before the commencement of the Resource Management Amendment Act 2008.
+(3) Subclause (1) does not apply to a proposed regional coastal plan or a proposed change to a regional coastal plan if the proposed plan or proposed change has been notified under clause 5 or 26 of Schedule 1 before the commencement of the Resource Management Amendment Act 2008.
 (4) If a proposed regional coastal plan or a proposed change to a regional coastal plan describes an area as an aquaculture management area in breach of subclause (1), then (to avoid doubt)—
 (a) the area is not, and is not to be treated as, an aquaculture management area; and
 (b) the breach does not invalidate the rest of the plan to the extent that the rest of the plan is not inconsistent with the area not being an aquaculture management area.
 2 Assessment of undue adverse effects on fishing
-(1) The regional council must not notify a proposed regional coastal plan or a proposed change to a regional coastal plan under clause 5 or clause 26 of Schedule 1 until—
+(1) The regional council must not notify a proposed regional coastal plan or a proposed change to a regional coastal plan under clause 5 or 26 of Schedule 1 until—
 (a) the chief executive of the Ministry of Fisheries has made an aquaculture decision under section 186E of the Fisheries Act 1996 in relation to any area described in the plan as an aquaculture management area; and
-(b) the regional council has complied with clause 3 of this Schedule.
+(b) the regional council has complied with clause 3 of this schedule.
 (2) However, subclause (1) does not apply in relation to an area that is—
 (a) subject to a deemed coastal permit under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
 (b) an aquaculture management area in relation to which a determination has already been made under section 186E of the Fisheries Act 1996 or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.

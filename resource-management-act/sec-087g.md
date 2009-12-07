@@ -15,7 +15,7 @@
 (d) all the information and reports on the application that the authority was supplied with.
 (4) Section 274 applies to the notice of motion.
 (5) Part 11 applies to proceedings under this section.
-(6) If considering a matter that is an application for a resource consent, the Court must apply sections 104 to 112and 138A as if it were a consent authority.
-(7) If considering a matter that is an application for a change to or cancellation of conditions of a resource consent, the Court must apply sections 104 to 112 as if—
+(6) If considering a matter that is an application for a resource consent, the court must apply sections 104 to 112 and 138A as if it were a consent authority.
+(7) If considering a matter that is an application for a change to or cancellation of conditions of a resource consent, the court must apply sections 104 to 112 as if—
 (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
 (b) every reference to a resource consent and to the effects of the activity were, respectively, a reference to the change or cancellation of a condition and the effects of the change or cancellation.

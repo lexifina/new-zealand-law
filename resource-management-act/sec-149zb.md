@@ -3,7 +3,7 @@
 (a) the activity that the application or notice relates to is part of a proposal of national significance in relation to which 1 or more matters have already been subject to a direction under section 142(2) or 147(1)(a) or (b); and
 (b) the application or notice was lodged with the EPA either—
 (i) before the board of inquiry or Environment Court, as the case may be, has determined the matter or matters already subject to a direction under section 142(2) or 147(1)(a) or (b); or
-(ii) after the matter or matters have been determined by the board or the Court and the matter or matters have been granted or confirmed.
+(ii) after the matter or matters have been determined by the board or the court and the matter or matters have been granted or confirmed.
 (2) The applications and notices are—
 (a) an application for a resource consent:
 (b) an application for a change to or cancellation of the conditions of a resource consent:

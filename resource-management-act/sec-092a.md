@@ -1,5 +1,5 @@
 # 92A Responses to request
-(1) An applicant who receives a request under section 92(1) must, within 15 working days of the date of the request, take 1 of the following options:
+(1) An applicant who receives a request under section 92(1) must, within 15 working days of the date of the request, take one of the following options:
 (a) provide the information; or
 (b) tell the consent authority in a written notice that the applicant agrees to provide the information; or
 (c) tell the consent authority in a written notice that the applicant refuses to provide the information.

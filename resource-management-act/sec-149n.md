@@ -11,7 +11,7 @@
 (6) The local authority must, no later than 4 months after the local authority was served with the Minister's direction under section 149A,—
 (a) serve a copy of the proposed plan or change on the EPA; and
 (b) give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
-(7) A rule in a proposed plan or change served on the EPA under subsection (6) has legal effect only once a decision is made by the board of inquiry or Court.
+(7) A rule in a proposed plan or change served on the EPA under subsection (6) has legal effect only once a decision is made by the board of inquiry or court.
 (8) However, a rule has legal effect on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O if the rule—
 (a) protects or relates to water, air, or soil (for soil conservation); or
 (b) protects areas of significant indigenous vegetation; or

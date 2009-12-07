@@ -1,4 +1,4 @@
-# 149G EPA must provide board or Court with necessary information
+# 149G EPA must provide board or court with necessary information
 (1) This section applies if a matter is referred to a board of inquiry or the Environment Court under this Part.
 (2) The EPA must provide the board of inquiry or Environment Court, as the case may be, with each of the following things as soon as is reasonably practicable after receiving it:
 (a) the matter:

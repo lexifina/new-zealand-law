@@ -6,7 +6,7 @@ ss 232(2)(a), (4)(a), 237B(2)(c), 237C(1), 338(3)(c)
 (b) wilfully damaging or interfering with any structure adjoining or on the land, including any building, fence, gate, stile, marker, bridge, or notice:
 (c) wilfully interfering with or disturbing any livestock lawfully permitted on the strip.
 (2) Notwithstanding subclause (1), the prohibitions in paragraphs (b) and (c) shall not apply to the owner or occupier.
-(3) For the purposes of this Schedule, owner and occupier includes any employees or agents authorised by the owner or occupier.
+(3) For the purposes of this schedule, owner and occupier includes any employees or agents authorised by the owner or occupier.
 2 Other prohibitions
 Subject to sections 232(4) and 237B(3), every instrument creating an esplanade strip and every easement for an access strip shall specify that the following acts are prohibited on the land over which the esplanade strip or access strip has been created:
 (a) lighting any fire:

@@ -9,4 +9,4 @@ the applicant or other person may, notwithstanding the repeal or amendment of an
 (b) a right to make an application for review—
 in respect of any determination of any application or of the determination of any appeal, to which this section or section 389(1)(a)(i) applies, may continue to exercise that right.
 (4) Where the effect of any determination made under this section is that the permission is granted, the grant shall constitute the grant of a resource consent of the appropriate kind under this Act; and this Act shall apply accordingly.
-(5) For the purposes of this section, the term right of appeal includes the hearing and determination of the appeal (including an appeal where the notice of appeal was lodged and the date for the lodging of the appeal expired before the 1st day of October 1991).
+(5) For the purposes of this section, the term right of appeal includes the hearing and determination of the appeal (including an appeal where the notice of appeal was lodged and the date for the lodging of the appeal expired before 1 October 1991).

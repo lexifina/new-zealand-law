@@ -1,4 +1,4 @@
-# 165K Applications not to be made or granted unless applicant holds authorisation
+# 165K When applications not to be made or granted unless applicant holds authorisation
 (1) Subsection (2) applies to space in the coastal marine area if—
 (a) the space is available space and a regional coastal plan does not provide for the allocation of the space by an alternative to an offer of authorisations; or
 (b) the space has been identified by a regional council as space for allocation to the trustee under section 9(1) of the Maori Commercial Aquaculture Claims Settlement Act 2004.

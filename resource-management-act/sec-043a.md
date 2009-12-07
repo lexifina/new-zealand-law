@@ -9,7 +9,7 @@
 (ii) the time period during which any matter to which the standard applies continues to have effect:
 (f) require local authorities to review, under section 128(1), all or any of the permits to which paragraph (ba) of that subsection applies as soon as practicable or within the time specified in a national environmental standard.
 (2) A national environmental standard that prohibits an activity—
-(a) may do 1 or both of the following:
+(a) may do one or both of the following:
 (i) state that a resource consent may be granted for the activity, but only on the terms or conditions specified in the standard; and
 (ii) require compliance with the rules in a plan or proposed plan as a term or condition; or
 (b) may state that the activity is a prohibited activity.
@@ -18,7 +18,7 @@
 (b) state that the activity is a permitted activity.
 (4) A national environmental standard that allows an activity—
 (a) may state that a resource consent is not required for the activity; or
-(b) may do 1 or both of the following:
+(b) may do one or both of the following:
 (i) state that the activity is a permitted activity, but only on the terms or conditions specified in the standard; and
 (ii) require compliance with the rules in a plan or proposed plan as a term or condition.
 (5) If a national environmental standard allows an activity and states that a resource consent is not required for the activity, or states that an activity is a permitted activity, the following provisions apply to plans and proposed plans:

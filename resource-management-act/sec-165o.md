@@ -3,7 +3,7 @@
 (a) not to proceed with a proposed allocation of space in a coastal marine area; or
 (b) in proceeding with a proposed allocation of space in a coastal marine area, to give effect to the matters specified in the Order in Council.
 (2) The Minister may make a recommendation under subsection (1) only for either or both of the following purposes:
-(a) to give effect to Government policy in the coastal marine area:
+(a) to give effect to government policy in the coastal marine area:
 (b) to preserve the ability of the Crown to give effect to any of its obligations under any agreement in principle or deed of settlement between the Crown and any group of Maori claimants or representative of any group of Maori claimants in relation to a claim arising from, or relating to, any act or omission by or on behalf of the Crown or by or under any enactment before 21 September 1992.
 (3) The matters referred to in subsection (1)(b) include—
 (a) the allocation method to be used:

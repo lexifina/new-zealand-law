@@ -10,7 +10,7 @@
 (b) the land has little or no value in terms of the purposes specified in section 229; or
 (c) any value the land has in terms of the purposes specified in section 229 can be adequately provided by other means.
 (5) The provisions of Part 10 shall apply to any esplanade reserve or esplanade strip required under this section.
-(6) Any declaration or decision under section 289(7) of the Local Government Act 1974, or under any corresponding earlier enactment, to exclude the bank of any river from the requirement of an esplanade reserve shall be deemed to be a district rule for the purposes of section 77, where that direction had effect on the 30th day of September 1991.
+(6) Any declaration or decision under section 289(7) of the Local Government Act 1974, or under any corresponding earlier enactment, to exclude the bank of any river from the requirement of an esplanade reserve shall be deemed to be a district rule for the purposes of section 77, where that direction had effect on 30 September 1991.
 (7) Where any action taken pursuant to a declaration or decision which is deemed to be a district rule under subsection (6) was taken before the commencement of this subsection, that action is hereby validated and declared to have been lawfully carried out.
 (8) The application of this section may be excluded or modified at any time in accordance with Schedule 1.
 (9) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under section 373.

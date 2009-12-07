@@ -15,16 +15,16 @@
 (d) all the information and reports on the requirement that the authority was supplied with.
 (4) Section 274 applies to the notice of motion.
 (5) Part 11 applies to proceedings under this section.
-(6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the Court—
+(6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
 (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
 (b) may—
 (i) cancel the requirement; or
 (ii) confirm the requirement; or
-(iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit; and
+(iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
 (c) may waive the requirement for an outline plan to be submitted under section 176A.
-(7) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the Court—
+(7) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
 (a) must have regard to the matters set out in section 191(1); and
 (b) may—
 (i) cancel the requirement; or
 (ii) confirm the requirement; or
-(iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
+(iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).

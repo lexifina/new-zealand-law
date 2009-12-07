@@ -4,4 +4,4 @@ The Minister for the Environment may—
 (b) make recommendations to the local authority on its exercise or performance of those functions, powers, or duties; and
 (c) investigate the failure or omission by a local authority to exercise or perform any of its functions, powers, or duties under this Act or regulations under this Act; and
 (d) make recommendations to the local authority on its failure or omission to exercise or perform those functions, powers, or duties; and
-(e) take action under section 25 or section 25A if the local authority's failure or omission to act on a recommendation gives the Minister grounds to take action under 1 or both of those sections.
+(e) take action under section 25 or section 25A if the local authority's failure or omission to act on a recommendation gives the Minister grounds to take action under one or both of those sections.

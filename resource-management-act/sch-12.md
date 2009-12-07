@@ -17,7 +17,7 @@ The Minister of Conservation may impose controls (including terms, standards, an
 (a) the Minister has either—
 (i) received, under clause 11, a copy of an adverse effects report in relation to that activity; or
 (ii) carried out his or her own adverse effects assessment and completed his or her own adverse effects report; and
-(b) the Minister has consulted with the holder of the customary rights order and the Minister of Maori Affairs.
+(b) the Minister has consulted with the holder of the customary rights order and the Minister of Māori Affairs.
 (2) In addition to the consultation required by subclause (1)(b), the Minister of Conservation may seek any relevant information and views before imposing controls on a recognised customary activity.
 (3) The Minister of Conservation must not undertake an assessment under subclause (1)(a)(ii) if, before he or she has begun an assessment, the relevant regional council notifies the Minister of Conservation under clause 7 that it is carrying out an adverse effects assessment of the recognised customary activity in accordance with clause 6.
 (4) The Minister of Conservation must give written notice of his or her decision to carry out an adverse effects assessment under subclause (1)(a)(ii) not later than 5 working days after making that decision, to—
@@ -44,7 +44,7 @@ The Minister of Conservation must—
 (b) give written notice of his or her decision, and the reasons for it, to—
 (i) the relevant regional council; and
 (ii) the holder of the customary rights order; and
-(iii) the Minister of Maori Affairs; and
+(iii) the Minister of Māori Affairs; and
 (iv) the chief executive of the Ministry of Justice.
 Part 2
 Adverse effects assessment and report by regional council

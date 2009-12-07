@@ -57,9 +57,9 @@ Part 1
 Preparation and change of policy statements and plans by local authorities
 1 Time limits
 (1) [Repealed]
-(2) Where any time limit is set in this Schedule, a local authority may extend it under section 37.
+(2) Where any time limit is set in this schedule, a local authority may extend it under section 37.
 (3) Where no time limit is set, section 21 (obligation to avoid unreasonable delay) applies.
-(4) Where, under this Schedule, a request for a plan change is to be heard and an application for a resource consent or a requirement for a designation or heritage order has been made in relation to the same proposal, section 102 (joint hearings) and section 103 (combined hearings) may apply.
+(4) Where, under this schedule, a request for a plan change is to be heard and an application for a resource consent or a requirement for a designation or heritage order has been made in relation to the same proposal, section 102 (joint hearings) and section 103 (combined hearings) may apply.
 2 Preparation of proposed policy statement or plan
 (1) The preparation of a policy statement or plan shall be commenced by the preparation by the local authority concerned, of a proposed policy statement or plan.
 (2) A proposed regional coastal plan must be prepared by the regional council concerned in consultation with—
@@ -123,7 +123,7 @@ A local authority is not required to comply with clause 3 to the extent that any
 (7) If a territorial authority includes a requirement, or modification of a requirement, in its proposed district plan under subclause (6), it must make available for public inspection all information about the requirement that is required by the prescribed form for the notice of that requirement.
 (8) Nothing in this clause applies where a territorial authority publicly notifies a change or variation to a district plan under clause 5.
 (9) A requiring authority may withdraw a requirement for a designation in accordance with section 168(4) and a heritage protection authority may withdraw a requirement for a heritage order in accordance with section 189(4).
-(10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this Schedule, amend its proposed district plan accordingly.
+(10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this schedule, amend its proposed district plan accordingly.
 5 Public notice and provision of document to public bodies
 (1) A local authority that has prepared a proposed policy statement or plan shall publicly notify it.
 (1A) A territorial authority shall, not earlier than 60 working days before public notification or later than 10 working days after public notification of its plan, either—
@@ -259,17 +259,17 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (5) The appellant must serve a copy of the notice in the prescribed manner.
 15 Hearing by the Environment Court
 (1) The Environment Court shall hold a public hearing into any provision or matter referred to it.
-(2) If the Environment Court, in a hearing into any provision of a proposed policy statement or plan (other than a proposed regional coastal plan), directs a local authority under section 293(1), the local authority must comply with the Court's directions.
-(3) Where the Environment Court hears an appeal against a provision of a proposed regional coastal plan, that appeal is an inquiry and the Environment Court—
+(2) If the Environment Court, in a hearing into any provision of a proposed policy statement or plan (other than a proposed regional coastal plan), directs a local authority under section 293(1), the local authority must comply with the court's directions.
+(3) Where the court hears an appeal against a provision of a proposed regional coastal plan, that appeal is an inquiry and the court—
 (a) shall report its findings to the appellant, the local authority concerned, and the Minister of Conservation; and
-(b) may include a direction given under section 293(1) to the proposed regional council to make modifications to, deletions from, or additions to, the regional coastal plan.
+(b) may include a direction given under section 293(1) to the regional council to make modifications to, deletions from, or additions to, the proposed regional coastal plan.
 16 Amendment of proposed policy statement or plan
-(1) A local authority must, without using the process in this Schedule, make an amendment to its proposed policy statement or plan that is required by section 55(2) or by a direction of the Environment Court under section 293.
-(2) A local authority may make an amendment, without using the process in this Schedule, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
+(1) A local authority must, without using the process in this schedule, make an amendment to its proposed policy statement or plan that is required by section 55(2) or by a direction of the Environment Court under section 293.
+(2) A local authority may make an amendment, without using the process in this schedule, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
 (3) [Repealed]
 16A Variation of proposed policy statement or plan
 (1) A local authority may initiate variations (being alterations other than those under clause 16) to a proposed policy statement or plan, or to a change, at any time before the approval of the policy statement or plan.
-(2) The provisions of this Schedule, with all necessary modifications, shall apply to every variation as if it were a change.
+(2) The provisions of this schedule, with all necessary modifications, shall apply to every variation as if it were a change.
 16B Merger with proposed policy statement or plan
 (1) Every variation initiated under clause 16A shall be merged in and become part of the proposed policy statement or plan as soon as the variation and the proposed policy statement or plan are both at the same procedural stage; but where the variation includes a provision to be substituted for a provision in the proposed policy statement or plan against which a submission or an appeal has been lodged, that submission or appeal shall be deemed to be a submission or appeal against the variation.
 (2) From the date of public notification of a variation, the proposed policy statement or proposed plan shall have effect as if it had been so varied.
@@ -287,7 +287,7 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (4) A regional council may adopt part of a proposed regional coastal plan if all submissions or inquiries relating to that part have been disposed of.
 19 Ministerial approval of regional coastal plan
 (1) Prior to his or her approval of a regional coastal plan, the Minister of Conservation may require the regional council to make any amendments to the plan specified by that Minister.
-(2) The Minister of Conservation may not require a regional council to make an amendment to a regional coastal plan that is in conflict or inconsistent with any direction of the Environment Court, unless the Minister made a submission on the provision concerned when the provision was referred to the Environment Court.
+(2) The Minister of Conservation may not require a regional council to make an amendment to a regional coastal plan that is in conflict or inconsistent with any direction of the Environment Court, unless the Minister made a submission on the provision concerned when the provision was referred to the court.
 (3) When the Minister of Conservation requires a regional council to make changes under subclause (1), the Minister shall give reasons.
 (3A) If all submissions or inquiries relating to part of a regional coastal plan have been disposed of, the Minister of Conservation may approve that part.
 (4) Every approval of a regional coastal plan under this clause shall be effected by the Minister of Conservation signing the regional coastal plan.
@@ -306,7 +306,7 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (5) The local authority shall provide 1 copy of its operative policy statement or plan to every public library in its area.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 20A Correction of operative policy statement or plan
-A local authority may amend, without using the process in this Schedule, an operative policy statement or plan to correct any minor errors.
+A local authority may amend, without using the process in this schedule, an operative policy statement or plan to correct any minor errors.
 Part 2
 Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
 21 Requests
