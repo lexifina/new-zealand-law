@@ -1,5 +1,5 @@
 # Schedule 3 Proceedings of the board of a company
-Section 160
+s 160
 1 Chairperson
 (1) The directors may elect one of their number as chairperson of the board.
 (2) The director elected as chairperson holds that office until he or she dies or resigns or the directors elect a chairperson in his or her place.
@@ -10,8 +10,8 @@ Section 160
 (3) An irregularity in the notice of a meeting is waived if all directors entitled to receive notice of the meeting attend the meeting without protest as to the irregularity or if all directors entitled to receive notice of the meeting agree to the waiver.
 3 Methods of holding meetings
 A meeting of the board may be held either—
-(a) By a number of the directors who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
-(b) By means of audio, or audio and visual, communication by which all directors participating and constituting a quorum can simultaneously hear each other throughout the meeting.
+(a) by a number of the directors who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
+(b) by means of audio, or audio and visual, communication by which all directors participating and constituting a quorum can simultaneously hear each other throughout the meeting.
 4 Quorum
 (1) A quorum for a meeting of the board is a majority of the directors.
 (2) No business may be transacted at a meeting of directors if a quorum is not present.
@@ -24,7 +24,7 @@ A meeting of the board may be held either—
 The board must ensure that minutes are kept of all proceedings at meetings of the board.
 7 Unanimous resolution
 (1) A resolution in writing, signed or assented to by all directors then entitled to receive notice of a board meeting, is as valid and effective as if it had been passed at a meeting of the board duly convened and held.
-(2) Any such resolution may consist of several documents (including facsimile or other similar means of communication) in like form each signed or assented to by one or more directors.
+(2) Any such resolution may consist of several documents (including facsimile or other similar means of communication) in like form each signed or assented to by 1 or more directors.
 (3) A copy of any such resolution must be entered in the minute book of board proceedings.
 8 Other proceedings
 Except as provided in this Schedule, the board may regulate its own procedure.

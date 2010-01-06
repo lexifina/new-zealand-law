@@ -1,5 +1,5 @@
 # Schedule 1 Proceedings at meetings of shareholders
-Section 124
+s 124
 1 Chairperson
 (1) If the directors have elected a chairperson of the board, and the chairperson of the board is present at a meeting of shareholders, he or she must chair the meeting.
 (2) If no chairperson of the board has been elected or if, at any meeting of shareholders, the chairperson of the board is not present within 15 minutes of the time appointed for the commencement of the meeting, the shareholders present may choose one of their number to be chairperson of the meeting.
@@ -7,33 +7,33 @@ Section 124
 2 Notice of meetings
 (1) Written notice of the time and place of a meeting of shareholders must be sent to every shareholder entitled to receive notice of the meeting and to every director and an auditor of the company not less than 10 working days before the meeting.
 (2) The notice must state—
-(a) The nature of the business to be transacted at the meeting in sufficient detail to enable a shareholder to form a reasoned judgment in relation to it; and
-(b) The text of any special resolution to be submitted to the meeting; and
+(a) the nature of the business to be transacted at the meeting in sufficient detail to enable a shareholder to form a reasoned judgment in relation to it; and
+(b) the text of any special resolution to be submitted to the meeting; and
 (c) in the case of special resolutions required by section 106(1)(a) or (b), the right of a shareholder under section 110.
 (3) An irregularity in a notice of a meeting is waived if all the shareholders entitled to attend and vote at the meeting attend the meeting without protest as to the irregularity, or if all such shareholders agree to the waiver.
 (3A) Subject to the constitution of the company, the accidental omission to give notice of a meeting to, or the failure to receive notice of a meeting by, a shareholder does not invalidate the proceedings at that meeting.
 (4) Subject to the constitution of the company, if a meeting of shareholders is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
 3 Methods of holding meetings
 A meeting of shareholders may be held either—
-(a) By a number of shareholders, who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
-(b) Subject to the constitution of the company, by means of audio, or audio and visual, communication by which all shareholders participating and constituting a quorum, can simultaneously hear each other throughout the meeting.
+(a) by a number of shareholders, who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
+(b) subject to the constitution of the company, by means of audio, or audio and visual, communication by which all shareholders participating and constituting a quorum, can simultaneously hear each other throughout the meeting.
 4 Quorum
 (1) Subject to subclause (3) of this clause, no business may be transacted at a meeting of shareholders if a quorum is not present.
 (2) Subject to the constitution of the company, a quorum for a meeting of shareholders is present if shareholders or their proxies are present or have cast postal votes who are between them able to exercise a majority of the votes to be cast on the business to be transacted by the meeting.
 (3) If a quorum is not present within 30 minutes after the time appointed for the meeting,—
-(a) In the case of a meeting called under section 121(b) of this Act, the meeting is dissolved:
-(b) In the case of any other meeting, the meeting is adjourned to the same day in the following week at the same time and place, or to such other date, time, and place as the directors may appoint, and, subject to the constitution of the company, if, at the adjourned meeting, a quorum is not present within 30 minutes after the time appointed for the meeting, the shareholders or their proxies present are a quorum.
+(a) in the case of a meeting called under section 121(b) of this Act, the meeting is dissolved:
+(b) in the case of any other meeting, the meeting is adjourned to the same day in the following week at the same time and place, or to such other date, time, and place as the directors may appoint, and, subject to the constitution of the company, if, at the adjourned meeting, a quorum is not present within 30 minutes after the time appointed for the meeting, the shareholders or their proxies present are a quorum.
 5 Voting
 (1) In the case of a meeting of shareholders held under clause 3(a) of this Schedule, unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
-(a) Voting by voice; or
-(b) Voting by show of hands.
+(a) voting by voice; or
+(b) voting by show of hands.
 (2) In the case of a meeting of shareholders held under clause 3(b) of this Schedule, unless a poll is demanded, voting at the meeting shall be by the shareholders signifying individually their assent or dissent by voice.
 (3) A declaration by the chairperson of the meeting that a resolution is carried by the requisite majority is conclusive evidence of that fact unless a poll is demanded in accordance with subclause (4) of this clause.
 (4) At a meeting of shareholders a poll may be demanded by—
-(a) Not less than 5 shareholders having the right to vote at the meeting; or
-(b) A shareholder or shareholders representing not less than 10 percent of the total voting rights of all shareholders having the right to vote at the meeting; or
-(c) By a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10 percent of the total amount paid up on all shares that confer that right; or
-(d) The chairperson of the meeting.
+(a) not less than 5 shareholders having the right to vote at the meeting; or
+(b) a shareholder or shareholders representing not less than 10% of the total voting rights of all shareholders having the right to vote at the meeting; or
+(c) by a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
+(d) the chairperson of the meeting.
 (5) A poll may be demanded either before or after the vote is taken on a resolution.
 (6) If a poll is taken, votes must be counted according to the votes attached to the shares of each shareholder present in person or by proxy and voting.
 (7) Subject to the constitution of the company, the chairperson of a shareholders' meeting is not entitled to a casting vote.
@@ -50,15 +50,15 @@ A meeting of shareholders may be held either—
 (3) If no person has been authorised to receive and count postal votes at a meeting, or if no person is named as being so authorised in the notice of the meeting, every director is deemed to be so authorised.
 (4) A shareholder may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a notice of the manner in which his or her shares are to be voted to a person authorised to receive and count postal votes at that meeting. The notice must reach that person not less than 48 hours before the start of the meeting.
 (5) It is the duty of a person authorised to receive and count postal votes at a meeting—
-(a) To collect together all postal votes received by him or her or by the company; and
-(b) In relation to each resolution to be voted on at the meeting, to count—
-(i) The number of shareholders voting in favour of the resolution and the number of votes cast by each shareholder in favour of the resolution; and
-(ii) The number of shareholders voting against the resolution, and the number of votes cast by each shareholder against the resolution; and
-(c) To sign a certificate that he or she has carried out the duties set out in paragraphs (a) and (b) of this subclause and which sets out the results of the counts required by paragraph (b) of this subclause; and
-(d) To ensure that the certificate required by paragraph (c) of this subclause is presented to the chairperson of the meeting.
+(a) to collect together all postal votes received by him or her or by the company; and
+(b) in relation to each resolution to be voted on at the meeting, to count—
+(i) the number of shareholders voting in favour of the resolution and the number of votes cast by each shareholder in favour of the resolution; and
+(ii) the number of shareholders voting against the resolution, and the number of votes cast by each shareholder against the resolution; and
+(c) to sign a certificate that he or she has carried out the duties set out in paragraphs (a) and (b) of this subclause and which sets out the results of the counts required by paragraph (b) of this subclause; and
+(d) to ensure that the certificate required by paragraph (c) of this subclause is presented to the chairperson of the meeting.
 (6) If a vote is taken at a meeting on a resolution on which postal votes have been cast, the chairperson of the meeting must—
-(a) On a vote by show of hands, count each shareholder who has submitted a postal vote for or against the resolution:
-(b) On a poll, count the votes cast by each shareholder who has submitted a postal vote for or against the resolution.
+(a) on a vote by show of hands, count each shareholder who has submitted a postal vote for or against the resolution:
+(b) on a poll, count the votes cast by each shareholder who has submitted a postal vote for or against the resolution.
 (7) The chairperson of a meeting must call for a poll on a resolution on which he or she holds sufficient postal votes that he or she believes that if a poll is taken the result may differ from that obtained on a show of hands.
 (8) The chairperson of a meeting must ensure that a certificate of postal votes held by him or her is annexed to the minutes of the meeting.
 8 Minutes

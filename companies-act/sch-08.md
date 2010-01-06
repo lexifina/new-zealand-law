@@ -1,5 +1,5 @@
 # Schedule 8 Proceedings at meetings of liquidation committees
-Section 315(3)
+s 315(3)
 1 Frequency of meetings
 The committee must meet at such times as it from time to time appoints, and the liquidator or a member of the committee may also call a meeting of the committee as and when necessary.
 2 Majorities
@@ -12,7 +12,7 @@ If a member of the committee becomes bankrupt, or compounds or arranges with his
 A member of the committee may be removed by a resolution carried at a meeting of creditors if the member represents creditors, or of shareholders if the member represents shareholders, of which 5 working days' notice has been given, stating the object of the meeting.
 6 Vacancy filled
 A vacancy in the committee may be filled by the appointment by the committee of—
-(a) The same or another creditor or shareholder, as the case may be; or
-(b) A person holding a general power of attorney from, or being an authorised director or representative of, a company which is a creditor or shareholder, as the case may be.
+(a) the same or another creditor or shareholder, as the case may be; or
+(b) a person holding a general power of attorney from, or being an authorised director or representative of, a company which is a creditor or shareholder, as the case may be.
 7 Committee with vacancy may act
 The continuing members of the committee, if not less than 2, may act even though a vacancy exists in the committee.
