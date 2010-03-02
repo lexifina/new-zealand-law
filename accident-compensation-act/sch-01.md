@@ -1,5 +1,119 @@
 # Schedule 1 Entitlements
 ss 6, 67
+Contents
+Part 1
+Rehabilitation
+Treatment
+1 Corporation's liability to pay or contribute to cost of treatment
+2 When Corporation is liable to pay cost of treatment
+3 When Corporation is liable to pay or contribute to cost of ancillary services related to treatment
+4 Corporation's prior agreement to treatment required, except in certain cases
+5 Corporation may require claimant to supply information about treatment
+6 When Corporation must not decline to pay cost of treatment
+Individual rehabilitation plans
+7 Preparation of individual rehabilitation plan
+8 Agreement to plan
+9 Disputes about plan
+10 Corporation and claimant may agree to modify plan
+Ancillary services related to rehabilitation
+11 When Corporation is liable to pay or contribute to cost of ancillary services related to rehabilitation
+Social rehabilitation
+12 Definitions
+13 Aids and appliances
+14 Attendant care
+15 Child care
+16 Education support
+17 Home help
+18 Modifications to home: matters to which Corporation must have regard
+19 Modifications to home: rights and responsibilities
+20 Training for independence
+21 Transport for independence: matters to which Corporation must have regard
+22 Transport for independence: rights and responsibilities
+23 Corporation not liable to ensure claimant pays rehabilitation provider
+Vocational rehabilitation
+24 Occupational assessor
+25 Conduct of occupational assessment
+26 Report on occupational assessment
+27 Medical assessor
+28 Conduct of medical assessment
+29 Report on medical assessment
+Part 2
+Weekly compensation
+30 Meaning of relevant year
+31 Use of income tax returns in determining earnings
+Corporation to pay weekly compensation after first week of incapacity
+32 Corporation to pay weekly compensation for loss of earnings to claimant who was earner
+Employee claimant
+33 Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34
+34 Weekly earnings if earner had earnings as an employee immediately before incapacity commenced: calculations
+Employee not in permanent employment
+[Repealed]
+35 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: application of clause 36 [Repealed]
+36 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: calculations [Repealed]
+Self-employed claimant
+37 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38
+38 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: calculations
+38A Weekly earnings if self-employed claimant had earnings as a shareholder-employee in the relevant year
+Shareholder-employee
+39 Weekly earnings if claimant had earnings as shareholder-employee immediately before incapacity commenced
+40 Weekly earnings if claimant as shareholder-employee had earnings as self-employed person in relevant year
+Aggregation of calculations
+41 Calculations for multiple employment situations
+Adjustments for low earners
+42 Weekly earnings of earners in full-time employment: increase in certain circumstances
+Claimant no longer an employee
+43 Weekly earnings if employment ended before commencement of incapacity
+Employee on unpaid parental leave
+44 Weekly earnings if employee on unpaid parental leave immediately before his or her incapacity commenced
+Estimated earnings
+45 Interim estimation of weekly earnings that cannot be ascertained
+Maximum compensation
+46 Maximum weekly compensation for loss of earnings
+Corporation to pay weekly compensation to potential earners
+47 Corporation to pay weekly compensation for loss of potential earnings capacity
+Further injury
+48 Effect of further injury on entitlement to weekly compensation
+Abatement
+49 Earnings definitions for purposes of clause 51
+50 Estimation for abatement purposes of earnings that cannot be ascertained
+51 Abatement of compensation
+Effect of New Zealand superannuation
+52 Relationship between weekly compensation and New Zealand superannuation
+53 Election for purposes of clause 52
+Part 3
+Lump sum compensation for permanent impairment
+54 Lump sum compensation for permanent impairment
+55 Transitional limits on eligibility for lump sum entitlements
+55A Certain persons may elect to receive either lump sum compensation or independence allowance: assessment, notification, and election
+55B Certain persons may elect to receive either lump sum compensation or independence allowance: persons not entitled to make election under clause 55A
+55C Certain persons may elect to receive either lump sum compensation or independence allowance: reassessment, notification, and further election
+55D Certain persons may elect to receive either lump sum compensation or independence allowance: general
+56 Amount of lump sum compensation for permanent impairment
+57 Corporation not to assess entitlement until it receives medical certificate as to stability of claimant's condition
+58 Appointment of assessors
+59 Assessment of entitlement to lump sum compensation
+60 Payment of lump sum compensation for permanent impairment
+61 Reassessment of entitlement to lump sum compensation
+62 Payment of entitlement to lump sum compensation to deceased claimant's estate
+Part 4
+Entitlements arising from fatal injuries
+63 Child not born at date of claimant's death
+64 Funeral grant
+65 Survivor's grant
+66 Weekly compensation for surviving spouse or partner
+67 Surviving spouse or partner may choose to convert weekly compensation to aggregated payment or payments
+68 Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation
+69 Election for purposes of clause 68
+70 Weekly compensation for child
+71 Weekly compensation for other dependants
+72 Relationship between other dependant's weekly compensation and New Zealand superannuation
+73 Election for purposes of clause 72
+74 Maximum payments
+75 Spouse or partner status or dependency arising after date of personal injury
+Child care payments
+76 Child care payments for children of deceased claimant
+77 Duration of child care payments
+78 Child care payments made to caregiver
 Part 1
 Rehabilitation
 Treatment
@@ -128,16 +242,16 @@ educational participation means participation within the claimant's school day o
 (ii) exempted under section 21 or 22A of that Act from the requirement to be enrolled; or
 (iii) exempted under section 26 (but not subsection (1)(b)(iii)) of that Act from attending a school; or
 (b) attending a licensed early childhood service within the meaning of section 309 of the Education Act 1989; or
-(c) enrolled at a state school, special school, special class, or special clinic, under an agreement to which section 9 of the Education Act 1989 applies
+(c) enrolled at a State school, special school, special class, or special clinic, under an agreement to which section 9 of the Education Act 1989 applies
 home—
 (a) means residential premises in New Zealand in which the claimant lives and which are owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; and
 (b) includes residential premises in New Zealand in which the claimant proposes to live after they are built and which will be owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; but
 (c) does not include any hospital, hostel, hotel, motel, rest home, or other institution
 home help means the provision, in New Zealand, of domestic activities
-independence includes the capacity to function in the following areas
+independence includes the capacity to function in the following areas:
 (a) communication:
 (b) domestic activities:
-(c) educational participation
+(c) educational participation:
 (e) financial management:
 (f) health care:
 (g) hygiene care:
@@ -183,7 +297,7 @@ unless, in either case, the aid or appliance, because of its age or condition, i
 (5) The Corporation is not required to meet any costs of—
 (a) maintaining, repairing, or replacing any aid or appliance; or
 (b) replacing any consumable items used in association with any aid or appliance,—
-if the costs have been incurred because the claimant has neglected, abused, or misused the aid or appliance
+if the costs have been incurred because the claimant has neglected, abused, or misused the aid or appliance.
 (6) The Corporation may provide an aid or appliance by way of approving its hire by the claimant for a term it approves, if that hire is a cost effective alternative to the purchase of the aid or appliance.
 (7) If the claimant pays for any aid or appliance approved by the Corporation, the Corporation is liable to reimburse the claimant at the same rate that the Corporation normally purchases the aid or appliance, but may deduct any subsidy payable by a funder under the Health and Disability Services Act 1993 for that aid or appliance.
 Compare: 1998 No 114 Schedule 1 cl 42
@@ -431,16 +545,10 @@ Employee claimant
 (2) If the claimant had employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under clause 34 and aggregated under clause 41.
 34 Weekly earnings if earner had earnings as an employee immediately before incapacity commenced: calculations
 (1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:
-a
-—
-b
 where—
 a is the claimant's earnings as an employee (from the claimant's employment immediately before the claimant's incapacity commenced) in the 4 weeks immediately before his or her incapacity commenced
 b is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
 (2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:
-a
-—
-b
 where—
 a is the claimant's earnings as an employee (from the claimant's employment immediately before the claimant's incapacity commenced) in the 52 weeks immediately before his or her incapacity commenced
 b is the number of full or part weeks during which the claimant earned those earnings as an employee.
@@ -449,6 +557,7 @@ b is the number of full or part weeks during which the claimant earned those ear
 (b) any earnings in respect of any such period.
 Compare: 1998 No 114 Schedule 1 cl 9
 Employee not in permanent employment
+[Repealed]
 35 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: application of clause 36
 [Repealed]
 36 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: calculations
@@ -736,7 +845,7 @@ Lump sum compensation for permanent impairment
 (2) However, a determination under subclause (1) is required only if the person—
 (a) suffered a personal injury caused by a work-related gradual process, disease, or infection in the circumstances described in section 30(2); and
 (b) last performed the task or was employed in the environment in those circumstances before 1 April 2002; and
-(c) suffered the personal injury on or after the date on which section 33 of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008came into force.
+(c) suffered the personal injury on or after the date on which section 33 of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 came into force.
 (3) The Corporation must, after complying with subclause (1),—
 (a) make a decision (which, to avoid doubt, is to be treated as a single decision) as to whether the person has, for the purposes of an election under subclause (4), an entitlement to both lump sum compensation and an independence allowance; and
 (b) notify the person of its decision, in accordance with section 64, and include with that notification information about—
@@ -861,7 +970,7 @@ Compare: 1998 No 114 Schedule 1 cl 65
 (1) The Corporation is liable to pay a survivor's grant for a deceased claimant as follows:
 (a) to a surviving spouse or partner of the claimant, $4,702.79 but, if there is more than 1 surviving spouse or partner, the Corporation must divide that amount equally between them:
 (b) to each child of the claimant who has not yet turned 18 years, $2,351.40:
-(c) to any other dependant of the claimant, $2,351.40:
+(c) to any other dependant of the claimant, $2,351.40.
 (2) Adjustments to the amounts specified in subclause (1) must be made in the manner provided in section 116.
 Compare: 1998 No 114 Schedule 1 cl 66
 66 Weekly compensation for surviving spouse or partner
@@ -883,7 +992,7 @@ Compare: 1998 No 114 Schedule 1 cl 67
 67 Surviving spouse or partner may choose to convert weekly compensation to aggregated payment or payments
 (1) A surviving spouse or partner may choose to convert an entitlement to weekly compensation under clause 66 to 1 or more aggregated payments.
 (2) The Corporation must, if requested by the spouse or partner, provide the spouse or partner with actuarial calculations of any options specified by the spouse or partner for aggregating the spouse's entitlement under clause 66.
-(3) The spouse or partner must not specify an option under subclause (2) involving 2 or more payments unless the payments are to be made at 6-monthly intervals
+(3) The spouse or partner must not specify an option under subclause (2) involving 2 or more payments unless the payments are to be made at 6-monthly intervals.
 (4) A spouse or partner converts his or her entitlement to weekly compensation under clause 66 to aggregated payments by giving the Corporation notice in writing of the option the spouse or partner has chosen.
 (5) If the Corporation provides aggregated payments to a spouse or partner in accordance with the option chosen by the spouse or partner, the Corporation must not provide weekly compensation to the spouse or partner under clause 66.
 68 Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation
@@ -971,9 +1080,9 @@ Child care payments
 76 Child care payments for children of deceased claimant
 (1) The Corporation is liable to pay a child of a deceased claimant a payment for child care on receiving a written application for it by or on behalf of the child.
 (2) The amount of any weekly entitlement to payment for child care per child is as follows:
-(a) if the number of children of a deceased claimant entitled to payment for child care is 1, $100.00; and
-(b) if the number of children of a deceased claimant entitled to payment for child care is 2, $60.00; and
-(c) if the number of children of a deceased claimant entitled to payment for child care is 3 or more, $140.00 divided by the number of children of the claimant for whom payment is being made.
+(a) if the number of children of a deceased claimant entitled to payment for child care is 1, $100; and
+(b) if the number of children of a deceased claimant entitled to payment for child care is 2, $60; and
+(c) if the number of children of a deceased claimant entitled to payment for child care is 3 or more, $140 divided by the number of children of the claimant for whom payment is being made.
 (3) The Corporation is not liable for any administration costs incurred by or on behalf of the child in purchasing child care.
 (4) Adjustments to the amounts specified in subclause (2) must be made in the manner provided in section 116.
 Compare: 1998 No 114 Schedule 1 cl 76

@@ -14,6 +14,7 @@ Members
 6 Remuneration and expenses of Board members
 [Repealed]
 Meetings of Board
+[Repealed]
 7 Meetings
 [Repealed]
 8 Chairperson to preside at meetings
