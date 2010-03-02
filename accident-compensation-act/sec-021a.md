@@ -1,7 +1,7 @@
 # 21A Cover under Accident Rehabilitation and Compensation Insurance Act 1992 for mental injury caused by certain criminal acts
 (1) This section applies to persons who suffered personal injury that is mental or nervous shock suffered as an outcome of any act of any other person, which act—
 (a) was performed on, with, or in relation to the claimant (but not on, with, or in relation to any other person); and
-(b) was within the description of any offence listed in the Schedule 1 of the Accident Rehabilitation and Compensation Insurance Act 1992 (the 1992 Act); and
+(b) was within the description of any offence listed in Schedule 1 of the Accident Rehabilitation and Compensation Insurance Act 1992 (the 1992 Act); and
 (c) was performed before 1 July 1992 (including before 1 April 1974) and was performed—
 (i) in New Zealand; or
 (ii) outside New Zealand, and the claimant was ordinarily resident in New Zealand within the meaning of the 1992 Act when the act was actually performed.
@@ -16,7 +16,7 @@
 (4) Persons to whom this section applies are deemed to have had cover under the 1992 Act for the personal injury described in subsection (1), and the following provisions apply:
 (a) payments made by or through the Corporation (or a subsidiary of the Corporation) or the Department of Labour to those persons for a personal injury described in subsection (1), whether made before or after the commencement of this section, are deemed to be entitlements paid under the 1992 Act to the extent that the correct amounts were paid:
 (b) for the purpose of paragraph (a), it does not matter whether or not the payment is a payment made in the belief that section 8(3) of the 1992 Act provided cover:
-(c) entitlements available as a result of cover deemed by this section are subject to Part 13 of the Accident Insurance Act 1998 and Part 11 of the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+(c) entitlements available as a result of cover deemed by this section are subject to Part 13 of the Accident Insurance Act 1998 and Part 11 of this Act:
 (d) Part 5 applies to decisions made by or on behalf of the Corporation between 15 July 2003 and the commencement of this section on claims made under section 8(3) of the 1992 Act for which cover is deemed by this section, and Part 5 applies as if those decisions had been made on the date of the commencement of this section.
 (5) However, the following provisions apply to civil proceedings brought before or after the commencement of this section seeking general damages for mental or nervous shock suffered by a person as an outcome of any act described in subsection (1) (the proceedings):
 (a) if the plaintiff received judgment in the proceedings, in his or her favour, before the commencement of this section, the plaintiff does not have cover under this section for the injury or injuries to which the proceedings relate:
