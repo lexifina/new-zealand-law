@@ -641,42 +641,6 @@ Subpart 2—Taxation of costs between parties
 14.22 Direction to Registrar to ascertain expenses
 14.23 Review of taxation
 Part 15
-Constituency election petitions
-Preliminary provisions
-796 Interpretation
-797 Application of this Part
-798 Application of other rules and practice of Court
-Petitions
-799 Petitions
-Service of petition
-800 Service of petition
-Advertisement of petition
-801 Advertisement of petition
-Representation of respondents
-802 Respondent must file notice
-Security for costs
-803 Security by deposit of money
-804 Registrar of Court may withdraw money deposited as security
-805 Security by bond
-Particulars of objections
-806 Petitioner must list objections to votes
-807 Respondent must list objections to petition
-808 Inspection and supply of lists
-Trial of petition
-809 Notice of time and place appointed for trial of petition under section 236 of the Act
-Withdrawal of petition
-810 Notice of intention to apply for leave to withdraw petition under section 252 of the Act
-811 Form of application for leave to withdraw petition
-812 Time and place of hearing of application for leave to withdraw petition
-813 Application to be substituted as a petitioner
-Abatement of petition
-814 Notice of abatement of petition under section 255(3) of the Act
-815 Application to be substituted as petitioner on abatement
-Withdrawal and substitution of respondent before trial
-816 Notice of respondent's death or loss of seat before trial of petition under section 256(1)(a) or (c) of the Act
-817 Notice of intention not to oppose petition under section 256(1)(b) of the Act
-818 Notice of application to be admitted as respondent to oppose petition
-Part 15
 Disposal other than by trial
 Subpart 1—Dismissal or stay without trial
 15.1 Dismissing or staying all or part of proceeding
@@ -1298,7 +1262,7 @@ Judicial review
 30.3 Procedure
 30.4 Interim orders
 Part 31
-Companies: liquidation
+Companies: Liquidation
 31.1 Application
 31.2 Hearing of applications
 31.3 Applications to be made by statement of claim
@@ -1362,22 +1326,6 @@ Search orders
 33.7 Independent solicitors
 33.8 Review of search
 33.9 Costs
-Schedule 1
-Forms
-Schedule 2
-Appropriate daily recovery rates
-Schedule 3
-Time allocations
-Schedule 4
-Code of conduct for expert witnesses
-Schedule 5
-Matters for consideration at case management conference for proceeding other than appeal
-Schedule 6
-Standard directions for appeals
-Schedule 7
-Standard directions for appeals by way of case stated and references under Part 21
-Schedule 8
-Matters for consideration at pre-trial conference for proceedings on standard track
 Part 1
 Rules of general application
 Subpart 1—Objective and interpretation
@@ -1545,7 +1493,7 @@ Compare: 1908 No 89 Schedule 2 r 65A
 Compare: 1908 No 89 Schedule 2 rr 62-64
 1.13 Failure to give notice
 A failure to comply with rule 1.11 does not prevent a person speaking Māori at a case management conference or pre-trial conference or hearing, but—
-(a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c)of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
+(a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
 (b) the court may treat the failure to comply as a relevant consideration in an award of costs.
 Compare: 1908 No 89 Schedule 2 r 65B
 1.14 Translation may be ordered by court
@@ -1610,7 +1558,7 @@ Subpart 1—Associate Judges
 (1) An Associate Judge has the jurisdiction and powers of a Judge in chambers conferred by the Act or these rules or another enactment.
 (2) The jurisdiction and powers referred to in subclause (1) are in addition to the jurisdiction and powers conferred by section 26I of the Act.
 (3) Despite subclause (1), an Associate Judge does not have jurisdiction or powers in respect of the matters specified in—
-(a) section 26J(3) and (4)of the Act; or
+(a) section 26J(3) and (4) of the Act; or
 (b) section 26P(1) of the Act.
 Compare: 1908 No 89 Schedule 2 r 61A
 2.2 Interim order on transfer of proceeding
@@ -1746,7 +1694,7 @@ formal court record means any of the following kept in a registry of the court:
 (d) a judgment, order, or minute of the court, including any record of the reasons given by the Judge:
 (e) the rolls of barristers and solicitors kept under section 56 of the Lawyers and Conveyancers Act 2006 or any former corresponding enactment.
 3.6 Application
-(1) This subpart applies to documents while they are in the custody or control of the Court and until they are transferred to Archives New Zealand.
+(1) This subpart applies to documents while they are in the custody or control of the court and until they are transferred to Archives New Zealand.
 (2) These rules do not require any person to prepare a document that is not in existence at the time the document is sought.
 3.7 General right of access to formal court record and certain applications under Administration Act 1969
 (1) Subject to rule 3.12, every person has the right to access the formal court record kept in a registry of the court.
@@ -2074,7 +2022,7 @@ litigation guardian
 (ii) a person who is appointed under rule 4.35 to conduct a proceeding; and
 (b) has the same meaning as the expression "guardian ad litem"
 minor means a person who has not attained the age of 18 years; and a person is of full age if he or she has attained the age of 18 years.
-Compare: 1908 No 89 Schedule 2 rr 82 and 83
+Compare: 1908 No 89 Schedule 2 rr 82, 83
 4.30 Incapacitated person must be represented by litigation guardian
 (1) An incapacitated person must have a litigation guardian as his or her representative in any proceeding, unless the court otherwise orders.
 (2) If a person becomes an incapacitated person during a proceeding, a party must not take any step in the proceeding without the permission of the court until the incapacitated person has a litigation guardian.
@@ -2218,7 +2166,7 @@ Compare: 1908 No 89 Schedule 2 r 100
 (b) each new party, unless the person making the application is the only new party.
 (4) The new parties order is binding on a person served from the time of service.
 (5) A person who is not already a party who is served with a new parties order must file a statement of defence in the same time frame and manner as a person served with a statement of claim.
-Compare: 1908 No 89 Schedule 2 rr 101 and 102
+Compare: 1908 No 89 Schedule 2 rr 101, 102
 4.53 Discharge or variation of new parties order
 (1) A person may apply to the court to discharge or vary a new parties order within 10 working days from the service of the order.
 (2) An incapacitated person who is served with a new parties order who does not have a litigation guardian may apply to the court within 10 working days from the appointment of a litigation guardian for the new parties order to be discharged or varied.
@@ -2289,7 +2237,7 @@ Compare: 1908 No 89 Schedule 2 r 177
 (c) adjudicate upon the competing claims on the affidavits filed, or adjourn the application for that purpose:
 (d) if the question appears to be one of law only, direct that the question be determined by the court:
 (e) direct the trial of the issues involved by the method that the court directs:
-(f) order that 1 of the claimants commence a proceeding against any other or others to try the question involved or, if a proceeding has been commenced by a claimant, order that any other claimant be joined as a defendant to that proceeding:
+(f) order that one of the claimants commence a proceeding against any other or others to try the question involved or, if a proceeding has been commenced by a claimant, order that any other claimant be joined as a defendant to that proceeding:
 (g) order that the chattels in dispute or any part of them be sold, and that the proceeds of the sale be applied in such manner and on such terms as are just.
 (3) Subclause (4) applies to a claimant who has been served with an application and—
 (a) does not appear on the hearing of the application; or
@@ -2581,7 +2529,7 @@ Subpart 8—Memorandum on first document
 (ii) the postal address of the party's solicitor; and
 (d) an address for service; and
 (e) if it is filed by a solicitor, any post office box address, document exchange box number, fax number, or email address by which the solicitor will accept service of documents in the course of the proceeding.
-(2) The memorandum may be in 1 of the paragraphs of form G 10.
+(2) The memorandum may be in one of the paragraphs of form G 10.
 Compare: 1908 No 89 Schedule 2 r 44
 Subpart 9—Security for costs
 5.45 Order for security of costs
@@ -2785,7 +2733,7 @@ Compare: 1908 No 89 Schedule 2 r 194
 (a) husband and wife; or
 (b) civil union partners; or
 (c) de facto partners.
-(2) Service on 1 spouse, civil union partner, or de facto partner is not to be treated as service on the other unless the court so orders.
+(2) Service on one spouse, civil union partner, or de facto partner is not to be treated as service on the other unless the court so orders.
 Compare: 1908 No 89 Schedule 2 r 205
 6.5 Service at address for service
 A document may be served at an address for service by leaving the document at that address at any time between 9 am and 5 pm.
@@ -3448,7 +3396,7 @@ Compare: 1908 No 89 Schedule 2 r 238(1), (2)
 7.54 Undertaking as to damages
 (1) An applicant for an interlocutory injunction under rule 7.53 must file a signed undertaking that the applicant will comply with any order for the payment of damages to compensate the other party for any damage sustained through the injunction.
 (2) The undertaking must be referred to in the order granting the interlocutory injunction and is part of it.
-Compare: 1908 No 89 Schedule 2 r 238 (3), (4)
+Compare: 1908 No 89 Schedule 2 r 238(3), (4)
 7.55 Preservation of property
 (1) A Judge may at any stage in a proceeding make orders, subject to any conditions specified by the Judge, for the detention, custody, or preservation of any property.
 (2) An order may authorise a person to enter any land or to do any other thing for the purpose of giving effect to the order.
@@ -3605,7 +3553,7 @@ Compare: 1908 No 89 Schedule 2 r 346G
 (c) at any other stage of the proceeding.
 Compare: 1908 No 89 Schedule 2 r 346I
 7.76 Counterclaims and other proceedings
-Rules 7.68 to 7.75 apply, with all necessary modifications, to any counterclaim or proceeding in which 1 party seeks an order for an interim payment from another.
+Rules 7.68 to 7.75 apply, with all necessary modifications, to any counterclaim or proceeding in which one party seeks an order for an interim payment from another.
 Compare: 1908 No 89 Schedule 2 r 346J
 Subpart 6—Amendment of pleading
 7.77 Filing of amended pleading
@@ -4505,8 +4453,8 @@ Compare: 1908 No 89 Schedule 2 r 519
 (3) Subclause (2) overrides subclause (1).
 (4) In this rule,—
 Registrar includes—
-(a) a Deputy Registrar of the High Court
-(b) a Registrar of a District Court
+(a) a Deputy Registrar of the High Court:
+(b) a Registrar of a District Court:
 (c) a Deputy Registrar of a District Court
 solicitor means a person enrolled as a barrister and solicitor of the High Court.
 Compare: 1908 No 89 Schedule 2 r 521
@@ -5036,7 +4984,7 @@ The following general principles apply to the determination of costs:
 (g) so far as possible the determination of costs should be predictable and expeditious.
 Compare: 1908 No 89 Schedule 2 r 47
 14.3 Categorisation of proceedings
-(1) For the purposes of rule 14.2(b), proceedings must be classified as falling within 1 of the following categories:
+(1) For the purposes of rule 14.2(b), proceedings must be classified as falling within one of the following categories:
 Category 1 proceedings Proceedings of a straightforward nature able to be conducted by counsel considered junior in the High Court
 Category 2 proceedings Proceedings of average complexity requiring counsel of skill and experience considered average in the High Court
 Category 3 proceedings Proceedings that because of their complexity or significance require counsel to have special skill and experience in the High Court
@@ -5191,172 +5139,6 @@ The court may, on the application of a party dissatisfied with the Registrar's d
 (b) the Registrar's actions referred to in paragraph (a) were done under these rules or by a direction of the court; and
 (c) it appears that the Registrar acted erroneously as to amount or principle.
 Compare: 1908 No 89 Schedule 2 r 59
-Part 15
-Constituency election petitions
-Preliminary provisions
-796 Interpretation
-In this Part, unless the context otherwise requires,
-Act means the Electoral Act 1993
-petition
-(a) Means an election petition presented under section 229(3) of the Act (that is, an election petition relating to either
-(i) The return of a member of Parliament representing an electoral district; or
-(ii) A failure to present a return at an election for a member of Parliament representing an electoral district); and
-(b) Includes a petition complaining of no return that the Court, under section 229(2) of the Act, allows to be heard as provided with respect to an ordinary petition under section 229(3) of the Act:
-Registrar of Electors means, in relation to an electoral district, the Registrar of Electors appointed under the Act for that district
-Returning Officer means, in relation to an electoral district, the Returning Officer appointed under the Act for that district.
-Compare: SR 1996/218 r 3
-797 Application of this Part
-This Part applies to the determination, under sections 230 to 257 of the Act, of a petition.
-798 Application of other rules and practice of Court
-(1) The other Parts of these rules (except the rules referred to in subclause (2)), and the general practice of the Court, apply where this Part applies except so far as they are modified by or inconsistent with the Act or this Part.
-(2) The following rules do not apply where this Part applies:
-(a) Rule 16 (How security to be given):
-(b) Rule 60 (Power to make order for security for costs):
-(c) Rules 98 to 104 (Change of parties by death, etc):
-(d) Rule 106 (Proceeding commenced by filing statement of claim):
-(e) Rule 107 (Proper office of the Court):
-(f) Rule 120 (Notice of proceeding to be filed with statement of claim):
-(g) Rule 121 (Requirements as to notice of proceeding):
-(h) Rule 122 (Place and time for filing statement of defence):
-(i) Rule 123 (Place of trial):
-(j) Rule 129 (Filing and service of statement of defence):
-(k) Rule 130 (Requirements as to statement of defence):
-(l) Rules 135 to 144 (Summary judgment procedure):
-(m) Rules 433 to 438AA (allocation of hearing dates and setting down date):
-(n) Rule 474 (Discontinuance of cause of action):
-(o) Rule 481 (Mode of trial).
-Petitions
-799 Petitions
-(1) A petition must
-(a) Be in form 83, and contain the information required by that form; and
-(b) Be signed by the petitioner or, if there are 2 or more petitioners, each petitioner; and
-(c) Be presented to the Court by being filed in the registry of the Court nearest to the place where the election was held.
-(2) The Registrar of the Court must send a copy of the petition to the Returning Officer as soon as it is filed.
-Service of petition
-800 Service of petition
-A petition must be served as nearly as may be in the manner in which a statement of claim is served.
-Advertisement of petition
-801 Advertisement of petition
-(1) Within 7 days of the filing of a petition, a petitioner must, at his or her own expense, publish the petition in a newspaper circulating in the district to which the petition relates.
-(2) On an application made by a petitioner for the purpose, the Court may order that a petition need not be advertised in accordance with subclause (1).
-Compare: SR 1996/218 r 17
-Representation of respondents
-802 Respondent must file notice
-Within 7 days of being served with a petition, a respondent to a petition must file in the registry of the Court in which the petition is filed a notice
-(a) Signed by or on behalf of the respondent; and
-(b) Either
-(i) Appointing a solicitor to act for the respondent in relation to the petition; or
-(ii) Stating that the respondent intends to act for himself or herself in relation to the petition; and
-(c) Stating, for the purposes of proceedings to determine the petition,
-(i) An address for service; and
-(ii) If a solicitor is appointed to act for the respondent, any Post Office box address, document exchange box number, or facsimile number by which the solicitor will accept service of documents.
-Compare: SR 1996/218 r 16
-Security for costs
-803 Security by deposit of money
-Security given by deposit of money must be given by the deposit of the money to the credit of the High Court Trust Account.
-Compare: SR 1996/218 r 23
-804 Registrar of Court may withdraw money deposited as security
-The Registrar of the Court may from time to time withdraw from the High Court Trust Account all or part of any money deposited as security if the Court orders, or all parties to the proceedings agree, that that money be
-(a) Paid to a respondent, for costs, charges, or expenses incurred by or on behalf of that respondent; or
-(b) Paid to a witness summoned on a petitioner's behalf, for costs, charges, or expenses incurred by or on behalf of that witness; or
-(c) Returned to a petitioner; or
-(d) Otherwise disposed of in accordance with the Act.
-Compare: SR 1996/218 r 24
-805 Security by bond
-(1) Security given by bond must be given by a bond in form 84 containing the information required by that form.
-(2) A bond may be executed by no more than 5 sureties.
-(3) If a Registrar of the Court believes on reasonable grounds that a surety is insufficient, or that a bond is defective or inadequate, he or she may
-(a) Require a surety to lodge an affidavit of justification with the bond; or
-(b) Impose any other requirement the Registrar of the Court considers necessary.
-Compare: 1996/218 rr 25, 26, 27
-Particulars of objections
-806 Petitioner must list objections to votes
-(1) This rule applies if a petitioner in his or her petition
-(a) Alleges that a candidate not elected or returned has a majority of lawful votes; and
-(b) Objects to any vote.
-(2) If this rule applies, the petitioner must prepare a list of
-(a) Each vote objected to; and
-(b) The heads of objection to each of those votes.
-(3) A petitioner must, at least 6 days before the day appointed for the trial of the petition, deliver a copy of the list
-(a) To the Registrar of the Court; and
-(b) To any other party to the proceeding at that party's address for service.
-(4) A petitioner must also deliver to the Registrar of the Court enough copies of that list to enable the Registrar to supply the copies required to be supplied under rule 808.
-Compare: SR 1996/218 r 29
-807 Respondent must list objections to petition
-(1) This rule applies if
-(a) A petitioner in a petition complains of an unlawful election or return and claims the seat for some person; and
-(b) A respondent to the petition intends to give evidence, under section 236(8) of the Act, to prove that that person was not duly elected.
-(2) If this rule applies, the respondent must prepare a list of
-(a) The specific grounds upon which the respondent claims that that person was not duly elected or returned; and
-(b) In relation to each of those grounds, particulars of the facts upon which the respondent intends to rely.
-(3) The respondent must, at least 6 days before the day appointed for the trial, deliver a copy of the list
-(a) To the Registrar of the Court; and
-(b) To any other party to the proceeding at that party's address for service.
-(4) The respondent must also deliver to the Registrar of the Court enough copies of that list to enable the Registrar to supply the copies required to be supplied under rule 808.
-Compare: SR 1996/218 r 30
-808 Inspection and supply of lists
-On a request for the purpose by any person at the office of the Court, the Registrar of the Court must allow the person to inspect, or supply the person with a copy of, a list delivered to the Registrar under rule 806 or rule 807.
-Compare: SR 1996/218 r 32
-Trial of petition
-809 Notice of time and place appointed for trial of petition under section 236 of the Act
-(1) The Court must appoint a time at or after which the petition is to be tried.
-(2) The time appointed must be at least 21 days after the day on which the Court appoints that time.
-(3) The Registrar of the Court must, at least 14 days before the day of the time appointed for the trial,
-(a) Give a notice of the time and place appointed for the trial to each party to the proceeding at that party's address for service; and
-(b) Publish a notice of the time and place appointed for the trial in a newspaper circulating in the district to which the petition relates.
-(4) A notice of the time and place appointed for the trial must be in form 85.
-Compare: SR 1996/218 rr 35, 36, 37
-Withdrawal of petition
-810 Notice of intention to apply for leave to withdraw petition under section 252 of the Act
-(1) A petitioner who intends to apply to the Court for leave to withdraw a petition must, at least 7 days before the time appointed for the hearing of the application,
-(a) Serve a copy of a notice of intention to apply for leave to withdraw the petition on each respondent to the petition; and
-(b) Publish a notice of intention to apply for leave to withdraw the petition at least once in a newspaper circulating in the district to which the petition relates.
-(2) A notice of intention to apply for leave to withdraw a petition must be in form 86 and contain the information required by that form.
-Compare: SR 1996/218 r 40
-811 Form of application for leave to withdraw petition
-An application for leave to withdraw a petition must be in form 87.
-Compare: SR 1996/218 r 42
-812 Time and place of hearing of application for leave to withdraw petition
-(1) The Court must appoint a time at or after which an application for leave to withdraw a petition is to be heard.
-(2) The time appointed must be at least 8 days after the day on which the Court appoints the time.
-(3) The Registrar of the Court must, in such manner as the Court may direct, give notice of the time and place of the hearing to
-(a) Each respondent; and
-(b) Each person who, under rule 813(b), gives notice of an intention to apply to be substituted as a petitioner.
-Compare: SR 1996/218 r 41
-813 Application to be substituted as a petitioner
-A person may, at a hearing of an application for leave to withdraw a petition, apply to be substituted as a petitioner in respect of the petition, if (and only if)
-(a) The person would, under section 230(1) of the Act, have been entitled to have presented the petition; and
-(b) The person has given the Registrar of the Court, within 7 days after the publication of the notice of intention to apply for leave to withdraw the petition, written notice that the person intends to apply to be substituted as a petitioner in respect of the petition.
-Compare: SR 1996/218 r 44
-Abatement of petition
-814 Notice of abatement of petition under section 255(3) of the Act
-(1) If a petition abates under section 255(1) of the Act (because of the death of a sole petitioner or of the survivor of several petitioners), the Registrar of the Court must, on learning of the death,
-(a) Serve a notice of the abatement on each respondent; and
-(b) Publish the notice of the abatement at least once in a newspaper circulating in the district to which the petition relates.
-(2) A notice of the abatement must be in form 88.
-Compare: SR 1996/218 r 45
-815 Application to be substituted as petitioner on abatement
-An application under section 255(3) of the Act (to be substituted as petitioner on the abatement of a petition) must be made by written notice given to the Registrar of the Court.
-Compare: SR 1996/218 r 46
-Withdrawal and substitution of respondent before trial
-816 Notice of respondent's death or loss of seat before trial of petition under section 256(1)(a) or (c) of the Act
-(1) This rule applies if, before the trial of a petition, a respondent (other than a Returning Officer or a Registrar of Electors) dies or loses his or her seat because the House of Representatives resolves that his or her seat is vacant.
-(2) If this rule applies, the Registrar of the Court must, on learning of the death or the loss by the respondent of his or her seat, give notice of the death or loss.
-(3) The Registrar of the Court must give the notice by
-(a) Publishing the notice at least once in a newspaper circulating in the district to which the petition relates; and
-(b) Leaving a copy of the notice signed by him or her, or on his or her behalf, with the Returning Officer; and
-(c) Serving a copy of the notice signed by him or her, or on his or her behalf, on each petitioner.
-Compare: SR 1996/218 r 47
-817 Notice of intention not to oppose petition under section 256(1)(b) of the Act
-(1) A respondent to a petition (other than a Returning Officer or a Registrar of Electors) who does not intend to oppose the petition must give written notice of that intention to the Registrar of the Court at least 10 days before the time appointed for the trial of the petition.
-(2) A respondent who gives notice must immediately
-(a) Publish the notice in a newspaper circulating in the district to which the petition relates; and
-(b) Leave a copy of the notice with the Returning Officer; and
-(c) Serve a copy of the notice on each petitioner.
-Compare: SR 1996/218 r 48
-818 Notice of application to be admitted as respondent to oppose petition
-An application under section 256(1) of the Act (to be admitted as a respondent to oppose a petition) must be made by written notice given to the Registrar of the Court.
-Compare: SR 1996/218 r 49
 Part 15
 Disposal other than by trial
 Subpart 1—Dismissal or stay without trial
@@ -6827,7 +6609,7 @@ Cases stated
 (a) appeals to the court under any Act by way of case stated for a decision on a question of law or fact (or both):
 (b) other references to the court under any Act by way of case stated for a decision on a question of law or fact (or both).
 (2) This Part does not apply to cases stated by an order under rule 10.15.
-(3) This part applies subject to any express provision in the enactment under which the appeal is brought or sought to be brought.
+(3) This Part applies subject to any express provision in the enactment under which the appeal is brought or sought to be brought.
 Compare: 1908 No 89 Schedule 2 r 719
 21.2 Some rules in Part 20 apply
 The following rules apply, with all necessary modifications, to every appeal to which this Part applies:
@@ -8021,7 +7803,7 @@ Compare: 1908 No 89 Schedule 2 r 776(1)-(4)
 25.35 Issue of warrant of arrest
 (1) The Registrar may require additional security to cover fees, expenses, and harbour dues (if any) referred to in rule 25.34(4)(b).
 (2) The Registrar must, before issuing the warrant of arrest, ascertain whether a caveat against the issue of a warrant of arrest has been entered, but, under rule 25.43(2), the entry of a caveat against arrest does not prevent the issue of a warrant of arrest.
-(3) "On being satisfied that the relevant requirements of rule 24.34 and this rule have been complied with, the Registrar must—"
+(3) On being satisfied that the relevant requirements of rule 24.34 and this rule have been complied with, the Registrar must—
 (a) complete the certificate on the application for a warrant of arrest; and
 (b) issue a warrant of arrest in form AD 9.
 (4) Despite subclause (2), a Registrar may, in the case of any emergency or special circumstances, issue a warrant of arrest immediately if the Registrar—
@@ -8094,7 +7876,7 @@ Compare: 1908 No 89 Schedule 2 r 778(1), (6)-(9)
 (4) A release must be issued for property if,—
 (a) before an appearance is entered in the action concerned, a party at whose instance the property was arrested files a notice withdrawing the warrant of arrest; and
 (b) rule 25.44(4) has been complied with (if applicable) and the release is not prevented by subclause (3).
-Compare: 1908 No 89 Schedule 2 r 778 (2)-(5), (10)
+Compare: 1908 No 89 Schedule 2 r 778(2)-(5), (10)
 25.46 Caveat against release and payment
 (1) A person may prevent the release of property under arrest in an action in rem or the payment out of court of any money in court representing the proceeds of sale of that property, or both that release and that payment, by filing a request for a caveat in form AD 14.
 (2) On the filing of the request, the Registrar must enter in the Register of Admiralty Proceedings a caveat against—
@@ -8113,7 +7895,7 @@ Compare: 1908 No 89 Schedule 2 r 779
 (a) the Registrar considers the request reasonable; and
 (b) the applicant gives the Registrar a satisfactory undertaking in writing to pay on demand the fees and expenses incurred by the Registrar, and any of the Registrar's appointed officers or agents, in taking the desired steps.
 (3) If the interested persons are unable or unwilling to arrange for an undertaking under subclause (2)(b) to be given, they may intervene in the action in which the cargo is under arrest and apply for an order for discharge of the cargo and for directions as to the fees and expenses incurred by the Registrar, and any of the Registrar's appointed officers or agents, in discharging and storing the cargo under the order.
-(4) If a ship is under arrest but cargo on board the ship is not, persons interested in the cargo who wish to secure its discharge may follow 1 or other of the procedures specified in this rule.
+(4) If a ship is under arrest but cargo on board the ship is not, persons interested in the cargo who wish to secure its discharge may follow one or other of the procedures specified in this rule.
 Compare: 1908 No 89 Schedule 2 r 780
 25.48 Security
 (1) The amount and form of any security required under this Part may be determined by the court or a Judge on an application by any party.
@@ -8607,8 +8389,8 @@ Compare: 1908 No 89 Schedule 2 r 651
 Compare: 1908 No 89 Schedule 2 r 652
 27.23 Revocation
 (1) This rule applies if it appears to the court that,—
-(a) for a will made on or after 1 November 2007, 1 of the means of revocation described in section 16 of the Wills Act 2007 may have been used; or
-(b) for a will made before 1 November 2007, 1 of the means of revocation described in section 16, as modified by section 40(2)(m) and (n) of the Wills Act 2007, may have been used.
+(a) for a will made on or after 1 November 2007, one of the means of revocation described in section 16 of the Wills Act 2007 may have been used; or
+(b) for a will made before 1 November 2007, one of the means of revocation described in section 16, as modified by section 40(2)(m) and (n) of the Wills Act 2007, may have been used.
 (2) The applicant must satisfy the court that the will has not been revoked.
 Compare: 1908 No 89 Schedule 2 r 653
 27.24 Duplicate wills
@@ -8685,7 +8467,7 @@ Compare: 1908 No 89 Schedule 2 r 659
 (a) is entitled to the grant; and
 (b) does not reside in New Zealand.
 (2) The court may make a grant to the holder of an enduring power of attorney for a donor to whom section 9A of the Administration Act 1969 applies.
-(3) If the person or the donor is 1 of 2 or more executors, the court may make the grant to the attorney or the holder only after—
+(3) If the person or the donor is one of 2 or more executors, the court may make the grant to the attorney or the holder only after—
 (a) the attorney or the holder has given notice to the other executors; or
 (b) the court has dispensed with notice.
 (4) The court may limit the grant in any way.
@@ -8731,7 +8513,7 @@ Subpart 7—Recall of grant
 (1) If a grant is made in common form, a person may make an interlocutory application for an order for the recall of the grant.
 (2) The court may make an order recalling the grant only if—
 (a) the application is unopposed; and
-(b) 1 of the following circumstances exists:
+(b) one of the following circumstances exists:
 (i) the grant was made on the basis that the deceased died intestate and a will has been found; or
 (ii) a will has been found with a date later than that of the will of which probate was granted; or
 (iii) the person to whom the grant was made applies for the recall; or
@@ -8843,7 +8625,7 @@ Trans-Tasman competition proceedings
 In this Part, unless the context otherwise requires—
 Australian proceeding means a proceeding in which a matter for determination arises under—
 (a) any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia; or
-(b) a provision of Part VI or XII of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act,—
+(b) a provision of Part 6 or 12 of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act,—
 and includes an interlocutory application related to such a proceeding and an application for the issue of execution or enforcement of a judgment, order, or injunction given, made, or granted in a proceeding
 Federal Court means the Federal Court of Australia
 New Zealand proceeding means a proceeding in which a matter for determination arises under—
@@ -9138,7 +8920,7 @@ Compare: 1908 No 89 Schedule 2 r 628
 (3) The undertaking must be referred to in the order and is part of it.
 Compare: 1908 No 89 Schedule 2 r 627B
 Part 31
-Companies: liquidation
+Companies: Liquidation
 31.1 Application
 (1) This Part applies to an application to the High Court—
 (a) to put a company into liquidation; or
@@ -9163,7 +8945,7 @@ Compare: 1908 No 89 Schedule 2 r 700D
 (1) Rules 5.22 and 5.23 do not apply to a proceeding commenced by the filing of a statement of claim under rule 31.3.
 (2) A notice of proceeding in form C 3 and an affidavit in form C 4 or C 5 verifying the allegations in the statement of claim must be filed and served with a statement of claim filed under rule 31.3.
 (3) Subclause (2) is subject to rule 5.24.
-(4) The affidavit must be made by the plaintiff, or by 1 of the plaintiffs if more than 1, or, if the proceeding is brought by a corporation, by a person who meets the requirements of rule 9.82.
+(4) The affidavit must be made by the plaintiff, or by one of the plaintiffs if more than 1, or, if the proceeding is brought by a corporation, by a person who meets the requirements of rule 9.82.
 (5) The affidavit is sufficient prima facie evidence of the statements in the statement of claim.
 Compare: 1908 No 89 Schedule 2 r 700E
 31.6 Date of hearing
@@ -9521,133 +9303,127 @@ r 1.3(3)
 Contents
 General forms
 Page
-G 1 General heading for documents filed in proceeding 530
-G 2 Notice of proceeding 531
-G 3 Memorandum (general form) 532
-G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 534
-G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 537
-G 6 Notice to defendant served overseas 541
-G 7 Appearance under protest to jurisdiction 543
-G 8 Appearance for ancillary purpose 544
-G 9 Appearance reserving rights 545
-G 10 Memorandum to be attached to first document filed by party 546
-G 11 Memorandum as to change of representation and/or address for service 548
-G 12 Notice of intention to speak Māori 549
-G 13 Notice of proceeding when summary judgment sought by plaintiff 551
-G 14 Third party notice 556
-G 15 Notice to other defendant 558
-G 16 Affidavit of service 559
-G 17 Service of foreign process in New Zealand—Registrar's certificate 561
-G 18 Request for service abroad 562
-G 19 Report of examiner 563
-G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia 565
-G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia 566
-G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings 568
-G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia 570
-G 24 Notice of discontinuance 571
-G 25 Subpoena 572
-G 26 Subpoena to give evidence for service in Australia 574
-G 27 Subpoena for production only for service in Australia 575
-G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 576
-G 29 Certificate of non-compliance with subpoena for service in Australia 580
-G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 581
-G 31 Interlocutory application on notice 583
-G 32 Interlocutory application without notice 584
-G 33 Notice of opposition 585
-G 34 Interlocutory order 586
-G 35 Notice to answer interrogatories 587
-G 36 Notice to admit facts 588
-G 37 Affidavit of documents 589
-G 38 Freezing order 592
-G 39 Search order 595
-J 1 Judgment by default in case of liquidated demand 597
-J 2 Judgment by default in proceeding for recovery of land 598
-J 3 Judgment on trial by Judge 599
-J 4 Judgment on trial by jury 600
-E 1 Notice to liable party 601
-E 2 Statement of means of liable party 603
-E 3 Attachment order 608
-E 4 Charging order on land 610
-E 5 Interim charging order 611
-E 6 Final charging order 612
-E 7 Sale order 613
-E 8 Possession order 615
-E 9 Arrest order 616
-E 10 Sequestration order 617
-E 11 Order to arrest and imprison absconding debtor 618
-E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice 619
-CL 1 Commercial list 620
-CL 2 Appearance in proceeding entered on commercial list 622
-CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 623
-PR 1 Affidavit for obtaining grant of probate 625
-PR 2 Affidavit for obtaining grant of letters of administration with will annexed 631
-PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner 638
-PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased 644
-PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased 650
-PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased 655
-PR 7 Probate in common form 661
-PR 8 Letters of administration with will annexed 663
-PR 9 Letters of administration on intestacy 665
-PR 10 Caveat 666
-PR 11 Exemplification of probate or letters of administration 667
-PR 12 Affidavit of valid execution 669
-AD 1 General heading for action in personam 672
-AD 2 Notice of proceeding in personam 673
-AD 3 General heading for action in rem 675
-AD 4 Notice of proceeding in rem 676
-AD 5 Notice of proceeding both in rem and in personam 678
-AD 6 Memorandum of appearance 681
-AD 7 Application for warrant of arrest 683
-AD 8 Indemnity to Registrar 684
-AD 9 Warrant of arrest 685
-AD 10 Notice by Registrar of arrest of property 686
-AD 11 Request for caveat against arrest 687
-AD 12 Release from arrest 688
-AD 13 Bail bond 689
-AD 14 Request for caveat against release and payment 690
-AD 15 Request for commission for appraisement and sale 691
-AD 16 Commission for appraisement and sale 692
-AD 17 Notice for priority of claims on sale 693
-Arb 1 Appeal under Arbitration Act 1996 694
-Arb 2 Notice for leave to appeal under Arbitration Act 1996 696
-Arb 3 Application to enter award as judgment 699
-C 1 Statement of claim in proceeding for putting company into liquidation 700
-C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993 701
-C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 703
-C 4 Verifying affidavit 707
-C 5 Affidavit verifying statement of claim of limited company 708
-C 6 Advertisement of application for putting company into liquidation 709
-C 7 Advertisement of application for order under section 174 of Companies Act 1993 710
-C 8 Affidavit of service 711
-C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) 712
-C 10 Notification to liquidator of order putting company into liquidation 713
-C 11 Notification to interim liquidator of appointment 714
-C 12 Order putting company into liquidation 715
-C 13 Order appointing interim liquidator 716
-C 14 General heading for notices in forms C 15 and C 16 717
-C 15 Notice to set aside voidable transaction under Companies Act 1993 718
-C 16 Notice to set aside voidable charge under Companies Act 1993 720
-B 1 Request for issue of bankruptcy notice 722
-B 2 Bankruptcy notice 723
-B 3 Creditor's application for adjudication order 725
-B 4 Affidavit supporting creditor's application for adjudication 726
-B 5 Summons to debtor 727
-B 6 Notice by debtor of intention to oppose application 729
-B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006 730
-B 8 Notice of objection to discharge 731
-B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 732
-B 10 Statement of affairs and affidavit 734
-B 11 Report of trustee on proposal 735
-B 12 Account of assets, debts, etc, of deceased person verified by affidavit 737
-B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 739
-B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 741
-B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 743
-Form 83 Constituency Election Petition
-Form 84 Bond for Security
-Form 85 Notice of Time and Place Appointed for the Trial of a Constituency Election Petition
-Form 86 Notice of Intention to Apply for Leave to Withdraw a Constituency Election Petition
-Form 87 Application for Leave to Withdraw a Constituency Election Petition
-Form 88 Notice of Abatement of a Constituency Election Petition
+G 1 General heading for documents filed in proceeding 644
+G 2 Notice of proceeding 645
+G 3 Memorandum (general form) 646
+G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 648
+G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 651
+G 6 Notice to defendant served overseas 655
+G 7 Appearance under protest to jurisdiction 657
+G 8 Appearance for ancillary purpose 658
+G 9 Appearance reserving rights 659
+G 10 Memorandum to be attached to first document filed by party 660
+G 11 Memorandum as to change of representation and/or address for service 662
+G 12 Notice of intention to speak Māori 663
+G 13 Notice of proceeding when summary judgment sought by plaintiff 665
+G 14 Third party notice 670
+G 15 Notice to other defendant 672
+G 16 Affidavit of service 673
+G 17 Service of foreign process in New Zealand—Registrar's certificate 675
+G 18 Request for service abroad 676
+G 19 Report of examiner 677
+G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia 679
+G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia 680
+G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings 682
+G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia 684
+G 24 Notice of discontinuance 685
+G 25 Subpoena 686
+G 26 Subpoena to give evidence for service in Australia 688
+G 27 Subpoena for production only for service in Australia 689
+G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 690
+G 29 Certificate of non-compliance with subpoena for service in Australia 694
+G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 695
+G 31 Interlocutory application on notice 697
+G 32 Interlocutory application without notice 698
+G 33 Notice of opposition 699
+G 34 Interlocutory order 700
+G 35 Notice to answer interrogatories 701
+G 36 Notice to admit facts 702
+G 37 Affidavit of documents 703
+G 38 Freezing order 706
+G 39 Search order 709
+J 1 Judgment by default in case of liquidated demand 711
+J 2 Judgment by default in proceeding for recovery of land 712
+J 3 Judgment on trial by Judge 713
+J 4 Judgment on trial by jury 714
+E 1 Notice to liable party 715
+E 2 Statement of means of liable party 717
+E 3 Attachment order 722
+E 4 Charging order on land 724
+E 5 Interim charging order 725
+E 6 Final charging order 726
+E 7 Sale order 727
+E 8 Possession order 729
+E 9 Arrest order 730
+E 10 Sequestration order 731
+E 11 Order to arrest and imprison absconding debtor 732
+E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice 733
+CL 1 Commercial list 734
+CL 2 Appearance in proceeding entered on commercial list 736
+CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 737
+PR 1 Affidavit for obtaining grant of probate 739
+PR 2 Affidavit for obtaining grant of letters of administration with will annexed 745
+PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner 752
+PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased 758
+PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased 764
+PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased 769
+PR 7 Probate in common form 775
+PR 8 Letters of administration with will annexed 777
+PR 9 Letters of administration on intestacy 779
+PR 10 Caveat 780
+PR 11 Exemplification of probate or letters of administration 781
+PR 12 Affidavit of valid execution 783
+AD 1 General heading for action in personam 786
+AD 2 Notice of proceeding in personam 787
+AD 3 General heading for action in rem 789
+AD 4 Notice of proceeding in rem 790
+AD 5 Notice of proceeding both in rem and in personam 792
+AD 6 Memorandum of appearance 795
+AD 7 Application for warrant of arrest 797
+AD 8 Indemnity to Registrar 798
+AD 9 Warrant of arrest 799
+AD 10 Notice by Registrar of arrest of property 800
+AD 11 Request for caveat against arrest 801
+AD 12 Release from arrest 802
+AD 13 Bail bond 803
+AD 14 Request for caveat against release and payment 804
+AD 15 Request for commission for appraisement and sale 805
+AD 16 Commission for appraisement and sale 806
+AD 17 Notice for priority of claims on sale 807
+Arb 1 Appeal under Arbitration Act 1996 808
+Arb 2 Notice for leave to appeal under Arbitration Act 1996 810
+Arb 3 Application to enter award as judgment 812
+C 1 Statement of claim in proceeding for putting company into liquidation 814
+C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993 815
+C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 817
+C 4 Verifying affidavit 821
+C 5 Affidavit verifying statement of claim of limited company 822
+C 6 Advertisement of application for putting company into liquidation 823
+C 7 Advertisement of application for order under section 174 of Companies Act 1993 824
+C 8 Affidavit of service 825
+C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) 826
+C 10 Notification to liquidator of order putting company into liquidation 827
+C 11 Notification to interim liquidator of appointment 828
+C 12 Order putting company into liquidation 829
+C 13 Order appointing interim liquidator 830
+C 14 General heading for notices in forms C 15 and C 16 831
+C 15 Notice to set aside voidable transaction under Companies Act 1993 832
+C 16 Notice to set aside voidable charge under Companies Act 1993 834
+B 1 Request for issue of bankruptcy notice 836
+B 2 Bankruptcy notice 837
+B 3 Creditor's application for adjudication order 839
+B 4 Affidavit supporting creditor's application for adjudication 840
+B 5 Summons to debtor 841
+B 6 Notice by debtor of intention to oppose application 843
+B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006 844
+B 8 Notice of objection to discharge 845
+B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 846
+B 10 Statement of affairs and affidavit 848
+B 11 Report of trustee on proposal 849
+B 12 Account of assets, debts, etc, of deceased person verified by affidavit 851
+B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 853
+B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 855
+B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 857
 Using High Court Rules forms
 Purpose of forms
 The High Court Rules forms are templates you can use to prepare a document for a proceeding in the High Court.
@@ -9874,7 +9650,7 @@ Signature:
 Form G 8
 Appearance for ancillary purpose
 rr 5.52, 29.7
-Complete and attach the memorandum as set out in form G 10.
+Complete and attach the memorandum as set out in form G 10
 The defendant, [name], does not oppose the plaintiff's claim but appears in order to be heard on the following matters: [specify matters].
 Date:
 Signature:
@@ -11104,7 +10880,6 @@ I was/We were* present when the other executor died.
 *Select one.
 Statement B
 I/We* attended the other executor's funeral.
-*Select one.
 Statement C
 I/We* saw the other executor's dead body.
 *Select one.
@@ -11598,9 +11373,9 @@ In the estate of [full name, place, occupation] (deceased)
 1 The deceased [full name] died at [place] on or about the [date], leaving a will. A copy is attached.
 2 For this paragraph select the statement that applies.
 Statement A
-The will was proved before the Honourable Justice [name] in Chambers at [place], and probate of the will was granted this day.
+The will was proved before the Honourable Justice [name] in chambers at [place], and probate of the will was granted this day.
 Statement B
-The will was proved before Registrar [name] in Chambers at [place]/before Senior Deputy Registrar [name] in Chambers at Auckland* acting under rule 7.14 of the High Court Rules, and probate of the will was granted this day.
+The will was proved before Registrar [name] in chambers at [place]/before Senior Deputy Registrar [name] in chambers at Auckland* acting under rule 7.14 of the High Court Rules, and probate of the will was granted this day.
 *Select one.
 3 This probate document appoints [full name, place of residence, and occupation of executor or each executor], the executor/executors* named in the will, [state basis for grant as specified in the application], as the administrator/administrators* of the deceased's estate.
 *Select one.
@@ -11624,9 +11399,9 @@ To [full name, place of residence, occupation]
 1 The deceased died at [place] on or about [date], leaving a will. A copy is attached.
 2 For this paragraph select the statement that applies.
 Statement A
-The will was proved before the Honourable Justice [name] in Chambers at [place], and letters of administration with the will annexed was granted this day.
+The will was proved before the Honourable Justice [name] in chambers at [place], and letters of administration with the will annexed was granted this day.
 Statement B
-The will was proved before Registrar [name] in Chambers at [place]/before Senior Deputy Registrar [name] in Chambers at Auckland* acting under rule 27.14 of the High Court Rules, and letters of administration with the will annexed was granted this day.
+The will was proved before Registrar [name] in chambers at [place]/before Senior Deputy Registrar [name] in chambers at Auckland* acting under rule 27.14 of the High Court Rules, and letters of administration with the will annexed was granted this day.
 *Select one.
 3 The circumstance in rule 27.26(1) to (3) of the High Court Rules that allowed the grant of administration was [specify].
 4 These letters of administration authorise you—
@@ -11656,9 +11431,9 @@ To [full name], [relationship to deceased, eg, widow, de facto partner] of [full
 3 You are appointed as the administrator of all of the deceased's estate.
 4 For this paragraph select the statement that applies.
 Statement A
-This grant was made this day by the Honourable Justice [name] in Chambers at [place].
+This grant was made this day by the Honourable Justice [name] in chambers at [place].
 Statement B
-This grant was made this day by Registrar [name] in Chambers at [place]/by Senior Deputy Registrar [name] in Chambers at Auckland* acting under rule 27.14 of the High Court Rules.
+This grant was made this day by Registrar [name] in chambers at [place]/by Senior Deputy Registrar [name] in chambers at Auckland* acting under rule 27.14 of the High Court Rules.
 *Select one.
 Date:
 Signature:
@@ -12418,7 +12193,7 @@ a resolution of the creditors passed at the watershed meeting held under section
 6 You may object to the transaction being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at his or her postal, email, or street address within 20 working days after this notice has been served on you.
 7 If you do object, your written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
 8 If you do not object, within 20 working days after the liquidator's notice has been served on you, the transaction will be set aside as against you.
-9 If you do object, the liquidator may apply to the Court for the transaction to be set aside.
+9 If you do object, the liquidator may apply to the court for the transaction to be set aside.
 Date:
 Signature:
 (solicitor/counsel* for liquidator)
@@ -12453,7 +12228,7 @@ a resolution of the creditors passed at the watershed meeting held under section
 5 You may object to the charge being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at his or her postal, email, or street address within 20 working days after this notice has been served on you.
 6 If you do object, your written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
 7 If you do not object, within 20 working days after the liquidator's notice has been served on you, the transaction will be set aside as against you.
-8 If you do object, the liquidator may apply to the Court for the charge to be set aside.
+8 If you do object, the liquidator may apply to the court for the charge to be set aside.
 Date:
 Signature:
 (solicitor/counsel* for liquidator)
@@ -12818,32 +12593,6 @@ Date:
 Signature:
 (Assignee/counsel for the Assignee*)
 *Select one.
-Form 83
-Constituency Election Petition
-r 799(1)(a)
-Part 8, Electoral Act 1993
-In the High Court of New Zealand No...................Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) Election This petition relates to the election of a member of Parliament for the Electoral District of:.................. Polling day:.................. Candidate(s):.................. Candidate returned as duly elected by Returning Officer:.................. Day on which the Returning Officer publicly notified result of poll:.................. Petitioner(s) Note: See section 230(1) of the Electoral Act 1993 for the persons who may present a constituency election petition. Name(s):.................. Respondent(s) Name(s): [Insert the name of the member whose election or return this petition complains of, and, if the petition complains of the conduct of the Returning Officer, the name of the Returning Officer, and, if the petition complains of the conduct of the Registrar of Electors, the name of the Registrar of Electors.] Grounds The petition is based on the following grounds:.......................................................................................... Facts The petition relies on the following facts:..........................................................................................
-Determination(s) sought The petition seeks the following determination(s): [For example, That the candidate returned was not duly elected or returned and that the election was void, or That the candidate was duly elected and should have been duly returned, or as the case may be.].................................... Signature(s) of petitioner(s): [Insert name(s)] Date Note: Once completed this petition must be presented by being filed (a) In the Registry of the High Court nearest the place where the election was held (see section 230(4) of the Electoral Act 1993); and (b) Within 28 days after the day on which the Returning Officer publicly notified the result of the poll (unless section 231(2) of the Electoral Act 1993 applies). The petition is filed by the petitioner(s) in person. The address for service of the petitioner(s) is or The petition is filed by AB, solicitor for the petitioner(s), of the firm of XYZ. The address for service of the petitioner(s) is Documents for service on the petitioner(s) may be left at that address for service or may be (a) Posted to the solicitor at [Insert Post Office box address]; or (b) Left for the solicitor at a document exchange for direction to [Insert document exchange box number]; or (c) Transmitted to the solicitor by facsimile to [Insert facsimile number]. or The petition is filed by AB, solicitor for the petitioner(s), of the firm of XYZ, whose postal address is The solicitor's agent in the proceeding is The address for service of the petitioner(s) is Documents for service on the petitioner(s) may be left at that address for service or may be (a) Posted to the solicitor at [Insert Post Office box address]; or (b) Left for the solicitor at a document exchange for direction to [Insert document exchange box number]; or (c) Transmitted to the solicitor by facsimile to [Insert facsimile number].
-Form 84
-Bond for Security
-r 805(1)
-In the High Court of New Zealand No.................................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) I (or We): [Insert the full name, residence, and occupation of the, or each, surety] am (or are jointly and severally) bound to pay to Her Majesty in respect of the Government of New Zealand any amount not exceeding $[Insert sum], unless the petitioner(s) pays (or pay) all costs that in proceedings to determine the petition may become payable by the petitioner(s) (a) To any witness summoned on the petitioner's (or s') behalf; and (b) To the respondent(s). The Common Seal etc, or This bond was signed by [Insert name of the, or each, surety] at this day of 19 [Insert signature(s) or seal(s)] before me Signature:.................. A Solicitor of the High Court of New Zealand (or A Registrar, or Deputy Registrar, of the High Court of New Zealand) (or A Notary Public).
-Form 85
-Notice of Time and Place Appointed for the Trial of a Constituency Election Petition
-r 809(4)
-In the High Court of New Zealand No.................................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petition will be tried at.................. on the.................. day of.................. 19...., at.................. am (or pm), or as soon after that time as the parties may be heard. Dated this.................. day of.................. 19..... Signature:.................. (Deputy) Registrar of the High Court at..................
-Form 86
-Notice of Intention to Apply for Leave to Withdraw a Constituency Election Petition
-r 810(2)
-In the High Court of New Zealand No Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petitioner(s) will at such time and place as the Court may appoint for the purpose, being at least 7 days after the day of 19, apply to the High Court for leave to withdraw the petition on the grounds that: At the hearing of the application for leave to withdraw the petition, a person may apply to be substituted as a petitioner, if (and only if) (a) The person might in the first instance have presented the petition; and (b) The person has given the Registrar of the Court, within 7 days after the publication of this notice, written notice that the person intends to apply to be substituted. Dated this..... day of...... 19.. Signature(s) of Petitioner(s):
-Form 87
-Application for Leave to Withdraw a Constituency Election Petition
-r 811
-In the High Court of New Zealand No.................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) The petitioner(s) will on the..... day of..... 19.., at..... am (or pm) (the time and place appointed for the purpose by the Court), or as soon after that time as the petitioner(s) may be heard, apply to the Court for leave to withdraw the petition on the grounds that:.......... and on the grounds that the prescribed notice of the petitioner's (or s') intention to make this application has been duly served and published. Dated this..... day of..... 19.. Signature(s) of Petitioner(s):..........
-Form 88
-Notice of Abatement of a Constituency Election Petition
-r 814(2)
-In the High Court of New Zealand No.................... Registry. In the matter of an Election Petition relating to the [Name of electoral district] Electoral District Between AB [and others], Petitioner(s), and CD [and others], Respondent(s) AB [and others], Petitioner(s), and CD [and others], Respondent(s) This petition has abated because the petitioner (or the survivor of the petitioners) has died. Any person who might in the first instance have presented the petition may apply to the High Court to be substituted as a petitioner, by giving notice to the Registrar of the Court within 28 days from the date of publication of this notice. Dated this..... day of..... 19.. Signature:.......... (Deputy) Registrar of the High Court at..........
 Schedule 2
 Appropriate daily recovery rates
 r 14.4

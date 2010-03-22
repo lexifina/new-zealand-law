@@ -1,3 +1,3 @@
 # 56I Issue of subpoenas in New Zealand proceedings
-(1) An order of subpoena may, with the leave of a Judge, be obtained in a New Zealand proceeding requiring a person in Australia to testify, or produce documents or things, or both, to the High Court at a sitting of that Court in New Zealand or in Australia.
+(1) An order of subpoena may, with the leave of a Judge, be obtained in a New Zealand proceeding requiring a person in Australia to testify, or produce documents or things, or both, to the High Court at a sitting of that court in New Zealand or in Australia.
 (2) An order of subpoena issued for the purposes of a New Zealand proceeding that requires a witness in Australia to produce documents or things, but does not require the witness to testify, must permit the witness to comply with the order of subpoena by producing the documents or things to a specified registry of the Federal Court.
