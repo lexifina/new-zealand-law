@@ -1,19 +1,19 @@
 # Schedule 1 Exempt building work
 s 41(1)(b)
 A building consent is not required for the following building work:
-(a) any lawful repair and maintenance using comparable materials, or replacement with a comparable component or assembly in the same position, of any component or assembly incorporated or associated with a building, including all lawful repair and maintenance of that nature that is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 1976, except—
+(a) any lawful repair and maintenance using comparable materials, or replacement with a comparable component or assembly in the same position, of any component or assembly incorporated or associated with a building, including all lawful repair and maintenance of that nature that is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006, except—
 (i) complete or substantial replacement of a specified system; or
 (ii) complete or substantial replacement of any component or assembly contributing to the building's structural behaviour or fire-safety properties; or
 (iii) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
 (iv) repair or replacement of any water storage heater connected to a solid-fuel heater or other supplementary heat exchanger, except for the repair, or replacement with a comparable heater, of any open-vented water storage heater using the same pipework:
 (ab) the opening and reinstatement of any purpose-made access point within a drainage system that—
 (i) is not a NUO system or part of a NUO system; and
-(ii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 1976:
+(ii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006:
 (ac) the alteration to drains for a dwelling, if the alteration—
 (i) is of a minor nature (for example, shifting a gully trap); and
 (ii) does not include making any new connection to a service provided by a network utility operator; and
-(iii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 1976:
-(ad) the alteration to existing sanitary plumbing (as defined in section 3 of the Plumbers, Gasfitters, and Drainlayers Act 1976) in a dwelling (for example, replacing a bath with a shower or moving a toilet) carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 1976:
+(iii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006:
+(ad) the alteration to existing sanitary plumbing (as defined in section 3 of the Plumbers, Gasfitters, and Drainlayers Act 1976) in a dwelling (for example, replacing a bath with a shower or moving a toilet) carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006:
 (ae) the installation, replacement, or removal in any existing building of a window (including a roof window) or an exterior doorway if—
 (i) compliance with the provisions of the building code relating to structural stability is not reduced; and
 (ii) in the case of replacement, the window or doorway being replaced satisfied the provisions of the building code for durability:
