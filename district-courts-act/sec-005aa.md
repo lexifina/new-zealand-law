@@ -5,7 +5,7 @@
 (4) The Attorney-General may authorise a Judge to act on a part-time basis only—
 (a) on the request of the Judge; and
 (b) with the concurrence of the Chief District Court Judge (after consultation with the Principal Environment Judge if the request is from an Environment Judge).
-(5) In considering whether to concur under subsection (4)(b), the Chief District Court Judge must have regard to the ability of the Court to discharge its obligations in an orderly and expeditious way.
+(5) In considering whether to concur under subsection (4)(b), the Chief District Court Judge must have regard to the ability of the court to discharge its obligations in an orderly and expeditious way.
 (6) A Judge who is authorised to act on a part-time basis must resume acting on a full-time basis at the end of the authorised part-time period.
 (7) The basis on which a Judge acts must not be altered during the term of the Judge's appointment without the Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
 (8) This section applies to persons who hold office as District Court Judges regardless of whether they act as District Court Judges, as Environment Judges, or in any other judicial office.

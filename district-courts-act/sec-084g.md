@@ -1,14 +1,14 @@
 # 84G Attachment orders
-(1) The Court may, on the application of the judgment creditor at any time after judgment has been entered, make an attachment order under this section.
-(2) No attachment order shall be made unless the judgment debtor has been examined under section 84B of this Act.
-(3) An attachment order may be made against a person who is proved to the satisfaction of the Court to be an employer of the judgment debtor.
+(1) The court may, on the application of the judgment creditor at any time after judgment has been entered, make an attachment order under this section.
+(2) No attachment order shall be made unless the judgment debtor has been examined under section 84B.
+(3) An attachment order may be made against a person who is proved to the satisfaction of the court to be an employer of the judgment debtor.
 (4) The attachment order shall specify the person to whom the amounts to be deducted are to be paid.
 (5) Every attachment order may be made for a fixed period or so as to remain in force until the judgment debt has been paid in full.
 (6) Every attachment order shall specify an amount (known as the protected earnings rate) below which the net earnings or benefit paid to the judgment debtor shall not be reduced by reason of compliance with the order.
 (7) No attachment order under this Act shall operate so that, together with—
-(a) Any attachment order under any other Act; and
-(b) Any deduction notice made under the Family Proceedings Act 1980 or issued under section 27Y of the Social Security Act 1964; and
-(c) In the case of a benefit within the meaning of the Social Security Act 1964, any adjustment to or deduction from benefit under section 27X or section 86 of that Act,—
+(a) any attachment order under any other Act; and
+(b) any deduction notice made under the Family Proceedings Act 1980 or issued under section 27Y of the Social Security Act 1964; and
+(c) in the case of a benefit within the meaning of the Social Security Act 1964, any adjustment to or deduction from benefit under section 27X or section 86 of that Act,—
 the net earnings or any benefit of the judgment debtor are reduced below the protected earnings rate, and, where necessary, the specified amount to be deducted in any attachment order under this Act shall be reduced or cancelled accordingly.
 (8) [Repealed]
 (9) Nothing in section 84 of the Social Security Act 1964 shall apply to an attachment order under this section.

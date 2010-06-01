@@ -7,4 +7,4 @@
 (b) dealt with on the papers, unless the Judge directs otherwise.
 (5) On dealing with an application for a review of a decision of a Registrar or Deputy Registrar, the Judge may confirm, modify, or reverse the decision of the Registrar or the Deputy Registrar.
 (6) No fee is payable for an application under this section.
-Compare: 1991 No 71 s 16.
+Compare: 1991 No 71 s 16
