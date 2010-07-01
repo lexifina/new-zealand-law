@@ -43,13 +43,12 @@ Weekly compensation
 31 Use of income tax returns in determining earnings
 Corporation to pay weekly compensation after first week of incapacity
 32 Corporation to pay weekly compensation for loss of earnings to claimant who was earner
-Employee claimant
+Employee in permanent employment
 33 Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34
-34 Weekly earnings if earner had earnings as an employee immediately before incapacity commenced: calculations
+34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
 Employee not in permanent employment
-[Repealed]
-35 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: application of clause 36 [Repealed]
-36 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: calculations [Repealed]
+35 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: application of clause 36
+36 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations
 Self-employed claimant
 37 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38
 38 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: calculations
@@ -456,12 +455,12 @@ Vocational rehabilitation
 An occupational assessment must be undertaken by an assessor whom the Corporation considers has the appropriate qualifications and experience to do the assessment required in the particular case.
 Compare: 1998 No 114 s 95
 25 Conduct of occupational assessment
-(1) An occupational assessor undertaking an occupational assessment as part of an assessment of a claimant's vocational independence under section 108 must—
+(1) An occupational assessor undertaking an occupational assessment as part of an assessment of a claimant's vocational independence under section 108 may—
 (a) take into account information provided by the Corporation and the claimant; and
 (b) consider the individual rehabilitation plan prepared for the claimant and review the vocational rehabilitation carried out under the plan; and
 (c) discuss with the claimant all the types of work that the assessor identifies as suitable for the claimant; and
 (d) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subclause (1)(c), the occupational assessor must take into account, among other things, the claimant's earnings before the claimant's incapacity.
+(1A) In considering the suitability of the types of work referred to in subclause (1)(c), the occupational assessor may take into account, among other things, the claimant's earnings before the claimant's incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an occupational assessment.
 26 Report on occupational assessment
 (1) The occupational assessor must prepare and provide to the Corporation a report on the occupational assessment specifying—
@@ -537,31 +536,66 @@ Corporation to pay weekly compensation after first week of incapacity
 (5) The amount of weekly compensation payable to the claimant must be adjusted in the manner provided in section 115.
 (6) In this clause, earner includes a person who has purchased weekly compensation under section 223.
 Compare: 1998 No 114 Schedule 1 cl 7
-Employee claimant
+Employee in permanent employment
 33 Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34
 (1) Clause 34 applies to a claimant who—
 (a) was an earner immediately before his or her incapacity commenced; and
-(b) had earnings as an employee at that time.
-(2) If the claimant had employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under clause 34 and aggregated under clause 41.
-34 Weekly earnings if earner had earnings as an employee immediately before incapacity commenced: calculations
+(b) was in permanent employment at that time; and
+(c) had earnings as an employee from that permanent employment at that time.
+(2) If the claimant had permanent employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under clause 34 and aggregated under clause 41.
+(3) For the purposes of this clause and clause 34, the claimant is regarded as having been in permanent employment if, in the opinion of the Corporation, he or she would have continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
+(4) Subclause (5) applies if—
+(a) the claimant was in permanent employment (that was full-time employment) as an employee immediately before his or her incapacity commenced; and
+(b) before the employment, the claimant was employed by the same employer for less than 30 hours per week.
+(5) The weekly earnings of the claimant is the greater of—
+(a) the claimant's weekly earnings calculated in accordance with clause 34:
+(b) the claimant's weekly earnings calculated in accordance with clause 36, as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
+34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
 (1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:
 where—
-a is the claimant's earnings as an employee (from the claimant's employment immediately before the claimant's incapacity commenced) in the 4 weeks immediately before his or her incapacity commenced
+a is the claimant's earnings as an employee (from that permanent employment) in the 4 weeks immediately before his or her incapacity commenced
 b is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
 (2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:
 where—
-a is the claimant's earnings as an employee (from the claimant's employment immediately before the claimant's incapacity commenced) in the 52 weeks immediately before his or her incapacity commenced
+a is the claimant's earnings as an employee (from employment with that employer) in the 52 weeks immediately before his or her incapacity commenced
 b is the number of full or part weeks during which the claimant earned those earnings as an employee.
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
 (a) any period during which the claimant was entitled to weekly compensation; and
 (b) any earnings in respect of any such period.
 Compare: 1998 No 114 Schedule 1 cl 9
 Employee not in permanent employment
-[Repealed]
-35 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: application of clause 36
-[Repealed]
-36 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: calculations
-[Repealed]
+35 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: application of clause 36
+(1) Clause 36 applies to a claimant who—
+(a) was an earner immediately before his or her incapacity commenced; and
+(b) had at that time earnings as an employee (from employment that was not permanent employment).
+(2) For the purposes of this clause and clause 36, employment is not permanent employment if, in the opinion of the Corporation, the claimant would have not continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
+36 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations
+(1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:
+a
+b
+where—
+a
+is the claimant's earnings as an employee (from all employment that was not permanent employment) in the 4 weeks immediately before his or her incapacity commenced
+b
+is the number of full or part weeks during which the claimant earned those earnings as an employee in the 4 weeks immediately before his or her incapacity commenced.
+(2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:
+a
+b
+where—
+a
+is the claimant's earnings as an employee (from all employment that was not permanent employment) in the 52 weeks immediately before his or her incapacity commenced
+b
+is 52 or such smaller number, if adjustments are required under subclause (4).
+(3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
+(a) any period during which the claimant was entitled to weekly compensation:
+(b) any continuous period of unpaid sick leave, during a period of employment, of more than 1 week:
+(c) any period during which—
+(i) the claimant did not receive earnings as an employee; and
+(ii) the claimant did receive earnings as a self-employed person or as a shareholder-employee; and
+(iii) those earnings ceased before the commencement of the claimant's incapacity:
+(d) any earnings in respect of any period under paragraph (a), (b), or (c).
+(4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)(a), (b), or (c) applies to.
+(5) For the purposes of subclause (3)(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
 Self-employed claimant
 37 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38
 (1) Clause 38 applies to a claimant who had earnings as a self-employed person immediately before his or her incapacity commenced.
@@ -600,7 +634,7 @@ d is the number of weeks in the relevant year.
 (4) A claimant is eligible for the greater of—
 (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
 (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
-(5) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of his or her earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 and 34.
+(5) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of his or her earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 to 36.
 (6) This clause applies to claims for weekly compensation made on or after 1 July 2005, whether made in respect of a period of incapacity that started before the day on which this clause comes into force or that starts on or after that day.
 (7) To avoid doubt, if a claim for weekly compensation is made in respect of a period of incapacity that commenced before 1 July 2005, this clause—
 (a) applies only to the calculation of weekly earnings for the purposes of weekly compensation that is payable for a period commencing on or after 1 July 2005; and
@@ -615,7 +649,7 @@ d is the number of weeks in the relevant year.
 Shareholder-employee
 39 Weekly earnings if claimant had earnings as shareholder-employee immediately before incapacity commenced
 (1) The weekly earnings of a claimant who had earnings as a shareholder-employee immediately before his or her incapacity commenced are the higher of—
-(a) the relevant amount calculated under clause 34; and
+(a) the relevant amount calculated under clause 34 or clause 36, whichever is applicable; and
 (b) the relevant amount calculated under subclause (2).
 (2) The amounts to be calculated under this subclause are,—
 (a) for claimants who first commenced receiving earnings as a shareholder-employee in the tax year in which the incapacity commenced, the amount calculated using the following formula:
@@ -636,8 +670,8 @@ d is the number of weeks in the relevant year.
 (3) A claimant is eligible for the greater of—
 (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
 (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
-(4) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of their earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 and 34.
-(5) If a claimant's weekly earnings as a shareholder employee are calculated under subclause (2), the same earnings cannot be used as earnings as an employee for the purposes of clauses 33 and 34.
+(4) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of their earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 to 36.
+(5) If a claimant's weekly earnings as a shareholder employee are calculated under subclause (2), the same earnings cannot be used as earnings as an employee for the purposes of clauses 33 to 36.
 (6) This clause applies to claims for weekly compensation made on or after 1 July 2005, whether made in respect of a period of incapacity that started before the day on which this clause comes into force or that starts on or after that day.
 (7) To avoid doubt, if a claim for weekly compensation is made in respect of a period of incapacity that commenced before 1 July 2005, this clause—
 (a) applies only to the calculation of weekly earnings for the purposes of weekly compensation that is payable for a period commencing on or after 1 July 2005; and
@@ -651,25 +685,25 @@ d is the number of weeks in the relevant year.
 (2) The claimant's weekly earnings must be calculated under clause 39(2) using the claimant's earnings as a self-employed person as if they were earnings as a shareholder-employee in the relevant year.
 Aggregation of calculations
 41 Calculations for multiple employment situations
-(1) Claimants to whom clause 38 applies, and to whom clauses 33 and 34 apply because they have earnings as an employee at the time their incapacity commences, may—
+(1) Claimants to whom clause 38 applies, and to whom clauses 33 to 36 apply because they have earnings as an employee at the time their incapacity commences, may—
 (a) have their weekly earnings calculated under clause 38 with the inclusion of their earnings as an employee; or
-(b) have their weekly earnings calculated under clause 38 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 and 34 and aggregated under subclause (5).
+(b) have their weekly earnings calculated under clause 38 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 to 36 and aggregated under subclause (5).
 (2) If a claimant's weekly earnings are calculated in accordance with subclause (1)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
-(3) Claimants to whom clause 39 applies, and to whom clauses 33 and 34 apply because they have earnings as an employee at the time their incapacity commences, may—
+(3) Claimants to whom clause 39 applies, and to whom clauses 33 to 36 apply because they have earnings as an employee at the time their incapacity commences, may—
 (a) have their weekly earnings calculated under clause 39 with the inclusion of their earnings as an employee; or
-(b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 and 34 and aggregated under subclause (5).
+(b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 to 36 and aggregated under subclause (5).
 (4) If a claimant's weekly earnings are calculated in accordance with subclause (3)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
-(5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 34 or clause 38 or clause 39, the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
-(6) However, a claimant's weekly earnings calculated under clause 34 must not be aggregated with the claimant's weekly earnings under clause 39 if the claimant's weekly earnings under clause 39 are his or her earnings under clause 34.
+(5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 34 or clause 36 or clause 38 or clause 39, the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
+(6) However, a claimant's weekly earnings calculated under clause 34 or clause 36 must not be aggregated with the claimant's weekly earnings under clause 39 if the claimant's weekly earnings under clause 39 are his or her earnings under clause 34 or clause 36.
 Adjustments for low earners
 42 Weekly earnings of earners in full-time employment: increase in certain circumstances
 (1) This clause applies to a claimant who—
 (a) was, immediately before his or her incapacity commenced,—
 (i) in the category of earners liable to pay the minimum levy set in regulations made for the purposes of section 168B; or
 (ii) an earner in full-time employment; and
-(b) had weekly earnings calculated under clause 41 or, if that clause does not apply, under any of clauses 34, 38, or 39 of less than the minimum weekly earnings as determined under subclause (3); and
-(c) is incapacitated for more than 1 week after the incapacity first commenced.
-(2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the first week of incapacity, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
+(b) had weekly earnings calculated under clause 41 or, if that clause does not apply, under any of clauses 34, 36, 38, or 39 of less than the minimum weekly earnings as determined under subclause (3); and
+(c) is incapacitated for more than 5 weeks after the incapacity first commenced.
+(2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the 5-week period, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
 (3) The minimum weekly earnings are—
 (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
 (i) the minimum weekly wage under the Minimum Wage Act 1983 for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
@@ -756,7 +790,7 @@ Corporation to pay weekly compensation to potential earners
 (b) does not include full-time study or training in living or social skills.
 (2) The weekly compensation payable is 80% of the claimant's weekly earnings calculated under this clause.
 (3) The weekly compensation is payable when the claimant has been incapacitated for at least 6 months.
-(4) For the purpose of calculating the claimant's weekly compensation, the claimant's weekly earnings are deemed to be the amount of weekly earnings determined under clause 42(3) multiplied by 125%.
+(4) For the purpose of calculating the claimant's weekly compensation, the claimant's weekly earnings are deemed to be the amount of weekly earnings determined under clause 42(3).
 (5) This clause does not apply if the claimant has an entitlement under any other provision of this schedule to weekly compensation for loss of earnings that is greater than the claimant's entitlement under this clause.
 (6) A claimant does not have any entitlement to weekly compensation for loss of earnings, if he or she has an entitlement under this clause to weekly compensation for loss of potential earning capacity that is greater than any entitlement he or she has to weekly compensation for loss of earnings under any other provision of this schedule.
 (7) This clause is subject to clauses 49 to 53.
@@ -772,7 +806,7 @@ Abatement
 49 Earnings definitions for purposes of clause 51
 (1) [Repealed]
 (2) [Repealed]
-(3) In clause 51(2), earnings does not include any payment made on the termination of employment in respect of leave entitlements.
+(3) In clause 51(2), earnings includes any payment made on the termination of employment in respect of leave entitlements. The Corporation must treat such a payment as having been derived after the termination of employment for a period that is equal to the total period that the claimant could have taken as leave if the claimant had not received the payment.
 (4) In clause 51(2)—
 (a) earnings includes payments—
 (i) whether made in New Zealand or overseas:
