@@ -57,7 +57,7 @@ A long-term council community plan must include the funding and financial polici
 7 Determining significance
 A long-term council community plan must contain a summary of the local authority's policy on determining significance under the Act.
 7A Affordable housing policy
-A long-term council community plan must contain a summary of the local authority's affordable housing policy, if it has adopted one under the Affordable Housing: Enabling Territorial Authorities Act 2008.
+[Repealed]
 8 Forecast financial statements
 (1) A long-term council community plan must include, for each of the financial years covered by the plan, forecast financial statements for the local authority.
 (2) A long-term council community plan may include, for each of the financial years covered by the plan, or for any of those years, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.
