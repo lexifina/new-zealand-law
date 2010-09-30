@@ -1,6 +1,6 @@
 # 445B Authority to use facsimile copy of warrant
 (1) In this section, the term facsimile copy, in relation to a warrant, means a copy of the warrant that is produced by a facsimile machine, computer, or other electronic device when the warrant is sent by facsimile transmission.
-(2) Any District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable) may authorise the use of a facsimile copy of a warrant issued under section 39, 40, 122, 157(2), 205(2)(b), or 386 in the execution of that warrant.
+(2) Any District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable) may authorise the use of a facsimile copy of a warrant issued under section 39, 40, 122, 157(2), 205(2)(b), 296C, or 386 in the execution of that warrant.
 (2A) The use of a facsimile copy of a warrant may be authorised when the warrant is issued, or later.
 (2B) Subsection (2) is subject to subsection (3).
 (3) No authorisation may be granted under subsection (2) in relation to a warrant unless the District Court Judge, Justice, Community Magistrate, or Registrar is satisfied, having regard to the circumstances of the case, that any delay in executing the warrant that may be caused if a facsimile copy is not able to be used for that purpose would or might unduly prejudice the purpose for which the warrant was issued.

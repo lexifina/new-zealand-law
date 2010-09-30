@@ -1,0 +1,2 @@
+# 296G Intensive supervision order in response to young person's non-compliance with judicially monitored condition of supervision or supervision with activity order
+In the situation specified in section 296B(3)(c), the court may make an order placing the young person under the supervision of the chief executive or such person or organisation as may be specified in the order for a period specified in the order and of not more than 12 months.
