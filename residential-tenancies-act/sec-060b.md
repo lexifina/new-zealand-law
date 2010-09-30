@@ -1,0 +1,6 @@
+# 60B Tenant must exercise right to renew or extend tenancy not later than 21 days before expiry
+(1) A tenant who wishes to exercise a right under the tenancy agreement to require the landlord to grant the tenant a renewal or an extension of the tenancy must exercise that right by giving the landlord written notice, in accordance with this section, of the tenant's intention to exercise the right.
+(2) The tenant must give notice of the tenant's intention not later than the 21st day before the date on which the tenancy would otherwise expire.
+(3) On an application, made before or after the expiry of the tenancy, by a tenant who has failed to comply with subsection (1) or (2) but who wishes to renew or extend the tenancy, the Tribunal may order the renewal or extension of the tenancy.
+(4) The Tribunal may make an order under subsection (3) only if satisfied that, without the order, the tenant would suffer greater hardship than the landlord.
+(5) If the Tribunal makes an order under subsection (3), the Tribunal may order that the tenant pay the landlord an amount determined by the Tribunal by way of reasonable compensation for any loss or damage to the landlord that has resulted from the tenant's failure to comply with subsection (1) or (2).

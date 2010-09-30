@@ -1,0 +1,6 @@
+# 22B Applications to, and orders by, Tribunal
+(1) If there is a dispute between the parties as to the payment of a bond, either party may apply to the Tribunal for an order determining to whom the bond, or any part of it, is to be paid.
+(2) If the tenant applies to the Tribunal and the landlord seeks payment of the bond in whole or in part, the landlord must file an application with the Tribunal that sets out the landlord's counterclaim.
+(3) If, more than 2 months after the termination of a tenancy, the landlord seeks payment of a bond held in respect of that tenancy but does not have the agreement of the tenant, the landlord may apply to the Tribunal for an order determining to whom the bond, or any part of it, is to be paid.
+(4) If the chief executive is satisfied that a tenancy has terminated and no application for payment of a bond, or part of a bond, has been made within a reasonable time, the chief executive may apply to the Tribunal for an order determining to whom the bond, or any part of it, is to be paid.
+(5) If the Tribunal makes an order concerning the payment of a bond, or part of a bond, the chief executive must make the payment in accordance with the terms of the order.

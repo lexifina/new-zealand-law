@@ -1,0 +1,2 @@
+# 62D Tenant may claim proceeds of sale
+At any time within 1 year after the date of a sale under section 62A(5)(b)(ii) or under an order made under section 62B(2)(b), the tenant may apply to the chief executive for the payment to the tenant of the proceeds of sale in the Residential Tenancies Trust Account, and the chief executive must either make that payment to the tenant or, if there are reasonable grounds to do so, refer the matter to the Tribunal for determination.
