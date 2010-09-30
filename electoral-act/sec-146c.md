@@ -1,5 +1,5 @@
 # 146C Effect of notification of intention to lodge bulk nomination on nominations under section 143
-(1) If the secretary of a political party notifies the party's intention to the Chief Electoral Officer under section 146B(1), that notification remains in force for the purposes of the general election unless—
+(1) If the secretary of a political party notifies the party's intention to the Electoral Commission under section 146B(1), that notification remains in force for the purposes of the general election unless—
 (a) the notification is withdrawn under section 146B(3); or
 (b) any bulk nomination schedule lodged by the secretary of that party is rejected under section 146G; or
 (c) the secretary of that party withdraws, under section 146I, a bulk nomination schedule previously lodged by the secretary without providing either of the following:

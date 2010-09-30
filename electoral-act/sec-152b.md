@@ -5,11 +5,11 @@
 (ii) the application must be made to the Returning Officer for the district:
 (b) if the candidate was nominated in a bulk nomination schedule or in accordance with section 146K,—
 (i) the application must be made by the secretary of the party:
-(ii) the application must be made to the Chief Electoral Officer.
-(2) The application must be made on a form provided by the Chief Electoral Officer, and must be witnessed by a Justice of the Peace or a solicitor.
+(ii) the application must be made to the Electoral Commission.
+(2) The application must be made on a form provided by the Electoral Commission, and must be witnessed by a Justice of the Peace or a solicitor.
 (3) The application must be accompanied by a certificate signed by a medical practitioner that certifies—
 (a) as to the candidate's condition; and
 (b) that, in the practitioner's opinion, the candidate is incapacitated within the meaning of section 151A.
 (4) The application—
-(a) must be submitted to the Returning Officer or, as the case requires, the Chief Electoral Officer not later than 4 pm on nomination day; and
+(a) must be submitted to the Returning Officer or, as the case requires, the Electoral Commission not later than 4 pm on nomination day; and
 (b) may be submitted by hand, post, or facsimile transmission.

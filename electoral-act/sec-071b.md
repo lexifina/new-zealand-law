@@ -5,4 +5,4 @@
 (c) a copy of any changes to the rules referred to in paragraph (a) or paragraph (b).
 (2) The copies required by subsection (1)(a) and (b) must be supplied within 1 month after notice of the registration of the party is notified in the Gazette in accordance with section 67(1)(c).
 (3) The copies required by subsection (1)(c) must be supplied within 1 month after the date on which the changes to the rules are adopted by the party.
-(4) Members of the public are entitled to inspect the documents supplied to the Electoral Commission under this section. They may inspect them, without payment, at any time between 9 am and 4 pm on any day on which the office of the Electoral Commission is open.
+(4) Members of the public are entitled to inspect the documents supplied to the Electoral Commission under this section. They may inspect them, without payment, at any time between 9 am and 5 pm on any day on which the office of the Electoral Commission is open.

@@ -10,4 +10,4 @@
 (b) send to the Electoral Commission—
 (i) the name, address, and contact details of the new auditor; and
 (ii) the new auditor's signed consent to the appointment.
-Compare: 1993 No 87 s 214D (pre-20 December 2007); 2007 No 111 s 10
+Compare: 1993 No 87 ss 67(3)(f), 214D(1), (2A), (3) (pre-20 December 2007); 2007 No 111 s 10

@@ -1,4 +1,4 @@
 # 146J Withdrawal of nomination in bulk nomination schedule
-(1) A constituency candidate nominated in a bulk nomination schedule or in accordance with section 146K may withdraw his or her nomination by a notice on a form provided by the Chief Electoral Officer, signed by him or her and witnessed by a Justice of the Peace or a solicitor.
-(2) No withdrawal of nomination under subsection (1) has any effect unless it is lodged with the Chief Electoral Officer not later than noon on nomination day.
+(1) A constituency candidate nominated in a bulk nomination schedule or in accordance with section 146K may withdraw his or her nomination by a notice on a form provided by the Electoral Commission, signed by him or her and witnessed by a Justice of the Peace or a solicitor.
+(2) No withdrawal of nomination under subsection (1) has any effect unless it is lodged with the Electoral Commission not later than noon on nomination day.
 (3) If a candidate for election for an electoral district withdraws his or her nomination under subsection (1), the amount of the deposit paid under section 146F(1) in respect of that candidate must be returned to the party secretary, unless another candidate for election for that electoral district is nominated under section 146K.

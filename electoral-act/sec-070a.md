@@ -6,6 +6,6 @@
 (a) give written notice of the cancellation to—
 (i) the applicant; and
 (ii) the secretary of the political party; and
-(iii) the Chief Electoral Officer; and
+(iii) [Repealed]
 (b) cause notice of the cancellation to be published in the Gazette.
 (4) The Electoral Commission shall give, in the written notice of cancellation, the reasons for the cancellation.

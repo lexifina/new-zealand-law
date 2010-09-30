@@ -1,2 +1,2 @@
 # 4E Appointment of Judge as member not to affect tenure, etc
-[The source does not give the text in force on this date.]
+The appointment of a Judge as a member of the board of the Electoral Commission does not affect the Judge's tenure of his or her judicial office or the Judge's rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge's services as a member must be taken to be service as a Judge.

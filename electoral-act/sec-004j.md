@@ -1,2 +1,2 @@
 # 4J Proceedings of Electoral Commission
-[The source does not give the text in force on this date.]
+The provisions of Schedule 1 apply to the Electoral Commission and to its proceedings.
