@@ -1,5 +1,7 @@
 # 54C Meaning of electricity lines services
-(1) In this subpart, unless the context otherwise requires, electricity lines services means the conveyance of electricity by line in New Zealand.
+(1) In this subpart, unless the context otherwise requires, electricity lines services—
+(a) means the conveyance of electricity by line in New Zealand; and
+(b) with respect to services performed by Transpower, includes services performed as system operator.
 (2) However, none of the following are electricity lines services:
 (a) conveying electricity solely for the supplier's own consumption or for the consumption of the supplier's associates:
 (b) conveying electricity only from a generator to the national grid or from the national grid to a generator:
@@ -11,8 +13,8 @@
 (h) conveying electricity if the total number of consumers to whom the supplier conveys electricity is less than 500.
 (3) The prescribed voltage electric lines, the electricity conveyed, or the number of consumers to whom electricity is conveyed, when measured in relation to a supplier include, for the purposes of subsection (2)(f) to (h), the lines provided by, electricity conveyed by, or number of consumers of, any associate of the supplier.
 (4) In this section, unless the context otherwise requires,—
-associate has the same meaning as in section 12 of the Electricity Industry Reform Act 1998
+associate has the same meaning as in section 73 of the Electricity Industry Act 2010
 consumer has the same meaning as in section 2(1) of the Electricity Act 1992
 lines has the same meaning as in section 2(1) of the Electricity Act 1992
-national grid has the same meaning as in section 2(1) of the Electricity Act 1992
+national grid has the same meaning as in section 5 of the Electricity Industry Act 2010
 prescribed voltage electric line means a line that is capable of conveying electricity at a voltage equal to or greater than 3.3 kilovolts.

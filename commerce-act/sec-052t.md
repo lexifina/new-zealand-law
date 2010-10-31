@@ -5,7 +5,7 @@
 (ii) valuation of assets, including depreciation, and treatment of revaluations:
 (iii) allocation of common costs, including between activities, businesses, consumer classes, and geographic areas:
 (iv) treatment of taxation; and
-(b) pricing methodologies; and
+(b) pricing methodologies, except where another industry regulator (such as the Electricity Authority) has the power to set pricing methodologies in relation to particular goods or services; and
 (c) regulatory processes and rules, such as—
 (i) the specification and definition of prices, including identifying any costs that can be passed through to prices (which may not include the legal costs of any appeals against input methodology determinations under this Part or of any appeals under section 91 or section 97); and
 (ii) identifying circumstances in which price-quality paths may be reconsidered within a regulatory period; and

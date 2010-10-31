@@ -1,11 +1,9 @@
-# 54S Effect of transfer of jurisdiction
-(1) If an Order in Council is made under section 54R,—
-(a) the Electricity Commission, and not the Commerce Commission, has all the powers, duties, and functions under this Part in respect of the electricity lines services in respect of which the jurisdiction has been transferred; and
-(b) the Electricity Commission must exercise or perform those powers, duties, and functions, and be treated in that exercise or performance, as if it were an independent Crown entity; and
-(c) the Electricity Commission must apply any input methodologies determined by the Commerce Commission for services regulated under this subpart (except to the extent that the Electricity Commission considers that modifications are required to meet the particular circumstances of Transpower).
-(2) Without limiting subsection (1)(b), if an Order in Council is made under section 54R, the Minister of Energy may not—
-(a) set objectives and outcomes under section 172ZK of the Electricity Act 1992 on any matter relating to the jurisdiction under this Part; or
-(b) direct the Electricity Commission to give effect to or have regard to any government policy that relates to the jurisdiction under this Part; or
-(c) direct the Electricity Commission to amend any provision that is included in its statement of intent that relates to the jurisdiction under this Part; or
-(d) remove any member of the Electricity Commission for a reason related to the exercise of the jurisdiction under this Part.
-(3) The Order in Council under section 54R may contain any other provisions that are necessary or desirable to ensure that the Electricity Commission exercises or performs the powers, duties, and functions under this Part, and is treated in that exercise or performance, as if it were an independent Crown entity.
+# 54S Commission to prepare input methodology for capital expenditure proposals
+(1) The Commission must determine an input methodology for Transpower's capital expenditure proposals.
+(2) The input methodology must include—
+(a) requirements that must be met by Transpower, including the scope and specificity of information required, the extent of independent verification and audit, and the extent of consultation and agreement with consumers; and
+(b) the criteria the Commission will use to evaluate capital expenditure proposals; and
+(c) time frames and processes for evaluating capital expenditure proposals, including what happens if the Commission does not comply with those time frames.
+(3) The input methodology must be determined no later than 1 November 2011; but the Minister may, on the written request of the Commission, extend the deadline once by a period of up to 3 months, in which case notice of the extension must be given in the Gazette.
+(4) Subpart 3 of Part 4 applies to the input methodology as if it were an input methodology referred to in section 52T, except as provided in subsection (2) or (3) of this section.
+Compare: 1986 No 5 ss 52T(1)(d), 52U
