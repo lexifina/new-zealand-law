@@ -3,7 +3,6 @@ ss 5(1), 21(3), 25(5), 27(4)
 Part 1
 Regional councils
 Regional councils Constituted by
-Auckland Regional Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
 Bay of Plenty Regional Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
 Canterbury Regional Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Hawke's Bay Regional Council Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334
@@ -19,7 +18,7 @@ Part 2
 Territorial authorities
 City and District Councils Constituted by
 Ashburton District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
-Auckland City Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
+Auckland Council section 6(1) of the Local Government (Auckland Council) Act 2009
 Banks Peninsula District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Buller District Council Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517
 Carterton District Council Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491
@@ -30,7 +29,6 @@ Christchurch City Council Local Government (Canterbury Region) Reorganisation Or
 Clutha District Council Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408
 Dunedin City Council Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408
 Far North District Council Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391
-Franklin District Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
 Gisborne District Council Local Government (Gisborne Region) Reorganisation Order 1989, Gazette 1989, p 2328
 Gore District Council Local Government (Southland Region) Reorganisation Order 1989, Gazette 1989, p 2430
 Grey District Council Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517
@@ -47,22 +45,18 @@ Kapiti Coast District Council Local Government (Wellington Region) Reorganisatio
 Kawerau District Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
 Mackenzie District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Manawatu District Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
-Manukau City Council Local Government (Auckland Region) Reorganisation Order 1990, Gazette 1990, p 2247
 Marlborough District Council Local Government (Nelson-Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375
 Masterton District Council Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491
 Matamata-Piako District Council Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460
 Napier City Council Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334
 Nelson City Council Local Government (Nelson-Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375
 New Plymouth District Council Local Government (Taranaki Region) Reorganisation Order 1989, Gazette 1989, p 2445
-North Shore City Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
 Opotiki District Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
 Otorohanga District Council Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460
 Palmerston North City Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
-Papakura District Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
 Porirua City Council Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491
 Queenstown-Lakes District Council Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408
 Rangitikei District Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
-Rodney District Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
 Rotorua District Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
 Ruapehu District Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
 Selwyn District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
@@ -83,7 +77,6 @@ Waimakariri District Council Local Government (Canterbury Region) Reorganisation
 Waimate District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Waipa District Council Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460
 Wairoa District Council Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334
-Waitakere City Council Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247
 Waitaki District Council Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408
 Waitomo District Council Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460
 Wanganui District Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
