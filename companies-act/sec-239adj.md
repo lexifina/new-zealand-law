@@ -11,4 +11,4 @@
 (a) also uses the property; or
 (b) asserts a right, as against the owner or the lessor, to continue to occupy or be in possession.
 (5) A non-use notice does not affect the company's liability for rent and other payments.
-Compare: Corporations Act 2001 (Australia) s 443B(3)-(6)
+Compare: Corporations Act 2001 s 443B(3)-(6) (Aust)

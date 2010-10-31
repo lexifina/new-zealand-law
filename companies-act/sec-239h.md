@@ -9,4 +9,4 @@
 (a) the Court; or
 (b) the creditors, as a replacement administrator for an administrator that the creditors have removed; or
 (c) the appointor of the first administrator, if that administrator has died, resigned, or become disqualified.
-Compare: Corporations Act 2001 (Australia) s 436D
+Compare: Corporations Act 2001 s 436D (Aust)

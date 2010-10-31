@@ -3,4 +3,4 @@
 (2) On the application, the Court may, if it is just and equitable to do so,—
 (a) cancel or confirm the variation, wholly or in part, on specified conditions (if any); and
 (b) make any other orders that the Court thinks appropriate.
-Compare: Corporations Act 2001 (Australia) s 445B
+Compare: Corporations Act 2001 s 445B (Aust)

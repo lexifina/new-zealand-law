@@ -8,4 +8,4 @@
 (b) the person named in the resolution as the new administrator has, before the resolution is considered, tabled at the meeting—
 (i) a signed, written consent to act as administrator; and
 (ii) an interests statement.
-Compare: Corporations Act 2001 (Australia) ss 436E(4), 449B
+Compare: Corporations Act 2001 ss 436E(4), 449B (Aust)

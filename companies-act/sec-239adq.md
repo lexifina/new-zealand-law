@@ -4,4 +4,4 @@
 (b) the company in question; or
 (c) any of the company's creditors.
 (2) In ruling that the appointment is invalid, the Court is not limited to the grounds specified in the application.
-Compare: Corporations Act 2001 (Australia) s 447C
+Compare: Corporations Act 2001 s 447C (Aust)

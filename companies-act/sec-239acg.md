@@ -3,4 +3,4 @@
 (2) If 2 or more persons are appointed deed administrators jointly,—
 (a) a deed administrator's function or power may be performed or exercised by any 1 of them, or by any 2 or more of them together, except so far as the order, instrument, or resolution appointing them provides otherwise; and
 (b) a reference in this Act to a deed administrator or the deed administrator refers to whichever 1 or more of the deed administrators the case requires.
-Compare: Corporations Act 2001 (Australia) s 451B
+Compare: Corporations Act 2001 s 451B (Aust)

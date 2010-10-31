@@ -9,4 +9,4 @@
 (3) Section 239Z does not apply in relation to a transaction or dealing that affects the property and is entered into, as the case may be,—
 (a) in the exercise of a power of the secured creditor as secured creditor; or
 (b) in the performance or exercise of a function or power of the receiver or other person.
-Compare: Corporations Act 2001 (Australia) s 441B
+Compare: Corporations Act 2001 s 441B (Aust)

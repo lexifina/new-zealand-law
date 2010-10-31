@@ -9,4 +9,4 @@
 (4) The notice given to the creditors must set out any resolution for varying or terminating the deed that is to be considered by the meeting.
 (5) The deed administrator must preside at the meeting.
 (6) The meeting may be adjourned from time to time.
-Compare: Corporations Act 2001 (Australia) s 445F
+Compare: Corporations Act 2001 s 445F (Aust)

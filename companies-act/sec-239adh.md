@@ -5,4 +5,4 @@
 (c) any goods bought; or
 (d) any property hired, leased, or occupied.
 (2) Subsection (1) has effect despite any agreement to the contrary, but without prejudice to the administrator's rights against the company or anyone else.
-Compare: Corporations Act 2001 (Australia) s 443A
+Compare: Corporations Act 2001 s 443A (Aust)

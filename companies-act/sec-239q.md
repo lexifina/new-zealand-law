@@ -3,4 +3,4 @@
 (2) The administrator must—
 (a) give written notice of the resignation to as many of the company's creditors as practicable; and
 (b) advertise the resignation in accordance with section 3(1)(b).
-Compare: Corporations Act 2001 (Australia) s 449C(1)(c)
+Compare: Corporations Act 2001 s 449C(1)(c) (Aust)

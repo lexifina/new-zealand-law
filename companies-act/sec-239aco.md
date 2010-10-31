@@ -5,4 +5,4 @@
 (b) the further time that the Court allows, if the deed administrator has applied to the Court for an extension before the end of the initial period of 15 working days after approval.
 (3) The company may not execute the deed unless the board of the company has, by resolution, authorised the deed to be executed by the company or on its behalf.
 (4) Subsection (3) has effect despite section 239X, but does not limit the functions and powers of the administrator of the company.
-Compare: Corporations Act 2001 (Australia) s 444B
+Compare: Corporations Act 2001 s 444B (Aust)

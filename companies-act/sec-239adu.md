@@ -6,4 +6,4 @@
 (a) a creditor or shareholder of the company; or
 (b) if the company is in liquidation, the liquidator; or
 (c) the Registrar.
-Compare: Corporations Act 2001 (Australia) s 447E(2)
+Compare: Corporations Act 2001 s 447E(2) (Aust)

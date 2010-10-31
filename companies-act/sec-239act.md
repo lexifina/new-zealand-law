@@ -6,4 +6,4 @@
 (3) This section does not affect a right that an owner or lessor of property has in relation to that property, except so far as—
 (a) the deed provides otherwise in relation to an owner or lessor of property who at the watershed meeting voted in favour of the resolution as a result of which the company executed the deed; or
 (b) the Court orders otherwise under section 239ACV(1)(b).
-Compare: Corporations Act 2001 (Australia) s 444D
+Compare: Corporations Act 2001 s 444D (Aust)

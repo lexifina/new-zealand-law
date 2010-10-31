@@ -4,4 +4,4 @@
 (b) for as a long as a deed of company arrangement is in force, the words "subject to deed of company arrangement".
 (2) The Court may, on an application by the company, exempt the company from the requirement in subsection (1)(b).
 (3) A company that fails to comply with subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(1).
-Compare: Corporations Act 2001 (Australia) s 450E
+Compare: Corporations Act 2001 s 450E (Aust)

@@ -10,4 +10,4 @@
 (d) if the watershed meeting ends without a resolution that the company execute a deed of company arrangement, the administration ends at the end of that meeting; or
 (e) if the company fails to execute a proposed deed of company arrangement within the time allowed by section 239ACO or 239ACP, the administration ends when that time expires; or
 (f) if the Court appoints a liquidator or an interim liquidator, the administration ends at the time when the order is made.
-Compare: Corporations Act 2001 (Australia) s 435C(2), (3)
+Compare: Corporations Act 2001 s 435C(2), (3) (Aust)

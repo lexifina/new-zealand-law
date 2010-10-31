@@ -5,4 +5,4 @@
 (2) An application for an order under this section may be made by—
 (a) a creditor or shareholder of the company in question; or
 (b) the Registrar.
-Compare: Corporations Act 2001 (Australia) s 447E(1)
+Compare: Corporations Act 2001 s 447E(1) (Aust)

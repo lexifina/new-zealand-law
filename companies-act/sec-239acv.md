@@ -9,4 +9,4 @@
 (a) if the deed has not yet been executed, by the administrator; or
 (b) if the deed has been executed, by the deed administrator.
 (4) The Court's order may be made subject to conditions.
-Compare: Corporations Act 2001 (Australia) s 444F
+Compare: Corporations Act 2001 s 444F (Aust)

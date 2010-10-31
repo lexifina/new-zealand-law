@@ -4,4 +4,4 @@
 (b) exercised any other power in relation to the property.
 (2) Section 239ABD does not prevent the receiver or other person from performing a function, or exercising a power, in relation to the property.
 (3) Section 239Z does not apply in relation to a transaction or dealing that affects the property and is entered into in the performance or exercise of a function or power of the receiver or other person.
-Compare: Corporations Act 2001 (Australia) s 441F
+Compare: Corporations Act 2001 s 441F (Aust)

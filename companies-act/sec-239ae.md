@@ -5,4 +5,4 @@ As soon as practicable after the administration of a company begins, the adminis
 (i) whether it would be in the creditors' interests for the company to execute a deed of company arrangement:
 (ii) whether it would be in the creditors' interests for the administration to end:
 (iii) whether it would be in the creditors' interests for a liquidator to be appointed.
-Compare: Corporations Act 2001 (Australia) s 438A
+Compare: Corporations Act 2001 s 438A (Aust)

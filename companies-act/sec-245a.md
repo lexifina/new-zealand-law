@@ -29,4 +29,4 @@ related entity means, in relation to the company in liquidation,—
 (j) a relative of a spouse of that beneficiary; or
 (k) a company one of whose directors is also a director of the company in liquidation; or
 (l) a trustee of a trust under which a person (A) is a beneficiary, if A is a related entity of the company in liquidation under this subsection.
-Compare: Corporations Act 2001 (Australia) s 600A
+Compare: Corporations Act 2001 s 600A (Aust)

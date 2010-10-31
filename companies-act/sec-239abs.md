@@ -9,4 +9,4 @@
 (4) An order—
 (a) may be made only, and has effect only, during the administration; and
 (b) has effect despite sections 239ABQ and 239ABR.
-Compare: Corporations Act 2001 (Australia) s 441H
+Compare: Corporations Act 2001 s 441H (Aust)

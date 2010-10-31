@@ -4,4 +4,4 @@
 (b) dies; or
 (c) becomes disqualified.
 (2) The appointment of a replacement administrator by a company must be made by a resolution of the board of the company.
-Compare: Corporations Act 2001 (Australia) s 449C
+Compare: Corporations Act 2001 s 449C (Aust)

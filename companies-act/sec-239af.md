@@ -4,4 +4,4 @@
 (3) The administrator must table the directors' statement—
 (a) at the first creditors' meeting; or
 (b) if the administrator has extended the time for compliance by the directors, at the watershed meeting.
-Compare: Corporations Act 2001 (Australia) s 438B(2)
+Compare: Corporations Act 2001 s 438B(2) (Aust)

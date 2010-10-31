@@ -3,4 +3,4 @@
 (a) a director of the company; or
 (b) that person's spouse or relative.
 (2) In this section, liability means a debt, liability, or other obligation.
-Compare: Corporations Act 2001 (Australia) s 440J(1)
+Compare: Corporations Act 2001 s 440J(1) (Aust)

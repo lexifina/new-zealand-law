@@ -4,4 +4,4 @@ A deed of company arrangement binds—
 (b) the company; and
 (c) the company's directors, officers, and shareholders; and
 (d) the deed administrator.
-Compare: Corporations Act 2001 (Australia) s 444G
+Compare: Corporations Act 2001 s 444G (Aust)

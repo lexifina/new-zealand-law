@@ -12,4 +12,4 @@
 (i) the provision was substantially complied with; and
 (ii) no injustice will result for anyone bound by the deed if the contravention is disregarded.
 (4) The Court may, if it declares that a provision of the deed is void, vary the deed, but only if the deed administrator consents.
-Compare: Corporations Act 2001 (Australia) s 445G
+Compare: Corporations Act 2001 s 445G (Aust)

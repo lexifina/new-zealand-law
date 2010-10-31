@@ -4,4 +4,4 @@
 (b) except with the Court's permission, begin or continue a proceeding against the company or in relation to any of its property:
 (c) except with the Court's permission, begin or continue an enforcement process against the company's property.
 (2) In this section, property includes property used or occupied by the company, or in its possession.
-Compare: Corporations Act 2001 (Australia) s 444E
+Compare: Corporations Act 2001 s 444E (Aust)

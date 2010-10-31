@@ -11,4 +11,4 @@
 (h) the order in which the proceeds of realisation of the property referred to in paragraph (b) will be distributed among creditors who are bound by the deed:
 (i) the day (which is called the cut-off day and which must not be later than the day when the administration began) on or before which creditors' claims must have arisen if they are to be admissible under the deed.
 (3) The document is treated as including any prescribed provisions, except those prescribed provisions that the document expressly excludes.
-Compare: Corporations Act 2001 (Australia) s 444A(3)-(5)
+Compare: Corporations Act 2001 s 444A(3)-(5) (Aust)

@@ -19,4 +19,4 @@
 (ii) was contained in a report or statement under section 239AU(3) that accompanied a notice of the watershed meeting at which a resolution that the company execute a deed of company arrangement was passed; or
 (b) there was an omission from the report or statement referred to in paragraph (a)(ii); and
 (c) the information or the omission, as the case may be, can reasonably have been expected to be material to the creditors in deciding whether to vote in favour of the resolution that the company execute the deed of company arrangement.
-Compare: Corporations Act 2001 (Australia) s 445D
+Compare: Corporations Act 2001 s 445D (Aust)

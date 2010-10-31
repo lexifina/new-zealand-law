@@ -7,4 +7,4 @@
 (3) The account must be in the prescribed form and must show,—
 (a) for each period, the administrator's receipts and payments; and
 (b) for each period except the first, the aggregates of the administrator's receipts and payments since the day on which the administrator was appointed.
-Compare: Corporations Act 2001 (Australia) s 432(1), (1A)(a), (b)
+Compare: Corporations Act 2001 s 432(1), (1A)(a), (b) (Aust)

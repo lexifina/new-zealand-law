@@ -12,4 +12,4 @@
 (d) the deed administrator; or
 (e) the Registrar; or
 (f) any other interested person.
-Compare: Corporations Act 2001 (Australia) s 447A
+Compare: Corporations Act 2001 s 447A (Aust)

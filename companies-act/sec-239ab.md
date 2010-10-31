@@ -4,4 +4,4 @@
 (3) Also, despite subsection (1), the Court may make an order—
 (a) for the transfer of a share in a company in administration, but only after the administrator has been asked to consent to the transfer and has refused or failed to respond in a reasonable time; or
 (b) altering the rights and liabilities of a shareholder in a company in administration.
-Compare: Corporations Act 2001 (Australia) s 437F
+Compare: Corporations Act 2001 s 437F (Aust)

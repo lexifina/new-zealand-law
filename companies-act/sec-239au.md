@@ -12,4 +12,4 @@
 (ii) whether it would be in the creditors' interests for the administration to end:
 (iii) whether it would be in the creditors' interests for the company to be placed in liquidation; and
 (c) if a deed of company arrangement is proposed, a statement setting out the details of the proposed deed.
-Compare: Corporations Act 2001 (Australia) s 439A(3), (4)
+Compare: Corporations Act 2001 s 439A(3), (4) (Aust)

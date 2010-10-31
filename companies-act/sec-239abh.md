@@ -16,4 +16,4 @@
 (6) In order to give effect to a charge under subsection (5) on proceeds or money the court officer may retain, on behalf of the person entitled to the charge, so much of the proceeds as the court officer thinks necessary.
 (7) The court may, if it is satisfied that it is appropriate to do so, permit the court officer to take action, or make a payment, that subsection (2) would otherwise prevent.
 (8) A person who buys property in good faith under a sale under an execution process obtains a good title to the property as against the company and the administrator, despite anything else in this section.
-Compare: Corporations Act 2001 (Australia) s 440G
+Compare: Corporations Act 2001 s 440G (Aust)

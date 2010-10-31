@@ -17,4 +17,4 @@
 (a) to have adopted the agreement; or
 (b) to be liable under the agreement except as set out in subsection (2).
 (4) This section does not affect the liability of the company for rent and other payments due under the agreement.
-Compare: Corporations Act 2001 (Australia) s 443B(1), (2), (7), (9)
+Compare: Corporations Act 2001 s 443B(1), (2), (7), (9) (Aust)

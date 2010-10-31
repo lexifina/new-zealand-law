@@ -14,4 +14,4 @@
 (a) the secured creditor:
 (b) a receiver or person appointed as mentioned in paragraph (a), (b), or (d) of the definition of enforce in section 239ABK as that definition applies in relation to the charge, or any of the charges (even if appointed after the decision period).
 (4) Section 239Z does not apply in relation to a transaction or dealing that affects property of the company and is entered into by the secured creditor or a receiver or person of a kind referred to in subsection (3)(b) in the performance or exercise of a function or power as that secured creditor, receiver, or person, as the case may be.
-Compare: Corporations Act 2001 (Australia) s 441A
+Compare: Corporations Act 2001 s 441A (Aust)

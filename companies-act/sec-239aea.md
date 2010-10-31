@@ -3,4 +3,4 @@ If the creditors terminate the deed of company arrangement, the deed administrat
 (a) send a notice of the termination to each of the creditors; and
 (b) advertise the termination in accordance with section 3(1)(b); and
 (c) file a copy of the notice with the Registrar.
-Compare: Corporations Act 2001 (Australia) s 450D
+Compare: Corporations Act 2001 s 450D (Aust)

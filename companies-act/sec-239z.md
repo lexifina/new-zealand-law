@@ -13,4 +13,4 @@
 (b) was in any other way knowingly concerned in, or party to, the void transaction or dealing, whether—
 (i) by act or omission; or
 (ii) directly or indirectly.
-Compare: Corporations Act 2001 (Australia) s 437D
+Compare: Corporations Act 2001 s 437D (Aust)

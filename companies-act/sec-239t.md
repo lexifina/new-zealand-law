@@ -5,4 +5,4 @@
 (a) giving written notice of the meeting to as many of the company's creditors as reasonably practicable; and
 (b) advertising the meeting in accordance with section 3(1)(b).
 (4) The replacement administrator must take the steps in subsection (3) not less than 2 working days before the meeting.
-Compare: Corporations Act 2001 (Australia) s 449C(4), (5)
+Compare: Corporations Act 2001 s 449C(4), (5) (Aust)
