@@ -54,6 +54,7 @@ Related companies of State enterprises (within the meaning of section 2(1A))
 Remuneration Authority
 Representation Commission
 Reserve Bank of New Zealand
+Rugby World Cup Authority
 Securities Commission
 Sentencing Council
 Solid Energy New Zealand Limited
