@@ -139,7 +139,7 @@ Conduct of members
 (3) The form of the declaration must consist of the following elements:
 Declaration by mayor or chairperson or member
 "I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other Act
-Dated at [place] this [number] day of [month] [year]
+Dated at: [place, date]
 Signature:
 Signed in the presence of:
 CD, [mayor or chairperson or member or chief executive of local authority]".
@@ -360,10 +360,10 @@ For the purposes of clauses 32, 32A, and 32B, officer means—
 (1) Unless expressly provided otherwise in this Act, or in any other Act, for the purposes of efficiency and effectiveness in the conduct of a local authority's business, a local authority may delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority any of its responsibilities, duties, or powers except—
 (a) the power to make a rate; or
 (b) the power to make a bylaw; or
-(c) the power to borrow money, or purchase or dispose of assets, other than in accordance with the long-term council community plan; or
-(d) the power to adopt a long-term council community plan, annual plan, or annual report; or
+(c) the power to borrow money, or purchase or dispose of assets, other than in accordance with the long-term plan; or
+(d) the power to adopt a long-term plan, annual plan, or annual report; or
 (e) the power to appoint a chief executive; or
-(f) the power to adopt policies required to be adopted and consulted on under this Act in association with the long-term council community plan or developed for the purpose of the local governance statement; or
+(f) the power to adopt policies required to be adopted and consulted on under this Act in association with the long-term plan or developed for the purpose of the local governance statement; or
 (g) [Repealed]
 (2) Nothing in this clause restricts the power of a local authority to delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority the power to do anything precedent to the exercise by the local authority (after consultation with the committee or body or person) of any power or duty specified in subclause (1).
 (3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local authority or by the committee or body or person that makes the original delegation.
@@ -449,7 +449,7 @@ Compare: 1974 No 66 s 101ZT
 A territorial authority within whose district the community of a community board is situated must provide the necessary administrative and other facilities for that community board.
 Compare: 1974 No 66 s 101ZZB
 39 Expenses of community boards
-(1) The expenses of the performance and exercise by a community board of its responsibilities, duties, and powers must be paid by the territorial authority within whose district the community is situated out of the general revenues of the district.
+(1) The expenses of the performance and exercise by a community board of its responsibilities, duties, and powers must be paid by the territorial authority within whose district the community is situated.
 (2) The territorial authority may fix a limit within which expenditure may be incurred under subclause (1), and no community board may incur expenditure in excess of any limit so fixed without the prior approval of the territorial authority.
 (3) This clause does not apply in respect of any expenditure for which any rate has been made and levied within the community.
 Compare: 1974 No 66 s 101ZZC

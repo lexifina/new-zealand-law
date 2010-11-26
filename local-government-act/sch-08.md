@@ -53,3 +53,13 @@ Compare: 1974 No 66 s 594Y
 (b) the annual report of the local authority.
 (3) Any financial information, including (but not limited to) forecast financial information, must be prepared in accordance with generally accepted accounting practice.
 Compare: 1974 No 66 s 594T
+10 Additional content of statements of intent
+(1) This clause applies to a council-controlled organisation that provides services in relation to the following groups of activities:
+(a) water supply:
+(b) sewerage and the treatment and disposal of sewage:
+(c) stormwater drainage:
+(d) flood protection and control works:
+(e) the provision of roads and footpaths.
+(2) The council-controlled organisation's statement of intent must, in relation to each group of activities described in subclause (1), include a statement of the intended levels of service provision that complies with clause 4(a) and (c) of Schedule 10 as if—
+(a) the reference to a long-term plan were a reference to the statement of intent; and
+(b) the reference to a local authority were a reference to a council-controlled organisation.
