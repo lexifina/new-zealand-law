@@ -3,6 +3,7 @@ ss 95E, 274
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
 Ngāi Tahu Claims Settlement Act 1998
+Ngāti Apa (North Island) Claims Settlement Act 2010
 Ngāti Awa Claims Settlement Act 2005
 Ngāti Mutunga Claims Settlement Act 2006
 Ngati Ruanui Claims Settlement Act 2003
