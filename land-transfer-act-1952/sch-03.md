@@ -1,6 +1,7 @@
 # Schedule 3 Covenants, conditions, and powers implied, pursuant to memorandum of priority, in mortgages thereby postponed
-Section 103
+s 103
 (1) That the mortgagor will duly and punctually pay all principal, interest, and other moneys secured by and will perform and observe all the covenants and conditions contained or implied in any mortgage having priority to the postponed mortgage.
 (2) That if the mortgagor makes default in the payment of any moneys secured by or in the performance or observance of any of the covenants and conditions contained or implied in any mortgage having priority to the postponed mortgage, it shall be lawful for but not obligatory upon the mortgagee to pay those moneys and perform or observe those covenants or conditions, and clause 10 of Part 1 of Schedule 2 of the Property Law Act 2007 applies (with all necessary modifications) to all moneys so paid and all expenses incurred in performing or observing the covenants or conditions of the prior mortgage.
 (3) That compliance with the provisions of any mortgage having priority to the postponed mortgage which relate to insurance against loss or damage by fire or earthquake shall be deemed, so far as it extends, to be compliance with any provisions as to such insurance contained or implied in the postponed mortgage.
 (4) That any provisions in the postponed mortgage referring to any particular mortgage having priority thereto shall be deemed to refer to any mortgage at any time having priority to the postponed mortgage.
+Compare: 1939 No 7 s 6, Schedule 2

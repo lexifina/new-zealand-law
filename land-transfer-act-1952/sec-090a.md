@@ -12,4 +12,3 @@
 (b) in the case of an easement in gross, the registered proprietor of the servient tenement and the grantee.
 (5) Easements are created or surrendered under this section when the easement instrument specifying them is registered.
 (6) Section 69 of this Act and section 21 of the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002, with any necessary modifications, apply to easements created under this section.
-(9) Every easement certificate registered under this section is deemed, for the purposes of section 243(a) of the Resource Management Act 1991, to be an instrument by which every easement specified in that certificate is granted or reserved.
