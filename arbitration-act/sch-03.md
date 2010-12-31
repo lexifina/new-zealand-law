@@ -1,35 +1,25 @@
 # Schedule 3 Treaties relating to arbitration
-Section 5
-Protocol on arbitration clauses
-Preamble
-Opened for signature at Geneva on 24 September 1923
+s 5
+Protocol on Arbitration Clauses
+[Opened for signature at Geneva on 24 September 1923]
 THE undersigned, being duly authorised, declare that they accept, on behalf of the countries which they represent, the following provisions:
-1
-Each of the Contracting States recognises the validity of an agreement whether relating to existing or future differences between parties subject respectively to the jurisdiction of different Contracting States by which the parties to a contract agree to submit to arbitration all or any differences that may arise in connection with such contract relating to commercial matters or to any other matter capable of settlement by arbitration, whether or not the arbitration is to take place in a country to whose jurisdiction none of the parties is subject.
+1. Each of the Contracting States recognises the validity of an agreement whether relating to existing or future differences between parties subject respectively to the jurisdiction of different Contracting States by which the parties to a contract agree to submit to arbitration all or any differences that may arise in connection with such contract relating to commercial matters or to any other matter capable of settlement by arbitration, whether or not the arbitration is to take place in a country to whose jurisdiction none of the parties is subject.
 Each Contracting State reserves the right to limit the obligation mentioned above to contracts which are considered as commercial under its national law. Any Contracting State which avails itself of this right will notify the Secretary-General of the League of Nations, in order that the other Contracting States may be so informed.
-2
-The arbitral procedure, including the constitution of the arbitral tribunal, shall be governed by the will of the parties and by the law of the country in whose territory the arbitration takes place.
+2. The arbitral procedure, including the constitution of the arbitral tribunal, shall be governed by the will of the parties and by the law of the country in whose territory the arbitration takes place.
 The Contracting States agree to facilitate all steps in the procedure which require to be taken in their own territories, in accordance with the provisions of their law governing arbitral procedure applicable to existing differences.
-3
-Each Contracting State undertakes to ensure the execution by its authorities and in accordance with the provisions of its national laws of arbitral awards made in its own territory under the preceding articles.
-4
-The tribunals of the Contracting Parties, on being seized of a dispute regarding a contract made between persons to whom Article 1 applies and including an arbitration agreement, whether referring to present or future differences, which is valid in virtue of the said article and capable of being carried into effect, shall refer the parties on the application of either of them to the decision of the arbitrators.
+3. Each Contracting State undertakes to ensure the execution by its authorities and in accordance with the provisions of its national laws of arbitral awards made in its own territory under the preceding articles.
+4. The tribunals of the Contracting Parties, on being seized of a dispute regarding a contract made between persons to whom Article 1 applies and including an arbitration agreement, whether referring to present or future differences, which is valid in virtue of the said article and capable of being carried into effect, shall refer the parties on the application of either of them to the decision of the arbitrators.
 Such reference shall not prejudice the competence of the judicial tribunals in case the agreement or the arbitration cannot proceed or become inoperative.
-5
-The present protocol, which shall remain open for signature by all States, shall be ratified. The ratifications shall be deposited as soon as possible with the Secretary-General of the League of Nations, who shall notify such deposit to all the signatory States.
-6
-The present protocol shall come into force as soon as 2 ratifications have been deposited. Thereafter it will take effect, in the case of each Contracting State, 1 month after the notification by the Secretary-General of the deposit of its ratification.
-7
-The present protocol may be denounced by any Contracting State on giving one year's notice. Denunciation shall be effected by a notification addressed to the Secretary-General of the League, who will immediately transmit copies of such notification to all the other signatory States and inform them of the date on which it was received. The denunciation shall take effect one year after the date on which it was notified to the Secretary-General, and shall operate only in respect of the notifying State.
-8
-The Contracting States may declare that their acceptance of the present protocol does not include any or all of the under-mentioned territories—that is to say, their colonies, overseas possessions or territories, protectorates, or the territories over which they exercise a mandate.
+5. The present protocol, which shall remain open for signature by all States, shall be ratified. The ratifications shall be deposited as soon as possible with the Secretary-General of the League of Nations, who shall notify such deposit to all the signatory States.
+6. The present protocol shall come into force as soon as 2 ratifications have been deposited. Thereafter it will take effect, in the case of each Contracting State, 1 month after the notification by the Secretary-General of the deposit of its ratification.
+7. The present protocol may be denounced by any Contracting State on giving one year's notice. Denunciation shall be effected by a notification addressed to the Secretary-General of the League, who will immediately transmit copies of such notification to all the other signatory States and inform them of the date on which it was received. The denunciation shall take effect one year after the date on which it was notified to the Secretary-General, and shall operate only in respect of the notifying State.
+8. The Contracting States may declare that their acceptance of the present protocol does not include any or all of the under-mentioned territories—that is to say, their colonies, overseas possessions or territories, protectorates, or the territories over which they exercise a mandate.
 The said States may subsequently adhere separately on behalf of any territory thus excluded. The Secretary-General of the League of Nations shall be informed as soon as possible of such adhesions. He shall notify such adhesions to all signatory States. They will take effect one month after the notification by the Secretary-General to all signatory States.
 The Contracting States may also denounce the protocol separately on behalf of any of the territories referred to above. Article 7 applies to such denunciation.
 Convention on the Execution of Foreign Arbitral Awards
-Preamble
-Opened for signature at Geneva on 26 September 1927
+[Opened for signature at Geneva on 26 September 1927]
 Article 1
-IN the territories of any High Contracting Party to which the present convention applies, an arbitral award made in pursuance of an agreement whether relating to existing or future differences (hereinafter called "a submission to arbitration") covered by the Protocol on Arbitration Clauses, opened at Geneva on September 24th, 1923, shall be recognised as binding and shall be enforced in accordance with the rules of the procedure of the territory where the award is relied upon, provided that the said award has been made in a territory of one of the High Contracting Parties to which the present convention applies and between persons who are subject to the jurisdiction of one of the High Contracting Parties.
+IN the territories of any High Contracting Party to which the present convention applies, an arbitral award made in pursuance of an agreement, whether relating to existing or future differences (hereinafter called "a submission to arbitration") covered by the Protocol on Arbitration Clauses, opened at Geneva on September 24th, 1923, shall be recognised as binding and shall be enforced in accordance with the rules of the procedure of the territory where the award is relied upon, provided that the said award has been made in a territory of one of the High Contracting Parties to which the present convention applies and between persons who are subject to the jurisdiction of one of the High Contracting Parties.
 To obtain such recognition or enforcement, it shall, further, be necessary—
 (a) That the award has been made in pursuance of a submission to arbitration which is valid under the law applicable thereto:
 (b) That the subject matter of the award is capable of settlement by arbitration under the law of the country in which the award is sought to be relied upon:
@@ -72,14 +62,14 @@ The High Contracting Parties can at any time denounce the convention for all or 
 Article 11
 A certified copy of the present convention shall be transmitted by the Secretary-General of the League of Nations to every member of the League of Nations and to every non-member State which signs the same.
 Convention on the Recognition and Enforcement of Foreign Arbitral Awards
-Adopted at New York by the United Nations Conference on International Commercial Arbitration on 10 June 1958
+[Adopted at New York by the United Nations Conference on International Commercial Arbitration on 10 June 1958]
 Article I
 1. This Convention shall apply to the recognition and enforcement of arbitral awards made in the territory of a State other than the State where the recognition and enforcement of such awards are sought, and arising out of differences between persons, whether physical or legal. It shall also apply to arbitral awards not considered as domestic awards in the State where their recognition and enforcement are sought.
-2. The term arbitral awards shall include not only awards made by arbitrators appointed for each case but also those made by permanent arbitral bodies to which the parties have submitted.
+2. The term "arbitral awards" shall include not only awards made by arbitrators appointed for each case but also those made by permanent arbitral bodies to which the parties have submitted.
 3. When signing, ratifying or acceding to this Convention, or notifying extension under article X hereof, any State may on the basis of reciprocity declare that it will apply the Convention to the recognition and enforcement of awards made only in the territory of another Contracting State. It may also declare that it will apply the Convention only to differences arising out of legal relationships, whether contractual or not, which are considered as commercial under the national law of the State making such declaration.
 Article II
 1. Each Contracting State shall recognise an agreement in writing under which the parties undertake to submit to arbitration all or any differences which have arisen or which may arise between them in respect of a defined legal relationship, whether contractual or not, concerning a subject matter capable of settlement by arbitration.
-2. The term agreement in writing shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
+2. The term "agreement in writing" shall include an arbitral clause in a contract or an arbitration agreement, signed by the parties or contained in an exchange of letters or telegrams.
 3. The court of a Contracting State, when seized of an action in a matter in respect of which the parties have made an agreement within the meaning of this article, shall, at the request of one of the parties, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed.
 Article III
 Each Contracting State shall recognise arbitral awards as binding and enforce them in accordance with the rules of procedure of the territory where the award is relied upon, under the conditions laid down in the following articles. There shall not be imposed substantially more onerous conditions or higher fees or charges on the recognition or enforcement of arbitral awards to which this Convention applies than are imposed on the recognition or enforcement of domestic arbitral awards.
@@ -92,8 +82,8 @@ Article V
 1. Recognition and enforcement of the award may be refused, at the request of the party against whom it is invoked, only if that party furnishes to the competent authority where the recognition and enforcement is sought, proof that:
 (a) The parties to the agreement referred to in article II were, under the law applicable to them, under some incapacity, or the said agreement is not valid under the law to which the parties have subjected it or, failing any indication thereon, under the law of the country where the award was made; or
 (b) The party against whom the award is invoked was not given proper notice of the appointment of the arbitrator or of the arbitration proceedings or was otherwise unable to present his case; or
-(c) The award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced, or
-(d) The composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
+(c) The award deals with a difference not contemplated by or not falling within the terms of the submission to arbitration, or it contains decisions on matters beyond the scope of the submission to arbitration, provided that, if the decisions on matters submitted to arbitration can be separated from those not so submitted, that part of the award which contains decisions on matters submitted to arbitration may be recognised and enforced; or
+(d) The composition of the arbitral authority or the arbitral procedure was not in accordance with the agreement of the parties, or, failing such agreement, was not in accordance with the law of the country where the arbitration took place; or
 (e) The award has not yet become binding on the parties, or has been set aside or suspended by a competent authority of the country in which, or under the law of which, that award was made.
 2. Recognition and enforcement of an arbitral award may also be refused if the competent authority in the country where recognition and enforcement is sought finds that:
 (a) The subject matter of the difference is not capable of settlement by arbitration under the law of that country; or
@@ -125,7 +115,7 @@ Article XIII
 1. Any Contracting State may denounce this Convention by a written notification to the Secretary-General of the United Nations. Denunciation shall take effect one year after the date of receipt of the notification by the Secretary-General.
 2. Any State which has made a declaration or notification under article X may, at any time thereafter, by notification to the Secretary-General of the United Nations, declare that this Convention shall cease to extend to the territory concerned one year after the date of the receipt of the notification by the Secretary-General.
 3. This Convention shall continue to be applicable to arbitral awards in respect of which recognition or enforcement proceedings have been instituted before the denunciation takes effect.
-Article XIV
+Article XIV—
 A Contracting State shall not be entitled to avail itself of the present Convention against other Contracting States except to the extent that it is itself bound to apply the Convention.
 Article XV
 The Secretary-General of the United Nations shall notify the States contemplated in article VIII of the following:
