@@ -1,5 +1,7 @@
 # 210D Offences relating to return of party donations
-(1) A party secretary who fails, without reasonable excuse, to comply with section 210 or 210C commits an offence and is liable on summary conviction to a fine not exceeding $40,000.
+(1) A party secretary commits an offence and is liable on summary conviction to a fine not exceeding $40,000 who fails, without reasonable excuse, to comply with—
+(a) section 210:
+(b) section 210C.
 (2) A party secretary who files a return under section 210 or 210C that is false in any material particular is guilty of—
 (a) a corrupt practice if he or she filed the return knowing it to be false in any material particular; or
 (b) an illegal practice in any other case unless the party secretary proves that—

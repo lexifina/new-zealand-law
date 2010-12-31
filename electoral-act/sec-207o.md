@@ -1,3 +1,4 @@
-# 207O Duty of Chief Electoral Officer in relation to donations
-If the Chief Electoral Officer believes that any person has committed an offence against this subpart in relation to candidate donations or subpart 5 of this Part, the Chief Electoral Officer must report the facts on which that belief is based to the New Zealand Police.
-Compare: 2007 No 111 s 35
+# 207O Duty of Electoral Commission in relation to donations
+(1) If the Electoral Commission believes that any person has committed an offence against this subpart or subparts 4 to 6 of this Part, the Electoral Commission must report the facts on which that belief is based to the New Zealand Police.
+(2) Subsection (1) does not apply if the Electoral Commission considers that the offence is so inconsequential that there is no public interest in reporting those facts to the New Zealand Police.
+Compare: 2007 No 111 ss 35, 36

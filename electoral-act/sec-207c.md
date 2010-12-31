@@ -1,9 +1,9 @@
 # 207C Contributors to be identified
-(1) This section applies to a donation that is funded from contributions.
+(1) This section applies to a donation (other than an anonymous donation) that is funded from contributions.
 (2) If this section applies to a donation, the donor must, at the time of making the donation,—
 (a) disclose the fact that the donation is funded from contributions; and
-(b) if 1 or more contributions are each in sum or value $1,000 or less, disclose the total amount of those contributions; and
-(c) if 1 or more contributions are each in sum or value more than $1,000, disclose the following information about those contributions:
+(b) if 1 or more contributions are each in sum or value $1,500 or less, disclose the total amount of those contributions; and
+(c) if 1 or more contributions are each in sum or value more than $1,500, disclose the following information about those contributions:
 (i) the total amount of those contributions; and
 (ii) the information described in subsection (3) about those contributions.
 (3) The information that must be disclosed about contributions under subsection (2)(c)(ii) is—
