@@ -151,22 +151,6 @@ Clause 18 of Schedule 1: omit "Property Law Act 1952" and substitute "Property L
 Life Insurance Act 1908 (1908 No 105)
 Section 40B(2)(d): omit "Foreclose,".
 Section 40B(2)(e): omit "distrain for rent,".
-Limitation Act 1950 (1950 No 65)
-Section 2(5): omit "or, in the case of rentcharges, to distrain for arrears of rent;" and substitute "or distress".
-Section 16: repeal and substitute:
-"16 Limitation of redemption actions
-"(1) This section applies to a mortgage of land—
-"(a) only if none of that land is subject to the Land Transfer Act 1952; and
-"(b) only if, and after, the mortgagee has been in possession of all or any of that land for 12 years.
-"(2) After the mortgage has become one to which this section applies, no action to redeem the land of which the mortgagee has been so in possession may be brought by, or by a person claiming through, the mortgagor.
-"(3) This section overrides anything to the contrary in section 97 of the Property Law Act 2007 or in any other enactment.
-"Compare: Limitation Act 1939 s 12 (UK)".
-Section 19: omit ", or distress made,".
-Section 20(2): repeal.
-Section 20(3): omit "and the right to foreclose on any personal property subject to the mortgage or charge".
-Section 25(1): repeal and substitute:
-"(1) If a right of action to recover land has accrued, and the person in possession of the land acknowledges the title of the person to whom the right of action has accrued, the right is deemed to have accrued on, and not before, the date of the acknowledgment."
-Section 27(2): omit "foreclose or otherwise to".
 Maori Affairs Restructuring Act 1989 (1989 No 68)
 Section 43(5): omit "expressed by the Land Transfer Act 1952 or the Property Law Act 1952, as the case may be, in respect of mortgages" and substitute "implied by the Property Law Act 2007 in mortgages over land".
 Maori Housing Act 1935 (1935 No 34)
