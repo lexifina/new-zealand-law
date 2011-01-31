@@ -28,7 +28,6 @@ Law Commission
 Māori Television Service and every subsidiary of the Māori Television Service (if any)
 Mental Health Commission
 Meteorological Service of New Zealand Limited
-National Library of New Zealand
 New Zealand Council for Educational Research
 New Zealand Film Commission
 New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa
