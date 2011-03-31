@@ -1,4 +1,4 @@
-# 293A Determinations relating to customary rights orders made under Foreshore and Seabed Act 2004
+# 293A Determinations on recognition orders and agreements made under Marine and Coastal Area (Takutai Moana) Act 2011
 (1) This section applies to a determination made by the Environment Court on—
 (a) an appeal relating to—
 (i) a submission made in reliance on section 85B(1)(a):

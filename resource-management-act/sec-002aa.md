@@ -9,9 +9,8 @@
 (v) an application or proposal to vary or cancel an instrument creating an esplanade strip:
 (vi) a matter of creating an esplanade strip by agreement.
 (2) In this Act, unless the context requires another meaning,—
-affected order holder means the holder of a customary rights order who, under section 95F, is decided to be an affected order holder in relation to the application or matter
 affected person means a person who, under section 95E, is decided to be an affected person in relation to the application or matter
-limited notification means serving notice of the application or matter on any affected person or affected order holder within the time limit specified by section 95
+limited notification means serving notice of the application or matter on any affected person within the time limit specified by section 95
 notification means public notification or limited notification of the application or matter
 public notification means doing the following within the time limit specified by section 95:
 (a) giving public notice of the application or matter in the prescribed form; and

@@ -17,8 +17,8 @@ Subject to the provisions of any policy statement or plan, an assessment of effe
 To avoid doubt, clause 1(h) obliges an applicant to report as to the persons identified as being affected by the proposal, but does not—
 (a) oblige the applicant to consult with any person; or
 (b) create any ground for expecting that the applicant will consult with any person.
-1A Matters that must be included in an assessment of effects on the environment
-An assessment of effects on the environment for the purposes of section 88 must include, in a case where a recognised customary activity is, or is likely to be, adversely affected, a description of possible alternative locations or methods for the proposed activity (unless written approval for that activity is given by the holder of the customary rights order).
+1A Matters to be included in assessment of effects on environment
+An assessment of effects on the environment for the purposes of section 88 must include, in a case where the activity for which a resource consent is sought will, or is likely to, have adverse effects that are more than minor on the exercise of a protected customary right, a description of possible alternative locations or methods for the exercise of the proposed activity (unless written approval for the proposed activity is given by the protected customary rights group).
 2 Matters that should be considered when preparing an assessment of effects on the environment
 Subject to the provisions of any policy statement or plan, any person preparing an assessment of the effects on the environment should consider the following matters:
 (a) any effect on those in the neighbourhood and, where relevant, the wider community including any socio-economic and cultural effects:

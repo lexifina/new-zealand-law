@@ -65,14 +65,14 @@ Preparation and change of policy statements and plans by local authorities
 (2) A proposed regional coastal plan must be prepared by the regional council concerned in consultation with—
 (a) the Minister of Conservation; and
 (b) iwi authorities of the region; and
-(c) the board of any foreshore and seabed reserve in the region.
+(c) any customary marine title group in the region.
 3 Consultation
 (1) During the preparation of a proposed policy statement or plan, the local authority concerned shall consult—
 (a) the Minister for the Environment; and
 (b) those other Ministers of the Crown who may be affected by the policy statement or plan; and
 (c) local authorities who may be so affected; and
 (d) the tangata whenua of the area who may be so affected, through iwi authorities; and
-(e) the board of any foreshore and seabed reserve in the area.
+(e) any customary marine title group in the area.
 (2) A local authority may consult anyone else during the preparation of a proposed policy statement or plan.
 (3) Without limiting subclauses (1) and (2), a regional council which is preparing a regional coastal plan shall consult—
 (a) the Minister of Conservation generally as to the content of the plan, and with particular respect to those activities to be described as restricted coastal activities in the proposed plan; and
@@ -147,8 +147,8 @@ and shall send a copy of the public notice to any other person who, in the terri
 (c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
 (d) in the case of a district plan, the regional council and adjacent local authorities; and
 (e) in the case of a policy statement or regional plan, constituent territorial authorities, and adjacent regional councils; and
-(f) the tangata whenua of the area, through iwi authorities; and
-(g) the board of any foreshore and seabed reserve in the area.
+(f) the tangata whenua of the area, through iwi authorities.
+(g) [Repealed]
 (5) A local authority shall make any proposed policy statement or plan prepared by it available in every public library in its area and in every other place in its area that it considers appropriate.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 6 Making of submissions
@@ -301,8 +301,8 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (c) in the case of a regional coastal plan, the Minister of Conservation and the appropriate regional conservator for the Department of Conservation; and
 (d) in the case of a district plan, the regional council and adjacent territorial authorities; and
 (e) in the case of a policy statement or regional plan, constituent territorial authorities and adjacent regional councils; and
-(f) the tangata whenua of the area, through iwi authorities; and
-(g) the board of any foreshore and seabed reserve in the area.
+(f) the tangata whenua of the area, through iwi authorities.
+(g) [Repealed]
 (5) The local authority shall provide 1 copy of its operative policy statement or plan to every public library in its area.
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 20A Correction of operative policy statement or plan
