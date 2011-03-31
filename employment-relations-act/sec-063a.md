@@ -11,8 +11,8 @@
 (g) under section 69M or section 69N in relation to employee protection provisions in individual employment agreements:
 (h) under section 69I in relation to redundancy entitlements with a new employer.
 (2) The employer must do at least the following things:
-(a) provide to the employee a copy of the intended agreement, or the part of the intended agreement, under discussion; and
-(b) advise the employee that he or she is entitled to seek independent advice about the intended agreement or any part of the intended agreement; and
+(a) provide to the employee a copy of the intended agreement under discussion; and
+(b) advise the employee that he or she is entitled to seek independent advice about the intended agreement; and
 (c) give the employee a reasonable opportunity to seek that advice; and
 (d) consider any issues that the employee raises and respond to them.
 (3) Every employer who fails to comply with this section is liable to a penalty imposed by the Authority.

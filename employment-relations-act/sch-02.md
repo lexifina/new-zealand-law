@@ -59,16 +59,21 @@ Compare: 1991 No 22 s 96
 (2) Where a matter is resolved by the Authority making a consent order as to the terms of settlement, the Authority may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the Authority thinks fit.
 Compare: 1991 No 22 s 97
 11 Power to award interest
-(1) Subject to subclause (2), in any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at such rate not exceeding the 90-day bill rate (as at the date of the order), plus 2%, as the Authority thinks fit, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
-(2) Subclause (1) does not authorise the giving of interest upon interest.
+(1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
+(2) Without limiting the Authority's discretion under subclause (1), in deciding whether to order the inclusion of interest, the Authority must consider whether there has been long-standing and repeated non-compliance with a demand notice.
+(3) Subclause (1) does not authorise the giving of interest upon interest.
 12 Power to proceed if any party fails to attend
 If, without good cause shown, any party to a matter before the Authority fails to attend or be represented, the Authority may act as fully in the matter before it as if that party had duly attended or been represented.
 Compare: 1991 No 22 s 100
+12A Power to dismiss frivolous or vexatious proceedings
+(1) The Authority may, at any time in any proceedings before it, dismiss a matter or defence that the Authority considers to be frivolous or vexatious.
+(2) In any such case, the order of the Authority may include an order for payment of costs and expenses against the party bringing the matter or defence.
 13 No invalidity for want of form
 No determination or order of the Authority, and no matter before the Authority, is to be held bad for want of form, or be void or in any way vitiated by reason of any informality or error of form.
 Compare: 1991 No 22 s 104(4)
 14 Withdrawal of matter
-Where any matter is before the Authority, it may at any time be withdrawn by the applicant or appellant.
+(1) Where any matter is before the Authority, it may at any time be withdrawn by the applicant or appellant.
+(2) For the purposes of subclause (1), a matter before the Authority must be treated as having been withdrawn if no action on the matter has been taken by a party or the Authority for at least 3 years.
 Compare: 1991 No 22 s 88(8)
 15 Power to award costs
 (1) The Authority may order any party to a matter to pay to any other party such costs and expenses (including expenses of witnesses) as the Authority thinks reasonable.

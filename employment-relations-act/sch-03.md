@@ -69,16 +69,15 @@ Compare: 1991 No 22 s 126(3)
 (2) Where proceedings are resolved by the court making a consent order as to the terms of settlement, the court may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the court thinks fit.
 Compare: 1991 No 22 s 109
 13 Discovery
-(1) The court may, in relation to discovery, make any order that a District Court may make under section 56A or section 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
+(1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that a District Court may make under section 56A or 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
 (2) Every application for an order under section 56A or section 56B of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 (3) Nothing in subclauses (1) and (2) limits the making of rules under section 212 or regulations under section 237.
 14 Power to award interest
-(1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at such rate not exceeding the 90-day bill rate (as at the date of the order), plus 2%, as the court thinks fit, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
+(1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
 (2) Subclause (1) does not authorise the giving of interest upon interest.
-15 Power to dismiss frivolous cases
-(1) The court may, in any proceedings, at any time dismiss any matter or defence before it which it thinks frivolous or trivial.
-(2) In any such case the order of the court may be limited to an order against the party bringing the matter or defence before the Authority for payment of costs and expenses.
-Compare: 1991 No 22 s 121
+15 Power to dismiss frivolous or vexatious proceedings
+(1) The court may, at any time in any proceedings before it, dismiss a matter or defence that the court considers to be frivolous or vexatious.
+(2) In any such case, the order of the court may include an order for payment of costs and expenses against the party bringing the matter or defence before the Authority.
 16 Power to proceed if any party fails to attend
 If, without good cause shown, any party to proceedings before the court fails to attend or be represented, the court may act as fully in the matter before it as if that party had duly attended or been represented.
 Compare: 1991 No 22 s 124
@@ -86,7 +85,8 @@ Compare: 1991 No 22 s 124
 No decision or order of the court, and no proceedings before the court, are to be held bad for want of form, or be void or in any way vitiated by reason of any informality or error of form.
 Compare: 1991 No 22 s 104(4)
 18 Withdrawal of proceedings
-Where any matter is before the court, it may at any time be withdrawn by the applicant or appellant.
+(1) Where any matter is before the court, it may at any time be withdrawn by the applicant or appellant.
+(2) To avoid doubt, if a matter is withdrawn under subclause (1), it does not affect any other matters before the court that form part of the same proceedings.
 Compare: 1991 No 22 s 106
 19 Power to award costs
 (1) The court in any proceedings may order any party to pay to any other party such costs and expenses (including expenses of witnesses) as the court thinks reasonable.
