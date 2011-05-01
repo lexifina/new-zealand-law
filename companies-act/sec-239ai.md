@@ -14,5 +14,5 @@
 (a) provision of information; and
 (b) access to documents; and
 (c) facilities for inspecting and copying documents.
-(3) In any case where the Court is satisfied that the administrator should make a report under subsection (1) and has not done so, the Court may, on the application of an interested person, direct the administrator to make a report.
+(3) In any case where the court is satisfied that the administrator should make a report under subsection (1) and has not done so, the court may, on the application of an interested person, direct the administrator to make a report.
 Compare: Corporations Act 2001 s 438D (Aust)

@@ -1,5 +1,5 @@
-# 245A Power of Court where outcome of voting at meeting of creditors determined by related entity
-(1) This section applies if the Court is satisfied that—
+# 245A Power of court where outcome of voting at meeting of creditors determined by related entity
+(1) This section applies if the court is satisfied that—
 (a) a resolution at a meeting of creditors was passed, defeated, or required to be decided by a casting vote; and
 (b) the resolution would not have been passed, defeated, or required to be decided by a casting vote if the vote or votes cast by a particular related creditor or particular related creditors were disregarded; and
 (c) the passing of the resolution, or the failure to pass it,—
@@ -8,11 +8,11 @@
 (A) the benefits accruing to the related creditor, or to some or all of the related creditors, from the resolution, or from the failure to pass the resolution; and
 (B) the nature of the relationship between the related creditor and the company, or between the related creditors and the company; and
 (C) any other related matter.
-(2) The Court may, on the application of the liquidator or a creditor,—
+(2) The court may, on the application of the liquidator or a creditor,—
 (a) order that the resolution be set aside:
 (b) order that a new meeting be held to consider and vote on the resolution:
 (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
-(d) make any other orders that the Court thinks necessary.
+(d) make any other orders that the court thinks necessary.
 (3) In this section,—
 promoter has the same meaning as in section 2(1) of the Securities Act 1978
 related creditor means a creditor who is a related entity of the company in liquidation

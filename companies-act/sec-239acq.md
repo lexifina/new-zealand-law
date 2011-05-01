@@ -3,6 +3,6 @@
 (a) execution of the deed by the company and the deed administrator; or
 (b) expiry of the period during which the deed may be executed.
 (2) In the interim period, in so far as a person would be bound by the deed if it had already been executed, that person—
-(a) must not do anything inconsistent with the deed, except with the permission of the Court; and
+(a) must not do anything inconsistent with the deed, except with the permission of the court; and
 (b) must not take a step that is prohibited under section 239ACU.
 Compare: Corporations Act 2001 s 444C (Aust)

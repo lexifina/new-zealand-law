@@ -8,4 +8,4 @@
 (b) in subsection (2), means the debts and liabilities incurred by the phoenix company during the period when A was acting or was willing to act on the instructions of B and the phoenix company was known by a pre-liquidation name of the failed company or a similar name.
 (4) Liability under this section is joint and several.
 (5) For the purposes of this section, a person who, as a person involved in the management of a company, has at any time acted on instructions given by a person who he or she knew at the time to be in contravention of section 386A is presumed, unless the contrary is shown, to have been willing at any later time to act on any instructions given by that person.
-Compare: Insolvency Act 1986 (UK) s 217
+Compare: Insolvency Act 1986 s 217 (UK)

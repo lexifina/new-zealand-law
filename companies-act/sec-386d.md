@@ -13,4 +13,4 @@
 (i) his or her full name; and
 (ii) the duration of his or her directorship of the failed company; and
 (iii) the extent of his or her involvement in the management of the failed company.
-Compare: Insolvency Rules 1986 (UK) rule 4.228
+Compare: Insolvency Rules 1986 rule 4.228 (UK)

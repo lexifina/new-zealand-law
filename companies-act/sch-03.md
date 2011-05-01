@@ -16,7 +16,7 @@ A meeting of the board may be held either—
 (1) A quorum for a meeting of the board is a majority of the directors.
 (2) No business may be transacted at a meeting of directors if a quorum is not present.
 5 Voting
-(1) Every director has one vote.
+(1) Every director has 1 vote.
 (2) The chairperson does not have a casting vote.
 (3) A resolution of the board is passed if it is agreed to by all directors present without dissent or if a majority of the votes cast on it are in favour of it.
 (4) A director present at a meeting of the board is presumed to have agreed to, and to have voted in favour of, a resolution of the board unless he or she expressly dissents from or votes against the resolution at the meeting.
@@ -27,4 +27,4 @@ The board must ensure that minutes are kept of all proceedings at meetings of th
 (2) Any such resolution may consist of several documents (including facsimile or other similar means of communication) in like form each signed or assented to by 1 or more directors.
 (3) A copy of any such resolution must be entered in the minute book of board proceedings.
 8 Other proceedings
-Except as provided in this Schedule, the board may regulate its own procedure.
+Except as provided in this schedule, the board may regulate its own procedure.

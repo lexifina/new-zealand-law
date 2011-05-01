@@ -3,7 +3,7 @@ s 124
 1 Chairperson
 (1) If the directors have elected a chairperson of the board, and the chairperson of the board is present at a meeting of shareholders, he or she must chair the meeting.
 (2) If no chairperson of the board has been elected or if, at any meeting of shareholders, the chairperson of the board is not present within 15 minutes of the time appointed for the commencement of the meeting, the shareholders present may choose one of their number to be chairperson of the meeting.
-(3) Subclauses (1) and (2) of this clause are subject to the constitution of the company.
+(3) Subclauses (1) and (2) are subject to the constitution of the company.
 2 Notice of meetings
 (1) Written notice of the time and place of a meeting of shareholders must be sent to every shareholder entitled to receive notice of the meeting and to every director and an auditor of the company not less than 10 working days before the meeting.
 (2) The notice must state—
@@ -18,17 +18,17 @@ A meeting of shareholders may be held either—
 (a) by a number of shareholders, who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
 (b) subject to the constitution of the company, by means of audio, or audio and visual, communication by which all shareholders participating and constituting a quorum, can simultaneously hear each other throughout the meeting.
 4 Quorum
-(1) Subject to subclause (3) of this clause, no business may be transacted at a meeting of shareholders if a quorum is not present.
+(1) Subject to subclause (3), no business may be transacted at a meeting of shareholders if a quorum is not present.
 (2) Subject to the constitution of the company, a quorum for a meeting of shareholders is present if shareholders or their proxies are present or have cast postal votes who are between them able to exercise a majority of the votes to be cast on the business to be transacted by the meeting.
 (3) If a quorum is not present within 30 minutes after the time appointed for the meeting,—
-(a) in the case of a meeting called under section 121(b) of this Act, the meeting is dissolved:
+(a) in the case of a meeting called under section 121(b), the meeting is dissolved:
 (b) in the case of any other meeting, the meeting is adjourned to the same day in the following week at the same time and place, or to such other date, time, and place as the directors may appoint, and, subject to the constitution of the company, if, at the adjourned meeting, a quorum is not present within 30 minutes after the time appointed for the meeting, the shareholders or their proxies present are a quorum.
 5 Voting
-(1) In the case of a meeting of shareholders held under clause 3(a) of this Schedule, unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
+(1) In the case of a meeting of shareholders held under clause 3(a), unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
 (a) voting by voice; or
 (b) voting by show of hands.
-(2) In the case of a meeting of shareholders held under clause 3(b) of this Schedule, unless a poll is demanded, voting at the meeting shall be by the shareholders signifying individually their assent or dissent by voice.
-(3) A declaration by the chairperson of the meeting that a resolution is carried by the requisite majority is conclusive evidence of that fact unless a poll is demanded in accordance with subclause (4) of this clause.
+(2) In the case of a meeting of shareholders held under clause 3(b), unless a poll is demanded, voting at the meeting shall be by the shareholders signifying individually their assent or dissent by voice.
+(3) A declaration by the chairperson of the meeting that a resolution is carried by the requisite majority is conclusive evidence of that fact unless a poll is demanded in accordance with subclause (4).
 (4) At a meeting of shareholders a poll may be demanded by—
 (a) not less than 5 shareholders having the right to vote at the meeting; or
 (b) a shareholder or shareholders representing not less than 10% of the total voting rights of all shareholders having the right to vote at the meeting; or
@@ -54,8 +54,8 @@ A meeting of shareholders may be held either—
 (b) in relation to each resolution to be voted on at the meeting, to count—
 (i) the number of shareholders voting in favour of the resolution and the number of votes cast by each shareholder in favour of the resolution; and
 (ii) the number of shareholders voting against the resolution, and the number of votes cast by each shareholder against the resolution; and
-(c) to sign a certificate that he or she has carried out the duties set out in paragraphs (a) and (b) of this subclause and which sets out the results of the counts required by paragraph (b) of this subclause; and
-(d) to ensure that the certificate required by paragraph (c) of this subclause is presented to the chairperson of the meeting.
+(c) to sign a certificate that he or she has carried out the duties set out in paragraphs (a) and (b) and which sets out the results of the counts required by paragraph (b); and
+(d) to ensure that the certificate required by paragraph (c) is presented to the chairperson of the meeting.
 (6) If a vote is taken at a meeting on a resolution on which postal votes have been cast, the chairperson of the meeting must—
 (a) on a vote by show of hands, count each shareholder who has submitted a postal vote for or against the resolution:
 (b) on a poll, count the votes cast by each shareholder who has submitted a postal vote for or against the resolution.
@@ -69,10 +69,10 @@ A meeting of shareholders may be held either—
 (2) If the notice is received by the board not less than 20 working days before the last day on which notice of the relevant meeting of shareholders is required to be given by the board, the board must, at the expense of the company, give notice of the shareholder proposal and the text of any proposed resolution to all shareholders entitled to receive notice of the meeting.
 (3) If the notice is received by the board not less than 5 working days and not more than 20 working days before the last day on which notice of the relevant meeting of shareholders is required to be given by the board, the board must, at the expense of the shareholder, give notice of the shareholder proposal and the text of any proposed resolution to all shareholders entitled to receive notice of the meeting.
 (4) If the notice is received by the board less than 5 working days before the last day on which notice of the relevant meeting of shareholders is required to be given by the board, the board must, if practicable, and at the expense of the shareholder, give notice of the shareholder proposal and the text of any proposed resolution to all shareholders entitled to receive notice of the meeting.
-(5) If the directors intend that shareholders may vote on the proposal by proxy or by postal vote, they must give the proposing shareholder the right to include in or with the notice given by the board a statement of not more than 1000 words prepared by the proposing shareholder in support of the proposal, together with the name and address of the proposing shareholder.
+(5) If the directors intend that shareholders may vote on the proposal by proxy or by postal vote, they must give the proposing shareholder the right to include in or with the notice given by the board a statement of not more than 1 000 words prepared by the proposing shareholder in support of the proposal, together with the name and address of the proposing shareholder.
 (6) The board is not required to include in or with the notice given by the board—
 (a) any part of a statement prepared by a shareholder that the directors consider to be defamatory (within the meaning of the Defamation Act 1992), frivolous, or vexatious; or
-(b) any part of a proposal or resolution prepared by a share-holder that the directors consider to be defamatory (within the meaning of the Defamation Act 1992).
+(b) any part of a proposal or resolution prepared by a shareholder that the directors consider to be defamatory (within the meaning of the Defamation Act 1992).
 (7) Where the costs of giving notice of the shareholder proposal and the text of any proposed resolution are required to be met by the proposing shareholder, the proposing shareholder must, on giving notice to the board, deposit with the company or tender to the company a sum sufficient to meet those costs.
 10 Corporations may act by representatives
 A body corporate which is a shareholder may appoint a representative to attend a meeting of shareholders on its behalf in the same manner as that in which it could appoint a proxy.
@@ -81,4 +81,4 @@ Where 2 or more persons are registered as the holder of a share, the vote of the
 12 Loss of voting right if calls unpaid
 Subject to the constitution of a company, if a sum due to a company in respect of a share has not been paid, that share may not be voted at a shareholder's meeting other than a meeting of an interest group.
 13 Other proceedings
-Except as provided in this Schedule, and subject to the constitution of the company, a meeting of shareholders may regulate its own procedure.
+Except as provided in this schedule, and subject to the constitution of the company, a meeting of shareholders may regulate its own procedure.

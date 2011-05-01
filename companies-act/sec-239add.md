@@ -1,10 +1,10 @@
-# 239ADD Termination by Court
-(1) The Court may terminate a deed of company arrangement on the application of—
+# 239ADD Termination by court
+(1) The court may terminate a deed of company arrangement on the application of—
 (a) the company; or
 (b) a creditor; or
 (c) the deed administrator; or
 (d) any other interested person.
-(2) The Court may terminate a deed of company arrangement if it is satisfied that—
+(2) The court may terminate a deed of company arrangement if it is satisfied that—
 (a) an information breach has occurred; or
 (b) there has been a material contravention of the deed by a person bound by it; or
 (c) effect cannot be given to the deed without injustice or undue delay; or
@@ -12,7 +12,7 @@
 (i) oppressive or unfairly prejudicial to, or unfairly discriminatory against, 1 or more of the creditors; or
 (ii) contrary to the interests of the company as a whole; or
 (e) the deed should be terminated for some other reason.
-(3) The Court must not terminate the deed without first taking into account the rights of third parties.
+(3) The court must not terminate the deed without first taking into account the rights of third parties.
 (4) In this section, an information breach has occurred if—
 (a) false or misleading information about the company's business, property, affairs, or financial circumstances—
 (i) was given to the administrator or the creditors; or

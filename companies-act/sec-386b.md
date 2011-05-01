@@ -6,6 +6,6 @@ phoenix company means, in relation to a failed company, a company that, at any t
 (a) a pre-liquidation name of the failed company; or
 (b) a similar name
 pre-liquidation name means any name (including any trading name) of a failed company in the 12 months before the commencement of that company's liquidation
-similar name means a name that is so similar to a preliquidation name of a failed company as to suggest an association with that company.
+similar name means a name that is so similar to a pre-liquidation name of a failed company as to suggest an association with that company.
 (2) For the purposes of sections 386A to 386F, a company is known by a name if that name is its registered name or if it carries on business, or carries on a part of its business, under that name.
-Compare: Insolvency Act 1986 (UK) s 216(6)
+Compare: Insolvency Act 1986 s 216(6) (UK)

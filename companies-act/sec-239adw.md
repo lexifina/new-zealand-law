@@ -1,5 +1,5 @@
 # 239ADW Administrator must give notice of appointment
-(1) An administrator appointed by the company under section 239I, by the liquidator or interim liquidator under section 239J, by a secured creditor under section 239K, by the Court under section 239L, or by the creditors under section 239R(2)(a) must,—
+(1) An administrator appointed by the company under section 239I, by the liquidator or interim liquidator under section 239J, by a secured creditor under section 239K, by the court under section 239L, or by the creditors under section 239R(2)(a) must,—
 (a) before the end of the next working day after appointment, lodge a notice of the appointment with the Registrar; and
 (b) not later than 3 working days after appointment, advertise the appointment in accordance with section 3(1)(b); and
 (c) as soon as practicable, and in any event not later than the end of the next working day after appointment, give written notice of the appointment to—

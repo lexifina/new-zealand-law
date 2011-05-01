@@ -4,7 +4,7 @@ s 312
 (1) The liquidator must first pay, in the order of priority in which they are listed,—
 (a) the fees and expenses properly incurred by the liquidator in carrying out the duties and exercising the powers of the liquidator, and the remuneration of the liquidator; and
 (b) the fees and expenses properly incurred by the administrator in carrying out the duties and exercising the powers of the administrator and the remuneration of the administrator; and
-(c) the reasonable costs of a person who applied to the Court for an order that the company be put into liquidation, including the reasonable costs incurred between lawyer and client in procuring the order; and
+(c) the reasonable costs of a person who applied to the court for an order that the company be put into liquidation, including the reasonable costs incurred between lawyer and client in procuring the order; and
 (d) the actual out-of-pocket expenses necessarily incurred by a liquidation committee; and
 (e) to any creditor who protects, preserves the value of, or recovers assets of the company for the benefit of the company's creditors by the payment of money or the giving of an indemnity,—
 (i) the amount received by the liquidator by the realisation of those assets, up to the value of that creditor's unsecured debt; and

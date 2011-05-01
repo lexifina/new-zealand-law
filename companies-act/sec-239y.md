@@ -4,5 +4,5 @@
 (a) the administrator expressly adopts the agreement in writing; or
 (b) subsection (3) applies.
 (3) The administrator is personally liable for payment of wages or salary that, during the administration of the company, accrue under a contract of employment with the company that was entered into before the administrator's appointment, unless the administrator has lawfully given notice of the termination of the contract within 14 days of appointment.
-(4) The Court may, on the administrator's application, extend the period of 14 days in subsection (3) within which notice of termination must be given, and may extend it on the terms and conditions, if any, that the Court thinks appropriate.
+(4) The court may, on the administrator's application, extend the period of 14 days in subsection (3) within which notice of termination must be given, and may extend it on the terms and conditions, if any, that the court thinks appropriate.
 (5) From the date of the appointment of the administrator, the duty of good faith set out in section 4 of the Employment Relations Act 2000 continues to apply between each employee of the company and his or her employer (who may be the administrator if the administrator has adopted the employment agreement under subsection (2)).

@@ -2,8 +2,8 @@
 (1) A transaction or dealing by a company in administration, or by a person on behalf of the company, that affects the company's property is void unless the transaction or dealing was entered into—
 (a) by the administrator, on the company's behalf; or
 (b) with the administrator's prior written consent; or
-(c) under an order of the Court.
-(2) The Court may validate a transaction or dealing that is void under subsection (1).
+(c) under an order of the court.
+(2) The court may validate a transaction or dealing that is void under subsection (1).
 (3) Subsection (1) does not apply to a payment made by a registered bank—
 (a) out of an account kept by the company with the bank; and
 (b) in good faith and in the ordinary course of the bank's banking business; and

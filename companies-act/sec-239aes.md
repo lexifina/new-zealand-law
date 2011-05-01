@@ -1,5 +1,5 @@
 # 239AES Notice that application filed must be given to administrators and creditors
-(1) Unless the Court orders otherwise, an applicant for an order under section 239AER must give notice that the application has been filed to—
+(1) Unless the court orders otherwise, an applicant for an order under section 239AER must give notice that the application has been filed to—
 (a) the administrator of each company in administration; and
 (b) each creditor of each company in administration.
 (2) The notice must—
