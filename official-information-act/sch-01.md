@@ -16,6 +16,7 @@ Deer Industry New Zealand
 Education Authorities (as defined in section 2(1) of the Education Act 1964)
 Electricity Corporation of New Zealand Limited
 Energy Efficiency and Conservation Authority
+Financial Markets Authority
 Fiordland Marine Guardians
 Fish and Game Councils
 Fisheries Authority
@@ -54,7 +55,6 @@ Remuneration Authority
 Representation Commission
 Reserve Bank of New Zealand
 Rugby World Cup Authority
-Securities Commission
 Sentencing Council
 Solid Energy New Zealand Limited
 Survey Board of New Zealand
