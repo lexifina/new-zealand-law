@@ -1,5 +1,5 @@
 # 20D Office holders to whom sections 20E to 20G apply
-(1) Sections 20F and 20G each applies to a person (the office holder) who holds 1 of the following offices (the office):
+(1) Sections 20F and 20G each applies to a person (the office holder) who holds one of the following offices (the office):
 (a) [Repealed]
 (b) [Repealed]
 (c) Director of Human Rights Proceedings:

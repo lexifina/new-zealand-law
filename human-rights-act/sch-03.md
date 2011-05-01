@@ -1,3 +1,3 @@
 # Schedule 3 Enactments repealed
-Section 146
+s 146
 [Repealed]

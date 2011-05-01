@@ -3,5 +3,5 @@
 (a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the complainant or, as the case may be, the aggrieved person for the purpose of, the transaction or activity out of which the breach arose:
 (b) loss of any benefit, whether or not of a monetary kind, that the complainant or, as the case may be, the aggrieved person might reasonably have been expected to obtain but for the breach:
 (c) humiliation, loss of dignity, and injury to the feelings of the complainant or, as the case may be, the aggrieved person.
-(2) This section applies subject to sections 92J, 92N, and 92O of this Act and to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
+(2) This section applies subject to sections 92J, 92N, and 92O and to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
 Compare: 1977 No 49 s 40(1)

@@ -1,5 +1,5 @@
-# Schedule 2 Administrative provisions applying in respect of office of human rights proceedings
-Section 20H(2)
+# Schedule 2 Administrative provisions applying in respect of Office of Human Rights Proceedings
+s 20H(2)
 1 Interpretation
 In this schedule, unless the context otherwise requires,—
 Director means the Director of Human Rights Proceedings, or alternate Director of Human Rights Proceedings, appointed under section 20A

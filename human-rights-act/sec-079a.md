@@ -1,5 +1,5 @@
 # 79A Choice of procedures
-(1) If the circumstances giving rise to a complaint under Part 2 are such that an employee would also be entitled to pursue a personal grievance under the Employment Relations Act 2000, the employee may take 1, but not both, of the following steps:
+(1) If the circumstances giving rise to a complaint under Part 2 are such that an employee would also be entitled to pursue a personal grievance under the Employment Relations Act 2000, the employee may take one, but not both, of the following steps:
 (a) the employee may make in relation to those circumstances a complaint under this Act:
 (b) the employee may, if the grievance is not otherwise resolved, apply to the Employment Relations Authority for the resolution of the grievance under the Employment Relations Act 2000.
 (2) To avoid doubt, a complaint referred to in subsection (1) includes, but is not limited to, a complaint about sexual harassment or racial harassment.

@@ -6,6 +6,6 @@
 (b) if damages do not fall within the terms of the property order, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust.
 (4) If money is paid to Public Trust under any of subsections (1) to (3),—
 (a) section 12 of the Minors' Contracts Act 1969 applies in the case of a minor who is not married or in a civil union; and
-(b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (2) or subsection (3)(b) of this section; and
-(c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (3)(a) of this section.
+(b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (2) or subsection (3)(b); and
+(c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (3)(a).
 Compare: 1977 No 49 s 40; 1983 No 56 s 14(2)
