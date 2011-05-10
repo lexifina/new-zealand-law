@@ -11,7 +11,7 @@
 (b) on a person who the court is satisfied—
 (i) did not own or have an interest in the motor vehicle at the material time; or
 (ii) is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender.
-(4) On any 1 occasion, a court may only order that 1 written caution is to be served on each recipient described in subsection (2), regardless of the number of convictions entered against the offender.
+(4) On any one occasion, a court may only order that 1 written caution is to be served on each recipient described in subsection (2), regardless of the number of convictions entered against the offender.
 (5) A written caution must provide the following information:
 (a) the name and identifying details of the offender:
 (b) the relevant convictions against the offender:
