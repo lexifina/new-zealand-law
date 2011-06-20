@@ -1,7 +1,7 @@
 # 5A Certain excluded long fixed-term tenancies remain subject to repealed sections of Property Law Act 1952
 (1) This section applies to a fixed-term tenancy of at least 5 years, and to which this Act does not apply because the tenancy—
 (a) commenced before 1 December 1996 and is one to which section 6 of this Act, as repealed by section 4(1) of the Residential Tenancies Amendment Act 1996, continues to apply in accordance with section 4(2) of that Amendment Act; or
-(b) commenced on or after 1 December 1996 and before 1 January 2008 (which is the date on which the Property Law Act 2007 came into force) and is one to which section 5(ba) of this Act applies.
+(b) commenced on or after 1 December 1996 and before 1 January 2008 (which is the date on which the Property Law Act 2007 came into force) and is one to which section 5(ba) applies.
 (2) The tenancy—
 (a) remains subject to sections 104A, 104B, 107B, and 116A to 116M (except section 116B(2)) of the Property Law Act 1952 (the specified sections of the 1952 Act), so far as those sections were applicable to the tenancy immediately before the commencement, on 1 January 2008, of the Property Law Act 2007, and as if those sections had not been repealed by that Act; and
 (b) is subject to subsections (3) to (6).
