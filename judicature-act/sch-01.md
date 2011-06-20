@@ -18,7 +18,7 @@ Mercantile Law Act 1880 (1880 No 12)
 Sections 4, 41, 45-51, and 81-83.
 Sheriffs Act 1883 (1883 No 5)
 Slander of Women Act 1898 (1898 No 16)
-Statute Law Amendment Act 1906 (1906, No 58)
+Statute Law Amendment Act 1906 (1906 No 58)
 Section 11.
 Supreme Court Act 1882 (1882 No 29)
 Except sections 33 and 34.

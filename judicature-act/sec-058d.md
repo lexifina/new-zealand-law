@@ -1,4 +1,4 @@
-# 58D Court of Appeal to Sit as full court in certain cases
+# 58D Court of Appeal to sit as full court in certain cases
 (1) Subject to subsection (3), a full court consists of 5 Judges.
 (2) Subject to section 58F, a full court is constituted only by Judges of the Court of Appeal holding office under section 57(2).
 (3) Where, pending the determination of any proceeding, 1 or more of the members of a full court before whom the proceeding is being heard or was heard—
