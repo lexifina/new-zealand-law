@@ -124,18 +124,18 @@ Compare: 1952 No 51 Schedule 4 cl 8
 (3) The mortgagor irrevocably appoints the mortgagee as the attorney of the mortgagor to execute documents and do things that may be reasonably necessary or incidental to the exercise of the powers conferred by subclauses (1) and (2).
 (4) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys, and the mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
 15 Unit titles
-(1) If the mortgage is of, or includes, any stratum estate under the Unit Titles Act 1972, the mortgagor will—
-(a) comply with all obligations of the mortgagor under the Unit Titles Act 1972 and the rules of the body corporate; and
-(b) duly and punctually pay to the body corporate all amounts payable by the mortgagor under the Unit Titles Act 1972 and the rules of the body corporate; and
-(c) arrange and maintain a mortgage redemption policy under section 39(1)(b) of the Unit Titles Act 1972 for an amount not less than all of the amounts from time to time secured by the mortgage; and
-(d) do all things reasonably necessary to enforce the obligations of the body corporate under the Unit Titles Act 1972 and the rules of the body corporate; and
+(1) If the mortgage is of, or includes, any stratum estate under the Unit Titles Act 2010, the mortgagor will—
+(a) comply with all obligations of the mortgagor under the Unit Titles Act 2010 and the rules of the body corporate; and
+(b) duly and punctually pay to the body corporate all amounts payable by the mortgagor under the Unit Titles Act 2010 and the rules of the body corporate; and
+(c) arrange and maintain a mortgage redemption policy under section 137(1)(b) of the Unit Titles Act 2010 for an amount not less than all of the amounts from time to time secured by the mortgage; and
+(d) do all things reasonably necessary to enforce the obligations of the body corporate under the Unit Titles Act 2010 and the rules of the body corporate; and
 (e) give the mortgagee any information relating to the affairs of the body corporate that the mortgagee reasonably requires.
 (2) The mortgagee may call up as payable all of the principal amount, interest, and other amounts for the time being secured by the mortgage (even if the time or times appointed for payment may not have arrived), in the same manner and subject to the same conditions as if the power to do so were conferred by clause 11, if either—
 (a) the principal unit is damaged or destroyed so that it is no longer habitable or usable; or
-(b) an administrator is appointed by the High Court under section 40 of the Unit Titles Act 1972.
-(3) The mortgagor's voting rights under the Unit Titles Act 1972 and the rules of the body corporate (whether at a meeting or by entry in the minute book) may be exercised by the mortgagee, at the expense of the mortgagor.
+(b) an administrator is appointed by the High Court under section 141 of the Unit Titles Act 2010.
+(3) The mortgagor's voting rights under the Unit Titles Act 2010 and the rules of the body corporate (whether at a meeting or by entry in the minute book) may be exercised by the mortgagee, at the expense of the mortgagor.
 (4) For the purposes of subclause (3), the mortgagor irrevocably appoints the mortgagee as the attorney of the mortgagor.
-(5) If any resolution put at a meeting of the body corporate requires a unanimous vote for its passing,—
+(5) If any resolution put at a meeting of the body corporate requires a special resolution for its passing,—
 (a) the mortgagor will not vote on it without the prior consent of the mortgagee; and
 (b) the mortgagor must vote on it only as directed by the mortgagee.
 (6) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys.
