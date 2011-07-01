@@ -1,7 +1,6 @@
 # Schedule 1 Organisations (additional to those named in Part 1 or Part 2 of Schedule 1 of the Ombudsmen Act 1975) to which this Act applies
 s 2(1)
 Abortion Supervisory Committee
-Accounting Standards Review Board
 Airport companies (as defined in section 2 of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in section 6 of the Local Government Act 2002)
 Airways Corporation of New Zealand Limited
 Alcohol Advisory Council of New Zealand
@@ -16,6 +15,7 @@ Deer Industry New Zealand
 Education Authorities (as defined in section 2(1) of the Education Act 1964)
 Electricity Corporation of New Zealand Limited
 Energy Efficiency and Conservation Authority
+External Reporting Board
 Financial Markets Authority
 Fiordland Marine Guardians
 Fish and Game Councils
