@@ -22,5 +22,7 @@
 (iii) borrower (as that term is defined in section 2 of the Student Loan Scheme Act 1992):
 (b) in the case of the Ministry of Transport, in relation to motor vehicle registration:
 (c) in the case of the New Zealand Transport Agency, in relation to driver licences:
-(d) in the case of the Department of Internal Affairs, in relation to persons who obtain New Zealand citizenship under the Citizenship Act 1977.
+(d) in the case of the Department of Internal Affairs, in relation to any persons—
+(i) who obtain New Zealand citizenship under the Citizenship Act 1977; or
+(ii) by whom, or on whose behalf, an application is made under the Passports Act 1992 for the issue or renewal of a New Zealand passport.
 (5) If, in relation to any person, information is supplied to the Chief Registrar under subsection (4), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.

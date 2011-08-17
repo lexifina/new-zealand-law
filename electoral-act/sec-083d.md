@@ -12,4 +12,4 @@
 (b) the new Registrar must, as if the form were an application for registration, register that elector, in accordance with section 87, on the roll for the district in which the elector resides; and
 (c) the form is deemed to be an application for registration for the purposes of section 82; and
 (d) the old Registrar must, in accordance with section 98(1)(a), remove from his or her roll the name of the elector.
-(7) Nothing in this section applies if a form is returned under section 83A(1).
+(7) Nothing in this section applies if the Registrar under section 83A(1) receives a form or information supplied electronically under section 83A(3) in which an elector notifies the Registrar that the elector has changed his or her place of residence and now resides in another electoral district.

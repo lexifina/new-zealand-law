@@ -1,7 +1,7 @@
 # 206L Auditor's report on return of party's election expenses
 (1) A party secretary must, before the Electoral Commission receives the return required by section 206I, obtain from the auditor appointed under section 206J a report on the return.
 (2) The auditor must state in the report—
-(a) the position shown by the return in respect of the requirement that the party's total election expenses not exceed the maximum amount prescribed by section 206B; and
+(a) the position shown by the return in respect of the requirement that the party's total election expenses not exceed the maximum amount prescribed by section 206C; and
 (b) either—
 (i) whether, in the auditor's opinion, the position stated under paragraph (a) is correct; or
 (ii) that the auditor has been unable to form an opinion as to whether the position stated under paragraph (a) is correct.

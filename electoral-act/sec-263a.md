@@ -12,14 +12,16 @@ immigration information, in relation to any person, means—
 (v) the expiry date of any visa held by the person
 responsible department means the department of State that is, with the authority of the Prime Minister, responsible for the administration of the Immigration Act 2009.
 (2) The purpose of this section is to facilitate the disclosure of information from the responsible department to the Chief Registrar for the purposes of—
-(a) verifying, for the purposes of this Act, that any person registered as an elector of an electoral district is qualified to be registered as an elector of that electoral district:
-(b) verifying that a person registered as an elector is a person who the chief executive of the responsible department believes to be either—
+(a) verifying, for the purposes of this Act, that any person who is, or has applied to be, registered as an elector of an electoral district is qualified to be registered as an elector of that electoral district:
+(b) verifying that a person who is, or has applied to be, registered as an elector is a person who the chief executive of the responsible department believes to be either—
 (i) a person who is unlawfully in New Zealand; or
 (ii) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
 (3) For the purposes of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may, at the request of the Chief Registrar, supply to the Chief Registrar any immigration information held by that department.
 (4) If, in relation to any person, immigration information is supplied to the Chief Registrar pursuant to subsection (3), the Chief Registrar may cause a comparison of that information to be made with any information that is held by the Chief Registrar and that relates to that person.
-(5) If the result of a comparison carried out pursuant to subsection (4) indicates that any person on the electoral roll is—
+(5) If the result of a comparison carried out pursuant to subsection (4) indicates that any person who has applied to be (but is not yet) registered as an elector, or who is on the electoral roll, is—
 (a) a person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
 (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,—
-the Chief Registrar must advise the Registrar of the electoral district in which that person is registered as an elector accordingly.
-(6) Where any Registrar receives advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must, under section 96, object to the name of that person being on the roll for the district.
+the Chief Registrar must advise the Registrar of the electoral district in which that person is, or has applied to be, registered as an elector accordingly.
+(6) After receiving advice from the Chief Registrar under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must,—
+(a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87A; or
+(b) if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.

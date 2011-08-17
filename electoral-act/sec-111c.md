@@ -2,7 +2,7 @@
 (1) The Chief Registrar may seek the consent of any Maori elector to the supply by the Chief Registrar from time to time of the particulars described in subsection (2) to the designated body for the purpose of establishing and maintaining a register or registers of iwi affiliations.
 (2) The particulars referred to in subsection (1) are—
 (a) the elector's name, including first names, surname, and preferred honorific (if any):
-(b) the elector's postal address:
+(b) the elector's postal address, email address (if any), and contact telephone numbers (if any):
 (c) the elector's date of birth:
 (d) any randomly generated number assigned to that elector by the Chief Registrar.
 (3) The Chief Registrar may ask a Maori elector—

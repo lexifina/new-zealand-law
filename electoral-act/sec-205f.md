@@ -1,5 +1,5 @@
 # 205F Offence to pay election expenses in excess of prescribed maximum
-(1) This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of either of the maximum amounts prescribed by section 205B.
+(1) This section applies to any candidate or other person who directly or indirectly pays or knowingly aids or abets any person in paying for or on account of any election expenses any sum in excess of either of the maximum amounts prescribed by section 205C.
 (2) The candidate or other person is guilty of—
 (a) a corrupt practice if he or she knew the payment was in excess of the prescribed maximum amount; or
 (b) an illegal practice in any other case, unless he or she proves that he or she took all reasonable steps to ensure that the election expenses did not exceed the prescribed maximum amount.
