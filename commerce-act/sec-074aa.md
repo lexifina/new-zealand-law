@@ -1,4 +1,4 @@
-# 74AA Cease and Desist Commissioners
+# 74AA Cease and desist Commissioners
 (1) The Governor-General, on the recommendation of the Minister (which recommendation may be given only after consultation by the Minister with the Attorney-General), must appoint 2 persons as Commissioners for the sole purpose of hearing cease and desist applications in accordance with sections 74A to 74C.
 (2) The Minister may not recommend a person for appointment as a Commissioner unless that person—
 (a) is a barrister or solicitor; and

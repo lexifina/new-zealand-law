@@ -5,7 +5,7 @@
 (a) the prices that applied at the end of the preceding regulatory period; or
 (b) prices, determined by the Commission, that are based on the current and projected profitability of each supplier.
 (4) Starting prices set in accordance with subsection (3)(b) must not seek to recover any excessive profits made during any earlier period.
-(5) Subject to subsection (8), the Commission must set only one rate of change per type of regulated goods or services (for example, if the rate of change (x) is 1% in a CPI−x path, 1% must be the rate for all goods or services of that type).
+(5) Subject to subsection (8), the Commission must set only 1 rate of change per type of regulated goods or services (for example, if the rate of change (x) is 1% in a CPI−x path, 1% must be the rate for all goods or services of that type).
 (6) The rate of change must be based on the long-run average productivity improvement rate achieved by either or both of suppliers in New Zealand, and suppliers in other comparable countries, of the relevant goods or services, using whatever measures of productivity the Commission considers appropriate.
 (7) When setting the rate of change, the Commission may take into account the effects of inflation on the inputs of suppliers of the relevant goods or services.
 (8) The Commission may set alternative rates of change for a particular supplier—

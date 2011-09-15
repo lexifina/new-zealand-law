@@ -1,3 +1,3 @@
 # Schedule 1 Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
-Section 50
+s 50
 [Repealed]

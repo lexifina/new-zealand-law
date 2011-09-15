@@ -12,4 +12,3 @@
 (a) a statutory intellectual property right, within the meaning of section 45(2), in New Zealand:
 (b) a statutory intellectual property right in Australia.
 (5) For the purposes of this section, a reference to a person includes 2 or more persons that are interconnected.
-Compare: Trade Practices Act (Aust), s 46

@@ -3,4 +3,4 @@ For the purpose of monitoring compliance with a price-quality path (whether a de
 (a) a written statement that states whether or not the supplier has complied with the price-quality path applying to that supplier:
 (b) a report on the written statement referred to in paragraph (a) that is signed by an auditor in accordance with any form specified by the Commission:
 (c) sufficient information to enable the Commission to properly determine whether all applicable price-quality paths have been complied with:
-(d) a certificate, in the form specified by the Commission and signed by at least one director of the supplier, confirming the truth and accuracy of any information provided under this section.
+(d) a certificate, in the form specified by the Commission and signed by at least 1 director of the supplier, confirming the truth and accuracy of any information provided under this section.
