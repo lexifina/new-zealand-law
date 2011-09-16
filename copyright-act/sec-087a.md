@@ -1,0 +1,16 @@
+# 87A Free public playing or showing of communication work that is simultaneous with reception
+(1) This section applies to the playing or showing of a communication work that—
+(a) is made for reception in the area in which it is played or shown; and
+(b) is not a communication work for which a subscription fee must be paid in order to receive it; and
+(c) is played or shown simultaneously upon reception of the communication work.
+(2) The free public playing or showing of a communication work to which this section applies does not infringe any copyright in—
+(a) the communication work; or
+(b) any sound recording or film that is played or shown in public by reception of the communication work.
+(3) For the purposes of this section, the public playing or showing of a communication work is not free if—
+(a) the audience has paid for admission to the place where the communication work is played or shown (which in this section is called the venue), including any place of which the venue is a part; or
+(b) goods or services are supplied at the venue or a place of which it forms part at prices that—
+(i) are substantially attributable to the facilities afforded for hearing or seeing the communication work; or
+(ii) exceed those usually charged there and that are partly attributable to those facilities.
+(4) For the purposes of subsection (3)(a), the following persons must not be treated as having paid for admission to the venue:
+(a) a person admitted as a resident or an inmate of a place (including a person residing in a hotel, motel, camping ground, or any other place that admits persons for a fee for the purpose of temporary accommodation):
+(b) a person admitted as a member of a club or society where the payment is only for membership of the club or society and the provision of facilities for hearing or seeing communication works is only incidental to the main purposes of the club or society.
