@@ -2,7 +2,7 @@
 (1) A board of inquiry considering a matter must—
 (a) have regard to the Minister's reasons for making a direction in relation to the matter; and
 (b) consider any information provided to it by the EPA under section 149G; and
-(c) act in accordance with subsection (2), (3), (4), (5), (6), or (7), as the case may be.
+(c) act in accordance with subsection (2), (3), (4), (5), (6), (7), (8), or (9) as the case may be.
 (2) A board of inquiry considering a matter that is an application for a resource consent must apply sections 104 to 112 and 138A as if it were a consent authority.
 (3) A board of inquiry considering a matter that is an application for a change to or cancellation of the conditions of a resource consent must apply sections 104 to 112 as if—
 (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
@@ -28,3 +28,8 @@
 (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
 (b) may exercise the powers under section 293 as if it were the Environment Court; and
 (c) must apply sections 74 to 77D as if it were a territorial authority.
+(8) A board of inquiry considering a plan change request and its concurrent application made under subpart 4 of Part 7A must—
+(a) firstly, determine matters in relation to the plan change request; and
+(b) secondly, determine matters in relation to the concurrent application, based on its determination of matters in relation to the plan change request.
+(9) For the purposes of subsection (8)(b), a board of inquiry must process, consider, and determine the concurrent application as if it were a regional council acting under section 165ZW and that section applies accordingly with all necessary modifications.
+(10) A board of inquiry must decline a concurrent application if, as a result of the board's determination on the plan change request, the aquaculture activity that the concurrent application relates to remains a prohibited activity.

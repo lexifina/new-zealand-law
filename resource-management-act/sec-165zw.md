@@ -1,0 +1,3 @@
+# 165ZW Type of activity in relation to concurrent activities
+(1) After a plan change request has been accepted and publicly notified, the regional council must process the concurrent application that the plan change request relates to on the basis that the activities for which the application is made are non-complying activities.
+(2) The concurrent application must be considered and determined on the basis that the activities for which the application is made are controlled activities, restricted discretionary activities, discretionary activities, or non-complying activities in accordance with the regional council's decision on the plan change request that the concurrent application relates to.

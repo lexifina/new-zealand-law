@@ -15,6 +15,7 @@
 (5) If an activity is described in this Act, regulations (including a national environmental standard), a plan, or a proposed plan as a non-complying activity, a resource consent is required for the activity and the consent authority may—
 (a) decline the consent; or
 (b) grant the consent, with or without conditions, but only if the consent authority is satisfied that the requirements of section 104D are met and the activity must comply with the requirements, conditions, and permissions, if any, specified in the Act, regulations, plan, or proposed plan.
-(6) If an activity is described in this Act, regulations (including a national environmental standard), a plan, or a proposed plan as a prohibited activity,—
+(6) If an activity is described in this Act, regulations (including a national environmental standard), or a plan as a prohibited activity,—
 (a) no application for a resource consent may be made for the activity; and
 (b) the consent authority must not grant a consent for it.
+(7) However, subsection (6) does not apply to a concurrent application lodged under subpart 4 of Part 7A.

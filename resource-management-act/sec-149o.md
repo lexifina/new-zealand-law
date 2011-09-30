@@ -7,7 +7,9 @@
 (d) that submissions on the proposed plan or change may be made by any person to the EPA; and
 (e) the closing date for receiving submissions; and
 (f) the address for service of the EPA and the applicant.
-(3) Any person may make a submission on a proposed plan or change for which public notice is given under subsection (2) and, for that purpose, section 149E(3), (4), and (8) apply.
+(3) Any person may make a submission on—
+(a) a proposed plan or change for which public notice is given under subsection (2), and, for that purpose, section 149E(3), (4), and (8) apply:
+(b) a concurrent application for which public notice is given under subsection (2), and, for that purpose, section 149E(5) applies.
 (4) However, the closing date for making a submission under subsection (3) is 20 working days after the day on which public notice of the proposed plan or change is given under subsection (2).
 (5) On receiving a copy of the proposed plan or change, the EPA must also provide the board of inquiry with a copy of the proposed plan or change.
 (6) When the EPA gives public notice under subsection (2), it must also serve a copy of the notice on—

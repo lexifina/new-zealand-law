@@ -1,7 +1,11 @@
-# 165ZF Allocation of authorisations from privately initiated changes
-(1) This section applies if an aquaculture management area has been included in a regional coastal plan or proposed regional coastal plan as a result of a request for a change made in response to an invitation under section 165Z(1).
-(2) The regional council must comply with section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004 before allocating any other authorisations in the aquaculture management area.
-(3) As soon as practicable after complying with subsection (2), the regional council must—
-(a) allocate authorisations for the remaining space to the person who requested the change in response to an invitation under section 165Z(1); and
-(b) publicly notify the allocation.
-(4) To avoid doubt, section 165J(1), (3), and (5) to (9) and sections 165K to 165O apply to available space in an aquaculture management area established as a result of a request made in response to an invitation under section 165Z(1).
+# 165ZF Regional council may request direction to process and hear together applications for permits to occupy common marine and coastal area for purpose of aquaculture activities
+(1) This section applies if, in a regional council's opinion,—
+(a) processing and hearing together applications for coastal permits to occupy space in a common marine and coastal area for the purpose of aquaculture activities would be more efficient and would enable better assessment and management of cumulative effects of the permits; and
+(b) a regional coastal plan or proposed regional council plan does not provide adequately for efficient processing and assessment and management of the cumulative effects of permits to occupy the common marine and coastal area for the purpose of the aquaculture activities.
+(2) The regional council may request the Minister of Aquaculture to direct the regional council to process and hear together applications for coastal permits to occupy the space for the purpose of aquaculture activities.
+(3) A request under subsection (2) must—
+(a) specify—
+(i) the space in the common marine and coastal area it is proposed the direction will apply to; and
+(ii) the aquaculture activities that it is proposed the direction will apply to; and
+(iii) the applications or classes of applications it is proposed that the direction will apply to; and
+(b) be accompanied by information about why it would be more efficient and would enable better assessment and management of the cumulative effects of coastal permits to occupy the common marine and coastal area for the purposes of aquaculture activities if the direction were made.

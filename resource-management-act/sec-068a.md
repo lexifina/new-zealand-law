@@ -1,2 +1,5 @@
-# 68A Aquaculture activities
-[Repealed]
+# 68A Regional coastal plan not to authorise aquaculture activities in coastal marine area as permitted activities
+(1) Despite section 68, after the commencement of section 17 of the Resource Management Amendment Act (No 2) 2011 no rule may be included in a regional coastal plan which authorises as a permitted activity any aquaculture activity in the coastal marine area.
+(2) If, immediately before the commencement of section 17 of the Resource Management Amendment Act (No 2) 2011, a regional coastal plan contains a rule that authorises as a permitted activity any part of an aquaculture activity in the coastal marine area—
+(a) any person may act, or continue to act, in accordance with the rule until any alteration of the rule has legal effect; but
+(b) a regional council must, as soon as is reasonably practicable and not later than 2 years after the commencement of section 17 of the Resource Management Amendment Act (No 2) 2011, initiate a review of the rule under section 79 and propose to alter any provisions necessary to ensure compliance with subsection (1), in the manner set out in Part 1 of Schedule 1 and this Part.

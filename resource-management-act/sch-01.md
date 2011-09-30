@@ -349,7 +349,9 @@ whichever is the latest, decide under which of subclauses (2), (3), and (4), or 
 (3) The local authority may decide to deal with the request as if it were an application for a resource consent and the provisions of Part 6 shall apply accordingly.
 (4) The local authority may reject the request in whole or in part, but only on the grounds that—
 (a) the request or part of the request is frivolous or vexatious; or
-(b) the substance of the request or part of the request has been considered and given effect to or rejected by the local authority or Environment Court within the last 2 years; or
+(b) within the last 2 years, the substance of the request or part of the request—
+(i) has been considered and given effect to, or rejected by, the local authority or the Environment Court; or
+(ii) has been given effect to by regulations made under section 360A; or
 (c) the request or part of the request is not in accordance with sound resource management practice; or
 (d) the request or part of the request would make the policy statement or plan inconsistent with Part 5; or
 (e) in the case of a proposed change to a policy statement or plan, the policy statement or plan has been operative for less than 2 years.

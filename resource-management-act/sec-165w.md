@@ -1,4 +1,11 @@
-# 165W Excluded areas
-(1) A regional council may, by public notice, identify areas in the coastal marine area in its region as excluded areas.
-(2) Before identifying an excluded area, the regional council must comply with the consultative requirements in clauses 3 to 3B of Schedule 1, and those clauses apply, with all necessary modifications, as if a proposal to identify an excluded area were a proposed plan.
-(3) To avoid doubt, any consultation under subsection (2) does not constitute a request for an aquaculture decision under section 186D of the Fisheries Act 1996.
+# 165W Preferential rights of iwi
+(1) In conducting a tender of authorisations under this Part, a regional council must give effect to any preferential right to purchase a proportion of the authorisations.
+(2) Subsection (1) applies to preferential rights conferred by—
+(a) section 316 of the Ngāi Tahu Claims Settlement Act 1998:
+(b) section 119 of the Ngati Ruanui Claims Settlement Act 2003:
+(c) section 79 of the Ngati Tama Claims Settlement Act 2003:
+(d) section 106 of the Ngaa Rauru Kiitahi Claims Settlement Act 2005:
+(e) section 118 of the Ngāti Awa Claims Settlement Act 2005:
+(f) section 92 of the Ngāti Mutunga Claims Settlement Act 2006.
+(3) For the purposes of subsection (1), provisions in the Acts referred to in subsection (2) relating to a preferential right that contain references to the Minister of Conservation or Part 7 of this Act apply as if the references were to the regional council and relevant provisions of this Part.
+Compare: 1991 No 69 s 165R

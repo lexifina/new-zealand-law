@@ -1,3 +1,4 @@
 # 149I Limitation on withdrawal of change or variation
 (1) A local authority may withdraw a change that was notified under clause 5 of Schedule 1, or a variation to a proposed plan, for which the Minister has made a direction under section 142(2) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
 (2) An applicant may withdraw the applicant's request for a proposed regional plan, or request for a change to a plan, for which the Minister has made a direction under section 142(2) or 147(1)(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
+(3) If the applicant withdraws a request for a change to the plan that is a plan change request made under subpart 4 of Part 7A, the concurrent application that relates to the plan change request is to be treated as having been withdrawn.

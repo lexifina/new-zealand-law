@@ -2,7 +2,7 @@
 (1) There is a right of objection to a consent authority,—
 (a) in respect of a decision of that authority, for any person who has made an application under—
 (i) section 124(2) (which relates to the exercise of a resource consent while applying for a new resource consent):
-(ii) section 125(1)(b) (which relates to the lapsing of consents):
+(ii) section 125(1A)(b) (which relates to the lapsing of consents):
 (iii) section 126(2)(b) (which relates to the cancellation of consents):
 (iv) section 139 (which relates to certificates of compliance):
 (v) section 139A (which relates to existing use certificates):

@@ -1,2 +1,2 @@
-# 165B Power of consent authorities to refuse to receive applications for coastal permits
-For the purposes of this subpart, a consent authority may refuse to receive an application for a coastal permit for activities within 1 year after a consent authority has refused to grant an application for a permit for an activity of the same or a similar type in respect of the same space or in respect of space in close proximity to the space concerned.
+# 165B Relationship of Part with rest of Act
+The provisions of this Act that relate to applications for, and the granting of, resource consents apply to applications for, and the granting of, coastal permits to occupy space in the common marine and coastal area subject to the provisions of this Part.

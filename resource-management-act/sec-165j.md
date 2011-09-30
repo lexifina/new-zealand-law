@@ -1,12 +1,10 @@
-# 165J Allocation of space in aquaculture management area for aquaculture activities subject to reservation relating to commercial fishing
-(1) This section applies to an aquaculture management area to the extent that the area is subject to a reservation relating to commercial fishing.
-(2) A regional council must not allocate authorisations relating to aquaculture activities in an area subject to a reservation, except to a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act relating to the area.
-(3) No person may apply for or be granted a coastal permit to occupy space for aquaculture activities in an aquaculture management area that is subject to a reservation in relation to commercial fishing, except a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act.
-(4) Before allocating an authorisation referred to in subsection (2), the regional council must have received advice from the chief executive that—
-(a) the time for registering aquaculture agreements has expired; and
-(b) at least 1 aquaculture agreement has been registered.
-(5) If a coastal permit is granted for the area that is subject to the reservation, the regional council must delete from the regional coastal plan the reservation in relation to the area to which the coastal permit relates.
-(6) If the chief executive advises the regional council that no aquaculture agreement has been registered in respect of the area or part of the area, the regional council must amend its regional coastal plan by deleting the area or part of the area from the aquaculture management area.
-(7) If an authorisation lapses under section 165N and the holder of the authorisation does not hold a coastal permit granted under it, the regional council must amend its regional coastal plan by deleting the area from the aquaculture management area.
-(8) Schedule 1 and Schedule 1A do not apply to an amendment made under any of subsections (5), (6), or (7).
-(9) This section applies subject to section 14 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+# 165J When applications not to be made unless applicant holds authorisation in accordance with plan
+(1) Subsection (2) applies to space in the common marine and coastal area if a regional coastal plan or a rule in a proposed regional coastal plan that has legal effect provides for public tendering or another method of allocating authorisations in relation to an activity in the space.
+(2) A person must not apply for a coastal permit authorising occupation of the space for the activity unless the person is the holder of—
+(a) an authorisation that relates to the space and activity; or
+(b) a coastal permit granted under an authorisation that related to the occupation of that space and the application is for an activity that was within the scope of the authorisation.
+(3) Subsection (2) does not affect any applications received by the regional council before the regional coastal plan became operative or the rule in a proposed regional coastal plan had legal effect.
+(4) Subsection (2) does not affect any application referred to in section 165ZH that is received by the regional council—
+(a) after a rule in a proposed regional coastal plan has legal effect; but
+(b) before the rule becomes operative.
+Compare: 1991 No 69 s 165K

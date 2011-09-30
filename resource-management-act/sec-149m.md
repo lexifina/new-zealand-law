@@ -17,4 +17,7 @@
 (ii) apply section 149P(6) or (7), as the case may be; and
 (iii) produce a draft report on the proposed plan or change under section 149Q; and
 (iv) produce a final report on the proposed plan or change under section 149R.
+(4A) For the purposes of subsection (4)(c), in the case of a plan change request made under subpart 4 of Part 7A, the concurrent application—
+(a) must be included in the public notice and invitation to make submissions; but
+(b) must not be included in the invitation to make further submissions.
 (5) If the board rejects the request, the board must serve notice of its decision on the applicant and the local authority.

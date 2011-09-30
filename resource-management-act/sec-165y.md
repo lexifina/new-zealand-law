@@ -1,2 +1,3 @@
-# 165Y Request for change may be made only in response to regional council seeking requests
-A person may not make a request for change under this subpart except in response to a regional council seeking requests under section 165Z.
+# 165Y Grant of authorisation
+If the regional council accepts an offer or reaches an agreement with a person who made an offer under section 165X, the regional council must grant an authorisation to the person concerned.
+Compare: 1991 No 69 s 165T

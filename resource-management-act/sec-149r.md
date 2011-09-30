@@ -24,3 +24,4 @@
 (g) if the matter to which the report relates is a notice of requirement, the landowners and occupiers directly affected by the decision.
 (5) The EPA must publish the board's report and give public notice of where and how copies of it can be obtained.
 (6) Nothing in section 37(1) applies to the time periods or the requirements in this section that apply to a board.
+(7) The EPA's functions under this section are in addition to the EPA's functions under section 114(7)(a).

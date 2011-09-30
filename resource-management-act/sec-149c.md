@@ -7,7 +7,8 @@
 (iii) has made a decision to adopt the request, but has not yet notified the proposed plan or change under clause 5 of Schedule 1; or
 (b) the matter is a request for the preparation of a regional plan, or a request for a change to a plan, lodged with the EPA under section 145; or
 (c) the Minister instructs that the giving of public notice be delayed under section 149D; or
-(d) the Minister decides under section 149ZC that the application or notice to which the direction relates is not to be publicly notified.
+(d) the Minister decides under section 149ZC that the application or notice to which the direction relates is not to be publicly notified; or
+(e) the matter is a concurrent application made under subpart 4 of Part 7A.
 (3) A notice under subsection (1) must—
 (a) state the Minister's reasons for making the direction; and
 (b) describe the matter to which the direction applies; and

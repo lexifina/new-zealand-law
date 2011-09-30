@@ -19,3 +19,4 @@
 (7) If considering a matter that is an application for a change to or cancellation of conditions of a resource consent, the court must apply sections 104 to 112 as if—
 (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
 (b) every reference to a resource consent and to the effects of the activity were, respectively, a reference to the change or cancellation of a condition and the effects of the change or cancellation.
+(8) However, in the case of an application for a coastal permit for aquaculture activities, for the purposes of section 107F(3)(b) or (c), the consent authority must obtain from the Environment Court any additional information, reports, or submissions not previously forwarded or sent under that section and forward or send the information, report, and submissions to the chief executive of the Ministry of Fisheries.
