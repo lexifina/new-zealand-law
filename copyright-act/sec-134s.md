@@ -1,0 +1,5 @@
+# 134S Further extension to, or dispensation from, obligation to comply with certain provisions
+(1) A person who has obtained an order under section 134R(3) may, before the expiry of that order, apply to a District Court Judge for a further order for postponement of, or dispensation from, the obligation to comply with section 134P(4) or (5) or 134Q on the grounds set out in section 134R(1).
+(2) An application for a further postponement may only be made on 1 occasion.
+(3) On an application under subsection (1), the District Court Judge may postpone for a further specified period not exceeding 12 months, or order a permanent dispensation from, the obligation to comply with section 134P(4) or (5) or 134Q, if the Judge is satisfied on either ground set out in section 134R(1).
+(4) A District Court Judge may not grant, under subsection (3), any postponement of, or dispensation from, an obligation in respect of any thing that has been seized, unless the thing seized is a copy of any information taken or made.
