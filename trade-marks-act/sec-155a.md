@@ -1,0 +1,3 @@
+# 155A Customs officer may seize goods in control of Customs
+(1) A Customs officer may seize any imported goods that are in the control of the Customs if the officer has reasonable cause to believe that they are evidence of, or of significant relevance to the investigation of, an offence under section 124(a).
+(2) The provisions of sections 134T to 134W apply with all necessary modifications in respect of any imported goods seized under this section, and in applying those provisions every reference to the chief executive must be read as a reference to the chief executive of the New Zealand Customs Service.
