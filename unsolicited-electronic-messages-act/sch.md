@@ -4,8 +4,8 @@ s 5
 The following messages are not electronic messages for the purposes of this Act:
 (a) voice calls made using—
 (i) a standard telephone service; or
-(ii) voice-over internet protocol (IP):
-(b) facsimiles.
+(ii) voice-over Internet protocol (IP).
+(b) [Repealed]
 2 Definition
 In this Schedule, voice call means, whether or not a recipient responds by way of pressing buttons on a telephone handset, a keyboard, or similar thing,—
 (a) a voice call within the ordinary meaning of that expression; or
