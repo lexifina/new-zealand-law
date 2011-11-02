@@ -6288,6 +6288,7 @@ Applications to the court under the following enactments must be made by origina
 (l) sections 132, 133, 140, 143, 145, 145A, 148, and 217 of the Land Transfer Act 1952:
 (m) sections 30, 37, 52, 166, 180, and 182 of the Lawyers and Conveyancers Act 2006:
 (n) section 9A(3) of the Law Reform Act 1936:
+(na) sections 100 and 111 of the Marine and Coastal Area (Takutai Moana) Act 2011:
 (o) section 12(1)(a) of the Minors' Contracts Act 1969:
 (p) section 41 of the Patents Act 1953 (subject to Part 22 of these rules):
 (q) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
