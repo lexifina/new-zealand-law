@@ -1,0 +1,3 @@
+# 28D Application for parenting order under Care of Children Act 2004 must be made
+(1) Where 1 or more interim orders have been made under section 28B, a party in whose favour an order has been made must as soon as possible (if that party has not already done so) make an application under the Care of Children Act 2004 for a parenting order.
+(2) For the purposes of section 16(1) of the Legal Services Act 2000, proceedings that relate to, or arise out of, an application for a protection order under Part 2 of the Domestic Violence Act 1995 include proceedings commenced pursuant to an application referred to in subsection (1).
