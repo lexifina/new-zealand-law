@@ -370,52 +370,58 @@ Subpart 8—Negotiations for settlement
 Subpart 9—Interim relief in respect of overseas proceedings
 7.81 Interim relief in support of overseas proceedings
 Part 8
-Interrogatories, discovery, and inspection
-Subpart 1—Interrogatories
-8.1 Interrogatories by notice
-8.2 Duties of party served
-8.3 Limitation of interrogatories by notice
-8.4 Multiple parties
-8.5 Order to answer
-8.6 Contents of statement
-8.7 Objection to answer
-8.8 Who may swear affidavit verifying statement in answer to interrogatories
-8.9 Insufficient answer
-8.10 Incorrect answer to be amended
-8.11 Answers as evidence
-8.12 Public interest
-8.13 Defamation proceedings
-Subpart 2—Notice to admit facts
-8.14 Notice to admit facts
-8.15 Judgment on admission of facts
-Subpart 3—Discovery
-8.16 Contents of discovery order
-8.17 Discovery orders to be made at case management conferences
-8.18 Default terms of discovery order
-8.19 Solicitor's obligations on discovery
-8.20 Affidavit of documents
-8.21 Schedule appended to affidavit of documents
-8.22 Variation of discovery order
-8.23 Inspection of document referred to in pleading or other document
-8.24 Order for particular discovery against party after proceeding commenced
-8.25 Order to discover particular documents before proceeding commenced
-8.26 Order for particular discovery against non-party after proceeding commenced
-8.27 Expenses
-8.28 Incorrect affidavit of documents to be amended
-8.29 Where process impeded by discovery of irrelevant documents
-8.30 Who may swear affidavit of documents
-8.31 Challenge to privilege or confidentiality claim
-8.32 Crown documents and public interest
-8.33 Inspection of documents
-8.34 Order facilitating inspection
-8.35 Cost of production by non-party
-8.36 Right to make copies
-8.37 Effect of failure to include document
-8.38 Admission of documents discovered
-8.39 Notice to produce documents or things
-8.40 Notice to admit authenticity of documents
-8.41 Restricted effect of admission
-8.42 Contempt of court
+Discovery and inspection and interrogatories
+Subpart 1—Discovery and inspection
+8.1 Interpretation
+8.2 Co-operation
+8.3 Preservation of documents
+8.4 Initial disclosure
+8.5 Discovery orders to be made at case management conferences
+8.6 Two kinds of discovery
+8.7 Standard discovery
+8.8 Tailored discovery
+8.9 Presumption as to tailored discovery
+8.10 Obligation of party ordered to make tailored discovery
+8.11 Preparation for first case management conference
+8.12 Orders that may be made
+8.13 Solicitor's discovery obligations
+8.14 Extent of search
+8.15 Affidavit of documents
+8.16 Schedule appended to affidavit of documents
+8.17 Variation of discovery order
+8.18 Continuing obligations
+8.19 Order for particular discovery against party after proceeding commenced
+8.20 Order for particular discovery before proceeding commenced
+8.21 Order for particular discovery against non-party after proceeding commenced
+8.22 Costs of discovery
+8.23 Incorrect affidavit of documents to be amended
+8.24 Who may swear affidavit of documents
+8.25 Challenge to privilege or confidentiality claim
+8.26 Crown documents and public interest
+8.27 Inspection of documents
+8.28 Privilege and confidentiality
+8.29 Order facilitating inspection
+8.30 Use of documents
+8.31 Effect of failure to include document
+8.32 Notice to produce documents or things
+8.33 Contempt of court
+Subpart 2—Interrogatories
+8.34 Interrogatories by notice
+8.35 Duties of party served
+8.36 Limitation of interrogatories by notice
+8.37 Multiple parties
+8.38 Order to answer
+8.39 Contents of statement
+8.40 Objection to answer
+8.41 Who may swear affidavit verifying statement in answer to interrogatories
+8.42 Insufficient answer
+8.43 Incorrect answer to be amended
+8.44 Answers as evidence
+8.45 Public interest
+8.46 Defamation proceedings
+Subpart 3—Notice to admit facts
+8.47 Notice to admit facts
+8.48 Judgment on admission of facts
 Part 9
 Evidence
 Subpart 1—Briefs of evidence, indexes, and bundles of documents
@@ -431,7 +437,7 @@ Subpart 1—Briefs of evidence, indexes, and bundles of documents
 9.10 Privilege and admissibility not affected by briefs
 9.11 Cross-examination duties
 9.12 Exchange of indexes of documents intended for hearing
-9.13 Bundle of documents for hearing to be prepared and filed
+9.13 Preparation of common bundle
 9.14 Consequences of incorporating document in common bundle
 9.15 Consequence of not incorporating document in common bundle
 9.16 Plaintiff's synopsis of opening and chronology
@@ -829,6 +835,8 @@ Subpart 2—Special provisions concerning pleadings, directions, and affidavits
 Subpart 3—Multiple claims, joinders, and consolidations of claims
 18.13 Joining in proceedings under Family Protection Act 1955 and Law Reform (Testamentary Promises) Act 1949
 18.14 Joinder of claims and consolidation
+18.14A Interlocutory applications under section 174 of the Companies Act 1993
+18.14B Service of order made under section 174 of Companies Act 1993
 Subpart 4—Evidentiary requirements
 18.15 Evidence generally by agreed statement of facts or affidavit
 Part 19
@@ -1297,7 +1305,7 @@ Order to put company into liquidation
 31.30 Order and copies to be sealed
 31.31 Contents of order putting company into liquidation
 31.32 Transmission of order putting company into liquidation
-31.33 Service of order made under section 174 of Companies Act 1993
+31.33 Service of order made under section 174 of Companies Act 1993 [Repealed]
 31.34 Service of notice to officer executing process that company being put into liquidation
 31.35 Procedure in respect of miscellaneous applications
 31.36 Applications involving allegations of fraud, negligence, misfeasance, or similar behaviour
@@ -3614,295 +3622,336 @@ Subpart 9—Interim relief in respect of overseas proceedings
 (4) Before making an order under this rule, the court must be satisfied that there is a real connecting link between the subject matter of the interim relief and the territorial jurisdiction of the court.
 (5) An order under subclause (1) must not be inconsistent with interim relief granted in the overseas proceedings by the court outside New Zealand.
 Part 8
-Interrogatories, discovery, and inspection
-Subpart 1—Interrogatories
-8.1 Interrogatories by notice
+Discovery and inspection and interrogatories
+Subpart 1—Discovery and inspection
+8.1 Interpretation
+In this subpart,—
+discovery order means an order that requires each party to a proceeding to discover the existence of documents to every other party
+standard discovery means discovery that complies with rule 8.7
+tailored discovery means discovery that complies with rule 8.8.
+8.2 Co-operation
+(1) The parties must co-operate to ensure that the processes of discovery and inspection are—
+(a) proportionate to the subject matter of the proceeding; and
+(b) facilitated by agreement on practical arrangements.
+(2) The parties must, when appropriate,—
+(a) consider options to reduce the scope and burden of discovery; and
+(b) achieve reciprocity in the electronic format and processes of discovery and inspection; and
+(c) ensure technology is used efficiently and effectively; and
+(d) employ a format compatible with the subsequent preparation of an electronic bundle of documents for use at trial.
+8.3 Preservation of documents
+(1) As soon as a proceeding is reasonably contemplated, a party or prospective party must take all reasonable steps to preserve documents that are, or are reasonably likely to be, discoverable in the proceeding.
+(2) Without limiting the generality of subclause (1), documents in electronic form which are potentially discoverable must be preserved in readily retrievable form even if they would otherwise be deleted in the ordinary course of business.
+8.4 Initial disclosure
+(1) After filing a pleading, a party must, unless subclause (2) applies, serve on the other parties, at the same time as the service of that pleading, a bundle consisting of—
+(a) all the documents referred to in that pleading; and
+(b) any additional principal documents in the filing party's control that that party has used when preparing the pleading and on which that party intends to rely at the trial or hearing.
+(2) A party need not comply with subclause (1) if—
+(a) the circumstances make it impossible or impracticable to comply with subclause (1); and
+(b) a certificate to that effect, setting out the reasons why compliance is impossible or impracticable, and signed by counsel for that party, is filed and served at the same time as the pleading.
+(3) A party acting under subclause (2) must, unless the other parties agree that initial disclosure is not required, or that a longer period is acceptable, either serve the bundle referred to in subclause (1) within 10 working days from the service of the pleading or apply for a variation of that requirement within that period.
+(4) If a party fails to comply with subclause (1) or (3), a Judge may make any of the orders specified in rule 7.48.
+(5) Despite subclause (1), a party does not need to disclose any document in which the party claims privilege or that a party claims to be confidential.
+(6) Despite subclause (1), a party does not need to disclose any document that either—
+(a) is the subject of a claim of public interest immunity; or
+(b) is reasonably apprehended by the party to be the subject of such a claim.
+(7) Despite subclause (1), a party does not need to include in a bundle served by that party any document contained in a bundle already served by any party or any document attached to an affidavit already filed in court.
+(8) The bundle of documents may be served either electronically or as a bundle of copies in hard copy form.
+(9) If an amended pleading is filed prior to the making of a discovery order, this rule applies to that amended pleading if it either—
+(a) refers to documents not referred to in any earlier pleading filed by the party who files the amended pleading; or
+(b) pleads additional facts.
+8.5 Discovery orders to be made at case management conferences
+(1) A Judge must make a discovery order for a proceeding on the standard track unless he or she considers that the proceeding can be justly disposed of without any discovery.
+(2) An order under subclause (1) must be made at the first case management conference that is held for the proceeding, unless there is good reason for making the order later.
+(3) A Judge may make a discovery order for a proceeding on the swift track if—
+(a) a case management conference is held for the proceeding; and
+(b) a party to the proceeding explains, to the Judge's satisfaction, why the order is sought in a memorandum filed under rule 7.4.
+8.6 Two kinds of discovery
+Discovery orders made under this subpart may direct either—
+(a) standard discovery; or
+(b) tailored discovery.
+8.7 Standard discovery
+Standard discovery requires each party to disclose the documents that are or have been in that party's control and that are—
+(a) documents on which the party relies; or
+(b) documents that adversely affect that party's own case; or
+(c) documents that adversely affect another party's case; or
+(d) documents that support another party's case.
+8.8 Tailored discovery
+Tailored discovery must be ordered when the interests of justice require an order involving more or less discovery than standard discovery would involve.
+8.9 Presumption as to tailored discovery
+It is to be presumed, unless the Judge is satisfied to the contrary, that the interests of justice require tailored discovery in proceedings—
+(a) where the costs of standard discovery would be disproportionately high in comparison with the matters at issue in the proceeding; or
+(b) that are on the commercial list, or on the swift track (if an order is made under rule 8.5(3)); or
+(c) that involve 1 or more allegations of fraud or dishonesty; or
+(d) in which the total of the sums in issue exceeds $2,500,000; or
+(e) in which the total value of any assets in issue exceeds $2,500,000; or
+(f) in which the parties agree that there should be tailored discovery.
+8.10 Obligation of party ordered to make tailored discovery
+Tailored discovery requires a party against whom it is ordered to disclose the documents that are or have been in that party's control either in categories as indicated in clause 3(2) of Part 1 of Schedule 9 or under some other method of classification that facilitates the identification of particular documents.
+8.11 Preparation for first case management conference
+(1) The parties must, not less than 10 working days before the first case management conference, discuss and endeavour to agree on an appropriate discovery order, and the manner in which inspection will subsequently take place, having addressed the matters in the discovery checklist in accordance with Part 1 of Schedule 9.
+(2) The joint memorandum, or separate memoranda, filed under rule 7.4 must, in addition to the matters required to be addressed under rule 7.4(3), set out the terms of the discovery order that the Judge is requested to make and the reasons for a discovery order in those terms.
+(3) If the parties agree to vary the listing and exchange protocol set out in Part 2 of Schedule 9, they need advise the Judge only that variation has been agreed, not the details of that variation.
+8.12 Orders that may be made
+(1) At the case management conference the Judge may, under rule 8.5, make—
+(a) an order dispensing with discovery; or
+(b) an order for standard discovery; or
+(c) an order for tailored discovery, setting out categories (by, for example, subject headings and date periods) or another method of classification by which documents are to be identified.
+(2) The discovery order may—
+(a) incorporate the listing and exchange protocol set out in Part 2 of Schedule 9; or
+(b) vary that protocol; or
+(c) contain other obligations that are considered appropriate.
+(3) The discovery order may include specific directions as to the manner of discovery.
+(4) A discovery order does not require a party to discover electronically stored information that is not primary data.
+(5) Despite subclause (4), the Judge may order a party to discover electronically stored information that is not primary data if the Judge is satisfied that the need for, and the relevance and materiality of, the non-primary data sought justify the cost and burden of retrieving and producing that data.
+(6) For the purposes of this rule, primary data means active data and readily retrievable archival data.
+8.13 Solicitor's discovery obligations
+As soon as practicable after a party becomes bound to comply with a discovery order, the solicitor who acts for the party in the proceeding must take reasonable care to ensure that the party—
+(a) understands the party's obligations under the order; and
+(b) fulfils those obligations.
+8.14 Extent of search
+(1) A party must make a reasonable search for documents within the scope of the discovery order.
+(2) What amounts to a reasonable search depends on the circumstances, including the following factors:
+(a) the nature and complexity of the proceeding; and
+(b) the number of documents involved; and
+(c) the ease and cost of retrieving a document; and
+(d) the significance of any document likely to be found; and
+(e) the need for discovery to be proportionate to the subject matter of the proceeding.
+8.15 Affidavit of documents
+(1) Each party must file and serve an affidavit of documents that complies with this rule, subject to any modifications or directions contained in a discovery order.
+(2) In the affidavit of documents, the party must—
+(a) refer to the discovery order under which the affidavit is made; and
+(b) state that the party understands the party's obligations under the order; and
+(c) give particulars of the steps taken to fulfil those obligations; and
+(d) state the categories or classes of documents that have not been searched, and the reason or reasons for not searching them; and
+(e) list or otherwise identify the documents required to be discovered under the order in a schedule that complies with rule 8.16 and Part 2 of Schedule 9; and
+(f) state any restrictions proposed to protect the claimed confidentiality of any document.
+(3) The affidavit may be in form G 37.
+(4) Each party must file and serve the affidavit of documents within such time as the court directs or, if no direction is made, within 20 working days after the date on which the discovery order is made.
+Compare: 1908 No 89 Schedule 2 r 8.20 prior to 1 February 2012
+8.16 Schedule appended to affidavit of documents
+(1) The schedule referred to in rule 8.15(2)(e) must, in accordance with that discovery order, list or otherwise identify documents that—
+(a) are in the control of the party giving discovery and for which the party does not claim privilege or confidentiality:
+(b) are in the control of the party giving discovery for which privilege is claimed, stating the nature of the privilege claimed:
+(c) are in the control of the party giving discovery for which confidentiality is claimed, stating the nature and extent of the confidentiality:
+(d) have been, but are no longer, in the control of the party giving discovery, stating when the documents ceased to be in that control, and the person who now has control of them:
+(e) have not been in the control of the party giving discovery but which that party knows would be discoverable if that party had control of them.
+(2) Subject to Part 2 of Schedule 9, documents of the same nature falling within subclause (1)(b), (d), or (e) may be described as a group or groups.
+(3) The description of documents for which privilege is claimed under subclause (1)(b) must be sufficient to inform the other parties of the basis on which each document is included in a group under subclause (2).
+(4) The schedule must include documents that have previously been disclosed under rule 8.4.
+(5) The schedule need not include—
+(a) documents filed in court; or
+(b) correspondence that may reasonably be assumed to be in the possession of all parties.
+Compare: 1908 No 89 Schedule 2 r 8.21 prior to 1 February 2012
+8.17 Variation of discovery order
+(1) Subject to rule 7.18, a party may apply for an order varying the terms of a discovery order.
+(2) The variation may be granted by a Judge on the ground that—
+(a) compliance or attempted compliance with the terms of the order has revealed a need for a variation; or
+(b) there has been a change of circumstances that justifies reconsideration.
+Compare: 1908 No 89 Schedule 2 r 8.22 prior to 1 February 2012
+8.18 Continuing obligations
+(1) Each party against whom a discovery order is made has a continuing obligation to give discovery and offer inspection at all stages of the proceeding, even if that party has filed and served an affidavit of documents that complies with this subpart.
+(2) A party must discover a document if, in the course of complying with an order for tailored discovery, that party becomes aware of a document that is not required to be discovered under the order, but that—
+(a) adversely affects that party's own case; or
+(b) adversely affects another party's case; or
+(c) supports another party's case.
+8.19 Order for particular discovery against party after proceeding commenced
+If at any stage of the proceeding it appears to a Judge, from evidence or from the nature or circumstances of the case or from any document filed in the proceeding, that there are grounds for believing that a party has not discovered 1 or more documents or a group of documents that should have been discovered, the Judge may order that party—
+(a) to file an affidavit stating—
+(i) whether the documents are or have been in the party's control; and
+(ii) if they have been but are no longer in the party's control, the party's best knowledge and belief as to when the documents ceased to be in the party's control and who now has control of them; and
+(b) to serve the affidavit on the other party or parties; and
+(c) if the documents are in the person's control, to make those documents available for inspection, in accordance with rule 8.27, to the other party or parties.
+Compare: 1908 No 89 Schedule 2 r 8.24 prior to 1 February 2012
+8.20 Order for particular discovery before proceeding commenced
+(1) This rule applies if it appears to a Judge that—
+(a) a person (the intending plaintiff) is or may be entitled to claim in the court relief against another person (the intended defendant) but that it is impossible or impracticable for the intending plaintiff to formulate the intending plaintiff's claim without reference to 1 or more documents or a group of documents; and
+(b) there are grounds to believe that the documents may be or may have been in the control of a person (the person) who may or may not be the intended defendant.
+(2) The Judge may, on the application of the intending plaintiff made before any proceeding is brought, order the person—
+(a) to file an affidavit stating—
+(i) whether the documents are or have been in the person's control; and
+(ii) if they have been but are no longer in the person's control, the person's best knowledge and belief as to when the documents ceased to be in the person's control and who now has control of them; and
+(b) to serve the affidavit on the intending plaintiff; and
+(c) if the documents are in the person's control, to make those documents available for inspection, in accordance with rule 8.27, to the intending plaintiff.
+(3) An application under subclause (2) must be by interlocutory application made on notice—
+(a) to the person; and
+(b) to the intended defendant.
+(4) The Judge may not make an order under this rule unless satisfied that the order is necessary at the time when the order is made.
+Compare: 1908 No 89 Schedule 2 r 8.25 prior to 1 February 2012
+8.21 Order for particular discovery against non-party after proceeding commenced
+(1) This rule applies if it appears to a Judge that a person who is not a party to a proceeding may be or may have been in the control of 1 or more documents or a group of documents that the person would have had to discover if the person were a party to the proceeding.
+(2) The Judge may, on application, order the person—
+(a) to file an affidavit stating—
+(i) whether the documents are or have been in the person's control; and
+(ii) if the documents have been but are no longer in the person's control, the person's best knowledge and belief as to when the documents ceased to be in the person's control and who now has control of them; and
+(b) to serve the affidavit on a party or parties specified in the order; and
+(c) if the documents are in the control of the person, to make those documents available for inspection, in accordance with rule 8.27, to the party or parties specified in the order.
+(3) An application for an order under subclause (2) must be made on notice to the person and to every other party who has filed an address for service.
+Compare: 1908 No 89 Schedule 2 r 8.26 prior to 1 February 2012
+8.22 Costs of discovery
+(1) If it is manifestly unjust for a party to have to meet the costs of complying with an order made under this subpart, a Judge may order that another party meet those costs, either in whole or in part, in advance or after the party has complied.
+(2) Despite subclause (1), the court may subsequently discharge or vary an order made under that subclause if satisfied that a different allocation of those costs would be just.
+(3) If an order is made under rule 8.20(2) or 8.21(2), the Judge may, if the Judge thinks it just, order the applicant to pay to the person from whom discovery is sought the whole or part of that person's expenses (including solicitor and client costs) incurred in relation to the application and in complying with any order made on the application.
+Compare: 1908 No 89 Schedule 2 r 8.27 prior to 1 February 2012
+8.23 Incorrect affidavit of documents to be amended
+If, by reason of any change of circumstances or an error or omission, an affidavit of documents filed in response to a discovery order appears to the person making discovery to be defective or erroneous, the person must promptly file and serve an affidavit that corrects or supplements the affidavit of documents.
+Compare: 1908 No 89 Schedule 2 r 8.28 prior to 1 February 2012
+8.24 Who may swear affidavit of documents
+(1) When a Judge makes a discovery order, the Judge may—
+(a) specify by name or otherwise the person who has to make the affidavit of documents; or
+(b) specify by description or otherwise a group of persons or a class of persons each of whom may make the affidavit.
+(2) If the Judge does not specify the person or the group or class of persons, the affidavit of documents may be made as follows:
+(a) if the person required to make discovery is an individual person, by that individual person:
+(b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office), by a person who meets the requirements of rule 9.82:
+(c) if the person required to make discovery is the Crown, or an officer of the Crown who sues or is sued in an official capacity, or as representing a government department, by an officer of the Crown.
+Compare: 1908 No 89 Schedule 2 r 8.30 prior to 1 February 2012
+8.25 Challenge to privilege or confidentiality claim
+(1) If a party challenges a claim to privilege or confidentiality made in an affidavit of documents, the party may apply to the court for an order setting aside or modifying the claim.
+(2) In considering the application, a Judge may require the document under review to be produced to the Judge and may inspect it for the purpose of deciding the validity of the claim.
+(3) The Judge may—
+(a) set aside the claim to privilege or confidentiality; or
+(b) modify the claim to privilege or confidentiality; or
+(c) dismiss the application; or
+(d) make any other order with respect to the document under review that the Judge thinks just.
+Compare: 1908 No 89 Schedule 2 r 8.31 prior to 1 February 2012
+8.26 Crown documents and public interest
+An order made under section 27(1) of the Crown Proceedings Act 1950 must be construed as not requiring disclosure of the existence of any document if—
+(a) the Prime Minister certifies that the disclosure of the existence of that document would be likely to prejudice—
+(i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
+(ii) any interest protected by section 7 of the Official Information Act 1982; or
+(b) the Attorney-General certifies that the disclosure of the existence of that document would be likely to prejudice the prevention, investigation, or detection of offences.
+Compare: 1908 No 89 Schedule 2 r 8.32 prior to 1 February 2012
+8.27 Inspection of documents
+(1) As soon as a party who is required to make discovery has filed and served an affidavit of documents, that party must, subject to rule 8.28, make the documents that are listed in the affidavit and that are in that party's control available for inspection by way of exchange.
+(2) Documents must be exchanged in accordance with the listing and exchange protocol in Part 2 of Schedule 9.
+(3) If a discovery order exempts a party from giving discovery and inspection electronically, that party must make the documents listed in the affidavit of documents available for inspection in hard copy form, and must promptly make those documents available for copying if requested.
+(4) A party who has received a document electronically under this rule may, on giving reasonable notice in writing, require the person giving discovery to produce the original document for inspection.
+(5) This rule also applies to documents listed in an affidavit filed and served under rule 8.20 or 8.21.
+(6) This rule is subject to the terms of any discovery order made under rule 8.5.
+Compare: 1908 No 89 Schedule 2 r 8.33 prior to 1 February 2012
+8.28 Privilege and confidentiality
+(1) A party is not required to make privileged documents available for inspection.
+(2) If a document contains both privileged and non-privileged information, a party must make the document available for inspection, but may redact the privileged information by rendering the privileged information in the document unreadable.
+(3) A party may limit inspection of confidential documents to the persons specified in the affidavit of documents, subject to the restrictions proposed in the affidavit.
+8.29 Order facilitating inspection
+(1) A Judge may, on application, make any order the Judge thinks appropriate to facilitate the efficient inspection of documents.
+(2) An order under subclause (1) may, for example, require the person who is to produce the documents for inspection to do either or both of the following:
+(a) arrange the documents in a stated manner or order:
+(b) assist the party inspecting the documents to locate and identify particular documents or groups of documents.
+Compare: 1908 No 89 Schedule 2 r 8.34 prior to 1 February 2012
+8.30 Use of documents
+(1) A party to whom a document has been made available electronically or is produced for inspection under rule 8.27 or 8.29 may make copies of the document.
+(2) On the application of a party to whom a document is produced for inspection under rule 8.27 or 8.29, a Judge may order the person who has control of the document to give the applicant a legible copy.
+(3) An order under subclause (2) may be made on any terms the Judge thinks just, and, in particular, the Judge may order that—
+(a) the applicant pay the reasonable expenses of the other party:
+(b) the document be marked to the effect that it is a copy given for purposes of inspection only.
+(4) A party who obtains a document by way of inspection or who makes a copy of a document under this rule—
+(a) may use that document or copy only for the purposes of the proceeding; and
+(b) except for the purposes of the proceeding, must not make it available to any other person (unless it has been read out in open court).
+Compare: 1908 No 89 Schedule 2 r 8.36 prior to 1 February 2012
+8.31 Effect of failure to include document
+A document that should have been included in a party's affidavit of documents may be produced in evidence at the hearing only with the consent of the other party or parties or the leave of the court.
+Compare: 1908 No 89 Schedule 2 r 8.37 prior to 1 February 2012
+8.32 Notice to produce documents or things
+(1) A party to a proceeding may serve on another party a notice requiring the other party to produce a document or thing for the purpose of evidence at the hearing of the proceeding, or before a Judge, an officer, an examiner, or other person who has authority to take evidence in the proceeding.
+(2) If the document or thing is in the control of the party who is served with the notice, the party must, unless a Judge otherwise orders, produce the document or thing in accordance with the notice, without the need for a subpoena for production.
+(3) The notice must be treated as an order of the court to produce the document or thing specified in the notice.
+Compare: 1908 No 89 Schedule 2 r 8.39 prior to 1 February 2012
+8.33 Contempt of court
+(1) Every person is guilty of contempt of court who, being a person against whom a discovery order or other order under this subpart has been made, wilfully and without lawful excuse disobeys the order or fails to ensure the order is complied with.
+(2) This rule does not limit or affect any power or authority of the court to punish a person for contempt of court.
+Compare: 1908 No 89 Schedule 2 r 8.42 prior to 1 February 2012
+Subpart 2—Interrogatories
+8.34 Interrogatories by notice
 (1) After a statement of defence has been filed, a party who has filed a pleading may file and serve on another party who has filed a pleading a notice requiring that party to answer specified interrogatories relating to any matter in question in the proceeding between the interrogating party and the party served.
 (2) The notice may require that the answers be verified even if the interrogating party has not previously required any answers to interrogatories to be verified.
 (3) The notice must be in form G 35.
-Compare: 1908 No 89 Schedule 2 r 278
-8.2 Duties of party served
-(1) A party required by notice under rule 8.1 to answer interrogatories must answer the interrogatories within the period specified in the notice.
-(2) The period specified commences on the first working day after the day on which the notice under rule 8.1 is served and may not be less than 10 working days (or, if the party is resident out of New Zealand, 20 working days).
-(3) Unless verification is required, the party required to answer the interrogatories must file and serve on the party requiring the answers,—
-(a) if the answers do not have to be verified, a statement in accordance with rule 8.6; or
+Compare: 1908 No 89 Schedule 2 r 8.1 prior to 1 February 2012
+8.35 Duties of party served
+(1) A party required by notice under rule 8.34 to answer interrogatories must answer the interrogatories within the period specified in the notice.
+(2) The period specified commences on the first working day after the day on which the notice under rule 8.34 is served and may not be less than 10 working days (or, if the party is resident out of New Zealand, 20 working days).
+(3) The party required to answer the interrogatories must file and serve on the party requiring the answers—
+(a) if the answers do not have to be verified, a statement in accordance with rule 8.39; or
 (b) if the answers do have to be verified, an affidavit verifying the statement together with the statement verified unless it has already been filed and served.
-(4) This rule is subject to rule 8.3.
-Compare: 1908 No 89 Schedule 2 r 279
-8.3 Limitation of interrogatories by notice
-(1) A Judge may, on the application of a party required to answer interrogatories, order that answers to interrogatories under rule 8.2 by that party—
+(4) This rule is subject to rule 8.36.
+Compare: 1908 No 89 Schedule 2 r 8.2 prior to 1 February 2012
+8.36 Limitation of interrogatories by notice
+(1) A Judge may, on the application of a party required to answer interrogatories, order that answers to interrogatories under rule 8.34 by that party—
 (a) are not required; or
 (b) need to be given only to specified interrogatories or classes of interrogatories or to specified matters that are in question in the proceeding.
-(2) The application may be made before or after the party has been served with a notice under rule 8.1.
+(2) The application may be made before or after the party has been served with a notice under rule 8.34.
 (3) In determining the application, the Judge must make any orders required to prevent unnecessary or oppressive interrogatories or unnecessary answers to interrogatories.
-Compare: 1908 No 89 Schedule 2 r 280
-8.4 Multiple parties
-If there are more than 2 parties, a party who is required under rule 8.2 to answer interrogatories must serve the documents required to be served under that rule on every party who has given an address for service.
-Compare: 1908 No 89 Schedule 2 r 281
-8.5 Order to answer
-(1) A Judge may, at any stage of any proceeding, order any party to file and serve on any other party (whether the interrogating party or not) a statement prepared in accordance with rule 8.6 in answer to interrogatories specified or referred to in the order.
+Compare: 1908 No 89 Schedule 2 r 8.3 prior to 1 February 2012
+8.37 Multiple parties
+If there are more than 2 parties, a party who is required under rule 8.34 to answer interrogatories must serve the documents required to be served under that rule on every party who has given an address for service.
+Compare: 1908 No 89 Schedule 2 r 8.4 prior to 1 February 2012
+8.38 Order to answer
+(1) A Judge may, at any stage of any proceeding, order any party to file and serve on any other party (whether the interrogating party or not) a statement prepared in accordance with rule 8.39 in answer to interrogatories specified or referred to in the order.
 (2) The interrogatories must relate to matters in question in the proceeding.
 (3) The order may require the statement to be verified by affidavit.
 (4) The Judge must not make an order under subclause (1) unless satisfied that the order is necessary at the time when it is made.
-Compare: 1908 No 89 Schedule 2 r 282
-8.6 Contents of statement
+Compare: 1908 No 89 Schedule 2 r 8.5 prior to 1 February 2012
+8.39 Contents of statement
 (1) A statement in answer to interrogatories must, unless a Judge otherwise orders, comply with this rule.
 (2) A statement in answer to interrogatories must deal with each interrogatory specifically, either—
 (a) by answering the substance of the interrogatory without evasion; or
-(b) by objecting to answer the interrogatory on 1 or more of the grounds mentioned in rule 8.7(1) and briefly stating the facts on which the objection is based.
+(b) by objecting to answer the interrogatory on 1 or more of the grounds mentioned in rule 8.40(1) and briefly stating the facts on which the objection is based.
 (3) The statement must set out above or opposite to each answer or objection the interrogatory to which it relates.
-Compare: 1908 No 89 Schedule 2 r 283
-8.7 Objection to answer
+Compare: 1908 No 89 Schedule 2 r 8.6 prior to 1 February 2012
+8.40 Objection to answer
 (1) A party may object to answer an interrogatory on the following grounds only:
 (a) that the interrogatory does not relate to a matter in question between the parties involved in the interrogatories:
 (b) that the interrogatory is vexatious or oppressive:
 (c) that the information sought is privileged:
 (d) that the sole object of the interrogatory is to ascertain the names of witnesses.
 (2) It is not a sufficient objection that the answer to an interrogatory will determine a substantial issue in the proceeding.
-(3) On an application under rule 8.3 in respect of an interrogatory, a Judge may—
+(3) On an application under rule 8.36 in respect of an interrogatory, a Judge may—
 (a) require the applicant to specify on what grounds the applicant objects to answer that interrogatory; and
 (b) determine the sufficiency of the objection.
-(4) If the Judge determines that the objection is not sufficient, the applicant is not entitled to object to answer the interrogatory.
-Compare: 1908 No 89 Schedule 2 r 284
-8.8 Who may swear affidavit verifying statement in answer to interrogatories
+(4) If the Judge determines that the objection is not sufficient, the application is not entitled to object to answer the interrogatory.
+Compare: 1908 No 89 Schedule 2 r 8.7 prior to 1 February 2012
+8.41 Who may swear affidavit verifying statement in answer to interrogatories
 (1) An affidavit verifying a statement of a party in answer to interrogatories may be made as follows:
 (a) by the person required to make the statement:
 (b) if the person required to make the statement is a minor (other than a minor to whom rule 4.31(2) applies) or is an incapacitated person within the meaning of rule 4.29, by the person's litigation guardian:
-(c) if the person required to make the statement is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of a registry), by a person who meets the requirements of rule 9.82:
+(c) if the person required to make the statement is a corporation or a body of persons empowered by law to sue or to be sued (whether in the name of the body or in the name of the holder of a registry), by a person who meets the requirements of rule 9.82:
 (d) if the person required to make the statement is the Crown, or an officer of the Crown who sues or is sued in an official capacity, or as representing a government department, by an officer of the Crown.
 (2) Despite subclause (1), if paragraph (c) or (d) of that subclause applies, and if the affidavit is to be filed and served in accordance with an order, a Judge may—
 (a) specify by name or otherwise the person who has to make the affidavit; or
-(b) specify by description or otherwise a group or class of persons, any one of whom may make the affidavit.
-Compare: 1908 No 89 Schedule 2 r 286
-8.9 Insufficient answer
+(b) specify by description or otherwise a group or class of persons, any 1 of whom may make the affidavit.
+Compare: 1908 No 89 Schedule 2 r 8.8 prior to 1 February 2012
+8.42 Insufficient answer
 If a party fails to answer an interrogatory sufficiently, a Judge may, in addition to acting under rule 7.48,—
-(a) if the party has made an insufficient answer, order the party to make a further answer verified by affidavit in accordance with rule 8.8; or
-(b) order the party, or any of the persons mentioned in rule 8.8(1)(b) to (d) as the case requires, to attend to be orally examined.
-Compare: 1908 No 89 Schedule 2 r 287
-8.10 Incorrect answer to be amended
-(1) If, by reason of a change of circumstances or an error or omission, a statement filed in response to a notice given or order made under rule 8.1, 8.5, or 8.9 appears to the party by or on whose behalf it was filed to be defective or erroneous, that party must promptly file and serve a further statement that corrects or supplements the original statement.
+(a) if the party has made an insufficient answer, order the party to make a further answer verified by affidavit in accordance with rule 8.38; or
+(b) order the party, or any of the persons mentioned in rule 8.41(1)(b) to (d), as the case requires, to attend to be orally examined.
+Compare: 1908 No 89 Schedule 2 r 8.9 prior to 1 February 2012
+8.43 Incorrect answer to be amended
+(1) If, by reason of a change of circumstances or an error or omission, a statement filed in response to a notice given or order made under rule 8.34, 8.38, or 8.42 appears to the party who filed it or on whose behalf it was filed to be defective or erroneous, that party must promptly file and serve a further statement that corrects or supplements the original statement.
 (2) If the original statement was verified, the further statement must also be verified.
-Compare: 1908 No 89 Schedule 2 r 288
-8.11 Answers as evidence
+Compare: 1908 No 89 Schedule 2 r 8.10 prior to 1 February 2012
+8.44 Answers as evidence
 (1) A party may give in evidence—
 (a) 1 or more answers to interrogatories without giving the others:
 (b) part of an answer to an interrogatory without giving the whole of the answer.
 (2) If a party proposes to give in evidence an answer (or part of an answer) to an interrogatory (answer A), the Judge may look at the other answers, and if the Judge considers that answer A is so connected with another answer (answer B) that answer A ought not to be received without answer B, the Judge may refuse to receive answer A unless answer B is also given in evidence.
-Compare: 1908 No 89 Schedule 2 r 289
-8.12 Public interest
+Compare: 1908 No 89 Schedule 2 r 8.11 prior to 1 February 2012
+8.45 Public interest
 The rules that relate to interrogatories do not affect any rule of law that authorises or requires the withholding of a matter on the ground that its disclosure would be injurious to the public interest.
-Compare: 1908 No 89 Schedule 2 r 290
-8.13 Defamation proceedings
+Compare: 1908 No 89 Schedule 2 r 8.12 prior to 1 February 2012
+8.46 Defamation proceedings
 If, in a proceeding for defamation, the defendant pleads that the words or matters complained of are honest opinion on a matter of public interest or were published on a privileged occasion, no interrogatories as to the defendant's sources of information or grounds of belief may be allowed unless the interrogatories are necessary in the interests of justice.
-Compare: 1908 No 89 Schedule 2 r 285
-Subpart 2—Notice to admit facts
-8.14 Notice to admit facts
-(1) A party who is entitled to serve a notice under rule 8.1 may at any time serve on another party a notice requiring the party to admit, for the purpose of the proceeding only, the facts specified in the notice.
+Compare: 1908 No 89 Schedule 2 r 8.13 prior to 1 February 2012
+Subpart 3—Notice to admit facts
+8.47 Notice to admit facts
+(1) A party who is entitled to serve a notice under rule 8.34 may at any time serve on another party a notice requiring the party to admit, for the purpose of the proceeding only, the facts specified in the notice.
 (2) The notice must be in form G 36.
 (3) An admission made in compliance with a notice under subclause (1)—
-(a) may be amended or withdrawn by the party by whom it was made at any time, if a Judge so allows and on any terms the Judge thinks just:
+(a) may be amended or withdrawn by the party by whom it was made at any time if a Judge so allows, and this may be done on any terms the Judge thinks just:
 (b) must not be used against the party by whom it was made in a proceeding or interlocutory application other than the proceeding or interlocutory application for which it was made.
 (4) If the party on whom a notice to admit facts has been served under subclause (1) refuses or neglects to admit the facts within 5 working days after the day of service or within any longer time allowed by a Judge, the costs of proving the facts must be paid by that party, unless a Judge otherwise orders.
-Compare: 1908 No 89 Schedule 2 r 291
-8.15 Judgment on admission of facts
+Compare: 1908 No 89 Schedule 2 r 8.14 prior to 1 February 2012
+8.48 Judgment on admission of facts
 A judgment or order may be made on an admission of facts under rule 15.15.
-Compare: 1908 No 89 Schedule 2 r 292
-Subpart 3—Discovery
-8.16 Contents of discovery order
-(1) In this rule and in rules 8.17 to 8.38, discovery order means an order, made under rule 8.17(1) or (3), that requires each party to a proceeding to discover the existence of documents to every other party.
-(2) To the extent that a discovery order does not modify the terms set out in rule 8.18, the order contains those terms.
-(3) A discovery order may modify the terms set out in rule 8.18 in any 1 or more of the following ways:
-(a) by suspending the operation of the order until a date fixed or to be fixed by a Judge:
-(b) by excluding 1 or more of those terms:
-(c) by varying 1 or more of those terms:
-(d) by replacing 1 or more of those terms with different terms:
-(e) by adding any terms that are not set out in rule 8.18 to the order.
-(4) A discovery order may, for example, specify 1 or more of the following matters:
-(a) the kinds of documents that a party is to discover:
-(b) the method of discovering the documents:
-(c) the time or times within which the documents are to be discovered.
-Compare: 1908 No 89 Schedule 2 r 293
-8.17 Discovery orders to be made at case management conferences
-(1) If discovery of documents is appropriate for a proceeding on the standard track, a Judge must make a discovery order.
-(2) An order under subclause (1) must be made at the first case management conference that is held for the proceeding, unless there is good reason for making the order later.
-(3) A Judge may make a discovery order for a proceeding on the swift track if—
-(a) a case management conference is held for the proceeding; and
-(b) a party to the proceeding sets out in a memorandum, filed under rule 7.5, why the order is sought.
-(4) If a party wishes a discovery order to contain terms that are not contained in, or that differ from, the terms set out in rule 8.18, the party must, in a memorandum filed under rule 7.5, set out the terms sought and why they are sought.
-Compare: 1908 No 89 Schedule 2 r 294
-8.18 Default terms of discovery order
-(1) A discovery order is in the terms set out in this rule unless those terms are modified by the order.
-(2) Each party must make an affidavit of documents that lists the documents that—
-(a) are or have been in that party's control; and
-(b) relate to a matter in question in the proceeding.
-(3) The affidavit of documents must—
-(a) comply with rules 8.20 and 8.21; and
-(b) be filed and served on every other party who has given an address for service.
-(4) Each party must comply with the order within 20 working days after the date on which the order is made.
-Compare: 1908 No 89 Schedule 2 r 295
-8.19 Solicitor's obligations on discovery
-As soon as practicable after a party becomes bound to comply with a discovery order, the solicitor who acts for the party in the proceeding must, to the best of the solicitor's ability, ensure that the party—
-(a) understands the party's obligations under the order; and
-(b) faithfully fulfils those obligations.
-Compare: 1908 No 89 Schedule 2 r 296
-8.20 Affidavit of documents
-(1) This rule applies to an affidavit of documents that a party is required to make under rule 8.18(2), but only to the extent that the requirement is not modified by the order.
-(2) In the affidavit of documents, the party must—
-(a) refer to the discovery order under which the affidavit is made; and
-(b) state that the party understands the party's obligations under the order; and
-(c) give particulars of the steps taken to fulfil those obligations; and
-(d) identify or list the documents required to be discovered under the order in a schedule that complies with rule 8.21; and
-(e) state any restrictions proposed to protect the claimed confidentiality of any document.
-(3) The affidavit may be in form G 37.
-Compare: 1908 No 89 Schedule 2 r 297
-8.21 Schedule appended to affidavit of documents
-(1) The schedule referred to in rule 8.20(2)(d) must identify or list documents—
-(a) in the control of the party giving discovery and for which the party does not claim privilege or confidentiality, identifying them by number:
-(b) in the control of the party giving discovery for which privilege is claimed, stating the nature of the privilege claimed:
-(c) in the control of the party giving discovery for which confidentiality is claimed, stating the nature and extent of the confidentiality:
-(d) that have been, but are no longer, in the control of the party giving discovery, stating when the documents ceased to be in that control and the person who now has control of them:
-(e) that have not been in the control of the party giving discovery but are known by that party to relate to a matter in question in the proceeding, stating who has control of them.
-(2) Documents of the same nature in category (b), (c), (d), or (e) may be described as a group or groups.
-(3) The schedule need not include—
-(a) copies of documents filed in court; or
-(b) correspondence that may reasonably be assumed to be in the possession of all parties.
-Compare: 1908 No 89 Schedule 2 r 298
-8.22 Variation of discovery order
-(1) Subject to rule 7.18, a party may apply for an order varying the terms of a discovery order.
-(2) The variation may be granted by a Judge on the ground that—
-(a) compliance or attempted compliance with the terms of the order has revealed a need for a variation; or
-(b) there has been a change of circumstances justifying reconsideration.
-Compare: 1908 No 89 Schedule 2 r 299
-8.23 Inspection of document referred to in pleading or other document
-(1) A party (party A) on whom a pleading or other document is served may, by notice in writing served on the party or person by whom the pleading or other document was filed (party B), require party B to produce for inspection a document referred to in the pleading or other document.
-(2) Party B must, within 5 working days after service of a notice under subclause (1), make the document available for inspection by the parties to the proceeding.
-(3) Subclause (2) is subject to any claim by party B to privilege or confidentiality.
-(4) If party A challenges a claim to privilege or confidentiality, party A may apply to the court for an order setting aside or modifying the claim.
-Compare: 1908 No 89 Schedule 2 r 299A
-8.24 Order for particular discovery against party after proceeding commenced
-If at any stage of the proceeding it appears to a Judge, from evidence or from the nature or circumstances of the case or from any document filed in the proceeding, that there are grounds for believing that a party has not discovered 1 or more documents or a group of documents that should have been discovered, the Judge may order that party—
-(a) to file an affidavit stating—
-(i) whether the documents are or have been in the party's control; and
-(ii) if they have been but are no longer in the party's control, the party's best knowledge and belief as to when the documents ceased to be in the party's control, and who now has control of them; and
-(b) to serve the affidavit on any other party.
-Compare: 1908 No 89 Schedule 2 r 300
-8.25 Order to discover particular documents before proceeding commenced
-(1) This rule applies if it appears to a Judge that—
-(a) a person (the intending plaintiff) is or may be entitled to claim in the court relief against another person (the intended defendant) but that it is impossible or impracticable for the intending plaintiff to formulate the intending plaintiff's claim without reference to 1 or more documents or a group of documents; and
-(b) there are grounds to believe that the documents may be or may have been in the control of a person (the person), who may or may not be the intended defendant.
-(2) The Judge may, on the application of the intending plaintiff made before any proceeding is brought, order the person—
-(a) to file an affidavit stating—
-(i) whether the documents are or have been in the person's control; and
-(ii) if they have been but are no longer in the person's control, the person's best knowledge and belief as to when the documents ceased to be in the person's control and who now has control of them; and
-(b) to serve the affidavit on the intending plaintiff; and
-(c) if the documents are in the person's control, to make those documents available for inspection, in accordance with rule 8.33, to the intending plaintiff.
-(3) An application under subclause (2) must be by interlocutory application made on notice—
-(a) to the person; and
-(b) to the intended defendant.
-(4) The Judge may not make an order under this rule unless satisfied that the order is necessary at the time when the order is made.
-Compare: 1908 No 89 Schedule 2 r 301
-8.26 Order for particular discovery against non-party after proceeding commenced
-(1) This rule applies if it appears to a Judge that a person who is not a party to a proceeding may be or may have been in the control of 1 or more documents or a group of documents that the person would have had to discover if the person were a party to the proceeding.
-(2) The Judge may, on application, order the person—
-(a) to file an affidavit stating—
-(i) whether the documents are or have been in the person's control; and
-(ii) if they have been but are no longer in the person's control, the person's best knowledge and belief as to when the documents ceased to be in the person's control and who now has control of them; and
-(b) to serve the affidavit on a party or parties specified in the order; and
-(c) if the documents are in the control of the person, to make those documents available for inspection, in accordance with rule 8.33, to the party or parties specified in the order.
-(3) An application for an order under subclause (2) must be made on notice to the person and to every other party who has filed an address for service.
-(4) The Judge may not make an order under this rule unless satisfied that the order is necessary at the time when the order is made.
-Compare: 1908 No 89 Schedule 2 r 302
-8.27 Expenses
-If an order is made under rule 8.25(2) or 8.26(2), the Judge may, if the Judge thinks it just, order the applicant to pay to the person from whom discovery is sought the person's expenses (including solicitor and client costs) of and incidental to the application and in complying with any order made on the application.
-Compare: 1908 No 89 Schedule 2 r 303
-8.28 Incorrect affidavit of documents to be amended
-If, by reason of any change of circumstances or an error or omission, an affidavit of documents filed under an order made under any of rules 8.17, 8.22, or 8.24 to 8.26 appears to the person making discovery to be defective or erroneous, the person must promptly file and serve an affidavit that corrects or supplements the affidavit of documents.
-Compare: 1908 No 89 Schedule 2 r 304
-8.29 Where process impeded by discovery of irrelevant documents
-If a Judge considers that a party has impeded the process of discovery and inspection by including documents in an affidavit that are not required to be included, the Judge may order the party to pay costs to a party or parties specified in the order.
-Compare: 1908 No 89 Schedule 2 r 305
-8.30 Who may swear affidavit of documents
-(1) When the Judge makes an order under any of rules 8.17, 8.22, or 8.24 to 8.26, the Judge may—
-(a) specify by name or otherwise the person who has to make the affidavit of documents; or
-(b) specify by description or otherwise a group of persons or a class of persons, each of whom may make the affidavit.
-(2) If the Judge does not specify the person or the group or class of persons, the affidavit of documents may be made as follows:
-(a) by the person required to make discovery:
-(b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office), by a person who meets the requirements of rule 9.82:
-(c) if the person required to make discovery is the Crown, an officer of the Crown who sues or is sued in an official capacity, or as representing a government department, by an officer of the Crown.
-Compare: 1908 No 89 Schedule 2 r 306
-8.31 Challenge to privilege or confidentiality claim
-(1) If a party challenges a claim to privilege or confidentiality made in an affidavit of documents, the party may apply to the court for an order setting aside or modifying the claim.
-(2) In considering the application, a Judge may require the document under review to be produced to the Judge and inspect it for the purpose of deciding the validity of the claim.
-(3) The Judge may—
-(a) set aside the claim to privilege or confidentiality; or
-(b) modify the claim to privilege or confidentiality; or
-(c) dismiss the application; or
-(d) make any other order with respect to the document under review that the Judge thinks just.
-Compare: 1908 No 89 Schedule 2 r 307
-8.32 Crown documents and public interest
-An order made under section 27(1) of the Crown Proceedings Act 1950 must be construed as not requiring disclosure of the existence of any document if—
-(a) the Prime Minister certifies that the disclosure of the existence of that document would be likely to prejudice—
-(i) the security or defence of New Zealand or the international relations of the Government of New Zealand; or
-(ii) any interest protected by section 7 of the Official Information Act 1982; or
-(b) the Attorney-General certifies that the disclosure of the existence of that document would be likely to prejudice the prevention, investigation, or detection of offences.
-Compare: 1908 No 89 Schedule 2 r 308
-8.33 Inspection of documents
-(1) As soon as a person who is required to make discovery has served an affidavit of documents, the person must make the documents listed in the affidavit available for inspection by the parties to the proceeding.
-(2) The person is not required to make privileged documents or documents no longer in the person's control available for inspection.
-(3) The person may limit inspection of confidential documents to the persons specified in the affidavit of documents and subject to the restrictions proposed in the affidavit.
-(4) Subclause (1) is subject to subclauses (2) and (3).
-(5) Subclauses (2) and (3) are subject to any contrary order made under rule 8.31.
-Compare: 1908 No 89 Schedule 2 r 309
-8.34 Order facilitating inspection
-(1) A Judge may, on application, make any order the Judge thinks appropriate to facilitate the efficient inspection of documents.
-(2) An order under subclause (1) may, for example, require the person who is to produce the documents for inspection to do either or both of the following:
-(a) arrange the documents in a stated manner or order:
-(b) assist the party inspecting the documents to locate and identify particular documents or groups of documents.
-Compare: 1908 No 89 Schedule 2 r 310
-8.35 Cost of production by non-party
-If an order is made under rule 8.25(2) or 8.26(2), the Judge may, if the Judge thinks it just, order that the applicant pay the person from whom discovery is sought that person's expenses (including solicitor and client costs) in making the documents discovered available for inspection by the parties to the proceeding.
-Compare: 1908 No 89 Schedule 2 r 311
-8.36 Right to make copies
-(1) A party to whom a document is produced for inspection under rule 8.33 or 8.34 may make copies of the document.
-(2) On the application of a party to whom a document is produced for inspection under rule 8.33 or 8.34, a Judge may order the person who has control of the document to give the applicant a legible copy.
-(3) An order under subclause (2) may be made on any terms the Judge thinks just, and, in particular, the Judge may order the applicant to pay the reasonable expenses of the other party, and may order that the document be marked to the effect that it is a copy given for purposes of inspection only.
-(4) A party who obtains a copy under this rule—
-(a) may use that copy only for the purposes of the proceeding; and
-(b) except for the purposes of the proceeding, must not make it available to any other person.
-Compare: 1908 No 89 Schedule 2 r 312
-8.37 Effect of failure to include document
-A document that should have been included in a party's affidavit of documents may be produced in evidence at the hearing only with the consent of the other party or parties or the leave of the court.
-Compare: 1908 No 89 Schedule 2 r 313
-8.38 Admission of documents discovered
-(1) Whenever a party (party A) is permitted to inspect a document specified in an affidavit of documents served by another party (party B) on party A under any of rules 8.17 to 8.22, party A must (subject to any contrary order by a Judge) be treated as having made the following admissions in favour of party B:
-(a) that the document, if described in the affidavit as an original document, is an original document and was printed, written, signed, or executed as it appears to have been; or
-(b) that the document, if described in the affidavit as a copy, is a true copy.
-(2) Subclause (1) does not apply if—
-(a) a party has in a pleading denied the authenticity of the document; or
-(b) within 10 working days after inspecting the document, party A serves on party B a notice disputing the authenticity of the document.
-(3) At the hearing of a proceeding, party A may give secondary evidence of a document and of its contents if—
-(a) the document is shown in an affidavit served in accordance with any of rules 8.17 to 8.22 to be in the control of party B; and
-(b) party B has not produced the document after being requested to do so by party A.
-(4) Subclause (3) applies whether or not a notice to produce the document has been served on party B.
-(5) Subclauses (1) to (3) apply, with all necessary modifications, in relation to an affidavit made in compliance with an order under any of rules 8.24 to 8.26 (which relate to discovery of particular documents) as they apply in relation to an affidavit made under a discovery order.
-Compare: 1908 No 89 Schedule 2 r 314
-8.39 Notice to produce documents or things
-(1) A party to a proceeding may serve on another party a notice requiring the other party to produce a document or thing for the purpose of evidence at the hearing of the proceeding, or before a Judge, an officer, an examiner, or other person having authority to take evidence in the proceeding.
-(2) If the document or thing is in the control of the party who is served with the notice, the party must, unless a Judge otherwise orders, produce the document or thing in accordance with the notice, without the need for a subpoena for production.
-(3) The notice must be treated as an order of the court to produce the document or thing specified in the notice.
-Compare: 1908 No 89 Schedule 2 r 315
-8.40 Notice to admit authenticity of documents
-(1) A party (party A) to a proceeding may, by notice served on another party (party B), require party B to admit, for the purpose of that proceeding only, the authenticity of the documents specified in the notice.
-(2) For the purposes of the proceeding, party B is deemed to have admitted the authenticity of any document specified in the notice unless, within 10 working days after the date on which party B is served with the notice, party B serves on party A a notice disputing the authenticity of the document.
-(3) A party may, with the leave of a Judge, withdraw an admission under subclause (2).
-Compare: 1908 No 89 Schedule 2 r 316
-8.41 Restricted effect of admission
-An admission under rule 8.38 or 8.40 for the purpose of a proceeding may not be used against the admitting party in another proceeding.
-Compare: 1908 No 89 Schedule 2 r 317
-8.42 Contempt of court
-(1) Every person is guilty of contempt of court who, being a person from whom discovery is sought by an order made under rule 8.25(2) or 8.26(2), wilfully and without lawful excuse disobeys the order or fails to ensure the order is complied with.
-(2) This rule does not limit or affect any power or authority of the court to punish a person for contempt of court.
-Compare: 1908 No 89 Schedule 2 r 317A
+Compare: 1908 No 89 Schedule 2 r 8.15 prior to 1 February 2012
 Part 9
 Evidence
 Subpart 1—Briefs of evidence, indexes, and bundles of documents
@@ -3978,21 +4027,22 @@ Compare: 1908 No 89 Schedule 2 r 441K
 (a) will be referred to in evidence to be given, or submissions to be made, at the hearing; and
 (b) are not already included in any index previously served under this rule on the party by another party.
 Compare: 1908 No 89 Schedule 2 r 441M
-9.13 Bundle of documents for hearing to be prepared and filed
-(1) After the expiry of the period of 15 working days specified in rule 9.3, the plaintiff must prepare a bundle of documents (in this rule and in rules 9.14 and 9.15 referred to as the common bundle) that contains every document referred to in—
+9.13 Preparation of common bundle
+(1) The parties must co-operate in the preparation of a bundle of documents (in this rule and in rule 9.15 referred to as the common bundle).
+(2) The duty to co-operate includes—
+(a) advising the plaintiff or the plaintiff's counsel promptly, after the date when the last brief of any party is served under rule 9.3, of the documents that the party requires the plaintiff to include in the common bundle; and
+(b) taking all practicable steps to assist the plaintiff in the preparation of the common bundle, for example, by making copies of documents available, or agreeing to the excision of part of a document if that part cannot be relevant.
+(3) Unless excused by the court, the plaintiff must prepare, file, and serve a common bundle containing every document referred to in—
 (a) the index served by the plaintiff under rule 9.12; and
 (b) each index (if any) served by another party under that rule.
-(2) In preparing the common bundle, the plaintiff must—
+(4) In preparing the common bundle, the plaintiff must—
 (a) set out the documents in chronological order or any other appropriate order agreed on by counsel; and
 (b) number each page of the common bundle in consecutive order; and
 (c) set out before the first document an index that shows—
 (i) the date and nature of each document; and
 (ii) the party from whose custody each document has been produced; and
 (iii) the page number of each document as it appears in the common bundle.
-(3) The plaintiff must, not later than 5 working days before the hearing,—
-(a) file 2 copies of the common bundle in the court; and
-(b) serve 1 copy of the common bundle on every party to the proceeding.
-Compare: 1908 No 89 Schedule 2 r 441N
+(5) Unless the court directs otherwise, the common bundle must be served no later than 15 working days after the date when the last brief of any party is served under rule 9.3.
 9.14 Consequences of incorporating document in common bundle
 (1) Each document contained in the common bundle is, unless the court otherwise directs, to be considered—
 (a) to be admissible; and
@@ -6204,7 +6254,7 @@ Compare: 1908 No 89 Schedule 2 r 450(3)
 (a) the law requires the making of an application for directions as to service; or
 (b) the plaintiff is in doubt regarding the persons on whom the statement of claim should be served; or
 (c) an order is sought that any person represent any other person or class of persons who should be served; or
-(d) the proceeding is under the Companies Act 1993 and is not a proceeding in the liquidation of a company, or a proceeding under section 174 of that Act, or an application to set aside a statutory demand under section 290 of that Act; or
+(d) the proceeding is under the Companies Act 1993 and is not a proceeding in the liquidation of a company or an application to set aside a statutory demand under section 290 of that Act; or
 (e) the court directs that the plaintiff should apply to the court under this rule.
 (2) The plaintiff must apply to the court without notice for directions as to service and for any orders for representation that may be required.
 (3) In support of the application, the plaintiff must provide (by affidavit or otherwise) the information that may be necessary to enable the court to decide what persons or classes of persons are interested in, or may be adversely affected by, the relief sought by the plaintiff and by what means the interests of each such person or class of persons may be adequately represented.
@@ -6257,6 +6307,13 @@ Compare: 1908 No 89 Schedule 2 r 453
 (b) proceedings under the Law Reform (Testamentary Promises) Act 1949; or
 (c) proceedings under the Property (Relationships) Act 1976, transferred to the court by order of a Family Court Judge under section 22(3) of that Act.
 Compare: 1908 No 89 Schedule 2 r 454
+18.14A Interlocutory applications under section 174 of the Companies Act 1993
+Subpart 2 of Part 7, which relates to interlocutory applications, applies to applications to the court that relate to a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
+18.14B Service of order made under section 174 of Companies Act 1993
+(1) When an order is made under section 174 of the Companies Act 1993, a registry copy of the order must, unless the court otherwise orders, be served by the plaintiff on—
+(a) the defendant company in accordance with the Companies Act 1993; and
+(b) the Registrar of Companies.
+(2) If the order involves an alteration of the constitution of the company, the Companies Act 1993 applies as the court directs.
 Subpart 4—Evidentiary requirements
 18.15 Evidence generally by agreed statement of facts or affidavit
 (1) Unless a Judge otherwise directs, evidence in a proceeding to which this Part applies must be given—
@@ -8935,9 +8992,7 @@ Compare: 1908 No 89 Schedule 2 r 627B
 Part 31
 Companies: Liquidation
 31.1 Application
-(1) This Part applies to an application to the High Court—
-(a) to put a company into liquidation; or
-(b) for an order under section 174 of the Companies Act 1993.
+(1) This rule applies to an application to the High Court to put a company into liquidation.
 (2) Rules 31.37 and 31.38 apply in respect of a notice under section 294(1) of the Companies Act 1993.
 (3) These rules and the general practice of the High Court apply to applications to which subclause (1) applies and notices to which subclause (2) applies unless they are modified by or inconsistent with this Part or the Companies Act 1993.
 Compare: 1908 No 89 Schedule 2 r 700A
@@ -8946,7 +9001,7 @@ Unless the court otherwise directs, every application to which this Part applies
 Compare: 1908 No 89 Schedule 2 r 700B
 31.3 Applications to be made by statement of claim
 (1) An application to the High Court to put a company into liquidation under section 241(2)(c) of the Companies Act 1993 must be made by statement of claim in form C 1.
-(2) An application to the High Court under section 174 of the Companies Act 1993 must be made by statement of claim in form C 2.
+(2) [Repealed]
 Compare: 1908 No 89 Schedule 2 r 700C
 31.4 Proper registry of court
 (1) Despite rules 5.1(1) to (3) and 5.25, the proper registry of the court for the purposes of the filing of a statement of claim under rule 31.3 is—
@@ -8993,7 +9048,7 @@ Compare: 1908 No 89 Schedule 2 r 700H
 (b) at least once—
 (i) in a local newspaper circulating in the locality where the registered office, or principal or last known principal place of business, as the case may be, of the defendant company is or was situated; or
 (ii) in another newspaper as the Registrar directs.
-(6) The advertisement, which must be in form C 6 or C 7 as the case may require, must state—
+(6) The advertisement, which must be in form C 6, must state—
 (a) the day on which the application to put the defendant company into liquidation was filed; and
 (b) the name and address of the plaintiff and of the plaintiff's solicitor (if any); and
 (c) the plaintiff's address for service; and
@@ -9046,7 +9101,7 @@ Compare: 1908 No 89 Schedule 2 r 700Q
 31.18 Appearance
 A person (other than the defendant company) who intends to appear on the hearing of the proceeding may, without filing a statement of defence, file an appearance in form C 9—
 (a) stating that the person intends to appear; and
-(b) indicating whether that person supports or opposes the application to put the company into liquidation or the application for an order under section 174 of the Companies Act 1993.
+(b) indicating whether that person supports or opposes the application to put the company into liquidation.
 Compare: 1908 No 89 Schedule 2 r 700R
 31.19 Time for filing appearance
 An appearance must be filed not later than 2 working days before the date of hearing.
@@ -9127,11 +9182,7 @@ When an order that a company be put into liquidation or an order for the appoint
 (b) 1 copy of the order sealed with the seal of the court must be served by the plaintiff on the company in accordance with the Companies Act 1993.
 Compare: 1908 No 89 Schedule 2 r 700ZE
 31.33 Service of order made under section 174 of Companies Act 1993
-(1) When an order is made under section 174 of the Companies Act 1993, a registry copy of the order must, unless the court otherwise orders, be served by the plaintiff on—
-(a) the defendant company in accordance with the Companies Act 1993; and
-(b) the Registrar of Companies.
-(2) If the order involves an alteration of the constitution of the company, the Companies Act 1993 and this Part apply as the court directs.
-Compare: 1908 No 89 Schedule 2 r 700ZF
+[Repealed]
 31.34 Service of notice to officer executing process that company being put into liquidation
 (1) This rule applies to a notice given for the purposes of section 252 of the Companies Act 1993, which is a notice—
 (a) that an application has been made to the court to appoint a liquidator; or
@@ -9146,10 +9197,10 @@ Compare: 1908 No 89 Schedule 2 r 700ZG
 31.35 Procedure in respect of miscellaneous applications
 (1) Subpart 2 of Part 7, relating to interlocutory applications, applies to applications to the court in respect of—
 (a) a defendant company sought to be put into liquidation under section 241(2)(c) of the Companies Act 1993; or
-(b) a company in respect of which a liquidator has been appointed under section 241(2)(c) of the Companies Act 1993; or
-(c) a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
+(b) a company in respect of which a liquidator has been appointed under section 241(2)(c) of the Companies Act 1993.
+(c) [Repealed]
 (2) Subclause (1) is subject to subclauses (3) and (4).
-(3) An application specified in subclause (1) must have the same heading as the heading on the application for putting the company into liquidation or for the order under section 174 of the Companies Act 1993.
+(3) An application specified in subclause (1) must have the same heading as the heading on the application for putting the company into liquidation.
 (4) Subclause (1) does not apply to—
 (a) an application under rule 31.36; or
 (b) an application to which Part 18 or 19 applies.
@@ -10316,40 +10367,45 @@ Signature:
 *Select one.
 Form G 37
 Affidavit of documents
-r 8.20(3)
+rr 8.15, 8.16
 I, [full name, place of residence, occupation], swear—
 1 I am [state which party you are (or the capacity in which you make the affidavit) and your authority to make the affidavit].
-2 I make this affidavit under an order for discovery made under rule 8.17 of the High Court Rules on [date] (the discovery order).
-3 Include this paragraph if it applies, otherwise omit.
-The discovery order contains particular terms that are not set out in rule 8.18 of the High Court Rules, and those particular terms are: [specify particular terms].
-4 I am aware of my obligations under the discovery order and understand those obligations.
-5 In order to fulfil my obligations under the discovery order, I have diligently searched for all documents that I am required to discover under the order, and I have also taken the following particular steps: [specify steps taken, such as, for example, inquiries made of named persons].
+2 I make this affidavit under an order for standard discovery under rule 8.7/under an order for tailored discovery under rule 8.10* on [date] (the discovery order).
+*Select one.
+3 [Specify the content of the discovery order in terms of paragraph (a), (b), or (c) of rule 8.12(2) and, if paragraph (c) applies, state the obligations imposed by the order.]
+4 I understand the obligations imposed by the discovery order.
+5 In order to fulfil those obligations, I have diligently searched for all documents required to be discovered under the discovery order, and I have also taken the following particular steps: [specify steps taken, for example, inquiries made of named persons].
 6 In the Schedule of this affidavit, I list the documents that I am required to discover.
 7 In Part 1 of the Schedule, I list the documents that are in my control and for which I claim neither privilege nor confidentiality.
 8 Include this paragraph if it applies, otherwise omit.
-In Part 2 of the Schedule, I list the documents that are in my control and for which I claim privilege and state in relation to each document the privilege that applies.
+In Part 2 of the Schedule, I list the documents that are in my control and for which I claim privilege and state in relation to each document the nature of the privilege that applies.
 9 Include this paragraph if it applies, otherwise omit.
-In Part 3 of the Schedule, I list the documents that are in my control and for which I claim confidentiality. I propose that inspection of these documents be restricted to [name persons] and that the following restrictions apply [specify proposed restrictions on inspection].
+In Part 3 of the Schedule, I list the documents that are in my control and for which I claim confidentiality. I propose that inspection of these documents be restricted to [name persons] and that the following restrictions apply: [specify proposed restrictions on inspection].
 10 Include this paragraph if it applies, otherwise omit.
 In Part 4 of the Schedule, I list documents that are no longer in my control and state when, to the best of my knowledge and belief, each document ceased to be in my control and the persons who, to the best of my knowledge and belief, now have control of each document.
 11 Include this paragraph if it applies, otherwise omit.
-In Part 5 of the Schedule, I list other documents known to me relating to a matter in question in the proceeding.
-12 To the best of my knowledge and belief, this affidavit is correct in all respects and faithfully carries out my obligations under the discovery order.
-Sworn at [place, date]
+In Part 5 of the Schedule, I list other documents known to me that have never been in my control but that I know would be discoverable if I had control of them.
+12 To the best of my knowledge and belief, this affidavit is correct in all respects and carries out my obligations under the discovery order.
+Sworn at: [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand)
 Schedule
-Part 1 Documents that are in my control and for which I claim neither privilege nor confidentiality
+Part 1
+Documents that are in my control and for which I claim neither privilege nor confidentiality
 [List and number the documents concerned.]
-Part 2 Documents that are in my control and for which I claim privilege
+Part 2
+Documents that are in my control and for which I claim privilege
 [List and number the documents concerned. State the nature of the privilege claimed for each document or category of document, eg, legal professional privilege.]
-Part 3 Documents that are in my control and for which I claim confidentiality
-[List and number the documents concerned. State why each document or category of document is confidential.]
-Part 4 Documents that are no longer in my control
+Part 3
+Documents that are in my control and for which I claim confidentiality
+[List and number of the documents concerned. State why each document or category of document is confidential.]
+Part 4
+Documents that are no longer in my control
 [List the documents concerned. State, to the best of your knowledge and belief,—
 (a) when each document or category of document ceased to be in your control; and
 (b) the persons who now have control of each document.]
-Part 5 Documents that have never been in my control
+Part 5
+Documents that have never been in my control
 [List any documents that you know relate to a matter in question in the proceeding but that are not, and have never been, in your control. State, to the best of your knowledge and belief, where the documents are.]
 Form G 38
 Freezing order
@@ -12884,3 +12940,185 @@ The agenda for each pre-trial conference must include—
 (iv) a summary of legal principles with reference to directly relevant authorities; and
 (f) a bundle of documents; and
 (g) any other issues raised by a party that should be dealt with before the trial.
+Schedule 9
+Discovery checklist and the listing and exchange protocol
+rr 8.10, 8.11, 8.12, 8.15, 8.16, 8.27
+The purpose of this schedule is to assist the parties in carrying out discovery in accordance with subpart 1 of Part 8, and to specify detailed requirements for listing and exchanging documents when giving discovery.
+Part 1
+Discovery checklist
+1 Assessing proportionality
+The parties must—
+(a) review the pleadings to identify the categories of documents that would be required if a standard discovery order were made in the terms set out in rule 8.7; and
+(b) identify where those documents are likely to be located, including the following:
+(i) the individuals likely to have those documents or know where they might be located; and
+(ii) the location and likely volume of any documents held as hard copies or electronically; and
+(iii) whether other people have discoverable documents within the client's control (for example, lawyers, accountants); and
+(c) estimate the likely volume and cost of discovering the above material, including the following matters:
+(i) the approximate number of hard copy and electronic documents; and
+(ii) the estimated cost of assembling and discovering those documents (including reviewing for relevance, privilege and confidentiality, and listing the documents); and
+(iii) whether specialist expertise is required to help the making of informed decisions (including an accurate assessment of the likely costs involved); and
+(d) assess and discuss with the other parties whether that estimated cost is proportionate to the sums in issue or the value of the rights in issue in the proceeding. If the cost is disproportionate, or if, having regard to rules 8.8 and 8.9, the interests of justice require the making of a tailored discovery order, parties should seek such an order.
+2 Extent of search
+The parties must—
+(a) assess whether any of the methods identified in clause 3(2)(a)(ii) may assist in locating electronic material efficiently; and
+(b) consider whether it would be appropriate to seek a tailored discovery order about the extent to which a party must search for documents to reflect the circumstances of the case, including (but not limited to) the following:
+(i) the number of documents involved; and
+(ii) the nature and complexity of the proceeding; and
+(iii) the ease and expense of retrieval of any particular document; and
+(iv) the significance of any document that is likely to be located during the search.
+3 Tailored discovery
+(1) This clause applies when tailored discovery is appropriate having regard to rules 8.8 and 8.9, or when any party intends to apply for an order for tailored discovery.
+(2) The parties must—
+(a) endeavour to agree a proposal in relation to the discovery order that should be made, with respect to the following:
+(i) categories: identify the categories of documents required to be discovered by the parties, and for each category seek to limit discovery to what is reasonable and proportionate. This may be done by, for example, specifying—
+(A) subject matter:
+(B) date range:
+(C) types of documents:
+(D) key individuals (for example, those who are company directors or are at a specified management level); and
+(ii) methods and strategies for locating documents: seek agreement on what methods and strategies are appropriate to conduct a reasonable and proportionate search for the documents as identified in paragraph (a), including (but not limited to) the following:
+(A) appropriate keyword searches; and
+(B) other automated searches and techniques for culling documents (including concept searching, clustering technology, document prioritisation technology, email threading, and any other new tool or technique); and
+(C) a method to be used to identify duplicate documents; and
+(D) whether specialist assistance is required to locate documents efficiently and accurately; and
+(b) discuss whether a staged approach may be appropriate in conjunction with identifying the categories and methods to be adopted by the parties. Parties may agree on—
+(i) whether any different deadlines are appropriate; and
+(ii) whether to look initially at select categories (for example, date ranges or key individuals).
+4 Listing and exchange
+(1) Parties are required by rules 8.12(2) and 8.27(2) to use the listing and exchange protocol in Part 2 of this schedule unless a discovery order otherwise requires. Parties must—
+(a) consider whether the listing and exchange protocol is appropriate and seek to agree any modifications; and
+(b) if any electronic material contains relevant information that cannot be seen if provided to other parties in paper or image form, consider what special arrangements will be necessary for inspection (for example, unusual software licences are required).
+(2) If the parties agree to modify the listing and exchange protocol, the agreement between them must be recorded in writing. The discovery order must record that the parties have agreed to modify the listing and exchange protocol, but it is not necessary for the specific modifications to be contained in the discovery order or be considered by the Judge.
+(3) To reduce unnecessary costs of listing documents, parties are encouraged to—
+(a) use native electronic versions of documents as much as possible; and
+(b) use the extracted metadata from native electronic documents, instead of manually listing documents; and
+(c) convert documents to image format only when it is decided they are to be produced for discovery; and
+(d) if document images are to be numbered, only number those images if they are to be produced for discovery.
+5 Presenting documents at trial
+The parties must—
+(a) consider with the other parties how documents will be used efficiently and effectively in preparation for and in the conduct of the trial (for example, whether an electronic bundle of documents will be used); and
+(b) ensure the format adopted for listing and exchange of documents is compatible with any such uses.
+Part 2
+Listing and exchange protocol
+6 Protocol requirements
+(1) Parties are required to—
+(a) list documents, providing the following detail for each document:
+(i) document ID:
+(ii) date:
+(iii) document type:
+(iv) author:
+(v) recipient:
+(vi) parent document ID:
+(vii) privilege category; and
+(b) exchange documents electronically by way of—
+(i) a single, continuous table or spreadsheet, with each column exclusively containing the detail from paragraph (a); and
+(ii) multi-page images in PDF format (or another format if agreed).
+(2) Parties should endeavour to apply the specific details in clauses 7 to 11 to ensure consistency for listing and exchange.
+(3) Any technical terms have the meanings set out in the glossary in Part 3.
+7 List of documents format
+(1) The format of the document descriptions should be as follows:
+Field No Field name Description
+1 Document ID The document ID must be a unique reference
+The format must be alphanumeric, for example, AAA.000001, AAA.01.0001, etc
+Parties must agree on Party Codes, for example,—
+AAA—Party A
+BBB—Party B
+CCC—Party C
+2 Date
+The date appearing on the face of the document
+Dates must appear as DD/MMM/YYYY, for example, 01 Jan 2010
+If a document is partially dated or only partially legible, this field must contain such date information as can be determined from the document
+If the date is estimated, state that in an additional field titled "Estimated"
+3 Document type
+The type of document being listed, for example, email, letter
+Parties may agree to construct a predefined list for all document types
+4 Author
+The name of the author of the document
+If only part of either the individual or organisation can be determined, provide the information available
+5 Recipient
+The name of the recipient(s) of a document
+If only part of either the individual or organisation can be determined, provide the information available
+6 Parent document ID
+This field will be populated with the document ID of the parent document
+This field will be populated only if a document is attached to, or embedded within, another document
+7 Privilege category
+This field is to be populated if the document is subject to a privilege claim
+(2) Documents may be listed otherwise than chronologically if a different order would be more convenient.
+(3) Other than document ID, if information cannot be determined for a description it must be left blank.
+(4) The parties may agree not to list face value descriptions for electronic documents, and instead use agreed metadata material that is extracted from the electronic files. In all cases, however, the method must be agreed. This is to ensure parties' descriptions are consistent with each other.
+(5) Any document ID used in any supplementary discovery must be unique and run sequentially from the last number used in the previous list.
+(6) The list must include all documents previously disclosed by that party in accordance with rule 8.4.
+8 Specific document decisions
+Duplicate documents
+(1) The following applies in relation to duplicate documents:
+(a) parties must take reasonable steps to ensure exact duplicate documents are removed from the discovered documents:
+(b) a copy or version of a document containing a material modification or an obliteration or other marking must be treated as a separate document:
+(c) an email and attachment are to be considered a duplicate only if the entire email and attachment document group is contained elsewhere:
+(d) a document attached to a document group is not to be classed as a duplicate if it is contained as a stand-alone document elsewhere:
+(e) parties should discuss the method of de-duplication at an early stage.
+Emails
+(2) The following applies in relation to emails:
+(a) all individually discoverable emails must be listed separately:
+(b) if an email is part of a chain, parties should make reasonable efforts (subject to issues of time, cost, and proportionality) to—
+(i) discover the top-level version of each relevant email contained within the chain; and
+(ii) investigate whether email chain technology may assist in directing parties to the end point of an email chain.
+Attachments
+(3) The following applies in relation to attachments:
+(a) any document that is attached to or embedded within another document is to be classed as an attachment:
+(b) attachments must be listed as separate documents:
+(c) in general, attachments must appear immediately after the parent document in the list, and will take the next document ID.
+Consistency of names
+(4) The following applies in relation to consistency of names:
+(a) the parties must consult and co-operate with each other to agree on a set list of common names to ensure consistency across the document descriptions:
+(b) consistent naming conventions may be established for fields like document type, author, and recipient.
+Native electronic documents
+(5) The following applies in relation to native electronic documents:
+(a) electronic documents that do not lend themselves to conversion to PDF (for example, complex spreadsheets, databases, etc) may be exchanged in their native electronic format:
+(b) parties may agree on a list of electronic file types that do not lend themselves to conversion to PDF.
+Colour documents
+(6) The following applies in relation to colour documents:
+(a) colour versions of documents need to be created only if it will be evidentially significant to see colour in a document:
+(b) if it is technically impracticable to reproduce a document in colour, the party giving discovery must make the original document available for inspection in its native file format.
+9 Privilege
+(1) Parties must agree on any specific privilege requirements for listing and exchange.
+(2) Documents for which privilege is claimed may be group listed in accordance with rule 8.16(2).
+(3) Documents must be given a description in accordance with clause 7(1), unless the description discloses information contained in a communication for which privilege is claimed.
+(4) The parent document ID information must be noted in the list if the privilege claim relates to part of a document group.
+10 Redactions
+(1) The redacted sections of a document must be blacked out on the image. Parties may agree that a label or note must be provided explaining the grounds for the redaction.
+(2) The party redacting or altering a document must ensure that the original un-redacted and unaltered version is preserved so that it remains available to be inspected if required.
+11 Exchange format
+(1) The format of the table or spreadsheet must be as follows:
+(a) each document must be contained within a separate row and all field entries must be contained within single cells; and
+(b) a delimiter, for example, ";", must be used for any multi-entry fields, for example, "; recipient".
+(2) Documents must be provided as multi-page PDF images (or in another format if agreed).
+(3) The file name for each individual document must be "document ID.pdf".
+(4) If a document has relevant metadata, parties may request its provision in native file format. Either—
+(a) the document ID must be contained within the name of the native file format, for example, "document ID.xls"; or
+(b) the file name of the native file must be specified in an additional field in the spreadsheet.
+(5) The parties may agree to provide documents as searchable images.
+(6) If the software technology available to the party giving discovery makes it reasonably possible, all image documents must have the document ID clearly marked on at least the first page of the document.
+(7) The spreadsheet and the folder with the documents should be provided on a media disk.
+(8) Parties should not place any restrictions on the spreadsheet or documents that prevent opposing parties from accessing them.
+Part 3
+Glossary
+In this schedule, unless the context otherwise requires,—
+attachment means any document that is attached to or embedded within another document
+clustering means grouping documents by identifying conceptually alike documents
+concept searching means a search that attempts to match results with the query conceptually (rather than just by identity or similarity of words)
+de-duplication means the process of identifying and removing duplicate documents from a collection of documents so that only 1 unique copy of each document remains. A cryptographic hash function such as the Message Digest algorithm 5 may be used to generate a digital fingerprint for an electronic document. The digital fingerprint of a document can then be electronically compared against the digital fingerprint of any other document to determine whether the documents are exact duplicates. De-duplication may also be implemented by using a cryptographic hash function applied to a group of documents
+document has the meaning set out in rule 1.3 of the High Court Rules and includes all ESI
+document description means the set of data fields used to describe a document under clause 7(1)
+document ID has the meaning set out in clause 7(1)
+document prioritisation technology (predictive coding) means technology that analyses the decisions of a human review of a sample set of documents. The software then prioritises/ranks the remainder of documents based on the decisions made on the sample documents, which allows the most relevant documents to be identified first
+electronic image or image means an electronic representation of a paper document or electronically stored information. An electronic image may be a searchable image or an unsearchable image
+electronically stored information (ESI) means any information stored electronically. It includes, for example, email and other electronic communications such as SMS and voicemail, word processed documents and databases, and documents stored on portable devices such as memory sticks and mobile phones. In addition to documents that are readily accessible from computer systems and other electronic devices and media disks, it includes documents that are stored on servers and back-up systems and electronic documents that have been deleted. It also includes metadata and embedded data
+email threading (email chain) means technology that allows the identification of related emails in a thread. This technology can identify the email end point and identify the unique emails in a thread
+keyword search means a software-aided search for words across the text of an electronic document
+media disk means a CD, DVD, USB flash drive, or any other portable media device
+metadata means data about data. In the case of an electronic document, metadata is typically embedded information about the document that is not readily accessible once the native electronic document has been converted into an electronic image or paper document, for example, the date on which the document was last printed or amended. Metadata may be created automatically by a computer system (system metadata) or may be created manually by a user (application metadata). Depending on the circumstances of the case, metadata may be discoverable
+native electronic document or native file format means an electronic document stored in the original form in which it was created by a computer software program
+parent document means a document with 1 or more attachments. For example, an email is a parent document and any documents attached to the email are its attachments
+party code means a sequence of alphanumeric characters in a document ID that uniquely identifies a party in the proceeding
+PDF (portable document format) is a file format that enables documents to be displayed or printed in a manner that preserves the formatting originally used by the author. A PDF file may be either a searchable image file or an unsearchable image file
+redaction means the process of rendering part of a document unreadable. It is sometimes referred to as masking. Redaction is typically used to render confidential or privileged portions of an otherwise discoverable document unreadable
+searchable image means an electronic image in which text-based contents can be searched electronically.
