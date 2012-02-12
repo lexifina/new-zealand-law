@@ -1,4 +1,2 @@
 # 145A Manner in which amounts of reparation must be applied in cases involving same offence
-(1) This section applies if a person (the liable person) is required to pay an amount of reparation to 2 or more persons in relation to the same offence (whether the requirement to pay the amount of reparation arose before or after the commencement of this section).
-(2) Any payments received from the liable person must be applied, as between the persons in whose favour the sentence of reparation or order of reparation (or both) was made, in the proportion that reflects the relative total or proportionate amounts ordered to be paid to each of them under the sentence or order (or both or if there was no such order, in equal amounts).
-(3) Subsection (2) applies subject to any contrary direction by a court.
+[Repealed]
