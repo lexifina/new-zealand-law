@@ -2,7 +2,7 @@
 (1) Subsection (2) applies if—
 (a) a person against whom a Police safety order is issued refuses or fails to comply with the order, or any condition of the order; or
 (b) a person who the District Court is satisfied has refused or failed to comply with a Police safety order does not attend personally at the time and place to which proceedings have been adjourned under section 124N(1)(c)(i).
-(2) The District Court may issue a warrant in the prescribed form.
+(2) A District Court or Registrar may issue a warrant in the prescribed form.
 (3) A warrant to arrest a person under this section—
 (a) must be directed either—
 (i) specifically to a constable; or

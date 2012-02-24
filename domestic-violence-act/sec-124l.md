@@ -1,5 +1,5 @@
 # 124L Contravention of Police safety order
-(1) Subsection (2) applies where a person against whom an order is issued refuses or fails to comply with—
+(1) Subsection (2) applies where a person who has been served with an order refuses or fails to comply with—
 (a) the order; or
 (b) any condition of the order.
 (2) If this subsection applies, a constable may take the person into custody by—
