@@ -1,7 +1,7 @@
 # 26I Associate Judge may exercise certain powers of the court
 (1) An Associate Judge shall have and may exercise all the jurisdiction and powers of the court in relation to the following matters:
 (a) any application for summary judgment:
-(b) any application to stay or dismiss an application for the appointment of a liquidator under the Companies Act 1955 or the Companies Act 1993, as the case may be:
+(b) [Repealed]
 (c) any proceedings under which relief is claimed solely under any of the provisions of sections 140, 143, 144, 145, 145A, and 148 of the Land Transfer Act 1952 (which provisions relate to caveats):
 (d) the assessment of damages where liability has been determined, or the trial of proceedings in which only the amount of the debt or damages is disputed:
 (e) the entry of any judgment by consent, or the making of any other order by consent:
@@ -13,7 +13,7 @@
 (b) sections 205 to 207 of the Companies Act 1955, as applied to compromises and arrangements by section 35 of the Companies Amendment Act 1993:
 (c) sections 220 to 222, 226, 231(4), 233 to 237, 239, 240(1)(a), 246 to 249, 250 to 263, 265 to 267, 311A, 311B, 312, and 332 of the Companies Act 1955, as applied in relation to the winding up of a company by section 42(1) of the Companies Amendment Act 1993:
 (d) sections 139, 168, 209N to 209P, 209R to 209T, 209X to 209ZA, 209ZF, 211, 213, 216 to 218, 220, 231(2), 235(5), 240, 243, 258, 260, 264, 265, 268 to 270, 281, 288, and 467 of the Companies Act 1955, as continued in force by section 3 of the Companies Act Repeal Act 1993:
-(e) sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, and Part 16 of the Companies Act 1993:
+(e) sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, Part 16, and section 329 of the Companies Act 1993:
 (f) rules 39, 41, 71, 87 to 89, 91, 94, 95, 96, 111, 125(3), 136, 137, 141 to 143, 190, and 191 of the Companies (Winding Up) Rules 1956, as continued in force by section 42(7) of the Companies Amendment Act 1993:
 (g) section 42(2) of the Corporations (Investigation and Management) Act 1989:
 (h) section 26, Part 10, section 119, and Part 15 of the Insolvency Act 1967:
