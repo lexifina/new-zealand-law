@@ -9,3 +9,4 @@
 (4) The report must also compare the actual expenses or capital expenditure incurred in relation to that appropriation or class of outputs with the expenses or capital expenditure that were appropriated or forecast to be incurred.
 (5) Despite subsection (3), the report does not need to include a statement of service performance in relation to a part of an appropriation or a class of outputs on which another entity is required to report in its statement of service performance if an Appropriation Act that lists the appropriation or class of outputs so provides.
 (6) The Minister responsible for the appropriation or class of outputs must arrange for the report to be published if he or she is requested to do so by the Minister.
+Compare: 1989 No 44 s 32A

@@ -13,3 +13,4 @@
 (a) in the case of the financial statements to the end of November, the last day of January in the following year; and
 (b) in the case of the financial statements to the end of December, the last day of February in the following year; and
 (c) in any other case, 6 weeks after the end of the period to which they relate.
+Compare: 1989 No 44 ss 30-31A
