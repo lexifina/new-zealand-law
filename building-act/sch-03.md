@@ -44,6 +44,7 @@ Procedures of Board
 31 Presiding at meetings
 32 Voting at meetings
 33 Unanimous written resolutions
+34 Appointment of subcommittee to deal with complaints and licensing appeals
 Members' appointment
 1 Method of appointment
 (1) The Governor-General appoints a member by sending written notice to the member (with a copy to the Board).
@@ -210,3 +211,9 @@ A meeting of the Board may be held—
 33 Unanimous written resolutions
 (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the Board duly called and constituted.
 (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
+34 Appointment of subcommittee to deal with complaints and licensing appeals
+(1) The Board may appoint 1 or more subcommittees of the Board and by written notice may delegate to a subcommittee any or all of its functions under section 343(b) and (c).
+(2) A subcommittee must have no fewer than 3 members.
+(3) The members of a subcommittee must be members of the Board, and the Board must nominate 1 of the members as the chairperson of the subcommittee.
+(4) The Board must regulate the procedure of its subcommittees as it thinks fit, and may at any time discharge, alter, or reconstitute a subcommittee.
+(5) A delegation under this clause may be revoked at any time, and the delegation of a function of the Board does not prevent the Board from exercising that function itself.

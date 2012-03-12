@@ -15,7 +15,7 @@ s 41(1)(b)
 (i) is of a minor nature (for example, shifting a gully trap); and
 (ii) does not include making any new connection to a service provided by a network utility operator; and
 (iii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006:
-(ad) the alteration to existing sanitary plumbing (as defined in section 3 of the Plumbers, Gasfitters, and Drainlayers Act 1976) in a dwelling (for example, replacing a bath with a shower or moving a toilet) carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006 and that is not repair or replacement to which paragraph (a)(iv) (other than subsubparagraph (A) or (B)) applies:
+(ad) the alteration to existing sanitary plumbing (as defined in section 6 of the Plumbers, Gasfitters, and Drainlayers Act 2006) in a dwelling (for example, replacing a bath with a shower or moving a toilet) carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006 and that is not repair or replacement to which paragraph (a)(iv) (other than subsubparagraph (A) or (B)) applies:
 (ae) the installation, replacement, or removal in any existing building of a window (including a roof window) or an exterior doorway if—
 (i) compliance with the provisions of the building code relating to structural stability is not reduced; and
 (ii) in the case of replacement, the window or doorway being replaced satisfied the provisions of the building code for durability:
