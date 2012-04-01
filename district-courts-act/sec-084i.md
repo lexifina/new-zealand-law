@@ -7,7 +7,7 @@
 (i) any charge created by any attachment order or deduction notice made under the Family Proceedings Act 1980:
 (ii) any charge created by any attachment order made under the Summary Proceedings Act 1957:
 (iii) any deduction notice issued under the Child Support Act 1991:
-(iiia) any deduction notice issued under section 157 of the Tax Administration Act 1994 (as applied by section 46 of the Student Loan Scheme Act 1992):
+(iiia) any deduction notice issued under section 157 of the Tax Administration Act 1994 (as applied by section 193 of the Student Loan Scheme Act 2011):
 (iv) in the case of an attachment order against a benefit within the meaning of the Social Security Act 1964, any deduction from or adjustment to that benefit under section 86 of that Act,—
 (whether the charge was created or the adjustment or deduction was authorised before or after the making of the attachment order under this Act); but
 (d) shall prevail over and have priority to any assignment or charge created by the judgment debtor (whether before or after the making of the attachment order under this Act), and so that the attachment order shall have the same effect as if no such assignment or charge had been made or created by the judgment debtor.
