@@ -1335,6 +1335,24 @@ Search orders
 33.7 Independent solicitors
 33.8 Review of search
 33.9 Costs
+Schedule 1
+Forms
+Schedule 2
+Appropriate daily recovery rates
+Schedule 3
+Time allocations
+Schedule 4
+Code of conduct for expert witnesses
+Schedule 5
+Matters for consideration at case management conference for proceeding other than appeal
+Schedule 6
+Standard directions for appeals
+Schedule 7
+Standard directions for appeals by way of case stated and references under Part 21
+Schedule 8
+Matters for consideration at pre-trial conference for proceedings on standard track
+Schedule 9
+Discovery checklist and the listing and exchange protocol
 Part 1
 Rules of general application
 Subpart 1—Objective and interpretation
@@ -12733,101 +12751,88 @@ Schedule 2
 Appropriate daily recovery rates
 r 14.4
 Note: The following are the appropriate daily recovery rates for the categories of proceedings referred to in rule 14.3.
-Category of proceedings referred to in rule 14.3 Appropriate daily recovery rate
-Category 1 proceedings $1,250 per day
-Category 2 proceedings $1,880 per day
-Category 3 proceedings $2,780 per day
+Category of proceedings (rule 14.3) Appropriate daily recovery rate ($)
+1 1,320
+2 1,990
+3 2,940
 Schedule 3
 Time allocations
 r 14.5
 General civil proceedings Allocated days or part days
 A B C
-1 Commencement of proceeding by plaintiff (receiving instructions, researching facts and law, and preparing, filing, and serving statement of claim and notice of proceeding or equivalent or originating application) 1.6 3 10
-2 Commencement of defence by defendant (receiving instructions, researching facts and law, and preparing, filing, and serving statement of defence or notice of opposition) 1 2 6
-3 Other pleadings and notices:
-3.1 Counterclaim 0.8 1.6 4.8
-3.2 Cross-notice between defendants 0.6 1.2 4
-3.3 Commencement of proceedings against third parties, including notice and statement of claim 1.2 2.4 7
-3.4 Notice of appearance with protest to jurisdiction 0.3 0.6 2
-3.5 Notice of appearance 0.2 0.2 0.2
-3.6 Pleading in response to other party's amended pleading (payable regardless of outcome except where formal or consented to) 0.3 0.6 2
-4 Interlocutory proceedings and related steps:
-4.1 Notice to answer interrogatories 0.4 1 4
-4.2 Answer to interrogatories 0.4 1 4
-4.3 Notice to admit facts 0.4 0.8 2.4
-4.4 Admissions of facts 0.4 0.8 2.4
-4.5 List of documents on discovery 0.7 1.5 6
-4.6 Production of documents for inspection 0.3 1 3
-4.7 Inspection of documents 0.5 1.5 6
-4.8 Payment into court 0.3 0.3 0.3
-4.9 Filing offer of other relief 0.3 0.3 0.3
-General civil proceedings Allocated days or part days
-A B C
-4.10 Filing memorandum for case management conference or mentions hearing 0.2 0.4 1
-4.11 Appearance at case management conference 0.3 0.3 0.7
-4.12 Preparing and filing interlocutory application (excluding summary judgment application) and supporting affidavits 0.3 0.6 2
-4.13 Preparing and filing opposition to interlocutory application (excluding summary judgment application) and supporting affidavits 0.3 0.6 2
-4.14 Preparation for hearing of defended interlocutory application (excluding summary judgment application) The time occupied by the hearing measured in quarter days
-4.15 Appearance at hearing of defended interlocutory application (excluding judgment summary application) for sole or principal counsel Appearance in court measured in quarter days
-4.16 Second and subsequent counsel if allowed by court 50% of allowance for appearance for principal counsel
-4.17 Appearance at mentions hearing or callover 0.2 0.2 0.2
-4.18 Sealing order or judgment 0.2 0.2 0.2
-5 Summary judgment application (additional to costs in items 1 to 3):
-5.1 Preparing and filing summary judgment application and supporting affidavits 0.3 0.6 2
-5.2 Preparing and filing opposition and supporting affidavits 0.3 0.6 2
-5.3 Preparation for hearing of defended summary judgment application The time occupied by the hearing measured in quarter days
-5.4 Arguing defended summary judgment application Appearance in court measured in quarter days
-5.5 Second and subsequent counsel if allowed by court 50% of allowance for appearance for principal counsel
-6 Obtaining judgment without appearance (additional to costs in items 1 to 5) 0.3 0.3 0.5
-7 Preparation for hearing following setting down or direction for trial if trial does not eventuate:
-General civil proceedings Allocated days or part days
-A B C
-7.1 Plaintiff's preparation of affidavits or written or oral statements of evidence to be used at hearing 1.5 2.5 5
-7.2 Plaintiff's preparation of lists of issues and authorities, selecting documents for common bundle of documents, and all other preparation 1.5 2.5 5
-7.3 Defendant's preparation of affidavits or written or oral statements of evidence to be used at hearing 1 2 4
-7.4 Defendant's preparation of lists of issues and authorities, selecting documents for common bundle of documents, and all other preparation 1 2 4
-8 Preparation for hearing if case proceeds to hearing Twice the time occupied by the hearing measured in half days
-9 Appearance at hearing:
-9.1 For sole or principal counsel Appearance in court measured in half days
-9.2 Second and subsequent counsel if allowed by court 50% of allowance for principal counsel
-10 Enforcement of judgment or order:
-10.1 Charging order without application 0.3 0.3 1
-10.2 Charging order with application, including any unopposed order 0.5 0.5 1.4
-10.3 Sale order 0.5 0.5 0.7
-10.4 Other execution process 0.5 0.5 0.7
-11 Other steps in the proceeding not specifically mentioned As allowed by court
-12 Commencement of appeal or review (including assessing original decision, noting appealable or reviewable points, and filing and serving notice of appeal and points of appeal or notice of application) 0.2 0.5 1.5
-13 Preparation for case management conference or pre-trial conference 0.1 0.2 0.4
-Appeals and reviews of Associate Judges Allocated days or part days
-A B C
-14 Appearance at case management conference or pre-trial conference 0.1 0.2 0.4
-15 Preparation for appeal or review The time occupied by the hearing measured in quarter days
-16 Appearance at hearing Appearance in court measured in quarter days
-Bankruptcy proceedings Allocated days or part days
-Items 17 to 20 apply to bankruptcy proceedings instead of items 1, 2, 4.10, 4.11, 8, and 9 A B C
-17 Preparing, filing, and serving bankruptcy notice 0.1 0.2 0.6
-18 Preparing bankruptcy petition and other documents 0.2 0.4 1.2
-19 Appearance at hearing 0.2 0.4 1.2
-20 Supporting party on bankruptcy 0.2 0.4 1.2
-Company liquidation proceedings Allocated days or part days
-Items 21 to 24 apply to company liquidation proceedings instead of items 1, 2, 4.10, 4.11, 8, and 9 A B C
-21 Preparing and issuing statutory demand 0.1 0.2 0.6
-22 Preparing statement of claim and other documents 0.3 0.6 1.8
-23 Appearance at hearing 0.2 0.4 1.2
-24 Supporting party on liquidation 0.2 0.4 1.2
-Specified originating applications* (relating to relief in respect of statutory demands and caveats) Allocated days or part days
-Items 25 to 30 apply to a specified originating application instead of items 1, 2, 4.10, 4.11, 8, and 9. A B C
-25 Preparing and filing specified originating application and supporting affidavits 0.8 1.6 4.8
-26 Preparing and filing notice of opposition and supporting affidavits 0.8 1.6 4.8
-27 Filing memorandum for case management conference 0.2 0.4 1
-28 Appearance at case management conference 0.3 0.3 0.7
-Specified originating applications* (relating to relief in respect of statutory demands and caveats) Allocated days or part days
-A B C
-29 Preparing for hearing of defended specified originating application The time occupied by the hearing measured in quarter days
-30 Appearance at hearing of defended specified originating application Appearance in court measured in quarter days
-*In items 25 to 30, specified originating application means an originating application that is made to the court under any of the following provisions:
-(a) sections 143, 145, or 145A of the Land Transfer Act 1952:
-(b) section 290 of the Companies Act 1993.
+Commencement
+1 Commencement of proceeding by plaintiff 1.6 3 10
+2 Commencement of defence by defendant 1 2 6
+Other pleadings and notices
+3 Reply 0.4 0.8 2.4
+4 Counterclaim 0.8 1.6 4.8
+5 Cross-notice between defendants 0.6 1.2 4
+6 Third party notice and statement of claim 1.2 2.4 7
+7 Notice of appearance 0.2 0.2 0.2
+8 Notice of appearance with protest to jurisdiction 0.3 0.6 2
+9 Pleading in response to amended pleading (payable regardless of outcome except when formal or consented to) 0.3 0.6 2
+Case management
+10 Preparation for first case management conference (including discussion about discovery) 0.2 0.4 1
+11 Filing memorandum for first or subsequent case management conference or mentions hearing 0.2 0.4 1
+12 Appearance at mentions hearing or callover 0.2 0.2 0.2
+13 Appearance at first or subsequent case management conference 0.3 0.3 0.7
+14 Preparation for and appearance at issues conference - 0.5 1
+15 Preparation for and appearance at pre-trial conference - 0.5 1
+Interrogatories, discovery and inspection
+16 Notice to answer interrogatories 0.4 1 4
+17 Answer to interrogatories 0.4 1 4
+18 Notice to admit facts 0.4 0.8 2.4
+19 Admissions of facts 0.4 0.8 2.4
+20 List of documents on discovery 0.7 2.5 7
+21 Inspection of documents 0.5 1.5 6
+Interlocutory applications (including applications for summary judgment and for review of interlocutory decisions)
+22 Filing interlocutory application 0.3 0.6 2
+23 Filing opposition to interlocutory application 0.3 0.6 2
+24 Preparation of written submissions 0.5 1.5 3
+25 Preparation by applicant of bundle for hearing 0.4 0.6 1
+26 Appearance at hearing of defended application for sole or principal counsel The time occupied by the hearing measured in quarter days
+27 Second and subsequent counsel if allowed by court 50% of allowance for appearance for principal counsel
+28 Obtaining judgment without appearance 0.3 0.3 0.5
+29 Sealing order or judgment 0.2 0.2 0.2
+Trial preparation and appearance
+30 Plaintiff's or defendant's preparation of briefs or affidavits 1.5 2.5 5
+31 Plaintiff's preparation of list of issues, authorities, and common bundle 1.5 2.5 5
+32 Defendant's preparation of list of issues, authorities, and common bundle 1 2 4
+33 Preparation for hearing 2 3 5
+34 Appearance at hearing for sole or principal counsel The time occupied by the hearing measured in quarter days
+35 Second and subsequent counsel if allowed by court 50% of allowance for appearance for principal counsel
+36 Other steps in proceeding not specifically mentioned As allowed by the court
+Originating applications
+37 Filing application and supporting affidavits 1 2 6
+38 Filing note of opposition and supporting affidavits 1 2 6
+39 Case management (as for ordinary proceeding)
+40 Preparation of written submissions 0.5 1.5 3
+41 Preparation by applicant of bundle for hearing 0.4 0.6 1
+42 Appearance at hearing for sole or principal counsel The time occupied by the hearing measured in quarter days
+43 Second and subsequent counsel if allowed by court 50% of allowance for appearance for principal counsel
+Bankruptcy proceedings
+44 Filing and serving bankruptcy notice 0.1 0.2 0.6
+45 Filing application for adjudication by creditor 0.3 0.6 1.8
+46 Appearance at hearing 0.2 0.4 1.2
+47 Supporting party on bankruptcy 0.2 0.4 1.2
+Company liquidation proceedings
+48 Issuing statutory demand 0.1 0.2 0.6
+49 Filing statement of claim and other documents 0.3 0.6 1.8
+50 Appearance at hearing 0.2 0.4 1.2
+51 Supporting party on liquidation 0.2 0.4 1.2
+Appeals
+52 Commencement of appeal or cross-appeal 0.5 1 3
+53 Commencement of response to appeal or cross-appeal 0.3 0.5 1
+54 Case management (as for ordinary proceeding)
+55 Preparation of Case on Appeal 0.5 1 2
+56 Preparation of written submissions 1 3 6
+57 Appearance at hearing for sole or principal counsel The time occupied by the hearing measured in quarter days
+58 Second and subsequent counsel if allowed by court 50% of allowance for appearance for principal counsel
+Enforcement of judgment or order
+59 Charging order without application 0.3 0.3 1
+60 Charging order with application, including any unopposed order 0.5 0.5 1.4
+61 Sale order, including sale of seized property 0.5 0.5 0.7
+62 Other enforcement process 0.5 0.5 0.7
 Schedule 4
 Code of conduct for expert witnesses
 r 9.43
