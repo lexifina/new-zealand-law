@@ -1,4 +1,4 @@
-# Schedule Amendments to other Acts
+# Schedule 1 Amendments to other Acts
 s 76
 Crown Entities Act 2004 (2004 No 115)
 Amendment(s) incorporated in the Act(s).
