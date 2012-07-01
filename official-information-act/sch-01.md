@@ -3,7 +3,6 @@ s 2(1)
 Abortion Supervisory Committee
 Airport companies (as defined in section 2 of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in section 6 of the Local Government Act 2002)
 Airways Corporation of New Zealand Limited
-Alcohol Advisory Council of New Zealand
 Animal Control Products Limited
 Armed Forces Canteen Council
 Boards of Trustees constituted under Part 9 of the Education Act 1989
@@ -27,7 +26,6 @@ Kordia Group Limited
 Landcorp Farming Limited
 Law Commission
 Māori Television Service and every subsidiary of the Māori Television Service (if any)
-Mental Health Commission
 Meteorological Service of New Zealand Limited
 New Zealand Council for Educational Research
 New Zealand Film Commission
