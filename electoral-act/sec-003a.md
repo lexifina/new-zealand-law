@@ -8,7 +8,7 @@
 (ii) a party advertisement.
 (2) None of the following are election advertisements:
 (a) an advertisement that—
-(i) is published, or caused or permitted to be published, by the Electoral Commission, the Chief Registrar of Electors, or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand; and
+(i) is published, or caused or permitted to be published, by the Electoral Commission or any other agency charged with responsibilities in relation to the conduct of any official publicity or information campaign to be conducted on behalf of the Government of New Zealand; and
 (ii) relates to electoral matters or the conduct of any general election or by-election; and
 (iii) contains either—
 (A) a statement indicating that the advertisement has been authorised by that officer or agency; or

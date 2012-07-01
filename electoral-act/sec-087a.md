@@ -1,5 +1,5 @@
 # 87A Procedure if immigration status means applicant apparently not qualified to be registered
-(1) This section applies in accordance with section 263A(6)(a) if the Chief Registrar under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section 263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is—
+(1) This section applies in accordance with section 263A(6)(a) if the Electoral Commission under section 263A(5) advises the Registrar of an electoral district that a comparison carried out pursuant to section 263A(4) indicates that a person who has applied to be (but is not yet) registered as an elector of the electoral district is a person who the chief executive of the responsible department (as defined in section 263A(1)) believes is—
 (a) unlawfully in New Zealand; or
 (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
 (2) When this section applies the Registrar must comply with subsections (3) to (5) before determining under section 87 whether the applicant for registration as an elector is qualified to be registered.
