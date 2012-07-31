@@ -1,6 +1,7 @@
 # Schedule 11 Acts that include statutory acknowledgements
 ss 95E, 274
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
+Maraeroa A and B Blocks Claims Settlement Act 2012
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
 Ngāi Tahu Claims Settlement Act 1998
 Ngāti Apa (North Island) Claims Settlement Act 2010
