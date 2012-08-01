@@ -7,3 +7,6 @@
 (a) the offender owns or has any interest in the motor vehicle; or
 (b) a substitute for the offender owns or has an interest in the motor vehicle if the written caution served on the substitute was issued in respect of an offence specified in subsection (1)(a).
 (4) The court must not make an order under subsection (3) if it will result in extreme hardship to the offender or undue hardship to any other person, including, without limitation, to any substitute for the offender.
+(5) The court must not make an order under subsection (3) in respect of a motor vehicle that 1 or more persons treated as a substitute have an interest in if it is satisfied that either of the following applies to each substitute:
+(a) the substitute did not know, and could not reasonably have known, that the offender would commit the offence or offences; or
+(b) the substitute took all reasonable steps to prevent the offender from committing the offence or offences.

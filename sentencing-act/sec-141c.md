@@ -1,0 +1,9 @@
+# 141C Failure by secured party to sell or account for proceeds
+(1) If the court has directed a secured party under section 141(3)(b) to sell a motor vehicle and the secured party fails to do so within a reasonable time, the Registrar may require any person in possession of the vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
+(2) If the person in possession of the motor vehicle fails to surrender the motor vehicle at the time and place specified by the Registrar, the court may issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to recover the motor vehicle.
+(3) For the purpose of executing a warrant issued under subsection (2), the Registrar or bailiff or constable executing it may enter on any premises, by force if necessary, if the Registrar, bailiff, or constable has reasonable cause to believe that the motor vehicle in respect of which the warrant is issued is on those premises.
+(4) If any person is in actual occupation of the premises, the Registrar or bailiff or constable must, on entering, produce the warrant to that person.
+(5) If a motor vehicle is surrendered to or recovered by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar.
+(6) Sections 133 and 134 apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
+(7) As soon as practicable after the motor vehicle is delivered into the Registrar's custody under subsection (5), the Registrar must arrange for its sale under section 137 or its disposal under section 138.
+(8) A secured party who fails, in whole or in part, to pay into court the money required under section 141B(1)(b) is liable to the Crown for any amount not paid, and that amount may be recovered from the secured party as a debt due to the Crown.

@@ -2,7 +2,7 @@
 (1) A person served with a written caution may, within 20 working days after the date of service, apply to the court that ordered the service of the written caution for a review of the decision to serve the applicant on 1 or more of the following grounds:
 (a) the motor vehicle was stolen or converted at the material time:
 (b) the applicant did not own or have an interest in the motor vehicle at the material time:
-(c) the applicant is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender:
+(c) the applicant is a secured party under a security agreement relating to the motor vehicle, or the lessor of the motor vehicle under a lease, but has no relationship of another kind with the offender:
 (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998.
 (2) Every application must include a statutory declaration that specifies a ground stated in subsection (1) and why that ground applies.
 (3) The Registrar must promptly forward a copy of the application to the prosecuting agency in the proceeding that resulted in the relevant conviction.
