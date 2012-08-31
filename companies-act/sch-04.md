@@ -37,7 +37,7 @@ s 214
 (ii) in the case of the first annual return of a company registered under this Act, since the date of registration; or
 (iii) in the case of the first annual return of a company reregistered under this Act in accordance with the Companies Reregistration Act 1993 that was not required to file an annual return under the Companies Act 1955, since the date of incorporation under that Act; or
 (iv) in the case of the first annual return of a company reregistered under this Act in accordance with the Companies Reregistration Act 1993 that was required to file an annual return under the Companies Act 1955, since the date of that return,—
-section 18 or section 19 of the Financial Reporting Act 1993 applied to the company or the company was a code company within the meaning of section 2 of the Takeovers Act 1993:
+section 18 or section 19 of the Financial Reporting Act 1993 applied to the company or the company was a code company within the meaning of section 2A of the Takeovers Act 1993:
 (k) in the case of a company which has passed a resolution under section 196(2) that no auditor be appointed, the text and date of the resolution:
 (l) the date of the last annual meeting of the company held under this Act or, if the company avoided the need for an annual meeting by doing everything required to be done at that meeting by passing a resolution under section 122, the date on which the resolution was passed:
 (m) in the case of a company reregistered under this Act in accordance with the Companies Reregistration Act 1993 that has not been required to hold an annual meeting under this Act,—
@@ -46,4 +46,3 @@ section 18 or section 19 of the Financial Reporting Act 1993 applied to the comp
 Notes
 The information required by paragraph (f)(i) must show separately the number of shares issued for cash and the number of shares issued as fully or partly paid up for a consideration other than cash.
 The information required under paragraph (i) need relate only to persons who have become shareholders or who have ceased to be shareholders since the date of an annual return filed under this Act for one of the 2 preceding years if that annual return contained the information required by that paragraph.
-For the purpose of paragraph (j), a statement whether or not a company was at any material time a code company within the meaning of section 2 of the Takeovers Act 1993 does not have to be included in the annual return unless a takeovers code is in force under the Takeovers Act 1993.
