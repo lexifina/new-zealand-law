@@ -14,20 +14,22 @@ s 124
 (3A) Subject to the constitution of the company, the accidental omission to give notice of a meeting to, or the failure to receive notice of a meeting by, a shareholder does not invalidate the proceedings at that meeting.
 (4) Subject to the constitution of the company, if a meeting of shareholders is adjourned for less than 30 days, it is not necessary to give notice of the time and place of the adjourned meeting other than by announcement at the meeting which is adjourned.
 3 Methods of holding meetings
-A meeting of shareholders may be held either—
-(a) by a number of shareholders, who constitute a quorum, being assembled together at the place, date, and time appointed for the meeting; or
-(b) subject to the constitution of the company, by means of audio, or audio and visual, communication by which all shareholders participating and constituting a quorum, can simultaneously hear each other throughout the meeting.
+A meeting of shareholders may be held by a quorum of the shareholders—
+(a) being assembled together at the time and place appointed for the meeting; or
+(b) participating in the meeting by means of audio, audio and visual, or electronic communication; or
+(c) by a combination of both of the methods described in paragraphs (a) and (b).
 4 Quorum
 (1) Subject to subclause (3), no business may be transacted at a meeting of shareholders if a quorum is not present.
 (2) Subject to the constitution of the company, a quorum for a meeting of shareholders is present if shareholders or their proxies are present or have cast postal votes who are between them able to exercise a majority of the votes to be cast on the business to be transacted by the meeting.
 (3) If a quorum is not present within 30 minutes after the time appointed for the meeting,—
 (a) in the case of a meeting called under section 121(b), the meeting is dissolved:
 (b) in the case of any other meeting, the meeting is adjourned to the same day in the following week at the same time and place, or to such other date, time, and place as the directors may appoint, and, subject to the constitution of the company, if, at the adjourned meeting, a quorum is not present within 30 minutes after the time appointed for the meeting, the shareholders or their proxies present are a quorum.
+(4) To avoid doubt, a shareholder participating in a meeting by means of audio, audio and visual, or electronic communication is present at the meeting and part of the quorum.
 5 Voting
 (1) In the case of a meeting of shareholders held under clause 3(a), unless a poll is demanded, voting at the meeting shall be by whichever of the following methods is determined by the chairperson of the meeting:
 (a) voting by voice; or
 (b) voting by show of hands.
-(2) In the case of a meeting of shareholders held under clause 3(b), unless a poll is demanded, voting at the meeting shall be by the shareholders signifying individually their assent or dissent by voice.
+(2) In the case of a meeting of shareholders held under clause 3(b) or (c), unless a poll is demanded, voting at the meeting shall be by any method permitted by the chairperson of the meeting.
 (3) A declaration by the chairperson of the meeting that a resolution is carried by the requisite majority is conclusive evidence of that fact unless a poll is demanded in accordance with subclause (4).
 (4) At a meeting of shareholders a poll may be demanded by—
 (a) not less than 5 shareholders having the right to vote at the meeting; or
@@ -41,11 +43,13 @@ A meeting of shareholders may be held either—
 6 Proxies
 (1) A shareholder may exercise the right to vote either by being present in person or by proxy.
 (2) A proxy for a shareholder is entitled to attend and be heard at a meeting of shareholders as if the proxy were the shareholder.
-(3) A proxy must be appointed by notice in writing signed by the shareholder and the notice must state whether the appointment is for a particular meeting or a specified term.
+(3) A proxy must be appointed by notice in writing signed by or, in the case of an electronic notice, sent by the shareholder and the notice must state whether the appointment is for a particular meeting or a specified term.
+(3A) A shareholder may appoint more than 1 proxy for a particular meeting, provided that more than 1 proxy is not appointed to exercise the rights attached to a particular share held by the shareholder.
 (4) No proxy is effective in relation to a meeting unless a copy of the notice of appointment is produced before the start of the meeting.
 (5) The constitution of a company may provide that a proxy is not effective unless it is produced by a specified time before the start of a meeting if the time specified is not earlier than 48 hours before the start of the meeting.
 7 Postal votes
 (1) Subject to the constitution of the company, a shareholder may exercise the right to vote at a meeting by casting a postal vote in accordance with the provisions of this clause.
+(1A) To avoid doubt, a postal vote may be cast using electronic means permitted by the board.
 (2) The notice of a meeting at which shareholders are entitled to cast a postal vote must state the name of the person authorised by the board to receive and count postal votes at that meeting.
 (3) If no person has been authorised to receive and count postal votes at a meeting, or if no person is named as being so authorised in the notice of the meeting, every director is deemed to be so authorised.
 (4) A shareholder may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a notice of the manner in which his or her shares are to be voted to a person authorised to receive and count postal votes at that meeting. The notice must reach that person not less than 48 hours before the start of the meeting.
@@ -82,3 +86,8 @@ Where 2 or more persons are registered as the holder of a share, the vote of the
 Subject to the constitution of a company, if a sum due to a company in respect of a share has not been paid, that share may not be voted at a shareholder's meeting other than a meeting of an interest group.
 13 Other proceedings
 Except as provided in this schedule, and subject to the constitution of the company, a meeting of shareholders may regulate its own procedure.
+14 Shareholder participation by electronic means
+(1) For the purposes of this schedule, a shareholder, or the shareholder's proxy or representative, may participate in a meeting by means of audio, audio and visual, or electronic communication if—
+(a) the board approves those means; and
+(b) the shareholder, proxy, or representative complies with any conditions imposed by the board in relation to the use of those means (including, for example, conditions relating to the identity of the shareholder, proxy, or representative and that person's approval or authentication (including electronic authentication) of the information communicated by electronic means).
+(2) To avoid doubt, participation in a meeting includes participation in any manner specified in this schedule or permitted by the constitution of the company.
