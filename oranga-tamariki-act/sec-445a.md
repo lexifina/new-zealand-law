@@ -1,5 +1,5 @@
 # 445A Person executing warrant to produce evidence of authority and identity
-Every social worker, constable, or other person executing any warrant issued under section 39 or section 40 or section 122 or section 157(2) or section 205(2)(b) or section 296C or section 386—
+Every social worker, constable, or other person executing any warrant issued under section 122 or section 157(2) or section 205(2)(b) or section 296C—
 (a) shall have that warrant with him or her; and
 (b) shall produce it on initial entry and, if requested, at any subsequent time; and
 (c) shall identify himself or herself to any person in or on the dwellinghouse, building, aircraft, ship, carriage, vehicle, premises, or place who questions his or her right to enter or search the same or to take possession of the child or young person; and
