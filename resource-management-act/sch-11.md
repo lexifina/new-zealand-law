@@ -9,6 +9,7 @@ Ngāti Apa (North Island) Claims Settlement Act 2010
 Ngāti Awa Claims Settlement Act 2005
 Ngāti Mākino Claims Settlement Act 2012
 Ngāti Manawa Claims Settlement Act 2012
+Ngāti Manuhiri Claims Settlement Act 2012
 Ngāti Mutunga Claims Settlement Act 2006
 Ngāti Pāhauwera Treaty Claims Settlement Act 2012
 Ngati Porou Claims Settlement Act 2012
