@@ -93,7 +93,7 @@ Boundaries
 (3) If the boundaries of a district that are the same as the boundaries of part of any region are altered,—
 (a) the alteration also has effect with respect to the region; and
 (b) the boundaries of the region are altered accordingly.
-(4) Subclause (3) applies subject to the Order in Council giving effect to a reorganisation scheme.
+(4) Subclause (3) applies subject to the Order in Council made under section 25.
 Compare: 1974 No 66 s 37O
 2 Boundaries of districts
 (1) If any part of the boundary of a district is the sea, that boundary may be between the mean high-water mark and the outer limit of the territorial sea of New Zealand as determined by the Order in Council defining the district.
@@ -101,7 +101,7 @@ Compare: 1974 No 66 s 37O
 (3) If the boundaries of a district are altered and all or part of the boundaries concerned were the same as the boundaries of any region,—
 (a) the alteration also has effect with respect to the boundaries of that part of the region; and
 (b) the boundaries of the region are altered accordingly.
-(4) Subclause (3) applies subject to the Order in Council giving effect to a reorganisation scheme.
+(4) Subclause (3) applies subject to the Order in Council made under section 25.
 Compare: 1974 No 66 s 37P
 3 Unitary authorities
 (1) A territorial authority that is a unitary authority has—

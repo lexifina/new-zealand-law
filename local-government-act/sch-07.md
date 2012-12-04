@@ -54,10 +54,14 @@ Remuneration of members
 (a) mayors, deputy mayors, chairpersons, deputy chairpersons, and members of local authorities:
 (b) chairpersons of committees of local authorities:
 (c) chairpersons and members of community boards:
-(d) chairpersons of committees of community boards.
-(e) chairpersons and members of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009):
-(f) chairpersons of committees of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009).
-(2) The Remuneration Authority may do 1 or more of the following things under subclause (1):
+(d) chairpersons of committees of community boards:
+(e) chairpersons and members of local boards:
+(f) chairpersons of committees of local boards.
+(2) The Remuneration Authority may also determine the remuneration, allowances, and expenses payable to the following persons, if requested to do so by a local authority:
+(a) members of the local authority with specified responsibilities other than those listed in subclause (1):
+(b) members of community boards of the local authority with specified responsibilities other than those referred to in subclause (1):
+(c) members of local boards with specified responsibilities other than those listed in subclause (1).
+(3) The Remuneration Authority may do 1 or more of the following things under subclause (1) or (2):
 (a) fix—
 (i) scales of salaries:
 (ii) scales of allowances:
@@ -65,15 +69,17 @@ Remuneration of members
 (iv) different forms of remuneration:
 (b) prescribe—
 (i) rules for the application of those scales, ranges, or different forms of remuneration:
-(ii) rules for reimbursing expenses incurred by elected members:
+(ii) rules for reimbursing expenses incurred by members:
 (c) differentiate—
-(i) between persons occupying equivalent positions in different local authorities or community boards:
-(ii) between persons occupying equivalent positions in the same local authorities or community boards:
-(d) make determinations that apply to individuals, or groups occupying equivalent positions.
-(3) To avoid doubt,—
-(a) section 19 of the Remuneration Authority Act 1977 applies to determinations made under this clause; and
-(b) a determination made under this Act or any other Act remains in force until it is superseded by a determination made under this Act.
-(4) A determination by the Remuneration Authority under this clause is a regulation under the Regulations (Disallowance) Act 1989.
+(i) between persons occupying equivalent positions in different local authorities, community boards, or local boards:
+(ii) between persons occupying equivalent positions in the same local authorities, community boards, or local boards:
+(d) make determinations that apply to individuals, or groups, occupying equivalent positions:
+(e) approve rules proposed by a local authority for reimbursing expenses incurred by members, subject to any conditions that the Authority thinks fit.
+(4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)(e).
+(5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
+(6) Clause 7A applies to determinations made under this clause.
+(7) A determination by the Remuneration Authority under this clause is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(8) In this clause, local boards has the meaning given in section 4(1) of the Local Government (Auckland Council) Act 2009.
 7 Mandatory criteria for Remuneration Authority
 (1) In determining remuneration under clause 6, the Remuneration Authority must have regard to the need to—
 (a) minimise the potential for certain types of remuneration to distort the behaviour of the persons listed in clause 6(1) in relation to their positions as listed in clause 6(1); and
@@ -83,6 +89,14 @@ Remuneration of members
 (ii) to ratepayers; and
 (d) attract and retain competent persons.
 (2) The criteria in subclause (1) do not prevent the Remuneration Authority from determining allowances additional to salary for attending meetings.
+7A Matters applying to determinations
+(1) The Remuneration Authority may make a determination before or after the date on which the determination is to come into force.
+(2) However, a determination must not come into force earlier than the expiry date of the determination that it supersedes.
+(3) A determination must specify the date on which it expires.
+(4) Despite the expiry of a determination, it continues in force to the extent that it is not superseded by another determination.
+(5) The Remuneration Authority may amend a determination while it is in force.
+(6) Despite subclause (5), the Remuneration Authority may amend the expiry date of a determination only if the Authority is satisfied that in all the circumstances there are particular and special reasons that justify a period of less than the term originally set.
+(7) The Remuneration Authority must review and issue a determination for each position listed in clause 6(1) at intervals of no more than 3 years.
 8 Submissions to Remuneration Authority
 (1) Any person or organisation may make a written submission to the Remuneration Authority about a determination to be made by the Remuneration Authority under clause 6.
 (2) The Remuneration Authority may, in its discretion, invite a person or organisation to make an oral submission about a determination to be made by the Remuneration Authority under clause 6.
@@ -365,6 +379,7 @@ For the purposes of clauses 32, 32A, and 32B, officer means—
 (e) the power to appoint a chief executive; or
 (f) the power to adopt policies required to be adopted and consulted on under this Act in association with the long-term plan or developed for the purpose of the local governance statement; or
 (g) [Repealed]
+(h) the power to adopt a remuneration and employment policy.
 (2) Nothing in this clause restricts the power of a local authority to delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority the power to do anything precedent to the exercise by the local authority (after consultation with the committee or body or person) of any power or duty specified in subclause (1).
 (3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local authority or by the committee or body or person that makes the original delegation.
 (4) A committee, subcommittee, other subordinate decision-making body, community board, or member or officer of the local authority to which or to whom any responsibilities, powers, or duties are delegated may, without confirmation by the local authority or committee or body or person that made the delegation, exercise or perform them in the like manner and with the same effect as the local authority could itself have exercised or performed them.
@@ -439,6 +454,11 @@ Compare: 1974 No 66 s 119E
 (a) when making an appointment, must give preference to the person who is best suited to the position; and
 (b) must ensure that all employees maintain proper standards of integrity, conduct, and concern for the public interest.
 Compare: 1974 No 66 s 119F
+36A Remuneration and employment policy
+(1) A local authority may adopt a policy that sets out the policies of the local authority in relation to—
+(a) employee staffing levels; and
+(b) the remuneration of employees.
+(2) A local authority must review a policy adopted under this clause at intervals of no more than 3 years.
 Part 2
 Provisions relating to community boards and their members
 37 Chairpersons of community boards

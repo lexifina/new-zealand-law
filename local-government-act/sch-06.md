@@ -39,7 +39,7 @@ Compare: 1974 No 66 s 101ZJ
 (b) reject the proposal.
 Compare: 1974 No 66 s 101ZK
 6 Matters to be considered when constituting community
-In deciding whether or not to constitute a community, the territorial authority or, if appropriate, the Commission must have regard to the criteria as set out in clause 3 of Schedule 3 that apply to reorganisation proposals that the territorial authority or Commission considers appropriate in the circumstances.
+In deciding whether or not to constitute a community, the territorial authority or, if appropriate, the Commission must have regard to the criteria as set out in clause 19 of Schedule 3 that apply to draft proposals that the territorial authority or Commission considers appropriate in the circumstances.
 Compare: 1974 No 66 s 101ZL
 7 Appeal against refusal to constitute community
 (1) If, following a proposal to constitute a community, a territorial authority resolves not to constitute a community, a signatory to the proposal may appeal to the Commission.
@@ -62,7 +62,7 @@ Compare: 1974 No 66 s 101ZL
 Compare: 1974 No 66 s 101ZN
 9 Union, alteration, or abolition of communities
 (1) A community may be abolished or united with another community, and the boundaries of a community may be altered, by—
-(a) an Order in Council giving effect to a reorganisation scheme:
+(a) an Order in Council made under section 25:
 (b) the territorial authority or Commission as part of a review of the territorial authority's representation arrangements.
 (2) An Order in Council under this clause must fix the date on which the communities must be united or on which the boundaries are altered or on which the community or communities are abolished.
 (3) On the union of 2 communities under this clause, the former communities must be deemed to be abolished and the members of the boards of the communities must go out of office.

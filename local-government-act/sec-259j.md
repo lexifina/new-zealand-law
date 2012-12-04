@@ -1,0 +1,3 @@
+# 259J Application of Regulations (Disallowance) Act 1989 to standards incorporated by reference
+(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires financial reporting standards that are incorporated by reference in regulations made under section 259(1)(dc) to be presented to the House of Representatives.
+(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1) of this section, applies to regulations made under section 259(1)(dc) that incorporate financial reporting standards by reference.

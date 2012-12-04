@@ -39,6 +39,7 @@ Information to be included in annual reports
 30 Funding impact statement
 31 Reserve funds
 32 Remuneration issues
+32A Employee staffing levels and remuneration
 33 Severance payments
 34 Statement of compliance
 35 General
@@ -54,7 +55,7 @@ A long-term plan must, to the extent determined appropriate by the local authori
 (1) A long-term plan must, in relation to each group of activities of the local authority,—
 (a) identify the activities within the group of activities:
 (b) identify the rationale for delivery of the group of activities (including the community outcomes to which the group of activities primarily contributes):
-(c) outline any significant negative effects that any activity within the group of activities may have on the social, economic, environmental, or cultural well-being of the local community:
+(c) outline any significant negative effects that any activity within the group of activities may have on the local community:
 (d) include the information specified in clauses 4 and 5—
 (i) in detail in relation to each of the first 3 financial years covered by the plan; and
 (ii) in outline in relation to each of the subsequent financial years covered by the plan.
@@ -206,7 +207,7 @@ An annual report must, in relation to each group of activities of the local auth
 (a) identify the activities within the group of activities; and
 (b) identify the community outcomes to which the group of activities primarily contributes; and
 (c) report the results of any measurement undertaken during the year of progress towards the achievement of those outcomes; and
-(d) describe any identified effects that any activity within the group of activities has had on the social, economic, environmental, or cultural well-being of the community.
+(d) describe any identified effects that any activity within the group of activities has had on the community.
 24 Capital expenditure for groups of activities
 (1) An annual report must, in relation to each group of activities, include an audited statement comparing the capital expenditure budgeted by the local authority (as set out in the long-term plan or annual plan for the financial year) with the amount spent.
 (2) The statement described in subclause (1) must show separately the amount of funds that the local authority intended to spend and the amount spent to—
@@ -266,6 +267,20 @@ An annual report must identify each reserve fund set aside by the local authorit
 (c) the chief executive of the local authority.
 (2) The report under subclause (1) must show, in relation to each person specified in that subclause, that person's total remuneration for the year.
 (3) To avoid doubt, subclause (2) applies to the total remuneration (including the value of any non-financial benefits) that, during the year, was paid to the person, or was payable to the person, by the local authority and any council organisation of the local authority.
+32A Employee staffing levels and remuneration
+(1) An annual report must include a report on the number of employees who were employed by the local authority—
+(a) on the last day of the financial year to which the report relates; and
+(b) on the last day of the immediately preceding financial year.
+(2) For each financial year, the report must state, as at the last day of that year,—
+(a) the number of full-time employees; and
+(b) the full-time equivalent number of all other employees; and
+(c) the number of employees receiving total annual remuneration of less than $60,000; and
+(d) the number of employees receiving total annual remuneration of $60,000 or more, expressed in bands of $20,000.
+(3) However, if the number of employees in any band to which subclause (2)(d) applies is 5 or fewer, the number for that band must be combined with the next-highest band and the statement in the report in relation to that subclause must be adjusted accordingly.
+(4) In subclause (2), total annual remuneration includes the value of any non-financial benefit that, during the year, was paid to an employee, or was payable to an employee, by the local authority.
+(5) The report requirement in this clause applies to—
+(a) the financial year ending 30 June 2013; and
+(b) each following financial year.
 33 Severance payments
 (1) An annual report must state—
 (a) the amount of any severance payments made in the year to any person who vacated office as the chief executive of the local authority; and

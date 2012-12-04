@@ -1,0 +1,6 @@
+# 258H Application of this and other enactments during Commission's term of appointment
+(1) This section applies during the period in which a Commission is appointed to perform the functions and duties and exercise the powers of a local authority under section 258F.
+(2) This Act and any other enactment applies, with any necessary modifications, as if the Commission were the governing body of the local authority and responsible for the decision-making of the local authority.
+(3) Without limiting subsection (2), clauses 31, 32, and 32A of Schedule 7 apply as if the members of the Commission were elected members of the local authority.
+(4) A document that is required to be executed under the seal of the local authority may be executed under the seal and verified by the signature of the chairperson of the Commission, or the Commission, if there is no chairperson.
+(5) All acts done by the Commission in the purported exercise of the powers of the local authority under this or any other enactment, whether the powers have been expressly limited in the terms of reference or not, are, except in the case of fraud, as valid as if the Commission had not been appointed and the acts had been done by the local authority in the ordinary course of its business.
