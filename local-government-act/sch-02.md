@@ -19,7 +19,6 @@ Territorial authorities
 City and District Councils Constituted by
 Ashburton District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Auckland Council section 6(1) of the Local Government (Auckland Council) Act 2009
-Banks Peninsula District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Buller District Council Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517
 Carterton District Council Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491
 Central Hawke's Bay District Council Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334
