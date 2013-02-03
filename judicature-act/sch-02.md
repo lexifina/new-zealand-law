@@ -236,6 +236,7 @@ Subpart 14—Service of statement of claim and notice of proceeding
 5.71 Personal service required
 5.72 Prompt service required
 5.73 Extension of time for service
+5.73A Notice of service to Registrar
 Part 6
 Service
 Subpart 1—Methods and proof of service
@@ -280,24 +281,24 @@ Subpart 4—Service out of New Zealand
 Part 7
 Case management, interlocutory applications, and interim relief
 Subpart 1—Case management
-7.1 Tracks for proceedings
-7.2 Convening of case management conferences
-7.3 Case management and pre-trial conferences for proceedings on standard track
-7.4 Matters to be considered at case management conferences for proceedings other than appeals
-7.5 Case management conferences for appeals
-7.6 Cancellation of conference
-7.7 Court to seek admissions and agreements
-7.8 Limitation of right of appeal
-7.9 Directions as to conduct of proceeding
-7.10 Order may be varied at trial
-7.11 Hearing dates for proceedings on swift track
-7.12 Application of rules 7.13 to 7.18
-7.13 Allocation of hearing dates and setting down dates
-7.14 Jury notice
-7.15 Lists of proceedings
-7.16 Registrar's functions in relation to hearing dates
-7.17 Parties to keep Registrar informed
-7.18 No steps after setting down date without leave
+7.1 Proceedings subject of case management
+7.2 Case management conferences generally
+7.3 First case management conferences
+7.4 Further case management conferences
+7.5 Issues conferences
+7.6 Allocation of key dates
+7.7 Steps after close of pleadings date restricted
+7.8 Pre-trial conferences
+7.9 Cancellation of conference
+7.10 Limitation of right of appeal
+7.11 Timetable and monitoring obligations
+7.12 Lists of proceedings
+7.13 Registrar's functions in relation to hearing dates
+7.14 Case management conferences for appeals
+7.15 Directions for conduct of appeal
+7.16 Jury notice
+7.17 Parties to keep Registrar informed [Repealed]
+7.18 No steps after setting down date without leave [Repealed]
 Subpart 2—Interlocutory applications and interlocutory orders
 7.19 Contents, form, and filing of interlocutory application
 7.20 Affidavit to be filed with application
@@ -424,23 +425,23 @@ Subpart 3—Notice to admit facts
 8.48 Judgment on admission of facts
 Part 9
 Evidence
-Subpart 1—Briefs of evidence, indexes, and bundles of documents
-9.1 Scope of briefs regime
-9.2 Service by plaintiff of briefs
-9.3 Service by other parties of briefs of evidence in chief
-9.4 Requirements in relation to briefs
-9.5 Supplementary briefs
-9.6 Evidence in chief at trial
-9.7 Oral evidence in chief generally not permissible
-9.8 References to briefs not given in evidence
-9.9 Cross-examination in relation to briefs not given in evidence
-9.10 Privilege and admissibility not affected by briefs
-9.11 Cross-examination duties
-9.12 Exchange of indexes of documents intended for hearing
-9.13 Preparation of common bundle
-9.14 Consequences of incorporating document in common bundle
-9.15 Consequence of not incorporating document in common bundle
-9.16 Plaintiff's synopsis of opening and chronology
+Subpart 1—Briefs, oral evidence directions, common bundles, and chronologies
+9.1 Objective and scope
+9.2 Exchange of documents and index
+9.3 Timing
+9.4 Preparation of common bundle
+9.5 Consequences of incorporating document in common bundle
+9.6 Consequence of not incorporating document in common bundle
+9.7 Requirements in relation to briefs
+9.8 Supplementary briefs
+9.9 Exchange of chronology of facts intended to be relied upon at trial or hearing
+9.10 Oral evidence directions
+9.11 Compliance with Evidence Act 2006
+9.12 Evidence-in-chief at trial
+9.13 Briefs not given in evidence
+9.14 Privilege and admissibility not affected by briefs
+9.15 Cross-examination duties
+9.16 Plaintiff's synopsis of opening
 Subpart 2—Evidence by depositions
 9.17 Order for examination of witness or for letters of request
 9.18 Security for costs for taking evidence outside New Zealand
@@ -658,13 +659,13 @@ Subpart 2—Judgment by default
 15.5 When several causes of action
 15.6 When several defendants
 15.7 Liquidated demand
-15.8 Land
-15.9 Chattels
-15.10 Unliquidated demand
-15.11 Evidence on trial
-15.12 Other proceedings
-15.13 Judgment may be set aside or varied
-15.14 Overseas service cases
+15.8 Recovery of land or chattels
+15.9 Formal proof for other claims
+15.10 Judgment may be set aside or varied
+15.11 Overseas service cases
+15.12 Other proceedings [Repealed]
+15.13 Judgment may be set aside or varied [Repealed]
+15.14 Overseas service cases [Repealed]
 Subpart 3—Judgment on admission
 15.15 Judgment on admission of facts
 15.16 Admission of cause of action
@@ -835,7 +836,7 @@ Subpart 2—Special provisions concerning pleadings, directions, and affidavits
 Subpart 3—Multiple claims, joinders, and consolidations of claims
 18.13 Joining in proceedings under Family Protection Act 1955 and Law Reform (Testamentary Promises) Act 1949
 18.14 Joinder of claims and consolidation
-18.14A Interlocutory applications under section 174 of the Companies Act 1993
+18.14A Procedure under section 174 of Companies Act 1993
 18.14B Service of order made under section 174 of Companies Act 1993
 Subpart 4—Evidentiary requirements
 18.15 Evidence generally by agreed statement of facts or affidavit
@@ -1194,7 +1195,7 @@ Applications in solemn form
 27.14 Registrars may make some orders
 27.15 Application of rules 27.16 to 27.28
 27.16 Evidence as to execution
-27.17 Valid execution
+27.17 Evidence of validity
 27.18 Doubt as to will-maker's understanding
 27.19 Doubt as to originality of signature
 27.20 Doubt as to date
@@ -1278,8 +1279,8 @@ Companies: Liquidation
 31.4 Proper registry of court
 31.5 Notice of proceeding and verifying affidavit
 31.6 Date of hearing
-31.7 Exclusion of rules relating to setting down
-31.8 Directions
+31.7 Exclusion of rules relating to setting down [Repealed]
+31.8 Directions [Repealed]
 31.9 Advertisement of application
 31.10 Restriction on advertising of proceeding
 31.11 Power to stay liquidation proceedings
@@ -1344,13 +1345,14 @@ Time allocations
 Schedule 4
 Code of conduct for expert witnesses
 Schedule 5
-Matters for consideration at case management conference for proceeding other than appeal
+Matters for consideration at case management conference
 Schedule 6
 Standard directions for appeals
 Schedule 7
 Standard directions for appeals by way of case stated and references under Part 21
 Schedule 8
 Matters for consideration at pre-trial conference for proceedings on standard track
+[Repealed]
 Schedule 9
 Discovery checklist and the listing and exchange protocol
 Part 1
@@ -1371,7 +1373,7 @@ appearance means a document that states a person's address for service, and is e
 (b) an appearance for ancillary purposes under rule 5.50; or
 (c) an appearance reserving rights under rule 5.51; or
 (d) an appearance authorised by any other rule
-case management conference means a conference conducted under rule 7.3
+case management conference means a conference conducted under subpart 1 of Part 7
 chattels includes all things that are not land
 civil means not criminal
 civil proceedings, in relation to the Crown, has the same meaning as in section 2(1) of the Crown Proceedings Act 1950
@@ -1479,7 +1481,7 @@ Compare: 1908 No 89 Schedule 2 r 10
 (1) The court may, before, at, or after the trial of any proceeding, amend any defects and errors in the pleadings or procedure in the proceeding, whether or not there is anything in writing to amend, and whether or not the defect or error is that of the party (if any) applying to amend.
 (2) The court may, at any stage of a proceeding, make, either on its own initiative or on the application of a party to the proceedings, any amendments to any pleading or the procedure in the proceeding that are necessary for determining the real controversy between the parties.
 (3) All amendments under subclause (1) or (2) may be made with or without costs and on any terms the court thinks just.
-(4) This rule is subject to rule 7.18 (no steps after the setting down date without leave).
+(4) This rule is subject to rule 7.7 (which prohibits steps after the close of pleadings date without leave).
 Compare: 1908 No 89 Schedule 2 r 11
 1.10 Security
 (1) An officer who is empowered to take security from a person for any purpose may determine the appropriate number of sureties and the form and the amount of the security.
@@ -1624,7 +1626,7 @@ Compare: 1908 No 89 Schedule 2 r 270
 The Registrar (not including a Deputy Registrar) at the Auckland, Hamilton, Rotorua, Palmerston North, Wellington, Christchurch, or Dunedin registry has the jurisdiction and powers given to a Judge by the following:
 (a) rule 1.19, so far as it applies to—
 (i) rule 5.73:
-(ii) rule 8.18:
+(ii) rule 8.15:
 (iii) rule 9.69:
 (iv) rule 9.70:
 (v) rule 9.71:
@@ -1972,7 +1974,7 @@ Compare: 1908 No 89 Schedule 2 r 160
 Compare: 1908 No 89 Schedule 2 r 161
 Subpart 5—Claims between defendants
 4.18 Right to give notice
-If a defendant claims against another defendant in circumstances in which (had that other defendant not been a defendant) it would be permissible to issue and serve a third party notice on that other defendant, the claiming defendant may, at any time before the setting down date for the proceeding, file and serve that other defendant and the plaintiff with a notice to that effect.
+If a defendant claims against another defendant in circumstances in which (had that other defendant not been a defendant) it would be permissible to issue and serve a third party notice on that other defendant, the claiming defendant may, at any time before the close of pleadings date for the proceeding, file and serve that other defendant and the plaintiff with a notice to that effect.
 Compare: 1908 No 89 Schedule 2 r 163
 4.19 Statement of claim to be filed and served
 (1) A defendant who files a notice under rule 4.18 must file and serve with it a statement of that defendant's claim against the other defendant.
@@ -2422,7 +2424,7 @@ Compare: 1908 No 89 Schedule 2 r 120
 (a) be signed by the plaintiff or the plaintiff's solicitor:
 (b) state the place for the filing of a statement of defence and the time within which the statement of defence is required to be filed, in accordance with these rules:
 (c) warn the defendant that if a statement of defence is not filed within the required time, the plaintiff may at once proceed to judgment on the plaintiff's claim and judgment may be given in the absence of the defendant.
-(2) The notice of proceeding must be in form G 2.
+(2) The notice of proceeding must be in form G 2 and must advise the defendant of the defendant's obligations under rule 8.4 (initial disclosure).
 (3) If the court has directed that any person other than the defendant named in the title of the proceeding be served, a statement to that effect signed by the Registrar and setting out the name, place of residence, and occupation of that person must be annexed to the notice of proceeding.
 (4) A memorandum signed by the Registrar in form G 3, G 4, or G 5 (whichever is appropriate) must be attached to the notice of proceeding.
 Compare: 1908 No 89 Schedule 2 r 121
@@ -2735,6 +2737,9 @@ Compare: 1908 No 89 Schedule 2 r 127
 (1) The plaintiff may, before or after the expiration of the period referred to in rule 5.72, apply to the court for an order extending that period in respect of any person (being a defendant or other person directed to be served) who has not been served.
 (2) The court, if satisfied that reasonable efforts have been made to effect service on that defendant or person, or for other good reason, may extend the period of service for 6 months from the date of the order and so on from time to time while the proceeding has not been disposed of.
 Compare: 1908 No 89 Schedule 2 r 128
+5.73A Notice of service to Registrar
+(1) The plaintiff must notify the Registrar of the date of service of the statement of claim and notice of proceeding on each defendant or other person directed to be served.
+(2) Notification under subclause (1) must be made within 7 working days after service and in writing.
 Part 6
 Service
 Subpart 1—Methods and proof of service
@@ -3002,77 +3007,142 @@ Compare: 1908 No 89 Schedule 2 r 225
 Part 7
 Case management, interlocutory applications, and interim relief
 Subpart 1—Case management
-7.1 Tracks for proceedings
-(1) All proceedings (other than proceedings entered on the commercial list) are on either the standard track or the swift track.
-(2) The following are on the swift track:
-(a) applications under Part 12 (applications for summary judgment):
-(b) applications under Part 19 (originating applications):
-(c) applications for leave to appeal, and appeals, under Part 20:
-(d) applications under Part 24 (insolvency) and Part 31 (companies liquidation):
-(e) applications for leave to appeal, and appeals, under Part 26 (arbitration).
-(3) A proceeding not referred to in subclause (2) is on the standard track.
-(4) A Judge may, at any time, on the Judge's own initiative or on an application by a party, move a proceeding—
-(a) from the swift track to the standard track; or
-(b) from the standard track to the swift track.
-Compare: 1908 No 89 Schedule 2 r 426
-7.2 Convening of case management conferences
-(1) A Judge may, at any time, hold a case management conference.
-(2) The case management conference is held so that the Judge may—
-(a) assist the parties in the just, speedy, and inexpensive determination of the proceeding:
-(b) make orders under rule 7.9:
-(c) if practicable, make other interlocutory orders.
-(3) A case management conference may be convened by a Judge on the Judge's own initiative or on the application of 1 or more of the parties.
-Compare: 1908 No 89 Schedule 2 r 427
-7.3 Case management and pre-trial conferences for proceedings on standard track
-(1) Unless the court otherwise directs, the following provisions apply to the convening of case management conferences for a proceeding on the standard track:
-(a) a first case management conference must be held within 35 working days after the commencement of the proceeding:
-(b) a second case management conference must be held within 75 working days after the commencement of the proceeding:
-(c) a pre-trial conference must be held on a date arranged by the Registrar in accordance with subclause (6).
-(2) After the commencement of a proceeding on the standard track,—
-(a) the Registrar must make arrangements for a case management conference to be held in accordance with subclause (1)(a); and
-(b) the plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to every other party.
-(3) The Registrar must make arrangements to ensure that, within 25 working days after a proceeding is moved to the standard track from the swift track, a case management conference is held for the proceeding.
-(4) Unless the court otherwise directs, the first case management conference that is held for a proceeding must be conducted by telephone or video link.
-(5) At the second case management conference, the presiding Judge or Associate Judge must—
-(a) issue directions for the trial; and
-(b) fix a date for the holding of the pre-trial conference, or direct the Registrar to do so.
-(6) The date referred to in subclause (5)(b) must be as close as practicable to the date that is 10 working days after the date specified by these rules or directed by the court for service of the first written statements of evidence proposed to be called at the trial.
-(7) The Registrar must—
-(a) make arrangements for the pre-trial conference to be held; and
-(b) at least 10 working days before the date fixed for the pre-trial conference, remind the parties or their counsel of that date.
-(8) At the pre-trial conference the parties must be prepared to discuss with the presiding Judge the matters listed in Schedule 8.
-(9) Counsel must file and serve, 2 working days before the pre-trial conference, a memorandum that addresses each of the items in Schedule 8, or, alternatively, a joint memorandum.
-Compare: 1908 No 89 Schedule 2 r 428
-7.4 Matters to be considered at case management conferences for proceedings other than appeals
-(1) The matters to be considered at a case management conference under rule 7.3(1)(a) and (b) are—
-(a) the Schedule 5 matters that are relevant to the proceeding and its current stage; and
-(b) any interlocutory applications allocated for hearing at that conference under rule 7.33; and
-(c) any application for an interlocutory order outlined in a memorandum filed under subclause (3).
-(2) Unless excused by the Judge, the parties must, not later than 2 working days before the case management conference,—
-(a) file a joint memorandum; or
-(b) each file a memorandum.
-(3) Any memorandum filed for a conference under rule 7.3(1)(a) and (b) must—
-(a) address the matters set out in Schedule 5 that are relevant to the proceeding and its current stage; and
-(b) outline, with reasonable details, any application for an interlocutory order intended to be made at the case management conference.
-(4) [Repealed]
-(5) Any memorandum may be filed by fax or by email transmission.
-Compare: 1908 No 89 Schedule 2 r 429
-7.5 Case management conferences for appeals
-(1) In the case of an appeal under Part 20 or 26, the Registrar must make arrangements for a case management conference to be held within 15 working days after any of the following dates:
+7.1 Proceedings subject of case management
+(1) Case management in accordance with this subpart will be applied to proceedings in order to promote their just, speedy, and inexpensive determination.
+(2) Subclause (1) is subject to subclause (8).
+(3) The purpose of a case management conference is to enable the Judge to assist the parties—
+(a) to identify, define, and refine the issues requiring judicial resolution; and
+(b) to determine what steps need to be taken in order to prepare the proceeding for hearing or trial; and
+(c) to decide how best to facilitate the conduct of the hearing or trial; and
+(d) to ensure that the costs of the proceeding are proportionate to the subject matter of the proceeding.
+(4) In this rule,—
+complex defended proceeding means one that, in a Judge's opinion, needs intensive case management and therefore needs more than 1 case management conference before a fixture is allocated
+ordinary defended proceeding means one that, in a Judge's opinion, does not require intensive case management and therefore does not need more than 1 case management conference before a fixture is allocated.
+(5) For the purposes of this subpart, a proceeding must be classified as—
+(a) an ordinary defended proceeding; or
+(b) a complex defended proceeding; or
+(c) an application under Part 24 (insolvency) or Part 31 (companies liquidation); or
+(d) an application for leave to appeal, or an appeal, under Part 20 (appeals) or Part 26 (Arbitration Act 1996); or
+(e) an undefended proceeding; or
+(f) an application commenced by originating application under Part 19 (originating applications); or
+(g) a proceeding on the commercial list.
+(6) The proper classification of a proceeding as either an ordinary defended proceeding or a complex defended proceeding in terms of subclause (5) must be—
+(a) resolved by a Judge not later than the date of the first case management conference; and
+(b) promptly advised to the parties.
+(7) A Judge may at any time review the classification assigned under subclause (5) and decide whether to maintain or alter it.
+(8) A proceeding that falls within subclause (5)(c) to (g) is not to be the subject of case management unless a Judge so directs.
+Compare: 1908 No 89 Schedule 2 r 7.1 prior to 1 February 2013
+7.2 Case management conferences generally
+(1) A Judge may hold a case management conference at any time.
+(2) A case management conference may be convened by a Judge on the Judge's own initiative or on the application of 1 or more of the parties.
+(3) At any case management conference, the Judge may give directions to secure the just, speedy, and inexpensive determination of the proceedings, including the fixing of timetables and directing how the hearing or trial is to be conducted.
+Compare: 1908 No 89 Schedule 2 r 7.2 prior to 1 February 2013
+7.3 First case management conferences
+(1) This rule does not apply if—
+(a) no statement of defence has been filed in a proceeding; or
+(b) the proceeding is an appeal within rule 7.14.
+(2) Unless otherwise ordered by a Judge, the first case management conference for the proceeding must be held on a date fixed by the Registrar that is the first available date not less than 25 working days after the date when the first statement of defence is filed in the proceeding, but, in any event, not less than 50 working days after the filing of the proceeding.
+(3) The agenda for the conference is—
+(a) the Schedule 5 matters; and
+(b) the making of a discovery or other order under rule 8.5; and
+(c) the hearing, and if practicable the disposal, of any outstanding interlocutory application; and
+(d) the fixing of—
+(i) a close of pleadings date; and
+(ii) a hearing or trial date for a proceeding classified as an ordinary defended proceeding and the making of appropriate trial directions; and
+(iii) a date and arrangements for any further case management, issues, or pre-trial conference; and
+(e) other appropriate matters that have already been discussed by the parties.
+(4) The parties must either file a joint memorandum addressing the Schedule 5 matters no later than 10 days before the conference, or file separate memoranda addressing those matters in accordance with subclause (5).
+(5) If separate memoranda are filed, the plaintiff or applicant must file the first memorandum stating that party's position on the matters in Schedule 5. That memorandum must be filed 10 days before the conference, followed no later than 5 days before the conference by memoranda from the other parties, each memorandum stating the party's agreement or disagreement with memoranda already filed, and, in the case of disagreement, the reasons for disagreement and the different position contended for.
+(6) Memoranda filed under subclause (4) or (5) may also address matters that fall within subclause (3)(e).
+(7) The joint memorandum referred to in subclause (4) may be combined with any joint memorandum filed in relation to discovery under rule 8.11.
+(8) A separate memorandum referred to in subclause (5) may be combined with any separate memorandum filed in relation to discovery under rule 8.11.
+Compare: 1908 No 89 Schedule 2 r 7.3 prior to 1 February 2013
+7.4 Further case management conferences
+(1) The Judge at the first case management conference of any defended proceeding may require a further case management conference or order one on the application of a party.
+(2) The agenda for a conference under this rule—
+(a) will be set out in the order directing the conference, but a party may add a further item or items (if practicable, giving advance notice to the other parties); and
+(b) will include or adapt the Schedule 5 matters; and
+(c) may prescribe steps to be taken in preparation for the conference.
+Compare: 1908 No 89 Schedule 2 r 7.3 prior to 1 February 2013
+7.5 Issues conferences
+(1) The Judge may at any time, on the Judge's own initiative or if the parties agree, order an issues conference for any defended proceeding to advance the identification and refinement of the issues, and set the date and agenda for that issues conference.
+(2) The Judge may issue a direction before an issues conference that requires the attendance at the conference of all or any of the following:
+(a) instructing solicitors:
+(b) all counsel engaged:
+(c) the parties (or, in the case of corporate parties, their senior officers or authorised representatives).
+(3) If any conflict arises between the pleadings and the issues as identified and refined before or at an issues conference, the pleadings prevail.
+Compare: 1908 No 89 Schedule 2 r 7.3 prior to 1 February 2013
+7.6 Allocation of key dates
+(1) If it appears to the Judge at the first case management conference that a proceeding can be readied for hearing or trial, the Judge must immediately allocate a date for hearing or trial.
+(2) If a proceeding has not been allocated a hearing or trial date at the first case management conference, the Judge must allocate a date for its hearing or trial when the Judge is satisfied that it can be readied for hearing or trial.
+(3) A proceeding can be readied for hearing or trial for the purpose of subclauses (1) and (2) if it is reasonably anticipated that it will be able to proceed to hearing or trial without the need for—
+(a) any significant amendment of the pleadings; or
+(b) any significant interlocutory application; or
+(c) any significant refinement of the issues in the proceeding.
+(4) In addition to allocating a hearing or trial date under subclause (1) or (2), the Judge must fix a close of pleadings date.
+(5) It is the duty of all parties to a proceeding for which a date for hearing or trial has been allocated to notify the Registrar, without delay, if the proceeding is settled.
+Compare: 1908 No 89 Schedule 2 rr 7.13, 7.17 prior to 1 February 2013
+7.7 Steps after close of pleadings date restricted
+(1) No statement of defence or amended pleading or affidavit may be filed, and no interlocutory application may be made or step taken, after the close of pleadings date without the leave of a Judge.
+(2) Subclause (1) does not apply to—
+(a) an application for leave under that subclause; or
+(b) a pleading or an affidavit that merely brings up to date the information before the court; or
+(c) an application for amendment of a defect or an error under rule 1.9.
+Compare: 1908 No 89 Schedule 2 r 7.18 prior to 1 February 2013
+7.8 Pre-trial conferences
+(1) The Judge or Registrar may order a pre-trial conference for a proceeding that is being or has been allocated a hearing or trial date.
+(2) Any matter may be considered at a pre-trial conference, including—
+(a) whether background facts can be agreed to avoid hearing uncontested evidence:
+(b) the size, contents, and format of the agreed bundle of documents:
+(c) the amount of detail in any chronology of facts:
+(d) whether it will be helpful to direct the provision of lists of enactments and cases likely to be referred to:
+(e) whether any oral evidence direction should be made under rule 9.10.
+(3) The Judge at a pre-trial conference may give directions to secure the just, speedy, and inexpensive determination of the proceeding, including directions as to how the hearing or trial is to be conducted.
+7.9 Cancellation of conference
+A Judge may cancel a case management or issues conference if, after reading the memoranda prepared for the conference, the Judge is satisfied that the parties have achieved the goals of this subpart and, in particular, that they have—
+(a) identified, defined, and refined the issues requiring judicial resolution; and
+(b) completed all steps needed to prepare the proceeding for hearing or trial; and
+(c) devised an efficient way of conducting the hearing or trial that is proportionate to the subject matter.
+Compare: 1908 No 89 Schedule 2 r 7.6 prior to 1 February 2013
+7.10 Limitation of right of appeal
+(1) The parties may agree to exclude or limit any right of appeal from any judgment or order made in the proceeding.
+(2) Any agreement under subclause (1) may be recorded on the court file in any form the Judge directs.
+Compare: 1908 No 89 Schedule 2 r 7.8 prior to 1 February 2013
+7.11 Timetable and monitoring obligations
+The Registrar must—
+(a) arrange the date of the first case management conference under rule 7.3(2):
+(b) remind parties or their counsel of the timetable obligations associated with any case management or pre-trial conference:
+(c) communicate with parties or their counsel who have a duty to file a memorandum or other documents and remind them of that duty.
+7.12 Lists of proceedings
+The Registrar must cause the following lists to be kept:
+(a) a list of proceedings that have been allocated a hearing or trial date under rule 7.6(1) or (2); and
+(b) a list of proceedings that have had their first case management conference but have not been allocated a date for hearing or trial.
+Compare: 1908 No 89 Schedule 2 r 7.15 prior to 1 February 2013
+7.13 Registrar's functions in relation to hearing dates
+(1) After a Judge has allocated a hearing or trial date for a proceeding under rule 7.6(1) or (2), the Registrar must promptly—
+(a) record the proceeding in the list kept under rule 7.12(a); and
+(b) record the hearing date and the close of pleadings date in that list; and
+(c) give written confirmation of both dates to all parties to the proceeding.
+(2) The performance of the Registrar's functions under this rule is subject to any direction by a Judge.
+Compare: 1908 No 89 Schedule 2 r 7.16 prior to 1 February 2013
+7.14 Case management conferences for appeals
+(1) In the case of an appeal under Part 20 or 26 that is to be the subject of case management, the Registrar must make arrangements for a case management conference to be held on the first available date that is 15 working days after any of the following dates:
 (a) the date on which a notice of appeal under rule 20.6 or an originating application under rule 26.3 is filed:
 (b) the date on which leave to appeal is granted on an application under rule 20.3 or 26.15.
-(2) The appellant must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to everyone who has been, or is to be, served with a copy of the notice of appeal or the originating application.
-(3) The parties must, not later than 2 working days before the case management conference,—
+(2) A case management conference under this rule may be held as part of an appeals list.
+(3) The appellant must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to everyone who has been, or is to be, served with a copy of the notice of appeal or the originating application.
+(4) The parties must, not later than 2 working days before the case management conference,—
 (a) file a joint memorandum; or
 (b) each file a memorandum.
-(4) Any memorandum filed must—
+(5) Any memorandum filed must—
 (a) address the matters set out in Schedule 6; and
 (b) specify any directions in Schedule 6 that should be deleted or modified, and why; and
 (c) set out any additional directions sought, and why; and
 (d) set out the issues raised by the appeal if they are not fully set out, or are different from those set out, in the notice of appeal.
-(5) Any memorandum may be filed by fax or by email transmission.
 (6) The directions set out in Schedule 6 apply except to the extent that those directions are modified by directions given by the Judge.
-(7) At the conference, the Judge must give directions for the conduct of the appeal, which may, without limitation, include directions—
+Compare: 1908 No 89 Schedule 2 r 7.5 prior to 1 February 2013
+7.15 Directions for conduct of appeal
+(1) At a case management conference held under rule 7.14, the Judge will give directions for the conduct of the appeal that may, without limitation, include directions—
 (a) as to service of the notice of appeal or the originating application, including service on persons not currently parties:
 (b) about any cross-appeal, including directions as to service:
 (c) in the case of an appeal under Part 20, as to how and when any application to adduce further evidence on appeal is to be dealt with:
@@ -3080,95 +3150,17 @@ Compare: 1908 No 89 Schedule 2 r 429
 (i) as to the preparation of the record in accordance with rule 26.10 or in any other manner the Judge thinks fit:
 (ii) as to the transcription of the evidence in accordance with rule 26.11:
 (e) on any other matter for the purpose of best securing the just, speedy, and inexpensive determination of the appeal.
-(8) In the case of an appeal or reference by way of case stated under Part 21, this rule applies as if the appeal or reference were an appeal under Part 20, except that the references in subclauses (4) and (6) to Schedule 6 must be read as references to Schedule 7.
-Compare: 1908 No 89 Schedule 2 r 430
-7.6 Cancellation of conference
-A Judge may cancel a case management conference if, after reading the memoranda prepared under rule 7.4(3) or 7.5(3) for the conference, the Judge—
-(a) is satisfied that all orders sought can be made by consent; and
-(b) is satisfied that the attendance of counsel is not required; and
-(c) makes those orders.
-Compare: 1908 No 89 Schedule 2 r 431
-7.7 Court to seek admissions and agreements
-At a case management conference, the Judge—
-(a) must endeavour to secure that the parties make all admissions and all agreements as to the conduct of the proceeding that ought reasonably to be made by them; and
-(b) may direct that any refusal to make an admission or agreement be recorded, in any form the Judge directs, so that the refusal can be taken into account in an award of costs.
-Compare: 1908 No 89 Schedule 2 r 439(1)
-7.8 Limitation of right of appeal
-Rule 7.7 does not require the Judge to endeavour to secure that the parties agree to exclude or limit any right of appeal, but an agreement to that effect must be recorded in any form the Judge directs.
-Compare: 1908 No 89 Schedule 2 r 439(2)
-7.9 Directions as to conduct of proceeding
-(1) A Judge may, by interlocutory order,—
-(a) give directions to secure the just, speedy, and inexpensive determination of a proceeding:
-(b) fix the time by which a step in a proceeding must be taken:
-(c) fix the time by which all interlocutory steps must be completed:
-(d) direct the steps that must be taken to prepare a proceeding for substantive hearing:
-(e) direct how the hearing of a proceeding is to be conducted.
-(2) On an originating application a Judge may direct the parties to file a statement of claim and of defence, respectively.
-(3) A party or intended party may apply without notice to a Judge for directions if in doubt about—
-(a) whether it is correct or appropriate to join a person as a party; or
-(b) the proper court in which to commence or take a step in a proceeding; or
-(c) the correct method of proceeding under these rules.
-(4) A step taken in accordance with a direction given under subclause (3) must be treated as valid.
-Compare: 1908 No 89 Schedule 2 rr 8, 425
-7.10 Order may be varied at trial
-An order or direction made or given under rule 7.9 may, if justice so requires, be varied or revoked (in whole or in part) by the court at the trial.
-Compare: 1908 No 89 Schedule 2 r 440
-7.11 Hearing dates for proceedings on swift track
-(1) In the case of appeals under Part 20 or 26, the Judge must, at a case management conference or, if the case management conference is cancelled under rule 7.6, by minute, give a direction—
-(a) allocating a hearing date for the appeal; or
-(b) requiring the Registrar to allocate a hearing date for the appeal.
-(2) In the case of all other proceedings on the swift track (including applications for leave to appeal under Part 20 or 26), the Registrar must, as soon as practicable after the first document in the proceeding is filed or the proceeding is moved from the standard track to the swift track, allocate a hearing date for the proceeding.
-Compare: 1908 No 89 Schedule 2 r 432
-7.12 Application of rules 7.13 to 7.18
-Rules 7.13 to 7.18 apply to all proceedings other than proceedings that are on the swift track.
-Compare: 1908 No 89 Schedule 2 r 433
-7.13 Allocation of hearing dates and setting down dates
-(1) A Judge may give a direction that—
-(a) allocates a hearing date for a proceeding; or
-(b) requires the Registrar to allocate a hearing date for the proceeding.
-(2) Unless the Judge otherwise directs, if no hearing date has been allocated for the proceeding by the time that a second case management conference is, under rule 7.3(1)(b), held for the proceeding, the hearing date must be allocated at that conference whether or not any interlocutory application is outstanding.
-(3) When the Judge gives a direction under subclause (1), the Judge may also give a direction that fixes the setting down date for the proceeding.
-(4) A direction under subclause (1), or directions under subclauses (1) and (3), may be given at any time on the Judge's own initiative or on the application of 1 or more parties to the proceeding.
-(5) If the Judge gives a direction under subclause (1) without giving a direction under subclause (3), the setting down date for the proceeding is the later of—
-(a) the date that is 60 working days before the hearing date; or
-(b) the date on which the hearing date is allocated.
-Compare: 1908 No 89 Schedule 2 r 434
-7.14 Jury notice
+(2) In the case of an appeal or reference by way of case stated under Part 21, this rule and rule 7.14 apply as if the appeal or reference were an appeal under Part 20, except that the references in rule 7.14(5) and (6) to Schedule 6 must be read as references to Schedule 7.
+Compare: 1908 No 89 Schedule 2 r 7.5 prior to 1 February 2013
+7.16 Jury notice
 If either party to a proceeding to which section 19A of the Act applies requires the proceeding to be tried before a Judge and a jury, the party must give notice to that effect to the court and to the other party not later than—
-(a) 5 working days before the setting down date for the proceeding; or
+(a) 5 working days before the close of pleadings date for the proceeding; or
 (b) a date fixed by a Judge for the purpose.
-Compare: 1908 No 89 Schedule 2 r 435
-7.15 Lists of proceedings
-The Registrar must cause the following lists to be kept:
-(a) a list of proceedings that have been allocated a hearing date under rule 7.13(1)(a); and
-(b) a list of proceedings for which the Registrar is, under rule 7.13(1)(b), required to allocate a hearing date.
-Compare: 1908 No 89 Schedule 2 r 436
-7.16 Registrar's functions in relation to hearing dates
-(1) After a Judge has allocated a hearing date for a proceeding under rule 7.13(1)(a), the Registrar must promptly—
-(a) record the hearing date and the setting down date for the proceeding in the appropriate list; and
-(b) give written confirmation of both dates to all parties to the proceeding.
-(2) After the Judge gives a direction under rule 7.13(1)(b) for a proceeding, the Registrar must—
-(a) promptly record the proceeding in the appropriate list; and
-(b) allocate a hearing date for the proceeding—
-(i) as soon as practicable; and
-(ii) so far as practicable, in the order in which the directions for the proceedings recorded in the appropriate list have been given; and
-(c) then promptly—
-(i) record the hearing date and the setting down date in the appropriate list; and
-(ii) give written confirmation of both dates to all parties to the proceeding.
-(3) The performance of the Registrar's functions under subclause (1) is subject to any direction by a Judge.
-Compare: 1908 No 89 Schedule 2 r 437
+Compare: 1908 No 89 Schedule 2 r 7.14 prior to 1 February 2013
 7.17 Parties to keep Registrar informed
-It is the duty of all parties to a proceeding that has been allocated a hearing date to notify the Registrar, without delay, if the proceeding is settled.
-Compare: 1908 No 89 Schedule 2 r 438
+[Repealed]
 7.18 No steps after setting down date without leave
-(1) On and after the setting down date the Registrar, without requiring an application by a party, must treat the proceeding as set down for hearing.
-(2) No statement of defence or amended pleading or affidavit may be filed, and no interlocutory application may be made or step taken, in the proceeding after the setting down date without the leave of a Judge.
-(3) Subclause (2) does not apply to—
-(a) an application for leave under that subclause; or
-(b) an application for directions under rule 7.9; or
-(c) a pleading or an affidavit that merely brings up to date the information before the court; or
-(d) an application for an amendment of a defect or error under rule 1.9.
-Compare: 1908 No 89 Schedule 2 r 438AA
+[Repealed]
 Subpart 2—Interlocutory applications and interlocutory orders
 7.19 Contents, form, and filing of interlocutory application
 (1) An interlocutory application must—
@@ -3370,7 +3362,7 @@ Compare: 1908 No 89 Schedule 2 rr 242(2), 256
 (g) the party who submitted the order for sealing must promptly serve a sealed copy on every other party who has given an address for service and on any person affected by the order.
 Compare: 1908 No 89 Schedule 2 r 257
 7.48 Enforcement of interlocutory order
-(1) If a party (the party in default) fails to comply with an interlocutory order, a Judge may, subject to any express provision of these rules, make any order that the Judge thinks just.
+(1) If a party (the party in default) fails to comply with an interlocutory order or any requirement imposed by or under subpart 1 of Part 7 (case management), a Judge may, subject to any express provision of these rules, make any order that the Judge thinks just.
 (2) The Judge may, for example, order—
 (a) that any pleading of the party in default be struck out in whole or in part:
 (b) that judgment be sealed:
@@ -3596,7 +3588,7 @@ Subpart 6—Amendment of pleading
 (7) When an amended pleading does not introduce a fresh cause of action, the other party may, within 5 working days after the day on which the amended pleading is served on that other party, file and serve an amended defence to it.
 (8) If an amended pleading has been filed under this rule, the party filing the amended pleading must bear all the costs of and occasioned by the original pleading and any application for amendment, unless the court otherwise orders.
 (9) This rule does not limit the powers conferred on the court by rule 1.9.
-(10) This rule is subject to rule 7.18 (which prohibits steps after the setting down date without leave).
+(10) This rule is subject to rule 7.7 (which prohibits steps after the close of pleadings date without leave).
 Compare: 1908 No 89 Schedule 2 r 187
 Subpart 7—Recovery of specific property subject to lien
 7.78 Recovery of specific property subject to lien or other security
@@ -3678,11 +3670,9 @@ tailored discovery means discovery that complies with rule 8.8.
 (a) refers to documents not referred to in any earlier pleading filed by the party who files the amended pleading; or
 (b) pleads additional facts.
 8.5 Discovery orders to be made at case management conferences
-(1) A Judge must make a discovery order for a proceeding on the standard track unless he or she considers that the proceeding can be justly disposed of without any discovery.
+(1) A Judge must make a discovery order for a proceeding unless he or she considers that the proceeding can be justly disposed of without any discovery.
 (2) An order under subclause (1) must be made at the first case management conference that is held for the proceeding, unless there is good reason for making the order later.
-(3) A Judge may make a discovery order for a proceeding on the swift track if—
-(a) a case management conference is held for the proceeding; and
-(b) a party to the proceeding explains, to the Judge's satisfaction, why the order is sought in a memorandum filed under rule 7.4.
+(3) [Repealed]
 8.6 Two kinds of discovery
 Discovery orders made under this subpart may direct either—
 (a) standard discovery; or
@@ -3698,7 +3688,7 @@ Tailored discovery must be ordered when the interests of justice require an orde
 8.9 Presumption as to tailored discovery
 It is to be presumed, unless the Judge is satisfied to the contrary, that the interests of justice require tailored discovery in proceedings—
 (a) where the costs of standard discovery would be disproportionately high in comparison with the matters at issue in the proceeding; or
-(b) that are on the commercial list, or on the swift track (if an order is made under rule 8.5(3)); or
+(b) that are on the commercial list; or
 (c) that involve 1 or more allegations of fraud or dishonesty; or
 (d) in which the total of the sums in issue exceeds $2,500,000; or
 (e) in which the total value of any assets in issue exceeds $2,500,000; or
@@ -3707,7 +3697,7 @@ It is to be presumed, unless the Judge is satisfied to the contrary, that the in
 Tailored discovery requires a party against whom it is ordered to disclose the documents that are or have been in that party's control either in categories as indicated in clause 3(2) of Part 1 of Schedule 9 or under some other method of classification that facilitates the identification of particular documents.
 8.11 Preparation for first case management conference
 (1) The parties must, not less than 10 working days before the first case management conference, discuss and endeavour to agree on an appropriate discovery order, and the manner in which inspection will subsequently take place, having addressed the matters in the discovery checklist in accordance with Part 1 of Schedule 9.
-(2) The joint memorandum, or separate memoranda, filed under rule 7.4 must, in addition to the matters required to be addressed under rule 7.4(3), set out the terms of the discovery order that the Judge is requested to make and the reasons for a discovery order in those terms.
+(2) The joint memorandum, or separate memoranda, filed under rule 7.3 must, in addition to the matters required to be addressed under rule 7.3(3), set out the terms of the discovery order that the Judge is requested to make and the reasons for a discovery order in those terms.
 (3) If the parties agree to vary the listing and exchange protocol set out in Part 2 of Schedule 9, they need advise the Judge only that variation has been agreed, not the details of that variation.
 8.12 Orders that may be made
 (1) At the case management conference the Judge may, under rule 8.5, make—
@@ -3972,119 +3962,124 @@ A judgment or order may be made on an admission of facts under rule 15.15.
 Compare: 1908 No 89 Schedule 2 r 8.15 prior to 1 February 2012
 Part 9
 Evidence
-Subpart 1—Briefs of evidence, indexes, and bundles of documents
-9.1 Scope of briefs regime
-(1) The evidence in chief of witnesses in a proceeding must be contained in briefs and given in accordance with this subpart unless the Judge has directed that such evidence, or the evidence of a particular witness, or part of that evidence, be given orally.
-(2) Rules 9.2 to 9.9 and 9.12 to 9.16 apply to a proceeding unless modified or excluded by a direction of the court.
-(3) Despite subclause (2), rules 9.2 to 9.9 and 9.12 to 9.16 do not apply to a specified proceeding unless they are applied, with or without modifications, by a direction of the court.
-(4) In this rule, specified proceeding means a proceeding—
-(a) that is on the swift track; or
-(b) in which evidence is to be given by affidavit; or
-(c) in which an agreed statement of facts has been filed under rule 9.57.
-(5) In this subpart, brief, in relation to the evidence of a witness to be called by a party, means a written statement setting out evidence proposed to be given by that witness.
-Compare: 1908 No 89 Schedule 2 r 441A
-9.2 Service by plaintiff of briefs
-(1) The plaintiff or other party responsible for serving the first briefs in a proceeding must, not later than the specified date, serve on every other party who has given an address for service a brief of the evidence in chief of each witness to be called by the plaintiff or that party.
-(2) For the purposes of subclause (1), the specified date is—
-(a) the date fixed by the court for the purpose; or
-(b) if no date is fixed, 15 working days after the setting down date.
-Compare: 1908 No 89 Schedule 2 r 441B
-9.3 Service by other parties of briefs of evidence in chief
-If a party who has been served with a brief under rule 9.2 also wishes to offer evidence, the party must, not later than 15 working days after the date on which the party was served with that brief, serve on every other party who has given an address for service a brief of the evidence in chief of each witness to be called by the party.
-Compare: 1908 No 89 Schedule 2 r 441C
-9.4 Requirements in relation to briefs
-A brief served under rule 9.2, 9.3, or 9.5—
-(a) must be signed by the witness by whom the brief is made; and
-(b) must not contain evidence that is inadmissible in the proceeding.
-Compare: 1908 No 89 Schedule 2 r 441D
-9.5 Supplementary briefs
-(1) A party to a proceeding who wishes to offer new or further evidence after a brief has been served on that party under rule 9.2 or 9.3 (not being evidence in response to any matter contained in that brief) may serve on every other party who has given an address for service a supplementary brief.
-(2) A supplementary brief served under subclause (1) must be served as soon as possible after the party wishing to offer the new or further evidence becomes aware of its existence or its relevance.
-(3) The evidence contained in a supplementary brief served under this rule may be offered as evidence only with the leave of the court.
-Compare: 1908 No 89 Schedule 2 r 441E
-9.6 Evidence in chief at trial
-(1) A brief signed by a witness that has been served under rule 9.2 or 9.3, together with any supplementary brief that may be offered under rule 9.5,—
-(a) must, unless the trial Judge otherwise directs, be read by the witness at the trial as the witness's evidence in chief; and
-(b) is, when read by the witness at the trial, the evidence in chief given by the witness at the trial; and
+Subpart 1—Briefs, oral evidence directions, common bundles, and chronologies
+9.1 Objective and scope
+(1) When applying the rules in this subpart to a proceeding, the court and the parties must pursue the just, speedy, and inexpensive determination of that proceeding.
+(2) The parties must also ensure that the briefs and the common bundle are commensurate with the goal of keeping the cost of the proceeding proportionate to the subject matter of the proceeding.
+(3) The documents to be produced at the trial or hearing and the evidence-in-chief of witnesses must be prepared, produced, and led in accordance with this subpart.
+9.2 Exchange of documents and index
+(1) In this rule, documents to be relied upon means—
+(a) documents referred to in a brief or to be referred to by a witness; and
+(b) documents intended to be put to witnesses called by another party; and
+(c) documents to be referred to in opening.
+(2) When a party discloses documents to be relied upon at the trial or hearing, that party must supply a list of those documents incorporating any list previously supplied, so that the other parties always have an up-to-date list of the documents that party intends to rely upon. The list may be in any format and is to be labelled and referred to as that party's index.
+(3) Documents to be relied upon at the trial or hearing but additional to those already disclosed may be disclosed at any time, but not later than a date fixed by the court at a case management, issues, or pre-trial conference.
+(4) Subclause (3) does not affect a party's ongoing obligations in relation to discovery.
+9.3 Timing
+(1) Unless otherwise ordered by the court, a common bundle of documents must not be prepared until all the briefs of the parties have been served.
+(2) The common bundle must be prepared by the plaintiff (or a different party, if the court so orders) and filed and served by a date fixed by the court at a case management, issues, or pre-trial conference.
+9.4 Preparation of common bundle
+(1) The parties must co-operate in the preparation of a bundle of documents (in this subpart referred to as the common bundle).
+(2) The duty to co-operate includes—
+(a) advising the plaintiff or the plaintiff's counsel promptly, after the date when the last brief of any party is served under rule 9.7, of the documents that the party requires the plaintiff to include in the common bundle; and
+(b) taking all practicable steps to assist the plaintiff in the preparation of the common bundle, for example, by making copies of documents available, or agreeing to the excision of part of a document if that part cannot be relevant; and
+(c) conferring as to the format of the common bundle.
+(3) If a party other than the plaintiff has been ordered to prepare the common bundle, the references in subclause (2) to the plaintiff are to be read as references to that different party.
+(4) Subject to rule 9.6, the common bundle must contain all the documents listed in the index of each party, and no other documents.
+(5) The common bundle must—
+(a) arrange the documents chronologically, or in any other appropriate sequence or manner agreed by counsel and approved by the court:
+(b) number each page of the common bundle in a consecutive sequence:
+(c) set out before the first document a common bundle index that shows—
+(i) a short description of each document:
+(ii) the date of each document:
+(iii) the party from whose custody each document has been produced:
+(iv) the page number of each document as it appears in the common bundle:
+(d) use a format that is, so far as possible, compatible with that used by the parties when listing documents under rule 8.16 (schedule appended to affidavit of documents).
+(6) Unless the court directs otherwise, the common bundle must be served not later than 15 working days after the date when the last brief of any party is served under rule 9.7.
+Compare: 1908 No 89 Schedule 2 r 9.13 prior to 1 February 2013
+9.5 Consequences of incorporating document in common bundle
+(1) Each document contained in the common bundle is, unless the court otherwise directs, to be considered—
+(a) to be admissible; and
+(b) to be accurately described in the common bundle index; and
+(c) to be what it appears to be; and
+(d) to have been signed by any apparent signatory; and
+(e) to have been sent by any apparent author and to have been received by any apparent addressee; and
+(f) to have been produced by the party indicated in the common bundle index.
+(2) If a party objects to the admissibility of a document included in the common bundle, or to the application of any of subclause (1)(b) to (f) to a document, the objection must, if practicable, be recorded in the common bundle, and must be determined by the court at the hearing or at any prior time that the court directs.
+(3) The fact that a document has been included in the common bundle is not relevant to the determination under subclause (2) of an objection that relates to the document.
+(4) A document in the common bundle is automatically received into evidence (subject to the resolution of any objection to admissibility) when a witness refers to it in evidence or when counsel refers to it in submissions (made otherwise than in a closing address).
+(5) A document in the common bundle may not be received in evidence except under subclause (4).
+(6) The court may direct that this rule or any part of it is not to apply to a particular document.
+Compare: 1908 No 89 Schedule 2 r 9.14 prior to 1 February 2013
+9.6 Consequence of not incorporating document in common bundle
+(1) A document not incorporated in the common bundle may be produced at the trial or hearing only with the leave of the court.
+(2) The court may grant leave to produce a discovered document not so incorporated unless its production would cause an injustice.
+(3) The court may refuse leave to produce a document not so incorporated and not discovered if its production might cause an injustice.
+Compare: 1908 No 89 Schedule 2 r 9.15 prior to 1 February 2013
+9.7 Requirements in relation to briefs
+(1) In this subpart, brief, in relation to the evidence of a witness to be called by a party, means a written statement setting out evidence proposed to be given by that witness.
+(2) The date by which the parties must complete and serve briefs upon each other, simultaneously or sequentially, must be determined by the court at a case management or issues conference, having regard to the needs of the case.
+(3) Whether or not some evidence is directed to be led orally, the brief must contain the testimony intended to be taken from that witness on that subject.
+(4) Every brief—
+(a) must be signed by the witness by whom the brief is made:
+(b) must be in the words of the witness and not in the words of the lawyer involved in drafting the brief:
+(c) must not contain evidence that is inadmissible in the proceeding:
+(d) must not contain any material in the nature of a submission:
+(e) must avoid repetition:
+(f) must avoid the recital of the contents or a summary of documents that are to be produced in any event:
+(g) must be confined to the matters in issue.
+(5) If the brief does not comply with the requirements of subclause (4) the court, prior to or during the trial, may direct that it not be read in whole or in part, and may make such order as to costs as the court sees fit.
+(6) When a brief is served, the party serving it must as soon as practicable advise the Registrar what has been served, upon whom, and the date of service.
+Compare: 1908 No 89 Schedule 2 r 9.4 prior to 1 February 2013
+9.8 Supplementary briefs
+(1) A party wishing to offer a supplementary brief must serve it as soon as possible.
+(2) The acceptance and use of the supplementary brief in court will be at the discretion of the trial Judge.
+Compare: 1908 No 89 Schedule 2 r 9.5 prior to 1 February 2013
+9.9 Exchange of chronology of facts intended to be relied upon at trial or hearing
+(1) The plaintiff must, not later than 15 working days after the common bundle has been served, file and serve a chronology of the facts it intends to rely upon at the trial or hearing.
+(2) In preparing the chronology, the plaintiff must—
+(a) set out the facts in chronological order; and
+(b) cross-reference the facts to—
+(i) 1 or more documents; or
+(ii) 1 or more statements in written briefs; and
+(c) include, when available, common bundle index references or page references.
+(3) The other parties must, not later than 15 working days after service of the plaintiff's chronology, file and serve their responses to it, identifying which facts they dispute, and adding any other facts they intend to rely upon.
+(4) In preparing their responses, the other parties must—
+(a) cross-reference disputed facts to different or contradictory facts in the plaintiff's chronology; and
+(b) list any additional facts; and
+(c) comply with subclause (2)(b).
+(5) The court may modify the requirements of this rule at a conference under rule 7.5.
+9.10 Oral evidence directions
+(1) After the preparation and service of the chronologies of facts, the parties must bring significant facts that are disputed to the attention of the court.
+(2) The obligation in subclause (1) may be discharged at a case management or issues or pre-trial conference, or at another time, but must, in any event, be discharged not later than 15 working days after service of the chronologies of fact has been completed.
+(3) The court may, before the giving of evidence, and either before or at the trial or hearing, direct that evidence be given orally (an oral evidence direction).
+9.11 Compliance with Evidence Act 2006
+(1) Any challenge to the admissibility of a brief, in whole or in part, must be notified to the party or parties concerned within 20 working days after receipt of the brief by the challenging party.
+(2) If the issue is not resolved between counsel in a further 10 working days, notice that there is an admissibility issue must be given to the court by the challenging party.
+9.12 Evidence-in-chief at trial
+(1) A brief signed by a witness—
+(a) must, subject to the terms of an oral evidence direction made under rule 9.10, be read by the witness at the trial as the witness's evidence-in-chief; and
+(b) is, when read by the witness at the trial, the evidence-in-chief given by the witness at the trial; and
 (c) must, after being read by the witness at the trial, be endorsed by or on behalf of the Registrar with the words "Given in evidence on [date]".
-(2) The endorsement made under subclause (1)(c) must be signed and dated by or on behalf of the Registrar.
-Compare: 1908 No 89 Schedule 2 r 441F
-9.7 Oral evidence in chief generally not permissible
-(1) Oral evidence in chief of any person (whether or not a brief of that person's evidence has been served) may be offered at the trial only if that oral evidence—
-(a) is in response to evidence offered by another party; or
-(b) is offered with the leave of the trial Judge.
-(2) Leave may be granted only if—
-(a) the evidence relates to matters contained in a brief that has been served and is required to explain, elaborate, or otherwise clarify those matters; or
-(b) the evidence relates to evidence in response to matters contained in a brief that has been served; or
-(c) the evidence relates to new or further matters that could not reasonably have been included in the witness's brief or a supplementary brief; or
-(d) the admission of the evidence is required in the interests of justice; or
-(e) every party to the proceeding who is represented at the hearing consents.
-(3) This rule does not apply if the Judge has directed that evidence be given orally under rule 9.1(1) or 9.6.
-Compare: 1908 No 89 Schedule 2 r 441G
-9.8 References to briefs not given in evidence
-If, by the time that a party opens the party's case, the brief of another party's witness has not been given in evidence, the party may, in opening, refer to that brief only with the leave of the trial Judge.
-Compare: 1908 No 89 Schedule 2 r 441H
-9.9 Cross-examination in relation to briefs not given in evidence
-(1) When any part of the evidence contained in a brief served under rule 9.2, 9.3, or 9.5 is not given in evidence at the trial by the person who signed the brief, any other party to the proceeding may, unless the trial Judge otherwise directs, put that part of the statement to that person in cross-examination.
-(2) When a brief served under rule 9.2, 9.3, or 9.5, or any part of the brief, has not been given in evidence, any party may, with the leave of the trial Judge, put that brief or that part of it to any witness in cross-examination.
-Compare: 1908 No 89 Schedule 2 r 441I
-9.10 Privilege and admissibility not affected by briefs
-Nothing in rules 9.1 to 9.9—
+(2) Any portion of the brief that is the subject of an oral evidence direction under rule 9.10 becomes part of the evidence-in-chief of the witness only if and when it is given orally.
+Compare: 1908 No 89 Schedule 2 r 9.6 prior to 1 February 2013
+9.13 Briefs not given in evidence
+(1) If, by the time that a party opens the party's case, the brief of another party's witness has not been given in evidence, the party may, in opening, refer to that brief only with the leave of the trial Judge.
+(2) When any part of the evidence contained in a brief is not given in evidence at the trial by the person who signed the brief, any other party to the proceeding may, unless the trial Judge otherwise directs, put that part of the evidence to that person in cross-examination.
+Compare: 1908 No 89 Schedule 2 rr 9.8, 9.9 prior to 1 February 2013
+9.14 Privilege and admissibility not affected by briefs
+Nothing in this subpart—
 (a) deprives any party of that party's right to treat any communication as privileged; or
 (b) changes inadmissible evidence into admissible evidence; or
 (c) changes admissible evidence into inadmissible evidence; or
 (d) deprives any party of that party's right to cross-examine any party to a proceeding on a brief, served under these rules, that is inconsistent with a statement previously made by that party; or
 (e) allows a brief, served under these rules, to be made available, before it is given in evidence, for use for another purpose or proceeding.
-Compare: 1908 No 89 Schedule 2 r 441J
-9.11 Cross-examination duties
+Compare: 1908 No 89 Schedule 2 r 9.10 prior to 1 February 2013
+9.15 Cross-examination duties
 The exchange of briefs under this subpart does not affect the cross-examination duties referred to in section 92 of the Evidence Act 2006.
-Compare: 1908 No 89 Schedule 2 r 441K
-9.12 Exchange of indexes of documents intended for hearing
-(1) A party who wishes to rely on documents at a hearing must refer to those documents in an index and serve that index on every other party to the proceeding at the same time that the party serves briefs of evidence under these rules.
-(2) An index served by a party under subclause (1) must include only documents that—
-(a) will be referred to in evidence to be given, or submissions to be made, at the hearing; and
-(b) are not already included in any index previously served under this rule on the party by another party.
-Compare: 1908 No 89 Schedule 2 r 441M
-9.13 Preparation of common bundle
-(1) The parties must co-operate in the preparation of a bundle of documents (in this rule and in rule 9.15 referred to as the common bundle).
-(2) The duty to co-operate includes—
-(a) advising the plaintiff or the plaintiff's counsel promptly, after the date when the last brief of any party is served under rule 9.3, of the documents that the party requires the plaintiff to include in the common bundle; and
-(b) taking all practicable steps to assist the plaintiff in the preparation of the common bundle, for example, by making copies of documents available, or agreeing to the excision of part of a document if that part cannot be relevant.
-(3) Unless excused by the court, the plaintiff must prepare, file, and serve a common bundle containing every document referred to in—
-(a) the index served by the plaintiff under rule 9.12; and
-(b) each index (if any) served by another party under that rule.
-(4) In preparing the common bundle, the plaintiff must—
-(a) set out the documents in chronological order or any other appropriate order agreed on by counsel; and
-(b) number each page of the common bundle in consecutive order; and
-(c) set out before the first document an index that shows—
-(i) the date and nature of each document; and
-(ii) the party from whose custody each document has been produced; and
-(iii) the page number of each document as it appears in the common bundle.
-(5) Unless the court directs otherwise, the common bundle must be served no later than 15 working days after the date when the last brief of any party is served under rule 9.3.
-9.14 Consequences of incorporating document in common bundle
-(1) Each document contained in the common bundle is, unless the court otherwise directs, to be considered—
-(a) to be admissible; and
-(b) to be accurately described in the index to the bundle; and
-(c) to be what it appears to be; and
-(d) to have been signed by any apparent signatory; and
-(e) to have been sent by any apparent author and to have been received by any apparent addressee; and
-(f) to have been produced by the party indicated in the index to the common bundle.
-(2) If a party objects to the admissibility of a document included in the common bundle or to the application of any of paragraphs (b) to (f) of subclause (1) to a document, the objection must be—
-(a) recorded in the common bundle; and
-(b) determined by the court at the hearing or at any prior time that the court directs.
-(3) The fact that a document has been included in the common bundle is not relevant to the determination, under subclause (2), of an objection that relates to the document.
-(4) A document in the common bundle is received into evidence when a witness refers to it in evidence or when counsel refers to it in submissions (made otherwise than in a closing address).
-(5) A document in the common bundle may not be received in evidence except under subclause (4).
-(6) The court may direct that any provision of this rule is not to apply to a particular document.
-Compare: 1908 No 89 Schedule 2 r 441O
-9.15 Consequence of not incorporating document in common bundle
-A document that is not incorporated in the common bundle may be produced at the hearing only with the leave of the court.
-Compare: 1908 No 89 Schedule 2 r 441P
-9.16 Plaintiff's synopsis of opening and chronology
-The plaintiff must, not later than 2 working days before the hearing, file in the court and serve on every other party to the proceeding—
-(a) a copy of the plaintiff's opening; and
-(b) a chronology of the material events that form part of the plaintiff's evidence.
-Compare: 1908 No 89 Schedule 2 r 441Q
+Compare: 1908 No 89 Schedule 2 r 9.11 prior to 1 February 2013
+9.16 Plaintiff's synopsis of opening
+The plaintiff must, not later than 2 working days before the trial or hearing, file in the court and serve on every other party to the proceeding a copy of the plaintiff's opening.
 Subpart 2—Evidence by depositions
 9.17 Order for examination of witness or for letters of request
 (1) When, in a proceeding or on an interlocutory application, a party desires to have the evidence of a person or persons taken otherwise than at the trial or the hearing of that interlocutory application, the court may, on application by that party, make orders on any terms the court thinks just—
@@ -4422,7 +4417,7 @@ Compare: 1908 No 89 Schedule 2 r 503
 9.69 Time for filing plaintiff's affidavits
 (1) In this rule, the prescribed date means,—
 (a) if the parties have agreed under rule 9.55 that evidence be given by affidavit, the date when the agreement was filed:
-(b) when these rules provide that the evidence be given by affidavit, the setting down date determined under rule 7.13.
+(b) when these rules provide that the evidence be given by affidavit, the close of pleadings date fixed under rule 7.6.
 (2) Within 10 working days after the prescribed date the plaintiff must, subject to rule 19.11, file the plaintiff's affidavits and serve copies on the other parties.
 Compare: 1908 No 89 Schedule 2 r 504
 9.70 Time for filing defendant's affidavits
@@ -5234,62 +5229,59 @@ Any opposite party may apply to have all or part of a proceeding or counterclaim
 Compare: 1908 No 89 Schedule 2 r 478
 Subpart 2—Judgment by default
 15.3 Application where appearance
-(1) If the defendant has filed an appearance under rule 5.49, rules 15.4 to 15.14 do not apply.
-(2) If the defendant has filed an appearance under rule 5.50 or 5.51, rules 15.4 to 15.14 apply subject to that appearance.
-Compare: 1908 No 89 Schedule 2 r 459
+(1) If the defendant has filed an appearance under rule 5.49, rules 15.7 and 15.8 do not apply.
+(2) If the defendant has filed an appearance under rule 5.50 or 5.51, rules 15.7 and 15.8 apply subject to that appearance.
+Compare: 1908 No 89 Schedule 2 r 15.3 prior to 1 February 2013
 15.4 Affidavits to be filed
 Before judgment by default can be sealed, there must be filed—
 (a) an affidavit of service of the statement of claim and notice of proceeding; and
 (b) if the statement of claim and notice of proceeding have not been served personally on the defendant or on a solicitor accepting service on the defendant's behalf, an affidavit verifying the statement of claim.
-Compare: 1908 No 89 Schedule 2 r 468
+Compare: 1908 No 89 Schedule 2 r 15.4 prior to 1 February 2013
 15.5 When several causes of action
-The plaintiff may proceed separately under rules 15.7 to 15.12 in respect of any or each cause of action to which no statement of defence has been filed.
-Compare: 1908 No 89 Schedule 2 r 466
+The plaintiff may proceed separately under rule 15.7 or 15.8 in respect of each cause of action to which no pleading by way of defence in a statement of defence has been filed.
+Compare: 1908 No 89 Schedule 2 r 15.5 prior to 1 February 2013
 15.6 When several defendants
-The plaintiff may proceed against any 1 or more of the defendants under rules 15.7 to 15.12 and may, despite any judgment given under those rules, continue the proceeding against any other defendant against whom the cause of action subsists.
-Compare: 1908 No 89 Schedule 2 r 467
+The plaintiff may proceed against any 1 or more defendants under rule 15.7 or 15.8 and may, despite any judgment given under those rules, continue the proceeding against any other defendant against whom the cause of action subsists.
+Compare: 1908 No 89 Schedule 2 r 15.6 prior to 1 February 2013
 15.7 Liquidated demand
-(1) If the relief claimed by the plaintiff is payment of a liquidated demand in money and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding, the plaintiff may seal judgment for a sum not exceeding the sum claimed in the statement of claim (or less or nothing) and—
+(1) If the relief claimed by the plaintiff is payment of a liquidated demand in money and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding, the plaintiff may seal judgment in accordance with this rule for a sum not exceeding the sum claimed in the statement of claim and—
 (a) interest (if any) payable as of right calculated up to the date of judgment (if interest has been specifically claimed in the statement of claim); and
 (b) costs and disbursements as fixed by the Registrar.
 (2) If the plaintiff claims costs and disbursements, the plaintiff must file a memorandum setting out the amount claimed and how that amount is calculated, together with any submissions in support of the claim.
-(3) Every Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1)(b).
-Compare: 1908 No 89 Schedule 2 r 460
-15.8 Land
-(1) If the relief claimed by the plaintiff is the recovery of land and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding (or if the statement of defence is limited to part only of the land claimed), the plaintiff may seal judgment that the person whose title is asserted in the statement of claim recovers possession of the land (or possession of any part of the land to which the statement of defence does not apply) and costs and disbursements as fixed by the Registrar.
-(2) If the plaintiff claims costs and disbursements, the plaintiff must file a memorandum setting out the amount claimed and how that amount is calculated, together with any submissions in support of the claim.
-(3) Every Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1).
-Compare: 1908 No 89 Schedule 2 r 461
-15.9 Chattels
-(1) If the relief claimed by the plaintiff is the recovery of chattels and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding (or if the statement of defence is limited to part only of the chattels claimed), the plaintiff may seal judgment for costs and disbursements as fixed by the Registrar and—
-(a) recovery of possession of the chattels claimed (or any of them to which the statement of defence does not apply); or
-(b) the value of the chattels.
-(2) If the plaintiff claims costs and disbursements, the plaintiff must file a memorandum setting out the amount claimed and how that amount is calculated, together with any submissions in support of the claim.
-(3) Every Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1).
-(4) If the possession of any chattels claimed is not recovered, the plaintiff may have the proceeding tried to assess the value of those chattels.
-Compare: 1908 No 89 Schedule 2 r 462
-15.10 Unliquidated demand
-If the relief claimed by the plaintiff is payment of an unliquidated demand in money and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding, the proceeding must be tried to assess damages.
-Compare: 1908 No 89 Schedule 2 r 463
-15.11 Evidence on trial
-(1) On any trial for assessment of damages under rule 15.9(4) or 15.10, no defendant can adduce evidence without the leave of the court, except in mitigation of damages.
-(2) Unless the proceeding is required to be tried with a jury, the plaintiff may adduce evidence of the plaintiff's damages by affidavit.
-Compare: 1908 No 89 Schedule 2 r 464
+(3) A Judge or a Registrar may authorise the sealing of a judgment under subclause (1) if satisfied that the relief claimed by the plaintiff falls within this rule.
+(4) A Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1)(b).
+(5) For the purpose of this rule and rule 15.9, liquidated demand means a sum that—
+(a) has been quantified in, or can be precisely calculated on the basis of, a contract relied on by the plaintiff; or
+(b) has been determined by agreement, mediation, arbitration, or previous litigation between the same parties; or
+(c) is a reasonable price for goods supplied or services rendered (when no contract quantifies the price).
+Compare: 1908 No 89 Schedule 2 r 15.7 prior to 1 February 2013
+15.8 Recovery of land or chattels
+(1) If the relief claimed by the plaintiff is the recovery of land or chattels and the defendant does not file a statement of defence within the number of working days required by the notice of proceeding, the plaintiff may seal judgment that the person whose title is asserted in the statement of claim recover possession of the land or the chattels together with costs and disbursements as fixed by the Registrar.
+(2) A Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements.
+Compare: 1908 No 89 Schedule 2 rr 15.8, 15.9 prior to 1 February 2013
+15.9 Formal proof for other claims
+(1) This rule applies if, or to the extent that, the defendant does not file a statement of defence within the number of working days required by the notice of proceeding, and the plaintiff seeks judgment by default for other than a liquidated demand.
+(2) The proceeding must be listed for formal proof.
+(3) After a proceeding is listed for a formal proof hearing, no statement of defence may be filed without the leave of a Judge granted on the ground that there will or may be a miscarriage of justice if judgment by default is entered, and on such terms as to time or otherwise as the Judge thinks just.
+(4) The plaintiff must, before or at the formal proof hearing, file affidavit evidence establishing, to a Judge's satisfaction, each cause of action relied on and, if damages are sought, providing sufficient information to enable the Judge to calculate and fix the damages.
+(5) If the Judge before or at the formal proof hearing considers that any deponent of an affidavit filed under subclause (4) should attend to give additional evidence, the Judge may direct accordingly and adjourn the hearing for that purpose.
+Compare: 1908 No 89 Schedule 2 rr 15.10, 15.11, 15.12 prior to 1 February 2013
+15.10 Judgment may be set aside or varied
+Any judgment obtained by default under rule 15.7 or 15.8 may be set aside or varied by the court on such terms as it thinks just, if it appears to the court that there has been, or may have been, a miscarriage of justice.
+Compare: 1908 No 89 Schedule 2 r 15.13 prior to 1 February 2013
+15.11 Overseas service cases
+(1) When a document has been served on a party outside New Zealand under rule 6.27 and that party has not appeared, judgment by default against that party must not be sealed without the leave of the court.
+(2) Leave must not be granted unless the court is satisfied that—
+(a) the party applying for leave was entitled to effect service without leave under rule 6.27; and
+(b) there is no reason to believe that the service was effected, or may have been effected, contrary to the law of the country concerned relating to the method of serving documents in domestic actions on persons in that country; and
+(c) the service was effected in sufficient time to enable that party to appear.
+Compare: 1908 No 89 Schedule 2 r 15.14 prior to 1 February 2013
 15.12 Other proceedings
-(1) Subject to rule 15.14, in all other proceedings in which a defendant has not filed a statement of defence within the number of working days required by the notice of proceeding, the plaintiff may apply on notice to the defendant for any judgment against that defendant, and the court may give judgment for the relief to which the plaintiff is entitled on the facts set out in the statement of claim.
-(2) If the court thinks it is just, the court may, subject to rule 15.14, dispense with the giving of notice to the defendant under subclause (1).
-(3) Instead of applying under subclause (1), the plaintiff may apply for the allocation of a hearing date for the proceeding when the court may give judgment for the relief to which the plaintiff is entitled on the facts set out in the statement of claim.
-Compare: 1908 No 89 Schedule 2 r 465
+[Repealed]
 15.13 Judgment may be set aside or varied
-Any judgment obtained by default may be set aside or varied by the court on such terms as it thinks just, if it appears to the court that there has been, or may have been, a miscarriage of justice.
-Compare: 1908 No 89 Schedule 2 r 469
+[Repealed]
 15.14 Overseas service cases
-(1) When a document has been served on a party outside New Zealand under rule 6.27 and that person has not appeared, judgment by default against that party must not be sealed without the leave of the court.
-(2) Leave must not be granted unless the court is satisfied—
-(a) that the party applying for leave was entitled to effect service without leave under rule 6.27; and
-(b) that there is no reason to believe that the service was effected, or may have been effected, contrary to the law of the country concerned relating to the method of serving documents in domestic actions on persons in that country; and
-(c) that the service was effected in sufficient time to enable that party to appear.
-Compare: 1908 No 89 Schedule 2 r 226
+[Repealed]
 Subpart 3—Judgment on admission
 15.15 Judgment on admission of facts
 (1) If a party admits facts (in the party's pleadings or otherwise), any other party to the proceeding may apply to the court for any judgment or order upon those admissions the other party may be entitled to, without waiting for the determination of any other question between the parties, and the court may give any judgment or order on the application as it thinks just.
@@ -6325,8 +6317,12 @@ Compare: 1908 No 89 Schedule 2 r 453
 (b) proceedings under the Law Reform (Testamentary Promises) Act 1949; or
 (c) proceedings under the Property (Relationships) Act 1976, transferred to the court by order of a Family Court Judge under section 22(3) of that Act.
 Compare: 1908 No 89 Schedule 2 r 454
-18.14A Interlocutory applications under section 174 of the Companies Act 1993
-Subpart 2 of Part 7, which relates to interlocutory applications, applies to applications to the court that relate to a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
+18.14A Procedure under section 174 of Companies Act 1993
+(1) In a proceeding under section 174 of the Companies Act 1993,—
+(a) the statement of claim must be in form C 2; and
+(b) the notice of proceeding must be in form C 3; and
+(c) an appearance in support or in opposition must be in form C 9.
+(2) Subpart 2 of Part 7, which relates to interlocutory applications, applies to applications to the court that relate to a company in respect of which an application under section 174 of the Companies Act 1993 is pending.
 18.14B Service of order made under section 174 of Companies Act 1993
 (1) When an order is made under section 174 of the Companies Act 1993, a registry copy of the order must, unless the court otherwise orders, be served by the plaintiff on—
 (a) the defendant company in accordance with the Companies Act 1993; and
@@ -8250,7 +8246,7 @@ Administration (including probate)
 Subpart 1—General
 27.1 Wills and intestacies to which this Part applies
 (1) The rules in this Part apply to—
-(a) the wills of persons who die on or after 1 November 2007; and
+(a) the wills (whenever made) of persons who die on or after 1 November 2007; and
 (b) grants of administration in respect of persons who die intestate on or after the date when these rules come into force.
 (2) The rules in this Part, except rule 27.14, do not apply to the wills of persons who died before 1 November 2007.
 (3) The High Court Rules set out in Schedule 2 of the Judicature Act 1908 before their amendment by the High Court Amendment (Wills Act 2007) Rules 2007, except for the amendment in rule 27.14, apply to the wills of persons who died before 1 November 2007.
@@ -8265,9 +8261,7 @@ administration—
 administrator—
 (a) means a person to whom administration is granted; and
 (b) includes Public Trust or the Māori Trustee or a trustee company as defined in the Trustee Companies Act 1967 treated as an executor or administrator because it has filed an election to administer
-executed,—
-(a) for a will made on or after 1 November 2007, means signed and witnessed as described in section 11(3) and (4) of the Wills Act 2007; and
-(b) for a will made before 1 November 2007, means signed and witnessed as described in section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007
+executed, for a will, means signed and witnessed in accordance with the requirements of section 11(3) and (4) of the Wills Act 2007
 grant means a grant of administration
 will has the same meaning as in section 8 of the Wills Act 2007.
 Subpart 2—Applications for administration
@@ -8419,15 +8413,11 @@ Compare: 1908 No 89 Schedule 2 r 645
 (3) If the authenticity of the signature of the will-maker or an attesting witness is in doubt, the court may accept evidence from any appropriate person to prove that the signature is in the handwriting of the will-maker or the attesting witness.
 (4) If the application is unopposed, evidence given under this rule must be given by affidavit, and form PR 12 may be used.
 Compare: 1908 No 89 Schedule 2 r 646
-27.17 Valid execution
-(1) For wills made on or after 1 November 2007, each of the following is evidence that a will's execution was valid:
-(a) a clause in the will consisting of a statement describing the actions complying with section 11(3) and (4) of the Wills Act 2007:
+27.17 Evidence of validity
+Each of the following is evidence that a will is valid:
+(a) a statement by each of the witnesses on the will as provided in section 11(5) of the Wills Act 2007:
 (b) evidence given under rule 27.16 satisfying the court that the will complies with section 11(3) and (4) of the Wills Act 2007:
-(c) an order made under section 14 of the Wills Act 2007.
-(2) For wills made before 1 November 2007, each of the following is evidence that a will's execution was valid:
-(a) an attestation clause in the will consisting of a recital describing the actions complying with section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007:
-(b) evidence given under rule 27.16 satisfying the court that the will complies with section 11(3) and (4), as modified by section 40(2)(i), of the Wills Act 2007.
-Compare: 1908 No 89 Schedule 2 r 647
+(c) a copy of an order of the court made under section 14 of the Wills Act 2007.
 27.18 Doubt as to will-maker's understanding
 (1) This rule applies if—
 (a) a person directed by the will-maker signed the will-maker's will in the will-maker's presence; and
@@ -8458,9 +8448,7 @@ Compare: 1908 No 89 Schedule 2 r 650
 (1) This rule applies if—
 (a) a change appears on a will; and
 (b) the change is of practical importance; and
-(c) the change was not made,—
-(i) for a will made on or after 1 November 2007, by a means described in section 15 of the Wills Act 2007; or
-(ii) for a will made before 1 November 2007, by a means described in section 15, as modified by section 40(2)(l) of the Wills Act 2007.
+(c) the change was not made by a means described in section 15 of the Wills Act 2007.
 (2) The court may require evidence to prove whether or not the change was present when the will was executed.
 (3) The court may give directions as to the form in which the will is to be proved.
 (4) Words that have been changed form part of a will as proved if the change does not obliterate the words in such a way as to prevent their effect being apparent.
@@ -9045,11 +9033,9 @@ Compare: 1908 No 89 Schedule 2 r 700E
 (4) The Registrar may change the time before the proceeding has been advertised.
 Compare: 1908 No 89 Schedule 2 r 700F
 31.7 Exclusion of rules relating to setting down
-Rules 7.1 to 7.6 and 7.11 to 7.14 do not apply to a proceeding under rule 31.3.
-Compare: 1908 No 89 Schedule 2 r 700G
+[Repealed]
 31.8 Directions
-Rules 7.7, 7.8, 7.10, and 7.79 apply, with all necessary modifications, in relation to a proceeding under rule 31.3.
-Compare: 1908 No 89 Schedule 2 r 700H
+[Repealed]
 31.9 Advertisement of application
 (1) A proceeding commenced by a statement of claim under rule 31.3 must be advertised at least 5 working days before the hearing.
 (2) In this Part, working day means any day of the week other than—
@@ -9385,130 +9371,130 @@ r 1.3(3)
 Contents
 General forms
 Page
-G 1 General heading for documents filed in proceeding 647
-G 2 Notice of proceeding 648
-G 3 Memorandum (general form) 649
-G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 651
-G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 654
-G 6 Notice to defendant served overseas 658
-G 7 Appearance under protest to jurisdiction 660
-G 8 Appearance for ancillary purpose 661
-G 9 Appearance reserving rights 662
-G 10 Memorandum to be attached to first document filed by party 663
-G 11 Memorandum as to change of representation and/or address for service 665
-G 12 Notice of intention to speak Māori 666
-G 13 Notice of proceeding when summary judgment sought by plaintiff 668
-G 14 Third party notice 673
-G 15 Notice to other defendant 675
-G 16 Affidavit of service 676
-G 17 Service of foreign process in New Zealand—Registrar's certificate 678
-G 18 Request for service abroad 679
-G 19 Report of examiner 680
-G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia 682
-G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia 683
-G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings 685
-G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia 687
-G 24 Notice of discontinuance 688
-G 25 Subpoena 689
-G 26 Subpoena to give evidence for service in Australia 691
-G 27 Subpoena for production only for service in Australia 692
-G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 693
-G 29 Certificate of non-compliance with subpoena for service in Australia 697
-G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 698
-G 31 Interlocutory application on notice 700
-G 32 Interlocutory application without notice 701
-G 33 Notice of opposition 702
-G 34 Interlocutory order 703
-G 35 Notice to answer interrogatories 704
-G 36 Notice to admit facts 705
-G 37 Affidavit of documents 706
-G 38 Freezing order 709
-G 39 Search order 712
-G 40 General court order 714
-J 1 Judgment by default in case of liquidated demand 715
-J 2 Judgment by default in proceeding for recovery of land 716
-J 3 Judgment on trial by Judge 717
-J 4 Judgment on trial by jury 718
-E 1 Notice to liable party 719
-E 2 Statement of means of liable party 721
-E 3 Attachment order 726
-E 4 Charging order on land 728
-E 5 Interim charging order 729
-E 6 Final charging order 730
-E 7 Sale order 731
-E 8 Possession order 733
-E 9 Arrest order 734
-E 10 Sequestration order 735
-E 11 Order to arrest and imprison absconding debtor 736
-E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice 737
-CL 1 Commercial list 738
-CL 2 Appearance in proceeding entered on commercial list 740
-CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 741
-PR 1 Affidavit for obtaining grant of probate 743
-PR 2 Affidavit for obtaining grant of letters of administration with will annexed 750
-PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner 757
-PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased 763
-PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased 769
-PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased 774
-PR 7 Probate in common form 780
-PR 8 Letters of administration with will annexed 782
-PR 9 Letters of administration on intestacy 784
-PR 10 Caveat 785
-PR 11 Exemplification of probate or letters of administration 786
-PR 12 Affidavit of valid execution 788
-AD 1 General heading for action in personam 791
-AD 2 Notice of proceeding in personam 792
-AD 3 General heading for action in rem 794
-AD 4 Notice of proceeding in rem 795
-AD 5 Notice of proceeding both in rem and in personam 797
-AD 6 Memorandum of appearance 800
-AD 7 Application for warrant of arrest 802
-AD 8 Indemnity to Registrar 803
-AD 9 Warrant of arrest 804
-AD 10 Notice by Registrar of arrest of property 805
-AD 11 Request for caveat against arrest 806
-AD 12 Release from arrest 807
-AD 13 Bail bond 808
-AD 14 Request for caveat against release and payment 809
-AD 15 Request for commission for appraisement and sale 810
-AD 16 Commission for appraisement and sale 811
-AD 17 Notice for priority of claims on sale 812
-Arb 1 Appeal under Arbitration Act 1996 813
-Arb 2 Notice for leave to appeal under Arbitration Act 1996 815
-Arb 3 Application to enter award as judgment 817
-C 1 Statement of claim in proceeding for putting company into liquidation 819
-C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993 820
-C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 822
-C 4 Verifying affidavit 826
-C 5 Affidavit verifying statement of claim of limited company 827
-C 6 Advertisement of application for putting company into liquidation 828
-C 7 Advertisement of application for order under section 174 of Companies Act 1993 829
-C 8 Affidavit of service 830
-C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) 831
-C 10 Notification to liquidator of order putting company into liquidation 832
-C 11 Notification to interim liquidator of appointment 833
-C 12 Order putting company into liquidation 834
-C 13 Order appointing interim liquidator 835
-C 14 General heading for notices in forms C 15 and C 16 836
-C 15 Notice to set aside voidable transaction under Companies Act 1993 837
-C 16 Notice to set aside voidable charge under Companies Act 1993 839
-B 1 Request for issue of bankruptcy notice 841
-B 2 Bankruptcy notice 842
-B 3 Creditor's application for adjudication order 845
-B 4 Affidavit supporting creditor's application for adjudication 846
-B 5 Summons to debtor 847
-B 6 Notice by debtor of intention to oppose application 849
-B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006 850
-B 8 Notice of objection to discharge 851
-B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 852
-B 10 Statement of affairs and affidavit 854
-B 11 Report of trustee on proposal 855
-B 12 Account of assets, debts, etc, of deceased person verified by affidavit 857
-B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 859
-B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 861
-B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 863
-B 16 Order adjudicating debtor bankrupt 865
-B 17 Appointment of Official Assignee as receiver and manager 866
+G 1 General heading for documents filed in proceeding 658
+G 2 Notice of proceeding 659
+G 3 Memorandum (general form) 661
+G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 663
+G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 666
+G 6 Notice to defendant served overseas 670
+G 7 Appearance under protest to jurisdiction 672
+G 8 Appearance for ancillary purpose 673
+G 9 Appearance reserving rights 674
+G 10 Memorandum to be attached to first document filed by party 675
+G 11 Memorandum as to change of representation and/or address for service 677
+G 12 Notice of intention to speak Māori 678
+G 13 Notice of proceeding when summary judgment sought by plaintiff 680
+G 14 Third party notice 685
+G 15 Notice to other defendant 687
+G 16 Affidavit of service 688
+G 17 Service of foreign process in New Zealand—Registrar's certificate 690
+G 18 Request for service abroad 691
+G 19 Report of examiner 692
+G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia 694
+G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia 695
+G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings 697
+G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia 699
+G 24 Notice of discontinuance 700
+G 25 Subpoena 701
+G 26 Subpoena to give evidence for service in Australia 703
+G 27 Subpoena for production only for service in Australia 704
+G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 705
+G 29 Certificate of non-compliance with subpoena for service in Australia 709
+G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 710
+G 31 Interlocutory application on notice 712
+G 32 Interlocutory application without notice 713
+G 33 Notice of opposition 714
+G 34 Interlocutory order 715
+G 35 Notice to answer interrogatories 716
+G 36 Notice to admit facts 717
+G 37 Affidavit of documents 718
+G 38 Freezing order 721
+G 39 Search order 724
+G 40 General court order 726
+J 1 Judgment by default in case of liquidated demand 727
+J 2 Judgment by default in proceeding for recovery of land 728
+J 3 Judgment on trial by Judge 729
+J 4 Judgment on trial by jury 730
+E 1 Notice to liable party 731
+E 2 Statement of means of liable party 733
+E 3 Attachment order 738
+E 4 Charging order on land 740
+E 5 Interim charging order 741
+E 6 Final charging order 742
+E 7 Sale order 743
+E 8 Possession order 745
+E 9 Arrest order 746
+E 10 Sequestration order 747
+E 11 Order to arrest and imprison absconding debtor 748
+E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice 749
+CL 1 Commercial list 750
+CL 2 Appearance in proceeding entered on commercial list 752
+CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 753
+PR 1 Affidavit for obtaining grant of probate 755
+PR 2 Affidavit for obtaining grant of letters of administration with will annexed 762
+PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner 769
+PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased 775
+PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased 781
+PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased 786
+PR 7 Probate in common form 792
+PR 8 Letters of administration with will annexed 794
+PR 9 Letters of administration on intestacy 796
+PR 10 Caveat 797
+PR 11 Exemplification of probate or letters of administration 798
+PR 12 Affidavit of valid execution 800
+AD 1 General heading for action in personam 803
+AD 2 Notice of proceeding in personam 804
+AD 3 General heading for action in rem 806
+AD 4 Notice of proceeding in rem 807
+AD 5 Notice of proceeding both in rem and in personam 809
+AD 6 Memorandum of appearance 812
+AD 7 Application for warrant of arrest 814
+AD 8 Indemnity to Registrar 815
+AD 9 Warrant of arrest 816
+AD 10 Notice by Registrar of arrest of property 817
+AD 11 Request for caveat against arrest 818
+AD 12 Release from arrest 819
+AD 13 Bail bond 820
+AD 14 Request for caveat against release and payment 821
+AD 15 Request for commission for appraisement and sale 822
+AD 16 Commission for appraisement and sale 823
+AD 17 Notice for priority of claims on sale 824
+Arb 1 Appeal under Arbitration Act 1996 825
+Arb 2 Notice for leave to appeal under Arbitration Act 1996 827
+Arb 3 Application to enter award as judgment 829
+C 1 Statement of claim in proceeding for putting company into liquidation 831
+C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993 832
+C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 834
+C 4 Verifying affidavit 838
+C 5 Affidavit verifying statement of claim of limited company 839
+C 6 Advertisement of application for putting company into liquidation 840
+C 7 Advertisement of application for order under section 174 of Companies Act 1993 841
+C 8 Affidavit of service 842
+C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) 843
+C 10 Notification to liquidator of order putting company into liquidation 844
+C 11 Notification to interim liquidator of appointment 845
+C 12 Order putting company into liquidation 846
+C 13 Order appointing interim liquidator 847
+C 14 General heading for notices in forms C 15 and C 16 848
+C 15 Notice to set aside voidable transaction under Companies Act 1993 849
+C 16 Notice to set aside voidable charge under Companies Act 1993 851
+B 1 Request for issue of bankruptcy notice 853
+B 2 Bankruptcy notice 854
+B 3 Creditor's application for adjudication order 857
+B 4 Affidavit supporting creditor's application for adjudication 858
+B 5 Summons to debtor 859
+B 6 Notice by debtor of intention to oppose application 861
+B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006 862
+B 8 Notice of objection to discharge 863
+B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 864
+B 10 Statement of affairs and affidavit 866
+B 11 Report of trustee on proposal 867
+B 12 Account of assets, debts, etc, of deceased person verified by affidavit 869
+B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 871
+B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 873
+B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 875
+B 16 Order adjudicating debtor bankrupt 877
+B 17 Appointment of Official Assignee as receiver and manager 878
 Using High Court Rules forms
 Purpose of forms
 The High Court Rules forms are templates you can use to prepare a document for a proceeding in the High Court.
@@ -9561,22 +9547,25 @@ And [full name, place of residence, occupation]
 Form G 2
 Notice of proceeding
 rr 5.23(2), 5.57(4)
-To complete this notice—
-• complete and insert the heading as set out in form G 1:
-• complete and attach the memorandum as set out in form G 3.
-To the defendant/defendants* and any other person directed to be served
+To complete this notice,—
+complete and insert the heading as set out in form G 1:
+complete and attach the memorandum as set out in form G 3.
+To the defendant/defendants* and any other person directed to be served.
 *Select one.
-This document notifies you that unless, within 25 working days after the date on which you are served with this notice, you file in the registry of this court a statement of your defence to the plaintiff's claim (a copy of which is served with this notice), the plaintiff may proceed to a hearing and judgment on the plaintiff's claim in your absence.
+This document notifies you that you must file in this registry of the court a statement of defence to the plaintiff's claim (a copy of which is served with this notice). You must do this within 25 working days after the date on which you have been served with this notice. If you do not, the plaintiff may at once proceed to judgment on the plaintiff's claim, and judgment may be given in your absence.
 If a trial of the proceeding is necessary, it will be held in this court at [place] at a time to be fixed by the court.
 Date:
 Signature:
 (plaintiff/solicitor for plaintiff*)
 *Select one.
-Include the following paragraph (and signature block) if it applies, otherwise omit.
+If you file a statement of defence in the court, you must also provide the plaintiff with initial disclosure of documents in accordance with rule 8.4.
+If you file a statement of defence in the court, you will be notified of the date and time of the first case management conference.
+The purpose of the conference is to assist the parties in the just, speedy, and inexpensive determination of the proceeding, to make directions as to the conduct of the proceeding, and, where practicable, to make interlocutory orders. The parties will also be assisted to identify, define, and refine the issues in dispute.
+You must prepare for and attend the first case management conference. You will be expected to have discussed with the plaintiff the matters set out in Schedule 5 of the High Court Rules. You or your solicitor must file a memorandum relating to the procedural matters set out in rule 7.3 of the High Court Rules.
+Include the following paragraph if it applies, otherwise omit.
 The court has directed that this notice and the statement of claim be served not only on the defendant/defendants* but also on the following persons: [full name, place of residence, and occupation of each person or entity directed to be served].
 *Select one.
 Date:
-Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
 Note: Please carefully read the memorandum attached to this notice.
@@ -11635,24 +11624,31 @@ I, [full name, place of residence, occupation], swear/solemnly and sincerely aff
 *Select one.
 1 I am one of the witnesses to/I was present at the signing of* the last will of the deceased, [full name, place]. The last will is the document marked "A" now produced and shown to me.
 *Select one.
-2 For this paragraph select the statement that applies.
+2 For this paragraph, select the statement that applies.
 Statement A
-The deceased made his/her* will on or after 1 November 2007. The deceased signed the will on [date] by signing his/her* name as it now appears on the will, intending the signing to be a valid signing of his/her* will.
+On [date], the deceased signed the will by signing his/her* name as it now appears on the will, intending the signing to be a valid signing of the will.
 *Select one.
 Statement B
-The deceased made his/her* will on or after 1 November 2007. The deceased acknowledged that a person directed by the deceased signed the will on [date] in the deceased's presence, intending the signing to be a valid signing of the deceased's will.
+On [date], the deceased directed another person to sign the will on his/her* behalf in his/her* presence, intending the signing of that person's name as it now appears on the will to be a valid signing of the will.
 *Select one.
 Statement C
-The deceased made his/her* will before 1 November 2007. The deceased signed the will on [date] by signing his/her* name on the last page as it now appears on the will, intending the signing to be a valid signing of his/her* will.
+On [date], the deceased acknowledged that he/she* had earlier signed the will by signing his/her* name as it now appears on the will, intending the signing to be a valid signing of the will.
 *Select one.
 Statement D
-The deceased made his/her* will before 1 November 2007. The deceased acknowledged that a person directed by the deceased signed the will on [date] on the last page in the deceased's presence, intending the signing to be a valid signing of the deceased's will.
-3 For this paragraph select statement A if you selected statement A or B for paragraph 2, or statement B if you selected statement C or D for paragraph 2.
+On [date], the deceased acknowledged that he/she* had earlier directed another person to sign the will on his/her* behalf in his/her* presence, intending the signing of that person's name as it now appears on the will to be a valid signing of the will.
+*Select one.
+3 For this paragraph, select—
+Statement A, if you selected Statement A in paragraph 2; or
+Statement B, if you selected Statement B in paragraph 2; or
+Statement C, if you selected Statement C or D in paragraph 2.
 Statement A
-The signing referred to in paragraph 2 was completed in my presence and in the presence of [full name, place of residence, and occupation for each witness] and both of us/they* then signed the will as witnesses in the presence of each other and in the presence of the deceased.
+The signing referred to in paragraph 2 was completed in my presence and in the presence of [full name, place of residence, and occupation of other witness, or both witnesses if you are not a witness] and both of us/they* then signed the will as witnesses in the presence of the deceased.
 *Select one.
 Statement B
-The signing referred to in paragraph 2 was completed in my presence and in the presence of [full name, place of residence, and occupation for each witness] and both of us/they* then signed the last page of the will as witnesses in the presence of each other and in the presence of the deceased.
+The directing referred to in paragraph 2 was completed in my presence and in the presence of [full name, place of residence, and occupation of other witness, or both witnesses if you are not a witness] and both of us/they* then signed the will as witnesses in the presence of the deceased.
+*Select one.
+Statement C
+The acknowledging referred to in paragraph 2 was completed in my presence and in the presence of [full name, place of residence, and occupation of other witness, or both witnesses if you are not a witness] and both of us/they* then signed the will as witnesses in the presence of the deceased.
 *Select one.
 4 Include this paragraph only if there is a change on the will. Select the statement that applies.
 Statement A
@@ -12857,60 +12853,69 @@ Duty to confer
 (c) prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement.
 7 In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement.
 Schedule 5
-Matters for consideration at case management conference for proceeding other than appeal
-r 7.4
-1 Whether the proceeding should be moved to another track.
-2 A list of the essential issues of fact and law.
-3 The categorisation of the proceeding for the purposes of rule 14.3.
-4 Whether the pleadings are in final form or require amendment.
-5 Whether further particulars of the claim or defence are required.
-6 The scope and timetable for any discovery and inspection.
-7 Whether additional parties should be joined.
-8 The timetable for future events, including—
-(a) the filing of any interlocutory applications and how and when they will be dealt with:
-(b) any further case management conference (if required).
-9 Whether any further conference is to be conducted by telephone or video link.
-10 Whether it is appropriate to schedule a conference under rule 7.79 or to allow time for negotiation or a form of alternative dispute resolution.
-11 The duration of the trial of the proceeding.
-12 Whether the trial is to be heard before a jury.
-13 The allocation of a trial date for the proceeding, and whether a setting down date for the proceeding should be fixed under rule 7.13(3).
-14 Trial directions for evidence and exhibits (to be addressed only if a party to a proceeding that is not a specified proceeding (within the meaning of rule 9.1(1)) seeks directions that are not set out in, or that differ from, rules 9.2 to 9.9 or rules 9.12 to 9.16).
-15 Any proposals for expert evidence (including prior exchange and the order in which witnesses will be heard).
-16 Whether the proceeding should be placed on a short notice list as suitable to be brought on for hearing on not less than 3 working days' notice, subject to the availability of counsel and (when appropriate) the parties and witnesses.
-17 Whether the proceeding is suitable as a back-up fixture to be brought on at 5 working days' notice.
-18 Any special resources required at the hearing of the proceeding.
-19 Whether the proceeding is suitable for assignment to a specific Judge who will, after the assignment, be responsible for all pre-trial matters and the conduct of the trial of the proceeding.
-20 Whether the Solicitor-General should be notified because a significant issue arises under the New Zealand Bill of Rights Act 1990, or an issue affects New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue in the proceeding is otherwise of significant public interest.
+Matters for consideration at case management conference
+rr 7.3, 7.4
+Note: The presiding Judge will expect the parties at the first case management conference to have—
+(a) provided initial disclosure in accordance with rule 8.4:
+(b) carefully considered the pleadings and the principal documents disclosed with them:
+(c) discussed and endeavoured to agree on an appropriate discovery order and the manner in which inspection will take place, in accordance with rule 8.11:
+(d) discussed and endeavoured to agree on the matters for consideration listed in this schedule:
+(e) filed and served a joint memorandum or separate memoranda in accordance with rules 7.3 and 8.11.
+Issues
+1 Resolution and refinement of the issues, and as a consequence whether the pleadings require amendment.
+2 Whether additional parties should be joined.
+3 Whether this proceeding has been appropriately categorised and is either an ordinary defended proceeding or a complex defended proceeding.
+Discovery and other interlocutory applications
+4 The scope, terms, and timetable for any discovery.
+5 If any interlocutory applications have been filed or will be filed, whether they can be heard and disposed of at the case management conference.
+Readiness for trial
+6 Is the case sufficiently ready for a fixture date to be allocated in the near future?
+7 If there are still outstanding issues, whether a further case management conference or an issues conference should be timetabled.
+Fixture or hearing
+8 If the proceeding is ready to go for a hearing or a trial,—
+(a) when should the close of pleadings date be?
+(b) should there be a pre-trial conference?
+(c) what is the estimated length of trial? (The Judge will estimate this by the number of witnesses and the estimate of duration of their testimony.)
+(d) what timetable is required for written briefs?
+(e) is expert evidence required and, if so, what are the proposals for that evidence (including prior exchange and how the witnesses are to be heard)?
+(f) are any special resources or requirements needed for the hearing?
+(g) can the proceeding be placed on a short-notice list or put down as a back-up fixture?
+(h) is alternative dispute resolution suitable to try to facilitate settlement prior to trial?
+(i) what is the categorisation of the proceeding in relation to costs?
+Other
+9 Any other matters, provided that those matters have been discussed between the parties at least 5 working days before the conference.
 Schedule 6
 Standard directions for appeals
-r 7.5
-1 The appeal will be heard (at [time] on [date]) [or] (at a time and date to be allocated by the Registrar).
-2 The time for the hearing is estimated to be [half days or days].
+r 7.14
+1 The appeal will be heard at [time, date]/at a time and date to be allocated by the Registrar*.
+*Select one.
+2 The time for the hearing is estimated to be [half-days or days].
 3 The appeal is categorised as a category [type] proceeding for the purposes of rule 14.3.
-3A The registry in which the appeal is to proceed as determined by rule 20.8(1) or by any direction given under rule 20.8(3).
-4 The appellant must pay security in the sum of $[amount] not later than 10 working days after the conference.
-5 Unless detailed and specific points on appeal have been included in the notice of appeal, the appellant must file and serve, not later than 10 working days after the conference, points on appeal that clearly state the issues on appeal.
-6 If the appeal involves a significant issue under the New Zealand Bill of Rights Act 1990, or an issue affecting New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue arising in the appeal is otherwise of significant public interest, the Judge may direct that the Solicitor-General be served with the notice of appeal, and with documents subsequently filed in the appeal.
-7 The appellant must file and serve, not later than 20 working days after the conference, a common bundle of paginated and indexed copies of all relevant documents, including, if applicable,—
+4 The appeal is to proceed as determined by rule 20.8(1) or by any direction given under rule 20.8(3) in the [specify] registry.
+5 The appellant must pay security in the sum of $[amount] not later than 10 working days after the conference.
+6 Unless detailed and specific points on appeal have been included in the notice of appeal, the appellant must file and serve, not later than 10 working days after the conference, points on appeal that clearly state the issues on appeal.
+7 If the appeal involves a significant issue under the New Zealand Bill of Rights Act 1990, or an issue affecting New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue arising in the appeal is otherwise of significant public interest, the Judge may direct that the Solicitor-General be served with the notice of appeal and with documents subsequently filed in the appeal. In other cases, the parties must advise the Judge whether they consider that an amicus curiae should be appointed.
+8 The appellant must file and serve, not later than 20 working days after the conference, a common bundle of paginated and indexed copies of all relevant documents, including, if applicable,—
 (a) the reasons for the decision; and
 (b) the sealed order or judgment appealed from; and
 (c) the pleadings; and
 (d) the statements of evidence or affidavits; and
 (e) the exhibits; and
-(f) the notes of evidence, to the extent that they are relevant to the issues on appeal.
-8 If a party insists on including a document in the common bundle even though another party objects to its inclusion on the ground that it is unnecessary or irrelevant, the objection must be recorded for the purpose of any award of costs relating to the inclusion of the document.
-9 The appellant must file and serve, no later than 25 working days after the conference,—
+(f) the notes of evidence, to the extent that they are relevant to the issues on appeal; and
+(g) any other documents, if possible in date sequence.
+9 If a party insists on including a document in the common bundle even though another party objects to its inclusion on the ground that it is unnecessary or irrelevant, the objection must be recorded for the purpose of any award of costs relating to the inclusion of the document.
+10 The appellant must file and serve, not later than 25 working days after the conference,—
 (a) the appellant's submissions; and
 (b) a chronology (if relevant).
-10 The appellant's submissions must contain—
+11 The appellant's submissions must be not more than 30 pages in length, unless a Judge permits an extension, and use 1.5 line spacing, and must contain—
 (a) references to any specific passages in the evidence that the appellant will refer to at the hearing; and
 (b) a list of the names and correct citations of any authorities mentioned.
-11 The respondent must file and serve, not later than 30 working days after the conference,—
-(a) submissions that meet the requirements set out in clause 10; and
+12 The respondent must file and serve, not later than 30 working days after the conference,—
+(a) submissions that meet the requirements set out in clause 11; and
 (b) if the respondent disagrees with the appellant's chronology, a separate chronology noting areas of disagreement.
-12 The appellant must prepare a bundle of any authorities referred to in the submissions provided in accordance with clauses 9 and 11 that the appellant or the respondent considers ought to be produced to the court. The bundle may be produced at the hearing of the appeal or filed before the appeal is heard.
-13 If the appeal is to be heard by a single Judge, 1 copy of each document must be filed.
-14 If the appeal is to be heard by a full court, 2 copies of each document must be filed.
+13 The appellant must prepare a bundle of any authorities referred to in the submissions provided in accordance with clauses 10 and 11 that the appellant or the respondent considers ought to be produced to the court. The bundle may be produced at the hearing of the appeal or filed before the appeal is heard.
+14 If the appeal is to be heard by a single Judge, 1 copy of each document must be filed.
+15 If the appeal is to be heard by a full court, 2 copies of each document must be filed.
 Schedule 7
 Standard directions for appeals by way of case stated and references under Part 21
 r 7.5(8)
@@ -12933,18 +12938,7 @@ r 7.5(8)
 Schedule 8
 Matters for consideration at pre-trial conference for proceedings on standard track
 r 7.3(8)
-The agenda for each pre-trial conference must include—
-(a) a review of timetable compliance; and
-(b) a review of the time required for the hearing; and
-(c) agreement on relevant facts not in dispute; and
-(d) identification of the issues requiring resolution at trial; and
-(e) openings to include—
-(i) a summary of the plaintiff's or the defendant's claim:
-(ii) chronology:
-(iii) an issues statement:
-(iv) a summary of legal principles with reference to directly relevant authorities; and
-(f) a bundle of documents; and
-(g) any other issues raised by a party that should be dealt with before the trial.
+[Repealed]
 Schedule 9
 Discovery checklist and the listing and exchange protocol
 rr 8.10, 8.11, 8.12, 8.15, 8.16, 8.27
