@@ -706,11 +706,11 @@ Adjustments for low earners
 (2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the 5-week period, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
 (3) The minimum weekly earnings are—
 (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
-(i) the minimum weekly wage under the Minimum Wage Act 1983 for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
+(i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
 (ii) 125% of the rate for a single person under the age of 18 years of invalid's benefit under the Social Security Act 1964; or
 (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of—
-(i) the minimum weekly wage under the Minimum Wage Act 1983 for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
+(i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
 (ii) 125% of the rate for a single person over the age of 18 years of invalid's benefit under the Social Security Act 1964; or
 (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (4) [Repealed]
