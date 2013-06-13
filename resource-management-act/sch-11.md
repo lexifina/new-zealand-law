@@ -17,6 +17,7 @@ Ngati Ruanui Claims Settlement Act 2003
 Ngati Tama Claims Settlement Act 2003
 Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
 Ngāti Whare Claims Settlement Act 2012
+Ngāti Whātua o Kaipara Claims Settlement Act 2013
 Ngāti Whātua Ōrākei Claims Settlement Act 2012
 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
 Pouakani Claims Settlement Act 2000
@@ -24,3 +25,4 @@ Rongowhakaata Claims Settlement Act 2012
 Te Arawa Lakes Settlement Act 2006
 Te Roroa Claims Settlement Act 2008
 Te Uri o Hau Claims Settlement Act 2002
+Waitaha Claims Settlement Act 2013
