@@ -1,9 +1,2 @@
 # 361B Accused may apply for trial before a Judge without a jury
-(1) Subject to the succeeding provisions of this section, where any accused person is committed to the High Court or to a District Court Judge exercising jurisdiction under section 28A of the District Courts Act 1947 for trial for any offence other than one referred to in subsection (5), he may, within 28 days after the date on which he is so committed, give written notice to the Registrar of the High Court or of the District Court, as the case may require, at the place to which he is so committed of his wish to be tried before a Judge of that court without a jury.
-(2) Where a Registrar receives such a notice under subsection (1), he shall forthwith give a copy of the notice to the prosecutor.
-(3) Where the accused, within the period prescribed by subsection (1), gives notice in accordance with that subsection of his desire to be tried before a Judge without a jury, the Registrar shall refer the matter to a Judge of the court (who may or may not be the Judge before whom the trial is to be held).
-(4) The Judge to whom any matter is referred under subsection (3) shall order that the accused be tried before a Judge without a jury unless, having regard to the interests of justice, the Judge considers that the accused should be tried before a Judge with a jury, in which case he shall order accordingly.
-(5) No one shall be entitled to apply to be tried by a Judge without a jury if he is charged with an offence for which the maximum penalty is imprisonment for life or imprisonment for a term of 14 years or more.
-(6) Where 2 or more persons are to be tried together, they shall be tried before a Judge with a jury unless each of them applies to be tried by a Judge without a jury.
-(7) Any notice purporting to be given under this section on behalf of the accused by his counsel or solicitor shall, unless the contrary is proved, be deemed to be given with the authority of the accused.
-(8) Notwithstanding anything in subsection (1), an accused person may give notice under that subsection before or immediately after the person is committed for trial.
+[Repealed]

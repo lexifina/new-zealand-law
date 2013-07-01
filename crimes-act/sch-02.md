@@ -10,30 +10,11 @@ Schedule 1 cl 5
 Form 3
 Request by accused person to be brought before the court for sentence
 s 321
-I, AB, having been committed to the High Court (or to a District Court at [place]) for trial on a charge of [specify], now desire, of my own free will, to plead guilty to that charge, and hereby request that I be brought before that court as soon as practicable in order that I may plead guilty to that charge and be sentenced accordingly.
-My full address (if not in custody) is [full address].
-AB
-The above written request was signed before me, after having been read over by me to the accused person on [date] at [place].
-JS, Justice of the Peace, Community Magistrate, (or Registrar of District Court (not being a constable)).
+[Repealed]
 Form 4
 Indictment
 ss 328, 340
-[Heading]
-In the High Court [or District Court] at [name of place where indictment is filed].
-The Attorney-General [or The Solicitor-General or The Crown Solicitor at....... or The informant AB] charges that.......
-[Where there are more counts than 1, add at the beginning of each count:
-The said............. further charges that.............]
-Charge
-Examples of the manner of stating offences
-(a) A murdered B at [place], on [date].
-(b) A stole a sack of flour from a ship called the ".......", at [place] on [date].
-(c) A obtained by false pretences from B a motorcar, at [place], on [date].
-(d) A committed perjury with intent to procure the conviction of B for an offence punishable with imprisonment for 3 years or upwards, namely, robbery, by swearing on the trial of B for the robbery of C at the sittings of the [name of court] Court held at [place] on [date]:
-First, that he, A, saw B at [place] on [date]; secondly, that B asked A to lend B money on a watch belonging to C; thirdly, etc.
-or
-(e) A committed perjury on the trial of B at a sitting of the [name of court] Court held at [place] on [date], for an assault alleged to have been committed by B on C at [place] on [date] by swearing to the effect that B could not have been at [place] at the time of the alleged assault, inasmuch as A, had seen him at that time in [place].
-(f) A, with intent to cause grievous bodily harm to B, [or with intent to avoid the arrest of A, or C], injured [or caused grievous bodily harm to] B [or D].
-(g) A, with intent to injure or endanger the safety of persons on a railway, did an unlawful act in respect of an engine, a tender, and certain carriages on the railway at [place], on [date], by [describe with so much detail as is sufficient to give the accused reasonable information as to the acts or omissions relied on against him, and to identify the transaction].
+[Repealed]
 Form 5
 Challenge to array
 s 362(2)

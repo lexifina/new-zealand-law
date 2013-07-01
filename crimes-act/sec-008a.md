@@ -11,9 +11,9 @@
 (b) that person has immunity from criminal jurisdiction in the place where that act or omission took place; and
 (c) that immunity has not been waived (otherwise than to any extent necessary to enable the extradition of that person),—
 that act or omission shall be deemed to have taken place within New Zealand.
-(3) No information shall be laid against any person over whom jurisdiction is claimed by virtue of subsection (2) without the leave of the Attorney-General.
-(4) Subsection (5) applies to any offence to the laying of an information in respect of which the consent of the Attorney-General is required by subsection (3).
+(3) No charging document may be filed against any person over whom jurisdiction is claimed by virtue of subsection (2) without the leave of the Attorney-General.
+(4) Subsection (5) applies to any offence before a charging document may be filed in respect of which the consent of the Attorney-General is required by subsection (3).
 (5) Where any person is alleged to have committed an offence to which this subsection applies,—
 (a) he may be arrested; or
 (b) a warrant for his arrest may be issued and executed,—
-and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General has not been obtained to the laying of an information in respect of that offence; but no further proceedings shall be taken until that consent has been obtained.
+and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General has not been obtained to the filing of a charging document in respect of that offence; but no further proceedings shall be taken until that consent has been obtained.
