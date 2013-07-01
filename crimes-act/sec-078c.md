@@ -9,4 +9,4 @@ whether the communication or delivery or intended communication or intended deli
 (b) the offence of conspiring to commit an offence against section 78A(1)(b) or (c); or
 (c) the offence of attempting to commit an offence against section 78A(1)(b) or (c),—
 whether the document would, by its unauthorised disclosure at the time of the alleged offence, have been likely to have prejudiced or to have prejudiced seriously, as the case may require, the security or defence of New Zealand.
-(3) Where the decision on any question of law to which this section applies depends on any questions of fact, the prosecutor or the accused may adduce, and the Judge may hear, in addition to the evidence heard by the jury, any evidence relevant to those questions of fact.
+(3) Where the decision on any question of law to which this section applies depends on any questions of fact, the prosecutor or the defendant may adduce, and the Judge may hear, in addition to the evidence heard by the jury, any evidence relevant to those questions of fact.
