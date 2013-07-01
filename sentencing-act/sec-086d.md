@@ -1,6 +1,6 @@
 # 86D Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment
 (1) Despite any other enactment,—
-(a) a defendant who is committed for trial for a stage-3 offence must be committed to the High Court for that trial; and
+(a) a proceeding against a defendant charged with a stage-3 offence must be transferred to the High Court when the proceeding is adjourned for trial or trial callover under section 57 of the Criminal Procedure Act 2011 or, as the case may be, in accordance with section 36 of that Act, and the proceeding from that point, including the trial, must be in the High Court; and
 (b) no court other than the High Court, or the Court of Appeal or the Supreme Court on an appeal, may sentence an offender for a stage-3 offence.
 (2) Despite any other enactment, if, on any occasion, an offender is convicted of 1 or more stage-3 offences other than murder, the High Court must sentence the offender to the maximum term of imprisonment prescribed for each offence.
 (3) When the court sentences the offender under subsection (2), the court must order that the offender serve the sentence without parole unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to make the order.

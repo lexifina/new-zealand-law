@@ -10,7 +10,7 @@
 (ii) is unable to be found despite reasonable efforts made by the Registrar; and
 (b) the court is satisfied that—
 (i) the ground in subsection (2) or (3) has been established; and
-(ii) enforcement of the original sentence of reparation under Part 3 of the Summary Proceedings Act 1957 (or, if applicable, under section 19 of the Crimes Act 1961 or section 28I of the District Courts Act 1947) is unlikely to be effective.
+(ii) enforcement of the original sentence of reparation under Part 3 of the Summary Proceedings Act 1957 (or, if applicable, under section 19 of the Crimes Act 1961) is unlikely to be effective.
 (5) If the court is considering a substitute sentence,—
 (a) the court must take the following matters into account:
 (i) the amount of the original sentence of reparation that has been paid and the amount outstanding:
