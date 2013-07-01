@@ -1,0 +1,4 @@
+# 11CA No proceeding against Community Magistrate unless he or she acted without jurisdiction
+(1) No proceeding may be commenced against any Community Magistrate for any act done by him or her, unless he or she has exceeded his or her jurisdiction or has acted without jurisdiction.
+(2) If a warrant to seize property or warrant of commitment is granted by a Community Magistrate in good faith in reliance on a conviction or order entered or made by 1 or more Justices or 1 or more Community Magistrates, no proceeding may be commenced against the Community Magistrate who granted the warrant by reason of any defect in the conviction or order, or by reason of any want of jurisdiction in the Justice or Justices or Community Magistrate or Community Magistrates who entered or made it.
+Compare: 1927 No 37 ss 341, 344, 345, 348; 1957 No 87 s 193
