@@ -9,8 +9,8 @@
 (3) On receipt of the licence or notice forwarded in accordance with paragraph (a) or paragraph (b) of subsection (1) and, where necessary, on compliance by the company with subsection (2), the Registrar must, without fee, register the cancellation or revocation or rescission or surrender of the licence.
 (4) No cancellation, revocation, rescission, or surrender to which this section applies has any force or effect until it has been registered under subsection (3).
 (5) Where a company contravenes or fails to comply with subsection (1) or subsection (2),—
-(a) the company commits an offence and is liable on summary conviction to a fine not exceeding $5,000:
-(b) every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, unless the director shows that—
+(a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
+(b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
 (i) the company took all reasonable and proper steps to ensure that the requirements of the relevant subsection would be complied with; or
 (ii) he or she took all reasonable steps to ensure that the company complied with the requirements of the relevant subsection; or
 (iii) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of the relevant subsection.

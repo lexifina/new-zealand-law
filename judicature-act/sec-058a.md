@@ -7,6 +7,4 @@
 (3) Every nomination under subsection (2) must be made either—
 (a) in respect of a specified case or specified cases; or
 (b) in respect of every case to be heard by the Court of Appeal during a specified period not exceeding 3 months.
-(4) For the purposes of this section, the term criminal proceeding means—
-(a) any appeal or application to the Court of Appeal under the Crimes Act 1961 (other than under section 406 of that Act) or under the Summary Proceedings Act 1957:
-(b) any case stated for the opinion of the Court of Appeal under the Crimes Act 1961.
+(4) For the purposes of this section, criminal proceeding means an appeal or application to the Court of Appeal under Part 6 of the Criminal Procedure Act 2011.

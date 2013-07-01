@@ -1,5 +1,5 @@
 # 51B Rules Committee
-(1) For the purposes of this Act and the District Courts Act 1947, there is a Rules Committee consisting of—
+(1) For the purposes of this Act and the District Courts Act 1947 and the Criminal Procedure Act 2011, there is a Rules Committee consisting of—
 (a) the Chief Justice:
 (ab) the Chief High Court Judge:
 (b) 2 other Judges of the High Court appointed by the Chief Justice:

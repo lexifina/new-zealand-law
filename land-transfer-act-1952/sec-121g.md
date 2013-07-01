@@ -8,8 +8,8 @@
 (b) record in its share register, against the entry relating to the licence, the fact that the licence has been mortgaged, together with the registered number of the mortgage, or, as the case may be, that the mortgage has been discharged.
 (6) A company that issues a new share certificate to replace a certificate that has been lost or defaced and on which particulars of a mortgage of a licence had been recorded must record those particulars on the new certificate.
 (7) Where a company acts in contravention of or fails to comply with subsection (5) or subsection (6),—
-(a) the company commits an offence and is liable on summary conviction to a fine not exceeding $5,000:
-(b) every director of the company commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, unless the director shows that—
+(a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
+(b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
 (i) the director did not know of and could not reasonably have been expected to know of the contravention or failure to comply; or
 (ii) the director took all reasonable steps to ensure that the applicable requirements would be complied with.
 Compare: 1964 No 42 s 7

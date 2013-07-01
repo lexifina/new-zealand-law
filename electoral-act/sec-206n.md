@@ -1,5 +1,5 @@
 # 206N Offences relating to return of party's election expenses
-(1) A party secretary who fails, without reasonable excuse, to comply with section 206I is liable on summary conviction to a fine not exceeding $40,000.
+(1) A party secretary who fails, without reasonable excuse, to comply with section 206I is liable on conviction to a fine not exceeding $40,000.
 (2) A party secretary who files a return under section 206I that is false in any material particular is guilty of—
 (a) a corrupt practice if he or she filed the return knowing it to be false in any material particular; or
 (b) an illegal practice in any other case unless the party secretary proves that—

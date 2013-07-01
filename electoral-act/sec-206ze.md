@@ -1,5 +1,5 @@
 # 206ZE Offences relating to return of registered promoter's election expenses
-(1) A registered promoter who fails, without reasonable excuse, to comply with section 206ZC is liable on summary conviction to a fine not exceeding $40,000.
+(1) A registered promoter who fails, without reasonable excuse, to comply with section 206ZC is liable on conviction to a fine not exceeding $40,000.
 (2) A registered promoter who files a return under section 206ZC that is false in any material particular is guilty of—
 (a) a corrupt practice if the registered promoter filed the return knowing it to be false in any material particular:
 (b) an illegal practice in any other case unless the registered promoter proves that—

@@ -3,5 +3,5 @@
 (a) be a director of a phoenix company; or
 (b) directly or indirectly be concerned in or take part in the promotion, formation, or management of a phoenix company; or
 (c) directly or indirectly be concerned in or take part in the carrying on of a business that has the same name as the failed company's pre-liquidation name or a similar name.
-(2) A person who contravenes subsection (1) commits an offence and is liable on conviction on indictment to the penalty set out in section 373(4).
+(2) A person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in section 373(4).
 Compare: Insolvency Act 1986 s 216 (UK)

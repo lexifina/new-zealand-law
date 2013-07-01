@@ -34,7 +34,7 @@ Any document relating to a matter before the Authority may be served out of New 
 (3) The power to issue a summons under this clause may be exercised by the Authority or a member of the Authority, or by any officer of the Authority purporting to act by the direction or with the authority of the Authority or a member of the Authority.
 Compare: 1991 No 22 s 96
 6 Witnesses' expenses
-(1) Every person attending the Authority on a summons, and every other person giving evidence before the Authority, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(1) Every person attending the Authority on a summons, and every other person giving evidence before the Authority, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Criminal Procedure Act 2011, and those regulations apply accordingly.
 (2) The Authority may disallow the whole or any part of any sum payable under subclause (1).
 (3) On each occasion on which the Authority issues a summons under clause 5, the Authority, or the person exercising the power of the Authority under subclause (3) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) of this clause is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the Authority or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
@@ -49,7 +49,7 @@ Compare: 1991 No 22 s 96
 Compare: 1991 No 22 s 96
 8 Power to take evidence on oath
 (1) The Authority may take evidence on oath and, for that purpose, any member of the Authority, or any other person acting under the express or implied direction of the Authority or a member of the Authority, may administer an oath.
-(2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
+(2) On any charge for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 Compare: 1991 No 22 s 96
 9 Party competent as witness
 Any party to a matter before the Authority is competent to give evidence in the matter and may be compelled to give evidence as a witness.
