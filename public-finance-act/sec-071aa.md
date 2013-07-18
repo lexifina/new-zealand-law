@@ -1,7 +1,7 @@
 # 71AA Delegation of Secretary's powers
 (1) The Secretary may delegate to the chief executive of a department (whether or not the department is listed in Schedule 1 of the State Sector Act 1988) any power—
 (a) conferred on the Secretary by this Act; or
-(b) delegated to the Secretary by the Minister under this Act.
+(b) conferred on the Minister by this Act and delegated to the Secretary by the Minister.
 (2) Without limiting subsection (1), the Secretary may delegate to the persons referred to in subsection (3) any power conferred on the Secretary by Part 6.
 (3) The persons are—
 (a) the Reserve Bank of New Zealand; or

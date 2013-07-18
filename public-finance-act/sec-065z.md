@@ -1,7 +1,7 @@
 # 65Z Auditor-General may direct Ministers to report to House of Representatives in cases involving unlawful expenses, etc
 (1) The Auditor-General may direct a Minister to report to the House of Representatives if the Auditor-General has reason to believe that expenses or capital expenditure for which that Minister is responsible have been incurred for a purpose that—
-(a) is not lawful; or
-(b) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act.
+(a) is not within the scope, amount, or period of any appropriation, or other authority, by or under an Act; or
+(b) is, for any other reason, unlawful.
 (2) The report must set out the following details:
 (a) the nature and extent of any alleged breach of the appropriation or other authority that the Auditor-General has reason to believe has occurred; and
 (b) the events that gave rise to the alleged breach; and

@@ -1,0 +1,2 @@
+# 2A Provisions affecting application of amendments to this Act
+Schedule 1 contains application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013 (see section 88).

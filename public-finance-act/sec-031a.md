@@ -9,8 +9,9 @@
 (A) budgeted figures for the period of the financial year to the end of the month concerned:
 (B) comparative actual figures for the period of the previous financial year to the end of the corresponding month.
 (3) The monthly financial statements prepared under subsection (1) must be for the same Government reporting entity as the annual financial statements prepared under section 27 for the financial year to which the monthly financial statements relate.
-(4) The Minister must arrange for the monthly financial statements to be published not later than,—
+(4) The Minister must arrange for the monthly financial statements to be published, on an Internet site maintained by or on behalf of the Treasury, not later than,—
 (a) in the case of the financial statements to the end of November, the last day of January in the following year; and
 (b) in the case of the financial statements to the end of December, the last day of February in the following year; and
 (c) in any other case, 6 weeks after the end of the period to which they relate.
+(5) The Secretary must ensure that the monthly financial statements remain available on that Internet site for inspection by members of the public for at least 5 financial years after the financial year to which the monthly financial statements relate.
 Compare: 1989 No 44 ss 30-31A

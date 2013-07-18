@@ -6,7 +6,7 @@
 (2) The Treasury may—
 (a) invest the money for any period and on any terms and conditions that it thinks fit; and
 (b) sell, or convert into money, any of the securities.
-(3) The following must be paid into a Crown Bank Account:
+(3) The following must be paid into a Crown Bank Account or, if the Minister directs, a Departmental Bank Account:
 (a) all interest received from the investment; and
 (b) all money received from—
 (i) the redemption or maturity of the investment; or
