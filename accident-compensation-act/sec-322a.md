@@ -8,4 +8,4 @@
 (c) by reference to the fact that the persons are not permitted to perform services of a stated kind under their scopes of practice:
 (d) by reference to the fact that the persons lack qualifications of a stated kind.
 (3) The Minister may not give a notice in the Gazette under this section without first consulting any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed notice.
-(4) A notice in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A notice in the Gazette under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
