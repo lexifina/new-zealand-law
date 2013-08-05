@@ -4,4 +4,4 @@
 (3) The exemption must be granted by notice in the Gazette, and takes effect from the date specified in the exemption (which must not be earlier than the date of the Gazette notice).
 (4) The Commission may, in like manner, vary or revoke any exemption.
 (5) The Commission must keep a list of all current exemptions made by it under this section available for public inspection free of charge during normal office hours of the Commission at the offices of the Commission.
-(6) An exemption under this section is not a regulation within the meaning of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+(6) An exemption under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 and does not have to be presented to the House of Representatives under section 41 of that Act.

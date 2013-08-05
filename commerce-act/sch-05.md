@@ -53,7 +53,8 @@ Material incorporated by reference in a Part 4 determination that expires, is re
 (e) must allow a reasonable opportunity for people to comment on the proposal; and
 (f) must consider any comments made within the time allowed.
 (3) A failure to comply with this clause does not invalidate a Part 4 determination.
-8 Acts and Regulations Publication Act 1989 not applicable
-The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in a Part 4 determination, or to any amendment to, or replacement of, the material.
+8 Application of Legislation Act 2012 to material incorporated by reference
+(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
+(2) Subpart 1 of Part 3 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
 9 Regulations (Disallowance) Act 1989 not applicable
-The Regulations (Disallowance) Act 1989 does not apply to material incorporated by reference in a Part 4 determination, or to any amendment to, or replacement of, the material.
+[Repealed]

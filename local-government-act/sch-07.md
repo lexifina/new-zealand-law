@@ -78,7 +78,7 @@ Remuneration of members
 (4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)(e).
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
-(7) A determination by the Remuneration Authority under this clause is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+(7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
 (8) In this clause, local boards has the meaning given in section 4(1) of the Local Government (Auckland Council) Act 2009.
 7 Mandatory criteria for Remuneration Authority
 (1) In determining remuneration under clause 6, the Remuneration Authority must have regard to the need to—

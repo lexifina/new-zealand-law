@@ -15,4 +15,4 @@
 (c) the extent and timing of public debate and public consultation that took place on the policy before the proposed national policy statement was prepared:
 (d) any other relevant matter.
 (3) [Repealed]
-(4) A national policy statement prepared after the use of a process established under subsection (1)(b) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
+(4) A national policy statement prepared after the use of a process established under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.

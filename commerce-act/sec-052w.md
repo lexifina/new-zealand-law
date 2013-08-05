@@ -7,3 +7,4 @@
 (b) the reasons for determining that methodology; and
 (c) how it is publicly available.
 (3) The Commission must make every input methodology, and every amended input methodology, publicly available as soon as the input methodology or amendment is published.
+(4) A published input methodology is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).

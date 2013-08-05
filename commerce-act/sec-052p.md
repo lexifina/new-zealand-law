@@ -16,3 +16,4 @@
 (b) publish a summary of it in the Gazette; and
 (c) make the whole determination publicly available.
 (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
+(9) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
