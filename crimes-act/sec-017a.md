@@ -1,2 +1,0 @@
-# 17A Interpretation
-[Repealed]

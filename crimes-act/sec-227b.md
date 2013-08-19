@@ -1,2 +1,0 @@
-# 227B Power to search vehicles for goods stolen or obtained by crimes involving dishonesty
-[Repealed]

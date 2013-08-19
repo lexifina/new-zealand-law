@@ -1,2 +1,0 @@
-# 19D Execution
-[Repealed]

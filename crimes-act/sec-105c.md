@@ -2,8 +2,8 @@
 (1) In this section and in sections 105D and 105E,—
 benefit means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
 foreign country includes—
-(a) a territory for whose international relations the government of a foreign country is responsible; and
-(b) an organised foreign area or entity including an autonomous territory or a separate customs territory
+(a) a territory for whose international relations the Government of a foreign country is responsible; and
+(b) an organised foreign area or entity including an autonomous territory or a separate Customs territory
 foreign government includes all levels and subdivisions of government, such as local, regional, and national government
 foreign public agency means any person or body, wherever situated, that carries out a public function under the laws of a foreign country
 foreign public enterprise means—

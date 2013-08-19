@@ -2,9 +2,9 @@
 (1) Subject to subsection (2), where a private communication has been intercepted in contravention of section 216B, every one is liable to imprisonment for a term not exceeding 2 years who intentionally—
 (a) discloses the private communication, or the substance, meaning, or purport of the communication, or any part of it; or
 (b) discloses the existence of the private communication,—
-if he knows that it has come to his knowledge as a direct or indirect result of a contravention of section 216B.
+if he or she knows that it has come to his or her knowledge as a direct or indirect result of a contravention of section 216B.
 (2) Subsection (1) does not apply where the disclosure is made—
-(a) to a party to the communication or with the express or implied consent of such a party; or
+(a) to a party to the communication, or with the express or implied consent of such a party; or
 (b) in the course, or for the purpose, of—
 (i) an investigation by the Police into an alleged offence against this section or section 216B; or
 (ii) giving evidence in any civil or criminal proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted by that means; or
