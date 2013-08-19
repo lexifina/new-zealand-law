@@ -26,7 +26,7 @@ New Zealand Army Act 1950 (1950 No 39) (1957 Reprint, Vol 11, p 1)
 Amendment(s) incorporated in the Act(s).
 New Zealand Society of Accountants Act 1958 (1958 No 42)
 Amendment(s) incorporated in the Act(s).
-Patents Act 1953 (1953 No 64)
+Patents Act 1953 (1953 No 64) (1957 Reprint, Vol 11, p 596)
 Amendment(s) incorporated in the Act(s).
 Police Act 1958 (1958 No 109)
 Amendment(s) incorporated in the Act(s).
@@ -38,5 +38,5 @@ Royal New Zealand Air Force Act 1950 (1950 No 40) (1957 Reprint, Vol 13, p 455)
 Amendment(s) incorporated in the Act(s).
 Shipping and Seamen Act 1952 (1952 No 49) (1957 Reprint, Vol 14, p 313)
 Amendment(s) incorporated in the Act(s).
-Summary Proceedings Act 1957 (1957 No 87)
+Summary Proceedings Act 1957 (1957 No 87) (1957 Reprint, Vol 15, p 375)
 Amendment(s) incorporated in the Act(s).
