@@ -1,5 +1,5 @@
 # 1G Part 4 (division of relationship property)
-Part 4 sets out how the property of a husband and wife or civil union partners or de facto partners is to be divided when they separate and cannot agree on the matter. It deals with matters like—
+Part 4 sets out how the property of spouses, civil union partners, and de facto partners is to be divided when they separate and cannot agree on the matter. It deals with matters like—
 (a) on what basis is the relationship property to be divided?
 (b) what happens if the spouses or partners have been living together for less than 3 years?
 (c) can the court do anything to redress any disparities between the income and living standards of the spouses or partners after the marriage, civil union, or de facto relationship ends?

@@ -8,7 +8,7 @@
 (i) to the extent possible, the property order relating to the marriage or civil union must be satisfied from the property that is attributable to that marriage or civil union; and
 (ii) to the extent possible, the property order relating to the de facto relationship must be satisfied from the property that is attributable to that de facto relationship; and
 (iii) to the extent that it is not possible to attribute all or any of the property to either the marriage or civil union or the de facto relationship, the property is to be divided in accordance with the contribution of the marriage or civil union and the de facto relationship to the acquisition of the property.
-(3) For the purposes of this section, a marriage and a de facto relationship are successive if the de facto relationship begins during the marriage, but after the spouses cease to live together as husband and wife.
+(3) For the purposes of this section, a marriage and a de facto relationship are successive if the de facto relationship begins during the marriage, but after the spouses cease to live together as a married couple.
 (3A) For the purposes of this section, a civil union and a de facto relationship are successive if the de facto relationship begins during the civil union, but after the civil union partners cease to live together as civil union partners.
 (4) In this section, and in section 52B, property order—
 (a) means an order made under any of sections 25 to 31, and 33; and

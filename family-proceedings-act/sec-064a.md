@@ -13,6 +13,6 @@
 (ii) the likely earning capacity of each spouse, civil union partner, or de facto partner:
 (iii) the responsibilities of each spouse, civil union partner, or de facto partner for the ongoing daily care of any minor or dependent children of the marriage or civil union or (as the case requires) any minor or dependent children of the de facto relationship after the dissolution of the marriage or civil union or (as the case requires) after the de facto partners ceased to live together:
 (iv) any other relevant circumstances.
-(4) If the marriage or civil union was immediately preceded by a de facto relationship between the husband and wife,—
+(4) If the marriage or civil union was immediately preceded by a de facto relationship between the spouses or partners,—
 (a) for the purposes of subsection (3)(b), the de facto relationship must be treated as if it were part of the marriage or civil union; and
 (b) for the purposes of subsection (3)(c)(i), the effects of the division of functions within the marriage or civil union include the effects of the division of functions within that de facto relationship.
