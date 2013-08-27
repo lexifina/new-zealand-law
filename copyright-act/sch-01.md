@@ -352,7 +352,7 @@ Effect of notices given under section 22 or section 29 of the Copyright Act 1962
 (b) regulations 3(2) and 4 to 7 of the Copyright (Record Royalties) Regulations 1963—
 that are in force immediately before commencement shall continue to apply for the purpose of completing or perfecting any matter in progress immediately before commencement.
 Compare: 1962 No 33 Schedule 1 cl 24; Copyright, Designs and Patents Act 1988 Schedule 1 para 21 (UK)
-43 Notice may be given to chief executive of New Zealand Customs Service
+43 Notice may be given to Comptroller of Customs
 (1) Subject to subclause (2), where, before commencement, a notice was given in respect of a work under section 29 of the 1962 Act, and that notice had not been withdrawn and had not otherwise ceased to have effect before commencement, the notice shall have effect after commencement as if it had been accepted under section 136, and section 136 shall apply with any necessary modifications.
 (2) The notice shall, upon commencement, cease to have any effect in respect of—
 (a) any items sold in another country by or with the consent of the owner of the copyright in that country; and
