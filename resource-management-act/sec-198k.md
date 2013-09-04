@@ -1,15 +1,15 @@
 # 198K Environment Court decides
-(1) If the territorial authority continues to want the requirement to be determined by the Environment Court, the authority must,—
-(a) within 10 working days after preparing the report, lodge with the Environment Court a notice of motion in the prescribed form specifying the orders sought and the grounds upon which the application is made, and a supporting affidavit as to the matters giving rise to the application; and
-(b) as soon as is reasonably practicable after lodging the notice of motion, serve a copy of the notice of motion and affidavit on every person who made a submission to the territorial authority on the requirement; and
-(c) tell the Registrar of the Environment Court when the copies have been served.
+(1) If the territorial authority continues to want the requirement to be determined by the Environment Court, the requirement is referred to the court by the territorial authority,—
+(a) within 10 working days after preparing the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
+(b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on every person who made a submission to the territorial authority on the requirement; and
+(c) telling the Registrar of the Environment Court by written notice when the copies have been served.
 (2) The territorial authority must, without delay, provide the Environment Court with—
 (a) the requirement to which the notice of motion relates; and
 (b) the territorial authority's report on the requirement; and
 (c) all the submissions on the requirement that the territorial authority received; and
 (d) all the information and reports on the requirement that the territorial authority was supplied with.
-(3) Section 274 applies to the notice of motion.
-(4) Part 11 applies to proceedings under this section.
+(3) Section 274 applies to the notice of motion, and any person who has made a submission to the territorial authority on the requirement and wishes to be heard on the matter by the Environment Court must give notice to the court in accordance with that section.
+(4) Parts 11 and 11A apply to proceedings under this section.
 (5) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
 (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
 (b) may—

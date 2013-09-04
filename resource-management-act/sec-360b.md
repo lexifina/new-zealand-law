@@ -14,7 +14,8 @@
 (A) any national policy statement; and
 (B) any New Zealand coastal policy statement; and
 (C) any regional policy statement; and
-(iv) the regional coastal plan as amended by the proposed regulations will not duplicate or conflict with any national environmental standard.
+(iv) the regional coastal plan as amended by the proposed regulations will not duplicate or conflict with any national environmental standard; and
+(d) has prepared an evaluation report for the proposed regulations in accordance with section 32 and had particular regard to that report when deciding whether to recommend the making of the regulations.
 (3) For the purposes of subsection (2)(b)(iv), the Minister of Aquaculture must—
 (a) notify the public and iwi authorities of the proposed regulations; and
 (b) establish a process that—

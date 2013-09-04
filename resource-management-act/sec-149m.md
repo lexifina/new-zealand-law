@@ -11,7 +11,7 @@
 (4) If the board accepts the request,—
 (a) the board must serve notice of its decision on the applicant and the local authority; and
 (b) the local authority must prepare the proposed plan or change in accordance with section 149N; and
-(c) the EPA must give public notice of the proposed plan or change, invite submissions on it under section 149O, and invite further submissions on it under section 149F; and
+(c) the EPA must do anything required of it by sections 149F and 149O; and
 (d) the board must—
 (i) conduct an inquiry on the proposed plan or change in accordance with sections 149L and 149P(1); and
 (ii) apply section 149P(6) or (7), as the case may be; and

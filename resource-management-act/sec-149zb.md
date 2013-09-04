@@ -9,4 +9,4 @@
 (b) an application for a change to or cancellation of the conditions of a resource consent:
 (c) a notice of requirement to alter a designation:
 (d) a notice of requirement to alter a heritage order.
-(3) In addition to making a recommendation to the Minister under section 146 on whether to make a direction under section 147(1)(a), (b), or (c) in relation to the application or notice, the EPA must also recommend whether the application or notice should be notified under sections 95A to 95F.
+(3) In addition to making a recommendation to the Minister under section 146 on whether to make a direction under section 147(1)(a), (b), or (c) in relation to the application or notice, the EPA must also recommend whether the application or notice should be notified under sections 95A to 95G.

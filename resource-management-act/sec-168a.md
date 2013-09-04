@@ -2,7 +2,7 @@
 (1) This section applies if a territorial authority decides to issue a notice of requirement for a designation—
 (a) for a public work within its district and for which it has financial responsibility; or
 (b) in respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work.
-(1A) The territorial authority must decide whether to notify the notice of requirement under sections 95A to 95F (but without the time limit specified by section 95), which apply with all necessary modifications and as if—
+(1A) The territorial authority must decide whether to notify the notice of requirement under sections 95A to 95G (but without the time limit specified by section 95), which apply with all necessary modifications and as if—
 (a) a reference to a resource consent were a reference to the requirement; and
 (b) a reference to an applicant or a consent authority were a reference to the territorial authority; and
 (c) a reference to an application for a resource consent were a reference to the notice of requirement; and

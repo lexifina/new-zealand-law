@@ -11,4 +11,7 @@
 (4) A board of inquiry—
 (a) must keep a full record of any hearings or proceedings:
 (b) may permit a party to question any other party or witness:
-(c) may permit cross-examination.
+(c) may permit cross-examination:
+(d) without limiting sections 39, 40 to 41C, 99, and 99A,—
+(i) may direct that a conference of a group of experts be held:
+(ii) may direct that a conference be held of submitters who wish to be heard at the hearing, the applicant, and any relevant local authority, or any of them.

@@ -11,7 +11,10 @@
 (b) be satisfied that—
 (i) a rule in relation to the allocation of space is necessary or desirable in the circumstances of the region; and
 (ii) if the proposed method of allocating space is not allocation of authorisations, or the proposed allocation of authorisations is not by public tender, the proposed method is the most appropriate for allocation of space in the circumstances of the region, having regard to its efficiency and effectiveness compared to other methods of allocating space.
-(2) Section 32(1) to (3) do not apply to the inclusion of a rule in accordance with subsection (1).
+(1A) The regional council must—
+(a) prepare a report summarising the matters required by subsection (1); and
+(b) make the report available for public inspection at the same time, or as soon as practicable after, the rule is included in the regional coastal plan or proposed regional coastal plan.
+(2) Sections 32 and 32AA do not apply to the inclusion of a rule in accordance with subsection (1).
 (3) Subsection (1) applies subject to an Order in Council made under section 165K.
 (4) A challenge to a rule on the ground that this section has not been complied with may be made only in a submission under Schedule 1.
 (5) Subsection (4) does not preclude a person who is hearing a submission or an appeal on a proposed regional coastal plan from taking into account the matters stated in subsection (1).

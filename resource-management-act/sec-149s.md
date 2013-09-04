@@ -11,3 +11,5 @@
 (a) the applicant; and
 (b) the local authority; and
 (c) any person who made a submission on the matter.
+(5) The EPA must, on request by a board of inquiry, request the Minister to grant an extension under subsection (1) in relation to any matter before the board.
+(6) Subsection (5) does not limit subsection (1).

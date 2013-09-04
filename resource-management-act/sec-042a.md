@@ -1,5 +1,8 @@
 # 42A Reports to local authority
-(1) At any reasonable time before a hearing or, if no hearing is to be held, before the decision is made, a local authority may require an officer of a local authority (as local authority is defined in section 42(6)(b)), or may commission a consultant or any other person employed for the purpose, to prepare a report on information provided on any matter described in section 39(1) by the applicant or any person who made a submission.
+(1) At any reasonable time before a hearing or, if no hearing is to be held, before the decision is made, a local authority (as local authority is defined in section 42(6)(b)) may require preparation of a report on information provided on any matter described in section 39(1) by the applicant or any person who made a submission.
+(1AA) The local authority may—
+(a) require an officer of the local authority to prepare the report; or
+(b) commission a consultant or any other person employed for the purpose to prepare the report.
 (1A) The report does not need to repeat material from an assessment of environmental effects provided by the applicant.
 (1B) Instead, the report may—
 (a) adopt the whole assessment; or

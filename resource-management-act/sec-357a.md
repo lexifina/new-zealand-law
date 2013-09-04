@@ -9,7 +9,7 @@
 (b) [Repealed]
 (c) [Repealed]
 (d) in respect of an application or a submission that a consent authority declines to process or to consider, as provided for by section 99(8), for the person who made the application or submission:
-(e) in respect of a decision of the authority under section 87E(5) or (6), for a person who made a request under section 87D:
+(e) in respect of a decision of the authority under section 87E(5) to (6A), for a person who made a request under section 87D:
 (f) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if—
 (i) the application or review was notified; and
 (ii) either no submissions were received or any submissions received were withdrawn:

@@ -7,6 +7,8 @@
 (a) the day on which the EPA gave public notice under section 149C of the Minister's direction under section 142(2) or 147(1)(a) in relation to the matter, unless paragraph (b) or (c) applies; or
 (b) the day on which the EPA gave public notice under section 149O of the proposed plan or change, if that section applies to the matter before the board; or
 (c) the day on which the EPA gave limited notification under section 149ZC(4), if the EPA gave that notice for the matter before the board.
+(2A) If the 9-month period ending on the deadline specified in subsection (2) includes any days that fall during the holiday period (being the 22-day period starting on 20 December in any year and ending with 10 January in the following year), then the deadline is deferred by that number of days.
+(2B) However, if the deadline specified in subsection (2) falls during the holiday period, then the deadline is deferred by 22 days.
 (3) The report—
 (a) must state the board's decision; and
 (b) must give reasons for the decision; and

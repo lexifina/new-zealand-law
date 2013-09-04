@@ -18,3 +18,4 @@
 (b) the advice given under the other enactment prevails; or
 (c) the determination made under the other enactment prevails.
 (6) Information kept and maintained by a local authority under this section must not be used by the local authority except for the purposes of this Act or regulations under this Act.
+(7) Information required to be provided under this section must be provided in accordance with any prescribed requirements.

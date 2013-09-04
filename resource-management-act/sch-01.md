@@ -125,7 +125,9 @@ A local authority is not required to comply with clause 3 to the extent that any
 (9) A requiring authority may withdraw a requirement for a designation in accordance with section 168(4) and a heritage protection authority may withdraw a requirement for a heritage order in accordance with section 189(4).
 (10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this schedule, amend its proposed district plan accordingly.
 5 Public notice and provision of document to public bodies
-(1) A local authority that has prepared a proposed policy statement or plan shall publicly notify it.
+(1) A local authority that has prepared a proposed policy statement or plan must—
+(a) prepare an evaluation report for the proposed policy statement or plan in accordance with section 32 and have particular regard to that report when deciding whether to proceed with the statement or plan; and
+(b) publicly notify the proposed policy statement or plan if the local authority decides to proceed with the policy statement or plan.
 (1A) A territorial authority shall, not earlier than 60 working days before public notification or later than 10 working days after public notification of its plan, either—
 (a) send a copy of the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, to every ratepayer for the area of the territorial authority where that person, in the territorial authority's opinion, is likely to be directly affected by the proposed plan; or
 (b) include the public notice, and such further information as the territorial authority thinks fit relating to the proposed plan, in any publication or circular which is issued or sent to all residential properties and Post Office box addresses located in the affected area—
@@ -213,11 +215,13 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (a) must include the reasons for accepting or rejecting the submissions and, for that purpose, may address the submissions by grouping them according to—
 (i) the provisions of the proposed statement or plan to which they relate; or
 (ii) the matters to which they relate; and
+(ab) must include a further evaluation of the proposed policy statement or plan undertaken in accordance with section 32AA; and
 (b) may include—
 (i) matters relating to any consequential alterations necessary to the proposed statement or plan arising from the submissions; and
 (ii) any other matter relevant to the proposed statement or plan arising from the submissions.
 (3) To avoid doubt, the local authority is not required to give a decision that addresses each submission individually.
 (4) The local authority must—
+(aaa) have particular regard to the further evaluation undertaken in accordance with subclause (2)(ab) when making its decision; and
 (a) give its decision no later than 2 years after notifying the proposed policy statement or plan under clause 5; and
 (b) publicly notify the decision within the same time.
 (5) On and from the date the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
@@ -315,7 +319,7 @@ Requests for changes to policy statements and plans of local authorities and req
 (3) Any Minister of the Crown or any territorial authority in the region may request a change to a policy statement.
 (4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in Part 1 shall apply.
 22 Form of request
-(1) A request made under clause 21 shall be made to the appropriate local authority in writing and shall explain the purpose of, and reasons for, the proposed plan or change to a policy statement or plan and contain an evaluation under section 32 for any objectives, policies, rules, or other methods proposed.
+(1) A request made under clause 21 shall be made to the appropriate local authority in writing and shall explain the purpose of, and reasons for, the proposed plan or change to a policy statement or plan and contain an evaluation report prepared in accordance with section 32 for the proposed plan or change.
 (2) Where environmental effects are anticipated, the request shall describe those effects, taking into account the provisions of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
 23 Further information may be required
 (1) Where a local authority receives a request from any person under clause 21, it may within 20 working days, by written notice, require that person to provide further information necessary to enable the local authority to better understand—
@@ -339,6 +343,9 @@ As a result of further or additional information, commissioned reports, or other
 (b) receiving all required information or any report which was commissioned under clause 23; or
 (c) modifying the request under clause 24—
 whichever is the latest, decide under which of subclauses (2), (3), and (4), or a combination of subclauses (2) and (4), the request shall be dealt with.
+(1A) The local authority must have particular regard to the evaluation report prepared for the proposed plan or change in accordance with clause 22(1)—
+(a) when making a decision under subclause (1); and
+(b) when dealing with the request under subclause (2), (3), or (4).
 (2) The local authority may either—
 (a) adopt the request, or part of the request, as if it were a proposed policy statement or plan made by the local authority itself and, if it does so,—
 (i) the request must be notified in accordance with clause 5 within 4 months of the local authority adopting the request; and
@@ -385,7 +392,9 @@ Where a local authority accepts the request or part of the request under clause 
 (b) does not relate to trade competition or the effects of trade competition.
 (2) The local authority shall send copies of all submissions on the plan or change to the person who made the request.
 (3) The person who made the request has the right to appear before the local authority under clause 8B.
-(4) After considering a plan or change, the local authority may decline, approve, or approve with modifications, the plan or change, and shall give reasons for its decision.
+(4) After considering a plan or change, undertaking a further evaluation of the plan or change in accordance with section 32AA, and having particular regard to that evaluation, the local authority—
+(a) may decline, approve, or approve with modifications the plan or change; and
+(b) must give reasons for its decision.
 (5) In addition to those persons covered by clause 11, the local authority shall serve a copy of its decision on the person who made the request under clause 21.
 (6) The person who made the request, and any person who made submissions on the plan or change, may appeal the decision of the local authority to the Environment Court.
 (7) Where a plan or change has been appealed to the Environment Court, clauses 14 and 15 shall apply, with all necessary modifications.

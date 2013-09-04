@@ -2,19 +2,19 @@
 (1) Subsection (2) applies to a requiring authority or heritage protection authority who—
 (a) receives a report under section 198D(5); and
 (b) continues to want the requirement to be the subject of a decision by the Environment Court instead of a recommendation by the territorial authority and a decision by the requiring authority or heritage protection authority.
-(2) The requiring authority or heritage protection authority must,—
-(a) within 10 working days after receiving the report, lodge with the Environment Court a notice of motion in the prescribed form specifying the orders sought and the grounds upon which the application is made, and a supporting affidavit as to the matters giving rise to the application; and
-(b) as soon as is reasonably practicable after lodging the notice of motion, serve a copy of the notice of motion and affidavit on—
+(2) The requirement is referred to the Environment Court by the requiring authority or heritage protection authority,—
+(a) within 10 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
+(b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on—
 (i) the territorial authority that granted the requiring authority's or heritage protection authority's request under section 198B; and
 (ii) every person who made a submission to the territorial authority on the requirement; and
-(c) tell the Registrar of the Environment Court when the copies have been served.
+(c) telling the Registrar of the Environment Court by written notice when the copies have been served.
 (3) A territorial authority served under subsection (2)(b)(i) must, without delay, provide the Environment Court with—
 (a) the requirement to which the notice of motion relates; and
 (b) the authority's report on the requirement; and
 (c) all the submissions on the requirement that the authority received; and
 (d) all the information and reports on the requirement that the authority was supplied with.
-(4) Section 274 applies to the notice of motion.
-(5) Part 11 applies to proceedings under this section.
+(4) Section 274 applies to the notice of motion, and any person who has made a submission to the territorial authority on the requirement and wishes to be heard on the matter by the Environment Court must give notice to the court in accordance with that section.
+(5) Parts 11 and 11A apply to proceedings under this section.
 (6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
 (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
 (b) may—

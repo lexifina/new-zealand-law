@@ -23,7 +23,8 @@
 (6) A board of inquiry considering a matter that is a variation to a proposed regional plan, a proposed regional plan, or a change to a regional plan—
 (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
 (b) may exercise the powers under section 293 as if it were the Environment Court; and
-(c) must apply sections 66 to 70B and 77A to 77D as if it were a regional council.
+(c) must apply sections 66 to 70B and 77A to 77D as if it were a regional council; and
+(d) must apply section 165H as if it were a regional council, if the matter involves a rule in a regional coastal plan or proposed regional coastal plan that relates to the allocation of space in a common marine and coastal area for the purposes of an activity.
 (7) A board of inquiry considering a matter that is a change to a district plan or a variation to a proposed district plan—
 (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
 (b) may exercise the powers under section 293 as if it were the Environment Court; and

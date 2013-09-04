@@ -2,6 +2,7 @@
 (1) After preparing a proposed national policy statement under sections 45 and 46, the Minister must—
 (a) use the process set out in sections 47 to 52; or
 (b) establish, and then use, a process that—
+(iaaa) notifies the public and iwi authorities of the proposed national policy statement; and
 (i) gives the public adequate time and opportunity to make a submission on the statement; and
 (ii) requires a report and recommendations to be made to the Minister on the submissions and the subject matter of the statement; and
 (iii) incorporates sections 51 and 52 as if their references to a board of inquiry were references to the person who prepares the report and recommendations.
