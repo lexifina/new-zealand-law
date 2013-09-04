@@ -4,7 +4,10 @@
 (b) once prudent levels of total debt have been achieved, maintaining those levels by ensuring that, on average, over a reasonable period of time, total operating expenses do not exceed total operating revenues; and
 (c) achieving and maintaining levels of total net worth that provide a buffer against factors that may impact adversely on total net worth in the future; and
 (d) managing prudently the fiscal risks facing the Government; and
-(e) pursuing policies that are consistent with a reasonable degree of predictability about the level and stability of tax rates for future years.
+(e) when formulating revenue strategy, having regard to efficiency and fairness, including the predictability and stability of tax rates; and
+(f) when formulating fiscal strategy, having regard to the interaction between fiscal policy and monetary policy; and
+(g) when formulating fiscal strategy, having regard to its likely impact on present and future generations; and
+(h) ensuring that the Crown's resources are managed effectively and efficiently.
 (2) However, the Government may depart from the principles of responsible fiscal management if—
 (a) the departure from those principles is temporary; and
 (b) the Minister, in accordance with this Act, states—
