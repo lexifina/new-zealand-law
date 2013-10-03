@@ -7,4 +7,4 @@
 (d) contain any other prescribed particulars.
 (3) A warrant of appointment is, in the absence of evidence to the contrary, sufficient proof that the holder of the warrant may exercise the powers conferred on an enforcement officer.
 (4) A person who ceases to be an enforcement officer must return the person's warrant of appointment.
-(5) A person who fails to comply with subsection (4) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+(5) A person who fails to comply with subsection (4) commits an offence and is liable on conviction to a fine not exceeding $1,000.
