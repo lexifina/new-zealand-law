@@ -4,6 +4,6 @@
 (a) refuse or fail to appear before the Customs officer in accordance with the notice; or
 (b) refuse to answer any question.
 (3) No person may, without reasonable excuse, refuse or fail to comply with an order made under section 155E.
-(4) Every person who breaches any of subsections (1) to (3) commits an offence and is liable on summary conviction,—
+(4) Every person who breaches any of subsections (1) to (3) commits an offence and is liable on conviction,—
 (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $10,000; and
 (b) in the case of a body corporate, to a fine not exceeding $50,000.
