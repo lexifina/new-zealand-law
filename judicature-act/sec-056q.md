@@ -8,3 +8,7 @@ has all the privileges and immunities of a witness in the High Court.
 (a) at a sitting in New Zealand of the Federal Court; or
 (b) by video link or telephone conference at a sitting in Australia of the Federal Court—
 has all the privileges and immunities of counsel in the High Court.
+(4) A person appearing as a party in an Australian proceeding—
+(a) at a sitting in New Zealand of the Federal Court; or
+(b) by video link or telephone conference at a sitting in Australia of the Federal Court—
+has all the privileges and immunities of a party in a proceeding in the High Court.
