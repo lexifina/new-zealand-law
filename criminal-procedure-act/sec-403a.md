@@ -1,0 +1,5 @@
+# 403A Transitional provision regarding effect of appeal on sentence of home detention
+If, in any proceeding to which section 397 applies, a person is convicted and sentenced to home detention and on or after the date that this section comes into force either party appeals a determination to which the sentence relates, section 397(2) has effect subject to the following:
+(a) the sentence of home detention is not suspended just because a notice of appeal or application for leave to appeal has been given unless the appeal court expressly directs that the sentence be suspended; and
+(b) section 399 of the Crimes Act 1961 and section 124 of the Summary Proceedings Act 1957 (as each of those provisions read before the commencement date) do not apply; and
+(c) the person sentenced to home detention may apply for bail and the provisions of the Bail Act 2000 (as those provisions read before the commencement date) apply except that sections 54, 55, 58 and 59A of the Bail Act (as those provisions read at the time of the appeal) apply with any necessary modifications.
