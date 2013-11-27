@@ -1,10 +1,7 @@
-# 25A Compliance documents to be available on Ministry's website
-(1) The chief executive must ensure that—
-(a) promptly after a new compliance document is issued, a digital copy is publicly available on the Ministry's website:
-(b) even after a compliance document has been amended or revoked, a digital copy of it in its original form continues to be publicly available on the website:
-(c) promptly after a compliance document is amended, there are publicly available on the Ministry's website—
+# 25A Acceptable solutions and verification methods to be available on Ministry's Internet site
+The chief executive must ensure that—
+(a) promptly after a new acceptable solution or verification method is issued, a digital copy is publicly available on the Ministry's Internet site:
+(b) even after an acceptable solution or a verification method has been amended or revoked, a digital copy of it in its original form continues to be publicly available on the Ministry's Internet site:
+(c) promptly after an acceptable solution or a verification method is amended, there are publicly available on the Ministry's Internet site—
 (i) a digital copy of the amendment; and
-(ii) a digital copy of the document in its up-to-date form.
-(2) [Repealed]
-(3) [Repealed]
-(4) The digital copies must be available free of charge.
+(ii) a digital copy of the acceptable solution or verification method in its up-to-date form.

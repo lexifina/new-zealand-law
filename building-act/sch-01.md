@@ -1,112 +1,197 @@
-# Schedule 1 Exempt building work
-s 41(1)(b)
-1 A building consent is not required for the following building work:
-(a) any lawful repair and maintenance using comparable materials, or replacement with a comparable component or assembly in the same position, of any component or assembly incorporated or associated with a building, including all lawful repair and maintenance of that nature that is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006, except—
-(i) complete or substantial replacement of a specified system; or
-(ii) complete or substantial replacement of any component or assembly contributing to the building's structural behaviour or fire-safety properties; or
-(iii) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
-(iv) repair or replacement of a water storage heater connected to a solid-fuel heater or other supplementary heat exchanger (other than—
-(A) repair of an open-vented water storage heater using the same pipework; or
-(B) replacement of an open-vented water storage heater with a comparable heater using the same pipework):
-(ab) the opening and reinstatement of any purpose-made access point within a drainage system that—
-(i) is not a NUO system or part of a NUO system; and
-(ii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006:
-(ac) the alteration to drains for a dwelling, if the alteration—
-(i) is of a minor nature (for example, shifting a gully trap); and
-(ii) does not include making any new connection to a service provided by a network utility operator; and
-(iii) is carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006:
-(ad) the alteration to existing sanitary plumbing (as defined in section 6 of the Plumbers, Gasfitters, and Drainlayers Act 2006) in a dwelling (for example, replacing a bath with a shower or moving a toilet) carried out in accordance with the Plumbers, Gasfitters, and Drainlayers Act 2006 and that is not repair or replacement to which paragraph (a)(iv) (other than subsubparagraph (A) or (B)) applies:
-(ae) the installation, replacement, or removal in any existing building of a window (including a roof window) or an exterior doorway if—
-(i) compliance with the provisions of the building code relating to structural stability is not reduced; and
-(ii) in the case of replacement, the window or doorway being replaced satisfied the provisions of the building code for durability:
-(af) the alteration to an entrance or an internal doorway of a dwelling to improve access for persons with disabilities, if compliance with the provisions of the building code relating to structural stability is not reduced:
-(ag) the alteration to the interior of any non-residential building (for example, a shop, office, library, factory, warehouse, church, or school), if the alteration does not—
-(i) reduce compliance with the provisions of the building code that relate to means of escape from fire, protection of other property, sanitary facilities, structural stability, fire-rating performance, and access and facilities for persons with disabilities; or
-(ii) modify or affect any specified system:
-(ah) the replacement or alteration of linings or finishes of any internal wall, ceiling, or floor of a dwelling:
-(b) the construction or alteration of any motorway sign, stopbank, culvert for carrying water under or in association with a road, or other similar structure that is a simple structure and is owned or controlled by a network utility operator or other similar organisation:
-(ba) the construction, installation, replacement, or alteration of a sign (whether free-standing or attached to a structure) and any structural support of the sign, if—
-(i) the surface area of the sign does not exceed 6 square metres and the sign does not exceed 3 metres in height above the supporting ground level; or
-(ii) the sign has been designed by a chartered professional engineer:
-(bb) the construction, installation, replacement, alteration, or removal of a height-restriction gantry:
-(c) the construction or alteration of any retaining wall that retains not more than 1.5 metres depth of ground and that does not support any surcharge or any load additional to the load of that ground (for example, the load of vehicles on a road):
-(ca) the construction, alteration, or removal of an internal wall (including the construction, alteration, or removal of an internal doorway) in any existing building if—
-(i) compliance with the provisions of the building code relating to structural stability is not reduced; and
-(ii) the means of escape from fire provided within the building are not detrimentally affected; and
-(iii) the wall is not made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar:
-(d) the construction or alteration of any wall (except a retaining wall or an internal wall), fence (except a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987), or hoarding, in each case of a height not exceeding 2 metres above the supporting ground:
-(daa) the construction or alteration of any wall (except a retaining wall or an internal wall), fence (except a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987), or hoarding, in each case of a height not exceeding 2.5 metres above the supporting ground:
-(da) the construction or alteration of any dam that is not a large dam:
-(db) the construction, installation, replacement, or alteration of a retaining wall in a rural zone, if—
-(i) the wall retains no more than 3 metres depth of ground; and
-(ii) the distance between the wall and any legal boundary or existing building is at least the height of the wall; and
-(iii) the wall has been designed by a chartered professional engineer:
-(e) the construction or alteration of any tank or pool and any structural support of the tank or pool (except a swimming pool as defined in section 2 of the Fencing of Swimming Pools Act 1987), including any tank or pool that is part of any other building for which a building consent is required,—
-(i) not exceeding 35 000 litres capacity and supported directly by the ground; or
-(ia) not exceeding 16 000 litres capacity and supported not more than 0.25 metre above the supporting ground; or
-(ib) not exceeding 8 000 litres capacity and supported not more than 0.5 metre above the supporting ground; or
-(ic) not exceeding 4 000 litres capacity and supported not more than 1 metre above the supporting ground; or
-(ii) not exceeding 2 000 litres capacity and supported not more than 2 metres above the supporting ground; or
-(iia) not exceeding 1 000 litres capacity and supported not more than 3 metres above the supporting ground:
-(iii) not exceeding 500 litres capacity and supported not more than 4 metres above the supporting ground:
-(f) the construction, alteration, or removal of any tent or marquee that has a floor area not exceeding 50 square metres if that tent or marquee is to be, or has been, used for public assembly for a period of not more than 1 month:
-(fa) the construction, alteration, or removal of any tent or marquee that has a floor area not exceeding 100 square metres if that tent or marquee is, or has been, for private use for a period of not more than 1 month:
-(fb) the construction, alteration, or removal of any tent or marquee that has a floor area not exceeding 100 square metres if that tent or marquee is to be, or has been, used for public assembly for a period of not more than 1 month:
-(g) the construction or alteration of any platform, bridge, or the like from which it is not possible for a person to fall more than 1 metre even if it collapses:
-(ga) the construction or alteration of any platform, bridge, or the like from which it is not possible for a person to fall more than 1.5 metres even if it collapses:
-(gb) the construction, installation, replacement, or alteration of any plinth or similar foundation that is or has been—
-(i) used for supporting mechanical plant, a tank, equipment, machinery, or any similar item; and
-(ii) designed by a chartered professional engineer:
-(gc) the construction, installation, replacement, alteration, or removal of a stall, booth, compartment, or similar structure that—
-(i) does not exceed 100 square metres in floor area; and
-(ii) is, or has been, for use at a fair, exhibition, or market for not more than 1 month:
-(h) the construction or alteration of any temporary storage stack of goods or materials:
-(i) building work in connection with any detached building (except a building that is required to be licensed in terms of the Hazardous Substances and New Organisms Act 1996 or a building closer than its own height to any residential accommodation or to any legal boundary) that—
-(i) houses fixed plant or machinery, the only normal visits to which are intermittent visits for routine inspection and maintenance of that plant or machinery; or
-(ii) into which, or into the immediate vicinity of which, people cannot or do not normally go; or
-(iii) is used only by people engaged in the construction or maintenance of another building for which a building consent is required; or
-(iv) does not exceed 1 storey, does not exceed 10 square metres in floor area, and does not contain sanitary facilities or facilities for the storage of potable water, but may contain sleeping accommodation (without cooking facilities) if the detached building is used in connection with a dwelling:
-(j) building work in connection with the closing in of an existing veranda, patio, or the like so as to provide an enclosed porch, conservatory, or the like with a floor area not exceeding 5 square metres:
-(ja) the construction, alteration, or removal of any fabric, glass, or metal awning on any building that—
-(i) is on the ground or first storey level; and
-(ii) does not exceed 15 square metres in size:
-(jab) the construction, alteration, or removal of any fabric, glass, or metal awning on any building if the awning—
-(i) is on the ground or first storey level; and
-(ii) does not exceed 20 square metres in size:
-(jb) the construction, alteration, or removal of a pergola:
-(jc) the construction, alteration, or removal of a porch or verandah on any building where that porch or verandah—
-(i) is on the ground or first storey level; and
-(ii) is over a deck or a patio; and
-(iii) does not exceed 15 square metres in size:
-(jd) the construction, alteration, or removal of a porch or verandah on any building, if the porch or verandah—
-(i) is on the ground or first storey level; and
-(ii) is over a deck or a patio; and
-(iii) does not exceed 20 square metres in size:
-(je) the construction, installation, replacement, alteration, or removal of any shade sail made of fabric or other similar lightweight material, and any associated structural support, if the shade sail—
-(i) does not exceed 50 square metres in size; and
-(ii) is not closer than 1 metre to any legal boundary; and
-(iii) is on the ground level, or, if on a building, on the ground or first-storey level of the building:
-(jf) the construction, installation, replacement, alteration, or removal of a carport that does not exceed 20 square metres in size and is on the ground level:
-(jg) the installation of thermal insulation in an existing building other than in—
-(i) an external wall of the building; or
-(ii) an internal wall of the building that is a fire separation wall (also known as a firewall):
-(jh) the making of a penetration no greater than 30 centimetres in diameter to enable the passage of pipes, cables, ducts, wires, hoses, and the like through any existing building and any associated building work, such as weatherproofing, fireproofing, or sealing the penetration:
-(ji) the construction, installation, replacement, or alteration of playground equipment, if—
-(i) the work is for a government department, Crown entity, licensed early childhood centre, or territorial or regional authority, and the playground equipment has been designed by a chartered professional engineer; or
-(ii) the playground equipment is for use by a single household and no part of the equipment exceeds 3 metres in height above the supporting ground level:
-(k) any other building work in respect of which the territorial authority (or, as the case requires, the regional authority) considers that a building consent is not necessary for the purposes of this Act because that building work—
-(i) is unlikely to be carried out otherwise than in accordance with the building code; or
-(ii) if carried out otherwise than in accordance with the building code, is unlikely to endanger people or any building, whether on the same land or on other property:
-(l) the demolition of all or part of a damaged building that is detached (stand-alone) and is no more than 3 storeys high:
-(m) the repair or replacement of all or part of a damaged outbuilding, if—
-(i) the repair or replacement is made within the same area that the outbuilding or the original outbuilding (as the case may require) occupied; and
-(ii) in the case of any replacement, the replacement is made with a comparable outbuilding or part of an outbuilding:
-(n) the removal of any—
-(i) sign and any structural support of the sign; or
-(ii) retaining wall; or
-(iii) plinth or similar foundation; or
-(iv) playground equipment.
-2 In this schedule,—
-outbuilding means a building classified as an outbuilding under clause A1 of the building code
-rural zone means any zone or area (other than a rural residential zone or area) that, in the district plan of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, rural environment, or by words of similar meaning.
-Compare: 1991 No 150 Schedule 3
+# Schedule 1 Building work for which building consent not required
+s 42(1)(b)
+Part 1
+Exempted building work
+General
+1 General repair, maintenance, and replacement
+(1) The repair and maintenance of any component or assembly incorporated in or associated with a building, provided that comparable materials are used.
+(2) Replacement of any component or assembly incorporated in or associated with a building, provided that—
+(a) a comparable component or assembly is used; and
+(b) the replacement is in the same position.
+(3) However, subclauses (1) and (2) do not include the following building work:
+(a) complete or substantial replacement of a specified system; or
+(b) complete or substantial replacement of any component or assembly contributing to the building's structural behaviour or fire-safety properties; or
+(c) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+(d) sanitary plumbing or drainlaying under the Plumbers, Gasfitters, and Drainlayers Act 2006.
+2 Territorial and regional authority discretionary exemptions
+Any building work in respect of which the territorial authority or regional authority considers that a building consent is not necessary for the purposes of this Act because the authority considers that—
+(a) the completed building work is likely to comply with the building code; or
+(b) if the completed building work does not comply with the building code, it is unlikely to endanger people or any building, whether on the same land or on other property.
+3 Single-storey detached buildings not exceeding 10 square metres in floor area
+(1) Building work in connection with any detached building that—
+(a) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
+(b) does not exceed 10 square metres in floor area; and
+(c) does not contain sanitary facilities or facilities for the storage of potable water; and
+(d) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+4 Unoccupied detached buildings
+(1) Building work in connection with any detached building that—
+(a) houses fixed plant or machinery and under normal circumstances is entered only on intermittent occasions for the routine inspection and maintenance of that plant or machinery; or
+(b) is a building, or is in a vicinity, that people cannot enter or do not normally enter; or
+(c) is used only by people engaged in building work—
+(i) in relation to another building; and
+(ii) for which a building consent is required.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+5 Tents, marquees, and similar lightweight structures
+Building work in connection with any tent or marquee, or any similar lightweight structure (for example, a stall, booth, or compartment used at fairs, exhibitions, or markets) that—
+(a) does not exceed 100 square metres in floor area; and
+(b) is to be, or has been, used for a period of not more than 1 month.
+6 Pergolas
+Building work in connection with a pergola.
+7 Repair or replacement of outbuilding
+The repair or replacement of all or part of an outbuilding if—
+(a) the repair or replacement is made within the same footprint area that the outbuilding or the original outbuilding (as the case may be) occupied; and
+(b) in the case of any replacement, the replacement is made with a comparable outbuilding or part of an outbuilding; and
+(c) the outbuilding is a detached building that is not more than 1 storey; and
+(d) the outbuilding is not intended to be open to, or used by, members of the public.
+Existing buildings: additions and alterations
+8 Windows and exterior doorways in existing dwellings and outbuildings
+Building work in connection with a window (including a roof window) or an exterior doorway in an existing dwelling that is not more than 2 storeys or in an existing outbuilding that is not more than 2 storeys, except,—
+(a) in the case of replacement, if the window or doorway being replaced has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+(b) if the building work modifies or affects any specified system.
+9 Alteration to existing entrance or internal doorway to facilitate access for persons with disabilities
+Building work in connection with an existing entrance or internal doorway of a detached or semi-detached dwelling to improve access for persons with disabilities.
+10 Interior alterations to existing non-residential building
+Building work in connection with the interior of any existing non-residential building (for example, a shop, office, library, factory, warehouse, church, or school) if the building work—
+(a) does not modify or affect the primary structure of the building; and
+(b) does not modify or affect any specified system; and
+(c) does not relate to a wall that is—
+(i) a fire separation wall (also known as a firewall); or
+(ii) made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar; and
+(d) does not include sanitary plumbing or drainlaying under the Plumbers, Gasfitters, and Drainlayers Act 2006.
+11 Internal walls and doorways in existing building
+Building work in connection with an internal wall (including an internal doorway) in any existing building unless the wall is—
+(a) load-bearing; or
+(b) a bracing element; or
+(c) a fire separation wall (also known as a firewall); or
+(d) part of a specified system; or
+(e) made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar.
+12 Internal linings and finishes in existing dwelling
+Building work in connection with any internal linings or finishes of any wall, ceiling, or floor of an existing dwelling.
+13 Thermal insulation
+Building work in connection with the installation of thermal insulation in an existing building other than in—
+(a) an external wall of the building; or
+(b) an internal wall of the building that is a fire separation wall (also known as a firewall).
+14 Penetrations
+(1) Building work in connection with the making of a penetration not exceeding 300 millimetres in diameter to enable the passage of pipes, cables, ducts, wires, hoses, and the like through any existing dwelling or outbuilding and any associated building work, such as weatherproofing, fireproofing, or sealing, provided that—
+(a) in the case of a dwelling, the dwelling is detached or in a building that is not more than 3 storeys; and
+(b) in the case of an outbuilding, the outbuilding is detached and is not more than 3 storeys.
+(2) In the case of an existing building to which subclause (1) does not apply, building work in connection with the making of a penetration not exceeding 300 millimetres in diameter to enable the passage of pipes, cables, ducts, wires, hoses, and the like through the building and any associated building work, such as weatherproofing, fireproofing, or sealing, provided that the penetration—
+(a) does not modify or affect the primary structure of the building; and
+(b) does not modify or affect any specified system.
+15 Closing in existing veranda or patio
+Building work in connection with the closing in of an existing veranda, patio, or the like so as to provide an enclosed porch, conservatory, or the like with a floor area not exceeding 5 square metres.
+16 Awnings
+Building work in connection with an awning that—
+(a) is on or attached to an existing building; and
+(b) is on the ground or first-storey level of the building; and
+(c) does not exceed 20 square metres in size; and
+(d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
+17 Porches and verandas
+Building work in connection with a porch or a veranda that—
+(a) is on or attached to an existing building; and
+(b) is on the ground or first-storey level of the building; and
+(c) does not exceed 20 square metres in floor area; and
+(d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
+18 Carports
+Building work in connection with a carport that—
+(a) is on or attached to an existing building; and
+(b) is on the ground level of the building; and
+(c) does not exceed 20 square metres in floor area.
+19 Shade sails
+Building work in connection with a shade sail made of fabric or other similar lightweight material, and associated structural support, that—
+(a) does not exceed 50 square metres in size; and
+(b) is no closer than 1 metre to any legal boundary; and
+(c) is on the ground level, or, if on a building, on the ground or first-storey level of the building.
+Other structures
+20 Retaining walls
+Building work in connection with a retaining wall that—
+(a) retains not more than 1.5 metres depth of ground; and
+(b) does not support any surcharge or any load additional to the load of that ground (for example, the load of vehicles).
+21 Fences and hoardings
+(1) Building work in connection with a fence or hoarding in each case not exceeding 2.5 metres in height above the supporting ground.
+(2) Subclause (1) does not include a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987.
+22 Dams (excluding large dams)
+Building work in connection with a dam that is not a large dam.
+23 Tanks and pools (excluding swimming pools)
+Building work in connection with a tank or pool and any structure in support of the tank or pool (except a swimming pool as defined in section 2 of the Fencing of Swimming Pools Act 1987), including any tank or pool that is part of any other building for which a building consent is required, that—
+(a) does not exceed 500 litres capacity and is supported not more than 4 metres above the supporting ground; or
+(b) does not exceed 1 000 litres capacity and is supported not more than 3 metres above the supporting ground; or
+(c) does not exceed 2 000 litres capacity and is supported not more than 2 metres above the supporting ground; or
+(d) does not exceed 4 000 litres capacity and is supported not more than 1 metre above the supporting ground; or
+(e) does not exceed 8 000 litres capacity and is supported not more than 0.5 metres above the supporting ground; or
+(f) does not exceed 16 000 litres capacity and is supported not more than 0.25 metres above the supporting ground; or
+(g) does not exceed 35 000 litres capacity and is supported directly by ground.
+24 Decks, platforms, bridges, boardwalks, etc
+Building work in connection with a deck, platform, bridge, boardwalk, or the like from which it is not possible to fall more than 1.5 metres even if it collapses.
+25 Signs
+Building work in connection with a sign (whether free-standing or attached to a structure) and any structural support of the sign if—
+(a) no face of the sign exceeds 6 square metres in surface area; and
+(b) the top of the sign does not exceed 3 metres in height above the supporting ground level.
+26 Height-restriction gantries
+Building work in connection with a height-restriction gantry.
+27 Temporary storage stacks
+Building work in connection with a temporary storage stack of goods or materials.
+28 Private household playground equipment
+Building work in connection with playground equipment if—
+(a) the equipment is for use by a single private household; and
+(b) no part of the equipment exceeds 3 metres in height above the supporting ground level.
+Network utility operators or other similar organisations
+29 Certain structures owned or controlled by network utility operators or other similar organisations
+Building work in connection with a motorway sign, stopbank, culvert for carrying water under or in association with a road, or other similar structure that is—
+(a) a simple structure; and
+(b) owned or controlled by a network utility operator or other similar organisation.
+Demolition
+30 Demolition of detached building
+The complete demolition of a building that is detached and is not more than 3 storeys.
+31 Removal of building element
+The removal of a building element from a building that is not more than 3 storeys, provided that the removal does not affect—
+(a) the primary structure of the building; or
+(b) any specified system; or
+(c) any fire separation.
+Part 2
+Sanitary plumbing and drainlaying carried out by person authorised under Plumbers, Gasfitters, and Drainlayers Act 2006
+Plumbing and drainage
+32 Repair, maintenance, and replacement
+(1) The repair and maintenance of any sanitary plumbing and drainage in or associated with a building, provided that comparable materials are used.
+(2) Replacement of sanitary plumbing and drainage in or associated with a building, provided that—
+(a) a comparable component or assembly is used; and
+(b) the replacement is in the same position.
+(3) However, subclauses (1) and (2) do not include the following building work:
+(a) complete or substantial replacement of a specified system; or
+(b) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+(c) repair or replacement of any water heater (unless permitted under clauses 36 to 38).
+33 Drainage access points
+The opening and reinstatement of any purpose-made access point within a drainage system that is not a NUO system or part of a NUO system.
+34 Minor alteration to drains
+(1) Alteration to drains for a dwelling if the alteration is of a minor nature, for example, shifting a gully trap.
+(2) Subclause (1) does not include making any new connection to a service provided by a network utility operator.
+35 Alteration to existing sanitary plumbing (excluding water heaters)
+(1) Alteration to existing sanitary plumbing in a building, provided that—
+(a) the total number of sanitary fixtures in the building is not increased by the alteration; and
+(b) the alteration does not modify or affect any specified system.
+(2) Subclause (1) does not include an alteration to a water heater.
+Water heaters
+36 Repair and maintenance of existing water heater
+The repair or maintenance of any existing water heater using comparable materials, comparable components, or a comparable assembly.
+37 Replacement of open-vented water storage heater connected to supplementary heat exchanger
+The replacement of any water-storage heater connected to a solid-fuel heater or other supplementary heat exchanger if the replacement—
+(a) is a comparable open-vented water storage heater; and
+(b) is fixed in the same position, and uses the same pipework, as the replaced water storage heater.
+38 Replacement or repositioning of water heater that is connected to, or incorporates, controlled heat source
+The replacement of any water heater (including the repositioning of an existing water heater) if the replacement water heater is connected to, or incorporates, a controlled heat source or, if connected to or incorporating more than 1 heat source, 2 or more heat sources all of which are controlled.
+Part 3
+Building work for which design is carried out or reviewed by chartered professional engineer
+39 Signs
+Building work in connection with any sign (whether freestanding or attached to a structure) and any structural support of the sign.
+40 Plinths
+Building work in connection with any plinth or similar foundation if the plinth or foundation supports plant, a tank, equipment, machinery, or any similar item.
+41 Retaining walls
+(1) Building work in connection with a retaining wall in a rural zone, if—
+(a) the wall retains not more than 3 metres depth of ground; and
+(b) the distance between the wall and any legal boundary or existing building is at least the height of the wall.
+(2) In subclause (1), rural zone means any zone or area (other than a rural residential area) that, in the district plan of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning.
+42 Certain public playground equipment
+Building work in connection with playground equipment if the work is for a government department, Crown entity, licensed early childhood centre, territorial or regional authority, or other similar public organisation.
+43 Removal of sign, plinth, retaining wall, or public playground equipment
+The removal of any of the structures referred to in clauses 39 to 42, whether or not the design of the structure has been carried out or reviewed by a chartered professional engineer.
