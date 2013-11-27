@@ -19,6 +19,7 @@ Financial Markets Authority
 Fiordland Marine Guardians
 Fish and Game Councils
 Fisheries Authority
+Game Animal Council
 Government Communications Security Bureau
 Health Research Council of New Zealand
 Housing New Zealand Limited
