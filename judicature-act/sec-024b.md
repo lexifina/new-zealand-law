@@ -11,11 +11,11 @@
 (c) appeals against determinations of the Commerce Commission:
 (d) proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
 (e) cases stated by the Financial Markets Authority, and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
-(f) the following proceedings in relation to companies registered under the Companies Act 1955 or the Companies Act 1993, as the case may be:
+(f) the following proceedings in relation to companies registered under the Companies Act 1993:
 (i) applications for directions by liquidators and receivers:
-(ii) defended applications under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993:
+(ii) defended applications under section 174 of the Companies Act 1993:
 (iii) disputes relating to takeovers:
-(iv) disputes between shareholders or classes of shareholders of companies (other than companies registered under Part 8 of the Companies Act 1955 and companies registered under the Companies Act 1993 and having not more than 25 shareholders):
+(iv) disputes between shareholders or classes of shareholders of companies (other than companies having not more than 25 shareholders):
 (g) proceedings of a commercial nature required or permitted to be entered on a commercial list by or under any Act or by or under the High Court Rules or any rules made under section 51C of this Act.
 (2) Where any appeal belonging to the class of appeals described in subsection (1)(c) is entered on a commercial list,—
 (a) that appeal shall, notwithstanding section 75(2) of the Commerce Act 1986, be heard and determined by the court; and
