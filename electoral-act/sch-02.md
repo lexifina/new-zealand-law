@@ -1,4 +1,23 @@
 # Schedule 2 Forms
+Contents
+1 Declaration by Returning Officer or polling place official or electoral official or scrutineer
+2 Warrant for issue of writs for general election [Repealed]
+3 Writ for general election Governor-General
+4 Form of list to be submitted by political parties
+4A Notice of withdrawal of party list
+5 Form of consent to inclusion of name on party list [Repealed]
+6 Writ for by-election
+7 Warrant to supply vacancy
+8 Notice of nomination day and polling day [Repealed]
+9 Nomination paper [Repealed]
+10 Notice of withdrawal of nomination
+11 Ballot paper for general election
+12 Ballot paper for by-election
+13 Counterfoil
+14 Declaration of result of poll
+15 Working sheet in relation to candidates whose names are included in party lists
+16 Return of election expenses and election donations [Repealed]
+17 Return of electorate donations [Repealed]
 Form 1
 Declaration by Returning Officer or polling place official or electoral official or scrutineer
 ss 26, 159(3), 160(4), 172(5), 174F(3), 175(3), 183(4)
