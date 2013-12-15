@@ -16,7 +16,6 @@ Members
 [Repealed]
 Meetings of Board
 [Repealed]
-[Repealed]
 7 Meetings
 [Repealed]
 8 Chairperson to preside at meetings
