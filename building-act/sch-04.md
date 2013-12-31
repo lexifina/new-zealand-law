@@ -83,7 +83,7 @@ Amendment(s) incorporated in the regulations.
 District Courts Rules 1992 (SR 1992/109)
 Amendment(s) incorporated in the rules.
 Domestic Violence Act Commencement Order 1998 (SR 1998/343)
-Amendment(s) incorporated in the order.
+Amendment(s) incorporated in the order(s).
 Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 Amendment(s) incorporated in the regulations.
 Education (Early Childhood Centres) Regulations 1998 (SR 1998/85)
