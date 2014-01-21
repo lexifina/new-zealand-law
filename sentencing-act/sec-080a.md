@@ -11,6 +11,7 @@
 (C) have been informed that they may withdraw their consent to the offender serving the sentence in the residence at any time; and
 (iii) the offender has been made aware of and understands the conditions that will apply during home detention, and he or she agrees to comply with them; and
 (b) the proposed home detention residence is in an area in which a home detention scheme is operated by the chief executive of the Department of Corrections.
+(2A) Before imposing a sentence of home detention on an offender, a court must consider the pre-sentence report prepared by a probation officer in accordance with section 26A.
 (3) A sentence of home detention may be for such period as the court thinks fit, but must not be for less than 14 days or more than 12 months.
 (4) The court must specify the home detention residence when sentencing the offender to a sentence of home detention.
 (5) An offender sentenced to home detention is not in custody while serving the sentence.

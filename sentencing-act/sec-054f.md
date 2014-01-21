@@ -1,6 +1,6 @@
 # 54F Standard conditions of intensive supervision
 (1) If an offender is sentenced to intensive supervision, the following standard conditions apply:
-(a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable, and not later than 72 hours, after the sentence is imposed:
+(a) the offender must report in person to a probation officer in the probation area in which the offender resides as soon as practicable and not later than 72 hours after the sentence is imposed unless the start date of the sentence has been deferred under section 20A(2)(b), in which case the offender must report not later than 72 hours after that date:
 (b) the offender must report to a probation officer—
 (i) at least once in each week during the first 3 months of the sentence and at least once in each month during the remainder of the sentence; and
 (ii) as and when required to do so by a probation officer:

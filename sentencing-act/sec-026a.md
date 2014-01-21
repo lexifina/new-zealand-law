@@ -1,8 +1,7 @@
-# 26A Additional requirements when considering sentence of community detention or home detention
-(1) If the court has directed a probation officer to provide a pre-sentence report under section 26, the probation officer must prepare the pre-sentence report in accordance with subsection (2) if—
-(a) the court has indicated that it is considering a sentence of community detention or home detention; or
-(b) the probation officer intends to recommend a sentence of community detention or home detention.
-(2) A pre-sentence report to which subsection (1) applies may include any of the matters outlined in section 26(2), and must include—
+# 26A Pre-sentence reports when considering sentence of community detention or home detention
+(1) If the court is considering a sentence of community detention or home detention, the court must direct a probation officer to prepare a pre-sentence report for the court in accordance with subsection (2).
+(1A) If a probation officer intends to recommend to the court a sentence of community detention or home detention, the probation officer must prepare a pre-sentence report in accordance with subsection (2) and provide it to the court.
+(2) A pre-sentence report to which subsection (1) or (1A) applies may include any of the matters outlined in section 26(2), and must include—
 (a) information regarding the suitability of the proposed curfew address or home detention residence, including the safety and welfare of the occupants of the proposed curfew address or home detention residence; and
 (b) in the case of a sentence of community detention, confirmation that the offender consents to the conditions of the sentence and the proposed curfew period; and
 (c) in the case of a sentence of home detention, confirmation that the offender consents to the standard detention conditions and any special conditions recommended by the probation officer or that the court has indicated it is considering imposing.
@@ -19,3 +18,4 @@
 (b) in relation to an address that the probation officer is considering as a curfew address,—
 (i) if the address is a residence, every person referred to in paragraph (a)(i) and (ii); and
 (ii) in the case of any other place, the person or persons whom the probation officer identifies as being authorised to give consent for the purposes of subsection (3).
+(5) Section 26(3), (4), and (5) apply, with any necessary modifications, to a report prepared under this section.

@@ -13,3 +13,4 @@
 (C) have been informed that they may withdraw their consent, at any time, to the offender serving the sentence at the curfew address; and
 (iii) the offender has been made aware of and understands all the conditions that will apply during the sentence and he or she agrees to comply with them; and
 (b) the proposed curfew address is in an area in which a community detention scheme is operated by the chief executive of the Department of Corrections.
+(3) Before imposing a sentence of community detention on an offender, a court must consider the pre-sentence report prepared by a probation officer in accordance with section 26A.
