@@ -14,3 +14,4 @@ Nova Gas Limited All gas pipelines
 Origin Energy Resources NZ (Rimu) Ltd Rimu Production Station—Mokoia Mixing station gas pipeline
 TAG Oil (NZ) Limited Sidewinder Production Station—Vector 300 Line at Durham Road Upper
 Cheal Petroleum Limited Cheal Gas Export Pipeline
+Contact Energy Limited Ahuroa Gas Storage Facility—Taranaki Combined Cycle and Stratford Peaker power stations gas pipeline
