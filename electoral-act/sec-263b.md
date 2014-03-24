@@ -12,7 +12,7 @@
 (f) the date at which the information in paragraphs (a) to (e) held by the agency was last provided to the agency.
 (3) For the purposes of this section, a specified agency means—
 (a) the department for the time being responsible for the administration of the Social Security Act 1964; and
-(b) the Ministry of Transport; and
+(b) the Registrar of Motor Vehicles; and
 (c) the New Zealand Transport Agency; and
 (d) the Department of Internal Affairs.
 (4) For the purposes of this section, any officer or employee or agent of a specified agency, authorised by the chief executive of that agency, may from time to time, at the request of the Electoral Commission, supply to the Electoral Commission any of the information described in subsection (2) held by that agency,—
@@ -20,9 +20,10 @@
 (i) beneficiary; or
 (ii) student; or
 (iii) borrower (as that term is defined in section 4(1) of the Student Loan Scheme Act 2011):
-(b) in the case of the Ministry of Transport, in relation to motor vehicle registration:
+(b) in the case of the Registrar of Motor Vehicles, in relation to motor vehicle registration:
 (c) in the case of the New Zealand Transport Agency, in relation to driver licences:
 (d) in the case of the Department of Internal Affairs, in relation to any persons—
 (i) who obtain New Zealand citizenship under the Citizenship Act 1977; or
 (ii) by whom, or on whose behalf, an application is made under the Passports Act 1992 for the issue or renewal of a New Zealand passport.
 (5) If, in relation to any person, information is supplied to the Electoral Commission under subsection (4), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
+(6) In this section, Registrar of Motor Vehicles has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998.

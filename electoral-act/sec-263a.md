@@ -23,5 +23,5 @@ responsible department means the department of State that is, with the authority
 (b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,—
 the Electoral Commission must advise the Registrar of the electoral district in which that person is, or has applied to be, registered as an elector accordingly.
 (6) After receiving advice from the Electoral Commission under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must,—
-(a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87A; or
+(a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87; or
 (b) if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.

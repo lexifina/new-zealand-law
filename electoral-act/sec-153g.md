@@ -17,4 +17,4 @@
 (a) must be submitted to the Returning Officer or, as the case requires, the Electoral Commission—
 (i) as soon as practicable after the candidate becomes incapacitated; and
 (ii) before the declaration of the result of the poll; and
-(b) may be submitted by hand, post, or facsimile transmission.
+(b) may be submitted by hand, post, or electronically.

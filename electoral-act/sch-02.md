@@ -59,8 +59,6 @@ The last day and time for the nomination of constituency candidates is noon on [
 Polling day is Saturday, [date].
 An Electoral Commissioner, on behalf of the Electoral Commission, is required to endorse on this writ the name of every constituency candidate who is elected, and then return the writ to the Clerk of the House of Representatives on or before [date].
 Signed by Her Excellency the Governor-General at [place] on [date].
-CD,
-Minister of Justice
 Form 4
 Form of list to be submitted by political parties
 s 127(2)
@@ -105,16 +103,12 @@ The last day and time for the nomination of constituency candidates is noon on [
 Polling day is Saturday, [date].
 An Electoral Commissioner, on behalf of the Electoral Commission, is required to endorse on this writ the name of the constituency candidate who is elected, and then return the writ to the Clerk of the House of Representatives on or before [date].
 Signed by Her Excellency, the Governor-General at [place] on [date].
-CD,
-Minister of Justice
 Form 7
 Warrant to supply vacancy
 s 134
 To the Electoral Commission:
 Pursuant to the Electoral Act 1993, I hereby authorise and direct the Electoral Commission to proceed forthwith to supply a member of Parliament to fill a vacancy created by the [specify reason for vacancy] of [specify name of previous member].
 Signed by Her Excellency, the Governor-General at [place] on [date].
-CD,
-Minister of Justice
 Form 8
 Notice of nomination day and polling day
 s 142

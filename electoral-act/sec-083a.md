@@ -1,15 +1,2 @@
 # 83A Procedure following inquiry under section 83
-(1) If, following an inquiry under section 83, the Registrar receives a form or information supplied electronically under subsection (3) in which an elector notifies the Registrar that the elector has changed his or her place of residence and now resides in another electoral district,—
-(a) the Registrar must ensure that the form or the information contained in the form, or the information supplied electronically, is transmitted to the Registrar for the new electoral district; and
-(b) the Registrar for the new electoral district must, as if the form or the information supplied electronically were an application for registration, register that elector, in accordance with section 87, on the roll for the district in which the elector resides; and
-(c) the form or the information supplied electronically is deemed to be an application for registration for the purposes of section 82; and
-(d) the Registrar for the old electoral district must, in accordance with section 98(1)(a), remove from the roll for that district the name of the elector.
-(2) If, following an inquiry under section 83, the Registrar receives from an elector a form, or information supplied electronically under subsection (3), that contains a change to any particulars other than a change of place of residence referred to in subsection (1), the Registrar must amend the roll in accordance with the information supplied in the form or electronically.
-(3) An elector may, instead of returning a form to the Registrar to notify the Registrar that the elector has changed his or her place of residence and now resides in another electoral district or to notify the Registrar of a change to any other of the elector's particulars, notify the Registrar of a change to any of the elector's particulars by supplying that information to the Registrar using an electronic medium approved for the purpose by the Electoral Commission.
-(4) An elector remains on the roll and his or her particulars on the roll remain unchanged if—
-(a) the Registrar does not receive from the elector a form, or information supplied electronically under subsection (3); or
-(b) the Registrar receives from the elector a form, or information supplied electronically under subsection (3), with no changes.
-(5) A form that a person intends to return, or returns, in response to an inquiry under section 83 must be signed or marked, and may be rejected for incompleteness, in accordance with subsections (1), (2), and (4) of section 85 (which apply with all necessary modifications) as if the form were an application or declaration in respect of registration as an elector.
-(6) Information that an elector intends to supply, or supplies, electronically under subsection (3) in response to an inquiry under section 83—
-(a) is not an application or declaration in respect of registration as an elector required by subsections (1) and (2) of section 85 to be signed or marked; but
-(b) may be rejected for incompleteness under section 85(4) (which applies with all necessary modifications) if it does not include all the particulars stated or referred to in section 85(3)(a), (b), (c), (f), and (i).
+[Repealed]

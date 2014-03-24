@@ -1,7 +1,8 @@
 # 205N Offences relating to return of candidate's election expenses
-(1) A candidate who fails to comply with section 205K is liable on conviction to—
-(a) a fine not exceeding $40,000; and
-(b) if he or she has been elected, a further fine not exceeding $400 for every day that he or she sits or votes in the House of Representatives until the return is filed.
+(1) A candidate commits an offence and is liable on conviction to a fine not exceeding $40,000 who, without reasonable excuse, files a return of election expenses under section 205K during the period commencing on the day after the date on which the return is required to be filed and ending on the day that is 15 working days later (the late period).
+(1A) A candidate is guilty of a corrupt practice who, without reasonable excuse,—
+(a) files a return of election expenses under section 205K after the late period; or
+(b) fails to file a return of election expenses under section 205K.
 (2) A candidate who files a return under section 205K that is false in any material particular is guilty of—
 (a) a corrupt practice if he or she filed the return knowing it to be false in any material particular; or
 (b) an illegal practice in any other case unless the candidate proves that—

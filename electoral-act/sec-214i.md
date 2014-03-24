@@ -1,2 +1,3 @@
-# 214I Duties of Electoral Commission
-[Repealed]
+# 214I Obligation to retain records necessary to verify return of party loans
+(1) A party secretary must take all reasonable steps to ensure that all records, documents, and accounts that are reasonably necessary to enable returns under sections 214C and 214F to be verified are retained until the expiry of the period within which a prosecution may be commenced under this Act in relation to the returns or in relation to any matter to which the returns relate.
+(2) A party secretary who fails, without reasonable excuse, to comply with subsection (1) commits an offence and is liable on conviction to a fine not exceeding $40,000.

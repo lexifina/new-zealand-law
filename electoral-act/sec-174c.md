@@ -11,6 +11,6 @@
 (a) all party votes that do not clearly indicate the party for which the voter desired to vote:
 (b) all electorate votes that do not clearly indicate the candidate for whom the voter desired to vote.
 (5) A count under this section must be commenced,—
-(a) if the conditions stated in section 174D(2) apply, as soon as practicable after 3 pm on polling day; or
+(a) if the conditions stated in section 174D(2) apply, as soon as practicable after 2 pm on polling day; or
 (b) if those conditions do not apply, as soon as practicable after the close of the poll.
 (6) If a referendum has, under any Act, been taken with the poll, the Returning Officer must ensure that the count, under this section, of party votes and electorate votes takes priority over the counting of the votes of the referendum.

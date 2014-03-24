@@ -8,7 +8,7 @@
 (3) The secretary of the political party must lodge with the bulk nomination schedule, in relation to each constituency candidate nominated in the schedule,—
 (a) a statement in a form provided by the Electoral Commission, signed by the constituency candidate, and confirming the candidate's consent to the nomination; and
 (b) any statutory declaration made by the constituency candidate received under section 49(4)(b).
-(4) If the secretary of a political party lodges a bulk nomination schedule and the political party has a logo registered under section 67A, but the political party is not submitting a party list under section 127, then a copy of the logo may be lodged with the Electoral Commission for inclusion on the ballot paper in accordance with section 150(13).
+(4) If the secretary of a political party lodges a bulk nomination schedule and the political party has a logo registered under section 71F, but the political party is not submitting a party list under section 127, then a copy of the logo may be lodged with the Electoral Commission for inclusion on the ballot paper in accordance with section 150(13).
 (5) Every logo lodged under subsection (4)—
-(a) may be lodged by hand, post, or facsimile transmission; and
+(a) may be lodged by hand, post, or electronically; and
 (b) must be lodged with the Electoral Commission not later than noon on nomination day.

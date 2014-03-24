@@ -8,7 +8,11 @@
 (a) the name of the donor (if known); and
 (b) the address of the donor (if known); and
 (c) the amount of the donation; and
-(d) the date the donation was received.
+(d) the date the donation was received; and
+(e) the following details in respect of every contribution to the donation made by or on behalf of the same contributor that exceeds $30,000:
+(i) the name of the contributor; and
+(ii) the address of the contributor; and
+(iii) the amount of the contribution.
 (5) A return filed under subsection (2) must be in the form required by the Electoral Commission and set out—
 (a) the name of the donor; and
 (b) the address of the donor; and

@@ -12,4 +12,4 @@
 (b) that, in the practitioner's opinion, the candidate is incapacitated within the meaning of section 151A.
 (4) The application—
 (a) must be submitted to the Returning Officer or, as the case requires, the Electoral Commission not later than 4 pm on nomination day; and
-(b) may be submitted by hand, post, or facsimile transmission.
+(b) may be submitted by hand, post, or electronically.

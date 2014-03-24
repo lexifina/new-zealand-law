@@ -3,8 +3,8 @@
 (2) A notification under subsection (1)—
 (a) must be given not later than 1 working day after writ day for the general election; and
 (b) must be on a form provided by the Electoral Commission; and
-(c) may be given by hand, post, or facsimile transmission.
+(c) may be given by hand, post, or electronically.
 (3) The secretary of a party may, at any time before lodging a bulk nomination schedule, withdraw a notification under subsection (1) by notifying the withdrawal to the Electoral Commission.
 (4) A withdrawal under subsection (3)—
 (a) must be on a form provided by the Electoral Commission; and
-(b) may be given by hand, post, or facsimile transmission.
+(b) may be given by hand, post, or electronically.
