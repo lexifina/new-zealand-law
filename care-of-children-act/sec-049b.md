@@ -1,0 +1,4 @@
+# 49B Interim parenting order may become final order on specified date
+(1) When making an interim parenting order that has effect until a specified date (the specified date), a Family Court Judge may direct that the interim parenting order is to become a final parenting order on the specified date unless before that date a party to the proceeding or any lawyer appointed under section 7 notifies the court that he or she wishes to be heard.
+(2) If a party to the proceeding or any lawyer appointed under section 7 does not, before the specified date, notify the court that he or she wishes to be heard, the interim parenting order becomes a final parenting order on the specified date.
+(3) When an interim parenting order becomes a final parenting order under subsection (2), the final parenting order comes into effect immediately.
