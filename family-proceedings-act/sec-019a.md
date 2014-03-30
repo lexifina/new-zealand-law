@@ -1,3 +1,2 @@
 # 19A Circumstances where joint counselling not to be required
-(1) Notwithstanding anything in this Part, a party to a marriage, civil union, or de facto relationship shall not be required, under any provision of this Part, to attend counselling at which the other party to the marriage, civil union, or de facto relationship is also present, in any case where the other party to the marriage, civil union, or de facto relationship has used violence (within the meaning of section 3(2) of the Domestic Violence Act 1995) against the first-mentioned party, or against a child of the marriage, civil union, or de facto relationship.
-(2) Nothing in this section prevents the provision of counselling in the circumstances referred to in subsection (1) with the agreement of the first-mentioned party.
+[Repealed]
