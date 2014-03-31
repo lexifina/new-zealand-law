@@ -5,7 +5,7 @@
 (i) the Crimes Act 1961:
 (ii) the Securities Act 1978:
 (iii) the Securities Markets Act 1988:
-(iv) the Financial Reporting Act 1993:
+(iv) [Repealed]
 (v) the Takeovers Act 1993; or
 (c) a person who has taken part in the formation, promotion, administration, management, or liquidation of the company—
 (i) may have misapplied or retained or become liable or accountable for the company's money or property (whether in New Zealand or elsewhere); or

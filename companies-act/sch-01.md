@@ -9,6 +9,7 @@ s 124
 (2) The notice must state—
 (a) the nature of the business to be transacted at the meeting in sufficient detail to enable a shareholder to form a reasoned judgment in relation to it; and
 (b) the text of any special resolution to be submitted to the meeting; and
+(ba) the text of any resolution for the purposes of section 207I or 207J to be submitted to the meeting; and
 (c) in the case of special resolutions required by section 106(1)(a) or (b), the right of a shareholder under section 110.
 (3) An irregularity in a notice of a meeting is waived if all the shareholders entitled to attend and vote at the meeting attend the meeting without protest as to the irregularity, or if all such shareholders agree to the waiver.
 (3A) Subject to the constitution of the company, the accidental omission to give notice of a meeting to, or the failure to receive notice of a meeting by, a shareholder does not invalidate the proceedings at that meeting.

@@ -3,6 +3,7 @@
 (2) If a shareholder makes a request under subsection (1),—
 (a) the request must be treated as a request by the shareholder to send to the shareholder each year a copy of the annual report under section 209(1)(a); and
 (b) the board of the company must send to the shareholder each year a copy of the annual report under section 209(1)(a) until the shareholder revokes the request by notice to the company.
+(2A) Subsection (2) does not require a company to send a copy of an annual report on the affairs of the company during a particular accounting period if the board of the company is not required to comply with section 208 in respect of that period.
 (3) Subsection (4) applies if—
 (a) the board of a company has sent a notice to a shareholder under section 209(1)(b); and
 (b) that notice states that the board has prepared a concise annual report; and

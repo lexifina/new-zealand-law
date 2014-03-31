@@ -3,7 +3,7 @@
 (a) the Crimes Act 1961:
 (b) the Securities Act 1978:
 (c) the Securities Markets Act 1988:
-(d) the Financial Reporting Act 1993:
+(d) [Repealed]
 (e) the Takeovers Act 1993:
 (f) the Insurance (Prudential Supervision) Act 2010.
 (2) A report made under subsection (1), and any communications between the liquidator and Registrar relating to that report, are protected by absolute privilege.
