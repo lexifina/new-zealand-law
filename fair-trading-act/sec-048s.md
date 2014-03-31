@@ -1,0 +1,3 @@
+# 48S Certain conduct under Financial Markets Conduct Act 2013 does not contravene various provisions of this Act
+(1) Conduct that contravenes section 82, 99, 262, 265, or 427 or clause 27 of Schedule 1 of the Financial Markets Conduct Act 2013 does not contravene any of sections 9 to 13 of this Act.
+(2) For the purpose of this section, conduct must be treated as contravening section 82, 99, 262, 265, or 427 or clause 27 of Schedule 1 of the Financial Markets Conduct Act 2013 even if the conduct does not constitute an offence, or does not lead to any liability, because of the availability of a defence.
