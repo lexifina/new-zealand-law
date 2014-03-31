@@ -12,10 +12,10 @@ Compare: 1952 No 51 s 43
 3 Form of conveyance in fee simple
 (1) A deed in, or to the effect of, the following form passes title to, and possession of, land:
 Deed of Conveyance
-This deed, made on [insert date], between [name of conveying party] of [place of residence], [occupation], the conveying party and [name of assignee] of [place of residence], [occupation], the assignee
+This deed, made on [date], between [name of conveying party] of [place of residence], [occupation], the conveying party and [name of assignee] of [place of residence], [occupation], the assignee
 [Recitals, if any,]: [Now this deed]
-witnesses that, in consideration of the sum of [amount] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land [insert description of land]: as shown on the plan drawn on this conveyance and coloured [insert description of colour used].
-Signed at, this day of [month], [year]
+witnesses that, in consideration of the sum of [amount] paid by the assignee to the conveying party (the receipt of which is acknowledged), the conveying party conveys to the assignee all that piece of land [description of land]: as shown on the plan drawn on this conveyance and coloured [description of colour used].
+Signed at [place, date]
 [signature]
 [name of conveying party]
 Signed by [name of conveying party] in the presence of:
@@ -73,7 +73,7 @@ Mortgage of Land
 (h) How interest payable: ["yearly", "half-yearly", "quarterly", and date or dates for payment, or otherwise, as the case may be]
 (i) How and when principal sum to be repaid: [date and mode of payment agreed upon].
 And for the better securing to the mortgagee the payment of the principal sum, interest and other money, I [or we] mortgage to the mortgagee all my [or our] estate and interest in the land.
-Signed at, this day of [month], [year]
+Signed at [place, date]
 [signature or signatures]
 Mortgagor [or Mortgagors]
 Signed by [name of mortgagor or mortgagors] as mortgagor[s], in the presence of:
