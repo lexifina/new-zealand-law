@@ -1,5 +1,8 @@
-# 84H Attachment order to be served on employer
-(1) Where an attachment order is made, a copy of the order shall be served on the employer to whom it relates, either personally or by leaving it at the employer's place of residence or business, or by sending it by letter addressed to the employer at the employer's place of residence or business.
-(2) Where service of an attachment order is effected by letter, then, in the absence of proof to the contrary, the order shall be deemed to have been served on the fourth working day after the day on which it was posted, and in proving service it shall be sufficient to prove that the letter was properly addressed and posted.
-(3) Every attachment order shall take effect when a copy of the order is served on the employer in accordance with this section.
-Compare: 1957 No 87 s 104; 1980 No 94 s 106; 1987 No 165 s 14
+# 84H Content of attachment orders
+An attachment order must be in a form approved by the chief executive of the Ministry of Justice and must specify—
+(a) the employer to whom the order relates; and
+(b) whether deductions are to be made every week, fortnight, or month, or by reference to some other period (the earnings period); and
+(c) the amount or percentage to be deducted from the judgment debtor's salary or wages for the earnings period; and
+(d) the amount or percentage below which the net amount paid to the judgment debtor for the earnings period must not fall; and
+(e) the name and address of the person to whom the amounts deducted are to be paid; and
+(f) that the order is to remain in force until the judgment debt has been paid in full or, if the order is to remain in force for a fixed period, that period.

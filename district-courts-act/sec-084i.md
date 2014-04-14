@@ -1,14 +1,19 @@
 # 84I Effect of attachment orders
-(1) An attachment order shall direct that the money due and payable under the judgment shall, by way of weekly payments of such amount as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the judgment debtor.
+(1) An attachment order shall direct that the money due and payable under the judgment shall, by way of sums of such amount, and payable by reference to such earnings period, as is specified in the attachment order, be a charge on any salary or wages that from time to time while the attachment order remains in force become due and payable by the employer to the judgment debtor.
 (2) The charge so created—
-(a) shall accrue from week to week, and on such day of the week as is specified in the attachment order; and
+(a) shall accrue from earnings period to earnings period, and on such day of the earnings period as is specified in the attachment order; and
 (b) shall attach to all salary or wages that become due by the employer to the judgment debtor at any time while the attachment order is in force, whether or not the contract of employment in respect of which the salary or wages so become due existed at the date of the attachment order; and
-(c) shall be subject to—
-(i) any charge created by any attachment order or deduction notice made under the Family Proceedings Act 1980:
-(ii) any charge created by any attachment order made under the Summary Proceedings Act 1957:
-(iii) any deduction notice issued under the Child Support Act 1991:
-(iiia) any deduction notice issued under section 157 of the Tax Administration Act 1994 (as applied by section 193 of the Student Loan Scheme Act 2011):
-(iv) in the case of an attachment order against a benefit within the meaning of the Social Security Act 1964, any deduction from or adjustment to that benefit under section 86 of that Act,—
-(whether the charge was created or the adjustment or deduction was authorised before or after the making of the attachment order under this Act); but
+(c) shall be subject to any charge created by an attachment order under the Family Proceedings Act 1980 or the Summary Proceedings Act 1957 and to any item referred to in subsection (5)(a) and (b) (whether created, issued, or authorised before or after the date on which the order referred to in subsection (1) was made); but
 (d) shall prevail over and have priority to any assignment or charge created by the judgment debtor (whether before or after the making of the attachment order under this Act), and so that the attachment order shall have the same effect as if no such assignment or charge had been made or created by the judgment debtor.
+(3) Despite subsections (1) and (2), no attachment order is to operate so that, when its effect is considered either alone or with the effect of any item referred to in subsection (5), the net amount paid to a judgment debtor for an earnings period is below the protected earnings rate for the earnings period; and, where necessary, the amount to be deducted from the judgment debtor's salary or wages for the earnings period is treated as being reduced or cancelled accordingly.
+(4) Nothing in section 84 of the Social Security Act 1964 applies to an attachment order.
+(5) The items are—
+(a) a deduction notice under the Child Support Act 1991, the Family Proceedings Act 1980, the Social Security Act 1964, or the Tax Administration Act 1994:
+(b) a deduction for the recovery of payments under section 86 of the Social Security Act 1964:
+(c) a charge created by an attachment order under this or any other Act.
+(6) In this section,—
+net earnings, in relation to an earnings period, means the balance left after deducting from the judgment debtor's salary or wages for the earnings period the amount of tax required to be withheld or deducted in accordance with the PAYE rules of the Income Tax Act 2007 if the salary or wages were the only salary or wages paid to the judgment debtor by the employer for the earnings period
+protected earnings rate, in relation to an earnings period, means the higher of—
+(a) 60% of net earnings for the earnings period; and
+(b) the amount or percentage referred to in section 84H(d).
 Compare: 1980 No 94 s 107

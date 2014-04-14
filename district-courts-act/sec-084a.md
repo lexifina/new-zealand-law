@@ -1,6 +1,8 @@
-# 84A Notice to judgment debtor to complete financial statement
-(1) Any person who has obtained a judgment or order for the payment of money may serve on the judgment debtor a notice in the prescribed form requiring him or her to complete and return to that person, within 14 days after the date on which the notice is served on the judgment debtor, a statement in the prescribed form of—
-(a) the judgment debtor's income and expenditure for the preceding 52 weeks; and
-(b) the judgment debtor's assets and liabilities.
-(2) An additional copy of the prescribed form, for the judgment debtor's own use, shall be served with the notice.
-Compare: 1908 No 89 Schedule 2 r 620
+# 84A Filing of financial statement
+(1) In this Act, financial statement means a statement, in a form approved by the chief executive of the Ministry of Justice, of a judgment debtor's—
+(a) assets and liabilities; and
+(b) income and expenditure for the preceding 52 weeks.
+(2) A financial statement may be completed by the judgment creditor or the judgment debtor.
+(3) If the financial statement is completed by the judgment creditor, the statement must include details of the source of the information contained in the statement and the date to which the information relates.
+(4) A completed financial statement may be filed in the court at any time after a judgment or order for the payment of money is entered or made.
+(5) The party who files a completed financial statement must serve a copy of the statement on the other party.

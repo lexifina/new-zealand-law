@@ -1,16 +1,11 @@
 # 84G Attachment orders
-(1) The court may, on the application of the judgment creditor at any time after judgment has been entered, make an attachment order under this section.
-(2) No attachment order shall be made unless the judgment debtor has been examined under section 84B.
-(3) An attachment order may be made against a person who is proved to the satisfaction of the court to be an employer of the judgment debtor.
-(4) The attachment order shall specify the person to whom the amounts to be deducted are to be paid.
-(5) Every attachment order may be made for a fixed period or so as to remain in force until the judgment debt has been paid in full.
-(6) Every attachment order shall specify an amount (known as the protected earnings rate) below which the net earnings or benefit paid to the judgment debtor shall not be reduced by reason of compliance with the order.
-(7) No attachment order under this Act shall operate so that, together with—
-(a) any attachment order under any other Act; and
-(b) any deduction notice made under the Family Proceedings Act 1980 or issued under section 27Y of the Social Security Act 1964; and
-(c) in the case of a benefit within the meaning of the Social Security Act 1964, any adjustment to or deduction from benefit under section 27X or section 86 of that Act,—
-the net earnings or any benefit of the judgment debtor are reduced below the protected earnings rate, and, where necessary, the specified amount to be deducted in any attachment order under this Act shall be reduced or cancelled accordingly.
-(8) [Repealed]
-(9) Nothing in section 84 of the Social Security Act 1964 shall apply to an attachment order under this section.
-(10) The jurisdiction of the District Court under this section may be exercised by the Registrar.
-Compare: 1957 No 87 s 103; 1980 No 94 s 105; 1987 No 165 s 14
+(1) The court may make an attachment order to enforce a judgment or order for the payment of money—
+(a) in the circumstances referred to in section 79(5C); or
+(b) in the circumstances referred to in section 84EC(1); or
+(c) on the application of the judgment creditor or judgment debtor.
+(2) If an application is made under subsection (1)(c),—
+(a) the party who makes the application must serve a copy of it on the other party; and
+(b) the court may make the attachment order even though the other party has not had the opportunity to make representations to the court about the application.
+(3) If an attachment order is made, it must be served on the employer to whom the order relates, the judgment creditor, and the judgment debtor.
+(4) Except as otherwise ordered by the court, an attachment order takes effect when a copy of the order is served on the employer.
+(5) The jurisdiction of the court under this section may be exercised by the Registrar.

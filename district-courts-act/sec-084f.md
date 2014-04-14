@@ -1,5 +1,6 @@
 # 84F Interpretation
 In sections 84G to 84M, unless the context otherwise requires,—
+earnings period has the meaning given by section 84H
 employer, in relation to a judgment debtor, includes,—
 (a) a person by whom a retiring allowance or pension or other payment of a similar nature is payable to the judgment debtor:
 (b) the Accident Compensation Corporation in respect of weekly compensation payable to the judgment debtor under the Injury Prevention, Rehabilitation, and Compensation Act 2001:

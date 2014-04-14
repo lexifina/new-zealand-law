@@ -1,8 +1,7 @@
-# 84B Order for examination of judgment debtor
-(1) Whether or not a notice has been served pursuant to section 84A, any person who has obtained a judgment or order for the payment of a sum of money may apply to the court ex parte for an order that the judgment debtor or, if the judgment debtor is a corporation, an officer of the judgment debtor, do attend before the court and be orally examined as to the judgment debtor's income, expenditure, assets, liabilities, and generally as to the judgment debtor's means for satisfying the judgment debt.
-(2) Whether or not a notice has been served pursuant to section 84A, any judgment debtor may apply to the court ex parte for an order under subsection (1).
-(3) Upon granting the application, the court may order the production at the examination of any books or other documents, and may impose such terms and conditions as it shall think proper in respect of the conduct of the examination or otherwise.
-(4) Where the order has been made on the application of the judgment creditor, a copy of the order in the prescribed form shall be served personally upon the judgment debtor at least 3 days before the date of the examination, and, if requested by the judgment debtor, the person effecting the service shall at the time of service pay or tender to the judgment debtor the travel expenses estimated to be payable under the Witnesses and Interpreters Fees Regulations 1974.
-(5) Where the order has been made on the application of the judgment debtor, a copy of the order in the prescribed form shall be served personally upon the judgment creditor at least 3 days before the date of the examination.
-(6) The jurisdiction of the District Court under this section may be exercised by the Registrar.
-Compare: 1908 No 89 Schedule 2 r 621; SR 1981/259 r 236
+# 84B Notice to complete financial statement
+(1) If a judgment creditor serves a notice to complete a financial statement on the judgment debtor, the judgment debtor must, within 14 days after the date of service,—
+(a) complete a financial statement; and
+(b) return it to the judgment creditor.
+(2) The notice to complete a financial statement must be—
+(a) in a form approved by the chief executive of the Ministry of Justice; and
+(b) accompanied by 2 copies of the approved form for a financial statement (1 for the judgment debtor to complete and return, the other for the judgment debtor's use).

@@ -1,20 +1,13 @@
 # 84O Contempt procedures
-(1) Where—
-(a) a judgment debtor has been examined under section 84B; and
-(b) the court is satisfied beyond reasonable doubt that—
-(i) the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; and
-(ii) all other methods of enforcing the judgment have been considered or tried and are inappropriate or unsuccessful,—
-the court may, on the application of the judgment creditor, order the respondent to do community work for a number of hours, not exceeding 200 hours, as the court thinks fit.
-(2) Every application under subsection (1) shall be supported by an affidavit setting out the details of the judgment debtor's alleged disobedience.
-(3) A copy of the application and affidavit referred to in subsection (2) shall be served on the judgment debtor.
-(4) If a copy of that application and affidavit cannot be served on the judgment debtor, or if the judgment debtor fails to appear at the hearing of the application, the Judge may issue a warrant to arrest the judgment debtor and bring the judgment debtor before the court as soon as possible.
-(5) A warrant under subsection (4) shall cease to have effect if the judgment debtor pays, or causes to be paid, the amount due under the judgment debt.
-(6) Where a judgment debtor is arrested under a warrant issued under subsection (4), the following provisions shall apply:
-(a) the judgment debtor shall be bailable as of right:
-(b) section 46 of the Summary Proceedings Act 1957 and Parts 1 to 3 of the Bail Act 2000 shall apply, with such modifications as may be necessary, as if the application under subsection (1) was the hearing of a charge:
-(c) if the judgment debtor cannot practicably be brought immediately before a Judge or a Registrar, any constable or any bailiff may take the bail bond of the judgment debtor, and Parts 1 to 3 of the Bail Act 2000 apply with any necessary modifications as if the bail bond were taken by a constable under section 21(1) of that Act.
-(7) An order made under subsection (1) shall have effect as if the judgment debtor, following conviction on an information, had been sentenced to community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, shall apply accordingly.
-(8) Where a District Court, acting under this section, orders a respondent to do community work, the judgment debtor shall have the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court on an information.
-(9) Detention pursuant to this section shall not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.
-(10) Section 30 of the Sentencing Act 2002 applies in relation to this section as if the District Court were imposing a sentence of imprisonment.
-Compare: 1980 No 94 s 130
+(1) No order may be made under subsection (3) unless any of the circumstances described in subsection (2) apply and the court is satisfied beyond reasonable doubt that—
+(a) the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; and
+(b) all other methods of enforcing the judgment have been considered or tried and are inappropriate or unsuccessful.
+(2) The circumstances referred to in subsection (1) are as follows:
+(a) a financial statement has been filed in court:
+(b) the court has been provided with information about the judgment debtor's means for satisfying the judgment debt under section 84C:
+(c) a hearing under section 84D or a financial assessment hearing has taken place.
+(3) The court may, on the application of a judgment creditor, order the judgment debtor to do community work, not exceeding 200 hours, as the court thinks fit.
+(4) Alternatively, the court may impose any of the orders referred to in section 79(1), (3), or (4) or do any of the things referred to in section 84EC(2) instead of or in addition to ordering the judgment debtor to do community work under subsection (3).
+(5) An order made under subsection (3) has effect as if it were a sentence of community work, and the relevant provisions of Part 2 of the Sentencing Act 2002, with any necessary modifications, apply accordingly.
+(6) If a District Court, acting under this section, orders a respondent to do community work, the judgment debtor has the same right of appeal to the High Court against the order as the judgment debtor would have had if the judgment debtor had been convicted and sentenced by the District Court before a Judge alone in relation to a charge.
+(7) An order made under subsection (3) does not operate to extinguish or affect the liability of the judgment debtor to pay the judgment debt.

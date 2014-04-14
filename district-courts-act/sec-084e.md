@@ -1,11 +1,11 @@
-# 84E Orders by court
-(1) Upon completion of an examination under section 84B, the District Court may, after giving the judgment creditor and judgment debtor an opportunity to be heard, do any 1 or more of the following:
-(a) direct that 1 or more of the proceedings referred to in section 79(1) be commenced or continued, as the case may be, and also direct any steps to be taken in such proceedings, and, for any such purpose, issue any warrant or summons or make any order:
-(b) make an order that the money owing under the judgment be paid by such instalments payable at such times as the court may fix:
-(c) stay any proceedings for the enforcement of the judgment:
-(d) make an order varying any order relating to the enforcement of the judgment made under this Act.
-(2) The court may do any 1 or more of the things referred to in subsection (1) as it considers appropriate, notwithstanding—
-(a) that no application was made for the direction, order, or stay in question; or
-(b) that application was made for a different direction, order, or stay.
-(3) The jurisdiction of the District Court under this section may be exercised by the Registrar.
-Compare: 1980 No 94 s 129
+# 84E Application for financial assessment hearing
+(1) This section applies if a judgment creditor applies, in a form approved by the chief executive of the Ministry of Justice, for a hearing (a financial assessment hearing) for the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor to be questioned about the judgment debtor's means for satisfying the judgment debt.
+(2) The court must issue a summons, in a form approved by the chief executive of the Ministry of Justice, requiring the judgment debtor or an officer of the judgment debtor to attend the hearing.
+(3) The court may also—
+(a) order any of the judgment debtor's books or other documents to be produced at the hearing:
+(b) order that the hearing be held at a place other than in a court:
+(c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
+(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(b).
+(5) The hearing must not be held until at least 3 working days or any shorter period agreed by the parties has passed after the date on which the summons was served.
+(6) The court may cancel a hearing at the request of the judgment creditor.
+(7) The jurisdiction of the court under this section may be exercised by the Registrar.
