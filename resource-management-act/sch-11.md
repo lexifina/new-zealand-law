@@ -2,6 +2,7 @@
 ss 95E, 274
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
 Maraeroa A and B Blocks Claims Settlement Act 2012
+Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
 Ngāi Tahu Claims Settlement Act 1998
 Ngai Tāmanuhiri Claims Settlement Act 2012
@@ -13,6 +14,8 @@ Ngāti Manuhiri Claims Settlement Act 2012
 Ngāti Mutunga Claims Settlement Act 2006
 Ngāti Pāhauwera Treaty Claims Settlement Act 2012
 Ngati Porou Claims Settlement Act 2012
+Ngāti Rangiteaorere Claims Settlement Act 2014
+Ngāti Rangiwewehi Claims Settlement Act 2014
 Ngati Ruanui Claims Settlement Act 2003
 Ngati Tama Claims Settlement Act 2003
 Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
@@ -23,6 +26,7 @@ Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement A
 Pouakani Claims Settlement Act 2000
 Raukawa Claims Settlement Act 2014
 Rongowhakaata Claims Settlement Act 2012
+Tapuika Claims Settlement Act 2014
 Te Arawa Lakes Settlement Act 2006
 Te Roroa Claims Settlement Act 2008
 Te Uri o Hau Claims Settlement Act 2002
