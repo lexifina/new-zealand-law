@@ -35,7 +35,7 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (4) At a meeting of shareholders a poll may be demanded by—
 (a) not less than 5 shareholders having the right to vote at the meeting; or
 (b) a shareholder or shareholders representing not less than 10% of the total voting rights of all shareholders having the right to vote at the meeting; or
-(c) by a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
+(c) a shareholder or shareholders holding shares in the company that confer a right to vote at the meeting and on which the aggregate amount paid up is not less than 10% of the total amount paid up on all shares that confer that right; or
 (d) the chairperson of the meeting.
 (5) A poll may be demanded either before or after the vote is taken on a resolution.
 (6) If a poll is taken, votes must be counted according to the votes attached to the shares of each shareholder present in person or by proxy and voting.
