@@ -1,0 +1,5 @@
+# 7B Relationship of section 7A with rest of Act
+(1) For the purposes of this Act, except as described in this section, gas (other than non-reticulated gas) and electricity are not to be treated as being goods, and the supply of gas or electricity by retailers is not to be treated as the supply of a service.
+(2) If the supply of gas or electricity fails to comply with the guarantee of acceptable quality in section 7A, in order that Part 2 may apply to give consumers a right of redress against gas retailers and electricity retailers, that Part must be applied as if gas and electricity were goods, and as if gas retailers and electricity retailers were the suppliers of those goods.
+(3) For the purpose of applying the provisions of Part 5 to the supply of gas and electricity to consumers, that Part must be applied as if gas and electricity were goods, and as if gas retailers and electricity retailers were the suppliers of those goods.
+(4) To avoid doubt, the guarantee provided by section 7A is the only guarantee provided under this Act that relates to the supply of gas (other than non-reticulated gas) or electricity by gas retailers and electricity retailers.
