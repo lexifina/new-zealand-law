@@ -1,7 +1,8 @@
 # 45D Audit report
 (1) A department must forward to the Auditor-General—
-(a) its annual financial statements, statement of service performance, and any other information that the Auditor-General has agreed, or is required, to audit within 2 months after the end of each financial year; and
+(a) its annual financial statements, statements of expenses and capital expenditure, and any other information that the Auditor-General has agreed, or is required, to audit within 2 months after the end of each financial year; and
 (b) its annual report in a timely manner to enable the Auditor-General to review that report before providing the audit report required under subsection (2)(b).
+(1A) The department or departmental agency most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year must, within 2 months after the end of that financial year, forward that information to the Auditor-General.
 (2) The Auditor-General must—
-(a) audit the statements referred to in subsection (1)(a); and
-(b) provide an audit report on them to the department within 3 months after the end of each financial year.
+(a) audit the statements referred to in subsection (1)(a) and the information referred to in subsections (1)(a) and (1A); and
+(b) provide an audit report on them to the department or departmental agency (as the case may be) within 3 months after the end of each financial year.

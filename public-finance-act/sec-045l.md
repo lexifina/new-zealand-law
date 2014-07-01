@@ -4,7 +4,7 @@
 (b) that entity's operations are transferred to 1 or more entities; and
 (c) those operations are, at the time of the transfer, to be carried out on substantially the same terms by the entity to whom they are transferred.
 (2) The Minister may exempt the entity from whom operations are transferred from the requirement to include in its final report—
-(a) a statement of service performance; and
+(a) a statement of performance; and
 (b) a full report on its operations.
 (3) The Minister may grant an exemption under subsection (2)—
 (a) on the condition that—

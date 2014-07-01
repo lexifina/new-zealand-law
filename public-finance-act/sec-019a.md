@@ -1,0 +1,9 @@
+# 19A Provision of end-of-year performance information other than by Ministers
+(1) This section applies to the department, departmental agency, Office of Parliament, or Crown entity (performance reporter) most recently identified in the supporting information for an Appropriation Act as providing end-of-year performance information on an appropriation for a financial year.
+(2) As soon as practicable after the end of each financial year, the performance reporter must prepare the information that is required by section 19C.
+(3) Not later than 15 working days after the performance reporter receives an audit report on the information under section 45D of this Act or section 156 of the Crown Entities Act 2004 (as applicable),—
+(a) the performance reporter must, unless the performance reporter is the appropriation administrator, provide the information and the audit report to the appropriation administrator; and
+(b) the appropriation administrator must provide the information and the audit report to the appropriation Minister; and
+(c) the appropriation Minister must ensure that the information and the audit report are presented to the House of Representatives in the document most recently specified for that purpose in the supporting information for an Appropriation Act.
+(4) If Parliament is not in session, subsection (3)(c) does not apply, but the appropriation Minister must ensure that, as soon as possible after the commencement of the next session of Parliament, the information and the audit report are presented to the House of Representatives in the document most recently specified for that purpose in the supporting information for an Appropriation Act.
+(5) The performance reporter must ensure that the information is published as soon as practicable after the information is presented to the House of Representatives, or, if subsection (4) applies, not later than 15 working days after receiving the audit report.
