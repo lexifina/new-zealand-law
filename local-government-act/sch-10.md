@@ -11,21 +11,25 @@ Information to be included in long-term plans
 6 Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans
 7 Council-controlled organisations
 8 Development of Māori capacity to contribute to decision-making processes
-9 Financial strategy
+9 Financial strategy and infrastructure strategy
 10 Revenue and financing policy
-11 Determining significance
+11 Significance and engagement policy
 12 Forecast financial statements
 13 Financial statements for previous year
 14 Statement concerning balancing of budget
 15 Funding impact statement
+15A Rating base information
 16 Reserve funds
 17 Significant forecasting assumptions
+17A Additional information to be included in long-term plan for unitary authority with local boards
 Part 2
 Information to be included in annual plan
 18 Forecast financial statements
 19 Financial statements for previous year
 20 Funding impact statement
+20A Rating base information
 21 Reserve funds
+21A Additional information to be included in annual plan for unitary authority with local boards
 22 Annual plan and amendment of long-term plan
 Part 3
 Information to be included in annual reports
@@ -37,11 +41,14 @@ Information to be included in annual reports
 28 Council-controlled organisations
 29 Financial statements
 30 Funding impact statement
+30A Rating base information
 31 Reserve funds
+31A Insurance of assets
 32 Remuneration issues
 32A Employee staffing levels and remuneration
 33 Severance payments
 34 Statement of compliance
+34A Additional information to be included in annual report of unitary authority with local boards
 35 General
 Part 4
 Information to be included in pre-election report
@@ -71,7 +78,7 @@ A long-term plan must, to the extent determined appropriate by the local authori
 (a) meet additional demand for an activity; and
 (b) improve the level of service; and
 (c) replace existing assets.
-(2) For the purpose of this clause, capital expenditure budgeted for 2 or all of the purposes in subclause (1) must be treated as if it were made solely in relation to the primary purpose of the expenditure.
+(2) For the purpose of this clause, capital expenditure budgeted for 2 or all of the purposes in subclause (1) may be treated as if it were made solely in relation to the primary purpose of the expenditure.
 4 Statement of service provision
 A long-term plan must, in relation to each group of activities of the local authority, include a statement of the intended levels of service provision that specifies—
 (a) any performance measures specified in a rule made under section 261B for a group of activities described in clause 2(2); and
@@ -98,12 +105,14 @@ A long-term plan must, in relation to each council-controlled organisation,—
 (iii) the key performance targets and other measures by which performance is to be judged.
 8 Development of Māori capacity to contribute to decision-making processes
 A long-term plan must set out any steps that the local authority intends to take, having undertaken the consideration required by section 81(1)(b), to foster the development of Māori capacity to contribute to the decision-making processes of the local authority over the period covered by that plan.
-9 Financial strategy
-A long-term plan must include a local authority's financial strategy adopted under section 101A.
+9 Financial strategy and infrastructure strategy
+A long-term plan must include a local authority's financial strategy described under section 101A and infrastructure strategy described under section 101B.
 10 Revenue and financing policy
-A long-term plan must include a local authority's revenue and financing policy adopted under section 102(1).
-11 Determining significance
-A long-term plan must contain a summary of the local authority's policy on determining significance under the Act.
+A long-term plan must include a local authority's revenue and financing policy already adopted under section 102(1).
+11 Significance and engagement policy
+A long-term plan must contain—
+(a) a summary (or other description) of the local authority's significance and engagement policy under section 76AA; and
+(b) a reference to where the full policy can be found, which may be done by providing a link to the relevant document on an Internet site maintained by or on behalf of the local authority.
 12 Forecast financial statements
 (1) A long-term plan must include, for each of the financial years covered by the plan, forecast financial statements for the local authority.
 (2) A long-term plan may include, for each of the financial years covered by the plan, or for any of those years, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.
@@ -140,6 +149,8 @@ If the local authority has resolved, under section 100(2), not to balance its op
 (6) If the same source of funding is to be used in more than 1 of the years covered by the long-term plan, in order to comply with subclauses (2)(a), (3), and (4) with respect to that source, it is sufficient—
 (a) to comply with those subclauses in relation to 1 of those years; and
 (b) for the funding impact statement to specify the other years in respect of which that source is to be used.
+15A Rating base information
+A long-term plan must state, for each year covered by the plan, the projected number of rating units within the district or region of the local authority at the end of the preceding financial year.
 16 Reserve funds
 A long-term plan must identify each reserve fund set aside by the local authority and, in relation to each fund, specify—
 (a) the purpose of the fund; and
@@ -153,11 +164,17 @@ A long-term plan must identify each reserve fund set aside by the local authorit
 A long-term plan must clearly identify—
 (a) all the significant forecasting assumptions and risks underlying the financial estimates:
 (b) without limiting the generality of paragraph (a), the following assumptions on which the financial estimates are based:
-(i) the assumptions of the local authority concerning the useful life of significant assets; and
+(i) the assumptions of the local authority concerning the life cycle of significant assets; and
 (ii) the assumptions of the local authority concerning sources of funds for the future replacement of significant assets:
 (c) in any case where significant forecasting assumptions involve a high level of uncertainty,—
 (i) the fact of that uncertainty; and
 (ii) an estimate of the potential effects of that uncertainty on the financial estimates provided.
+17A Additional information to be included in long-term plan for unitary authority with local boards
+In the case of a unitary authority for a district that includes 1 or more local board areas, a long-term plan must also—
+(a) identify the non-regulatory activities of the unitary authority for which decision-making responsibility is allocated to 1 or more local boards under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009:
+(b) group the activities to which paragraph (a) relates separately from any other activity or group of activities of the unitary authority (there may be 1 or more groups, but each group of activities specified in clause 2(2) must be separately identified):
+(c) include the estimated local board funding allocation for each local board for each year to which the long-term plan relates:
+(d) include the local board agreement for each local board area for the first year to which the long-term plan relates.
 Part 2
 Information to be included in annual plan
 18 Forecast financial statements
@@ -189,6 +206,11 @@ Information to be included in annual plan
 (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
 (e) state whether lump sum contributions will be invited in respect of the targeted rate.
 (5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
+20A Rating base information
+An annual plan must state—
+(a) the projected number of rating units within the district or region of the local authority at the end of the preceding financial year:
+(b) the projected total capital value of rating units within the district or region of the local authority at the end of the preceding financial year:
+(c) the projected total land value of rating units within the district or region of the local authority at the end of the preceding financial year.
 21 Reserve funds
 An annual plan must, for the year to which the plan relates, identify each reserve fund set aside by the local authority and, in relation to each fund, specify—
 (a) the purpose of the fund; and
@@ -198,6 +220,11 @@ An annual plan must, for the year to which the plan relates, identify each reser
 (ii) the end of the year; and
 (d) the amount expected to be deposited in the fund during that year; and
 (e) the amount expected to be withdrawn from the fund during that year.
+21A Additional information to be included in annual plan for unitary authority with local boards
+In the case of a unitary authority for a district that includes 1 or more local board areas, an annual plan must also, for the year to which the plan relates,—
+(a) identify the non-regulatory activities of the unitary authority for which decision-making responsibility is allocated to 1 or more local boards under section 48L or section 17 of the Local Government (Auckland Council) Act 2009:
+(b) include the estimated local board funding allocation for each local board:
+(c) include the local board agreement for each local board area.
 22 Annual plan and amendment of long-term plan
 To avoid doubt, a local authority may prepare and adopt the annual plan at the same time as it amends the long-term plan.
 Part 3
@@ -214,7 +241,7 @@ An annual report must, in relation to each group of activities of the local auth
 (a) meet additional demand for a group of activities; and
 (b) improve the level of performance in relation to a group of activities; and
 (c) replace existing assets.
-(3) For the purpose of this clause, capital expenditure budgeted for 2 or all of the purposes in subclause (2) must be treated as if it were made solely in relation to the primary purpose of the expenditure.
+(3) For the purpose of this clause, capital expenditure budgeted for 2 or all of the purposes in subclause (2) may be treated as if it were made solely in relation to the primary purpose of the expenditure.
 25 Statement of service provision
 An annual report must include an audited statement that—
 (a) compares the level of service achieved in relation to a group of activities with the performance target or targets for the group of activities; and
@@ -253,6 +280,11 @@ An annual report must include, in relation to each council-controlled organisati
 (ii) how the funds were applied; and
 (b) compare the information in paragraph (a) with information included in the annual plan in accordance with clause 20(2).
 (3) The annual report must include the information in subclause (2) for the financial year before the year to which the report relates.
+30A Rating base information
+The annual report must state—
+(a) the number of rating units within the district or region of the local authority at the end of the preceding financial year:
+(b) the total capital value of rating units within the district or region of the local authority at the end of the preceding financial year:
+(c) the total land value of rating units within the district or region of the local authority at the end of the preceding financial year.
 31 Reserve funds
 An annual report must identify each reserve fund set aside by the local authority and, in relation to each fund, specify for the financial year—
 (a) the purpose of the fund; and
@@ -260,6 +292,11 @@ An annual report must identify each reserve fund set aside by the local authorit
 (c) the amounts in the fund at the beginning and end of the financial year; and
 (d) the total amount deposited in the fund; and
 (e) the total amount withdrawn from the fund.
+31A Insurance of assets
+An annual report must state, as at the end of the financial year,—
+(a) the total value of all assets of the local authority that are covered by insurance contracts, and the maximum amount to which they are insured; and
+(b) the total value of all assets of the local authority that are covered by financial risk sharing arrangements, and the maximum amount available to the local authority under those arrangements; and
+(c) the total value of all assets of the local authority that are self-insured, and the value of any fund maintained by the local authority for that purpose.
 32 Remuneration issues
 (1) An annual report must include a report on the remuneration that, in the year to which the report relates, was received by, or payable to, each of the following persons:
 (a) the mayor or chairperson of the local authority:
@@ -295,6 +332,13 @@ An annual report must identify each reserve fund set aside by the local authorit
 (2) The statement must be signed—
 (a) by the mayor or chairperson of the local authority; and
 (b) by the chief executive of the local authority.
+34A Additional information to be included in annual report of unitary authority with local boards
+(1) In the case of a unitary authority for a district that includes 1 or more local board areas, an annual report must also include, in respect of local activities for each local board area, an audited statement that—
+(a) compares the level of service achieved in relation to the activities with the performance target or targets for the activities (as stated in the local board agreement for that year); and
+(b) specifies whether any intended changes to the level of service have been achieved; and
+(c) gives the reasons for any significant variation between the level of service achieved and the intended level of service.
+(2) Each local board must comment on the matters included in the annual report under subclause (1) in respect of its local board area, and the unitary authority must include those comments in the annual report.
+(3) In this clause, local activities or activities means the non-regulatory activities of the unitary authority in respect of which a local board is allocated decision-making responsibility under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009.
 35 General
 An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority.
 Part 4

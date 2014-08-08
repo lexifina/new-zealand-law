@@ -58,6 +58,7 @@ Subpart 1—Preparation of reorganisation schemes
 41 Preparation of reorganisation scheme
 Subpart 2—Contents of and provisions that apply to reorganisation schemes
 42 Provisions for inclusion in reorganisation schemes
+42A Content of reorganisation schemes in respect of local boards
 43 Provisions to be included if necessary or desirable
 Subpart 3—Implementation and effect of reorganisations
 44 Application
@@ -104,12 +105,14 @@ In this schedule, unless the context otherwise requires,—
 affected area, in relation to a reorganisation application, draft proposal, or final proposal, means—
 (a) an area that would be included in the district or region of a new or different local authority if local government in relation to the area were to be reorganised in accordance with the reorganisation application, draft proposal, or final proposal:
 (b) an area that remains in the district or region of a local authority, but the local authority's responsibilities would be changed if local government in relation to the area were to be reorganised in accordance with the reorganisation application, draft proposal, or final proposal:
-(c) an area of the district or region of a local authority, if the Commission has declared it to be an affected area because the operational scale, scope, or capability of the local authority would be materially affected if local government in relation to the area were to be reorganised
+(c) the area comprising the whole district or region of an affected local authority if the Commission has declared it to be an affected area because the operational scale, scope, or capability of the local authority would be materially affected if local government were to be reorganised in accordance with the reorganisation application, draft proposal, or final proposal:
+(d) in the case of a local board reorganisation application, or a draft proposal or final proposal resulting from such an application, the area comprising the whole district of the affected unitary authority
 affected elector means—
 (a) a person who is a residential elector (within the meaning of section 23 of the Local Electoral Act 2001), if the address in respect of which the person is registered is in an affected area:
 (b) a person who is a ratepayer elector (within the meaning of section 24 of the Local Electoral Act 2001), if the person is qualified as a ratepayer elector in respect of a rating unit in an affected area
 applicant means the person making a reorganisation application
 implementation date means the date specified in an Order in Council made under section 25(1)(b) as the date on which the local government reorganisation described in the final proposal takes effect
+local board reorganisation application means a reorganisation application that does not propose changes other than 1 or more of the changes described in section 24(1)(g) to (k) within the district of a unitary authority
 public notice, in relation to a notice of a reorganisation application, draft proposal, or final proposal given by the Commission,—
 (a) means a notice published—
 (i) in 1 or more newspapers circulating in the affected area; and
@@ -127,7 +130,7 @@ Subpart 1—Making reorganisation applications
 4 Prohibition on making certain reorganisation applications
 No person may make a reorganisation application if—
 (a) the application relates to a local authority that has been the subject of local government reorganisation; and
-(b) the application, if it were made, would have been made during a period specified by the Commission under clause 21.
+(b) the application relates to a matter specified in section 24 in respect of which the Commission has specified a period under clause 21 and that period has not ended.
 5 Contents of reorganisation application
 (1) A reorganisation application must include the following:
 (a) the name and address of the person making the application; and
@@ -193,9 +196,14 @@ The Commission may decline to assess a reorganisation application on 1 or more o
 (d) invite persons, bodies, and groups to submit, by a date specified in the notice, alternative applications in relation to the affected area; and
 (e) indicate that any alternative applications received after the date specified under paragraph (d) may be declined.
 (3) The date specified by the Commission under subclause (2)(d) for the receipt of alternative applications must not be earlier than 20 working days after the last notice given under subclause (1).
+(4) In the case of a local board reorganisation application, the Commission—
+(a) must give notice under subclause (1) to any community boards and local boards within the district of the affected local authority; and
+(b) must, in every notice under subclause (1), outline the limitation on the scope of alternative applications set out in clause 10(2); but
+(c) is not required to give notice under subclause (1)(b)(ii).
 10 Alternative applications
 (1) An alternative application must comply with clause 5 as if it were a reorganisation application.
 (2) However, an alternative application is not required to comply with clause 5(1)(f) in relation to a district of a territorial authority in which community support has been demonstrated in the reorganisation application received under clause 3.
+(3) In the case of a local board reorganisation application, an alternative application may not propose the abolition or union of the affected local authority, or any changes to the boundaries or functions of that local authority.
 11 Commission to determine preferred option
 (1) As soon as practicable after the deadline for the receipt of alternative applications, the Commission must, in accordance with this clause, determine its preferred option for local government of the affected area.
 (2) The Commission must first identify the reasonably practicable options for local government of the affected area.
@@ -221,17 +229,31 @@ The Commission may decline to assess a reorganisation application on 1 or more o
 (b) the area of benefit of services provided; and
 (c) the likely effects on a local authority of the exclusion of any area from its district or region; and
 (d) any other matters that it considers appropriate.
+(6A) If the application made under clause 3 is a local board reorganisation application,—
+(a) subclauses (5) and (6) do not apply; and
+(b) the reasonably practicable options must not include any proposed change to the boundaries or functions of the affected local authority; and
+(c) the Commission must be satisfied that the governance arrangements proposed under a reasonably practicable option will—
+(i) enable democratic local decision making by, and on behalf of, communities throughout the affected area; and
+(ii) provide fair and effective representation for individuals and communities throughout the affected area; and
+(iii) enable equitable provision to be made for the current and future well-being of all the communities within the affected area.
 (7) In deciding whether any proposed changes are reasonably practicable, the Commission may—
 (a) request further information from applicants and affected local authorities; and
 (b) undertake any investigations and make any inquiries that the Commission considers appropriate.
-(8) If the Commission identifies 2 or more reasonably practicable options, the Commission must determine, having regard to the criteria in clause 12, its preferred option, being the option that best promotes good local government.
+(8) If the Commission identifies 2 or more reasonably practicable options, the Commission must determine its preferred option, having regard to—
+(a) the criteria in clause 12(2), if subclause (6A) applies; or
+(b) the criteria in clause 12(1) in any other case.
 12 Promotion of good local government
-For the purposes of clause 11(8), the Commission must be satisfied that its preferred option—
+(1) For the purposes of clause 11(8), the Commission must be satisfied that its preferred option—
 (a) will best promote, in the affected area, the purpose of local government as specified in section 10; and
 (b) will facilitate, in the affected area, improved economic performance, which may (without limitation) include—
 (i) efficiencies and cost savings; and
 (ii) productivity improvements, both within the local authorities and for the businesses and households that interact with those local authorities; and
 (iii) simplified planning processes within and across the affected area through, for example, the integration of statutory plans or a reduction in the number of plans to be prepared or approved by a local authority.
+(2) For the purposes of clause 11(8)(a), the Commission must be satisfied that its preferred option—
+(a) will best promote, in the affected area, the purpose of local government as specified in section 10; and
+(b) will best promote the interests of the communities in the district in terms of—
+(i) the benefits to all communities of a consistent or co-ordinated approach in the district; and
+(ii) the benefits to particular communities of reflecting the particular needs and preferences of each community.
 13 Procedure after preferred option determined
 (1) After determining the preferred option under clause 11, the Commission must—
 (a) give notice of its determination and the reasons for it to—
@@ -252,6 +274,7 @@ Subpart 1—Preparation of proposals
 (ii) the representation arrangements of the local authority; and
 (iii) the extent to which the areas of interest of iwi and hapū are included in the district or region; and
 (iv) any communities and any community boards of the local authority; and
+(v) the statutory obligations of the local authority; and
 (d) any other matters the Commission considers necessary or desirable.
 (3) A draft proposal must describe, for each local authority proposed to be established,—
 (a) the type of local authority; and
@@ -259,6 +282,7 @@ Subpart 1—Preparation of proposals
 (c) the boundaries of the district or region; and
 (d) the representation arrangements of the local authority; and
 (e) the names and areas of interest of iwi and hapū in the district or region; and
+(ea) any local board areas and any local boards of the local authority; and
 (f) any communities and any community boards of the local authority; and
 (g) any other matters the Commission considers necessary or desirable.
 (4) However, the Commission may decide, if it considers it more appropriate to do so, to defer including in a draft proposal the representation arrangements or community board arrangements, or both, and include them in the reorganisation scheme.
@@ -270,32 +294,27 @@ Subpart 1—Preparation of proposals
 (6) In preparing a draft proposal, the Commission may require a local authority affected by the proposal to provide information to assist the Commission to prepare the proposal.
 (7) In preparing a draft proposal, the Commission may undertake inquiries and consultations in relation to the draft proposal with any persons, bodies, and groups it considers appropriate.
 15 Local boards
-(1) This clause applies if—
-(a) the Commission has determined, under clause 11, that the preferred option for local government of an area is a unitary authority; and
-(b) the area—
-(i) will be urban or predominantly urban in nature; and
-(ii) has, or is predicted to have within a period of 5 years after public notice of the draft proposal, a population that exceeds 400 000.
-(2) In preparing a draft proposal in relation to the affected area, the Commission may include provisions for local boards if it considers that good local government of the district of the unitary authority would be best promoted by providing for local boards.
-(3) Provisions for local boards must be consistent with sections 7, 10 to 32B, 97 to 99, 102, and 105 of the Local Government (Auckland Council) Act 2009, and those sections apply in relation to the proposed unitary authority as if—
-(a) every reference to the Council or Auckland Council were a reference to the unitary authority; and
-(b) every reference to Auckland were a reference to the district of the unitary authority.
+(1) This clause applies if the Commission has determined, under clause 11, that the preferred option for local government of an area is a unitary authority.
+(2) In preparing a draft proposal in relation to the affected area, the Commission may include provisions for 1 or more local boards if it considers that good local government of the district of the unitary authority would be best promoted by providing for local boards in all or part of the district.
+(3) Provisions for local boards must be consistent with subpart 1A of Part 4 of this Act.
 (4) A draft proposal must, in addition to the matters specified in clause 14, specify—
 (a) the number and names of local board areas within the district; and
 (b) the boundaries of—
 (i) each local board area; and
 (ii) electoral subdivisions, if any, of each local board area; and
-(c) the number of elected members of the local board for each local board area and, if a local board area is subdivided for electoral purposes, the number of members to be elected by the electors of each subdivision.
-(5) In determining the matters referred to in subclause (4)(a), (b), or (c), the Commission must ensure that—
-(a) there are no fewer than 4 and no more than 9 members for each local board; and
-(b) so far as is practicable, the boundaries of local board areas, and any electoral subdivisions, and the number of members to be elected, provide effective representation of communities of interest within the district; and
-(c) the subdivision of any local board area for electoral purposes provides fair representation for the electors of the local board area; and
-(d) the local board area boundaries, or subdivisions of those areas for electoral purposes, coincide with boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
-(e) so far as is practicable, local board area boundaries coincide with ward boundaries.
-(6) For the purpose of giving effect to subclause (5)(c), the Commission must ensure that the population of each subdivision divided by the number of members to be elected by the subdivision produces a figure no more than 10% greater or smaller than the population of the local board area divided by the total number of elected members of the local board.
-(7) However, if the Commission considers that effective representation of communities of interest so requires, subdivisions may be defined, and membership distributed between them, in a way that does not comply with subclause (6).
-(8) Clause 14(4) does not apply to a draft proposal under subclause (2).
-(9) To avoid doubt, clauses 14(3)(f) and 19 do not apply to a draft proposal under subclause (2).
-(10) A reorganisation scheme in respect of a final proposal to which subclause (2) applies must, in addition to the matters specified in section 30, make an initial allocation of decision-making responsibility for the non-regulatory activities of the unitary authority between the authority's governing body and its local boards in accordance with section 17 of the Local Government (Auckland Council) Act 2009 as applied by subclause (3).
+(c) the number of elected members of the local board for each local board area and, if a local board area is subdivided for electoral purposes, the number of members to be elected by the electors of each subdivision; and
+(d) whether each local board may include members appointed by the governing body of the unitary authority in accordance with section 48E(b); and
+(e) for each local board, whether the chairperson of the local board is to be—
+(i) elected by the members of the local board from among themselves using one of the systems of voting set out in clause 25(3) and (4) of Schedule 7; or
+(ii) directly elected to that office by the electors of the local board area.
+(5) In determining the matters referred to in subclause (4)(a), (b), (c), or (d), the Commission must ensure that—
+(a) the boundaries of the local board areas will—
+(i) enable democratic local decision making by, and on behalf of, communities throughout the district; and
+(ii) enable equitable provision to be made for the current and future well-being of all communities within the affected area; and
+(b) the boundaries of local board areas and any subdivisions of those areas coincide with boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
+(c) so far as is practicable, local board area boundaries coincide with ward boundaries.
+(6) Clause 14(4) does not apply to a draft proposal under subclause (2).
+(7) To avoid doubt, clauses 14(3)(f) and 19 do not apply to any local board area included in a draft proposal under subclause (2).
 16 Cities
 A draft proposal may not provide that a territorial authority is to be called a city council unless the district of the territorial authority—
 (a) has a population of not less than 50 000 persons; and
@@ -334,7 +353,9 @@ When preparing a draft proposal or (if clause 14(4) applies) a reorganisation sc
 (vi) the Secretary for the Environment; and
 (vii) the chief executive of Te Puni Kōkiri; and
 (viii) the Commissioner of Inland Revenue; and
-(ix) any other chief executive of a department of State that may, in the opinion of the Commission, have an interest in or be affected by the proposal; and
+(ix) the chief executive of a department of State that—
+(A) is responsible for administering legislation that confers the statutory obligations referred to in clause 14(2)(c)(v); or
+(B) may, in the opinion of the Commission, have an interest in or be affected by the proposal; and
 (x) any affected iwi and Māori organisations identified by Te Puni Kōkiri; and
 (xi) each local authority whose district or region adjoins the district or region of an affected local authority; and
 (xii) any local boards, council-controlled organisations, and community boards of affected local authorities; and
@@ -362,7 +383,7 @@ When preparing a draft proposal or (if clause 14(4) applies) a reorganisation sc
 (v) the desirability of early certainty about local government organisation in the affected area.
 (3) The Commission must not issue a final proposal under subclause (1)(b) unless the Commission is satisfied that it has sufficient information about the views of the persons referred to in clause 20(1)(c).
 (4) A final proposal must comply with clauses 14(2), (3), (4), and (5)(a) and 16 to 19 as if references in those provisions to a draft proposal were references to a final proposal.
-(5) A final proposal may specify a period for the purpose of clause 4.
+(5) A final proposal may, for the purposes of clause 4, specify a period or periods in relation to any or all of the matters specified in section 24.
 (6) Before deciding to issue a final proposal, the Commission must be satisfied that the final proposal is likely to have demonstrable community support in the district of each affected territorial authority.
 (7) For the purposes of subclause (6), clause 8(2) and (3)(b) apply in relation to a final proposal.
 22 Notification of final proposal
@@ -590,12 +611,18 @@ Subpart 2—Contents of and provisions that apply to reorganisation schemes
 (c) may provide that 1 or more of the provisions of clauses 45 and 46—
 (i) apply to the scheme with modifications; or
 (ii) do not apply; and
-(d) may provide for the application, with the modifications that may be necessary or desirable, of any provisions of any Act for the time being in force that are considered appropriate to the particular matter; and
+(d) may provide for—
+(i) the application, with the modifications that may be necessary or desirable, of any provisions of any Act for the time being in force that are considered appropriate to the particular matter; and
+(ii) without limiting subparagraph (i), the exercise—
+(A) by a territorial authority of any statutory obligation conferred on regional councils by any Act; or
+(B) by a regional council of any statutory obligation conferred on territorial authorities by any Act; and
 (e) may make provision for any arrangements the Commission considers necessary or desirable for the purposes of the reorganisation; and
 (f) may incorporate any other matters that it considers necessary or appropriate to give effect to the proposal.
 (2) If the Commission has, under clause 14(4), deferred including representation arrangements or community board arrangements, or both, in a proposal, the Commission must include the representation arrangements or community board arrangements, or both, in the reorganisation scheme.
+42A Content of reorganisation schemes in respect of local boards
+Without limiting clause 42, a reorganisation scheme in respect of a final proposal to which clause 15(2) applies must make an initial allocation of decision-making responsibility for the non-regulatory activities of the unitary authority within each local board area between the authority's governing body and the local board in accordance with section 48L.
 43 Provisions to be included if necessary or desirable
-If considered necessary or desirable, the following provisions may be included in a reorganisation scheme:
+(1) If considered necessary or desirable, the following provisions may be included in a reorganisation scheme:
 (a) provisions necessary for the first or any election or appointment of members of a local authority or community board affected by the scheme:
 (b) provisions that are necessary for the effective transition and future carrying out of responsibilities that are to be transferred from one local authority to another local authority:
 (c) provisions dealing with the requirements and application of long-term plans, annual plans, and annual reports as provided for under this enactment:
@@ -605,7 +632,20 @@ If considered necessary or desirable, the following provisions may be included i
 (ii) the administration of any designations, resource consents, and notices of requirement under the Resource Management Act 1991, but subject to sections 81 to 180 of that Act:
 (f) if an area is included in the district of another territorial authority, provisions that the civil defence emergency management group plan for the district in which the area is included applies to the area so included and is the only operative local civil defence plan to apply in that area:
 (g) if a new district or region is constituted, provisions that every civil defence emergency management group plan that is in force in respect of any area included in that district or region continues in force until a new plan is prepared and approved for the district under the Civil Defence Emergency Management Act 2002:
-(h) provisions for committees for the first term of the new local authority and membership and responsibilities of those committees:
+(h) provisions requiring the establishment, by 1 or more affected local authorities, of a council-controlled organisation, which may specify—
+(i) the initial constitution of the council-controlled organisation; and
+(ii) the objectives and responsibilities of the council-controlled organisation; and
+(iii) the nature and content of any agreement under section 17A required between the council-controlled organisation and any affected local authority; and
+(iv) any other matter relating to the establishment of the council-controlled organisation that the Commission considers desirable:
+(ha) provisions for committees for the first term of an affected local authority, which may specify—
+(i) the initial membership of a committee; and
+(ii) the terms of reference of a committee; and
+(iii) any initial delegations to a committee:
+(hb) provisions for a joint committee of an affected local authority, with 1 or more other local authorities or other public bodies, which may specify—
+(i) the initial membership of the committee; and
+(ii) the terms of reference of the committee; and
+(iii) any initial delegations to the committee by the affected local authority; and
+(iv) any other matter relating to the appointment, operation, or responsibilities of the joint committee that the Commission considers desirable:
 (i) provisions dealing with the apportionment or disposition of the assets and liabilities of all or any of the local authorities affected by the scheme, which provisions may include the date on which any of the apportionment or disposition takes place or may be treated as having taken place:
 (j) provisions dealing with the transfer, in accordance with clause 49, of employees of the local authorities affected by the scheme:
 (k) provisions concerning rating in a new district or region, or enlarged district or region, which may—
@@ -614,6 +654,9 @@ If considered necessary or desirable, the following provisions may be included i
 (iii) specify the basis on which rates may be set and assessed within the district or region between the date the order takes effect and the date specified under subparagraph (i), which may include the use of different rating systems for specified rates, or for specified rates in different parts of the district or region; and
 (iv) make such other provision for the transition to, or implementation of, the single integrated rating system as the Commission considers desirable:
 (l) if a district or region is abolished and the whole or any part of it is included in the district or region of another local authority, provisions for the representation of the district or region being abolished or part of it on the other local authority until the next triennial general election of members of the other local authority.
+(2) The Commission must not include provision for a joint committee in a reorganisation scheme without the written agreement of—
+(a) every local authority, other than an affected local authority, that is to be a party to the joint committee; and
+(b) every other public body that is to be a party to the joint committee.
 Subpart 3—Implementation and effect of reorganisations
 44 Application
 (1) This subpart applies—

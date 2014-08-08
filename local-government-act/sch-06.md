@@ -3,6 +3,7 @@ ss 5(1), 8(2)(b), 49(1)
 1 Constitution of communities
 (1) A community may be constituted in any part of a district in accordance with this schedule and must be wholly within 1 district.
 (2) A community may not be constituted for any part of a district if a community is already constituted for that part of that district.
+(3) A community may not be constituted for any part of a district that is within a local board area.
 2 Matters pertaining to constitution of communities
 (1) An Order in Council or resolution constituting a community must—
 (a) fix the boundaries of the community and describe them in a manner that makes them readily capable of identification; and

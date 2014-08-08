@@ -4,4 +4,4 @@ In performing its role, a local authority must have particular regard to the con
 (b) public transport services:
 (c) solid waste collection and disposal:
 (d) the avoidance or mitigation of natural hazards:
-(e) libraries, museums, reserves, recreational facilities, and other community infrastructure.
+(e) libraries, museums, reserves, and other recreational facilities and community amenities.
