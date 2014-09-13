@@ -1,0 +1,2 @@
+# 175D Liability of Commissioner and others
+The Commissioner, an Assistant Commissioner, or any other person acting on behalf of the Commissioner is not personally liable for any act or omission done in good faith in the performance or intended performance of the Commissioner's functions, duties, or powers.
