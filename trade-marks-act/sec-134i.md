@@ -1,6 +1,6 @@
 # 134I Form and content of search warrant
 (1) Every search warrant issued must be in the prescribed form.
-(2) Every search warrant issued must be directed generally to every enforcement officer and every member of the Police.
+(2) Every search warrant issued must be directed generally to every enforcement officer and every constable.
 (3) A search warrant—
 (a) may be executed by any of the persons to whom it is directed:
 (b) may be subject to any conditions specified in the warrant that the issuing officer considers reasonable:

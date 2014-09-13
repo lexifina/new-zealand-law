@@ -11,5 +11,5 @@
 (3) If an enforcement officer enters and examines a place under section 134D(1)(c) and the occupier revokes his or her consent, the officer and any person assisting the enforcement officer must immediately stop the examination and leave the place.
 (4) Subsection (3) is subject to subsection (5).
 (5) The enforcement officer may, before leaving the place, seize any thing already identified by him or her before the revocation of consent as a thing that he or she has reasonable grounds to believe is evidence of, or of significant relevance to the investigation of, an offence under this Act.
-(6) If a member of the Police assists an enforcement officer, nothing in this section prevents that member of the Police from exercising any power ordinarily exercisable by him or her.
+(6) If a constable assists an enforcement officer, nothing in this section prevents that constable from exercising any power ordinarily exercisable by him or her.
 (7) Sections 134P to 134S contain further provisions that apply to an enforcement officer's power of entry and examination.

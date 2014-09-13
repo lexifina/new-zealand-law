@@ -8,7 +8,7 @@
 (e) take photographs and sound and video recordings of the place or thing and things found in the place or thing if the person executing the warrant determines that those things may lawfully be done:
 (f) bring in or on to the place or thing and use any equipment, make use of any equipment found on the place or thing, or extract electricity from the place or thing for the purposes of operating the equipment that the person executing the warrant determines may lawfully be used:
 (g) copy any document, or part of a document, that the person executing the warrant determines may lawfully be copied.
-(3) If a member of the Police is assisting another person executing the warrant, that member of the Police may exercise any power ordinarily exercisable by him or her.
+(3) If a constable is assisting another person executing the warrant, that constable may exercise any power ordinarily exercisable by him or her.
 (4) The person executing the warrant must—
 (a) accompany any assistant on the first occasion when the assistant enters the place or thing to be searched; and
 (b) provide such other supervision of any assistant as is reasonable in the circumstances.
