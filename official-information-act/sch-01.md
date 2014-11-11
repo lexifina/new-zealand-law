@@ -59,7 +59,6 @@ Solid Energy New Zealand Limited
 Survey Board of New Zealand
 Takeovers Panel
 Television New Zealand Limited
-Temporary Safeguard Authorities appointed under the Temporary Safeguard Authorities Act 1987
 Testing Laboratory Registration Council
 Timberlands West Coast Limited
 Transitional Fish and Game Councils
