@@ -4,7 +4,7 @@ s 53ZF
 In this schedule, unless the context otherwise requires,—
 material means written material that is set out in a document other than a Part 4 determination
 Part 4 determination means either of the following:
-(a) a determination made under section 52P:
+(a) a determination made under section 52P; or
 (b) an input methodology published under section 52W.
 2 Material incorporated by reference into Part 4 determinations
 (1) The Commission may incorporate by reference any material into a Part 4 determination if—
