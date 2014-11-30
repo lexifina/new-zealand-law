@@ -1,8 +1,8 @@
 # 258A Duty to report suspected offences
 (1) A liquidator of a company who considers that an offence that is material to the liquidation has been committed by the company or any director of the company against this Act or any of the following Acts must report that fact to the Registrar:
 (a) the Crimes Act 1961:
-(b) the Securities Act 1978:
-(c) the Securities Markets Act 1988:
+(b) the Financial Markets Conduct Act 2013:
+(c) [Repealed]
 (d) [Repealed]
 (e) the Takeovers Act 1993:
 (f) the Insurance (Prudential Supervision) Act 2010.

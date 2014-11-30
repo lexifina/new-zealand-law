@@ -10,7 +10,7 @@
 (b) applications to the court under the Arbitration Act 1996:
 (c) appeals against determinations of the Commerce Commission:
 (d) proceedings under any of the provisions of sections 80, 81, 82, and 89 of the Commerce Act 1986:
-(e) cases stated by the Financial Markets Authority, and civil proceedings under the Securities Act 1978 or the Securities Markets Act 1988:
+(e) cases stated by the Financial Markets Authority, and civil proceedings under the Financial Markets Conduct Act 2013:
 (f) the following proceedings in relation to companies registered under the Companies Act 1993:
 (i) applications for directions by liquidators and receivers:
 (ii) defended applications under section 174 of the Companies Act 1993:

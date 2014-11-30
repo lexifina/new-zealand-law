@@ -16,10 +16,10 @@ s 214
 (viii) the total number of shares purchased or otherwise acquired by the company:
 (ix) the total number of shares redeemed by the company:
 (g) the full names and residential addresses of the directors of the company:
-(h) if the company is a party to a listing agreement with a registered exchange (within the meaning of section 2(1) of the Securities Markets Act 1988), the names and addresses of, and the number of shares held by,—
+(h) in respect of shares of the company that are quoted on a stock exchange, the names and addresses of, and the number of shares held by,—
 (i) the persons holding the 10 largest numbers of shares; or
 (ii) if there is more than 1 class of shares, the persons holding the 10 largest numbers of shares in each class:
-(i) if the company is not a party to a listing agreement with a registered exchange (within the meaning of section 2(1) of the Securities Markets Act 1988), the following information relating to past and present shareholders of the company:
+(i) in respect of shares of the company that are not quoted on a stock exchange, the following information relating to past and present shareholders of the company:
 (i) the names and addresses of all the shareholders of the company:
 (ii) the names and addresses of all persons who ceased to be shareholders of the company—
 (A) since the date of the last annual return; or
@@ -37,6 +37,10 @@ s 214
 (ii) in the case of the first annual return of a company registered under this Act, since the date of registration,—
 (iii) [Repealed]
 (iv) [Repealed]
+the financial statements or group financial statements of the company were required to be registered or lodged under any Act or the company was a code company within the meaning of section 2A of the Takeovers Act 1993:
+(ja) a statement as to whether the company at any time since the last annual return or, in the case of the first annual return, since the date of registration has been the offeror of financial products under a regulated offer (as defined in section 41 of the Financial Markets Conduct Act 2013):
+(jb) a statement as to whether the company at any time since the last annual return or, in the case of the first annual return, since the date of registration has been the offeror of financial products for which a disclosure document was required to be provided under clause 26 of Schedule 1 of the Financial Markets Conduct Act 2013, and, if so, the exclusion under that schedule that the offeror relied on:
+(jc) a statement as to whether the company at any time since the last annual return or, in the case of the first annual return, since the date of registration has been the offeror of financial products and has knowingly relied on an exclusion under clause 3(2)(b) or (3), 4(3), 8, 10, 11, 12, 15, 16, or 19 of Schedule 1 of the Financial Markets Conduct Act 2013, and, if so, which of those exclusions the offeror relied on:
 (k) in the case of a company that has passed a resolution under section 207I or 207J, the text and date of the resolution:
 (ka) in the case of a company in respect of which a notice has been given under section 207K, the text and date of the notice:
 (l) the date of the last annual meeting of the company held under this Act or, if the company avoided the need for an annual meeting by doing everything required to be done at that meeting by passing a resolution under section 122, the date on which the resolution was passed.

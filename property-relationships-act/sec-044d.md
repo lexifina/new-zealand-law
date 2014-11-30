@@ -6,4 +6,4 @@
 (3) For the purposes of this section, a person holds equity securities in a company (company A) if—
 (a) that person is beneficially entitled to, or is beneficially entitled to an interest in, any equity securities in that company (whether or not the whole or any part of the legal ownership of the equity securities is vested in that person); or
 (b) that person holds a controlling interest in another company (company B) that holds equity securities in company A.
-(4) For the purposes of subsections (2) and (3), equity security has the same meaning as in section 2 of the Securities Act 1978.
+(4) For the purposes of subsections (2) and (3), equity security has the same meaning as in section 8 of the Financial Markets Conduct Act 2013.

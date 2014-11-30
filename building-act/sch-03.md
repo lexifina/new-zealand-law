@@ -58,7 +58,7 @@ Members' appointment
 (1) A natural person who is not disqualified by this clause may be a member.
 (2) The following persons are disqualified from being a member:
 (a) a person who is an undischarged bankrupt:
-(b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Securities Act 1978, or the Securities Markets Act 1988, or the Takeovers Act 1993:
+(b) a person who is prohibited from being a director or promoter of, or being concerned or taking part in the management of, an incorporated or unincorporated body under the Companies Act 1993, or the Financial Markets Conduct Act 2013, or the Takeovers Act 1993:
 (c) a person who is subject to a property order made under section 10, section 11, section 12, section 30, or section 31 of the Protection of Personal and Property Rights Act 1988, or whose property is managed by a trustee corporation under section 32 of that Act:
 (d) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon or served the sentence or otherwise suffered the penalty imposed on the person:
 (e) a person who has failed to disclose all interests under clause 1.

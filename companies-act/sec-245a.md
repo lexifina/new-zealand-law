@@ -14,7 +14,6 @@
 (c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
 (d) make any other orders that the court thinks necessary.
 (3) In this section,—
-promoter has the same meaning as in section 2(1) of the Securities Act 1978
 related creditor means a creditor who is a related entity of the company in liquidation
 related entity means, in relation to the company in liquidation,—
 (a) a promoter; or

@@ -4,7 +4,7 @@ s 130
 (b) section 42 (which relates to the issue of shares):
 (c) section 44 (which relates to shareholder approval to the issue of shares):
 (d) section 47 (which relates to the consideration for the issue of shares):
-(da) section 49 (which relates to the consideration for the issue of options and convertible securities):
+(da) section 49 (which relates to the consideration for the issue of options and convertible financial products):
 (e) section 52 (which relates to distributions):
 (f) section 54 (which relates to the issue of shares in lieu of dividends):
 (g) section 55 (which relates to shareholder discounts):
