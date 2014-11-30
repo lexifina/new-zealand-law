@@ -1,4 +1,4 @@
-# 1L Part 9 (transitional provisions and savings)
+# 1L Part 9 (Transitional provisions and savings)
 Part 9 contains—
 (a) transitional provisions, dealing with matters like—
 (i) how this Act applies to marriages that took place before it came into force; and

@@ -19,4 +19,4 @@
 (4) For the purposes of this Act, a de facto relationship ends if—
 (a) the de facto partners cease to live together as a couple; or
 (b) one of the de facto partners dies.
-Compare: Property (Relationships) Act 1984 (New South Wales) s 4(1)-(3)
+Compare: Property (Relationships) Act 1984 s 4(1)-(3) (NSW)

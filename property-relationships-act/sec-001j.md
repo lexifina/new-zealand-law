@@ -1,4 +1,4 @@
-# 1J Part 7 (proceedings under this Act)
+# 1J Part 7 (Proceedings under this Act)
 (1) Part 7—
 (a) deals with the various powers that a court can exercise in deciding how property is to be divided between spouses or partners; and
 (b) sets out the procedures that apply to court proceedings under this Act; and
