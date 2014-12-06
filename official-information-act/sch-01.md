@@ -64,5 +64,4 @@ Timberlands West Coast Limited
 Transitional Fish and Game Councils
 Waitaki Catchment Water Allocation Board
 Waitangi National Trust Board
-War Pensions Advisory Board
 Winston Churchill Memorial Trust Board
