@@ -9,7 +9,9 @@ Ngai Tāmanuhiri Claims Settlement Act 2012
 Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014
 Ngāti Apa (North Island) Claims Settlement Act 2010
 Ngāti Awa Claims Settlement Act 2005
+Ngāti Hauā Claims Settlement Act 2014
 Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014
+Ngāti Koroki Kahukura Claims Settlement Act 2014
 Ngāti Mākino Claims Settlement Act 2012
 Ngāti Manawa Claims Settlement Act 2012
 Ngāti Manuhiri Claims Settlement Act 2012
