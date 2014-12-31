@@ -1,7 +1,8 @@
-# 362A Premises in respect of which duty arises under section 363
-(1) This section applies to premises that—
-(a) are intended to be open to members of the public or are being used by members of the public; and
-(b) comprise all or part of a building.
-(2) For the purposes of subsection (1), premises may be intended to be open to members of the public—
-(a) whether or not members of the public are charged for their use (or, as the case may be, whether or not it is intended that members of the public are to be charged for their use); and
-(b) whether or not members of the public will, regularly or from time to time, be excluded from them.
+# 362A Outline of this Part
+This Part protects consumers (referred to in this Part as clients) in relation to residential building work by—
+(a) requiring certain information to be provided before a residential building contract is entered into; and
+(b) prescribing minimum requirements for residential building contracts over a certain value; and
+(c) implying warranties into residential building contracts; and
+(d) providing remedies for breach of the implied warranties; and
+(e) requiring defective building work under a residential building contract to be remedied if notified within 1 year of completion; and
+(f) requiring certain information and documentation to be provided on completion of building work under a residential building contract.

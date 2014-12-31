@@ -1,5 +1,5 @@
 # 363A Public use of premises may be allowed before issue of code compliance certificate in some circumstances
-(1) A person who owns, occupies, or controls premises to which section 362A applies may apply in the prescribed form to the territorial authority for a certificate for public use for the premises or a part of the premises if—
+(1) A person who owns, occupies, or controls premises to which section 362W applies may apply in the prescribed form to the territorial authority for a certificate for public use for the premises or a part of the premises if—
 (a) a building consent has been granted for building work affecting the premises or part; and
 (b) no code compliance certificate has been issued for the work.
 (2) The territorial authority may issue a certificate for public use for the premises or part if, and only if, satisfied on reasonable grounds that members of the public can use the premises or part (as the case may be) safely.
