@@ -3,7 +3,7 @@
 (a) receives a report provided under section 87F(5); and
 (b) continues to want the application to be determined by the Environment Court instead of by a consent authority.
 (2) The application is referred to the Environment Court by the applicant,—
-(a) within 10 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for the grant of the resource consent (or the change or cancellation of the condition) and specifying the grounds upon which the application for the grant of the resource consent (or the change or cancellation of the condition) is made, and a supporting affidavit as to the matters giving rise to that application; and
+(a) within 15 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for the grant of the resource consent (or the change or cancellation of the condition) and specifying the grounds upon which the application for the grant of the resource consent (or the change or cancellation of the condition) is made, and a supporting affidavit as to the matters giving rise to that application; and
 (b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on—
 (i) the consent authority that granted the applicant's request under section 87D; and
 (ii) every person who made a submission to the authority on the application; and

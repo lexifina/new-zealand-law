@@ -1,6 +1,6 @@
 # 198K Environment Court decides
 (1) If the territorial authority continues to want the requirement to be determined by the Environment Court, the requirement is referred to the court by the territorial authority,—
-(a) within 10 working days after preparing the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
+(a) within 15 working days after preparing the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
 (b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on every person who made a submission to the territorial authority on the requirement; and
 (c) telling the Registrar of the Environment Court by written notice when the copies have been served.
 (2) The territorial authority must, without delay, provide the Environment Court with—

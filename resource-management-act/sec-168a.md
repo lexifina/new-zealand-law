@@ -9,6 +9,10 @@
 (d) a reference to an activity were a reference to the designation.
 (1B) Section 168 applies to the notice of requirement with all necessary modifications.
 (2) Sections 96, 97, and 99 to 103 apply to the notice of requirement with the modifications described in subsection (1A).
+(2AA) However, section 101(2) does not apply to the notice of requirement, and the date for the commencement of the hearing is as follows:
+(a) if the notice of requirement was not notified, the date must be within 25 working days after the date the notice of requirement was given by the territorial authority:
+(b) if the notice of requirement was notified and the territorial authority gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the notice of requirement:
+(c) if the notice of requirement was notified and the territorial authority does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the notice of requirement.
 (2A) When considering a requirement and any submissions received, a territorial authority must not have regard to trade competition or the effects of trade competition.
 (3) When considering a requirement and any submissions received, a territorial authority must, subject to Part 2, consider the effects on the environment of allowing the requirement, having particular regard to—
 (a) any relevant provisions of—

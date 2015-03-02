@@ -15,12 +15,12 @@
 (9) If the regional council—
 (a) receives advice from all the applicants in respect of affected applications that the applicants continue to want the affected applications to be determined by the Environment Court, the regional council must give notice to each applicant that—
 (i) the applicant's affected application is to be determined by the Environment Court; and
-(ii) the applicant must lodge a notice of motion with the Environment Court that complies with section 87G(2)(a) within 10 working days after the date of the regional council's notice or the applicant's affected application may be cancelled in accordance with subsection (11); or
+(ii) the applicant must lodge a notice of motion with the Environment Court that complies with section 87G(2)(a) within 15 working days after the date of the regional council's notice or the applicant's affected application may be cancelled in accordance with subsection (11); or
 (b) does not receive advice from all the applicants in respect of affected applications that the applicants continue to want the affected applications to be determined by the Environment Court, the regional council must—
 (i) give notice to each applicant that the applicant's affected application is to be determined by the regional council; and
 (ii) continue to process and hear together the affected applications in accordance with this section and section 165ZFF.
 (10) Section 87G(2)(b) and (c), (3), and (4) apply in relation to the notice of motion referred to in subsection (9)(a)(ii) with any necessary modifications.
-(11) If an applicant does not lodge a notice of motion with the Environment Court within 10 working days after the date of the notice under subsection (9)(a), the regional council must—
+(11) If an applicant does not lodge a notice of motion with the Environment Court within 15 working days after the date of the notice under subsection (9)(a), the regional council must—
 (a) give notice to the relevant applicant that unless the applicant lodges the notice of motion within 5 working days of the date of the notice, the applicant's affected application will be cancelled; and
 (b) if, within the period notified, or such greater period as the regional council may think reasonable in the circumstances, the applicant does not lodge the notice of motion the regional council must cancel the applicant's affected application.
 (12) Sections 87G(5) to (7) and 87H apply in respect of the affected applications.

@@ -320,7 +320,7 @@ Requests for changes to policy statements and plans of local authorities and req
 (4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in Part 1 shall apply.
 22 Form of request
 (1) A request made under clause 21 shall be made to the appropriate local authority in writing and shall explain the purpose of, and reasons for, the proposed plan or change to a policy statement or plan and contain an evaluation report prepared in accordance with section 32 for the proposed plan or change.
-(2) Where environmental effects are anticipated, the request shall describe those effects, taking into account the provisions of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
+(2) Where environmental effects are anticipated, the request shall describe those effects, taking into account clauses 6 and 7 of Schedule 4, in such detail as corresponds with the scale and significance of the actual or potential environmental effects anticipated from the implementation of the change, policy statement, or plan.
 23 Further information may be required
 (1) Where a local authority receives a request from any person under clause 21, it may within 20 working days, by written notice, require that person to provide further information necessary to enable the local authority to better understand—
 (a) the nature of the request in respect of the effect it will have on the environment, including taking into account the provisions of Schedule 4; or

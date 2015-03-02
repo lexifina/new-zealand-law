@@ -15,6 +15,10 @@
 (b) it opposes the requirement; or
 (c) it is neutral.
 (9) Sections 99 to 103 apply to the notice of requirement with the modifications described in subsection (2).
+(9A) However, section 101(2) does not apply to the notice of requirement, and the date for the commencement of the hearing is as follows:
+(a) if the notice of requirement was not notified, the date must be within 25 working days after the date the notice of requirement was given by the territorial authority:
+(b) if the notice of requirement was notified and the territorial authority gives a direction under section 41B, the date must be within 40 working days after the closing date for submissions on the notice of requirement:
+(c) if the notice of requirement was notified and the territorial authority does not give a direction under section 41B, the date must be within 25 working days after the closing date for submissions on the notice of requirement.
 (10) In considering the requirement, the territorial authority must have regard to—
 (a) the matters set out in section 191; and
 (b) all submissions.

@@ -3,7 +3,7 @@
 (a) receives a report under section 198D(5); and
 (b) continues to want the requirement to be the subject of a decision by the Environment Court instead of a recommendation by the territorial authority and a decision by the requiring authority or heritage protection authority.
 (2) The requirement is referred to the Environment Court by the requiring authority or heritage protection authority,—
-(a) within 10 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
+(a) within 15 working days after receiving the report, lodging with the Environment Court a notice of motion in the prescribed form applying for confirmation of the requirement and specifying the grounds upon which the application for confirmation is made, and a supporting affidavit as to the matters giving rise to that application; and
 (b) as soon as is reasonably practicable after lodging the notice of motion, serving a copy of the notice of motion and affidavit on—
 (i) the territorial authority that granted the requiring authority's or heritage protection authority's request under section 198B; and
 (ii) every person who made a submission to the territorial authority on the requirement; and

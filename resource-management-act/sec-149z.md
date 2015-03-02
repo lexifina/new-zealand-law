@@ -3,7 +3,7 @@
 (2) If the matter is an application for a resource consent, the local authority must treat the application as if—
 (a) it had been made to the local authority under section 88(1); and
 (b) it had been lodged on the date that the local authority received notification from the EPA under section 149Y(3); and
-(c) section 88(3) did not apply to the application.
+(c) section 88(3) and (3A) did not apply to the application.
 (3) If the matter is a notice of requirement for a designation or to alter a designation, the local authority must treat the notice as if it had been—
 (a) given to the local authority under section 168; and
 (b) lodged on the date that the local authority received notification from the EPA under section 149Y(3).

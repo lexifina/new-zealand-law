@@ -3,10 +3,10 @@
 (1AA) The local authority may—
 (a) require an officer of the local authority to prepare the report; or
 (b) commission a consultant or any other person employed for the purpose to prepare the report.
-(1A) The report does not need to repeat material from an assessment of environmental effects provided by the applicant.
+(1A) The report does not need to repeat information included in the applicant's application under section 88(2).
 (1B) Instead, the report may—
-(a) adopt the whole assessment; or
-(b) adopt any part of the assessment by referring to the part adopted.
+(a) adopt all of the information; or
+(b) adopt any part of the information by referring to the part adopted.
 (2) Any report prepared under subsection (1) may be considered at any hearing conducted by the local authority.
 (3) If the report is in writing, the local authority must provide a copy of it to the applicant, and to every person who made a submission and stated a wish to be heard at the hearing, so that they receive the copy—
 (a) at least 15 working days before the hearing, if the authority gives a direction under section 41B; or
