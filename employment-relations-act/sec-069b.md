@@ -1,8 +1,10 @@
 # 69B Interpretation
 In this subpart, unless the context otherwise requires,—
 agreement means a contract or arrangement
+associated person means a person who (under section 69DA) is an associated person of a person providing a warranty under section 69CA
 contracting in has the meaning set out in section 69C
 contracting out has the meaning set out in section 69C
+exempt employer has the meaning given to it by section 69CA
 independent contractor means a person engaged to perform work under an agreement that is not an employment agreement
 new employer has the meaning set out in section 69D
 redundancy entitlements includes redundancy compensation
@@ -15,6 +17,7 @@ restructuring—
 (b) to avoid doubt, does not include,—
 (i) in the case of an employer that is a company, the sale or transfer of any or all of the shares in the company; or
 (ii) any contract, arrangement, sale, or transfer entered into, made, or concluded while the employer is adjudged bankrupt or in receivership or liquidation
+specified date has the meaning given to it by section 69I(4)
 subcontractor—
 (a) means a person engaged by an independent contractor to perform work—
 (i) under an agreement that is not an employment agreement; and

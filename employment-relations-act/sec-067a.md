@@ -6,6 +6,4 @@
 (c) if the employer does so, the employee is not entitled to bring a personal grievance or other legal proceedings in respect of the dismissal.
 (3) Employee means an employee who has not been previously employed by the employer.
 (4) [Repealed]
-(5) To avoid doubt, a trial provision may be included in an employment agreement under—
-(a) section 61(1)(a), but subject to section 61(1)(b):
-(b) section 63(2)(b).
+(5) To avoid doubt, a trial provision may be included in an employment agreement under section 61(1)(a), but subject to section 61(1)(b).

@@ -10,4 +10,4 @@
 (a) the Authority must continue to investigate and determine the matter; and
 (b) either party to the problem may request that the matter be further investigated and determined by a member other than the member who made the recommendation.
 (5) If a party does not give notice under subsection (3), the recommendation becomes final and must be treated as the Authority's determination of the matter.
-(6) However, a recommendation under subsection (5) need not comply with section 174(a) (which relates to the content of a determination made by the Authority).
+(6) However, a recommendation under subsection (5) need not comply with section 174E(a) (which relates to the content of a determination made by the Authority).

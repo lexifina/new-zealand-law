@@ -1,8 +1,5 @@
 # 69AAF Grounds for refusal of request by employer
-(1) An employer may refuse a request only if the employer determines that—
-(a) the employee is not eligible to make a request under section 69AAB; or
-(b) the request cannot be accommodated on 1 or more of the grounds specified in subsection (2); or
-(c) both.
+(1) An employer may refuse a request only if the employer determines that the request cannot be accommodated on 1 or more of the grounds specified in subsection (2).
 (2) The grounds are—
 (a) inability to reorganise work among existing staff:
 (b) inability to recruit additional staff:

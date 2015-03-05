@@ -7,10 +7,10 @@
 (6) A person required to provide information—
 (a) under subsection (2) or (4) must provide the information—
 (i) to the person who received the request; and
-(ii) in time for that person to comply with section 69OC(5):
+(ii) in time for that person to comply with section 69OC(3C):
 (b) under subsection (5) must provide the information—
 (i) to the person who required the information; and
-(ii) in time for the person who received the request to comply with section 69OC(5).
+(ii) in time for the person who received the request to comply with section 69OC(3C).
 (7) However, if the subcontractor who is required to provide the information under subsection (2) or (5) does not have some or all of the information requested because the work has been further subcontracted, the subcontractor must immediately provide to the person who required the information any details the subcontractor has about who the other subcontractor is and how to contact the other subcontractor, and (to avoid doubt) subsection (2) or (5) (as the case may require) applies accordingly.
 (8) Employee transfer costs information provided under this section must be provided—
 (a) in aggregate form; and

@@ -1,12 +1,13 @@
-# 69ZD Entitlement to rest breaks and meal breaks
-(1) An employee is entitled to, and the employer must provide the employee with, rest breaks and meal breaks in accordance with this Part.
-(2) If an employee's work period is 2 hours or more but not more than 4 hours, the employee is entitled to one 10-minute paid rest break.
-(3) If an employee's work period is more than 4 hours but not more than 6 hours, the employee is entitled to—
-(a) one 10-minute paid rest break; and
-(b) one 30-minute meal break.
-(4) If an employee's work period is more than 6 hours but not more than 8 hours, the employee is entitled to—
-(a) two 10-minute paid rest breaks; and
-(b) one 30-minute meal break.
-(5) If an employee's work period is more than 8 hours, the employee is entitled to—
-(a) the same breaks as specified in subsection (4); and
-(b) the breaks as specified in subsections (2) and (3) as if the employee's work period had started at the end of the eighth hour.
+# 69ZD Employee's entitlement to rest breaks and meal breaks
+(1) An employee is entitled to, and an employer must provide the employee with, rest breaks and meal breaks that—
+(a) provide the employee with a reasonable opportunity, during the employee's work period, for rest, refreshment, and attention to personal matters; and
+(b) are appropriate for the duration of the employee's work period.
+(2) The employee's entitlement to rest breaks and meal breaks may be subject to restrictions, but only if the restrictions—
+(a) are—
+(i) reasonable and necessary, having regard to the nature of the employee's work; or
+(ii) if subparagraph (i) does not apply, reasonable and agreed to by the employer and employee (whether in an employment agreement or otherwise); and
+(b) relate to 1 or more of the following:
+(i) the employee continuing to be aware of his or her work duties or, if required, continuing to perform some of his or her work duties, during the break:
+(ii) the circumstances when an employee's break may be interrupted:
+(iii) the employee taking his or her break in the workplace or at a specified place within the workplace.
+(3) An employee's entitlement to rest breaks under this section is to paid rest breaks.

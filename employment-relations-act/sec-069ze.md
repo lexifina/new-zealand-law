@@ -1,14 +1,7 @@
-# 69ZE When employer to provide rest breaks and meal breaks
-(1) Rest breaks and meal breaks are to be observed during an employee's work period—
-(a) at the times agreed between the employee and his or her employer; but
-(b) in the absence of such an agreement, as specified in subsections (2) to (5).
-(2) Where section 69ZD(2) applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest break in the middle of the work period.
-(3) Where section 69ZD(3) applies, an employer must, so far as is reasonable and practicable, provide the employee with—
-(a) the rest break one-third of the way through the work period; and
-(b) the meal break two-thirds of the way through the work period.
-(4) Where section 69ZD(4) applies, an employer must, so far as is reasonable and practicable, provide the employee with—
-(a) the meal break in the middle of the work period; and
-(b) a rest break halfway between—
-(i) the start of work and the meal break; and
-(ii) the meal break and the finish of work.
-(5) Where section 69ZD(5) applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest breaks and meal breaks in accordance with the applicable provision in subsections (2) to (4).
+# 69ZE Timing and duration of rest breaks and meal breaks
+(1) An employee must take his or her rest breaks and meal breaks—
+(a) at the times and for the duration agreed between the employee and his or her employer; but
+(b) in the absence of such agreement, at the reasonable times and for the reasonable duration specified by the employer.
+(2) For the purposes of subsection (1)(b), an employer may specify reasonable times and durations that, having regard to the employer's operational environment or resources and the employee's interests, enable the employer to maintain continuity of service or production.
+(3) An employer must provide an employee with a reasonable opportunity to negotiate with the employer and reach agreement under subsection (1)(a) on the times when the employee's rest breaks and meal breaks are to be taken and on the duration of the breaks.
+(4) To avoid doubt, subsection (3) does not limit the requirement of the employer and employee to deal with each other in good faith as set out in section 4.

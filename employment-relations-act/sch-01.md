@@ -25,6 +25,8 @@ Part A
 15 The production of butter or cheese or of any other product of milk or cream and the processing, distribution, or sale of milk, cream, butter, or cheese or of any other product of milk or cream.
 16 The provision of Police emergency response services as defined in clause 3 of Schedule 1C.
 Part B
-1 The holding and preparation of sheep, cattle, goats, pigs, or deer for slaughtering, the slaughtering of such animals, and the subsequent processing of their meat and smallgoods for the domestic market or the export market.
+1 The holding and preparation of an animal that—
+(a) is a mammal or bird; and
+(b) is held and prepared for the purposes of commercial slaughter and subsequent processing of its meat and offal for human or animal consumption, whether in the domestic market or the export market.
 2 The operation of meat inspection services associated with the slaughtering or supply of meat for domestic consumption.
 Compare: 1991 No 22 Schedule 3

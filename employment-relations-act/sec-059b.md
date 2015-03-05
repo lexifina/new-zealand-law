@@ -12,7 +12,7 @@
 (a) whether the employer bargained with the employee before they agreed on the term or condition of employment:
 (b) whether the employer consulted the union in good faith before agreeing to the term or condition of employment:
 (c) the number of the employer's employees bound by the collective agreement or covered by the collective bargaining compared to the number of the employer's employees not bound by the collective agreement or not covered by the collective bargaining:
-(d) how long the collective agreement has been in force:
-(e) the application of section 63.
+(d) how long the collective agreement has been in force.
+(e) [Repealed]
 (7) Subsection (6) does not limit the matters that may be taken into account for the purposes of subsection (2)(a) and (b) or subsection (4)(a) or (b).
 (8) Every employer who commits a breach of the duty of good faith under this section is liable to a penalty under this Act.
