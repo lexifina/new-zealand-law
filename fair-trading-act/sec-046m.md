@@ -1,0 +1,15 @@
+# 46M Examples of unfair contract terms
+Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract, may be unfair contract terms:
+(a) a term that permits, or has the effect of permitting, one party (but not another party) to avoid or limit performance of the contract:
+(b) a term that permits, or has the effect of permitting, one party (but not another party) to terminate the contract:
+(c) a term that penalises, or has the effect of penalising, one party (but not another party) for a breach or termination of the contract:
+(d) a term that permits, or has the effect of permitting, one party (but not another party) to vary the terms of the contract:
+(e) a term that permits, or has the effect of permitting, one party (but not another party) to renew or not renew the contract:
+(f) a term that permits, or has the effect of permitting, one party to vary the upfront price (as defined in section 46K(2)) payable under the contract without the right of another party to terminate the contract:
+(g) a term that permits, or has the effect of permitting, one party unilaterally to vary the characteristics of the goods or services to be supplied, or the interest in land to be sold or granted, under the contract:
+(h) a term that permits, or has the effect of permitting, one party unilaterally to determine whether a contract has been breached or to interpret its meaning:
+(i) a term that limits, or has the effect of limiting, one party's vicarious liability for its agents:
+(j) a term that permits, or has the effect of permitting, one party to assign the contract to the detriment of another party without that other party's consent:
+(k) a term that limits, or has the effect of limiting, one party's right to sue another party:
+(l) a term that limits, or has the effect of limiting, the evidence one party can adduce in proceedings relating to the contract:
+(m) a term that imposes, or has the effect of imposing, the evidential burden on one party in proceedings relating to the contract.
