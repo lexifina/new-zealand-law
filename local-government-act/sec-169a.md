@@ -6,4 +6,4 @@
 (c) the defendant has at any time made to a constable an admission to the effect that the substance was alcohol.
 (3) If, in any proceedings for a breach of alcohol ban, it is proved that subsection (2) applies to the substance in respect of which the breach is alleged to have been committed, the substance must be presumed to be alcohol unless the defendant—
 (a) proves that it was not; or
-(b) has given notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.
+(b) has served on the prosecution notice in writing at least 20 working days before the hearing that he or she disputes that the substance was alcohol.

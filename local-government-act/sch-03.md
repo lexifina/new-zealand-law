@@ -430,10 +430,10 @@ This subpart applies to a final proposal that provides for any of the matters sp
 (a) the poll; and
 (b) the place or places at which the final proposal and the explanatory statement may be inspected.
 (5) The date determined under subclause (1) for the conduct of the poll must,—
-(a) if written notice under subclause (3) is to be given on or after 28 September and before 21 November in any year, be a day not earlier than 10 February and not later than 17 February in the following year; and
-(b) if written notice under subclause (3) is to be given on or after 21 November and before 16 December in any year, be a day not earlier than 7 March and not later than 14 March in the following year; and
-(c) if written notice under subclause (3) is to be given on or after 16 December in any year and before 13 January in the following year, be a day not earlier than 4 April and not later than 11 April in that following year; and
-(d) in any other case, be a day not later than 82 days after the day on which written notice under subclause (3) is given to the electoral officer.
+(a) if written notice under subclause (3) is to be given on or after 28 September and before 21 November in any year, be a day not earlier than 17 February and not later than 24 February in the following year; and
+(b) if written notice under subclause (3) is to be given on or after 21 November and before 16 December in any year, be a day not earlier than 14 March and not later than 21 March in the following year; and
+(c) if written notice under subclause (3) is to be given on or after 16 December in any year and before 13 January in the following year, be a day not earlier than 11 April and not later than 18 April in that following year; and
+(d) in any other case, be a day not later than 89 days after the day on which written notice under subclause (3) is given to the electoral officer.
 27 Official result of poll
 The electoral officer must,—
 (a) when declaring the official result of the poll under section 86 of the Local Electoral Act 2001, include a statement of—
