@@ -1,8 +1,8 @@
 # 360A Rectification or correction of New Zealand register and overseas register
 (1) The Registrar may,—
 (a) on the application of any person, rectify the New Zealand register or the overseas register if the Registrar is satisfied that any information has been wrongly entered in, or omitted from, the New Zealand register or the overseas register; or
-(b) if it appears to the Registrar that any particulars have been incorrectly entered in the New Zealand register or the overseas register due to a clerical error by the Registrar, correct those particulars.
-(2) Before the Registrar rectifies the New Zealand register or the overseas register under subsection (1)(a), the Registrar must—
+(b) if it appears to the Registrar that any particulars have been incorrectly entered in the New Zealand register or the overseas register, correct those particulars.
+(2) Unless the rectification or correction relates solely to the person who provided it, the Registrar, before rectifying the register under subsection (1)(a), must—
 (a) give written notice to the company or overseas company that an application has been made to rectify the New Zealand register or the overseas register in relation to that company or overseas company (including details of that application); and
 (b) give public notice setting out—
 (i) the name of the applicant; and

@@ -15,7 +15,9 @@ s 214
 (vii) the total number of shares forfeited and not sold or otherwise disposed of:
 (viii) the total number of shares purchased or otherwise acquired by the company:
 (ix) the total number of shares redeemed by the company:
-(g) the full names and residential addresses of the directors of the company:
+(g) the full names, dates and places of birth, and residential addresses of the directors of the company:
+(ga) if a director is resident in an enforcement country, the prescribed information in respect of the company or companies in that country of which the director is a director:
+(gb) the company's ultimate holding company information:
 (h) in respect of shares of the company that are quoted on a stock exchange, the names and addresses of, and the number of shares held by,—
 (i) the persons holding the 10 largest numbers of shares; or
 (ii) if there is more than 1 class of shares, the persons holding the 10 largest numbers of shares in each class:
