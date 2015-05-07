@@ -1,6 +1,7 @@
 # Schedule 3 Cover for mental injury caused by certain acts dealt with in Crimes Act 1961
 s 21(2)
 Section
+124A Indecent communication with young person under 16
 128B(1) Sexual violation
 129(1) Attempted sexual violation
 129(2) Assault with intent to commit sexual violation
@@ -10,6 +11,7 @@ Section
 131(1) Sexual connection with dependent family member
 131(2) Attempted sexual connection with dependent family member
 131(3) Indecent act with dependent family member
+131B Meeting young person following sexual grooming, etc
 132(1) Sexual connection with child under 12
 132(2) Attempted sexual connection with child under 12
 132(3) Indecent act on child under 12
