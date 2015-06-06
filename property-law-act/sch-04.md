@@ -1,7 +1,6 @@
 # Schedule 4 Covenants implied in certain instruments
 ss 284-290
-Part 1
-Covenants for right to convey, quiet enjoyment, and further assurance
+Part 1 Covenants for right to convey, quiet enjoyment, and further assurance
 Section 284
 This Part applies to a person (person A) who, by an instrument to which section 284 applies, creates, transfers, or assigns an estate or interest in land.
 Person A covenants with the grantee, transferee, or assignee that—
@@ -9,14 +8,12 @@ Person A covenants with the grantee, transferee, or assignee that—
 (b) the person who becomes entitled to the estate or interest (person B), and all persons claiming under person B, will be able quietly to enjoy the estate or interest without disturbance by any person (see section 284(2)) to whose acts or omissions the covenants set out in this Part relate; and
 (c) person A will, at the request and the expense of person B, execute all documents, and do all other acts, for the better assuring of the title to the estate or interest, as person B may from time to time reasonably require.
 Compare: 1952 No 51 s 72
-Part 2
-Covenant implied in instruments transferring or assigning leases of land
+Part 2 Covenant implied in instruments transferring or assigning leases of land
 Section 285
 This Part applies to a person (person A) who, by an instrument to which section 285 applies, transfers or assigns a leasehold estate or interest in land.
 Person A covenants with the transferee or assignee that, as at the coming into operation of the instrument, all rent due under the lease has been paid and all covenants and conditions contained in the lease have been performed and observed.
 Compare: 1952 No 51 s 74
-Part 3
-Covenants implied in instruments by fiduciary or mortgagee
+Part 3 Covenants implied in instruments by fiduciary or mortgagee
 Sections 286 and 287
 This Part applies to a person (person A) who, by an instrument to which section 286 applies,—
 (a) creates, transfers, or assigns an estate or interest in land in a fiduciary capacity or as mortgagee; or
@@ -26,16 +23,14 @@ Person A covenants with the grantee, transferee, assignee, or mortgagor that per
 (b) cause the estate or interest of the person who becomes entitled to it to be defeated or the title to the estate or interest to be encumbered:
 (c) prevent the creation, transfer, or assignment of the estate or interest in terms of the instrument.
 Compare: 1952 No 51 s 75
-Part 4
-Covenants implied in encumbrances of property
+Part 4 Covenants implied in encumbrances of property
 Section 288
 This Part applies to a person (person A) who, by an instrument to which section 288 applies, encumbers any property.
 Person A covenants with the holder of the encumbrance that person A—
 (a) has the right and the power to encumber the property free of all other encumbrances except any that are specified in the instrument as encumbrances to which the property will remain subject; and
 (b) will, at the request of the person for whose benefit the property is encumbered (person B), execute all documents and do all other things for the better assuring of the title of person B under the encumbrance as person B may from time to time reasonably require.
 Compare: 1952 No 51 s 72
-Part 5
-Covenant for performance of obligations under encumbrance
+Part 5 Covenant for performance of obligations under encumbrance
 Sections 289 and 290
 This Part applies to a person (person A) to whom land is transferred or assigned subject to an encumbrance.
 Person A covenants with the transferor or assignor, to the extent provided in section 290, that person A will—

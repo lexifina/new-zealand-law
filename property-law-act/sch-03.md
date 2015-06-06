@@ -1,7 +1,6 @@
 # Schedule 3 Covenants, conditions, and powers implied in leases of land
 ss 218-220
-Part 1
-Preliminary
+Part 1 Preliminary
 Interpretation
 1 Interpretation
 In this schedule, leased premises includes all land comprised in the lease.
@@ -10,8 +9,7 @@ General covenants
 The lessor and lessee covenant between each other on the matters set out in Part 2 of this schedule.
 3 General covenants of lessee on matters set out in Part 3 or 4 of this schedule
 The lessee covenants with the lessor on the matters, as the case requires, set out in Part 3 or 4 of this schedule.
-Part 2
-Covenants, conditions, and powers implied in all leases of land
+Part 2 Covenants, conditions, and powers implied in all leases of land
 4 Payment of rent
 (1) The lessee will pay the rent payable under the lease when it falls due.
 (2) However, if the leased premises or any part of them are destroyed or damaged by any of the causes specified in subclause (3) to the extent that they become unfit for occupation and use by the lessee, the rent and any contribution payable by the lessee to the outgoings on those premises will abate, in fair and just proportion to the destruction or damage, until those premises—
@@ -75,8 +73,7 @@ Compare: 1952 No 51 ss 106, 107
 (a) the lessor peaceably re-enters the leased premises or any representative part of those premises; or
 (b) the court makes an order for possession of the land in favour of the lessor.
 Compare: 1952 No 51 ss 106, 107
-Part 3
-Covenant implied in all leases of land (except short-term leases)
+Part 3 Covenant implied in all leases of land (except short-term leases)
 13 Lessee to keep and yield up premises in existing condition
 (1) The lessee will,—
 (a) at all times during the currency of the lease, keep the leased premises in the same condition that they were in when the term of the lease began; and
@@ -92,8 +89,7 @@ Covenant implied in all leases of land (except short-term leases)
 (b) the lessee's agent, contractor, or invitee; or
 (c) any other person under the lessee's direction or control.
 Compare: 1952 No 51 s 106
-Part 4
-Covenant implied in short-term leases
+Part 4 Covenant implied in short-term leases
 14 Lessee to use premises reasonably
 The lessee will, at all times during the currency of the lease, use the leased premises in the way that a reasonable tenant would.
 Compare: 1952 No 51 s 106

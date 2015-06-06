@@ -1,7 +1,6 @@
 # Schedule 2 Covenants implied in mortgages
 ss 95, 96
-Part 1
-Covenants, conditions, and powers implied in mortgages over land
+Part 1 Covenants, conditions, and powers implied in mortgages over land
 1 Payment of principal amount and interest
 (1) The mortgagor will pay to the mortgagee the principal amount secured by the mortgage at the time and in the manner specified in the mortgage or any other instrument.
 (2) The mortgagor will pay to the mortgagee interest on the principal amount and all other amounts secured by the mortgage, from the date on which all or any of those amounts are advanced by the mortgagee, or otherwise attract interest, until the date of their payment,—
@@ -187,8 +186,7 @@ Compare: 1952 No 51 Schedule 4 cl 10
 (1) The mortgagor will pay all costs and expenses of and incidental to the arranging and preparation of the mortgage and any variation or discharge of the mortgage or any transfer of the mortgage or the mortgaged land instead of a discharge.
 (2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee's rights, remedies, and powers under the mortgage.
 (3) The costs of the mortgagee under subclause (2) include the costs of giving or attempted giving of any notice required by the Property Law Act 2007 and the costs of inspection and valuation of the mortgaged land.
-Part 2
-Covenants, conditions, and powers implied in mortgages over goods
+Part 2 Covenants, conditions, and powers implied in mortgages over goods
 1 Payment of principal amount and interest
 (1) The mortgagor will pay to the mortgagee the principal amount secured by the mortgage at the time and in the manner specified in the mortgage or any other instrument.
 (2) The mortgagor will pay to the mortgagee interest on the principal amount and all other amounts secured by the mortgage, from the date on which all or any of those amounts are advanced by the mortgagee, or otherwise attract interest, until the date of their payment,—
