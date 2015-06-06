@@ -1,0 +1,2 @@
+# 83R Creditor must not enter premises if complaint not resolved or unforeseen hardship application not decided
+Nothing in this subpart limits section 83J (which provides that neither a creditor nor a creditor's agent may exercise a right to repossess consumer goods or enter premises if the debtor has made a written complaint to the creditor in relation to any enforcement action and that complaint has not been resolved or an application has been made to the creditor under section 55 and that application has not been decided).

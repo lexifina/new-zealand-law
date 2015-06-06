@@ -3,6 +3,7 @@ s 17
 The following information is the key information concerning a consumer credit contract as is applicable:
 Full name and address of creditor
 (a) the full name and full address of the creditor:
+(aa) the trading name of the creditor (if different from its full name specified under paragraph (a)):
 Initial unpaid balance
 (b) the unpaid balance as at the date that is specified in the disclosure statement as the effective date of the statement, accounting for every payment made by the debtor on or before that date:
 (c) the amount and a description of each advance, charge, or payment accounted for in the unpaid balance disclosed under paragraph (b):
@@ -42,37 +43,30 @@ Payments required
 Full prepayment
 (p) how the reasonable estimate of the creditor's loss on full prepayment is calculated and whether a statutory procedure prescribed in regulations is used:
 Security interest
-(q) a description of any security interest that is or may be taken in connection with the contract (including a description of any property that is subject to, or proposed to be subject to, any security interest) and the extent to which the debtor's obligations to the creditor are secured:
+(q) a description of any security interest that is or may be taken in connection with the contract, including a clear explanation of—
+(i) the nature of the security interest; and
+(ii) the property that is, or is proposed to be, subject to the security interest; and
+(iii) the extent to which the debtor's obligations to the creditor are secured by the security interest, including whether, if the creditor's rights under the security were to be exercised, the debtor would, or may, remain indebted to the creditor (if there is a shortfall in the proceeds of the sale of the property that is subject to the security interest); and
+(iv) what the consequences would be if the debtor were to give a security interest over the property referred to in subparagraph (ii) to a person other than the creditor and, as a result, the debtor were to be in breach of the contract, including whether the property that would be subject to the security interest would be liable to repossession:
+Disabling devices
+(qa) whether a disabling device is to be attached to consumer goods that are subject to a security interest referred to in paragraph (q) and, if so, a clear description of—
+(i) how the device functions; and
+(ii) when the device might be activated; and
+(iii) how, if the consumer goods are required in an emergency situation, the debtor may obtain the use of the goods:
 Default interest charges and default fees
 (r) particulars that describe any default interest charges and default fees that may be payable under the contract including how and when default interest charges and default fees would become payable:
 Debtor's right to cancel
-(s) a statement of the debtor's rights under section 27 in the following form (unless the contract is a revolving credit contract):
-"Statement of right to cancel
-The Credit Contracts and Consumer Finance Act 2003 gives you a right for a short time after the terms of this contract have been disclosed to you to cancel the contract.
-How to cancel
-If you want to cancel this contract you must give written notice to the creditor.
-*You must also—
-(a) return to the creditor any advance and any other property received by you under the contract (but you cannot do this if you have taken possession of any goods or if you bought any property at an auction or if the contract is for the sale of services that have been performed); or
-(b) pay the cash price of the property or services within 15 working days of the day you give notice.
-*Delete if the credit contract does not involve a credit sale.
-†You must also return to the creditor any advance and any other property received by you under the contract.
-†Delete if the credit contract involves a credit sale.
-Time limits for cancellation
-If the disclosure documents are handed to you directly you must give notice that you intend to cancel within 3 working days after you receive the documents.
-If the disclosure documents are sent to you by electronic means (for example, e-mail) you must give notice that you intend to cancel within 5 working days after the electronic communication is sent.
-If the documents are mailed to you, you must give the notice within 7 working days after they were posted.
-Saturdays, Sundays, and national public holidays are not counted as working days.
-What you may have to pay if you cancel
-If you cancel the contract the creditor can charge you—
-(a) the amount of any reasonable expenses the creditor had to pay in connection with the contract and its cancellation (including legal fees and fees for credit reports, etc); and
-*(b) interest for the period from the day you received the property or services until the day you either pay the cash price for the property or services or return the property to the creditor.
-*Delete if the credit contract does not involve a credit sale.
-†(b) interest for the period from the day you received the advance until the day you repay the advance.
-†Delete if the credit contract involves a credit sale.
-This statement only contains a summary of your rights and obligations in connection with the right to cancel. If there is anything about your rights or obligations under the Credit Contracts and Consumer Finance Act 2003 that you do not understand, if there is a dispute about your rights, or if you think that the creditor is being unreasonable in any way, you should seek legal advice immediately.":
+(s) a statement of the debtor's cancellation rights under section 27:
+Debtor's right to apply for relief on grounds of unforeseen hardship
+(sa) a statement of the debtor's right under section 55, and advice as to how an application under that section may be made:
 Continuing disclosure statements
 (t) the frequency with which continuing disclosure statements will be provided (assuming that section 21 does not apply):
 Consent to electronic communications
 (u) if the creditor consents to receive notices or other communications from the debtor in electronic form, whether by means of an electronic communication or otherwise, a statement to that effect:
+Dispute resolution
+(ua) the name and contact details of the dispute resolution scheme of which the creditor is a member (unless the Financial Service Providers (Registration and Dispute Resolution) Act 2008 does not require the creditor to be a member of such a scheme):
+Registration under Financial Service Providers (Registration and Dispute Resolution) Act 2008
+(ub) the creditor's registration number under the register of financial service providers:
+(uc) the name under which the creditor is registered on that register:
 Other items
 (v) any other information or warnings prescribed by the regulations to be information that is key information concerning a credit contract.
