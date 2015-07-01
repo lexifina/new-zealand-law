@@ -989,9 +989,8 @@ Subpart 2—Certified copy procedure
 23.24 Method of application
 23.25 Issue of certified copy
 Subpart 3—Enforcement of certain judgments and orders of Federal Court of Australia
-[Repealed]
-23.26 Interpretation [Repealed]
-23.27 Scope [Repealed]
+23.26 Interpretation
+23.27 Scope
 23.28 Application of other Parts [Repealed]
 23.29 Method of application [Repealed]
 23.30 Title of proceeding [Repealed]
@@ -1365,8 +1364,7 @@ Schedule 9
 Discovery checklist and the listing and exchange protocol
 Schedule 10
 Issues to be addressed at case management conference in proceedings under Part 30
-Part 1
-Rules of general application
+Part 1 Rules of general application
 Subpart 1—Objective and interpretation
 1.1 Title
 These rules are the High Court Rules.
@@ -1437,7 +1435,8 @@ these rules means the High Court Rules
 trial includes a hearing before a Judge alone
 working day means any day of the week other than—
 (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-(b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
+(b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year; and
+(c) if Waitangi Day or Anzac Day falls on a Saturday or Sunday, the following Monday.
 (2) A word or an expression in a rule or form in these rules not defined in these rules but defined in an enactment dealing with the subject matter of that rule or form, unless the context otherwise requires, has the meaning given to it by that enactment.
 (3) In these rules, unless the context otherwise requires, a reference to a numbered form is a reference to the form so numbered in Schedule 1 of these rules.
 (4) In a judgment, order, direction, or other document forming part of a proceeding or of an interlocutory application, unless the context otherwise requires,—
@@ -1590,8 +1589,7 @@ Subpart 7—International co-operation
 (b) the communication is not prohibited by the law of the other country.
 (3) When the court acts under subclause (2) it must give the parties to the proceeding an opportunity to be heard on the form of the communication.
 (4) The communication and any reply must be treated as part of the record of the proceeding or interlocutory application.
-Part 2
-Jurisdiction and powers of Associate Judges and Registrars
+Part 2 Jurisdiction and powers of Associate Judges and Registrars
 Subpart 1—Associate Judges
 2.1 Jurisdiction and powers
 (1) An Associate Judge has the jurisdiction and powers of a Judge in chambers conferred by the Act or these rules or another enactment.
@@ -1676,8 +1674,7 @@ Compare: 1908 No 89 Schedule 2 r 275
 (b) if it is made by a party who was not present or represented, within 5 working days after the receipt by the party of notice of the decision or refusal.
 (5) An application for review under this rule is not a stay of proceeding or a step in the proceeding, unless a Judge, or a Registrar acting under rule 2.5, so directs.
 Compare: 1908 No 89 Schedule 2 r 276
-Part 3
-Court administration
+Part 3 Court administration
 Subpart 1—Registry hours and court holidays
 3.1 Registry hours
 The court's registries must be open from 9 am to 5 pm on every day that is not a court holiday.
@@ -1851,8 +1848,7 @@ Compare: 1908 No 89 Schedule 2 r 70
 (b) at a later time.
 (3) Unless the court directs otherwise, the income received from an investment under an order under rule 3.17 must be paid to the party or parties who are found by the court to be entitled to the capital, in the shares or proportions the court thinks just.
 Compare: 1908 No 89 Schedule 2 r 71
-Part 4
-Parties
+Part 4 Parties
 Subpart 1—Limit on parties
 4.1 Limit on parties
 The number of persons named or joined as parties to a proceeding must be limited, as far as practicable, to—
@@ -2289,8 +2285,7 @@ Compare: 1908 No 89 Schedule 2 r 178
 (2) The court may order that the applicant's costs be paid by any 1 or more of the claimants and may apportion the liability between any 2 or more claimants, as it thinks just.
 (3) The court may charge any property in dispute, or the proceeds of the sale of it, or both, with payment of the costs of the applicant.
 Compare: 1908 No 89 Schedule 2 r 179
-Part 5
-Commencement of proceedings and filing of documents
+Part 5 Commencement of proceedings and filing of documents
 Subpart 1—Proper registry of court
 5.1 Identification of proper registry
 (1) The proper registry of the court, for the purposes of rules 5.25 and 19.7, is,—
@@ -2775,8 +2770,7 @@ Compare: 1908 No 89 Schedule 2 r 128
 5.73A Notice of service to Registrar
 (1) The plaintiff must notify the Registrar of the date of service of the statement of claim and notice of proceeding on each defendant or other person directed to be served.
 (2) Notification under subclause (1) must be made within 7 working days after service and in writing.
-Part 6
-Service
+Part 6 Service
 Subpart 1—Methods and proof of service
 6.1 Methods of service
 (1) Any of the following methods may be used for serving a document that is required by these rules to be served:
@@ -2810,7 +2804,7 @@ Compare: 1908 No 89 Schedule 2 r 206
 6.6 Service by means of post office box, document exchange, fax, or email
 (1) When a document is served on a party or person in accordance with rule 6.1(1)(d)(i) or (ii), that document must,—
 (a) if posted to a post office box address, be treated as served on the earlier of—
-(i) the third working day after the day on which it was posted; or
+(i) the fifth working day after the day on which it was posted; or
 (ii) the day on which it was received; and
 (b) if left at a document exchange, be treated as served on the earlier of—
 (i) the second working day after the day on which it was left; or
@@ -2831,7 +2825,7 @@ Compare: 1908 No 89 Schedule 2 r 206
 (i) by a party in New Zealand and on a party in Australia; or
 (ii) by a party in Australia and on a party in New Zealand.
 (7) Despite subclause (1), when a document is served in accordance with rule 6.1(1)(d)(i) or (ii) or (e), it is to be treated as served on the earlier of—
-(a) the sixth working day after the day on which it was posted; and
+(a) the eighth working day after the day on which it was posted; and
 (b) the day on which it was received.
 (8) Subclause (9) applies to a document that is—
 (a) a document in response to a requirement of or under these rules; and
@@ -3082,8 +3076,7 @@ Except when the court otherwise orders, a defendant who has been served out of N
 Compare: 1908 No 89 Schedule 2 r 225
 6.36 Subpart does not apply to service in Australia of documents for or in certain trans-Tasman proceedings
 This subpart (which contains rules on service out of New Zealand) does not apply to service in Australia of an initiating document for, or of any other document to be served in or for, a proceeding an initiating document for which may be served in Australia under subpart 1 of Part 2 of the Trans-Tasman Proceedings Act 2010.
-Part 7
-Case management, interlocutory applications, and interim relief
+Part 7 Case management, interlocutory applications, and interim relief
 Subpart 1—Case management
 7.1AA Outline of case management procedures for different types of proceedings
 (1) An ordinary defended proceeding or a complex defended proceeding—
@@ -3155,6 +3148,7 @@ Compare: 1908 No 89 Schedule 2 r 7.2 prior to 1 February 2013
 (6) Memoranda filed under subclause (4) or (5) may also address matters that fall within subclause (3)(e).
 (7) The joint memorandum referred to in subclause (4) may be combined with any joint memorandum filed in relation to discovery under rule 8.11.
 (8) A separate memorandum referred to in subclause (5) may be combined with any separate memorandum filed in relation to discovery under rule 8.11.
+(9) Any memorandum under this subpart may be filed by fax or email transmission.
 Compare: 1908 No 89 Schedule 2 r 7.3 prior to 1 February 2013
 7.4 Further case management conferences
 (1) The Judge at the first case management conference of any defended proceeding may require a further case management conference or order one on the application of a party.
@@ -3162,6 +3156,7 @@ Compare: 1908 No 89 Schedule 2 r 7.3 prior to 1 February 2013
 (a) will be set out in the order directing the conference, but a party may add a further item or items (if practicable, giving advance notice to the other parties); and
 (b) will include or adapt the Schedule 5 matters; and
 (c) may prescribe steps to be taken in preparation for the conference.
+(3) The parties must either file a joint memorandum addressing the Schedule 5 matters no later than 10 working days before the conference, or file separate memoranda addressing those matters in accordance with rule 7.3(5), and rule 7.3(6) to (8) applies accordingly, with any necessary modifications.
 Compare: 1908 No 89 Schedule 2 r 7.3 prior to 1 February 2013
 7.5 Issues conferences
 (1) The Judge may at any time, on the Judge's own initiative or if the parties agree, order an issues conference for any defended proceeding to advance the identification and refinement of the issues, and set the date and agenda for that issues conference.
@@ -3260,7 +3255,7 @@ Compare: 1908 No 89 Schedule 2 r 7.14 prior to 1 February 2013
 (1) A Registrar must convene a case management conference for a proceeding under Part 30 if a Judge makes a direction that a case management conference be held.
 (2) The Registrar must arrange for the conference management conference to be held as soon as practicable after the direction is made.
 (3) The plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to everyone who has been, or is to be, served with a copy of the notice of proceeding and statement of claim.
-(4) The parties must, not later than 2 working days before the case management conference,--
+(4) The parties must, not later than 2 working days before the case management conference,- -
 (a) file a joint memorandum; or
 (b) each file a memorandum.
 (5) A memorandum must address the issues set out in Schedule 10.
@@ -3749,8 +3744,7 @@ Subpart 9—Interim relief in respect of overseas proceedings
 (4) Before making an order under this rule, the court must be satisfied that there is a real connecting link between the subject matter of the interim relief and the territorial jurisdiction of the court.
 (5) An order under subclause (1) must not be inconsistent with interim relief granted in the overseas proceedings by the court outside New Zealand.
 (6) This rule does not apply to a civil proceeding commenced or to be commenced in an Australian court.
-Part 8
-Discovery and inspection and interrogatories
+Part 8 Discovery and inspection and interrogatories
 Subpart 1—Discovery and inspection
 8.1 Interpretation
 In this subpart,—
@@ -4078,8 +4072,7 @@ Compare: 1908 No 89 Schedule 2 r 8.14 prior to 1 February 2012
 8.48 Judgment on admission of facts
 A judgment or order may be made on an admission of facts under rule 15.15.
 Compare: 1908 No 89 Schedule 2 r 8.15 prior to 1 February 2012
-Part 9
-Evidence
+Part 9 Evidence
 Subpart 1—Briefs, oral evidence directions, common bundles, and chronologies
 9.1 Objective and scope
 (1) When applying the rules in this subpart to a proceeding, the court and the parties must pursue the just, speedy, and inexpensive determination of that proceeding.
@@ -4495,7 +4488,7 @@ Compare: 1908 No 89 Schedule 2 r 502E
 (a) leaving it at, or posting it to, the address for service of the applicant stated in the application; or
 (b) if a fax number is stated in the application, sending it by fax to that number.
 (1A) If a document relating to the application is served on the applicant by post in accordance with subclause (1)(a), it is to be treated as having been served on the earlier of—
-(a) the sixth working day after the day on which it was posted; and
+(a) the eighth working day after the day on which it was posted; and
 (b) the day on which it was received.
 (2) If a document relating to the application is served on the applicant by fax, the document must, subject to subclauses (3) and (4), be treated as having been served on the day on which it was sent.
 (3) If a document is sent by fax to a fax number in a State or Territory of Australia at a time later than 5 pm in that State or Territory, the document must, subject to subclause (4), be treated as having been served on the first working day after the day on which it was sent.
@@ -4672,8 +4665,7 @@ Compare: 1908 No 89 Schedule 2 r 524
 (1) Rules 9.69 to 9.75 apply, with any necessary modifications, in relation to an authenticated deposition as if the deposition were an affidavit.
 (2) Rule 9.88 and this rule do not affect rules 9.17 to 9.29.
 Compare: 1908 No 89 Schedule 2 r 524A
-Part 10
-Trial
+Part 10 Trial
 Subpart 1—Place
 10.1 Venue and changing it
 (1) The place of trial is the town where the registry of the court in which the statement of defence is to be filed is situated.
@@ -4824,8 +4816,7 @@ A Judge must not preside at the hearing of a matter by video link under rule 10.
 (iii) assist with the implementation of any directions or requests given or made by the Judge:
 (c) direct seating arrangements at a remote location to ensure all participants in the hearing can be seen and heard:
 (d) direct when the video link must be operational in relation to his or her own entry to, or rising from, the judicial location.
-Part 11
-Judgment
+Part 11 Judgment
 Subpart 1—General provisions
 11.1 Interpretation
 In this Part,—
@@ -5020,8 +5011,7 @@ Compare: 1908 No 89 Schedule 2 r 538
 (2) For the purposes of subclause (1), the party against whom the judgment was given must produce and file in the registry of the court an acknowledgment of satisfaction signed by or on behalf of the party obtaining judgment.
 (3) Despite subclause (2), the court may order satisfaction to be entered upon proof that the judgment has been satisfied.
 Compare: 1908 No 89 Schedule 2 r 544
-Part 12
-Summary judgment
+Part 12 Summary judgment
 12.1 Application of summary judgment procedure
 Rules 12.2 to 12.16 apply to all proceedings except—
 (a) a proceeding under Part 19, 20, or 21; or
@@ -5108,8 +5098,7 @@ Compare: 1908 No 89 Schedule 2 r 143A
 12.16 Application to counterclaims and claims against third parties
 Rules 12.1 to 12.15 apply, with all necessary modifications, to counterclaims and to claims against third parties.
 Compare: 1908 No 89 Schedule 2 r 144
-Part 13
-Summary proceeding for recovery of land
+Part 13 Summary proceeding for recovery of land
 13.1 Interpretation
 In this Part, unlawful occupier means a person who—
 (a) occupies or continues to occupy land of the plaintiff without the licence or consent of the plaintiff or the plaintiff's predecessor in title; and
@@ -5154,8 +5143,7 @@ Compare: 1908 No 89 Schedule 2 r 134G
 (1) Once 3 months have elapsed after the date on which a judgment is given in a proceeding to which this Part applies, a possession order to enforce the judgment may issue only with the leave of the court.
 (2) An application for leave under subclause (1) may be made without notice unless a Judge otherwise directs.
 Compare: 1908 No 89 Schedule 2 r 134H
-Part 14
-Costs
+Part 14 Costs
 Subpart 1—Costs generally
 14.1 Costs at discretion of court
 (1) All matters are at the discretion of the court if they relate to costs—
@@ -5331,8 +5319,7 @@ The court may, on the application of a party dissatisfied with the Registrar's d
 (b) the Registrar's actions referred to in paragraph (a) were done under these rules or by a direction of the court; and
 (c) it appears that the Registrar acted erroneously as to amount or principle.
 Compare: 1908 No 89 Schedule 2 r 59
-Part 15
-Disposal other than by trial
+Part 15 Disposal other than by trial
 Subpart 1—Dismissal or stay without trial
 15.1 Dismissing or staying all or part of proceeding
 (1) The court may strike out all or part of a pleading if it—
@@ -5374,6 +5361,7 @@ Compare: 1908 No 89 Schedule 2 r 15.6 prior to 1 February 2013
 (4) A Registrar has the jurisdiction and powers of the court under these rules to fix costs and disbursements under subclause (1)(b).
 (5) For the purpose of this rule and rule 15.9, liquidated demand means a sum that—
 (a) has been quantified in, or can be precisely calculated on the basis of, a contract relied on by the plaintiff; or
+(ab) is quantified in, or can be precisely calculated on the basis of, or by reference to, an enactment relied on by the plaintiff; or
 (b) has been determined by agreement, mediation, arbitration, or previous litigation between the same parties; or
 (c) is a reasonable price for goods supplied or services rendered (when no contract quantifies the price).
 Compare: 1908 No 89 Schedule 2 r 15.7 prior to 1 February 2013
@@ -5469,8 +5457,7 @@ Compare: 1908 No 89 Schedule 2 r 476D
 15.25 Certain remedies not affected
 If a plaintiff discontinues a proceeding in which a defendant has issued a third party notice under rules 4.9 to 4.17 or has filed a notice under rules 4.18 to 4.21, the discontinuance does not affect the continuation of the proceeding in relation to the third party notice or the notice filed under rules 4.18 to 4.21.
 Compare: 1908 No 89 Schedule 2 r 476E
-Part 16
-Accounts and inquiries
+Part 16 Accounts and inquiries
 16.1 Interpretation
 In this Part,—
 account-taker has the meaning set out in rule 16.6
@@ -5511,7 +5498,7 @@ Compare: 1908 No 89 Schedule 2 r 387
 (a) the Registrar; or
 (b) an accountant; or
 (c) the Registrar and an accountant.
-(2) Unless otherwise ordered, an accountant who takes an account must be a chartered accountant in public practice who is a member of the New Zealand Institute of Chartered Accountants.
+(2) Unless otherwise ordered, an accountant who takes an account must be a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013).
 Compare: 1908 No 89 Schedule 2 r 388
 16.7 Direction as to evidence
 The court may direct that any evidence relevant to the account be given to the account-taker, with any incidental order the court thinks just.
@@ -5639,8 +5626,7 @@ Compare: 1908 No 89 Schedule 2 r 415
 (1) If the rights or circumstances of the parties at the time of judgment do not enable the court to order absolutely that payment be made to the persons entitled, the court may order any party's share that has not become absolute to be carried over on trust to a separate account.
 (2) A party that becomes entitled to a share held in trust under subclause (1) may apply for payment of the share on notice to the other persons interested in the matter, and the court may order payment to that party.
 Compare: 1908 No 89 Schedule 2 r 416
-Part 17
-Enforcement
+Part 17 Enforcement
 Subpart 1—General provisions
 17.1 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -5898,7 +5884,7 @@ Compare: 1947 No 16 s 84G
 (a) personally; or
 (b) by leaving it at the employer's place of residence or business; or
 (c) by sending it by post, addressed to the employer at the employer's place of residence or business.
-(2) In the absence of proof to the contrary, any order served by post is deemed to have been served on the fourth working day after the day on which it was posted.
+(2) In the absence of proof to the contrary, any order served by post is deemed to have been served on the sixth working day after the day on which it was posted.
 (3) To prove service it is sufficient to prove that the letter was properly addressed and posted.
 (4) Every attachment order takes effect when a copy of the order is served on the employer in accordance with this rule.
 Compare: 1947 No 16 s 84H
@@ -6313,8 +6299,7 @@ Compare: 1908 No 89 Schedule 2 r 613
 (2) The plaintiff or the plaintiff's solicitor must give a certificate of receipt of the bond or other security required by an order under rule 17.91.
 (3) The defendant is entitled to be discharged out of prison when a receipt or certificate under this rule is given to the Sheriff.
 Compare: 1908 No 89 Schedule 2 r 614
-Part 18
-Applications in equity and under statutes
+Part 18 Applications in equity and under statutes
 Subpart 1—Application
 18.1 Types of proceedings
 This Part applies to the following types of proceedings:
@@ -6460,8 +6445,7 @@ Subpart 4—Evidentiary requirements
 (b) in which relief by way of specific performance is sought.
 (3) Subclause (1) applies to a proceeding in respect of which a direction has been given under subclause (2).
 Compare: 1908 No 89 Schedule 2 r 455
-Part 19
-Originating applications
+Part 19 Originating applications
 Subpart 1—Proceedings eligible to be commenced by originating application
 19.1 Meaning of originating application
 In these rules, originating application means an application made in accordance with this Part.
@@ -6494,7 +6478,7 @@ Applications to the court under the following enactments must be made by origina
 (w) section 47E of the Terrorism Suppression Act 2002:
 (x) section 76 of the Trustee Act 1956:
 (xa) section 14 or 31 of the Wills Act 2007:
-(y) rule 7.81, 9.60, 24.11, 24.56, 28.4, or 32.2 of these rules:
+(y) rule 7.81, 9.60, 24.11, 24.35, 24.44, 24.56, 28.4, or 32.2 of these rules:
 (z) any repealed enactment if—
 (i) the application under that enactment could have been made by originating application immediately before the commencement of these rules; and
 (ii) the enactment continues to apply to the applicant:
@@ -6583,8 +6567,7 @@ Compare: 1908 No 89 Schedule 2 r 458L
 19.14 Cross-examination of person making affidavit
 Rule 9.74 applies to a proceeding commenced by originating application.
 Compare: 1908 No 89 Schedule 2 r 458M
-Part 20
-Appeals
+Part 20 Appeals
 Subpart 1—Preliminary provisions
 20.1 Application of this Part
 (1) This Part applies to appeals to the court under any enactment other than—
@@ -6808,8 +6791,7 @@ Subpart 6—Appeals to Court of Appeal
 (3) A respondent who wishes to cross-appeal must apply for leave to cross-appeal within 10 working days after the date on which a copy of the application under subclause (2) is served on the respondent.
 (4) An application for leave to appeal under subclause (2) or to cross-appeal under subclause (3) must be made by interlocutory application.
 Compare: 1908 No 89 Schedule 2 rr 718E, 718F
-Part 21
-Cases stated
+Part 21 Cases stated
 21.1 Application
 (1) This Part applies to—
 (a) appeals to the court under any Act by way of case stated for a decision on a question of law or fact (or both):
@@ -6912,8 +6894,7 @@ After hearing and determining the question of law or fact (or both) in a case st
 (c) in every other case, remit the matter to the tribunal with the opinion of the court:
 (d) in any case, make any other order that is just.
 Compare: 1908 No 89 Schedule 2 r 725
-Part 22
-Patents
+Part 22 Patents
 22.1 Interpretation
 In this Part,—
 Act means the Patents Act 2013
@@ -7125,8 +7106,7 @@ In a proceeding for infringement of a patent, no costs are allowed to the partie
 (a) proved; or
 (b) reasonable and proper.
 Compare: 1908 No 89 Schedule 2 r 725ZZB
-Part 23
-Enforcement between jurisdictions
+Part 23 Enforcement between jurisdictions
 Subpart 1—Enforcement under Reciprocal Enforcement of Judgments Act 1934
 23.1 Scope and interpretation
 (1) This subpart applies to the enforcement of judgments under the Act.
@@ -7309,11 +7289,8 @@ Compare: 1908 No 89 Schedule 2 r 749
 (2) In giving a certificate under subclause (1)(b) the Registrar is entitled to rely on the affidavit filed under rule 23.24(2) and the documents attached to it.
 Compare: 1908 No 89 Schedule 2 r 750
 Subpart 3—Enforcement of certain judgments and orders of Federal Court of Australia
-[Repealed]
 23.26 Interpretation
-[Repealed]
 23.27 Scope
-[Repealed]
 23.28 Application of other Parts
 [Repealed]
 23.29 Method of application
@@ -7336,8 +7313,7 @@ Subpart 3—Enforcement of certain judgments and orders of Federal Court of Aust
 [Repealed]
 23.38 Application to set aside registration or for stay of enforcement
 [Repealed]
-Part 24
-Insolvency
+Part 24 Insolvency
 Subpart 1—Scope
 24.1 Interpretation
 (1) In this Part, unless the context otherwise requires, Act means the Insolvency Act 2006.
@@ -7508,17 +7484,17 @@ Subpart 9—Discharge of bankrupt
 (2) A creditor who enters an objection to a discharge must serve the objection on the Official Assignee.
 Compare: 1908 No 89 Schedule 2 r 854
 24.37 Service, etc, of notice of application for discharge
-At least 15 working days before the hearing date, the bankrupt must—
+At least 20 working days before the hearing date, the bankrupt must—
 (a) serve on the Official Assignee, and every creditor whose debt has been proved, notice of application for discharge under section 294 of the Act; and
 (b) cause notice of the application and the hearing date to be advertised.
 Compare: 1908 No 89 Schedule 2 r 855
 24.38 Report of Official Assignee
-At least 5 working days before the hearing date, the Official Assignee must—
+At least 10 working days before the hearing date, the Official Assignee must—
 (a) lodge in the court a copy of the Official Assignee's report under section 296 of the Act; and
 (b) serve a copy of the report on the bankrupt and all creditors known to the Official Assignee.
 Compare: 1908 No 89 Schedule 2 r 856
 24.39 Opposition by creditor to discharge
-A creditor who intends to oppose the discharge of a bankrupt on grounds other than those specified in the Official Assignee's report must file and serve on the Official Assignee and the bankrupt a notice of the creditor's intended opposition and the grounds of opposition by 1 pm on the day before the hearing.
+A creditor who intends to oppose the discharge of a bankrupt on grounds other than those specified in the Official Assignee's report must file and serve on the Official Assignee and the bankrupt a notice of the creditor's intended opposition and the grounds of opposition not less than 5 working days before the hearing.
 Compare: 1908 No 89 Schedule 2 r 857
 24.40 Conditions affecting salary, etc, after order of discharge
 (1) The Official Assignee must notify the bankrupt's employer of the Official Assignee's intention to ask the court to impose a condition that affects any salary or wages that may, after the date of the order of discharge, become due to the bankrupt.
@@ -7630,8 +7606,7 @@ Compare: 1908 No 89 Schedule 2 r 700ZM
 (2) If it appears to the court on application to it that the originating application has been filed in the wrong registry of the court, or that any other registry of the court would be more convenient to all parties affected, it may direct that the originating application and any documents filed in relation to that application be filed in, or transferred to, the proper registry or the other registry of the court.
 (3) This rule overrides rule 5.1.
 Compare: 1908 No 89 Schedule 2 r 700ZN
-Part 25
-Admiralty
+Part 25 Admiralty
 Subpart 1—Preliminary provisions
 25.1 Interpretation
 (1) In this Part, unless the context otherwise requires,—
@@ -8095,8 +8070,7 @@ Compare: 1908 No 89 Schedule 2 r 795(1)
 (1) Any party to a proceeding who is affected by a decision of the Registrar under this Part may apply, by interlocutory application, to review that decision.
 (2) The court may make any orders it thinks just.
 Compare: 1908 No 89 Schedule 2 r 795(2)
-Part 26
-Arbitration Act 1996
+Part 26 Arbitration Act 1996
 Subpart 1—Preliminary provisions
 26.1 Interpretation
 In this Part,—
@@ -8304,8 +8278,7 @@ Compare: 1908 No 89 Schedule 2 r 900
 (d) determined at the same time as the plaintiff's application to enforce the award by entry as a judgment.
 (5) To avoid doubt, an application under this rule is concerned with the recognition or enforcement of an award and not with any question of law arising out of the award that may be determined by the court or the Court of Appeal under clause 5 of Schedule 2 of the Act.
 Compare: 1908 No 89 Schedule 2 r 901
-Part 27
-Administration (including probate)
+Part 27 Administration (including probate)
 Subpart 1—General
 27.1 Wills and intestacies to which this Part applies
 (1) The rules in this Part apply to—
@@ -8721,7 +8694,7 @@ An application under rule 27.37 must be supported by an affidavit or affidavits 
 Compare: 1908 No 89 Schedule 2 r 668
 27.39 Documents to be filed and verified
 (1) This rule is subject to rules 27.40 and 27.45.
-(2) The following documents, verified by an affidavit or affidavits of a solicitor or chartered accountant, must be filed in respect of an application under rule 27.37:
+(2) The following documents, verified by an affidavit or affidavits of a solicitor or qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 2013), must be filed in respect of an application under rule 27.37:
 (a) a copy of the will or other instrument (if any) creating the trust:
 (b) capital and income accounts of the trust or summarised statements of those accounts showing—
 (i) the trust property and liabilities at the inception of the trust and at the date to which a commission or percentage is sought:
@@ -8731,7 +8704,7 @@ Compare: 1908 No 89 Schedule 2 r 668
 Compare: 1908 No 89 Schedule 2 r 669
 27.40 Power to adopt previous accounts
 (1) Unless the court otherwise orders, the accounts of the trustees or summarised statements previously kept or made for the purposes of the trust may, subject to subclause (2), be adopted for the purposes of the application.
-(2) Any information required by rules 27.38 and 27.39 and not contained in the accounts or summarised statements previously kept or made (including any information required in respect of administration by other trustees) must be supplied by supplementary accounts or summarised statements verified in each case by an affidavit of a chartered accountant or solicitor.
+(2) Any information required by rules 27.38 and 27.39 and not contained in the accounts or summarised statements previously kept or made (including any information required in respect of administration by other trustees) must be supplied by supplementary accounts or summarised statements verified in each case by an affidavit of a qualified statutory accountant (within the meaning of section 5(1) of the Financial Reporting Act 1993) or solicitor.
 (3) If any information and accounts or summarised statements required in support of the application have been supplied in support of any previous application to the court for a commission or percentage, rules 27.38 and 27.39 are to be treated to that extent as having been complied with.
 Compare: 1908 No 89 Schedule 2 r 670
 27.41 Power to refer matter to Registrar for inquiry
@@ -8752,8 +8725,7 @@ Compare: 1908 No 89 Schedule 2 r 674
 (1) On an interlocutory application made before or after the filing of an application for a commission or percentage, and upon sufficient grounds, the court may dispense with the observance of all or any of the rules in this subpart.
 (2) An application under subclause (1) may be made without notice, but the court may require notice of it to be given to any other person or persons and prescribe the method.
 Compare: 1908 No 89 Schedule 2 r 675
-Part 28
-Trans-Tasman competition proceedings
+Part 28 Trans-Tasman competition proceedings
 28.1 Interpretation
 In this Part, unless the context otherwise requires—
 Australian proceeding means a proceeding in which a matter for determination arises under—
@@ -8869,8 +8841,7 @@ Compare: 1908 No 89 Schedule 2 r 446ZB
 (c) the evidence or the submissions be heard at a location other than the precincts of the High Court.
 (5) Unless the court otherwise orders, the costs incurred in giving the evidence or making the submissions by video link or telephone conference and transmitting the evidence or submissions in accordance with a direction given under this rule must be paid by the applicant.
 Compare: 1908 No 89 Schedule 2 r 446ZC
-Part 29
-Commercial list
+Part 29 Commercial list
 29.1 Interpretation
 In this Part, unless the context otherwise requires,—
 commercial list means a commercial list established under section 24A of the Act at a registry of the High Court
@@ -9028,8 +8999,7 @@ Compare: 1908 No 89 Schedule 2 r 446P
 (1) Despite rule 5.8, all documents filed in respect of a proceeding entered on the commercial list and all documents filed in relation to an application under section 24C(4) of the Act must be filed flat.
 (2) The party seeking to have a proceeding entered on the commercial list and the party making an application under section 24C(4) of the Act must provide a folder or ring-binder of a type approved by the Registrar at that party's expense for the filing of all documents in the proceeding or in relation to the application.
 Compare: 1908 No 89 Schedule 2 r 446Q
-Part 30
-Judicial review
+Part 30 Judicial review
 30.1 Crown Proceedings Act 1950 not affected
 This Part does not limit or affect the Crown Proceedings Act 1950.
 Compare: 1908 No 89 Schedule 2 r 622
@@ -9052,8 +9022,7 @@ Compare: 1908 No 89 Schedule 2 r 628
 (b) that the court decides the applicant ought to pay.
 (3) The undertaking must be referred to in the order and is part of it.
 Compare: 1908 No 89 Schedule 2 r 627B
-Part 31
-Companies: Liquidation
+Part 31 Companies: Liquidation
 31.1 Application
 (1) This rule applies to an application to the High Court to put a company into liquidation.
 (2) Rules 31.37 and 31.38 apply in respect of a notice under section 294(1) of the Companies Act 1993.
@@ -9289,8 +9258,7 @@ Compare: 1908 No 89 Schedule 2 r 700ZJ
 Compare: 1908 No 89 Schedule 2 r 700ZK
 31.39 Transitional provision for companies registered under the Companies Act 1955
 Part 9A of the High Court Rules as in force immediately before the coming into force of these rules applies, even though it has been repealed, to companies remaining registered under the Companies Act 1955.
-Part 32
-Freezing orders
+Part 32 Freezing orders
 32.1 Interpretation
 In this Part, unless the context otherwise requires,—
 ancillary order means an order made under rule 32.3
@@ -9361,8 +9329,7 @@ This Part does not affect the jurisdiction of the court under any enactment to m
 32.10 Costs
 (1) The court may make any order as to costs it considers just in relation to an order made under this Part.
 (2) Without limiting the generality of subclause (1), an order as to costs includes an order as to the costs of any person affected by a freezing order or ancillary order.
-Part 33
-Search orders
+Part 33 Search orders
 33.1 Interpretation
 In this Part, unless the context otherwise requires,—
 applicant means an applicant for a search order
@@ -9422,135 +9389,134 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 33.9 Costs
 (1) The court may make any order as to costs that it considers just in relation to an order made under this Part.
 (2) Without limiting the generality of subclause (1), an order as to costs includes an order as to the costs of any person affected by a search order.
-Schedule 1
-Forms
+Schedule 1 Forms
 r 1.3(3)
 Contents
 General forms
-G 1 General heading for documents filed in proceeding
-G 2 Notice of proceeding
-G 3 Memorandum (general form)
-G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908
-G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955
-G 6 Notice to defendant served overseas
-G 7 Appearance under protest to jurisdiction
-G 8 Appearance for ancillary purpose
-G 9 Appearance reserving rights
-G 10 Memorandum to be attached to first document filed by party
-G 11 Memorandum as to change of representation and/or address for service
-G 12 Notice of intention to speak Māori
-G 13 Notice of proceeding when summary judgment sought by plaintiff
-G 14 Third party notice
-G 15 Notice to other defendant
-G 16 Affidavit of service
-G 17 Service of foreign process in New Zealand—Registrar's certificate
-G 18 Request for service abroad
-G 19 Report of examiner
-G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia
-G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia
-G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings
-G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia
-G 24 Notice of discontinuance
-G 25 Subpoena
-G 26 Subpoena to give evidence for service in Australia
-G 27 Subpoena for production only for service in Australia
-G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006
-G 29 Certificate of non-compliance with subpoena for service in Australia
-G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934
-G 31 Interlocutory application on notice
-G 32 Interlocutory application without notice
-G 33 Notice of opposition
-G 34 Interlocutory order
-G 35 Notice to answer interrogatories
-G 36 Notice to admit facts
-G 37 Affidavit of documents
-G 38 Freezing order
-G 39 Search order
-G 40 General court order
-J 1 Judgment by default in case of liquidated demand
-J 2 Judgment by default in proceeding for recovery of land
-J 3 Judgment on trial by Judge
-J 4 Judgment on trial by jury
-E 1 Notice to liable party
-E 2 Statement of means of liable party
-E 3 Attachment order
-E 4 Charging order on land
-E 5 Interim charging order
-E 6 Final charging order
-E 7 Sale order
-E 8 Possession order
-E 9 Arrest order
-E 10 Sequestration order
-E 11 Order to arrest and imprison absconding debtor
-E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice
-CL 1 Commercial list
-CL 2 Appearance in proceeding entered on commercial list
-CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908
-PR 1 Affidavit for obtaining grant of probate
-PR 2 Affidavit for obtaining grant of letters of administration with will annexed
-PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner
-PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased
-PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased
-PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased
-PR 7 Probate in common form
-PR 8 Letters of administration with will annexed
-PR 9 Letters of administration on intestacy
-PR 10 Caveat
-PR 11 Exemplification of probate or letters of administration
-PR 12 Affidavit of valid execution
-AD 1 General heading for action in personam
-AD 2 Notice of proceeding in personam
-AD 3 General heading for action in rem
-AD 4 Notice of proceeding in rem
-AD 5 Notice of proceeding both in rem and in personam
-AD 6 Memorandum of appearance
-AD 7 Application for warrant of arrest
-AD 8 Indemnity to Registrar
-AD 9 Warrant of arrest
-AD 10 Notice by Registrar of arrest of property
-AD 11 Request for caveat against arrest
-AD 12 Release from arrest
-AD 13 Bail bond
-AD 14 Request for caveat against release and payment
-AD 15 Request for commission for appraisement and sale
-AD 16 Commission for appraisement and sale
-AD 17 Notice for priority of claims on sale
-Arb 1 Appeal under Arbitration Act 1996
-Arb 2 Notice for leave to appeal under Arbitration Act 1996
-Arb 3 Application to enter award as judgment
-C 1 Statement of claim in proceeding for putting company into liquidation
-C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993
-C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993
-C 4 Verifying affidavit
-C 5 Affidavit verifying statement of claim of limited company
-C 6 Advertisement of application for putting company into liquidation
-C 7 Advertisement of application for order under section 174 of Companies Act 1993
-C 8 Affidavit of service
-C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993)
-C 10 Notification to liquidator of order putting company into liquidation
-C 11 Notification to interim liquidator of appointment
-C 12 Order putting company into liquidation
-C 13 Order appointing interim liquidator
-C 14 General heading for notices in forms C 15 and C 16
-C 15 Notice to set aside voidable transaction under Companies Act 1993
-C 16 Notice to set aside voidable charge under Companies Act 1993
-B 1 Request for issue of bankruptcy notice
-B 2 Bankruptcy notice
-B 3 Creditor's application for adjudication order
-B 4 Affidavit supporting creditor's application for adjudication
-B 5 Summons to debtor
-B 6 Notice by debtor of intention to oppose application
-B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006
-B 8 Notice of objection to discharge
-B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006
-B 10 Statement of affairs and affidavit
-B 11 Report of trustee on proposal
-B 12 Account of assets, debts, etc, of deceased person verified by affidavit
-B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006
-B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006
-B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006
-B 16 Order adjudicating debtor bankrupt
-B 17 Appointment of Official Assignee as receiver and manager
+G 1 General heading for documents filed in proceeding Go to item
+G 2 Notice of proceeding Go to item
+G 3 Memorandum (general form) Go to item
+G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908 Go to item
+G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955 Go to item
+G 6 Notice to defendant served overseas Go to item
+G 7 Appearance under protest to jurisdiction Go to item
+G 8 Appearance for ancillary purpose Go to item
+G 9 Appearance reserving rights Go to item
+G 10 Memorandum to be attached to first document filed by party Go to item
+G 11 Memorandum as to change of representation and/or address for service Go to item
+G 12 Notice of intention to speak Māori Go to item
+G 13 Notice of proceeding when summary judgment sought by plaintiff Go to item
+G 14 Third party notice Go to item
+G 15 Notice to other defendant Go to item
+G 16 Affidavit of service Go to item
+G 17 Service of foreign process in New Zealand—Registrar's certificate Go to item
+G 18 Request for service abroad Go to item
+G 19 Report of examiner Go to item
+G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia Go to item
+G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia Go to item
+G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings Go to item
+G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia Go to item
+G 24 Notice of discontinuance Go to item
+G 25 Subpoena Go to item
+G 26 Subpoena to give evidence for service in Australia Go to item
+G 27 Subpoena for production only for service in Australia Go to item
+G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006 Go to item
+G 29 Certificate of non-compliance with subpoena for service in Australia Go to item
+G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934 Go to item
+G 31 Interlocutory application on notice Go to item
+G 32 Interlocutory application without notice Go to item
+G 33 Notice of opposition Go to item
+G 34 Interlocutory order Go to item
+G 35 Notice to answer interrogatories Go to item
+G 36 Notice to admit facts Go to item
+G 37 Affidavit of documents Go to item
+G 38 Freezing order Go to item
+G 39 Search order Go to item
+G 40 General court order Go to item
+J 1 Judgment by default in case of liquidated demand Go to item
+J 2 Judgment by default in proceeding for recovery of land Go to item
+J 3 Judgment on trial by Judge Go to item
+J 4 Judgment on trial by jury Go to item
+E 1 Notice to liable party Go to item
+E 2 Statement of means of liable party Go to item
+E 3 Attachment order Go to item
+E 4 Charging order on land Go to item
+E 5 Interim charging order Go to item
+E 6 Final charging order Go to item
+E 7 Sale order Go to item
+E 8 Possession order Go to item
+E 9 Arrest order Go to item
+E 10 Sequestration order Go to item
+E 11 Order to arrest and imprison absconding debtor Go to item
+E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice Go to item
+CL 1 Commercial list Go to item
+CL 2 Appearance in proceeding entered on commercial list Go to item
+CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908 Go to item
+PR 1 Affidavit for obtaining grant of probate Go to item
+PR 2 Affidavit for obtaining grant of letters of administration with will annexed Go to item
+PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner Go to item
+PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased Go to item
+PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased Go to item
+PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased Go to item
+PR 7 Probate in common form Go to item
+PR 8 Letters of administration with will annexed Go to item
+PR 9 Letters of administration on intestacy Go to item
+PR 10 Caveat Go to item
+PR 11 Exemplification of probate or letters of administration Go to item
+PR 12 Affidavit of valid execution Go to item
+AD 1 General heading for action in personam Go to item
+AD 2 Notice of proceeding in personam Go to item
+AD 3 General heading for action in rem Go to item
+AD 4 Notice of proceeding in rem Go to item
+AD 5 Notice of proceeding both in rem and in personam Go to item
+AD 6 Memorandum of appearance Go to item
+AD 7 Application for warrant of arrest Go to item
+AD 8 Indemnity to Registrar Go to item
+AD 9 Warrant of arrest Go to item
+AD 10 Notice by Registrar of arrest of property Go to item
+AD 11 Request for caveat against arrest Go to item
+AD 12 Release from arrest Go to item
+AD 13 Bail bond Go to item
+AD 14 Request for caveat against release and payment Go to item
+AD 15 Request for commission for appraisement and sale Go to item
+AD 16 Commission for appraisement and sale Go to item
+AD 17 Notice for priority of claims on sale Go to item
+Arb 1 Appeal under Arbitration Act 1996 Go to item
+Arb 2 Notice for leave to appeal under Arbitration Act 1996 Go to item
+Arb 3 Application to enter award as judgment Go to item
+C 1 Statement of claim in proceeding for putting company into liquidation Go to item
+C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993 Go to item
+C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993 Go to item
+C 4 Verifying affidavit Go to item
+C 5 Affidavit verifying statement of claim of limited company Go to item
+C 6 Advertisement of application for putting company into liquidation Go to item
+C 7 Advertisement of application for order under section 174 of Companies Act 1993 Go to item
+C 8 Affidavit of service Go to item
+C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993) Go to item
+C 10 Notification to liquidator of order putting company into liquidation Go to item
+C 11 Notification to interim liquidator of appointment Go to item
+C 12 Order putting company into liquidation Go to item
+C 13 Order appointing interim liquidator Go to item
+C 14 General heading for notices in forms C 15 and C 16 Go to item
+C 15 Notice to set aside voidable transaction under Companies Act 1993 Go to item
+C 16 Notice to set aside voidable charge under Companies Act 1993 Go to item
+B 1 Request for issue of bankruptcy notice Go to item
+B 2 Bankruptcy notice Go to item
+B 3 Creditor's application for adjudication order Go to item
+B 4 Affidavit supporting creditor's application for adjudication Go to item
+B 5 Summons to debtor Go to item
+B 6 Notice by debtor of intention to oppose application Go to item
+B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006 Go to item
+B 8 Notice of objection to discharge Go to item
+B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006 Go to item
+B 10 Statement of affairs and affidavit Go to item
+B 11 Report of trustee on proposal Go to item
+B 12 Account of assets, debts, etc, of deceased person verified by affidavit Go to item
+B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006 Go to item
+B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006 Go to item
+B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006 Go to item
+B 16 Order adjudicating debtor bankrupt Go to item
+B 17 Appointment of Official Assignee as receiver and manager Go to item
 Using High Court Rules forms
 Purpose of forms
 The High Court Rules forms are templates you can use to prepare a document for a proceeding in the High Court.
@@ -9581,8 +9547,7 @@ Swearing and affirming
 Some documents, eg, affidavits, need to be solemnly verified. A form will indicate this by using the word "sworn" at the end of the document. This kind of document must be verified before a person who is authorised to take oaths, such as a solicitor or a Justice of the Peace.
 However, under the Oaths and Declarations Act 1957 you may affirm instead of swearing an oath. "Affirming" means "solemnly, sincerely, and truly declaring and affirming" the contents of a document.
 If you choose to affirm, change "sworn" to "affirmed" where it occurs in the form.
-Form G 1
-General heading for documents filed in proceeding
+Form G 1 General heading for documents filed in proceeding
 rr 5.11(2), 19.9(1)
 In the High Court of New Zealand
 [Name of registry] Registry
@@ -9600,8 +9565,7 @@ And [full name, place of residence, occupation]
 (plaintiff)
 And [full name, place of residence, occupation]
 (counterclaim defendant)
-Form G 2
-Notice of proceeding
+Form G 2 Notice of proceeding
 rr 5.23(2), 5.57(4)
 To complete this notice,—
 complete and insert the heading as set out in form G 1:
@@ -9626,16 +9590,18 @@ Date:
 (Registrar/Deputy Registrar*)
 *Select one.
 Note: Please carefully read the memorandum attached to this notice.
-Form G 3
-Memorandum (general form)
+Form G 3 Memorandum (general form)
 r 5.23(4)
 Advice
-1 Although you do not have to employ a solicitor for the purpose of this proceeding, it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to defend this proceeding or appear at any hearing must consult a solicitor immediately because—
+1
+Although you do not have to employ a solicitor for the purpose of this proceeding, it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to defend this proceeding or appear at any hearing must consult a solicitor immediately because—
 (a) it can only carry on a proceeding in the court by a solicitor; and
 (b) it cannot appear to conduct a proceeding except by counsel (unless there are exceptional circumstances).
 Legal aid
-2 If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
-3 For this paragraph select the statement that applies.
+2
+If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
+3
+For this paragraph select the statement that applies.
 Statement A
 The plaintiff is in receipt of legal aid for the purpose of this proceeding.
 Statement B
@@ -9643,30 +9609,38 @@ The plaintiff is not in receipt of legal aid for the purpose of this proceeding.
 Statement C
 The plaintiff has applied for legal aid for the purpose of this proceeding.
 Statement of defence
-4 If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which that registry is open.
-5 Omit this paragraph if it conflicts with a direction by the court.
+4
+If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which that registry is open.
+5
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing your statement of defence you must disregard the period that commences with 25 December and ends with 15 January.
-6 If you file a statement of defence, you must serve a copy of it on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing the statement of defence.
+6
+If you file a statement of defence, you must serve a copy of it on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing the statement of defence.
 Counterclaim
-7 If you have a counterclaim against the plaintiff, you must file a statement of that counterclaim in the registry of the court, and serve it on the plaintiff and on any other person against whom the same claim is made. This must be done within the same period of time you have for filing a statement of defence.
+7
+If you have a counterclaim against the plaintiff, you must file a statement of that counterclaim in the registry of the court, and serve it on the plaintiff and on any other person against whom the same claim is made. This must be done within the same period of time you have for filing a statement of defence.
 Witnesses
-8 Summonses for the attendance of witnesses will be issued on application at the registry of the court.
+8
+Summonses for the attendance of witnesses will be issued on application at the registry of the court.
 Registry hours
-9 The registry hours of the court are from 9 am to 5 pm, except on court holidays.
+9
+The registry hours of the court are from 9 am to 5 pm, except on court holidays.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 4
-Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908
+Form G 4 Memorandum to be endorsed on form G 2 in proceeding under Declaratory Judgments Act 1908
 r 5.23(4)
 Advice
-1 Although you do not have to employ a solicitor for the purpose of this proceeding, it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to defend this proceeding or appear at any hearing must consult a solicitor immediately because—
+1
+Although you do not have to employ a solicitor for the purpose of this proceeding, it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to defend this proceeding or appear at any hearing must consult a solicitor immediately because—
 (a) it can only carry on a proceeding in the court by a solicitor; and
 (b) it cannot appear to conduct a proceeding except by counsel (unless there are exceptional circumstances).
 Legal aid
-2 If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
-3 For this paragraph select the statement that applies.
+2
+If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
+3
+For this paragraph select the statement that applies.
 Statement A
 The plaintiff is in receipt of legal aid for the purpose of this proceeding.
 Statement B
@@ -9674,41 +9648,53 @@ The plaintiff is not in receipt of legal aid for the purpose of this proceeding.
 Statement C
 The plaintiff has applied for legal aid for the purpose of this proceeding.
 Statement of defence
-4 If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which that registry is open.
-5 Omit this paragraph if it conflicts with a direction by the court.
+4
+If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which that registry is open.
+5
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing your statement of defence you must disregard the period that commences with 25 December and ends with 15 January.
-6 If you file a statement of defence, you must serve a copy of it on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing the statement of defence.
+6
+If you file a statement of defence, you must serve a copy of it on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing the statement of defence.
 Appearance objecting to jurisdiction of court
-7 If you object to the jurisdiction of the court to hear and determine this proceeding, you may file in the registry of the court an appearance stating your objection and the grounds for it instead of a statement of defence, and serve a copy of the appearance on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing a statement of defence.
-8 An appearance is not treated as a submission to the jurisdiction of the court.
+7
+If you object to the jurisdiction of the court to hear and determine this proceeding, you may file in the registry of the court an appearance stating your objection and the grounds for it instead of a statement of defence, and serve a copy of the appearance on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing a statement of defence.
+8
+An appearance is not treated as a submission to the jurisdiction of the court.
 Appearance for ancillary purposes
-9 If you do not oppose the plaintiff's claim but want to be heard on an ancillary matter (including costs), you may, without filing a statement of defence,—
+9
+If you do not oppose the plaintiff's claim but want to be heard on an ancillary matter (including costs), you may, without filing a statement of defence,—
 (a) file an appearance stating the matters on which you want to be heard; and
 (b) serve a copy of it on the plaintiff and on any other defendant who has given an address for service.
-10 Those matters will not subsequently be determined except on notice to you.
+10
+Those matters will not subsequently be determined except on notice to you.
 Appearance reserving rights
-11 If you do not oppose the plaintiff's claim but want to reserve your rights in the event that another person becomes a party to the proceeding or that a party takes a step in the proceeding that is against your interests, you may, without filing a statement of defence,—
+11
+If you do not oppose the plaintiff's claim but want to reserve your rights in the event that another person becomes a party to the proceeding or that a party takes a step in the proceeding that is against your interests, you may, without filing a statement of defence,—
 (a) file an appearance reserving those rights in the registry of the court; and
 (b) serve a copy of it on the plaintiff and on any other defendant who has given an address for service.
-12 Subsequently—
+12
+Subsequently—
 (a) you will be entitled to be served with all documents relevant to the reserved rights that may be filed in the proceeding by a person who is, or may become, a party; and
 (b) with the leave of the court, you may file and serve a statement of defence and any other document within the time and on the terms and conditions prescribed by the court.
 Registry hours
-13 The registry hours of the court are from 9 am to 5 pm, except on court holidays.
+13
+The registry hours of the court are from 9 am to 5 pm, except on court holidays.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 5
-Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955
+Form G 5 Memorandum to be endorsed on form G 2 in proceeding under Family Protection Act 1955
 r 5.23(4)
 Advice
-1 Although you do not have to employ a solicitor for the purpose of this proceeding it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to defend this proceeding or appear at any hearing must consult a solicitor immediately because—
+1
+Although you do not have to employ a solicitor for the purpose of this proceeding it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to defend this proceeding or appear at any hearing must consult a solicitor immediately because—
 (a) it can only carry on a proceeding in the court by a solicitor; and
 (b) it cannot appear to conduct a proceeding except by counsel (unless there are exceptional circumstances).
 Legal aid
-2 If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
-3 For this paragraph select the statement that applies.
+2
+If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
+3
+For this paragraph select the statement that applies.
 Statement A
 The plaintiff is in receipt of legal aid for the purpose of this proceeding.
 Statement B
@@ -9716,72 +9702,90 @@ The plaintiff is not in receipt of legal aid for the purpose of this proceeding.
 Statement C
 The plaintiff has applied for legal aid for the purpose of this proceeding.
 Statement of defence
-4 If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which that registry is open.
-5 Omit this paragraph if it conflicts with a direction by the court.
+4
+If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which that registry is open.
+5
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing your statement of defence you must disregard the period that commences with 25 December and ends with 15 January.
-6 If you file a statement of defence, you must serve a copy of it on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing the statement of defence.
+6
+If you file a statement of defence, you must serve a copy of it on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing the statement of defence.
 Appearance objecting to jurisdiction of court
-7 If you object to the jurisdiction of the court to hear and determine this proceeding, you may file in the registry of the court an appearance stating your objection and the grounds for it instead of a statement of defence, and serve a copy of the appearance on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing a statement of defence.
-8 An appearance is not treated as a submission to the jurisdiction of the court.
+7
+If you object to the jurisdiction of the court to hear and determine this proceeding, you may file in the registry of the court an appearance stating your objection and the grounds for it instead of a statement of defence, and serve a copy of the appearance on the plaintiff and on any other defendant who has given an address for service. This must be done within the same period of time you have for filing a statement of defence.
+8
+An appearance is not treated as a submission to the jurisdiction of the court.
 Appearance for ancillary purposes
-9 If you do not oppose the plaintiff's claim but want to be heard on an ancillary matter (including costs), you may, without filing a statement of defence,—
+9
+If you do not oppose the plaintiff's claim but want to be heard on an ancillary matter (including costs), you may, without filing a statement of defence,—
 (a) file an appearance stating the matters on which you want to be heard; and
 (b) serve a copy of it on the plaintiff and on any other defendant who has given an address for service.
-10 Those matters will not subsequently be determined except on notice to you.
+10
+Those matters will not subsequently be determined except on notice to you.
 Appearance reserving rights
-11 If you do not oppose the plaintiff's claim but want to reserve your rights in the event that another person becomes a party to the proceeding or that a party takes a step in the proceeding that is against your interests, you may, without filing a statement of defence,—
+11
+If you do not oppose the plaintiff's claim but want to reserve your rights in the event that another person becomes a party to the proceeding or that a party takes a step in the proceeding that is against your interests, you may, without filing a statement of defence,—
 (a) file an appearance reserving those rights in the registry of the court; and
 (b) serve a copy of it on the plaintiff and on any other defendant who has given an address for service.
-12 Subsequently—
+12
+Subsequently—
 (a) you will be entitled to be served with all documents relevant to the reserved rights that may be filed in the proceeding by a person who is, or may become, a party; and
 (b) with the leave of the court, you may file and serve a statement of defence and any other document within the time and on the terms and conditions prescribed by the court.
 Claim by defendant
-13 If you want to make a claim under the Family Protection Act 1955 to provide for yourself out of the estate of the deceased, you must file a statement of claim setting out your claim and supporting facts, and serve a copy of it on—
+13
+If you want to make a claim under the Family Protection Act 1955 to provide for yourself out of the estate of the deceased, you must file a statement of claim setting out your claim and supporting facts, and serve a copy of it on—
 (a) the plaintiff; and
 (b) the defendant; and
 (c) any other person (other than yourself) directed to be served with the plaintiff's proceeding.
 This must be done within the same period of time you have for filing a statement of defence.
 Registry hours
-14 The registry hours of the court are from 9 am to 5 pm, except on court holidays.
+14
+The registry hours of the court are from 9 am to 5 pm, except on court holidays.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 6
-Notice to defendant served overseas
+Form G 6 Notice to defendant served overseas
 r 6.31
 Add this notice to form G 3, G 4, or G 5 as appropriate.
 Since you are resident outside New Zealand you are further notified that—
-1 The plaintiff has commenced a proceeding against you in the High Court of New Zealand, claiming the relief specified in the attached statement of claim.
-2 Although you are resident outside New Zealand, the plaintiff claims that this proceeding can be brought against you in the High Court of New Zealand.
-3 By New Zealand law, the High Court may exercise jurisdiction in certain classes of case even though the defendant is resident outside New Zealand.
-4 [Specify particular provision(s) of rule 6.27 on which the plaintiff relies to serve the proceeding overseas.]
-5 In this case the plaintiff claims: [specify facts alleged by the plaintiff to confer jurisdiction].
-6 Even though the court has jurisdiction to hear and determine this proceeding, it may decline to do so if it is satisfied—
+1
+The plaintiff has commenced a proceeding against you in the High Court of New Zealand, claiming the relief specified in the attached statement of claim.
+2
+Although you are resident outside New Zealand, the plaintiff claims that this proceeding can be brought against you in the High Court of New Zealand.
+3
+By New Zealand law, the High Court may exercise jurisdiction in certain classes of case even though the defendant is resident outside New Zealand.
+4
+[Specify particular provision(s) of rule 6.27 on which the plaintiff relies to serve the proceeding overseas.]
+5
+In this case the plaintiff claims: [specify facts alleged by the plaintiff to confer jurisdiction].
+6
+Even though the court has jurisdiction to hear and determine this proceeding, it may decline to do so if it is satisfied—
 (a) that in all the circumstances a country other than New Zealand is the most appropriate country in which the matters in dispute in the proceeding should be determined; and
 (b) that the plaintiff will have a fair opportunity to prove the plaintiff's claim and receive justice in that other country.
-7 If you want to dispute the jurisdiction of the court, you must, within the time specified for filing a statement of defence, and instead of filing and serving a statement of defence,—
+7
+If you want to dispute the jurisdiction of the court, you must, within the time specified for filing a statement of defence, and instead of filing and serving a statement of defence,—
 (a) file an appearance in this court, in the form required by the rules of this court, stating your objection to the court's jurisdiction and the grounds for it; and
 (b) serve a copy of it on the plaintiff.
 The appearance is not treated as a submission to the jurisdiction of the court.
-8 If you want to dispute the jurisdiction of the High Court or to defend the plaintiff's claim, you should either directly, or through a qualified legal adviser in the place where you are, send written authority (by fax or email) to a solicitor in New Zealand to act for you.
+8
+If you want to dispute the jurisdiction of the High Court or to defend the plaintiff's claim, you should either directly, or through a qualified legal adviser in the place where you are, send written authority (by fax or email) to a solicitor in New Zealand to act for you.
 Note: This form should not be used if the defendant is to be served in Australia under section 13 of the Trans-Tasman Proceedings Act 2010. Use instead the information that section 15 of that Act requires to be served on the defendant (see form 1 of the Schedule of the Trans-Tasman Proceedings Regulations and Rules 2013).
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 7
-Appearance under protest to jurisdiction
+Form G 7 Appearance under protest to jurisdiction
 rr 5.52, 29.7
 Complete and attach the memorandum as set out in form G 10.
-1 The defendant, [name], appears under protest to object to the jurisdiction of the court to hear and determine this proceeding.
-2 The defendant's objection is based on the following grounds: [specify grounds].
+1
+The defendant, [name], appears under protest to object to the jurisdiction of the court to hear and determine this proceeding.
+2
+The defendant's objection is based on the following grounds: [specify grounds].
 Date:
 Signature:
 (solicitor/counsel* for defendant)
 *Select one.
-Form G 8
-Appearance for ancillary purpose
+Form G 8 Appearance for ancillary purpose
 rr 5.52, 29.7
 Complete and attach the memorandum as set out in form G 10.
 The defendant, [name], does not oppose the plaintiff's claim but appears in order to be heard on the following matters: [specify matters].
@@ -9789,8 +9793,7 @@ Date:
 Signature:
 (solicitor/counsel* for defendant)
 *Select one.
-Form G 9
-Appearance reserving rights
+Form G 9 Appearance reserving rights
 rr 5.52, 29.7
 Complete and attach the memorandum as set out in form G 10.
 The defendant, [name], does not oppose the plaintiff's claim but appears in order to reserve the defendant's rights in the event that another person becomes a party to this proceeding, or that a party takes a step in the proceeding that is against the defendant's interests.
@@ -9798,8 +9801,7 @@ Date:
 Signature:
 (solicitor/counsel* for defendant)
 *Select one.
-Form G 10
-Memorandum to be attached to first document filed by party
+Form G 10 Memorandum to be attached to first document filed by party
 rr 5.44, 19.8(2)
 Select the statement that applies.
 Statement A
@@ -9830,21 +9832,22 @@ Documents for service on the party may be left at that address for service or ma
 (c) transmitted to the solicitor by fax to [fax number]; or
 (d) Omit this paragraph if email service will not be accepted.
 emailed to the solicitor at [email address].
-Form G 11
-Memorandum as to change of representation and/or address for service
+Form G 11 Memorandum as to change of representation and/or address for service
 r 5.40(8)
 To the Registrar of the High Court at [place]
 and
 To [name of other party or parties to proceeding]
 This document notifies you that—
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 The solicitor for the plaintiff/defendant/third party* is now [name and address of solicitor and solicitor's firm, if any].
 *Select one.
 Statement B
 The plaintiff/defendant/third party* now acts in person in place of [name and address of previous solicitor and solicitor's firm, if any].
 *Select one.
-2 The address for service of the plaintiff/defendant/third party* is now [address complying with definition of address for service in rule 1.3]. Service may also now be effected by—
+2
+The address for service of the plaintiff/defendant/third party* is now [address complying with definition of address for service in rule 1.3]. Service may also now be effected by—
 (a) posting it to the party/party's solicitor* at [post office box address]; or
 (b) leaving it for the party/party's solicitor* at a document exchange for direction to [document exchange box number]; or
 (c) transmitting it to the party/party's solicitor* by fax to [fax number]; or
@@ -9856,8 +9859,7 @@ Signature*:
 (plaintiff/defendant/third party†)
 *If this document notifies a change of solicitor, it must be signed by the party personally or by the party's solicitor.
 †Select one.
-Form G 12
-Notice of intention to speak Māori
+Form G 12 Notice of intention to speak Māori
 r 1.11(4)
 To the Registrar of the High Court at [place]
 and
@@ -9876,15 +9878,19 @@ Signature:
 (signature of party/solicitor/person intending to speak Māori*)
 *Select one.
 Notes
-1 The Maori Language Act 1987 entitles the following persons to speak Māori in legal proceedings: the parties to the proceedings, witnesses, counsel, and, with the leave of the court, other persons.
-2 If a person intends to speak Māori at all case management conferences and hearings relating to a proceeding or application, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the first case management conference or hearing, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
-3 If a person intends to speak Māori at all case management conferences and hearings after a particular case management conference or hearing, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the first case management conference or hearing at which the person intends to speak Māori, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
-4 If a person intends to speak Māori at a particular case management conference or hearing, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the case management conference or hearing, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
-5 Failure to give notice of intention to speak Māori does not prevent a person speaking Māori at a case management conference or hearing, but the court may—
+1
+The Maori Language Act 1987 entitles the following persons to speak Māori in legal proceedings: the parties to the proceedings, witnesses, counsel, and, with the leave of the court, other persons.
+2
+If a person intends to speak Māori at all case management conferences and hearings relating to a proceeding or application, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the first case management conference or hearing, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
+3
+If a person intends to speak Māori at all case management conferences and hearings after a particular case management conference or hearing, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the first case management conference or hearing at which the person intends to speak Māori, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
+4
+If a person intends to speak Māori at a particular case management conference or hearing, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the case management conference or hearing, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
+5
+Failure to give notice of intention to speak Māori does not prevent a person speaking Māori at a case management conference or hearing, but the court may—
 (a) adjourn the conference or hearing to enable the Registrar to arrange for an interpreter to be available at the adjourned case management conference or hearing; and
 (b) treat the failure to give notice as a relevant consideration in an award of costs.
-Form G 13
-Notice of proceeding when summary judgment sought by plaintiff
+Form G 13 Notice of proceeding when summary judgment sought by plaintiff
 r 12.4(4)
 To the defendant/defendants*
 *Select one.
@@ -9892,19 +9898,25 @@ This document notifies you that—
 (a) a claim, a copy of which is served with this document, has been filed by the plaintiff; and
 (b) the plaintiff has also applied to this court for immediate judgment against you (on that claim or, if judgment is not sought on the full claim, to the extent stated in the notice of application for summary judgment also served with this document) on the ground that you have no defence (to the plaintiff's claim or to the plaintiff's claim to the extent stated in the application).
 Notice of opposition and affidavit setting out defence
-1 If you have a defence to the plaintiff's claim, you should, not less than 3 working days before the date of hearing shown in the notice of application for summary judgment (also served with this document),—
+1
+If you have a defence to the plaintiff's claim, you should, not less than 3 working days before the date of hearing shown in the notice of application for summary judgment (also served with this document),—
 (a) file in the court registry at [place]—
 (i) a notice of opposition; and
 (ii) an affidavit sworn by you or on your behalf setting out your defence; and
 (b) serve a copy of that notice of opposition and a copy of that affidavit on the plaintiff.
-2 The court may give whatever judgment on the plaintiff's claim against you is thought just if you fail—
+2
+The court may give whatever judgment on the plaintiff's claim against you is thought just if you fail—
 (a) to file both a notice of opposition and an affidavit, and to serve copies of them on the plaintiff; and
 (b) to appear on the date of hearing in opposition to the plaintiff's application.
-3 If you are a natural person, you may appear personally at the hearing or by counsel.
-4 If you are a company or other corporation, you may appear only by counsel at the hearing.
+3
+If you are a natural person, you may appear personally at the hearing or by counsel.
+4
+If you are a company or other corporation, you may appear only by counsel at the hearing.
 Statement of defence
-5 You may, in addition to filing a notice of opposition and an affidavit, file a statement of defence.
-6 If you want to file a statement of defence,—
+5
+You may, in addition to filing a notice of opposition and an affidavit, file a statement of defence.
+6
+If you want to file a statement of defence,—
 (a) you must file it in the registry of the court in which your notice of opposition and your affidavit were filed; and
 (b) you must serve a copy of it on the plaintiff; and
 (c) you must both file and serve it not less than 3 working days before the date of hearing.
@@ -9915,12 +9927,15 @@ Signature:
 Note: Please carefully read the memorandum attached to this notice.
 Memorandum
 Advice
-1 Although you do not have to employ a solicitor for the purpose of this application, it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to oppose this application or appear at any hearing must consult a solicitor immediately because—
+1
+Although you do not have to employ a solicitor for the purpose of this application, it is recommended that you consult a solicitor about this matter immediately. However, a company or other corporation that wants to oppose this application or appear at any hearing must consult a solicitor immediately because—
 (a) it can only carry on proceedings in the court by a solicitor; and
 (b) it cannot appear to conduct a proceeding except by counsel (unless there are exceptional circumstances).
 Legal aid
-2 If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
-3 For this paragraph select the statement that applies.
+2
+If you cannot afford to meet the cost of the proceeding, you may be entitled to assistance under the Legal Services Act 2011 and regulations made under that Act.
+3
+For this paragraph select the statement that applies.
 Statement A
 The plaintiff is in receipt of legal aid for the purpose of this proceeding.
 Statement B
@@ -9928,14 +9943,18 @@ The plaintiff is not in receipt of legal aid for the purpose of this proceeding.
 Statement C
 The plaintiff has applied for legal aid for the purpose of this proceeding.
 Appearance objecting to jurisdiction of court
-4 If you object to the jurisdiction of the court to hear and determine this proceeding, you may, within the time allowed for filing your notice of opposition and your affidavit,—
+4
+If you object to the jurisdiction of the court to hear and determine this proceeding, you may, within the time allowed for filing your notice of opposition and your affidavit,—
 (a) file in the registry of the court, instead of a notice of opposition and an affidavit, an appearance stating your objection and the grounds for it; and
 (b) serve a copy of the appearance on the plaintiff.
-5 Such an appearance will not be treated as a submission to the jurisdiction of the court.
+5
+Such an appearance will not be treated as a submission to the jurisdiction of the court.
 Registry hours
-6 The registry hours of the court are from 9 am to 5 pm, except on court holidays.
+6
+The registry hours of the court are from 9 am to 5 pm, except on court holidays.
 Working days
-7 Working day means any day of the week other than—
+7
+Working day means any day of the week other than—
 (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
 (b) a day in the period commencing with 25 December in any year and ending with 15 January in the following year.
 Date:
@@ -9945,60 +9964,72 @@ Signature:
 Add the following notice if the defendant is to be served overseas (other than in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010). If the defendant is to be served in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010, do not use the following notice, but use instead the information that section 15 of that Act requires to be served on the defendant (see form 1 of the Schedule of the Trans-Tasman Regulations and Rules 2013).
 Notice to defendant served overseas
 Since you are resident outside New Zealand you are further notified that—
-1 The plaintiff has commenced a proceeding against you in the High Court of New Zealand, claiming the relief specified in the attached statement of claim.
-2 Although you are resident outside New Zealand, the plaintiff claims that the plaintiff can bring this proceeding against you in the High Court of New Zealand.
-3 By New Zealand law, the High Court may exercise jurisdiction in certain classes of case even though the defendant is resident outside New Zealand.
-4 [Specify particular provision(s) of rule 6.27 on which the plaintiff relies to serve the proceeding overseas.]
-5 In this case the plaintiff claims: [specify facts alleged by the plaintiff to confer jurisdiction].
-6 Even though the court has jurisdiction to hear and decide this proceeding, it may decline to do so if it is satisfied that—
+1
+The plaintiff has commenced a proceeding against you in the High Court of New Zealand, claiming the relief specified in the attached statement of claim.
+2
+Although you are resident outside New Zealand, the plaintiff claims that the plaintiff can bring this proceeding against you in the High Court of New Zealand.
+3
+By New Zealand law, the High Court may exercise jurisdiction in certain classes of case even though the defendant is resident outside New Zealand.
+4
+[Specify particular provision(s) of rule 6.27 on which the plaintiff relies to serve the proceeding overseas.]
+5
+In this case the plaintiff claims: [specify facts alleged by the plaintiff to confer jurisdiction].
+6
+Even though the court has jurisdiction to hear and decide this proceeding, it may decline to do so if it is satisfied that—
 (a) in all the circumstances a country other than New Zealand is the most appropriate country in which the matters in dispute in the proceeding should be decided; and
 (b) the plaintiff will have a fair opportunity to prove the plaintiff's claim and receive justice in that other country.
-7 If you want to dispute the jurisdiction of the High Court or to defend the plaintiff's claim, you should either directly, or through a qualified legal adviser in the place where you are, send authority to a solicitor in New Zealand by airmail instructing that solicitor to act for you.
+7
+If you want to dispute the jurisdiction of the High Court or to defend the plaintiff's claim, you should either directly, or through a qualified legal adviser in the place where you are, send authority to a solicitor in New Zealand by airmail instructing that solicitor to act for you.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 14
-Third party notice
+Form G 14 Third party notice
 r 4.10(2)
 To [full name, address, occupation]
 This document notifies you that—
 Claim by plaintiff against defendant
-1 This proceeding has been brought by the plaintiff against the defendant, in which the plaintiff claims the relief set out in the plaintiff's statement of claim (copy attached). The defendant has/has not* filed a statement of defence to the claim.
+1
+This proceeding has been brought by the plaintiff against the defendant, in which the plaintiff claims the relief set out in the plaintiff's statement of claim (copy attached). The defendant has/has not* filed a statement of defence to the claim.
 *Select one.
 Omit the following sentence if it does not apply.
 A copy of that statement of defence is served with this document.
 Claim by defendant against you
-2 The defendant claims relief or a remedy against you in respect of, or arising out of, the plaintiff's claim. That relief or remedy and the grounds on which it is claimed are set out in the defendant's statement of claim (copy attached).
+2
+The defendant claims relief or a remedy against you in respect of, or arising out of, the plaintiff's claim. That relief or remedy and the grounds on which it is claimed are set out in the defendant's statement of claim (copy attached).
 Can I dispute the claims made against the defendant and me?
-3 Yes. If you want to dispute the plaintiff's claim against the defendant or the defendant's claim against you, you must, within 25* working days after the day on which you are served with this notice,—
+3
+Yes. If you want to dispute the plaintiff's claim against the defendant or the defendant's claim against you, you must, within 25* working days after the day on which you are served with this notice,—
 (a) file in the registry of this court at [place] a statement of your defence to the plaintiff's claim or the defendant's claim, or both, as the case may be; and
 (b) serve a copy of that statement of defence on the plaintiff and the defendant and on the other parties to the proceeding.
 *Substitute "30", in accordance with rules 4.14(1A) and 6.35, if this notice is served out of New Zealand.
 What if I fail to dispute the claims?
-4 If you do not dispute the claims—
+4
+If you do not dispute the claims—
 (a) you will be treated as having admitted—
 (i) the plaintiff's claim against the defendant; and
 (ii) the defendant's right to the relief or remedy that the defendant claims against you; and
 (iii) the validity of any judgment that may be given in the proceeding, whether by consent, default, or otherwise; and
 (b) you will be bound by any judgment given, which may be enforced against you under the rules of court.
 Trial of proceeding
-5 The trial of the proceeding, if a trial is necessary, will take place at [place] at a time to be fixed by the court.
+5
+The trial of the proceeding, if a trial is necessary, will take place at [place] at a time to be fixed by the court.
 Include the following sentence if there is a court order, otherwise omit.
 This notice is issued under an order of the court made on [date].
 Date:
 Signature:
 (defendant/solicitor for the defendant*)
 *Select one.
-Form G 15
-Notice to other defendant
+Form G 15 Notice to other defendant
 r 4.21(1)
 To the [specify which defendant, eg, second, third, etc] defendant, [full name]
 This document notifies you that—
 Claim against you
-1 The [specify which defendant] defendant, [name], claims the relief or remedy against you set out in the attached statement of claim. The grounds for claiming the relief or remedy are also set out in the statement of claim.
+1
+The [specify which defendant] defendant, [name], claims the relief or remedy against you set out in the attached statement of claim. The grounds for claiming the relief or remedy are also set out in the statement of claim.
 Your right to dispute claim
-2 If you dispute the claim, you must, within 10 working days after the day on which you are served with this notice,—
+2
+If you dispute the claim, you must, within 10 working days after the day on which you are served with this notice,—
 (a) file in this registry of the court a statement of your defence to the claim; and
 (b) serve a copy of that statement of defence on—
 (i) the claiming defendant, [full name]; and
@@ -10008,16 +10039,18 @@ Date:
 Signature:
 (defendant/solicitor for defendant*)
 *Select one.
-Form G 16
-Affidavit of service
+Form G 16 Affidavit of service
 r 6.10
 I, [full name, place of residence, occupation], swear—
-1 On [day, date], I served the [party as described in the heading], [full name], with the following documents:
+1
+On [day, date], I served the [party as described in the heading], [full name], with the following documents:
 [List each document served, eg, statement of claim and notice of proceeding. If, under rule 6.10, a copy of a served document is not attached to the affidavit, the description of the document—
 (a) must be sufficient to enable the document to be identified; and
 (b) must include the date of the document (if the document bears a date)].
-2 I served the documents on the [party as described in the heading] at [place] in New Zealand by [specify how documents were delivered, eg, personally].
-3 I believe it was the [defendant or other party as described in the heading] that I served because—
+2
+I served the documents on the [party as described in the heading] at [place] in New Zealand by [specify how documents were delivered, eg, personally].
+3
+I believe it was the [defendant or other party as described in the heading] that I served because—
 Select the statement(s) that apply.
 Statement A
 the defendant/[party]* acknowledged that he/she* is the defendant.
@@ -10027,39 +10060,44 @@ I know the defendant/[party]*.
 *Select one.
 Statement C
 [Specify any other reason.]
-4 Omit this paragraph if it does not apply.
+4
+Omit this paragraph if it does not apply.
 True copies of the documents served are attached to this affidavit and marked "A" and "B".
 Signature of deponent:
 Sworn at: [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand/Registrar/Deputy Registrar*)
 *Select one.
-Form G 17
-Service of foreign process in New Zealand—Registrar's certificate
+Form G 17 Service of foreign process in New Zealand—Registrar's certificate
 r 6.25
-1 I, [full name], Registrar of the High Court of New Zealand, at [place], certify that the documents attached to this certificate are—
+1
+I, [full name], Registrar of the High Court of New Zealand, at [place], certify that the documents attached to this certificate are—
 (a) the original letter of request for service of process received from [name of foreign court or tribunal] at [place where foreign court or tribunal sits] in [name of foreign country], in the matter of [specify matter pending before foreign court or tribunal]; and
 (b) the copy of the process/citation* received with the letter of request; and
 (c) the evidence of service on [full name of entity or person named in letter of request].
 *Select one.
-2 For this paragraph select the statement that applies.
+2
+For this paragraph select the statement that applies.
 Statement A
 I certify that the service that has been proved and its proof comply with the law and practice of the High Court of New Zealand regulating the service and proof of service of New Zealand legal process in New Zealand.
 Statement B
 Service of the process could not be effected for the following reasons: [specify reasons].
-3 I certify that the cost of effecting the service/attempting to effect the service* is $[amount].
+3
+I certify that the cost of effecting the service/attempting to effect the service* is $[amount].
 *Select one.
 Date:
 Signature:
 (Registrar)
-Form G 18
-Request for service abroad
+Form G 18 Request for service abroad
 r 6.34(2)
 To the Registrar of the High Court at [place]
-1 This request is made under [name of convention].
-2 I request that the statement of claim and notice of proceeding in this proceeding be transmitted through the proper channel to [name of country] for service/substituted service* on the [describe defendant as in the heading] defendant, [name], at [place] or elsewhere in [name of country], and that the service be effected directly through a New Zealand or British consular officer (or by the competent authority of that country).
+1
+This request is made under [name of convention].
+2
+I request that the statement of claim and notice of proceeding in this proceeding be transmitted through the proper channel to [name of country] for service/substituted service* on the [describe defendant as in the heading] defendant, [name], at [place] or elsewhere in [name of country], and that the service be effected directly through a New Zealand or British consular officer (or by the competent authority of that country).
 *Select one.
-3 I undertake—
+3
+I undertake—
 (a) to be responsible for all expenses of effecting or endeavouring to effect service incurred by the New Zealand Government and by any competent authority acting in the matter or by any governmental officer; and
 (b) on being advised of the amount of those expenses,—
 (i) to pay that amount immediately to a Crown Bank Account; and
@@ -10068,25 +10106,32 @@ Date:
 Signature:
 (plaintiff/solicitor for plaintiff*)
 *Select one.
-Form G 19
-Report of examiner
+Form G 19 Report of examiner
 r 9.23
 To the Registrar of the High Court at [place]
-1 Under the order of this court made on [date] and rule 9.20 of the High Court Rules, I, [full name and address of examiner], the examiner appointed by that order,—
+1
+Under the order of this court made on [date] and rule 9.20 of the High Court Rules, I, [full name and address of examiner], the examiner appointed by that order,—
 (a) duly appointed [time, date] as the time and [address of place where examination to be held] as the place where the persons named in the order were to be examined; and
 (b) notified the parties.
-2 At the appointed time and place, the parties appeared by counsel, namely, [name] for the plaintiff and [name] for the defendant. The proceeding was adjourned until [particulars of any adjournments]*.
+2
+At the appointed time and place, the parties appeared by counsel, namely, [name] for the plaintiff and [name] for the defendant. The proceeding was adjourned until [particulars of any adjournments]*.
 *Omit this sentence if proceeding not adjourned.
-3 The examination of the witnesses named in the order was conducted before me in accordance with rule 9.20 of the High Court Rules on [dates on which witnesses were examined].
-4 With the written consent of each party and in accordance with rule 9.21 of the High Court Rules, the following witnesses were also examined before me on [dates on which additional witnesses were examined].
-5 Before each witness was examined, the witness took an oath or affirmation to tell the truth, the whole truth, and nothing but the truth in the evidence that the witness was about to give.
-6 The evidence of each witness was recorded. Under rule 9.22 of the High Court Rules, I also recorded—
+3
+The examination of the witnesses named in the order was conducted before me in accordance with rule 9.20 of the High Court Rules on [dates on which witnesses were examined].
+4
+With the written consent of each party and in accordance with rule 9.21 of the High Court Rules, the following witnesses were also examined before me on [dates on which additional witnesses were examined].
+5
+Before each witness was examined, the witness took an oath or affirmation to tell the truth, the whole truth, and nothing but the truth in the evidence that the witness was about to give.
+6
+The evidence of each witness was recorded. Under rule 9.22 of the High Court Rules, I also recorded—
 (a) a note of each objection to any evidence; and
 (b) the ground of each objection; and
 (c) my opinion on each objection; and
 (d) the answer (if any) of the witness to the question.
-7 The entire record is attached.
-8 I certify that I incurred the following out-of-pocket expenses in relation to this examination: [specify items, eg, rent, transport, stenographer, and attach vouchers].
+7
+The entire record is attached.
+8
+I certify that I incurred the following out-of-pocket expenses in relation to this examination: [specify items, eg, rent, transport, stenographer, and attach vouchers].
 Date:
 Signature:
 (examiner)
@@ -10105,14 +10150,16 @@ the witness [name] did not attend.
 Statement C
 the plaintiff/defendant* stated that there was no intention to proceed with the taking of evidence.
 *Select one.
-Form G 20
-Subpoena to give evidence in New Zealand proceeding for service in Australia
+Form G 20 Subpoena to give evidence in New Zealand proceeding for service in Australia
 r 28.4(1)
 To [name, place of residence, occupation]
-1 You are ordered to attend the High Court of New Zealand at [place, date, time] and, on each subsequent day until you are discharged from attendance, to give evidence on behalf of the [party] in this proceeding.
-2 Omit this paragraph if it does not apply.
+1
+You are ordered to attend the High Court of New Zealand at [place, date, time] and, on each subsequent day until you are discharged from attendance, to give evidence on behalf of the [party] in this proceeding.
+2
+Omit this paragraph if it does not apply.
 You are ordered to bring with you and produce at the same time and place [details of documents to be produced].
-3 This order of subpoena is issued by [full name], the party/solicitor for the party*, with the leave of the Honourable Justice [name].
+3
+This order of subpoena is issued by [full name], the party/solicitor for the party*, with the leave of the Honourable Justice [name].
 *Select one.
 Date:
 Signature:
@@ -10121,17 +10168,19 @@ Postal address of registry:
 Telephone:
 Fax:
 *Select one.
-Form G 21
-Subpoena for production only issued in New Zealand proceeding for service in Australia
+Form G 21 Subpoena for production only issued in New Zealand proceeding for service in Australia
 r 28.4(1)
 To [name, place of residence, occupation]
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 You are ordered to produce this subpoena and the documents or things set out in the list below at the High Court of New Zealand at [place, date, time].
 Statement B
 You are ordered to produce this subpoena and the documents or things set out in the list below at the Federal Court of Australia at [place] not later than [date].
-2 If you produce the documents or things at the Federal Court you must obtain a receipt for the documents or things produced from a Registrar, Deputy Registrar, District Registrar, or Deputy District Registrar of that court and send a copy of that receipt and a copy of this subpoena by fax to the Registry of the High Court of New Zealand shown below and provide an officer of the Federal Court with a sum that is sufficient to send the documents or things to New Zealand.
-3 This order of subpoena is issued by [full name], the party/solicitor for the party*, with the leave of the Honourable Justice [name].
+2
+If you produce the documents or things at the Federal Court you must obtain a receipt for the documents or things produced from a Registrar, Deputy Registrar, District Registrar, or Deputy District Registrar of that court and send a copy of that receipt and a copy of this subpoena by fax to the Registry of the High Court of New Zealand shown below and provide an officer of the Federal Court with a sum that is sufficient to send the documents or things to New Zealand.
+3
+This order of subpoena is issued by [full name], the party/solicitor for the party*, with the leave of the Honourable Justice [name].
 *Select one.
 List of documents and things
 [List documents and things.]
@@ -10142,17 +10191,21 @@ Postal address of registry:
 Telephone:
 Fax:
 *Select one.
-Form G 22
-Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings
+Form G 22 Statement of rights and obligations of person served in Australia with subpoena in Trans-Tasman Competition Proceedings
 r 28.5(1)
 Allowances and travelling expenses
-1 At the time you are served with this subpoena, or at some other reasonable time before the hearing, you are entitled to be paid allowances and travelling expenses, or given vouchers in respect of those allowances and expenses, that cover your reasonable expenses in complying with this subpoena.
-2 You are not required to comply with this subpoena unless those allowances and travelling expenses or vouchers are tendered to you.
-3 You are also entitled to be paid for your reasonable expenses in complying with the subpoena in addition to any payment or vouchers tendered to you. You may apply to the High Court of New Zealand for an order specifying that amount.
+1
+At the time you are served with this subpoena, or at some other reasonable time before the hearing, you are entitled to be paid allowances and travelling expenses, or given vouchers in respect of those allowances and expenses, that cover your reasonable expenses in complying with this subpoena.
+2
+You are not required to comply with this subpoena unless those allowances and travelling expenses or vouchers are tendered to you.
+3
+You are also entitled to be paid for your reasonable expenses in complying with the subpoena in addition to any payment or vouchers tendered to you. You may apply to the High Court of New Zealand for an order specifying that amount.
 Failure to comply
-4 Failure to comply with this subpoena constitutes contempt of the Federal Court of Australia, and is punishable unless you establish that the failure to comply should be excused.
+4
+Failure to comply with this subpoena constitutes contempt of the Federal Court of Australia, and is punishable unless you establish that the failure to comply should be excused.
 Setting subpoena aside
-5 You may apply to the High Court of New Zealand to have the subpoena set aside under section 56G of the Judicature Act 1908 of New Zealand. Section 56G of the Judicature Act 1908 provides that, without limiting the grounds on which the order may be set aside, the High Court may set the order aside on any of the following grounds:
+5
+You may apply to the High Court of New Zealand to have the subpoena set aside under section 56G of the Judicature Act 1908 of New Zealand. Section 56G of the Judicature Act 1908 provides that, without limiting the grounds on which the order may be set aside, the High Court may set the order aside on any of the following grounds:
 (a) that the witness does not have, and could not reasonably be expected to obtain, the necessary travel documents:
 (b) that the witness is liable to be detained for the purpose of serving a sentence:
 (c) that the witness is liable to prosecution for an offence:
@@ -10160,22 +10213,28 @@ Setting subpoena aside
 (e) that the evidence of the witness could be obtained without significantly greater expense by other means:
 (f) that compliance with the order of subpoena would cause hardship or serious inconvenience to the witness:
 (g) in the case of an order of subpoena that requires a witness to produce documents, whether or not it also requires the witness to testify, that the court is satisfied that the documents should not be taken out of Australia and that evidence of the contents of the documents can be given by other means.
-6 The application must be made by affidavit and must be filed in the registry of the High Court of New Zealand that issued the order of subpoena.
-7 The affidavit must be sworn by the applicant and must set out the facts relied on to set the subpoena aside.
-8 You can send the affidavit by fax. If you do this,—
+6
+The application must be made by affidavit and must be filed in the registry of the High Court of New Zealand that issued the order of subpoena.
+7
+The affidavit must be sworn by the applicant and must set out the facts relied on to set the subpoena aside.
+8
+You can send the affidavit by fax. If you do this,—
 (a) mark the document for the attention of the officer whose name appears on the subpoena; and
 (b) give a fax number so that a receipt can be sent to you; and
 (c) post the original affidavit to the court.
-9 Your affidavit will be served on the party who obtained the subpoena.
-10 The High Court of New Zealand will decide whether a hearing is necessary. If it is, you will be notified by an officer of the court.
+9
+Your affidavit will be served on the party who obtained the subpoena.
+10
+The High Court of New Zealand will decide whether a hearing is necessary. If it is, you will be notified by an officer of the court.
 Note
 If you are in doubt about any matter relating to this subpoena you should obtain legal advice.
-Form G 23
-Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia
+Form G 23 Certificate of non-compliance with subpoena issued in New Zealand proceeding for service in Australia
 r 28.8
 To the Federal Court of Australia at [place]
-1 The High Court of New Zealand certifies that [name of person subpoenaed], having been served with a subpoena in a New Zealand proceeding within the meaning of section 32B of the Federal Court of Australia Act 1976 (a copy of which is attached to this certificate), has contravened that subpoena in that [particulars of contravention].
-2 For this paragraph select the statement that applies.
+1
+The High Court of New Zealand certifies that [name of person subpoenaed], having been served with a subpoena in a New Zealand proceeding within the meaning of section 32B of the Federal Court of Australia Act 1976 (a copy of which is attached to this certificate), has contravened that subpoena in that [particulars of contravention].
+2
+For this paragraph select the statement that applies.
 Statement A
 No application to set aside the subpoena under section 56G of the Judicature Act 1908 of New Zealand has been made to the High Court.
 Statement B
@@ -10184,15 +10243,16 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 24
-Notice of discontinuance
+Form G 24 Notice of discontinuance
 r 15.19(2)
 To the Registrar of the High Court at [place]
 and
 To [name of other party or parties to proceeding]
 This document notifies you that—
-1 [Name of plaintiff discontinuing proceeding] discontinues this proceeding against [name of defendant or, if more than 1 defendant, names of defendants or names of defendants against whom the plaintiff discontinues the proceeding].
-2 For this paragraph select the statement that applies.
+1
+[Name of plaintiff discontinuing proceeding] discontinues this proceeding against [name of defendant or, if more than 1 defendant, names of defendants or names of defendants against whom the plaintiff discontinues the proceeding].
+2
+For this paragraph select the statement that applies.
 Statement A
 A copy of the written consent of a plaintiff who is required under rule 15.20 of the High Court Rules to consent to this discontinuance is attached.
 Statement B
@@ -10203,14 +10263,16 @@ Date:
 Signature:
 (plaintiff/solicitor for plaintiff*)
 *Select one.
-Form G 25
-Subpoena
+Form G 25 Subpoena
 r 9.52(1)
 To [name, place of residence, occupation]
-1 You are ordered to attend the High Court at [place, date, time] and, on each subsequent day until you are discharged from attendance, to give evidence on behalf of the [party] in this proceeding.
-2 Omit this paragraph if it does not apply.
+1
+You are ordered to attend the High Court at [place, date, time] and, on each subsequent day until you are discharged from attendance, to give evidence on behalf of the [party] in this proceeding.
+2
+Omit this paragraph if it does not apply.
 You are ordered to bring with you and produce at the same time and place [details of documents and things to be produced].
-3 This order of subpoena is issued by [full name], the party/solicitor for the party.*
+3
+This order of subpoena is issued by [full name], the party/solicitor for the party.*
 *Select one.
 Date:
 Signature:
@@ -10218,19 +10280,25 @@ Signature:
 *Select one.
 Notes
 Allowances and travelling expenses
-1 You are entitled to have paid to you, at the time of the service of this order on you, or at some other reasonable time before the hearing, an amount in respect of your allowances and travelling expenses.
-2 The scale of allowances and travelling expenses that applies is prescribed for the time being by the Witnesses and Interpreters Fees Regulations 1974.
+1
+You are entitled to have paid to you, at the time of the service of this order on you, or at some other reasonable time before the hearing, an amount in respect of your allowances and travelling expenses.
+2
+The scale of allowances and travelling expenses that applies is prescribed for the time being by the Witnesses and Interpreters Fees Regulations 1974.
 Failure to attend
-3 If, having been tendered or paid allowances and travelling expenses at the appropriate rate, you fail to attend, the court may issue a warrant to arrest you and bring you before the court.
-4 The penalty for failing to attend without just excuse is a fine not exceeding $500.
-Form G 26
-Subpoena to give evidence for service in Australia
+3
+If, having been tendered or paid allowances and travelling expenses at the appropriate rate, you fail to attend, the court may issue a warrant to arrest you and bring you before the court.
+4
+The penalty for failing to attend without just excuse is a fine not exceeding $500.
+Form G 26 Subpoena to give evidence for service in Australia
 r 9.59(1)
 To [name, place of residence, occupation]
-1 You are ordered to attend [place of court or, if witness is required to attend at a place other than the High Court, that other place] on [date, time] and on each subsequent day until you are discharged from attendance to give evidence on behalf of the [party] in this proceeding.
-2 Omit this paragraph if it does not apply.
+1
+You are ordered to attend [place of court or, if witness is required to attend at a place other than the High Court, that other place] on [date, time] and on each subsequent day until you are discharged from attendance to give evidence on behalf of the [party] in this proceeding.
+2
+Omit this paragraph if it does not apply.
 You are ordered to bring with you and produce at the same time and place [details of documents and things to be produced].
-3 This order of subpoena is issued by [full name], the party/solicitor for the party*.
+3
+This order of subpoena is issued by [full name], the party/solicitor for the party*.
 *Select one.
 Note: Section 156(2) of the Evidence Act 2006 of New Zealand allows this order of subpoena to be served in Australia only if it is accompanied by a copy of the order granting leave to serve it, and a statement in the prescribed form of the rights and obligations of the person served.
 Date:
@@ -10240,13 +10308,15 @@ Postal address of registry:
 Telephone:
 Fax:
 *Select one.
-Form G 27
-Subpoena for production only for service in Australia
+Form G 27 Subpoena for production only for service in Australia
 r 9.59(2)
 To [name, place of residence, occupation]
-1 You are ordered to produce this subpoena and the documents or things set out in the list below at the High Court of New Zealand at [place, date, time].
-2 You will comply with this subpoena if you produce the documents or things at a registry of an Australian court that is authorised by the law of the Commonwealth of Australia to receive those documents or things, no later than 7 working days before that date.
-3 This order of subpoena is issued by [full name], the party/solicitor for the party*.
+1
+You are ordered to produce this subpoena and the documents or things set out in the list below at the High Court of New Zealand at [place, date, time].
+2
+You will comply with this subpoena if you produce the documents or things at a registry of an Australian court that is authorised by the law of the Commonwealth of Australia to receive those documents or things, no later than 7 working days before that date.
+3
+This order of subpoena is issued by [full name], the party/solicitor for the party*.
 *Select one.
 Note: Section 156(2) of the Evidence Act 2006 of New Zealand allows this order of subpoena to be served in Australia only if it is accompanied by a copy of the order granting leave to serve it, and a statement in the prescribed form of the rights and obligations of the person served.
 List of documents or things
@@ -10258,52 +10328,66 @@ Postal address of registry:
 Telephone:
 Fax:
 *Select one.
-Form G 28
-Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006
+Form G 28 Statement of rights and obligations of person served in Australia with subpoena under Evidence Act 2006
 r 9.61
 Important: This statement is important. Please read the statement and the attached document carefully. If you are in any doubt about this statement or the attached documents, you should get legal advice immediately.
 Attached to this statement is a subpoena issued by the High Court of New Zealand. A subpoena is a summons to a witness to give evidence or produce documents. The subpoena attached to this statement requires you to [specify whether witness is required to attend the High Court or some other place to give evidence, give evidence and produce documents or things, or only produce documents or things].
 The subpoena may be served in Australia under section 156 of the Evidence Act 2006 of New Zealand.
 This statement sets out your rights and obligations relating to the subpoena.
 Your rights
-1 At the time you are served with this subpoena, or at some other reasonable time before the hearing, you are entitled to be paid allowances and travelling expenses, or given vouchers in respect of those allowances and expenses, that cover your reasonable expenses in complying with this subpoena.
-2 You are not required to comply with this subpoena unless those allowances and travelling expenses or vouchers are tendered to you.
-3 You are also entitled to be paid for your reasonable expenses in complying with the subpoena in addition to any payment or vouchers tendered to you. You may apply to the High Court of New Zealand for an order specifying that amount.
-4 You may apply to the High Court of New Zealand to have the subpoena set aside. If you want to have the subpoena set aside, you should get legal advice as soon as possible.
-5 An application to set the subpoena aside can be made and determined without having to go to New Zealand. You are entitled to have Australian solicitors act for you.
-6 The High Court of New Zealand may determine the application without a hearing if neither you nor the party who requested the issue of the subpoena requires a hearing. The court may hold a hearing by audio link or audiovisual link if the court thinks fit. If a party applies to the court for a direction to hear the application by audio link or audiovisual link, the court is required to hear it by audio link or audiovisual link.
+1
+At the time you are served with this subpoena, or at some other reasonable time before the hearing, you are entitled to be paid allowances and travelling expenses, or given vouchers in respect of those allowances and expenses, that cover your reasonable expenses in complying with this subpoena.
+2
+You are not required to comply with this subpoena unless those allowances and travelling expenses or vouchers are tendered to you.
+3
+You are also entitled to be paid for your reasonable expenses in complying with the subpoena in addition to any payment or vouchers tendered to you. You may apply to the High Court of New Zealand for an order specifying that amount.
+4
+You may apply to the High Court of New Zealand to have the subpoena set aside. If you want to have the subpoena set aside, you should get legal advice as soon as possible.
+5
+An application to set the subpoena aside can be made and determined without having to go to New Zealand. You are entitled to have Australian solicitors act for you.
+6
+The High Court of New Zealand may determine the application without a hearing if neither you nor the party who requested the issue of the subpoena requires a hearing. The court may hold a hearing by audio link or audiovisual link if the court thinks fit. If a party applies to the court for a direction to hear the application by audio link or audiovisual link, the court is required to hear it by audio link or audiovisual link.
 Note: See "setting subpoena aside" for details of the grounds on which a subpoena may be set aside and the procedure that must be followed.
 Your obligations
-7 If the subpoena is not set aside, you must comply with it if—
+7
+If the subpoena is not set aside, you must comply with it if—
 (a) when you were served with the subpoena, or at some reasonable time before the time specified for you to comply, you have been paid or tendered allowances and travelling expenses, or offered vouchers in respect of those allowances and expenses, that are sufficient to cover reasonable expenses incurred in complying with this subpoena; and
 (b) a copy of the order of the Judge of the High Court of New Zealand granting leave to serve the subpoena was served on you with the subpoena; and
 (c) you were served with the subpoena not later than the date specified by the Judge of the High Court who granted leave to serve the subpoena; and
 (d) any other conditions relating to the service of the subpoena have been complied with; and
 (e) you have attained the age of 18 years.
-8 If the subpoena only requires you to produce documents or things, you may comply with the subpoena by producing the documents or things at any registry of an Australian court that is authorised by the law of the Commonwealth of Australia to receive them, not later than 10 days before the date specified in the subpoena for producing them in the High Court of New Zealand. If you produce the documents or things at a registry of an Australian court, you will be required to produce the subpoena and to pay the cost of sending the documents or things to the High Court. You are entitled to have the costs of producing the documents or things, and of sending them to the High Court, paid or tendered to you before you are required to comply with the subpoena.
+8
+If the subpoena only requires you to produce documents or things, you may comply with the subpoena by producing the documents or things at any registry of an Australian court that is authorised by the law of the Commonwealth of Australia to receive them, not later than 10 days before the date specified in the subpoena for producing them in the High Court of New Zealand. If you produce the documents or things at a registry of an Australian court, you will be required to produce the subpoena and to pay the cost of sending the documents or things to the High Court. You are entitled to have the costs of producing the documents or things, and of sending them to the High Court, paid or tendered to you before you are required to comply with the subpoena.
 Failure to comply with subpoena
-9 Failure to comply with the subpoena constitutes contempt of the Federal Court of Australia and is punishable unless you establish that the failure to comply should be excused.
+9
+Failure to comply with the subpoena constitutes contempt of the Federal Court of Australia and is punishable unless you establish that the failure to comply should be excused.
 Setting subpoena aside
-10 You may apply to the High Court of New Zealand to have this subpoena set aside under section 160 of the Evidence Act 2006 of New Zealand. Section 160 provides that the High Court must set the subpoena aside if—
+10
+You may apply to the High Court of New Zealand to have this subpoena set aside under section 160 of the Evidence Act 2006 of New Zealand. Section 160 provides that the High Court must set the subpoena aside if—
 (a) the subpoena requires the witness to attend at a sitting of a court and the High Court is satisfied that—
 (i) the witness does not have, and cannot by the exercise of reasonable diligence within the time required for compliance obtain, the necessary travel documents; or
 (ii) the witness is liable to be detained in New Zealand for the purpose of serving a sentence; or
 (iii) the witness is liable to prosecution for an offence, or is being prosecuted for an offence, in New Zealand; or
 (iv) the witness is liable to the imposition of a civil penalty in civil proceedings in New Zealand, not being proceedings for a pecuniary penalty under the Commerce Act 1986; or
 (b) the witness is subject to a restriction on his or her movements, imposed by law or by order of a court, that would prevent the witness complying with the subpoena.
-11 Section 160 further provides that the High Court may set a subpoena aside if it is satisfied that—
+11
+Section 160 further provides that the High Court may set a subpoena aside if it is satisfied that—
 (a) the evidence of the witness could be obtained satisfactorily without significantly greater expense by other means; or
 (b) compliance with the subpoena would cause hardship or serious inconvenience to the witness; or
 (c) in the case of a subpoena that requires a witness to produce documents or things, whether or not it also requires the witness to give oral evidence,—
 (i) the documents or things should not be taken out of Australia; and
 (ii) satisfactory evidence of the contents of the documents or evidence of the things can be given by other means.
-12 An application to set the subpoena aside must be filed in the registry of the High Court of New Zealand in which leave to serve the subpoena was given, together with any affidavit setting out the facts on which you rely.
-13 The application and the affidavit may be sent by fax or email. The fax number and email address of the registry of the court are [fax number and email address].
-14 The application must contain an address for service in New Zealand or Australia and may also state a fax number in New Zealand or Australia or email address to which documents relating to the application may be sent.
-15 The Registrar of the High Court of New Zealand will arrange for service of the application and any affidavit.
-16 The High Court of New Zealand can decide the application without a hearing if neither you (for example, in the application) nor the party who requested the issue of the subpoena (for example, in a document filed in response to the application) states that a hearing is required. If there is to be a hearing, the hearing may, if the court thinks fit, be by audio link or audiovisual link. You may, however, either in your application to set the subpoena aside or within a reasonable time after filing the application, request that the court direct that the hearing be by audio link or audiovisual link. If you make such a request, the court will direct that the hearing be by audio link or audiovisual link.
-Form G 29
-Certificate of non-compliance with subpoena for service in Australia
+12
+An application to set the subpoena aside must be filed in the registry of the High Court of New Zealand in which leave to serve the subpoena was given, together with any affidavit setting out the facts on which you rely.
+13
+The application and the affidavit may be sent by fax or email. The fax number and email address of the registry of the court are [fax number and email address].
+14
+The application must contain an address for service in New Zealand or Australia and may also state a fax number in New Zealand or Australia or email address to which documents relating to the application may be sent.
+15
+The Registrar of the High Court of New Zealand will arrange for service of the application and any affidavit.
+16
+The High Court of New Zealand can decide the application without a hearing if neither you (for example, in the application) nor the party who requested the issue of the subpoena (for example, in a document filed in response to the application) states that a hearing is required. If there is to be a hearing, the hearing may, if the court thinks fit, be by audio link or audiovisual link. You may, however, either in your application to set the subpoena aside or within a reasonable time after filing the application, request that the court direct that the hearing be by audio link or audiovisual link. If you make such a request, the court will direct that the hearing be by audio link or audiovisual link.
+Form G 29 Certificate of non-compliance with subpoena for service in Australia
 r 9.65
 To the Federal Court of Australia at [place]
 The High Court of New Zealand certifies that on [date] the Honourable Justice [name] gave leave to serve a subpoena, being a subpoena to which Part 4 of the Evidence Act 2006 of New Zealand applies, on [name of person subpoenaed], and that [name of person subpoenaed] has failed to comply with the subpoena in that [particulars of failure to comply].
@@ -10315,8 +10399,7 @@ Telephone:
 Fax:
 *Select one.
 Sealed: [date]
-Form G 30
-Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934
+Form G 30 Application for registration of foreign judgment under Reciprocal Enforcement of Judgments Act 1934
 r 23.4(1)
 In the High Court of New Zealand
 [Name of registry] Registry
@@ -10328,51 +10411,66 @@ Between [full name] (judgment creditor)
 And [full name] (judgment debtor)
 To the Registrar
 This document notifies you that—
-1 On [date] at 10 am, the judgment creditor will apply to the court for an order that the judgment be registered under the Reciprocal Enforcement of Judgments Act 1934.
-2 The judgment is attached to the affidavit of [name of person making affidavit, and its date].
-3 Omit this paragraph if the foreign judgment or an authenticated copy of it is being filed and is in English.
+1
+On [date] at 10 am, the judgment creditor will apply to the court for an order that the judgment be registered under the Reciprocal Enforcement of Judgments Act 1934.
+2
+The judgment is attached to the affidavit of [name of person making affidavit, and its date].
+3
+Omit this paragraph if the foreign judgment or an authenticated copy of it is being filed and is in English.
 A translation of the judgment into English is attached to the affidavit of [name of person making affidavit, and its date].
-4 Select the statement that applies.
+4
+Select the statement that applies.
 Statement A
 The relevant rate of exchange, and the New Zealand currency equivalent of the amount of the judgment calculated at that rate, are set out in the affidavit of [name of person making affidavit, and its date].
 Statement B
 The judgment creditor wants the judgment to be registered in the currency in which it is expressed.
-5 The rate of interest carried by the judgment by the law of [specify country under whose law it was given] is [specify rate] per cent. The amount of interest which, by that law, has become due up to the time of this application is [specify amount in New Zealand currency if statement A was chosen for paragraph 4, or in the currency of the country of the judgment if statement B was chosen for that paragraph].
-6 Evidence of the right to register the judgment is contained in the affidavit of [name of person making affidavit, and its date].
-7 Omit this paragraph if there is no relevant Order in Council imposing further evidentiary requirements.
+5
+The rate of interest carried by the judgment by the law of [specify country under whose law it was given] is [specify rate] per cent. The amount of interest which, by that law, has become due up to the time of this application is [specify amount in New Zealand currency if statement A was chosen for paragraph 4, or in the currency of the country of the judgment if statement B was chosen for that paragraph].
+6
+Evidence of the right to register the judgment is contained in the affidavit of [name of person making affidavit, and its date].
+7
+Omit this paragraph if there is no relevant Order in Council imposing further evidentiary requirements.
 Further evidence required by an Order in Council under section 3 of the Reciprocal Enforcement of Judgments Act 1934 is contained in the affidavit of [name of person making affidavit, and its date].
 Date:
 Signature:
 (judgment creditor/solicitor for judgment creditor*)
 *Select one.
 Notes
-1 This form should be used if the application is being made without notice to the judgment debtor. Modify it appropriately if it is being made on notice.
-2 The foreign judgment must be verified or certified or otherwise duly authenticated (see rule 23.8 of the High Court Rules).
-3 The affidavit referred to in paragraph 7 must comply with rule 23.11 of the High Court Rules.
-4 If only part of the foreign judgment is entitled to registration (see rule 23.13 of the High Court Rules), identify that part. An affidavit should explain why the remainder is not being registered.
-Form G 31
-Interlocutory application on notice
+1
+This form should be used if the application is being made without notice to the judgment debtor. Modify it appropriately if it is being made on notice.
+2
+The foreign judgment must be verified or certified or otherwise duly authenticated (see rule 23.8 of the High Court Rules).
+3
+The affidavit referred to in paragraph 7 must comply with rule 23.11 of the High Court Rules.
+4
+If only part of the foreign judgment is entitled to registration (see rule 23.13 of the High Court Rules), identify that part. An affidavit should explain why the remainder is not being registered.
+Form G 31 Interlocutory application on notice
 rr 7.19(4), 12.4(4), 25.5
 To the Registrar of the High Court at [place]
 and
 To [name of party/parties to be served with this application]
 This document notifies you that—
-1 The applicant, [name], will on [date] apply to the court for an order/orders* [specify orders sought, numbering them if more than 1].
+1
+The applicant, [name], will on [date] apply to the court for an order/orders* [specify orders sought, numbering them if more than 1].
 *Select one.
-2 The grounds on which each order is sought are as follows: [specify concisely the grounds on which each order is sought].
-3 The application is made in reliance on [specify any particular provision of an enactment, principle of law, or judicial decision relied on].
+2
+The grounds on which each order is sought are as follows: [specify concisely the grounds on which each order is sought].
+3
+The application is made in reliance on [specify any particular provision of an enactment, principle of law, or judicial decision relied on].
 Date:
 Signature:
 (solicitor for applicant/counsel for applicant/applicant*)
 *Select one.
-Form G 32
-Interlocutory application without notice
+Form G 32 Interlocutory application without notice
 rr 7.19(4), 7.23(1)
 To the Registrar of the High Court at [place]
 This document notifies you that—
-1 The applicant, [name, place of residence, occupation], applies for an order/orders* [specify orders sought, numbering them if more than 1].
-2 The grounds on which each order is sought are as follows: [specify concisely the grounds on which each order is sought].
-3 The application is made in reliance on [specify any particular provision of an enactment, principle of law, or judicial decision relied on].
+1
+The applicant, [name, place of residence, occupation], applies for an order/orders* [specify orders sought, numbering them if more than 1].
+2
+The grounds on which each order is sought are as follows: [specify concisely the grounds on which each order is sought].
+3
+The application is made in reliance on [specify any particular provision of an enactment, principle of law, or judicial decision relied on].
 I certify that this application complies with the rules.*
 *This certificate may be dispensed with if a Judge so orders under rule 7.23(5). If dispensation is sought, the reasons for the absence of a lawyer's certificate must be stated.
 Date:
@@ -10380,171 +10478,209 @@ Signature:
 (solicitor for applicant/counsel for applicant/applicant*)
 *Select one.
 [Telephone number]
-Form G 33
-Notice of opposition
+Form G 33 Notice of opposition
 rr 7.24(3), 12.9(1), 29.11(3)
 To the Registrar of the High Court at [place]
 and
 To [name of applicant and any other party to be served with this notice]
 This document notifies you that—
-1 The respondent, [name], intends to oppose the interlocutory application by the plaintiff/defendant* dated [date].
+1
+The respondent, [name], intends to oppose the interlocutory application by the plaintiff/defendant* dated [date].
 *Select one.
-2 The respondent is opposed to the making of the order/the orders numbered [specify numbers] in the application*.
+2
+The respondent is opposed to the making of the order/the orders numbered [specify numbers] in the application*.
 *Select one.
-3 The grounds on which the respondent opposes the making of the order(s) are as follows: [specify grounds concisely].
-4 The respondent relies on [specify any particular provision of an enactment, principle of law, or judicial decision relied on].
+3
+The grounds on which the respondent opposes the making of the order(s) are as follows: [specify grounds concisely].
+4
+The respondent relies on [specify any particular provision of an enactment, principle of law, or judicial decision relied on].
 Date:
 Signature:
 (solicitor for respondent/counsel for respondent/respondent*)
 *Select one.
-Form G 34
-Interlocutory order
+Form G 34 Interlocutory order
 rr 7.47(3), 25.5
 To [every party who has given an address for service and any other person affected by the order]
-1 The interlocutory application made by [name] on [date] was determined by the Honourable Justice [name] on [date].
-2 For this paragraph select the statements that apply.
+1
+The interlocutory application made by [name] on [date] was determined by the Honourable Justice [name] on [date].
+2
+For this paragraph select the statements that apply.
 Statement A
 The determination was made following a hearing held on [date(s)]. [List names of counsel or solicitors who represented the respective parties at the hearing and state whether any party appeared in person at the hearing.]
 Statement B
 The determination was made without a hearing.
 Statement C
 The determination was made with the consent of the parties.
-3 The following order was/orders were* made: [specify orders made, numbering them if more than 1].
+3
+The following order was/orders were* made: [specify orders made, numbering them if more than 1].
 *Select one.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 35
-Notice to answer interrogatories
+Form G 35 Notice to answer interrogatories
 r 8.1(3)
 To [name of party required to answer interrogatories]
 This document notifies you that—
-1 The party giving notice, [name of party giving notice], requires you to answer the interrogatories set out in paragraph 5 of this notice.
-2 The requirement to answer interrogatories is made under rule 8.1 of the High Court Rules. The interrogatories relate to matters in question in this proceeding between you and the party giving notice.
-3 You must answer the interrogatories within a period of [specify number] working days. (The period starts on the first working day after you are served with the notice.)
-4 Include this paragraph if verification is required, otherwise omit.
+1
+The party giving notice, [name of party giving notice], requires you to answer the interrogatories set out in paragraph 5 of this notice.
+2
+The requirement to answer interrogatories is made under rule 8.1 of the High Court Rules. The interrogatories relate to matters in question in this proceeding between you and the party giving notice.
+3
+You must answer the interrogatories within a period of [specify number] working days. (The period starts on the first working day after you are served with the notice.)
+4
+Include this paragraph if verification is required, otherwise omit.
 You are also required to verify your answers by affidavit.
-5 The interrogatories that you are required to answer are as follows: [specify interrogatories required to be answered, numbering them if more than 1].
+5
+The interrogatories that you are required to answer are as follows: [specify interrogatories required to be answered, numbering them if more than 1].
 Date:
 Signature:
 (solicitor/counsel* for party giving notice)
 *Select one.
-Form G 36
-Notice to admit facts
+Form G 36 Notice to admit facts
 r 8.14(2)
 To [name of party required to admit facts]
 This document notifies you that—
-1 The party giving notice, [name of party giving notice], requires you to admit the facts set out in paragraph 4 of this notice. The admissions are for the purpose of this proceeding only.
-2 The requirement is made under rule 8.14 of the High Court Rules.
-3 If you refuse or neglect to admit the facts within 5 working days after the day on which you are served with this notice, you will have to pay the costs of proving the facts, unless a Judge orders otherwise.
-4 The facts that you are required to admit are as follows: [specify facts party is required to admit, numbering them if more than 1.]
+1
+The party giving notice, [name of party giving notice], requires you to admit the facts set out in paragraph 4 of this notice. The admissions are for the purpose of this proceeding only.
+2
+The requirement is made under rule 8.47 of the High Court Rules.
+3
+If you refuse or neglect to admit the facts within 5 working days after the day on which you are served with this notice, you will have to pay the costs of proving the facts, unless a Judge orders otherwise.
+4
+The facts that you are required to admit are as follows: [specify facts party is required to admit, numbering them if more than 1.]
 Date:
 Signature:
 (solicitor/counsel* for party giving notice)
 *Select one.
-Form G 37
-Affidavit of documents
+Form G 37 Affidavit of documents
 rr 8.15, 8.16
 I, [full name, place of residence, occupation], swear—
-1 I am [state which party you are (or the capacity in which you make the affidavit) and your authority to make the affidavit].
-2 I make this affidavit under an order for standard discovery under rule 8.7/under an order for tailored discovery under rule 8.10* on [date] (the discovery order).
+1
+I am [state which party you are (or the capacity in which you make the affidavit) and your authority to make the affidavit].
+2
+I make this affidavit under an order for standard discovery under rule 8.7/under an order for tailored discovery under rule 8.10* on [date] (the discovery order).
 *Select one.
-3 [Specify the content of the discovery order in terms of paragraph (a), (b), or (c) of rule 8.12(2) and, if paragraph (c) applies, state the obligations imposed by the order.]
-4 I understand the obligations imposed by the discovery order.
-5 In order to fulfil those obligations, I have diligently searched for all documents required to be discovered under the discovery order, and I have also taken the following particular steps: [specify steps taken, for example, inquiries made of named persons].
-6 In the Schedule of this affidavit, I list the documents that I am required to discover.
-7 In Part 1 of the Schedule, I list the documents that are in my control and for which I claim neither privilege nor confidentiality.
-8 Include this paragraph if it applies, otherwise omit.
+3
+[Specify the content of the discovery order in terms of paragraph (a), (b), or (c) of rule 8.12(2) and, if paragraph (c) applies, state the obligations imposed by the order.]
+4
+I understand the obligations imposed by the discovery order.
+5
+In order to fulfil those obligations, I have diligently searched for all documents required to be discovered under the discovery order, and I have also taken the following particular steps: [specify steps taken, for example, inquiries made of named persons].
+6
+In the Schedule of this affidavit, I list the documents that I am required to discover.
+7
+In Part 1 of the Schedule, I list the documents that are in my control and for which I claim neither privilege nor confidentiality.
+8
+Include this paragraph if it applies, otherwise omit.
 In Part 2 of the Schedule, I list the documents that are in my control and for which I claim privilege and state in relation to each document the nature of the privilege that applies.
-9 Include this paragraph if it applies, otherwise omit.
+9
+Include this paragraph if it applies, otherwise omit.
 In Part 3 of the Schedule, I list the documents that are in my control and for which I claim confidentiality. I propose that inspection of these documents be restricted to [name persons] and that the following restrictions apply: [specify proposed restrictions on inspection].
-10 Include this paragraph if it applies, otherwise omit.
+10
+Include this paragraph if it applies, otherwise omit.
 In Part 4 of the Schedule, I list documents that are no longer in my control and state when, to the best of my knowledge and belief, each document ceased to be in my control and the persons who, to the best of my knowledge and belief, now have control of each document.
-11 Include this paragraph if it applies, otherwise omit.
+11
+Include this paragraph if it applies, otherwise omit.
 In Part 5 of the Schedule, I list other documents known to me that have never been in my control but that I know would be discoverable if I had control of them.
-12 To the best of my knowledge and belief, this affidavit is correct in all respects and carries out my obligations under the discovery order.
+12
+To the best of my knowledge and belief, this affidavit is correct in all respects and carries out my obligations under the discovery order.
 Sworn at: [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand)
 Schedule
-Part 1
-Documents that are in my control and for which I claim neither privilege nor confidentiality
+Part 1 Documents that are in my control and for which I claim neither privilege nor confidentiality
 [List and number the documents concerned.]
-Part 2
-Documents that are in my control and for which I claim privilege
+Part 2 Documents that are in my control and for which I claim privilege
 [List and number the documents concerned. State the nature of the privilege claimed for each document or category of document, eg, legal professional privilege.]
-Part 3
-Documents that are in my control and for which I claim confidentiality
+Part 3 Documents that are in my control and for which I claim confidentiality
 [List and number of the documents concerned. State why each document or category of document is confidential.]
-Part 4
-Documents that are no longer in my control
+Part 4 Documents that are no longer in my control
 [List the documents concerned. State, to the best of your knowledge and belief,—
 (a) when each document or category of document ceased to be in your control; and
 (b) the persons who now have control of each document.]
-Part 5
-Documents that have never been in my control
+Part 5 Documents that have never been in my control
 [List any documents that you know relate to a matter in question in the proceeding but that are not, and have never been, in your control. State, to the best of your knowledge and belief, where the documents are.]
-Form G 38
-Freezing order
+Form G 38 Freezing order
 r 32.6(1)
 To the respondent [name]
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 Judgment has been given in favour of the applicant by the court [specify different named court if rule 32.5(3) applies].
 Statement B
 The applicant has a good arguable case on an accrued or prospective cause of action that is justiciable in the court [specify different named court if rule 32.5(3) applies].
-2 The court has considered the applicant's application for a freezing order, and has heard [name of applicant or applicant's counsel] in support.
-3 The court is satisfied, having regard to all the circumstances disclosed by affidavit evidence filed in support of the application, that there is a danger that judgment in favour of the applicant will be wholly or partly unsatisfied, because [state reason or reasons as set out in rule 32.5(4)].
-4 This freezing order is made in respect of the following assets:
+2
+The court has considered the applicant's application for a freezing order, and has heard [name of applicant or applicant's counsel] in support.
+3
+The court is satisfied, having regard to all the circumstances disclosed by affidavit evidence filed in support of the application, that there is a danger that judgment in favour of the applicant will be wholly or partly unsatisfied, because [state reason or reasons as set out in rule 32.5(4)].
+4
+This freezing order is made in respect of the following assets:
 [set out a comprehensive list, with description adequate to identify each asset].
-5 Subject to paragraph 6, this order restrains you from removing any of the assets listed in paragraph 4 from New Zealand, or from disposing of, dealing with, or diminishing the value of, those assets, whether they are in or outside New Zealand.
-6 This freezing order does not prohibit you from dealing with the assets covered by the order for the purpose of—
+5
+Subject to paragraph 6, this order restrains you from removing any of the assets listed in paragraph 4 from New Zealand, or from disposing of, dealing with, or diminishing the value of, those assets, whether they are in or outside New Zealand.
+6
+This freezing order does not prohibit you from dealing with the assets covered by the order for the purpose of—
 (a) paying ordinary living expenses; or
 (b) paying legal expenses related to the freezing order; or
 (c) disposing of assets, or making payments, in the ordinary course of your business, including business expenses incurred in good faith.
-7 Include this paragraph only if the freezing order was made without notice to the respondent
+7
+Include this paragraph only if the freezing order was made without notice to the respondent
 As the freezing order has been made without notice to you, it will have no effect after [state the particular date inserted by the court under rule 32.7], unless on that date it is continued or renewed. On that date you or your counsel are entitled to be heard by the court in opposition to the continuation or renewal of the order.
-8 You may apply to the court by interlocutory application to discharge or vary the order. If you apply, you must give the applicant notice of not less than [specify period fixed under rule 32.8].
-9 Omit this paragraph if no undertaking has been required by the court.
+8
+You may apply to the court by interlocutory application to discharge or vary the order. If you apply, you must give the applicant notice of not less than [specify period fixed under rule 32.8].
+9
+Omit this paragraph if no undertaking has been required by the court.
 An undertaking as to damages given by the applicant is attached.
-10 [State any other special terms that the court has ordered].
-11 This order does not affect anyone outside New Zealand until it is declared enforceable by a court in the relevant country, (in which case it affects a person only to the extent that it has been declared enforceable) unless the person is—
+10
+[State any other special terms that the court has ordered].
+11
+This order does not affect anyone outside New Zealand until it is declared enforceable by a court in the relevant country, (in which case it affects a person only to the extent that it has been declared enforceable) unless the person is—
 (a) a person to whom this order is addressed, or an officer of that person, or an agent appointed by power of attorney of that person; or
 (b) a person who—
 (i) has been given written notice of this order at that person's residence or place of business within New Zealand; and
 (ii) is able to prevent acts or omissions outside the jurisdiction of this court that constitute, or assist, a breach of this order.
-12 This order does not prevent, in respect of assets located outside New Zealand, any third party from complying with—
+12
+This order does not prevent, in respect of assets located outside New Zealand, any third party from complying with—
 (a) what it reasonably believes to be the third party's obligations, contractual or otherwise, under the laws of the country in which those assets are situated or under the proper law of any contract between the third party and the respondent; and
 (b) any orders of the courts of that country, provided that reasonable notice of any application for such an order is given to the applicant's solicitors.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 39
-Search order
+Form G 39 Search order
 r 33.2(3)
 To the Respondent [name]
-1 This order notifies you that the court is satisfied—
+1
+This order notifies you that the court is satisfied—
 (a) the applicant has a strong prima facie case on an accrued cause of action; and
 (b) the potential or actual loss or damage to the applicant will be serious if this search order is not made; and
 (c) there is sufficient evidence in relation to you that—
 (i) you possess important evidentiary material; and
 (ii) there is a real possibility that you might destroy that material, or cause it to be unavailable for use in evidence in a proceeding or anticipated proceeding before the court.
-2 You are required to permit the persons named or described above paragraph 4 to enter the premises described in paragraph 5 for the purpose of securing or preserving the evidentiary material listed or described in paragraph 6.
-3 The applicant's undertaking as to damages is attached.
+2
+You are required to permit the persons named or described above paragraph 4 to enter the premises described in paragraph 5 for the purpose of securing or preserving the evidentiary material listed or described in paragraph 6.
+3
+The applicant's undertaking as to damages is attached.
 To the following persons [names or description of persons authorised to enter and search]
-4 This order authorises you to search for, inspect, and remove the things listed or described in paragraph 6 and to take any further steps set out in paragraph 7*.
+4
+This order authorises you to search for, inspect, and remove the things listed or described in paragraph 6 and to take any further steps set out in paragraph 7*.
 *Omit reference to further steps if none is authorised.
-5 The specified premises are: [full address of premises].
-6 The things that may be searched for and inspected or removed are: [set out comprehensive list or description of these things].
-7 Omit this paragraph if the search order does not authorise further steps
+5
+The specified premises are: [full address of premises].
+6
+The things that may be searched for and inspected or removed are: [set out comprehensive list or description of these things].
+7
+Omit this paragraph if the search order does not authorise further steps
 The persons named or described above paragraph 4 may take the following further steps: [list steps].
-8 The following independent solicitors are appointed to supervise the carrying out of this order and to report to the court: [full names and addresses of independent solicitors].
-9 Omit this paragraph if the court has not included this additional power.
+8
+The following independent solicitors are appointed to supervise the carrying out of this order and to report to the court: [full names and addresses of independent solicitors].
+9
+Omit this paragraph if the court has not included this additional power.
 The independent solicitors are also authorised to do the following things: [specify things].
 To the Respondent and the persons named or described above paragraph 4
-10 On [date fixed under rule 33.6(3)] the court will consider a report on the search from the independent solicitors. The applicant and the respondent and the independent solicitors are entitled to be heard on that date. The court will also consider the following:
+10
+On [date fixed under rule 33.6(3)] the court will consider a report on the search from the independent solicitors. The applicant and the respondent and the independent solicitors are entitled to be heard on that date. The court will also consider the following:
 (a) what is to happen to any goods removed from the premises or to any copies that have been made:
 (b) how the confidentiality to which the respondent is entitled is to be maintained:
 (c) any privilege claim:
@@ -10554,8 +10690,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form G 40
-General court order
+Form G 40 General court order
 r 11.6A
 Complete and insert the heading as set out in form G 1.
 Before the Honourable Justice [name, date]
@@ -10564,8 +10699,7 @@ After reading [identify relevant court documents] and the affidavit(s) of [full 
 †Select one.
 Date:
 Deputy Registrar
-Form J 1
-Judgment by default in case of liquidated demand
+Form J 1 Judgment by default in case of liquidated demand
 r 11.6(2)
 Complete and insert the heading as set out in form G 1.
 Because the defendant has not filed a statement of defence in the court, judgment is given that the plaintiff recover $[amount], and $[amount] for costs.
@@ -10573,8 +10707,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form J 2
-Judgment by default in proceeding for recovery of land
+Form J 2 Judgment by default in proceeding for recovery of land
 r 11.6(2)
 Complete and insert the heading as set out in form G 1.
 Because the defendant has not filed a statement of defence in the court, judgment is given that the plaintiff recover possession of the land described in the plaintiff's statement of claim, and $[amount] for costs.
@@ -10582,8 +10715,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form J 3
-Judgment on trial by Judge
+Form J 3 Judgment on trial by Judge
 r 11.6(2)
 Complete and insert the heading as set out in form G 1.
 This proceeding was heard on [date(s)] at [place] before the Honourable Justice [name], who, having heard from [name], counsel for the plaintiff, and [name], counsel for the defendant, and having heard the evidence adduced, gives judgment that [terms of judgment].
@@ -10591,8 +10723,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form J 4
-Judgment on trial by jury
+Form J 4 Judgment on trial by jury
 r 11.6(2)
 Complete and insert the heading as set out in form G 1.
 This proceeding was heard on [date(s)] at [place] before the Honourable Justice [name] and a jury. Having heard from [name], counsel for the plaintiff, and [name], counsel for the defendant, and having heard the evidence adduced, the jury found that [verdict or finding] and judgment is given that [terms of judgment].
@@ -10600,23 +10731,30 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 1
-Notice to liable party
+Form E 1 Notice to liable party
 r 17.10
 To [name of liable party]
 This document notifies you that—
-1 Judgment has been given against you in the High Court at [place] for $[amount], and for [specify amount for whichever of the following apply:
-• costs
-• disbursements
-• witnesses' expenses].
-2 The entitled party, [name], is entitled to enforce payment of these amounts against you.
-3 The entitled party requires you to serve the statement in the attached form E 2 on the entitled party within 10 working days after the date on which you are served with this notice.
-4 You may be required to attend court to be orally examined about any of the following and other necessary issues:
+1
+Judgment has been given against you in the High Court at [place] for $[amount], and for [specify amount for whichever of the following apply:
+•
+costs
+•
+disbursements
+•
+witnesses' expenses].
+2
+The entitled party, [name], is entitled to enforce payment of these amounts against you.
+3
+The entitled party requires you to serve the statement in the attached form E 2 on the entitled party within 10 working days after the date on which you are served with this notice.
+4
+You may be required to attend court to be orally examined about any of the following and other necessary issues:
 (a) your receipts and payments for the preceding 52 weeks:
 (b) your assets and liabilities:
 (c) your income and expenditure:
 (d) your means of satisfying the judgment.
-5 If you pay the amount(s) stated in paragraph 1 within 10 working days after the date on which you are served with this notice,—
+5
+If you pay the amount(s) stated in paragraph 1 within 10 working days after the date on which you are served with this notice,—
 (a) you do not need to complete the attached form E 2; and
 (b) you do not need to attend court to be orally examined.
 Date:
@@ -10625,15 +10763,18 @@ Signature:
 *Select one.
 Notes
 Advice
-1 If you require help in completing the attached statement, consult your lawyer or seek help from a Citizens' Advice Bureau, Community Law Centre, or other community service.
+1
+If you require help in completing the attached statement, consult your lawyer or seek help from a Citizens' Advice Bureau, Community Law Centre, or other community service.
 Registry hours
-2 The registry hours of the court are from 9 am to 5 pm, except on court holidays.
-Form E 2
-Statement of means of liable party
+2
+The registry hours of the court are from 9 am to 5 pm, except on court holidays.
+Form E 2 Statement of means of liable party
 r 17.10
 I, [full name, place of residence, occupation], the liable party, state—
-1 The 52 weeks immediately preceding the date of this statement started on [date] and end on [date, which must be not later than date of statement] (the 52 weeks).
-2 My income for the 52 weeks was as follows:
+1
+The 52 weeks immediately preceding the date of this statement started on [date] and end on [date, which must be not later than date of statement] (the 52 weeks).
+2
+My income for the 52 weeks was as follows:
 Specify income for each item in the following table—if no income, specify "Nil".
 Item Particulars Amount
 ($)
@@ -10650,7 +10791,8 @@ boarders at $[rate] per week
 (i) all other sources of income [specify]
 Total income in the 52 weeks:
 *Attach the latest statement of financial position and statement of financial performance.
-3 The employers and other persons from whom I received the income specified in paragraph 2 (other than that specified under item (b)) are as follows:
+3
+The employers and other persons from whom I received the income specified in paragraph 2 (other than that specified under item (b)) are as follows:
 Item in paragraph 2 Name and address Amount
 ($)
 (a) [employers]
@@ -10661,7 +10803,8 @@ Item in paragraph 2 Name and address Amount
 (f) [persons who paid superannuation, pension, or benefit]
 (g) [persons who paid dividends and interest]
 (h) [persons who paid other income]
-4 My expenses for the 52 weeks were as follows:
+4
+My expenses for the 52 weeks were as follows:
 Specify expenses for each item in the following table—if no expenses, specify "Nil".
 Item Particulars Amount
 ($)
@@ -10685,19 +10828,24 @@ Item Particulars Amount
 (r) hire purchase payments
 (s) other expenses [specify]
 Total expenses in the 52 weeks:
-5 Separate income, for the 52 weeks, of members of your household whose expenses are included was as follows:
+5
+Separate income, for the 52 weeks, of members of your household whose expenses are included was as follows:
 Full name Age Relationship Details of separate income
 ($)
-6 The persons to whom I paid rent (the amount set out in item (d) of paragraph 4) were as follows:
+6
+The persons to whom I paid rent (the amount set out in item (d) of paragraph 4) were as follows:
 Full name Address Amount
 ($)
-7 The persons to whom I paid mortgage payments (the amount set out in item (f) of paragraph 4) were as follows:
+7
+The persons to whom I paid mortgage payments (the amount set out in item (f) of paragraph 4) were as follows:
 Full name Address Amount
 ($)
-8 The persons to whom I paid hire purchase instalments (the amount set out in item (r) of paragraph 4) were as follows:
+8
+The persons to whom I paid hire purchase instalments (the amount set out in item (r) of paragraph 4) were as follows:
 Full name Address Amount
 ($)
-9 My assets (both in New Zealand and elsewhere) are as follows:
+9
+My assets (both in New Zealand and elsewhere) are as follows:
 Item Particulars Amount
 ($)
 (a) land and buildings: [address and capital value]
@@ -10711,20 +10859,28 @@ Item Particulars Amount
 (i) motor vehicles: [specify details]
 (j) any other property or assets not specified above, including interest in any estate: [specify details]
 Total assets:
-10 The property specified in items [specify] of paragraph 9 of this statement is mortgaged, or otherwise secured to [full name, address], for the sum of $[amount].
-11 Assets sold or otherwise disposed of by me at any time in the 52 weeks are as follows:
+10
+The property specified in items [specify] of paragraph 9 of this statement is mortgaged, or otherwise secured to [full name, address], for the sum of $[amount].
+11
+Assets sold or otherwise disposed of by me at any time in the 52 weeks are as follows:
 Description of asset Names and addresses of persons to whom properties given, sold, or otherwise disposed of Dates of disposal Amounts received)
 ($)
-12 Debts owed by me that are secured by mortgage or charge are as follows: $[amount].
-13 The persons to whom the debts specified in paragraph 12 are owed, and the items specified in paragraph 9 on which the debts are secured, are as follows:
+12
+Debts owed by me that are secured by mortgage or charge are as follows: $[amount].
+13
+The persons to whom the debts specified in paragraph 12 are owed, and the items specified in paragraph 9 on which the debts are secured, are as follows:
 Name Address Item Amount
 ($)
-14 My unsecured debts are as follows: $[amount].
-15 The persons to whom the debts specified in paragraph 14 are owed are as follows:
+14
+My unsecured debts are as follows: $[amount].
+15
+The persons to whom the debts specified in paragraph 14 are owed are as follows:
 Name Address Amount of debt
 ($)
-16 The liabilities that I expect I will be obliged to meet within the 6-month period beginning on the date of this statement are as follows: $[amount].
-17 The persons to whom I expect to be obliged to pay money during the 6-month period beginning on the date of this statement in discharge of liabilities specified in paragraph 16 are as follows:
+16
+The liabilities that I expect I will be obliged to meet within the 6-month period beginning on the date of this statement are as follows: $[amount].
+17
+The persons to whom I expect to be obliged to pay money during the 6-month period beginning on the date of this statement in discharge of liabilities specified in paragraph 16 are as follows:
 Name Address Nature of liability Amount
 ($)
 I certify that the particulars given in this statement are correct.
@@ -10732,19 +10888,26 @@ I am aware that I may be called on to verify those particulars in court.
 Date:
 Signature:
 (liable party)
-Form E 3
-Attachment order
+Form E 3 Attachment order
 r 17.33(3)
 Before the Honourable Justice [name, date]
 To [employer's name, address]
-1 This court is satisfied that you are the employer of [liable party's name, address] (the liable party).
-2 On [date] in the High Court at [place], judgment was given against the liable party for $[amount] (including costs).
-3 The liable party has not paid this amount and, after examining the liable party's means, the court makes this attachment order.
-4 The court orders that while this order is in force, whenever any salary or wages become payable to the liable party, you must deduct from it the amount of $[amount] for each week.
-5 However, if in any week the deduction would reduce the net earnings paid to the liable party below the protected earnings rate of $[amount] per week, you must adjust the amount of the deduction so that the liable party receives the protected earnings rate.
-6 The first deduction is to be made on the payday following the date on which you receive this order. A deduction is to be made on every subsequent payday until [date] or until the total amount payable shown in paragraph 8 has been paid.
-7 The money deducted is to be paid to [name, address] by the 20th day of the month after the month in which the deduction was made.
-8 You are not required to make deductions for more than the total amount payable shown below—
+1
+This court is satisfied that you are the employer of [liable party's name, address] (the liable party).
+2
+On [date] in the High Court at [place], judgment was given against the liable party for $[amount] (including costs).
+3
+The liable party has not paid this amount and, after examining the liable party's means, the court makes this attachment order.
+4
+The court orders that while this order is in force, whenever any salary or wages become payable to the liable party, you must deduct from it the amount of $[amount] for each week.
+5
+However, if in any week the deduction would reduce the net earnings paid to the liable party below the protected earnings rate of $[amount] per week, you must adjust the amount of the deduction so that the liable party receives the protected earnings rate.
+6
+The first deduction is to be made on the payday following the date on which you receive this order. A deduction is to be made on every subsequent payday until [date] or until the total amount payable shown in paragraph 8 has been paid.
+7
+The money deducted is to be paid to [name, address] by the 20th day of the month after the month in which the deduction was made.
+8
+You are not required to make deductions for more than the total amount payable shown below—
 Particulars Amount
 ($)
 Whole/portion* of judgment debt sought by this order
@@ -10757,14 +10920,19 @@ Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
 Notes
-1 Please see High Court Rules 17.31 to 17.39 for the rules about this order. Those rules define the terms "employer" and "salary or wages".
-2 If you do not make payments as required, you can be sued for the amount owing. You may also be convicted of an offence under the Judicature Amendment Act 2008 and fined up to $1,000.
-3 You must notify the Registrar of the High Court within 7 days if the debtor leaves or is dismissed from your employment.
-4 If you need to reduce the amount of any deduction from the liable party's salary or wages in order to leave the liable party with the protected earnings rate, you should notify the Registrar of the High Court immediately.
-5 If in doubt about your obligations under this order, you should consult a solicitor or the Registrar at the High Court immediately.
-6 The registry hours of the High Court are from 9 am to 5 pm, except on court holidays.
-Form E 4
-Charging order on land
+1
+Please see High Court Rules 17.31 to 17.39 for the rules about this order. Those rules define the terms "employer" and "salary or wages".
+2
+If you do not make payments as required, you can be sued for the amount owing. You may also be convicted of an offence under the Judicature Amendment Act 2008 and fined up to $1,000.
+3
+You must notify the Registrar of the High Court within 7 days if the debtor leaves or is dismissed from your employment.
+4
+If you need to reduce the amount of any deduction from the liable party's salary or wages in order to leave the liable party with the protected earnings rate, you should notify the Registrar of the High Court immediately.
+5
+If in doubt about your obligations under this order, you should consult a solicitor or the Registrar at the High Court immediately.
+6
+The registry hours of the High Court are from 9 am to 5 pm, except on court holidays.
+Form E 4 Charging order on land
 r 17.40(2)
 *Before the Honourable Justice [name, date]
 *Omit if order is issued as of right.
@@ -10776,8 +10944,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 5
-Interim charging order
+Form E 5 Interim charging order
 r 17.40(2)
 Omit the following words if the order is issued as of right without judicial order.
 Before the Honourable Justice [name, date]
@@ -10789,8 +10956,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 6
-Final charging order
+Form E 6 Final charging order
 r 17.40(2)
 Before the Honourable Justice [name, date]
 To [name of liable party]
@@ -10799,14 +10965,15 @@ This court orders that your estate, right, title, or interest in [property descr
 Date:
 Signature:
 (Deputy Registrar)
-Form E 7
-Sale order
+Form E 7 Sale order
 r 17.62(4)
 To the Sheriff at [place]
-1 This court authorises and requires you or your authorised agent to seize all the land and chattels (which include money, cheques, bills of exchange, promissory notes, bonds, and other securities for money) of [name] (the liable party) except—
+1
+This court authorises and requires you or your authorised agent to seize all the land and chattels (which include money, cheques, bills of exchange, promissory notes, bonds, and other securities for money) of [name] (the liable party) except—
 (a) necessary tools of trade to a value not exceeding $5,000; and
 (b) necessary household furniture and effects to a value not exceeding $10,000 (including the clothes belonging to the liable party (and his or her family)).
-2 If money seized is not enough, you are authorised and required to obtain more money and deal with it in accordance with rules 17.62 to 17.79 of the High Court Rules. You are authorised and required to obtain more money by—
+2
+If money seized is not enough, you are authorised and required to obtain more money and deal with it in accordance with rules 17.62 to 17.79 of the High Court Rules. You are authorised and required to obtain more money by—
 (a) receiving and recovering—
 (i) the money payable to you under any cheques, bills of exchange, and promissory notes; or
 (ii) money secured by bonds or other securities for money; and
@@ -10824,24 +10991,24 @@ The money seized will not be enough if it—
 †Select one.
 Date:
 Deputy Registrar
-Form E 8
-Possession order
+Form E 8 Possession order
 r 17.80(3)
 To the Sheriff at [place]
 Note: In this possession order, liable party means [name of liable party].
-1 This court orders that you are authorised and required to take possession for [name of entitled party] (the entitled party) of—
+1
+This court orders that you are authorised and required to take possession for [name of entitled party] (the entitled party) of—
 Select the statement(s) that apply.
 Statement A
 the liable party's land [land description(s)], ejecting others from the land as necessary.
 Statement B
 the liable party's chattels [list chattels], seizing the chattels as necessary.
-2 This court further orders that you are authorised to deliver possession of any land or chattels received under this possession order to the entitled party.
+2
+This court further orders that you are authorised to deliver possession of any land or chattels received under this possession order to the entitled party.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 9
-Arrest order
+Form E 9 Arrest order
 r 17.83(2)
 Before the Honourable Justice [name, date]
 To the Sheriff at [place]
@@ -10853,8 +11020,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 10
-Sequestration order
+Form E 10 Sequestration order
 r 17.86(3)
 Before the Honourable Justice [name, date]
 To the Sheriff at [place]
@@ -10865,52 +11031,60 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 11
-Order to arrest and imprison absconding debtor
+Form E 11 Order to arrest and imprison absconding debtor
 r 17.89(1)
 Before the Honourable Justice [name, date]
 To the Sheriff at [place]
-1 This court orders that you are authorised and required to arrest [name of liable party] (the liable party) within 1 month of the date of this order and imprison the liable party at [place] for [period of time] unless and until—
+1
+This court orders that you are authorised and required to arrest [name of liable party] (the liable party) within 1 month of the date of this order and imprison the liable party at [place] for [period of time] unless and until—
 (a) the liable party deposits in the court $[amount] by way of security; or
 (b) the liable party gives [name of plaintiff] (the plaintiff) a bond executed by that party and 2 sufficient sureties of $[amount] or some other security satisfactory to the plaintiff.
-2 The security is to be held on the basis that it is forfeit to the plaintiff if the liable party leaves New Zealand without the leave of the court.
+2
+The security is to be held on the basis that it is forfeit to the plaintiff if the liable party leaves New Zealand without the leave of the court.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form E 12
-Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice
+Form E 12 Order to arrest and imprison absconding debtor (in civil proceedings for penalty) when necessary to prove material prejudice
 r 17.89(1)
 Before the Honourable Justice [name, date]
 To the Sheriff at [place]
-1 This court orders that you are authorised and required to arrest [name of liable party] (the liable party) within 1 month of the date of this order and imprison the liable party at [place] for [period of time] unless and until—
+1
+This court orders that you are authorised and required to arrest [name of liable party] (the liable party) within 1 month of the date of this order and imprison the liable party at [place] for [period of time] unless and until—
 (a) the liable party deposits in the court $[amount] by way of security; or
 (b) the liable party gives [name of plaintiff] (the plaintiff) a bond executed by the liable party and 2 sufficient sureties of $[amount] or some other security satisfactory to the plaintiff.
-2 The security is to be held on the basis that if the liable party does not pay the plaintiff the amount that the plaintiff becomes entitled to claim from the liable party in these proceedings,—
+2
+The security is to be held on the basis that if the liable party does not pay the plaintiff the amount that the plaintiff becomes entitled to claim from the liable party in these proceedings,—
 (a) the security is forfeit to the plaintiff; and
 (b) the liable party must go to prison (unless the court orders otherwise).
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form CL 1
-Commercial list
+Form CL 1 Commercial list
 r 29.7(a)
 To complete this document—
-• complete and insert the heading as set out in form G 1, modified by the addition of the words "Commercial list" immediately under the reference to registry:
-• complete and attach the memorandum as set out in form G 3.
+•
+complete and insert the heading as set out in form G 1, modified by the addition of the words "Commercial list" immediately under the reference to registry:
+•
+complete and attach the memorandum as set out in form G 3.
 To the defendant/defendants*
 *Select one.
-1 This proceeding is entered on the commercial list established at the registry of this court at [place].
-2 The plaintiff may proceed to a hearing and judgment on the claim in your absence unless, within 10 working days after the date on which you are served with this notice, you file in this registry of the court at [place]—
+1
+This proceeding is entered on the commercial list established at the registry of this court at [place].
+2
+The plaintiff may proceed to a hearing and judgment on the claim in your absence unless, within 10 working days after the date on which you are served with this notice, you file in this registry of the court at [place]—
 (a) a statement of your defence to the plaintiff's claim (copy attached); or
 (b) an appearance indicating that you oppose the plaintiff's claim and that you want to be heard in relation to it; or
 (c) an appearance objecting to the jurisdiction; or
 (d) an appearance for an ancillary purpose; or
 (e) an appearance reserving rights.
-3 The trial of the proceeding, if a trial is necessary, will be held in this court at [place] at a time to be fixed by the court.
-4 As this proceeding is entered on a commercial list it cannot be tried before a jury.
-5 A commercial list Judge may, on the application of any party or on the Judge's own initiative, order the removal of any proceeding from the commercial list.
+3
+The trial of the proceeding, if a trial is necessary, will be held in this court at [place] at a time to be fixed by the court.
+4
+As this proceeding is entered on a commercial list it cannot be tried before a jury.
+5
+A commercial list Judge may, on the application of any party or on the Judge's own initiative, order the removal of any proceeding from the commercial list.
 Date:
 Signature:
 (plaintiff/solicitor for plaintiff*)
@@ -10923,35 +11097,41 @@ Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
 Note: Please carefully read the memorandum attached to this notice.
-Form CL 2
-Appearance in proceeding entered on commercial list
+Form CL 2 Appearance in proceeding entered on commercial list
 rr 29.7(b), 29.17(3)
 To complete this document—
-• complete and insert the heading as set out in form G 1, modified by the addition of the words "Commercial list" immediately under the reference to registry:
-• complete and attach the memorandum as set out in form G 10.
+•
+complete and insert the heading as set out in form G 1, modified by the addition of the words "Commercial list" immediately under the reference to registry:
+•
+complete and attach the memorandum as set out in form G 10.
 The defendant, by this appearance, gives notice that the defendant opposes the plaintiff's claim and wants to be heard in relation to it.
 Date:
 Signature:
 (solicitor/counsel* for defendant)
 *Select one.
 Note: Please carefully read the memorandum attached to this notice.
-Form CL 3
-Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908
+Form CL 3 Notice of proceeding (being application to commercial list Judge) under section 24C(4) of Judicature Act 1908
 r 29.17(2)
 To complete this document—
-• complete and insert the heading as set out in form G 2, modified by the addition of the words "Commercial list" immediately under the reference to registry:
-• complete and attach the memorandum as set out in form G 10.
+•
+complete and insert the heading as set out in form G 2, modified by the addition of the words "Commercial list" immediately under the reference to registry:
+•
+complete and attach the memorandum as set out in form G 10.
 To the defendant/defendants*
 *Select one.
-1 The plaintiff seeks the determination of questions involved in a dispute.
-2 A commercial list Judge may determine the questions involved in the dispute in your absence unless, within 10 working days after the date on which you are served with this notice, you file in this registry of the court at [place]—
+1
+The plaintiff seeks the determination of questions involved in a dispute.
+2
+A commercial list Judge may determine the questions involved in the dispute in your absence unless, within 10 working days after the date on which you are served with this notice, you file in this registry of the court at [place]—
 (a) a statement of your defence to the plaintiff's claim (copy attached); or
 (b) an appearance indicating that you oppose the plaintiff's claim and that you want to be heard in relation to it; or
 (c) an appearance under protest to jurisdiction; or
 (d) an appearance for an ancillary purpose; or
 (e) an appearance reserving rights.
-3 The determination of the questions involved in the dispute will take place in this court at [place] at a time to be fixed by a commercial list Judge.
-4 If the proper determination of the questions involved in the dispute requires evidence to be heard other than that contained in or exhibited to the affidavit filed by the plaintiff, or cross-examination on that affidavit or those exhibits, a commercial list Judge may, on the application of any party or on the Judge's own initiative, order that the proceeding be placed on the commercial list.
+3
+The determination of the questions involved in the dispute will take place in this court at [place] at a time to be fixed by a commercial list Judge.
+4
+If the proper determination of the questions involved in the dispute requires evidence to be heard other than that contained in or exhibited to the affidavit filed by the plaintiff, or cross-examination on that affidavit or those exhibits, a commercial list Judge may, on the application of any party or on the Judge's own initiative, order that the proceeding be placed on the commercial list.
 Date:
 Signature:
 (plaintiff/solicitor for plaintiff*)
@@ -10964,8 +11144,7 @@ Signature:
 (Deputy Registrar/Registrar*)
 *Select one.
 Note: Please carefully read the memorandum attached to this notice.
-Form PR 1
-Affidavit for obtaining grant of probate
+Form PR 1 Affidavit for obtaining grant of probate
 r 27.4
 In the High Court of New Zealand
 [Name of registry] Registry
@@ -10973,9 +11152,11 @@ No: [number of proceeding]
 In the estate of [full name, place, occupation] (deceased)
 I/We*, [full name, place of residence, occupation], swear/severally swear/solemnly and sincerely affirm/severally solemnly and sincerely affirm*—
 *Select one.
-1 The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
+1
+The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
 *Select one.
-2 For this paragraph select the first of the following statements that applies.
+2
+For this paragraph select the first of the following statements that applies.
 Statement A
 I was/We were* present when the deceased died.
 *Select one.
@@ -10989,15 +11170,20 @@ Statement D
 The deceased is the person named [full name] in the death certificate/certified copy of the death certificate* that is attached and marked "A".
 *Select one.
 If the applicant or applicants for the grant did not know the deceased and does or do not know about the deceased's death personally, replace paragraphs 1 and 2 with an affidavit in the form of those paragraphs made by a person or persons who knew the deceased or knows or know about the deceased's death personally.
-3 When the deceased died, he/she* resided at [place, country].
+3
+When the deceased died, he/she* resided at [place, country].
 *Select one.
-4 [Repealed]
-5 I/We* believe the document dated [date] and marked "[specify]" now produced and shown to me/us* is the deceased's last will.
+4
+[Repealed]
+5
+I/We* believe the document dated [date] and marked "[specify]" now produced and shown to me/us* is the deceased's last will.
 *Select one.
-6 Include this paragraph only if the deceased made a document (including a codicil) changing the will. If more than 1 codicil was made, amend this paragraph by referring to each of them as the "first codicil" or the "second codicil", etc.
+6
+Include this paragraph only if the deceased made a document (including a codicil) changing the will. If more than 1 codicil was made, amend this paragraph by referring to each of them as the "first codicil" or the "second codicil", etc.
 The deceased made a document/codicil* changing the will referred to in paragraph 5. I/We* believe the document dated [date] and marked "[specify]" now produced and shown to me/us* is that document/codicil*.
 *Select one.
-7 For this paragraph select the statement that applies.
+7
+For this paragraph select the statement that applies.
 Statement A
 I am the executor/We are the executors* named in the will.
 *Select one.
@@ -11007,7 +11193,8 @@ I am/We are* the surviving/substituted* executor/executors* named in the will.
 Statement C
 I am the/I am an/We are the/We are some of the* executor/executors* of the will according to its tenor.
 *Select one.
-8 Include this paragraph only if it applies. Select the statement that applies.
+8
+Include this paragraph only if it applies. Select the statement that applies.
 Statement A
 The deceased's will was made on or after 1 November 2007. I am the deceased's surviving spouse/surviving civil union partner*. When the deceased died, no order, decree, or enactment was in force between the deceased and myself providing for our separation or the dissolution of our marriage/civil union*.
 *Select one.
@@ -11018,7 +11205,8 @@ The deceased's will was made on or after 1 November 2007. I am the deceased's fo
 *Select one.
 Statement D
 The deceased's will was made before 1 November 2007. I am the deceased's former spouse. When the deceased died, a [state details of order, decree, or enactment in force between the parties providing for the dissolution of their marriage] was in force. However, my appointment as executor is not void under section 19, as modified by section 40(2)(q), of the Wills Act 2007 because [state why].
-9 Include this paragraph only if it applies. Select the statement that applies.
+9
+Include this paragraph only if it applies. Select the statement that applies.
 Statement A
 [Full name], the other executor named in the will, died at [place, country] on or about [date].
 Statement B
@@ -11040,7 +11228,8 @@ Statement G
 *Select one.
 Statement H
 [If the applicant(s) are the executor(s) according to the tenor of the will, state the facts proving this.]
-10 If you selected statement A for paragraph 9, for this paragraph select the first of the following statements that applies, otherwise omit this paragraph.
+10
+If you selected statement A for paragraph 9, for this paragraph select the first of the following statements that applies, otherwise omit this paragraph.
 Statement A
 I was/We were* present when the other executor died.
 *Select one.
@@ -11052,7 +11241,8 @@ I/We* saw the other executor's dead body.
 *Select one.
 Statement D
 The other executor is the person named [full name] in the death certificate that is attached and marked "[specify]".
-11 I/We* will faithfully execute the will (including any document/codicil* changing the will) of which probate is granted in accordance with the law. If the court requires me/us* to, I/we* will file in the court and verify by affidavit—
+11
+I/We* will faithfully execute the will (including any document/codicil* changing the will) of which probate is granted in accordance with the law. If the court requires me/us* to, I/we* will file in the court and verify by affidavit—
 (a) an accurate inventory of the deceased's estate; and
 (b) an account of the deceased's estate that—
 (i) is accurate; and
@@ -11068,17 +11258,18 @@ before me:
 [print name]
 (A solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form PR 2
-Affidavit for obtaining grant of letters of administration with will annexed
+Form PR 2 Affidavit for obtaining grant of letters of administration with will annexed
 r 27.4
 The cover sheet for this form should have the same heading as that set out in form PR 1.
 No: [number of proceeding]
 In the estate of [full name, place, occupation] (deceased)
 I/We*, [full name, place of residence, occupation], swear/severally swear/solemnly and sincerely affirm/severally solemnly and sincerely affirm*—
 *Select one.
-1 The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
+1
+The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
 Select one.
-2 For this paragraph select the first of the following statements that applies.
+2
+For this paragraph select the first of the following statements that applies.
 Statement A
 I was/We were* present when the deceased died.
 *Select one.
@@ -11092,15 +11283,20 @@ Statement D
 The deceased is the person named [full name] in the death certificate/certified copy of the death certificate* that is attached and marked "A".
 *Select one.
 If the applicant or applicants for the grant did not know the deceased and does or do not know about the deceased's death personally, replace paragraphs 1 and 2 with an affidavit in the form of those paragraphs made by a person or persons who knew the deceased and know(s) about the deceased's death personally.
-3 When the deceased died, he/she* resided at [place, country].
+3
+When the deceased died, he/she* resided at [place, country].
 *Select one.
-4 [Repealed]
-5 I/We* believe the document dated [date] and marked "[specify]" now produced and shown to me/us* is the deceased's last will.
+4
+[Repealed]
+5
+I/We* believe the document dated [date] and marked "[specify]" now produced and shown to me/us* is the deceased's last will.
 *Select one.
-6 Include this paragraph only if the deceased made a document (including a codicil) changing the will. If more than 1 codicil was made, amend this paragraph by referring to each of them, as the "first codicil" or "second codicil", etc.
+6
+Include this paragraph only if the deceased made a document (including a codicil) changing the will. If more than 1 codicil was made, amend this paragraph by referring to each of them, as the "first codicil" or "second codicil", etc.
 The deceased made a document/codicil* changing the will referred to in paragraph 5. I/We* believe the document dated [date] and marked "[specify]" now produced and shown to me/us* is that document/codicil*.
 *Select one.
-7 For this paragraph select the statement that applies.
+7
+For this paragraph select the statement that applies.
 Statement A
 No executor is named in the will.
 Statement B
@@ -11120,7 +11316,8 @@ Statement G
 *Select one.
 Statement H
 [Full name], an executor named in the will, is an executor to whom section 19 of the Administration Act 1969 applies. No one entitled to apply for an order nisi under that section has done so within 4 months after the will-maker's death.
-8 If you selected statement B for paragraph 7, for this paragraph select the first of the following statements that applies, otherwise omit this paragraph.
+8
+If you selected statement B for paragraph 7, for this paragraph select the first of the following statements that applies, otherwise omit this paragraph.
 Statement A
 I was/We were* present when the sole executor died.
 *Select one.
@@ -11132,23 +11329,28 @@ I/We* saw the sole executor's dead body.
 *Select one.
 Statement D
 The sole executor is the person named [full name] in the death certificate attached and marked "[specify]".
-9 I am/We are* [state facts showing applicant's or applicants' right to the grant in terms of rules 27.26 and 27.27 or 27.28. Attach any consent given by any other person whose priority is higher than, or equal to, that of the applicant or applicants].
+9
+I am/We are* [state facts showing applicant's or applicants' right to the grant in terms of rules 27.26 and 27.27 or 27.28. Attach any consent given by any other person whose priority is higher than, or equal to, that of the applicant or applicants].
 *Select one.
-10 Omit this paragraph if it does not apply.
+10
+Omit this paragraph if it does not apply.
 No child of the deceased died before the deceased leaving issue entitled to share under the will.
-11 Include this paragraph if there are other children of the deceased who are beneficiaries in the will but not applicants. Otherwise, state "The deceased was not survived by any other children."
+11
+Include this paragraph if there are other children of the deceased who are beneficiaries in the will but not applicants. Otherwise, state "The deceased was not survived by any other children."
 In addition to myself, the deceased was survived by the following children, all of whom (except when otherwise stated) are adult:
 [state full names and places of residence]
 The consent of [name] and [name], the other children of the deceased and beneficiaries referred to in clause(s) [clause number(s)] of the will to my/our* application, are attached and marked "[specify]" and "[specify]".
 *Select one.
-12 Omit this paragraph if it does not apply.
+12
+Omit this paragraph if it does not apply.
 I am the deceased's surviving spouse/surviving civil union partner/surviving de facto partner/former spouse/former civil union partner/former de facto partner*.
 I am still a beneficiary under the will.
 I have not ceased to be a beneficiary under the will under section 19 of the Wills Act 2007 [if the will was made on or after 1 November 2007]/section 19, as modified by section 40(2)(q), of the Wills Act 2007 [if the will was made before 1 November 2007]*.
 I have not ceased to be a beneficiary under the will under section 61 of the Property (Relationships) Act 1976. I chose option B under section 61. I lodged a notice of choice of option under section 65(2)(c) in this court on [date]. A copy is attached and marked "[specify]".
 *Select one.
 Omit paragraphs 13 and 14 when a trustee corporation within the meaning of section 2 of the Administration Act 1969 applies for the grant, either alone or jointly with another person.
-13 For this paragraph select the statement that applies.
+13
+For this paragraph select the statement that applies.
 Statement A
 I/We* have made reasonable inquiries for the purposes of section 5A(1)(a) of the Status of Children Act 1969 as to the existence of a parent or child of the deceased, in addition to those already known to me/us* who could claim an interest in the deceased's estate/part of the deceased's estate* only because of the Status of Children Act 1969 and the deceased's will. The inquiries included those required by section 5A(2) of the Status of Children Act 1969. The nature of the inquiries was [specify].
 *Select one.
@@ -11158,19 +11360,23 @@ Statement C
 Getting in or preserving the assets of the deceased's estate requires the making of an immediate grant of administration because [state why].
 Statement D
 No useful purpose would be served by making the inquiries specified in section 5A(1)(a) of the Status of Children Act 1969 because [state why].
-14 If you selected statement A for paragraph 13, for this paragraph select the statement that applies, otherwise omit this paragraph.
+14
+If you selected statement A for paragraph 13, for this paragraph select the statement that applies, otherwise omit this paragraph.
 Statement A
 The result of my/our* inquiries was that I/we* did not discover any such parent or child.
 *Select one.
 Statement B
 The result of my/our* inquiries was that I/we* discovered [full name(s) and the relationship of those discovered].
 *Select one.
-15 Include the following paragraph where those discovered are children.
+15
+Include the following paragraph where those discovered are children.
 The person/Those* discovered is/are* aged [specify ages], being a child/children* to whom neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
 *Select one.
-16 To the best of my/our* knowledge, information, and belief, the gross value of the deceased's estate does not exceed $[amount].
+16
+To the best of my/our* knowledge, information, and belief, the gross value of the deceased's estate does not exceed $[amount].
 *Select one.
-17 I/We* will faithfully execute the will (including any document/codicil* changing the will) annexed to the letters of administration in accordance with the law. If the court requires me/us* to, I/we* will file in the court and verify by affidavit—
+17
+I/We* will faithfully execute the will (including any document/codicil* changing the will) annexed to the letters of administration in accordance with the law. If the court requires me/us* to, I/we* will file in the court and verify by affidavit—
 (a) an accurate inventory of the deceased's estate; and
 (b) an account of the deceased's estate that—
 (i) is accurate; and
@@ -11186,17 +11392,18 @@ Before me:
 [print name]
 (a solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form PR 3
-Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner
+Form PR 3 Affidavit for obtaining grant of administration on intestacy to surviving spouse, civil union partner, or de facto partner
 r 27.4
 The cover sheet for this form should have the same heading as that set out in form PR 1.
 No: [number of proceeding]
 In the estate of [full name, place, occupation] (deceased)
 I, [full name, place of residence, occupation], swear/solemnly and sincerely affirm*—
 *Select one.
-1 The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
+1
+The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
 *Select one.
-2 For this paragraph select the first of the following statements that applies.
+2
+For this paragraph select the first of the following statements that applies.
 Statement A
 I was present when the deceased died.
 Statement B
@@ -11207,10 +11414,14 @@ Statement D
 The deceased is the person named [full name] in the death certificate/certified copy of the death certificate* that is attached and marked "A".
 *Select one.
 If the applicant or applicants for the grant did not know the deceased and does or do not know about the deceased's death personally, replace paragraphs 1 and 2 with an affidavit in the form of those paragraphs made by a person or persons who knew the deceased and knows or know about the deceased's death personally.
-3 At the time of death the deceased resided at [place, country].
-4 [Repealed]
-5 I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
-6 For this paragraph select the statement that applies.
+3
+At the time of death the deceased resided at [place, country].
+4
+[Repealed]
+5
+I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
+6
+For this paragraph select the statement that applies.
 Statement A
 I am the surviving spouse/civil union partner* of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected—
 (a) [in the case of a surviving spouse] by section 12(2) of the Matrimonial Proceedings Act 1963 (as applied by section 191(3) of the Family Proceedings Act 1980); or
@@ -11220,7 +11431,8 @@ I am the surviving spouse/civil union partner* of the deceased. I am entitled to
 Statement B
 (a) I am the surviving de facto partner of the deceased. I am entitled to succeed on the intestacy. My beneficial interest in the estate is not affected by the choice I have made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because I have chosen option B and I lodged a notice of choice of option in accordance with section 65(2)(c) of that Act in this court on [date]. A copy is attached and marked "[specify]".
 (b) My interest is not affected by section 77B of the Administration Act 1969 (which negates the beneficial interest of a surviving de facto partner to a relationship of short duration in some circumstances [if you claim that section 77B(2) applies, state the facts supporting your claim].
-7 For this paragraph select the statement that applies.
+7
+For this paragraph select the statement that applies.
 Statement A
 The deceased was not survived by a de facto partner entitled to succeed on the intestacy.
 Statement B
@@ -11229,14 +11441,16 @@ The deceased was not survived by a husband/wife*, or by a civil union partner or
 Statement C
 The deceased was also survived by a husband/wife/civil union partner/1 or more other de facto partners* entitled to succeed on the intestacy, namely: [list full name(s) and places of residence].
 *Select one.
-8 If you selected statement C for paragraph 7, for this paragraph select the statement(s) that apply, otherwise omit this paragraph.
+8
+If you selected statement C for paragraph 7, for this paragraph select the statement(s) that apply, otherwise omit this paragraph.
 Statement A
 On [date], I gave written notice to [full names], the survivors of the deceased who are named in the preceding paragraph, that I intended to apply to this court for letters of administration of the estate.
 Statement B
 Of the survivors of the deceased who are named in the preceding paragraph, [number of survivors], namely, [full names and country of residence for each], reside beyond the jurisdiction of the court.
 Statement C
 I attach to this affidavit the consents, marked "specify", of [full names], survivors of the deceased who are named in paragraph 7, to letters of administration of the deceased's estate being granted to me.
-9 For this paragraph select the statement that applies.
+9
+For this paragraph select the statement that applies.
 Statement A
 The deceased was not survived by a child—
 (a) who was born to the deceased; or
@@ -11246,16 +11460,19 @@ Omit paragraphs (c) and (d) if the deceased was female.
 (d) in respect of whom the deceased was adjudged, before or after his death, to be the father.
 Statement B
 The deceased was survived by the following children, all of whom, except where otherwise shown, are adult: [list full names, places of residence, and occupations of the children of the deceased and, in the case of any child who is a minor, the child's age].
-10 Include this paragraph if you selected statement B for paragraph 9, otherwise omit.
+10
+Include this paragraph if you selected statement B for paragraph 9, otherwise omit.
 The children named in paragraph [number] are children to whom neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
-11 Include this paragraph if you selected statement B for paragraph 9, otherwise omit.
+11
+Include this paragraph if you selected statement B for paragraph 9, otherwise omit.
 The deceased was not survived by any other child—
 (a) who was born to the deceased; or
 (b) who was adopted by the deceased; or
 Omit paragraphs (c) and (d) if the deceased was female.
 (c) in respect of whom the deceased had admitted paternity; or
 (d) in respect of whom the deceased was adjudged, before or after his death, to be the father.
-12 For this paragraph select the statement that applies.
+12
+For this paragraph select the statement that applies.
 Statement A
 I have made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by section 5A(2) of the Status of Children Act 1969, consisted of [specify].
 Statement B
@@ -11264,16 +11481,20 @@ Statement C
 The getting in or preservation of the assets of the estate of the deceased requires the making of an immediate grant of administration because [state why].
 Statement D
 No useful purpose would be served by making the inquiries specified in section 5A(1)(a) of the Status of Children Act 1969 because [state why].
-13 If you selected statement A for paragraph 12, for this paragraph select the statement that applies, otherwise omit this paragraph.
+13
+If you selected statement A for paragraph 12, for this paragraph select the statement that applies, otherwise omit this paragraph.
 Statement A
 The result of my inquiries was that I did not discover any such parent or child. Attached and marked "[specify]" is a certificate from the office of the Registrar-General confirming the absence of a record of any such parent or child.
 Statement B
 The result of my inquiries was that I discovered [full names and relationship of those discovered].
-14 Include the following paragraph where those discovered are children.
+14
+Include the following paragraph where those discovered are children.
 The person/Those* discovered is/are* aged [specify ages] being a child/children* to whom neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
 *Select one.
-15 To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
-16 I will faithfully administer the estate in accordance with the law, and will, if required by the court, file in the court and verify by affidavit—
+15
+To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
+16
+I will faithfully administer the estate in accordance with the law, and will, if required by the court, file in the court and verify by affidavit—
 (a) a true and complete inventory of the deceased's estate; and
 (b) a true and complete account of the deceased's estate—
 (i) setting out the dates and particulars of all receipts and disbursements; and
@@ -11284,8 +11505,7 @@ Before me:
 [print name]
 (a solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form PR 4
-Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased
+Form PR 4 Affidavit for obtaining grant of administration on intestacy to daughter or son of deceased
 r 27.4
 The cover sheet for this form should have the same heading as that set out in form PR 1.
 No: [number of proceeding]
@@ -11293,9 +11513,11 @@ In the estate of [full name, place, occupation] (deceased)
 I, [full name, place of residence, occupation], swear/solemnly and sincerely affirm*—
 *Select one.
 Note: This form must be appropriately modified if more than 1 daughter or son is applying.
-1 The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
+1
+The deceased, [name as on cover sheet], whom I/we* knew, died at [place, country] on or about [date].
 *Select one.
-2 For this paragraph select the first of the following statements that applies.
+2
+For this paragraph select the first of the following statements that applies.
 Statement A
 I was present when the deceased died.
 Statement B
@@ -11306,12 +11528,17 @@ Statement D
 The deceased is the person named [full name] in the death certificate/certified copy of the death certificate* that is attached and marked "A".
 *Select one.
 If the applicant or applicants for the grant do not know about the deceased's death personally, replace paragraphs 1 and 2 with an affidavit in the form of those paragraphs made by a person or persons who knew the deceased and know(s) about the deceased's death personally.
-3 At the time of death the deceased resided at [place, country].
-4 [Repealed]
-5 I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
-6 I am a daughter/son* of the deceased.
+3
+At the time of death the deceased resided at [place, country].
+4
+[Repealed]
+5
+I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
+6
+I am a daughter/son* of the deceased.
 *Select one.
-7 For this paragraph select the statement that applies. Note: Statements B and C should be appropriately altered if the deceased entered a civil union that was dissolved or affected by court order.
+7
+For this paragraph select the statement that applies. Note: Statements B and C should be appropriately altered if the deceased entered a civil union that was dissolved or affected by court order.
 Statement A
 At the time of his death, my father was a widower/At the time of her death, my mother was a widow* and was not living in a de facto relationship.
 *Select one.
@@ -11327,7 +11554,8 @@ The deceased was survived by a spouse/civil union partner/de facto partner* who 
 Statement E
 The deceased never married or entered into a civil union and at the time of his/her* death, he/she* was not living in a de facto relationship.
 *Select one.
-8 For this paragraph select the statement that applies.
+8
+For this paragraph select the statement that applies.
 Statement A
 The deceased was not survived by any other child—
 (a) who was born to the deceased; or
@@ -11337,18 +11565,21 @@ Omit paragraphs (c) and (d) if the deceased was female.
 (d) in respect of whom the deceased was adjudged, before or after his death, to be the father.
 Statement B
 In addition to myself, the deceased was survived by the following children, all of whom, except where otherwise shown, are adult: [list full names, places of residence, and occupations of the other children of the deceased and, in the case of a child who is a minor, the age of that child].
-9 If you selected statement B for paragraph 8, for this paragraph select the statement(s) that apply, otherwise omit this paragraph.
+9
+If you selected statement B for paragraph 8, for this paragraph select the statement(s) that apply, otherwise omit this paragraph.
 Statement A
 On [date], I gave written notice to [full names], adult children of the deceased who are named in paragraph 8, that I intended to apply to this court for letters of administration of the estate of the deceased. Attached and marked "[specify]" is a copy/copies* of that notice/those notices*).
 *Select one.
 Statement B
 I attach to this affidavit the consents, marked "[specify]" of [full names], adult children of the deceased who are named in paragraph [specify], to letters of administration of the deceased's estate being granted to me.
-10 For this paragraph select the statement that applies.
+10
+For this paragraph select the statement that applies.
 Statement A
 Neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies to me.
 Statement B
 Both in the case of the children of the deceased who are named in paragraph [number] of this affidavit and in my case, neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
-11 For this paragraph select the statement that applies.
+11
+For this paragraph select the statement that applies.
 Statement A
 I have made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by section 5A(2) of the Status of Children Act 1969, consisted of [specify].
 Statement B
@@ -11357,16 +11588,20 @@ Statement C
 The getting in or preservation of the assets of the estate of the deceased requires the making of an immediate grant of administration because [state why].
 Statement D
 No useful purpose would be served by making the inquiries specified in section 5A(1)(a) of the Status of Children Act 1969 because [state why].
-12 If you selected statement A for paragraph 11, for this paragraph select the statement that applies, otherwise omit this paragraph.
+12
+If you selected statement A for paragraph 11, for this paragraph select the statement that applies, otherwise omit this paragraph.
 Statement A
 The result of my inquiries was that I did not discover any such parent or child. Attached and marked "[specify]" is a certificate from the office of the Registrar-General confirming the absence of a record of any such parent or child.
 Statement B
 The result of my inquiries was that I discovered [full names and relationship of those discovered].
-13 Include the following paragraph where those discovered are children.
+13
+Include the following paragraph where those discovered are children.
 The person/Those* discovered is/are* aged [specify ages] being a child/children* to whom neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
 *Select one.
-14 To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
-15 I will faithfully administer the deceased's estate in accordance with the law, and will, if required by the court, file in the court and verify by affidavit—
+14
+To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
+15
+I will faithfully administer the deceased's estate in accordance with the law, and will, if required by the court, file in the court and verify by affidavit—
 (a) a true and complete inventory of the deceased's estate; and
 (b) a true and complete account of the deceased's estate—
 (i) setting out the dates and particulars of all receipts and disbursements; and
@@ -11377,8 +11612,7 @@ Before me:
 [print name]
 (a solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form PR 5
-Affidavit for obtaining grant of administration on intestacy to parent of deceased
+Form PR 5 Affidavit for obtaining grant of administration on intestacy to parent of deceased
 r 27.4
 The cover sheet for this form should have the same heading as that set out in form PR 1.
 No: [number of proceeding]
@@ -11386,8 +11620,10 @@ In the estate of [full name, place, occupation] (deceased)
 This form must be appropriately modified if more than 1 parent is applying.
 I, [full name, place of residence, occupation], swear/solemnly and sincerely affirm*—
 *Select one.
-1 The deceased, [name as on cover sheet], whom I knew, died at [place, country] on or about [date].
-2 For this paragraph select the first of the following statements that applies.
+1
+The deceased, [name as on cover sheet], whom I knew, died at [place, country] on or about [date].
+2
+For this paragraph select the first of the following statements that applies.
 Statement A
 I was present when the deceased died.
 Statement B
@@ -11397,12 +11633,17 @@ I saw the deceased's dead body.
 Statement D
 The deceased is the person named [full name] in the attached certified copy of the death certificate at [place] marked "A".
 If the applicant or applicants for the grant do not know about the deceased's death personally, replace paragraphs 1 and 2 with an affidavit in the form of those paragraphs made by a person or persons who knew the deceased and know(s) about the deceased's death personally.
-3 At the time of death the deceased resided at [place, country].
-4 [Repealed]
-5 I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
-6 I am the deceased's father/mother*.
+3
+At the time of death the deceased resided at [place, country].
+4
+[Repealed]
+5
+I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
+6
+I am the deceased's father/mother*.
 *Select one.
-7 For this paragraph select the statement that applies.
+7
+For this paragraph select the statement that applies.
 Statement A
 The deceased was not survived by a spouse or civil union partner, or by any de facto partners, entitled to succeed on the intestacy.
 Statement B
@@ -11414,7 +11655,8 @@ I attach to this affidavit a copy of the separation order/decree of judicial sep
 Statement D
 The deceased was survived by a spouse/civil union partner/de facto partner* who was entitled to succeed on the intestacy, but his/her* beneficial interest in the estate was affected by the choice he/she* made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because he/she* chose option A. Attached and marked "[specify]" is a copy of the choice of option.
 *Select one.
-8 For this paragraph select the statement that applies.
+8
+For this paragraph select the statement that applies.
 Statement A
 I attach to this affidavit the consent marked "[specify]" of [full name], the father/mother* of the deceased, to letters of administration of the deceased's estate being granted to me.
 *Select one.
@@ -11424,18 +11666,21 @@ Statement B
 Statement C
 [Full name], the father/mother* of the deceased, does not join in the application as he/she* is incapable of acting as administrator because [state why].
 *Select one.
-9 The deceased was not survived by a child—
+9
+The deceased was not survived by a child—
 (a) who was born to the deceased; or
 (b) who was adopted by the deceased; or
 Omit paragraphs (c) and (d) if the deceased was female.
 (c) in respect of whom the deceased had admitted paternity; or
 (d) in respect of whom the deceased was adjudged, before or after his death, to be the father.
-10 The deceased was not survived by any grandchild—
+10
+The deceased was not survived by any grandchild—
 (a) who was born to a child of the deceased; or
 (b) who was adopted by a child of the deceased; or
 (c) in respect of whom a son of the deceased had admitted paternity; or
 (d) in respect of whom a son of the deceased was adjudged, before or after the death of the child of the deceased, to be the father.
-11 For this paragraph select the statement that applies.
+11
+For this paragraph select the statement that applies.
 Statement A
 I have made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by section 5A(2) of the Status of Children Act 1969, consisted of [specify].
 Statement B
@@ -11444,16 +11689,20 @@ Statement C
 The getting in or preservation of the assets of the estate of the deceased requires the making of an immediate grant of administration because [state why].
 Statement D
 No useful purpose would be served by making the inquiries specified in section 5A(1)(a) of the Status of Children Act 1969 because [state why].
-12 If you selected statement A for paragraph 11, for this paragraph select the statement that applies, otherwise omit this paragraph.
+12
+If you selected statement A for paragraph 11, for this paragraph select the statement that applies, otherwise omit this paragraph.
 Statement A
 The result of my inquiries was that I did not discover any such parent or child. Attached and marked "[specify]" is a certificate from the office of the Registrar-General confirming the absence of a record of any such parent or child.
 Statement B
 The result of my inquiries was that I discovered [full names and relationship of those discovered.].
-13 Include the following paragraph where those discovered are children.
+13
+Include the following paragraph where those discovered are children.
 The person/Those* discovered is/are* aged [specify ages], being a child/children* to whom neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
 *Select one.
-14 To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
-15 I will faithfully administer the deceased's estate in accordance with the law, and will, when required by the court, file in the court and verify by affidavit—
+14
+To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
+15
+I will faithfully administer the deceased's estate in accordance with the law, and will, when required by the court, file in the court and verify by affidavit—
 (a) a true and complete inventory of the deceased's estate; and
 (b) a true and complete account of the deceased's estate—
 (i) setting out the dates and particulars of all receipts and disbursements; and
@@ -11464,8 +11713,7 @@ Before me:
 [print name]
 (a solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form PR 6
-Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased
+Form PR 6 Affidavit for obtaining grant of administration on intestacy to brother or sister of deceased
 r 27.4
 The cover sheet for this form should have the same heading as that set out in form PR 1.
 No: [number of proceeding]
@@ -11473,8 +11721,10 @@ In the estate of [full name, place, occupation] (deceased)
 This form must be appropriately altered if more than 1 brother or sister is applying.
 I, [full name, place of residence, occupation], swear/solemnly and sincerely affirm*—
 *Select one.
-1 The deceased, [name as on cover sheet], whom I knew, died at [place, country] on or about [date].
-2 For this paragraph select the first of the following statements that applies.
+1
+The deceased, [name as on cover sheet], whom I knew, died at [place, country] on or about [date].
+2
+For this paragraph select the first of the following statements that applies.
 Statement A
 I was present when the deceased died.
 Statement B
@@ -11485,12 +11735,17 @@ Statement D
 The deceased is the person named [full name] in the death certificate/certified copy of the death certificate* attached and marked "A".
 *Select one.
 If the applicant or applicants for the grant do not know about the deceased's death personally, replace paragraphs 1 and 2 with an affidavit in the form of those paragraphs made by a person or persons who knew the deceased and know(s) about the deceased's death personally.
-3 At the time of death the deceased resided at [place, country].
-4 [Repealed]
-5 I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
-6 I am a brother/sister* of the deceased.
+3
+At the time of death the deceased resided at [place, country].
+4
+[Repealed]
+5
+I have made full inquiries and searches for a will made by the deceased. I am satisfied that the deceased died without leaving a will and was wholly intestate.
+6
+I am a brother/sister* of the deceased.
 *Select one.
-7 For this paragraph select the statement that applies.
+7
+For this paragraph select the statement that applies.
 Statement A
 The deceased was not survived by a spouse or civil union partner, or by any de facto partner, entitled to succeed on the intestacy.
 Statement B
@@ -11500,34 +11755,41 @@ I attach to this affidavit a copy of the separation order/decree of judicial sep
 Statement D
 The deceased was survived by a spouse/civil union partner/de facto partner* who was entitled to succeed on the intestacy, but his/her* beneficial interest in the estate was affected by the choice he/she* made between option A and option B, under section 61 of the Property (Relationships) Act 1976, because he/she* chose option A. Attached and marked "[specify]" is a copy of the choice of option.
 *Select one.
-8 The deceased was not survived by a parent.
-9 The deceased was not survived by any child—
+8
+The deceased was not survived by a parent.
+9
+The deceased was not survived by any child—
 (a) who was born to the deceased; or
 (b) who was adopted by the deceased; or
 Omit paragraphs (c) and (d) if the deceased was female.
 (c) in respect of whom the deceased had admitted paternity; or
 (d) in respect of whom the deceased was adjudged, before or after his death, to be the father.
-10 The deceased was not survived by any grandchild—
+10
+The deceased was not survived by any grandchild—
 (a) who was born to a child of the deceased; or
 (b) who was adopted by a child of the deceased; or
 (c) in respect of whom a son of the deceased had admitted paternity; or
 (d) in respect of whom a son of the deceased was adjudged, before or after the death of the child of the deceased, to be the father.
-11 For this paragraph select the statement that applies.
+11
+For this paragraph select the statement that applies.
 Statement A
 The deceased was not survived by any other brother or sister.
 Statement B
 In addition to myself, the deceased was survived by the following brothers and sisters, all of whom, except where otherwise shown, are adult: [list full names, places of residence, and occupations of the other brothers and sisters of the deceased and, in the case of any brother or sister who is a minor, the age of that brother or sister].
-12 If you selected statement B for paragraph 11, for this paragraph select the statement(s) that apply, otherwise omit this paragraph.
+12
+If you selected statement B for paragraph 11, for this paragraph select the statement(s) that apply, otherwise omit this paragraph.
 Statement A
 On [date], I gave written notice to [full names], adult brothers and sisters of the deceased who are named in paragraph 11, that I intended to apply to this court for letters of administration of the deceased's estate. Attached and marked "[specify]" is a copy of that notice.
 Statement B
 I attach to this affidavit the consents, marked "[specify]", of [full names], adult brothers and sisters of the deceased who are named in paragraph 11, granting me letters of administration of the deceased's estate.
-13 For this paragraph select the statement that applies.
+13
+For this paragraph select the statement that applies.
 Statement A
 Neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies to me.
 Statement B
 Both in the case of the brothers and sisters of the deceased who are named in paragraph 11 of this affidavit and in my case, neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
-14 For this paragraph select the statement that applies.
+14
+For this paragraph select the statement that applies.
 Statement A
 I have made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of a parent or child of the deceased (in addition to those already known to me) who could claim an interest in the estate of the deceased by reason only of that Act and the enactments governing the distribution of intestate estates. Those inquiries, which included those required by section 5A(2) of the Status of Children Act 1969, consisted of [specify].
 Statement B
@@ -11536,16 +11798,20 @@ Statement C
 The getting in or preservation of the assets of the estate of the deceased requires the making of an immediate grant of administration because [state why].
 Statement D
 No useful purpose would be served by making the inquiries specified in section 5A(1)(a) of the Status of Children Act 1969 because [state why].
-15 If you selected statement A for paragraph 14, for this paragraph select the statement that applies, otherwise omit this paragraph.
+15
+If you selected statement A for paragraph 14, for this paragraph select the statement that applies, otherwise omit this paragraph.
 Statement A
 The result of my inquiries was that I did not discover any such parent or child. Attached and marked "[specify]" is a certificate from the office of the Registrar-General confirming the absence of a record of any such parent or child.
 Statement B
 The result of my inquiries was that I discovered [full names and relationship of those discovered.].
-16 Include the following paragraph where those discovered are children.
+16
+Include the following paragraph where those discovered are children.
 The person/Those* discovered are* [specify ages], being a child/children* to whom neither section 16(2)(d) of the Adoption Act 1955 nor section 4 of the Status of Children Act 1969 is relevant or applies.
 *Select one.
-17 To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
-18 I will faithfully administer the deceased's estate in accordance with the law, and will, if required by the court, file in the court and verify by affidavit—
+17
+To the best of my knowledge, information, and belief, the gross value of the estate left by the deceased does not exceed $[amount].
+18
+I will faithfully administer the deceased's estate in accordance with the law, and will, if required by the court, file in the court and verify by affidavit—
 (a) a true and complete inventory of the deceased's estate; and
 (b) a true and complete account of the deceased's estate—
 (i) setting out the dates and particulars of all receipts and disbursements; and
@@ -11556,61 +11822,68 @@ Before me:
 [print name]
 (a solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form PR 7
-Probate in common form
+Form PR 7 Probate in common form
 r 27.31(1)
 In the High Court of New Zealand
 [Name of registry] Registry
 No: [number of proceeding]
 In the estate of [name, place of residence, occupation] (deceased)
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 The deceased, [full name], died at [place, country] on or about [date] leaving a will. A copy is attached.
 Statement B
 The deceased, [full name], died at [place, country] on or about [date] leaving a will and [specify number] document(s)/codicil(s)* changing the will. Copies are attached.
 *Select one.
-2 For this paragraph select the statement that applies.
+2
+For this paragraph select the statement that applies.
 Statement A
 The will was proved before the Registrar/Senior Deputy Registrar* in chambers acting under rule 27.14 of the High Court Rules and probate of the will was granted today.
 *Select one.
 Statement B
 The will and [specify number] document(s)/codicil(s)* changing the will were proved before the Registrar/Senior Deputy Registrar* in chambers acting under rule 27.14 of the High Court Rules and probate of the will and [specify number] document(s)/codicils* changing the will was granted today.
 *Select one.
-3 This probate document appoints [full name(s), place(s) of residence, occupation(s)], the executor/executors* [or state basis for the grant as stated in paragraph 2 of the application] named in the will/document/codicil that changed the will as the administrator/administrators* of the deceased's estate.
+3
+This probate document appoints [full name(s), place(s) of residence, occupation(s)], the executor/executors* [or state basis for the grant as stated in paragraph 2 of the application] named in the will/document/codicil that changed the will as the administrator/administrators* of the deceased's estate.
 *Select one.
-4 [Specify any other order made as part of the grant].
+4
+[Specify any other order made as part of the grant].
 Date:
 Deputy Registrar
-Form PR 8
-Letters of administration with will annexed
+Form PR 8 Letters of administration with will annexed
 r 27.31(1)
 In the High Court of New Zealand
 [Name of registry] Registry
 No: [number of proceeding]
 In the estate of [name, place of residence, occupation] (deceased)
 To [full name, place of residence, occupation] the [state basis for entitlement to grant as specified in rule 27.26 that allowed grant of administration]
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 The deceased, [full name], died at [place, country] on or about [date] leaving a will. A copy is attached.
 *Select one.
 Statement B
 The deceased, [full name], died at [place, country] on or about [date] leaving a will and [specify number if more than 1] document(s)/codicil(s)* changing the will. Copies are attached.
 *Select one.
-2 For this paragraph select the statement that applies.
+2
+For this paragraph select the statement that applies.
 Statement A
 The will was proved before the Registrar/Senior Deputy Registrar in chambers acting under rule 27.14 of the High Court Rules and letters of administration with the will annexed was granted today.
 *Select one.
 Statement B
 The will and [specify number] document(s)/codicil(s) changing the will were proved before the Registrar/Senior Deputy Registrar in chambers acting under rule 27.14 of the High Court Rules, and letters of administration with the will and [specify number] document(s)/codicils* changing the will annexed was granted today.
 *Select one.
-3 The circumstance in rule 27.25(1) to (3) of the High Court Rules allowing the grant of administration was [specify].
-4 These letters of administration authorise you—
+3
+The circumstance in rule 27.25(1) to (3) of the High Court Rules allowing the grant of administration was [specify].
+4
+These letters of administration authorise you—
 (a) to administer the deceased's estate; and
 (b) to demand and recover whatever debts may belong to the deceased's estate; and
 (c) to pay whatever debts the deceased owed; and
 (d) to pay the legacies contained in the will and [specify number] document(s)/codicil(s)* changing the will to the extent the estate allows.
 *Select one.
-5 For this paragraph select the statement that applies.
+5
+For this paragraph select the statement that applies.
 Statement A
 You are appointed as the administrator with the will annexed of all of the deceased's estate.
 Statement B
@@ -11619,26 +11892,28 @@ You are appointed as the administrator with the will and [specify number] docume
 [Specify any other order made as part of the grant.]
 Date:
 Deputy Registrar
-Form PR 9
-Letters of administration on intestacy
+Form PR 9 Letters of administration on intestacy
 r 27.31(1)
 In the High Court of New Zealand
 [Name of registry] Registry
 No: [number of proceeding]
 In the estate of [full name, place of residence, occupation] (deceased)
 To [full name, place of residence, occupation] [state basis for entitlement to grant as specified in rule 27.35(4) that gives right to apply for administration, that is, the relationship to the deceased].
-1 The deceased, [full name], died at [place, country] on or about [date] without leaving a will.
-2 These letters of administration authorise you—
+1
+The deceased, [full name], died at [place, country] on or about [date] without leaving a will.
+2
+These letters of administration authorise you—
 (a) to administer the deceased's estate; and
 (b) to demand and recover whatever debts may belong to the deceased's estate; and
 (c) to pay whatever debts the deceased owed, so far as the estate extends.
-3 You are appointed as the administrator of all of the deceased's estate.
-4 This grant was made today by the Registrar/Senior Deputy Registrar* in chambers acting under rule 27.14 of the High Court Rules.
+3
+You are appointed as the administrator of all of the deceased's estate.
+4
+This grant was made today by the Registrar/Senior Deputy Registrar* in chambers acting under rule 27.14 of the High Court Rules.
 *Select one.
 Date:
 Deputy Registrar
-Form PR 10
-Caveat
+Form PR 10 Caveat
 r 27.11(2)
 In the High Court of New Zealand
 [Name of registry] Registry
@@ -11654,14 +11929,14 @@ Signature:
 (caveator/solicitor for caveator*)
 *Select one.
 Complete and attach the memorandum as set out in form G 10.
-Form PR 11
-Exemplification of probate or letters of administration
+Form PR 11 Exemplification of probate or letters of administration
 r 27.33(1)
 In the High Court of New Zealand
 [Name of registry] Registry
 No: [number of proceeding]
 In the estate of [full name, place, occupation] (deceased)
-1 This document certifies a record in the [name of Registry] Registry of the High Court of New Zealand, which is a court of record. The record is that on [date]—
+1
+This document certifies a record in the [name of Registry] Registry of the High Court of New Zealand, which is a court of record. The record is that on [date]—
 Select the statement that applies.
 Statement A
 the last will of [full name, place, occupation], who died at [place] on or about [date], was proved by, and probate was granted to, [full name, place of residence], the named executor.
@@ -11669,23 +11944,25 @@ Statement B
 letters of administration with will annexed of the estate of [full name, place, occupation], who died at [place] on or about [date], were granted to [full name, place of residence] as [specify the person's status as described in rule 27.26].
 Statement C
 letters of administration of the estate of [full name, place, occupation], who died at [place] on or about [date], were granted to [full name, place].
-2 For this paragraph select the statement that applies.
+2
+For this paragraph select the statement that applies.
 Statement A
 The probate is on record in the office of that Registry.
 Statement B
 The letters of administration with will annexed/letters of administration* are on record in the office of that Registry.
 *Select one.
-3 Omit this paragraph if the exemplification relates only to letters of administration on intestacy.
+3
+Omit this paragraph if the exemplification relates only to letters of administration on intestacy.
 The text of the will is shown by the copy/copies* of it attached and endorsed on each page with the seal of the High Court of New Zealand.
 *Select one.
-4 Omit this paragraph if the exemplification relates only to letters of administration on intestacy.
+4
+Omit this paragraph if the exemplification relates only to letters of administration on intestacy.
 The sealing of this document is evidence of the acceptance by this court of the authenticity of the wording of the will.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form PR 12
-Affidavit of valid execution
+Form PR 12 Affidavit of valid execution
 r 27.16(4)
 In the High Court of New Zealand
 [Name of registry] Registry
@@ -11693,9 +11970,11 @@ No: [number of proceeding]
 In the estate of [full name, place, occupation] (deceased)
 I, [full name, place of residence, occupation], swear/solemnly and sincerely affirm*—
 *Select one.
-1 I am one of the witnesses to/I was present at the signing of* the last will of the deceased, [full name, place]. The last will is the document marked "A" now produced and shown to me.
+1
+I am one of the witnesses to/I was present at the signing of* the last will of the deceased, [full name, place]. The last will is the document marked "A" now produced and shown to me.
 *Select one.
-2 For this paragraph, select the statement that applies.
+2
+For this paragraph, select the statement that applies.
 Statement A
 On [date], the deceased signed the will by signing his/her* name as it now appears on the will, intending the signing to be a valid signing of the will.
 *Select one.
@@ -11708,7 +11987,8 @@ On [date], the deceased acknowledged that he/she* had earlier signed the will by
 Statement D
 On [date], the deceased acknowledged that he/she* had earlier directed another person to sign the will on his/her* behalf in his/her* presence, intending the signing of that person's name as it now appears on the will to be a valid signing of the will.
 *Select one.
-3 For this paragraph, select—
+3
+For this paragraph, select—
 Statement A, if you selected Statement A in paragraph 2; or
 Statement B, if you selected Statement B in paragraph 2; or
 Statement C, if you selected Statement C or D in paragraph 2.
@@ -11721,13 +12001,15 @@ The directing referred to in paragraph 2 was completed in my presence and in the
 Statement C
 The acknowledging referred to in paragraph 2 was completed in my presence and in the presence of [full name, place of residence, and occupation of other witness, or both witnesses if you are not a witness] and both of us/they* then signed the will as witnesses in the presence of the deceased.
 *Select one.
-4 Include this paragraph only if there is a change on the will. Select the statement that applies.
+4
+Include this paragraph only if there is a change on the will. Select the statement that applies.
 Statement A
 The change on the will was executed by [specify the actions complying with section 15(a) or (b) of the Wills Act 2007].
 Statement B
 The change on the will was made by the obliteration of words in the will in such a way as to prevent their effect being apparent. The deceased indicated his/her* consent to the obliteration by [specify the actions by which the deceased indicated consent to the obliteration].
 *Select one.
-5 Include this paragraph only if it must be proved that the deceased knew the contents of the will or a separate document.
+5
+Include this paragraph only if it must be proved that the deceased knew the contents of the will or a separate document.
 Before the deceased signed the will/separate document*, I read/[full name] in my presence read* the will/separate document* to the deceased and the deceased seemed to understand it thoroughly/seemed to have full knowledge of its contents*.
 *Select one.
 Sworn/Affirmed* at: [place, date]
@@ -11735,8 +12017,7 @@ Before me: [name, signature]
 *Select one.
 (a solicitor of the High Court of New Zealand or Registrar/Deputy Registrar* of the High Court/District Court* or Justice of the Peace)
 *Select one.
-Form AD 1
-General heading for action in personam
+Form AD 1 General heading for action in personam
 rr 25.7(2), 25.9(2)
 In the High Court of New Zealand
 In Admiralty
@@ -11746,13 +12027,15 @@ Between [name of plaintiff]
 (plaintiff)
 And [name of defendant]
 (defendant)
-Form AD 2
-Notice of proceeding in personam
+Form AD 2 Notice of proceeding in personam
 r 25.7(1)
 To [name of defendant(s)]
-1 Unless, within 10 working days after you are served with this notice of proceeding (which is the period that begins on the day after the day of service), you cause an appearance to be entered for you in the registry of this court at [place], the plaintiff may proceed in the plaintiff's action without having it heard in court, and judgment may be given in your absence.
-2 The trial of the action, if a trial is necessary, will take place at the court at [place] at a time to be fixed by the court.
-3 For this paragraph select the statement that applies.
+1
+Unless, within 10 working days after you are served with this notice of proceeding (which is the period that begins on the day after the day of service), you cause an appearance to be entered for you in the registry of this court at [place], the plaintiff may proceed in the plaintiff's action without having it heard in court, and judgment may be given in your absence.
+2
+The trial of the action, if a trial is necessary, will take place at the court at [place] at a time to be fixed by the court.
+3
+For this paragraph select the statement that applies.
 Statement A
 I, [full name], appearing in person, issued this notice of proceeding. My address for service is [address].
 Statement B
@@ -11766,15 +12049,17 @@ Signature:
 Service of this notice
 This notice of proceeding must be served within 12 months after the date of the notice of proceeding, or within 6 months after the date of renewal, if renewed.
 Directions for entering appearance
-1 You may enter an appearance either personally (if acting without a solicitor) or by a solicitor at the registry of the court mentioned in the notice of proceeding, by either filing a memorandum of appearance (in duplicate) in that registry or by posting the memorandum (in duplicate) to the Registrar at that registry.
-2 If the last day for entering your appearance falls on a Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
-3 Omit this paragraph if it conflicts with a direction by the court.
+1
+You may enter an appearance either personally (if acting without a solicitor) or by a solicitor at the registry of the court mentioned in the notice of proceeding, by either filing a memorandum of appearance (in duplicate) in that registry or by posting the memorandum (in duplicate) to the Registrar at that registry.
+2
+If the last day for entering your appearance falls on a Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
+3
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing the memorandum, you must disregard the period that commences with 25 December and ends with 15 January.
 You must endorse the notice of proceeding before it is issued. The endorsement must contain a concise statement of the nature of the claim, the relief or remedy required, and the amount claimed (if any). In the case of a proceeding in rem add: The plaintiff claims against the [name of ship or describe property] under sections [specify] of the Admiralty Act 1973.
 Statement of defence
 A defendant who intends to defend an action must file or serve a statement of defence within 20 working days after the day on which the statement of claim was served on that defendant, unless the court or a Judge gives leave to the contrary.
-Form AD 3
-General heading for action in rem
+Form AD 3 General heading for action in rem
 r 25.8(2)
 In the High Court of New Zealand
 In Admiralty
@@ -11787,13 +12072,15 @@ Between [name of plaintiff(s), eg, the owners of the ship "X"]
 And [name of defendant(s), eg, the ship "Y", the ship "Y" and its freight, the ship "Y" and its cargo and freight, the cargo from the ship "Y", the proceeds of the ship "Y", or the proceeds of the cargo from the ship "Y"]
 (defendant/defendants*)
 *Select one.
-Form AD 4
-Notice of proceeding in rem
+Form AD 4 Notice of proceeding in rem
 r 25.8(1)
 To the owners and all others who have an interest in the [name of ship or describe property]
-1 Unless, within 10 working days after you are served with this notice of proceeding (which is the period that begins on the day after the day of service), you cause an appearance to be entered for you in the registry of this court at [place], the plaintiff may proceed in the plaintiff's action without having it heard in court, and judgment may be given in your absence. If the thing described in this notice of proceeding is then held under an order of the court authorising its arrest, it may be sold by order of the court.
-2 The trial of the action, if a trial is necessary, will take place at the court at [place] at a time to be fixed by the court.
-3 For this paragraph select the statement that applies.
+1
+Unless, within 10 working days after you are served with this notice of proceeding (which is the period that begins on the day after the day of service), you cause an appearance to be entered for you in the registry of this court at [place], the plaintiff may proceed in the plaintiff's action without having it heard in court, and judgment may be given in your absence. If the thing described in this notice of proceeding is then held under an order of the court authorising its arrest, it may be sold by order of the court.
+2
+The trial of the action, if a trial is necessary, will take place at the court at [place] at a time to be fixed by the court.
+3
+For this paragraph select the statement that applies.
 Statement A
 I, [full name], appearing in person, issued this notice of proceeding. My address for service is [address].
 Statement B
@@ -11807,21 +12094,27 @@ Signature:
 Service of this notice
 This notice of proceeding must be served within 12 months after the date of the notice of proceeding, or within 6 months after the date of renewal, if renewed.
 Directions for entering appearance
-1 You may enter an appearance either personally (if suing in person) or by a solicitor at the registry of the court mentioned in the notice of proceeding, by either filing a memorandum of appearance (in duplicate) in that registry or by posting the memorandum (in duplicate) to the Registrar at the registry.
-2 The appearance must state the name and correct address of the party appearing and the capacity in which that party appears, whether as owner or part-owner or otherwise, and must also state the port of registry or port to which the ship belongs. Those statements are prima facie evidence of the matters stated in them.
-3 If the last day for entering your appearance falls on a Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
-4 Omit this paragraph if it conflicts with a direction by the court.
+1
+You may enter an appearance either personally (if suing in person) or by a solicitor at the registry of the court mentioned in the notice of proceeding, by either filing a memorandum of appearance (in duplicate) in that registry or by posting the memorandum (in duplicate) to the Registrar at the registry.
+2
+The appearance must state the name and correct address of the party appearing and the capacity in which that party appears, whether as owner or part-owner or otherwise, and must also state the port of registry or port to which the ship belongs. Those statements are prima facie evidence of the matters stated in them.
+3
+If the last day for entering your appearance falls on a Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
+4
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing the memorandum, you must disregard the period that commences with 25 December and ends with 15 January.
 You must endorse the notice of proceeding before it is issued. The endorsement must contain a concise statement of the nature of the claim, the relief or remedy required, and the amount claimed (if any). In the case of a proceeding in rem add: The plaintiff claims against the [name of ship or describe property] under sections [specify] of the Admiralty Act 1973.
-Form AD 5
-Notice of proceeding both in rem and in personam
+Form AD 5 Notice of proceeding both in rem and in personam
 r 25.9(1)
 To the owners and all others interested in the [name of ship or describe property]
 and
 To the defendant [name]
-1 Unless, within 10 working days after you are served with this notice of proceeding (which is the period that begins on the day after the day of service), you have caused an appearance to be entered for you in the registry of this court at [place], the plaintiff may proceed in the plaintiff's action without having it heard in court, and judgment may be given in your absence. If the thing described in this notice of proceeding is then held under an order of the court authorising its arrest, it may be sold by order of the court.
-2 The trial of the action, if a trial is necessary, will take place at the court at [place] at a time to be fixed by the court.
-3 For this paragraph select the statement that applies.
+1
+Unless, within 10 working days after you are served with this notice of proceeding (which is the period that begins on the day after the day of service), you have caused an appearance to be entered for you in the registry of this court at [place], the plaintiff may proceed in the plaintiff's action without having it heard in court, and judgment may be given in your absence. If the thing described in this notice of proceeding is then held under an order of the court authorising its arrest, it may be sold by order of the court.
+2
+The trial of the action, if a trial is necessary, will take place at the court at [place] at a time to be fixed by the court.
+3
+For this paragraph select the statement that applies.
 Statement A
 This notice of proceeding was issued by [full name] appearing in person. My address for service is [address].
 Statement B
@@ -11835,10 +12128,14 @@ Signature:
 Service of this notice
 This notice of proceeding must be served within 12 months after the date of the notice of proceeding, or within 6 months after the date of renewal, if renewed.
 Directions for entering appearance
-1 You may enter an appearance either personally (if suing in person) or by a solicitor at the registry of the court mentioned in the notice of proceeding, by either filing a memorandum of appearance (in duplicate) in that registry or by posting the memorandum (in duplicate) to the Registrar at the registry.
-2 The appearance must state the name and correct address of the party appearing and the capacity in which that party appears, whether as owner or part-owner or otherwise, and must also state the port of registry or port to which the ship belongs. Those statements are prima facie evidence of the matters stated in them.
-3 If the last day for entering your appearance falls on a Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
-4 Omit this paragraph if it conflicts with a direction by the court.
+1
+You may enter an appearance either personally (if suing in person) or by a solicitor at the registry of the court mentioned in the notice of proceeding, by either filing a memorandum of appearance (in duplicate) in that registry or by posting the memorandum (in duplicate) to the Registrar at the registry.
+2
+The appearance must state the name and correct address of the party appearing and the capacity in which that party appears, whether as owner or part-owner or otherwise, and must also state the port of registry or port to which the ship belongs. Those statements are prima facie evidence of the matters stated in them.
+3
+If the last day for entering your appearance falls on a Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
+4
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing the memorandum, you must disregard the period that commences with 25 December and ends with 15 January.
 You must endorse the notice of proceeding before it is issued. The endorsement must contain a concise statement of the nature of the claim, the relief or remedy required, and the amount claimed (if any). In the case of a proceeding in rem add: The plaintiff claims against the [name of ship or describe property] under sections [specify] of the Admiralty Act 1973.
 The plaintiff claims against the [name of ship or describe property] under sections [specify] of the Admiralty Act 1973 [summary of claim and amount].
@@ -11846,18 +12143,20 @@ Include the following sentence if the plaintiff claims against a second defendan
 The plaintiff claims against the second defendant [summary of claim and amount].
 Statement of defence
 A defendant who intends to defend an action must file or serve a statement of defence within 20 working days after the day on which the statement of claim was served on that defendant, unless the court or a Judge gives leave to the contrary.
-Form AD 6
-Memorandum of appearance
+Form AD 6 Memorandum of appearance
 r 25.12(1)
 Defendant: [name, place of residence or business, occupation]
 Include details for party and port of registry if appearance is in an action in rem.
 Party: [name and correct address of party appearing and capacity in which that party appears (ie, owner, part-owner, or otherwise). This statement is prima facie evidence of matters stated in it (see rule 25.13).]
 Port of registry: [name of port of registry or port to which ship belongs. This statement is prima facie evidence of matters stated in it (see rule 25.13).]
-1 Include this paragraph if the appearance is to a counterclaim, otherwise omit.
+1
+Include this paragraph if the appearance is to a counterclaim, otherwise omit.
 This is an appearance to a counterclaim.
-2 Include this paragraph if the appearance is by an added defendant, third party, or intervener, otherwise omit.
+2
+Include this paragraph if the appearance is by an added defendant, third party, or intervener, otherwise omit.
 [Specify briefly the particulars of the order or notice served on the party entering the appearance.]
-3 Include this paragraph if the appearance is conditional, otherwise omit.
+3
+Include this paragraph if the appearance is conditional, otherwise omit.
 This appearance has effect as an unconditional appearance unless, within 8 working days after the appearance is filed, an application is made to set aside the notice of proceeding or service of the notice of proceeding and an order is made accordingly (see rule 25.12 of the High Court Rules).
 I, [full name], filed this appearance, appearing in person. My address for service is [address].
 Date:
@@ -11867,16 +12166,20 @@ Signature:
 Note
 If the appearance is filed by a solicitor who has another solicitor acting as that solicitor's agent at the place of filing, add the name and address of the agent or the agent's firm to the name and address of the principal or the principal's firm.
 Directions for entering an appearance
-1 If the last day for entering an appearance falls on Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
-2 Omit this paragraph if it conflicts with a direction by the court.
+1
+If the last day for entering an appearance falls on Saturday, Sunday, or court holiday, you may file the memorandum of appearance on the next working day following that Saturday, Sunday, or holiday.
+2
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing the memorandum, you must disregard the period that commences with 25 December and ends with 15 January.
-Form AD 7
-Application for warrant of arrest
+Form AD 7 Application for warrant of arrest
 r 25.34(1)
 To the Registrar of the High Court at [place]
-1 The plaintiff applies for a warrant for the arrest of [name of ship or describe property].
-2 The present location of the property to be arrested is [location].
-3 This application is accompanied by the affidavit/affidavits* of [names of deponents] deposing to the matters referred to in Rule 25.34(4) of the High Court Rules, and an indemnity to the Registrar.
+1
+The plaintiff applies for a warrant for the arrest of [name of ship or describe property].
+2
+The present location of the property to be arrested is [location].
+3
+This application is accompanied by the affidavit/affidavits* of [names of deponents] deposing to the matters referred to in Rule 25.34(4) of the High Court Rules, and an indemnity to the Registrar.
 *Select one.
 Date:
 Signature:
@@ -11890,8 +12193,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form AD 8
-Indemnity to Registrar
+Form AD 8 Indemnity to Registrar
 r 25.34(4)
 To the Registrar of the High Court at [place]
 The applicant indemnifies you—
@@ -11901,8 +12203,7 @@ Date:
 Signature:
 (applicant/solicitor for applicant*)
 *Select one.
-Form AD 9
-Warrant of arrest
+Form AD 9 Warrant of arrest
 r 25.35(3)
 To the Registrar of the High Court at [place]
 and
@@ -11919,52 +12220,60 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form AD 10
-Notice by Registrar of arrest of property
+Form AD 10 Notice by Registrar of arrest of property
 r 25.38(1)
 [Name of ship or property]
-1 The ship named/property described* above is in custody or possession of the Registrar of the High Court of New Zealand by virtue of a warrant of arrest from this court.
+1
+The ship named/property described* above is in custody or possession of the Registrar of the High Court of New Zealand by virtue of a warrant of arrest from this court.
 *Select one.
-2 A person who attempts to remove the property or interfere with it without the written authority of the Registrar, or of the Registrar's officers or agents, will be in contempt of court.
+2
+A person who attempts to remove the property or interfere with it without the written authority of the Registrar, or of the Registrar's officers or agents, will be in contempt of court.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form AD 11
-Request for caveat against arrest
+Form AD 11 Request for caveat against arrest
 r 25.42(1)
 [Name of ship or describe property]
-1 I request a caveat be entered against the arrest of the ship/property* described above.
+1
+I request a caveat be entered against the arrest of the ship/property* described above.
 *Select one.
-2 I undertake to enter an appearance in any action that may be begun against it in the court.
-3 I undertake, within 3 working days after receiving notice of an action in the court concerning the arrested ship/property*, to give security to the satisfaction of the Registrar in an amount not exceeding $[amount] or to pay that amount into court.
+2
+I undertake to enter an appearance in any action that may be begun against it in the court.
+3
+I undertake, within 3 working days after receiving notice of an action in the court concerning the arrested ship/property*, to give security to the satisfaction of the Registrar in an amount not exceeding $[amount] or to pay that amount into court.
 *Select one.
-4 My address for service is [address].
+4
+My address for service is [address].
 Date:
 Signature:
 (applicant/solicitor for applicant*)
 *Select one.
-Form AD 12
-Release from arrest
+Form AD 12 Release from arrest
 r 25.44(1)
 To the Registrar of the High Court of New Zealand at [place]
 and
 To the Registrar's appointed officers and agents
-1 The [name of ship or describe property] has been held under arrest in accordance with a warrant of arrest issued at [place, date].
-2 You are now directed to release the arrested property.
-3 The ground for release is [specify ground, eg, court order, payment into court, etc].
+1
+The [name of ship or describe property] has been held under arrest in accordance with a warrant of arrest issued at [place, date].
+2
+You are now directed to release the arrested property.
+3
+The ground for release is [specify ground, eg, court order, payment into court, etc].
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
 *Omit if this release is not under an order of the court.
-Form AD 13
-Bail bond
+Form AD 13 Bail bond
 r 25.45(2)
-1 An action in rem against the [name of ship or describe property] is pending in this court. The parties to the action are [names].
-2 I/We* submit to the jurisdiction of the court.
+1
+An action in rem against the [name of ship or describe property] is pending in this court. The parties to the action are [names].
+2
+I/We* submit to the jurisdiction of the court.
 *Select one.
-3 If the defendant does not satisfy a judgment in this proceeding or does not pay an amount due to be paid by the defendant under an admission of liability in this action or under a settlement agreement that is filed in this court, the enforcement process may issue against me/us*, my/our* executors or administrators or assigns, and my/our* goods and chattels, and the goods and chattels of my/our* executors, administrators, or assigns, for an amount not exceeding $[amount].
+3
+If the defendant does not satisfy a judgment in this proceeding or does not pay an amount due to be paid by the defendant under an admission of liability in this action or under a settlement agreement that is filed in this court, the enforcement process may issue against me/us*, my/our* executors or administrators or assigns, and my/our* goods and chattels, and the goods and chattels of my/our* executors, administrators, or assigns, for an amount not exceeding $[amount].
 *Select one.
 Date:
 The common seal [complete as usual]:
@@ -11973,8 +12282,7 @@ This bond was signed by:
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand/Registrar/Deputy Registrar/Notary Public*)
 *Select one.
-Form AD 14
-Request for caveat against release and payment
+Form AD 14 Request for caveat against release and payment
 r 25.46(1)
 [Name of ship or describe property]
 Omit paragraph (a) or (b) if not requested.
@@ -11984,56 +12292,65 @@ I request a caveat be entered against—
 Date:
 Signature:
 [(name of signatory)]
-Form AD 15
-Request for commission for appraisement and sale
+Form AD 15 Request for commission for appraisement and sale
 r 25.51(1)
 I/We* request a commission for the appraisement and sale of [name of ship or describe property], which was arrested by order of the court on [date].
 *Select one.
 Date:
 Signature:
 [(name of signatory)]
-Form AD 16
-Commission for appraisement and sale
+Form AD 16 Commission for appraisement and sale
 r 25.51(5)
 To the Registrar of the High Court at [place]
 and
 To the Registrar's appointed officers and agents
-1 The court has ordered that the [name of ship or describe property] be appraised and sold.
-2 You are directed to choose 1 or more experienced persons and to swear them to appraise the property according to its correct value.
-3 You are also directed that, once that value has been certified in writing by the appraiser or appraisers, you are to arrange for the property to be sold by [specify whether sale to be by way of private treaty, tender, or public auction] for the highest price that can be obtained for it, but not for less than the appraised value unless the court, on your application, allows it to be sold for less.
-4 You are further directed that, immediately on the sale being completed, you are to pay the proceeds of the sale into court and to file in the court the certificate of appraisement signed by you and the appraiser or appraisers, and an account of the sale signed by you, together with this commission.
+1
+The court has ordered that the [name of ship or describe property] be appraised and sold.
+2
+You are directed to choose 1 or more experienced persons and to swear them to appraise the property according to its correct value.
+3
+You are also directed that, once that value has been certified in writing by the appraiser or appraisers, you are to arrange for the property to be sold by [specify whether sale to be by way of private treaty, tender, or public auction] for the highest price that can be obtained for it, but not for less than the appraised value unless the court, on your application, allows it to be sold for less.
+4
+You are further directed that, immediately on the sale being completed, you are to pay the proceeds of the sale into court and to file in the court the certificate of appraisement signed by you and the appraiser or appraisers, and an account of the sale signed by you, together with this commission.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
 This commission is taken out by [name], solicitor for the [name of party].
-Form AD 17
-Notice for priority of claims on sale
+Form AD 17 Notice for priority of claims on sale
 r 25.52(1)
-1 The [name of ship or describe property] has been sold and the gross proceeds of that sale, amounting to $[amount] have been paid into court at [place].
-2 The priority of the claims against the proceeds of sale will not be determined until after [expiry date of period specified in order for sale].
-3 A person having a claim against the ship or described property, or the proceeds of sale of that ship or property, on which the person intends to proceed to judgment should commence an action to enforce that claim before the date specified in paragraph 2 and, if necessary, apply to the court to extend the period within which the order of priority of claims will not be determined.
-4 If the steps referred to in paragraph 3 are not taken, an order determining the priority of claims against the ship or described property, or the proceeds of sale of that ship or property, may be made without notice to the person claiming against the ship or described property, or the proceeds of sale of that ship or property.
+1
+The [name of ship or describe property] has been sold and the gross proceeds of that sale, amounting to $[amount] have been paid into court at [place].
+2
+The priority of the claims against the proceeds of sale will not be determined until after [expiry date of period specified in order for sale].
+3
+A person having a claim against the ship or described property, or the proceeds of sale of that ship or property, on which the person intends to proceed to judgment should commence an action to enforce that claim before the date specified in paragraph 2 and, if necessary, apply to the court to extend the period within which the order of priority of claims will not be determined.
+4
+If the steps referred to in paragraph 3 are not taken, an order determining the priority of claims against the ship or described property, or the proceeds of sale of that ship or property, may be made without notice to the person claiming against the ship or described property, or the proceeds of sale of that ship or property.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form Arb 1
-Appeal under Arbitration Act 1996
+Form Arb 1 Appeal under Arbitration Act 1996
 rr 26.3(2), 26.8(3)
 Complete and insert the heading as set out in form G 1.
 To the Registrar of the High Court at [place]
 and
 To [name(s) of party/parties to be served with this notice]
 This document notifies you that—
-1 On [date] at [time], or as soon after that as counsel/parties* may be heard, [name of plaintiff appealing against arbitral award] will appeal to the court at [place] from an award dated [date] made by [arbitral tribunal name(s)].
+1
+On [date] at [time], or as soon after that as counsel/parties* may be heard, [name of plaintiff appealing against arbitral award] will appeal to the court at [place] from an award dated [date] made by [arbitral tribunal name(s)].
 *Select one.
-2 The question/questions* of law arising out of the award is/are* as follows: [specify precise form of question(s) of law alleged to arise, numbered if more than 1].
+2
+The question/questions* of law arising out of the award is/are* as follows: [specify precise form of question(s) of law alleged to arise, numbered if more than 1].
 *Select one.
-3 The plaintiff contends that the question/questions* should be answered as follows: [specify answer(s) contended for].
+3
+The plaintiff contends that the question/questions* should be answered as follows: [specify answer(s) contended for].
 *Select one.
-4 The plaintiff seeks the following relief: [specify relief sought].
-5 The grounds on which this application is made are—
+4
+The plaintiff seeks the following relief: [specify relief sought].
+5
+The grounds on which this application is made are—
 (a) the plaintiff was a party to the arbitration; and
 (b) For this paragraph select the statement that applies.
 Statement A
@@ -12042,7 +12359,8 @@ Statement B
 after the award was made, every other party to the arbitration consented to an appeal to the court on the question/questions* of law arising out of the award stated above; and
 *Select one.
 (c) [specify any grounds for the appeal other than those set out above, giving enough detail to inform the court and the other parties of the issues].
-6 This application is made in reliance on clause 5(1)(a)/5(1)(b)* of Schedule 2 of the Arbitration Act 1996.
+6
+This application is made in reliance on clause 5(1)(a)/5(1)(b)* of Schedule 2 of the Arbitration Act 1996.
 *Select one.
 [Specify any other enactment or principle of law relied on.]
 Date:
@@ -12058,24 +12376,29 @@ You can oppose this application within 10 working days after the day on which yo
 (b) serving a copy of that notice on the plaintiff and on all other parties.
 What can happen if I do not file and serve notice of opposition?
 If you do not file and serve a notice of opposition, the court may proceed to determine this application in your absence.
-Form Arb 2
-Notice for leave to appeal under Arbitration Act 1996
+Form Arb 2 Notice for leave to appeal under Arbitration Act 1996
 r 26.15(2)
 Complete and insert the heading as set out in form G 1.
 To the Registrar of the High Court at [place]
 and
 To [name(s) of party or parties to be served with this notice]
 This document notifies you that—
-1 On [date] at [time], or as soon after that as the applicant may be heard, [name of party seeking leave] will seek leave to appeal from an award dated [date] made by [arbitral tribunal name(s)].
-2 The question/questions* of law arising out of the award is/are* as follows: [specify precise form of question(s) of law alleged to arise, numbered if more than 1].
+1
+On [date] at [time], or as soon after that as the applicant may be heard, [name of party seeking leave] will seek leave to appeal from an award dated [date] made by [arbitral tribunal name(s)].
+2
+The question/questions* of law arising out of the award is/are* as follows: [specify precise form of question(s) of law alleged to arise, numbered if more than 1].
 *Select one.
-3 The plaintiff contends that the question/questions* should be answered as follows: [specify answer(s) contended for].
+3
+The plaintiff contends that the question/questions* should be answered as follows: [specify answer(s) contended for].
 *Select one.
-4 If granted leave to appeal, the plaintiff will seek the following relief: [specify relief sought].
-5 The grounds on which this application is made are—
+4
+If granted leave to appeal, the plaintiff will seek the following relief: [specify relief sought].
+5
+The grounds on which this application is made are—
 (a) the plaintiff was a party to the arbitration; and
 (b) [specify any grounds for the appeal other than those set out above, giving enough detail to inform the court and the other parties of the issues].
-6 This application is made in reliance on clause 5(1)(c) of Schedule 2 of the Arbitration Act 1996.
+6
+This application is made in reliance on clause 5(1)(c) of Schedule 2 of the Arbitration Act 1996.
 [Specify any other enactment or principle of law relied on.]
 Date:
 Signature:
@@ -12090,16 +12413,17 @@ You can oppose this application within 10 working days after the day on which yo
 (b) serving a copy of that notice on the plaintiff and on all other parties.
 What can happen if I do not file and serve notice of opposition?
 If you do not file and serve a notice of opposition, the court may proceed to determine this application in your absence.
-Form Arb 3
-Application to enter award as judgment
+Form Arb 3 Application to enter award as judgment
 r 26.22(2)
 Complete and insert the heading as set out in form G 1.
 To the Registrar of the High Court at [place]
 and
 To [name(s) of party or parties to be served with this notice]
 This document notifies you that—
-1 The plaintiff seeks to enforce the award dated [date] made by [arbitral tribunal name(s)] by entry as a judgment.
-2 This application is made in reliance on article 35 of Schedule 1 of the Arbitration Act 1996.
+1
+The plaintiff seeks to enforce the award dated [date] made by [arbitral tribunal name(s)] by entry as a judgment.
+2
+This application is made in reliance on article 35 of Schedule 1 of the Arbitration Act 1996.
 Date:
 Signature:
 (solicitor/counsel* for plaintiff)
@@ -12116,28 +12440,33 @@ You must do this within whichever of the following periods is shorter:
 (b) any period fixed by the court of less than 10 working days after you have been served with the order fixing that period.
 What will happen if I do not file and serve an application seeking an order that recognition and enforcement be refused?
 If you do not file and serve such an application, the Registrar will proceed to enter the award as a judgment.
-Form C 1
-Statement of claim in proceeding for putting company into liquidation
+Form C 1 Statement of claim in proceeding for putting company into liquidation
 r 31.3(1)
 Complete and attach the memorandum as set out in form G 10.
 The plaintiff says—
-1 The [full name of company] (the defendant company) was in [month, year] incorporated/reregistered* under the Companies Act 1993.
+1
+The [full name of company] (the defendant company) was in [month, year] incorporated/reregistered* under the Companies Act 1993.
 *Select one.
-2 The registered office of the defendant company is at [full address of registered office].
-3 [Set out in paragraphs the facts on which the plaintiff relies.]
-4 The plaintiff therefore requests that the defendant company be put into liquidation by the court under the Companies Act 1993.
+2
+The registered office of the defendant company is at [full address of registered office].
+3
+[Set out in paragraphs the facts on which the plaintiff relies.]
+4
+The plaintiff therefore requests that the defendant company be put into liquidation by the court under the Companies Act 1993.
 Date:
 Signature:
 (plaintiff/solicitor*)
 *Select one.
-Form C 2
-Statement of claim in proceeding for order under section 174 of Companies Act 1993
+Form C 2 Statement of claim in proceeding for order under section 174 of Companies Act 1993
 r 31.3(2)
 The plaintiff says—
-1 The [name of company] (the defendant company) was in [month, year] incorporated/reregistered* under the Companies Act 1993.
+1
+The [name of company] (the defendant company) was in [month, year] incorporated/reregistered* under the Companies Act 1993.
 *Select one.
-2 The registered office of the defendant company is at [full address of registered office].
-3 For this paragraph select the statement that applies.
+2
+The registered office of the defendant company is at [full address of registered office].
+3
+For this paragraph select the statement that applies.
 Statement A
 The affairs of the defendant company have been/are being/are likely to be* conducted in a manner that is [state whether oppressive, unfairly discriminatory, or unfairly prejudicial] to the plaintiff in the plaintiff's capacity as a member/shareholder† of the defendant company.
 *Select one.
@@ -12146,15 +12475,15 @@ Statement B
 An act/The acts* of the defendant company have been/are being/are likely to be* [state whether oppressive, unfairly discriminatory, or unfairly prejudicial] to the plaintiff in the plaintiff's capacity as a member/shareholder† of the defendant company.
 *Select one.
 †Select one or specify other capacity.
-4 Omit this paragraph if the plaintiff is filing this document without employing a solicitor.
+4
+Omit this paragraph if the plaintiff is filing this document without employing a solicitor.
 The plaintiff's solicitor is [name and address of solicitor].
 Date:
 Signature*:
 (plaintiff/defendant/third party†)
 *If this document notifies a change of solicitor, it must be signed by the party personally or by the party's attorney.
 †Select one.
-Form C 3
-Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993
+Form C 3 Notice of proceeding for putting company into liquidation or for order under section 174 of Companies Act 1993
 rr 31.5(2), 31.6(3)
 To [name of company] (the defendant company)
 and
@@ -12162,13 +12491,16 @@ Include the following address line if a liquidator or interim liquidator has bee
 To [full name, address, description], the liquidator/interim liquidator* of the defendant company.
 *Select one.
 This document notifies you that—
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 The plaintiff is, by a statement of claim (copy attached), applying for an order that the defendant company be put into liquidation under the Companies Act 1993.
 Statement B
 The plaintiff is, by a statement of claim (copy attached), applying for an order in respect of the defendant company under section 174 of the Companies Act 1993.
-2 The application will be heard in this court at [place, time, date].
-3 Unless, within 10 working days after the date on which you are served with this notice, you file in this registry of the court a statement of your defence to the plaintiff's claim (copy attached), the plaintiff may proceed to a hearing and—
+2
+The application will be heard in this court at [place, time, date].
+3
+Unless, within 10 working days after the date on which you are served with this notice, you file in this registry of the court a statement of your defence to the plaintiff's claim (copy attached), the plaintiff may proceed to a hearing and—
 Select the statement that applies.
 Statement A
 an order may be made for the liquidation of the defendant company by the court under the Companies Act 1993.
@@ -12181,84 +12513,105 @@ Signature:
 Note: Please carefully read the memorandum attached to this notice.
 Important information for recipient of notice
 Legal advice
-1 If you want to oppose this application or to appear at the hearing, it is essential that you consult a solicitor immediately because a company—
+1
+If you want to oppose this application or to appear at the hearing, it is essential that you consult a solicitor immediately because a company—
 (a) can carry on proceedings in the court only by a solicitor; and
 (b) cannot appear to conduct a proceeding except by counsel (unless there are exceptional circumstances).
 Advertising
-2 The application to put the defendant company into liquidation under the Companies Act 1993 (or for the making of an order under section 174 of the Companies Act 1993 in respect of the defendant company) is to be advertised in the New Zealand Gazette and in a newspaper.
-3 The advertisements will not be published until at least 5 working days after the date on which the defendant company is served with the statement of claim.
+2
+The application to put the defendant company into liquidation under the Companies Act 1993 (or for the making of an order under section 174 of the Companies Act 1993 in respect of the defendant company) is to be advertised in the New Zealand Gazette and in a newspaper.
+3
+The advertisements will not be published until at least 5 working days after the date on which the defendant company is served with the statement of claim.
 Omit the following heading and paragraphs 4 and 5 if the application is not an application to put the defendant company into liquidation.
 Power of court to restrain advertising and stay proceedings
-4 The court has power to make an order restraining the publication of the advertisement and staying any further proceedings in relation to the liquidation.
-5 The defendant company or, with the leave of the court, any creditor, shareholder of the defendant company, or the Registrar of Companies may apply for that order within 5 working days after the date of the service of the statement of claim on the defendant company.
+4
+The court has power to make an order restraining the publication of the advertisement and staying any further proceedings in relation to the liquidation.
+5
+The defendant company or, with the leave of the court, any creditor, shareholder of the defendant company, or the Registrar of Companies may apply for that order within 5 working days after the date of the service of the statement of claim on the defendant company.
 Statement of defence
-6 If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which the registry is open.
-7 Omit this paragraph if it conflicts with a direction by the court.
+6
+If the last day for filing your statement of defence falls on a day on which the registry of the court is closed, you may file your statement of defence on the next day on which the registry is open.
+7
+Omit this paragraph if it conflicts with a direction by the court.
 In calculating the time for filing your statement of defence, you must disregard the period that commences with 25 December and ends with 15 January.
-8 If you file a statement of defence, you must also, within the time permitted for filing it in the registry of the court, serve a copy of the statement on the plaintiff and on any other person who, when the statement of defence is filed, has filed a statement of defence in the proceeding.
-9 If a statement of defence is not filed on behalf of the defendant company within the time prescribed, counsel for the defendant company will not, without an order for extension of time or the special leave of the court, be allowed to appear at the hearing. If a company wants to appear at a hearing it must do so by counsel—a company cannot appear in person.
+8
+If you file a statement of defence, you must also, within the time permitted for filing it in the registry of the court, serve a copy of the statement on the plaintiff and on any other person who, when the statement of defence is filed, has filed a statement of defence in the proceeding.
+9
+If a statement of defence is not filed on behalf of the defendant company within the time prescribed, counsel for the defendant company will not, without an order for extension of time or the special leave of the court, be allowed to appear at the hearing. If a company wants to appear at a hearing it must do so by counsel—a company cannot appear in person.
 Appearance by persons other than defendant company
-10 A person (other than the defendant company) who intends to appear at the hearing of the application must file an appearance—
+10
+A person (other than the defendant company) who intends to appear at the hearing of the application must file an appearance—
 (a) stating that the person intends to appear; and
 (b) For this paragraph select the statement that applies.
 Statement A
 indicating whether the person supports or opposes the appointment of a liquidator by the court.
 Statement B
 indicating whether the person supports or opposes the making of an order under section 174 of the Companies Act 1993.
-11 If you file an appearance, you do not need to file a statement of defence.
-12 You must file an appearance not later than the second working day before the day appointed for the hearing.
-13 If you fail to file an appearance within the time prescribed, neither you nor counsel on your behalf will, without an order for extension of time or the special leave of the court, be allowed to appear at the hearing.
+11
+If you file an appearance, you do not need to file a statement of defence.
+12
+You must file an appearance not later than the second working day before the day appointed for the hearing.
+13
+If you fail to file an appearance within the time prescribed, neither you nor counsel on your behalf will, without an order for extension of time or the special leave of the court, be allowed to appear at the hearing.
 Registry hours
-14 The registry hours of the court are from 9 am to 5 pm, except on court holidays.
+14
+The registry hours of the court are from 9 am to 5 pm, except on court holidays.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form C 4
-Verifying affidavit
+Form C 4 Verifying affidavit
 r 31.5(2)
 I, [full name, place of residence, occupation], swear that those allegations in the statement of claim (a copy of which is attached to this affidavit and marked "A") that relate to my own/my firm's* acts and deeds are true, and I believe to be true those allegations that relate to the acts and deeds of another person/other persons*.
 *Select one.
 Sworn at [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand)
-Form C 5
-Affidavit verifying statement of claim of limited company
+Form C 5 Affidavit verifying statement of claim of limited company
 r 31.5(2)
 I, [full name, place of residence, occupation], swear—
-1 I have knowledge of the facts stated in this affidavit and am duly authorised by the plaintiff to make this affidavit on its behalf.
-2 Those statements in the statement of claim (a copy of which is attached to this document and marked "A") that relate to the acts and deeds of the plaintiff are true, and I believe to be true those statements that relate to the acts and deeds of another person/other persons*.
+1
+I have knowledge of the facts stated in this affidavit and am duly authorised by the plaintiff to make this affidavit on its behalf.
+2
+Those statements in the statement of claim (a copy of which is attached to this document and marked "A") that relate to the acts and deeds of the plaintiff are true, and I believe to be true those statements that relate to the acts and deeds of another person/other persons*.
 *Select one.
 Sworn at [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand)
-Form C 6
-Advertisement of application for putting company into liquidation
+Form C 6 Advertisement of application for putting company into liquidation
 r 31.9(6)
 This document notifies you that—
-1 On [date], an application for putting [full name of company] into liquidation was filed in the High Court at [place]. Its reference number is [court file number]. The application is to be heard by the High Court at [place, date, time].
-2 A person, other than the defendant company, who wants to appear at the hearing of the application must file an appearance not later than the second working day before that day.
-3 The statement of claim and the verifying affidavit may be inspected at the registry of the court or at the plaintiff's address for service.
-4 The plaintiff is [full name], whose address for service is [address]. The plaintiff's solicitor is [name], whose address is [address].
+1
+On [date], an application for putting [full name of company] into liquidation was filed in the High Court at [place]. Its reference number is [court file number]. The application is to be heard by the High Court at [place, date, time].
+2
+A person, other than the defendant company, who wants to appear at the hearing of the application must file an appearance not later than the second working day before that day.
+3
+The statement of claim and the verifying affidavit may be inspected at the registry of the court or at the plaintiff's address for service.
+4
+The plaintiff is [full name], whose address for service is [address]. The plaintiff's solicitor is [name], whose address is [address].
 Date:
-Form C 7
-Advertisement of application for order under section 174 of Companies Act 1993
+Form C 7 Advertisement of application for order under section 174 of Companies Act 1993
 r 31.9(6)
-1 Members of the public are notified that on [date] an application for an order under section 174 of the Companies Act 1993 in respect of [full name of company] was filed in the High Court at [place].
-2 The order sought is an order [specify nature of order sought].
-3 The application is to be heard by the High Court at [place, date, time].
-4 A person, other than the defendant company, who wants to appear at the hearing of the application must file an appearance not later than the second working day before that day.
-5 The plaintiff is [full name], whose address for service is [address for service].
+1
+Members of the public are notified that on [date] an application for an order under section 174 of the Companies Act 1993 in respect of [full name of company] was filed in the High Court at [place].
+2
+The order sought is an order [specify nature of order sought].
+3
+The application is to be heard by the High Court at [place, date, time].
+4
+A person, other than the defendant company, who wants to appear at the hearing of the application must file an appearance not later than the second working day before that day.
+5
+The plaintiff is [full name], whose address for service is [address for service].
 Note: You may obtain further information from the registry of the court or from the plaintiff or the plaintiff's solicitor.
 Date:
 Signature:
 (plaintiff/solicitor for plaintiff*)
 *Select one.
-Form C 8
-Affidavit of service
+Form C 8 Affidavit of service
 r 31.13(1)
 I, [full name, place of residence, occupation], swear—
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 On [date] I served the defendant company with—
 (a) the statement of claim in this proceeding; and
@@ -12266,24 +12619,27 @@ On [date] I served the defendant company with—
 (c) the notice of proceeding dated [date].
 Statement B
 On [date] I served the defendant company with a statement of claim, verifying affidavit, and notice of proceeding (copies of which are attached to this document and marked "A", "B", and "C" respectively).
-2 I served the documents on the defendant company at [place] in New Zealand by [specify method by which service was effected].
+2
+I served the documents on the defendant company at [place] in New Zealand by [specify method by which service was effected].
 Signature of deponent:
 Sworn at [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand)
-Form C 9
-Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993)
+Form C 9 Appearance in support of (or in opposition to) application for putting company into liquidation (or for making of order under section 174 of Companies Act 1993)
 r 31.18
 Complete and attach the memorandum as set out in form G 10.
-1 I, [full name, address, description], intend to appear at the hearing of this proceeding.
-2 For this paragraph select the statement that applies.
+1
+I, [full name, address, description], intend to appear at the hearing of this proceeding.
+2
+For this paragraph select the statement that applies.
 Statement A
 I support/oppose* the application for putting the defendant company into liquidation by the High Court.
 *Select one.
 Statement B
 I support/oppose* the application for putting the defendant into liquidation by the making of an order under section 174 of the Companies Act 1993.
 *Select one.
-3 For this paragraph select the statement that applies.
+3
+For this paragraph select the statement that applies.
 Statement A
 I am a creditor for $[amount] in the defendant company.
 Statement B
@@ -12293,8 +12649,7 @@ Date:
 Signature:
 (solicitor/counsel* for person filing appearance)
 *Select one.
-Form C 10
-Notification to liquidator of order putting company into liquidation
+Form C 10 Notification to liquidator of order putting company into liquidation
 r 31.29(2)
 To [full name, full address] (the liquidator).
 This document notifies you that the Honourable Justice/Associate Judge* [name] today ordered that the defendant company be put into liquidation by the court under the Companies Act 1993.
@@ -12308,8 +12663,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form C 11
-Notification to interim liquidator of appointment
+Form C 11 Notification to interim liquidator of appointment
 r 31.29(2)
 To [full name, full address] (the interim liquidator).
 The Honourable Justice/Associate Judge* [name] today appointed [name of the Official Assignee or, if some other person has been appointed, the name, address, and description of that person] as interim liquidator for the period before an order putting the company into liquidation is made.
@@ -12323,15 +12677,18 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form C 12
-Order putting company into liquidation
+Form C 12 Order putting company into liquidation
 r 31.31(1)
 This document notifies you that—
-1 The application made by the plaintiff [name] was determined by the Honourable Justice/Associate Judge* [name] on [date, time].
+1
+The application made by the plaintiff [name] was determined by the Honourable Justice/Associate Judge* [name] on [date, time].
 *Select one.
-2 This court orders that the defendant company be put into liquidation by the court under the Companies Act 1993, and appoints [full name of liquidator] as liquidator.
-3 It also orders that the cost of $[amount] of the application be paid out of the assets of the defendant company.
-4 Before making this order, the court—
+2
+This court orders that the defendant company be put into liquidation by the court under the Companies Act 1993, and appoints [full name of liquidator] as liquidator.
+3
+It also orders that the cost of $[amount] of the application be paid out of the assets of the defendant company.
+4
+Before making this order, the court—
 (a) heard [name of counsel] for the plaintiff, and [name of counsel] for [description of other party or person]; and
 (b) read the statement of claim and the affidavit of [full name] verifying the allegations in the statement of claim; and
 (c) sighted the advertisements for the statement of claim published in [specify date on which the advertisement appeared in the New Zealand Gazette, and name and date of issue of any other newspapers containing an advertisement for the statement of claim]; and
@@ -12339,21 +12696,23 @@ This document notifies you that—
 [Specify any other evidence.]
 Date:
 Deputy Registrar
-Form C 13
-Order appointing interim liquidator
+Form C 13 Order appointing interim liquidator
 r 31.31(2)
 This document notifies you that—
-1 The application made by the plaintiff [name] was determined by the Honourable Justice/Associate Judge* [name] on [date].
+1
+The application made by the plaintiff [name] was determined by the Honourable Justice/Associate Judge* [name] on [date].
 *Select one.
-2 The court appoints [full name of interim liquidator] as interim liquidator of the defendant company.
-3 The court also limits and restricts the powers of the interim liquidator to the following acts: [specify acts that the interim liquidator is to be authorised to do and the property of which the interim liquidator is to take possession].
-4 In making this order, the court read the following documents: [specify documents relied on by the court].
+2
+The court appoints [full name of interim liquidator] as interim liquidator of the defendant company.
+3
+The court also limits and restricts the powers of the interim liquidator to the following acts: [specify acts that the interim liquidator is to be authorised to do and the property of which the interim liquidator is to take possession].
+4
+In making this order, the court read the following documents: [specify documents relied on by the court].
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form C 14
-General heading for notices in forms C 15 and C 16
+Form C 14 General heading for notices in forms C 15 and C 16
 r 31.37
 In the High Court of New Zealand
 [Name of registry] Registry
@@ -12364,17 +12723,19 @@ Between [full name of liquidator]
 (liquidator)
 And [full name, place of residence, occupation]
 (intended recipient of notice)
-Form C 15
-Notice to set aside voidable transaction under Companies Act 1993
+Form C 15 Notice to set aside voidable transaction under Companies Act 1993
 r 31.37
 Complete and attach the memorandum as set out in form G 10.
 To the Registrar of the High Court at [place]
 and
 To [full names of parties to be served]
 This document notifies you that—
-1 The liquidator [full name] of [full name of company in liquidation] (the company) wants to have set aside the following transaction by the company that is voidable under section 292 of the Companies Act 1993: [details of transaction to be set aside, including dates, amounts, and nature].
-2 The liquidator's postal, email, and street addresses are [state addresses].
-3 The company was put into liquidation when a liquidator was appointed on [date, time] by—
+1
+The liquidator [full name] of [full name of company in liquidation] (the company) wants to have set aside the following transaction by the company that is voidable under section 292 of the Companies Act 1993: [details of transaction to be set aside, including dates, amounts, and nature].
+2
+The liquidator's postal, email, and street addresses are [state addresses].
+3
+The company was put into liquidation when a liquidator was appointed on [date, time] by—
 Select the statement that applies.
 Statement A
 special resolution of those shareholders entitled to vote and voting on the question.
@@ -12384,12 +12745,18 @@ Statement C
 the High Court at [place] under proceeding No [number], as a result of an application for the appointment of a liquidator that was filed on [date].
 Statement D
 a resolution of the creditors passed at the watershed meeting held under section 239AT of the Companies Act 1993.
-4 The property or value that the liquidator wants to recover is [details of property or value].
-5 In giving this notice, the liquidator relies on the following grounds: [specify grounds]
-6 You may object to the transaction being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at his or her postal, email, or street address within 20 working days after this notice has been served on you.
-7 If you do object, your written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
-8 If you do not object, within 20 working days after the liquidator's notice has been served on you, the transaction will be set aside as against you.
-9 If you do object, the liquidator may apply to the court for the transaction to be set aside.
+4
+The property or value that the liquidator wants to recover is [details of property or value].
+5
+In giving this notice, the liquidator relies on the following grounds: [specify grounds]
+6
+You may object to the transaction being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at his or her postal, email, or street address within 20 working days after this notice has been served on you.
+7
+If you do object, your written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
+8
+If you do not object, within 20 working days after the liquidator's notice has been served on you, the transaction will be set aside as against you.
+9
+If you do object, the liquidator may apply to the court for the transaction to be set aside.
 Date:
 Signature:
 (solicitor/counsel* for liquidator)
@@ -12401,16 +12768,18 @@ working day means a day of the week other than—
 (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
 (c) if 1 January in any year falls on a Friday, the following Monday; and
 (d) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday.
-Form C 16
-Notice to set aside voidable charge under Companies Act 1993
+Form C 16 Notice to set aside voidable charge under Companies Act 1993
 r 31.37
 To the Registrar of the High Court at [place]
 and
 To [full names of parties to be served]
 This document notifies you that—
-1 The liquidator [full name] of [full name of company in liquidation] (the company) wants to have set aside the following charge by the company that is voidable under section 293 of the Companies Act 1993: [details of charge to be set aside, including dates, amounts, and nature].
-2 The liquidator's postal, email, and street addresses are [state addresses].
-3 The company was put into liquidation when a liquidator was appointed on [date, time] by—
+1
+The liquidator [full name] of [full name of company in liquidation] (the company) wants to have set aside the following charge by the company that is voidable under section 293 of the Companies Act 1993: [details of charge to be set aside, including dates, amounts, and nature].
+2
+The liquidator's postal, email, and street addresses are [state addresses].
+3
+The company was put into liquidation when a liquidator was appointed on [date, time] by—
 Select the statement that applies.
 Statement A
 special resolution of those shareholders entitled to vote and voting on the question.
@@ -12420,11 +12789,16 @@ Statement C
 the High Court at [place] under proceeding No [number], as a result of an application for the appointment of a liquidator that was filed on [date].
 Statement D
 a resolution of the creditors passed at the watershed meeting held under section 239AT of the Companies Act 1993.
-4 In giving this notice, the liquidator relies on the following grounds: [specify grounds].
-5 You may object to the charge being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at his or her postal, email, or street address within 20 working days after this notice has been served on you.
-6 If you do object, your written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
-7 If you do not object, within 20 working days after the liquidator's notice has been served on you, the transaction will be set aside as against you.
-8 If you do object, the liquidator may apply to the court for the charge to be set aside.
+4
+In giving this notice, the liquidator relies on the following grounds: [specify grounds].
+5
+You may object to the charge being set aside by sending to the liquidator a written notice of objection that is received by the liquidator at his or her postal, email, or street address within 20 working days after this notice has been served on you.
+6
+If you do object, your written notice of objection must contain full particulars of the reasons for objecting and must identify any documents that evidence or substantiate the reasons for objecting.
+7
+If you do not object, within 20 working days after the liquidator's notice has been served on you, the transaction will be set aside as against you.
+8
+If you do object, the liquidator may apply to the court for the charge to be set aside.
 Date:
 Signature:
 (solicitor/counsel* for liquidator)
@@ -12436,35 +12810,40 @@ working day means a day of the week other than—
 (b) a day in the period commencing with 25 December in any year and ending with 2 January in the following year; and
 (c) if 1 January in any year falls on a Friday, the following Monday; and
 (d) if 1 January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday.
-Form B 1
-Request for issue of bankruptcy notice
+Form B 1 Request for issue of bankruptcy notice
 r 24.8(1)
 Insert a heading that conforms with rule 24.5 and describes the parties as judgment creditor and judgment debtor respectively.
 To the Registrar of the High Court at [place]
-1 I, [full name, address, description of judgment creditor], request that the court issue a bankruptcy notice against [full name, address, and description of judgment debtor].
-2 If rule 24.13 requires a different statement, substitute that for this paragraph.
+1
+I, [full name, address, description of judgment creditor], request that the court issue a bankruptcy notice against [full name, address, and description of judgment debtor].
+2
+If rule 24.13 requires a different statement, substitute that for this paragraph.
 The judgment debtor, [name], has for the greater part of the past 6 months resided at [full address] or carried on business at [full address], which is nearest by the most practicable route to the registry of this court.
-3 I produce a certified copy of a final judgment or final order against [name of judgment debtor], obtained by me in the [name] court on [date].
-4 Execution on the judgment has not been stayed.
+3
+I produce a certified copy of a final judgment or final order against [name of judgment debtor], obtained by me in the [name] court on [date].
+4
+Execution on the judgment has not been stayed.
 Date:
 Signature:
 (judgment creditor/solicitor for judgment creditor*)
 *Select one.
-Form B 2
-Bankruptcy notice
+Form B 2 Bankruptcy notice
 r 24.8(3)
 Insert a heading that conforms with rule 24.5 and describes the parties as judgment creditor and judgment debtor respectively.
 To [full name and address of judgment debtor]
-1 Within [10 working days, or, if the notice is served outside New Zealand, the period specified in the order for service] after you are served with this notice (excluding the day of service)—
+1
+Within [10 working days, or, if the notice is served outside New Zealand, the period specified in the order for service] after you are served with this notice (excluding the day of service)—
 (a) you must pay to the judgment creditor, [full name, address], $[amount], either in person or at the address for service of the judgment creditor (or the solicitor for the judgment creditor). This amount is the amount the judgment creditor claims is due (or remains unpaid) on a final judgment or final order, on which execution has not been stayed, that the judgment creditor obtained against you in the [name of court] on [date]; or
 (b) you must secure or enter into a new formal agreement with the judgment creditor or, alternatively, obtain the High Court's approval of terms of payment; or
 (c) you must satisfy the High Court that you have a counterclaim, set-off, or cross-demand against the judgment creditor—
 (i) that equals or exceeds the amount claimed by the judgment creditor; and
 (ii) that you could not put forward in the action or proceeding in which the judgment or order was obtained.
-2 The judgment creditor also claims costs against you of $[amount], which includes—
+2
+The judgment creditor also claims costs against you of $[amount], which includes—
 (a) a fee of $[amount] for filing this notice; and
 (b) a fee of $150 for serving this notice.
-3 A certified copy of the judgment or order on which this bankruptcy notice is based is attached.
+3
+A certified copy of the judgment or order on which this bankruptcy notice is based is attached.
 Date:
 (Deputy Registrar)
 Notes
@@ -12483,33 +12862,34 @@ If you do not pay the costs claimed or dispute the claim for costs, you will com
 This notice is issued by [name and address of judgment creditor] in person by [full name and address for service of solicitor for judgment creditor]*.
 *Select one.
 Note: The amount claimed for costs in paragraph 2 must be determined as if the proceeding were a category 2 proceeding specified in Schedule 2 of the High Court Rules and the time allocation were the time allocation for item 17 and band B specified in Schedule 3 of the High Court Rules.
-Form B 3
-Creditor's application for adjudication order
+Form B 3 Creditor's application for adjudication order
 r 24.11(1)
 Complete this application in accordance with the requirements of rule 24.5.
 To the Registrar of the High Court at [place]
 and
 To [full name of debtor]
 This document notifies you that—
-1 The creditor of [full name, address of debtor] will on [date] at [time] ask the court to make orders—
+1
+The creditor of [full name, address of debtor] will on [date] at [time] ask the court to make orders—
 (a) adjudicating [full name of debtor] bankrupt; and
 (b) as to costs.
-2 The creditor claims that—
+2
+The creditor claims that—
 (a) the debtor has, for the greater part of the past 6 months, resided at/carried on business at [full address]* [or state other relevant facts under rule 24.13]; and
 *Select one.
 (b) the debtor owes the creditor [amount and particulars of debt, including when it is payable]; and
 (c) the debtor has committed an available act of bankruptcy, as follows: [state particulars, including date, of the act of bankruptcy]; and
 (d) the creditor has no security for the debt/is a secured creditor as follows: [state particulars of the security]*.
 *Select one.
-3 The creditor's name and address is [creditor's full name and address].
+3
+The creditor's name and address is [creditor's full name and address].
 Dated at [place, date]
 Applicant creditor:
 Witness:
 Signature:
 (Deputy Registrar/Registrar/solicitor/Justice of the Peace*)
 *Select one.
-Form B 4
-Affidavit supporting creditor's application for adjudication
+Form B 4 Affidavit supporting creditor's application for adjudication
 r 24.11(3)
 Insert a heading that conforms with rule 24.5 and describes the parties as judgment creditor and judgment debtor respectively.
 I, [full name, address, description of applying creditor], the applicant, swear—
@@ -12526,22 +12906,30 @@ Before me: [name, signature]
 *Select one.
 Note
 If the applicant cannot state on oath that the statements in the application are, to the best of the applicant's knowledge and belief, true, the applicant must set out the statements that the applicant can swear to the truth of, and file a further affidavit by some person or persons who can swear to the truth of the remaining statement(s).
-Form B 5
-Summons to debtor
+Form B 5 Summons to debtor
 r 24.11(3)
 Insert a heading that conforms with rule 24.5 and describes the parties as judgment creditor and judgment debtor respectively.
 To [full name, address, description of debtor]
-1 You are summoned to attend before the High Court at [place, time, date] (the hearing date).
-2 [Full name, address, description of applicant] has filed an application in this court to adjudicate you bankrupt.
-3 The court will consider whether you should be adjudicated bankrupt on the following grounds: [specify grounds].
-4 If, by the hearing date, you have not paid the amount of $[amount specified in the creditor's application] to the applicant, either in person or at the address for service of the applicant (or solicitor for the applicant), or you have not paid or disputed the amount of the costs claimed by the applicant in the bankruptcy notice served on you, the applicant is entitled to ask the court to adjudicate you bankrupt.
-5 The applicant also claims costs against you of $[amount], which includes a fee for filing this summons of $[amount] and a fee of $[amount] for serving this summons.
-6 If you do not dispute the claim for costs in paragraph 5, you must, by the hearing date, pay those costs, either in person or at the address for service of the applicant (or the solicitor for the applicant).
-7 If you dispute the claim for costs, you may,—
+1
+You are summoned to attend before the High Court at [place, time, date] (the hearing date).
+2
+[Full name, address, description of applicant] has filed an application in this court to adjudicate you bankrupt.
+3
+The court will consider whether you should be adjudicated bankrupt on the following grounds: [specify grounds].
+4
+If, by the hearing date, you have not paid the amount of $[amount specified in the creditor's application] to the applicant, either in person or at the address for service of the applicant (or solicitor for the applicant), or you have not paid or disputed the amount of the costs claimed by the applicant in the bankruptcy notice served on you, the applicant is entitled to ask the court to adjudicate you bankrupt.
+5
+The applicant also claims costs against you of $[amount], which includes a fee for filing this summons of $[amount] and a fee of $[amount] for serving this summons.
+6
+If you do not dispute the claim for costs in paragraph 5, you must, by the hearing date, pay those costs, either in person or at the address for service of the applicant (or the solicitor for the applicant).
+7
+If you dispute the claim for costs, you may,—
 (a) before the hearing date, apply to the court to fix costs; or
 (b) at the hearing, apply orally to the court to fix costs.
-8 You are not required to attend the hearing and no warrant will be issued if you do not attend, but if you do not attend the hearing the court will proceed in your absence.
-9 If you intend to oppose the making of an order of adjudication you must, by 1 pm on the last working day before the hearing date, file a notice of opposition in form B 6, together with an affidavit in support of the opposition, and serve a copy of those documents on the applicant creditor.
+8
+You are not required to attend the hearing and no warrant will be issued if you do not attend, but if you do not attend the hearing the court will proceed in your absence.
+9
+If you intend to oppose the making of an order of adjudication you must, by 1 pm on the last working day before the hearing date, file a notice of opposition in form B 6, together with an affidavit in support of the opposition, and serve a copy of those documents on the applicant creditor.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
@@ -12550,28 +12938,30 @@ This summons is issued by [full name and address for service of applicant] in pe
 *Select one.
 Note
 The amount claimed for costs in paragraph 5 must be determined as if the proceeding were a category 2 proceeding specified in Schedule 2 of the High Court Rules, and the time allocation were the time allocation for item 19 and band B specified in Schedule 3 of the High Court Rules.
-Form B 6
-Notice by debtor of intention to oppose application
+Form B 6 Notice by debtor of intention to oppose application
 r 24.18
 Insert a heading that conforms with rule 24.5 and describes the parties as judgment creditor and judgment debtor respectively.
 To [full name and address for service of (solicitor for) applicant creditor]
 and
 To the Registrar of the court at [place]
 This document notifies you that—
-1 I, [full name, address, description of debtor], intend to oppose the making of an order of adjudication as sought in the application.
-2 I intend to dispute the applicant creditor's debt/the act of bankruptcy*—
+1
+I, [full name, address, description of debtor], intend to oppose the making of an order of adjudication as sought in the application.
+2
+I intend to dispute the applicant creditor's debt/the act of bankruptcy*—
 (a) on the following grounds: [specify grounds]; and
 (b) on the evidence contained in the affidavit filed in support of this notice.
 *Select one.
 Date:
 Signature:
-(debtor) Form B 7
-Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006
+(debtor) Form B 7 Warrant to search for and seize bankrupt's property under section 150 or 151 of Insolvency Act 2006
 r 24.4(5)
 Insert a heading that conforms with rule 24.5.
 To [the Official Assignee or other authorised person]
-1 [Full name, address, description of bankrupt] was adjudicated a bankrupt on [date].
-2 You and your assistants are authorised to—
+1
+[Full name, address, description of bankrupt] was adjudicated a bankrupt on [date].
+2
+You and your assistants are authorised to—
 (a) enter and search [specify locality]; and
 (b) seize all or any part of the property of the bankrupt in the custody or possession of the bankrupt or any other person; and
 (c) if necessary to effect that seizure,—
@@ -12580,13 +12970,13 @@ To [the Official Assignee or other authorised person]
 (iii) to seize and take possession of that property; and
 (d) Include this paragraph only in a warrant under section 150 of the Insolvency Act 2006, otherwise omit.
 seize any document relating to the bankrupt's property, conduct, or dealings.
-3 You must safely detain and keep in your possession anything that you have seized until it is disposed of or dealt with by the Official Assignee in accordance with the Insolvency Act 2006.
+3
+You must safely detain and keep in your possession anything that you have seized until it is disposed of or dealt with by the Official Assignee in accordance with the Insolvency Act 2006.
 Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Form B 8
-Notice of objection to discharge
+Form B 8 Notice of objection to discharge
 r 24.36(1)
 Insert a heading that conforms with rule 24.5.
 To the Registrar of the High Court at [place]
@@ -12598,25 +12988,31 @@ Date:
 Signature:
 (Official Assignee/Deputy Official Assignee/creditor*)
 *Select one.
-Form B 9
-Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006
+Form B 9 Proposal by insolvent to creditors under subpart 2 of Part 5 of Insolvency Act 2006
 r 24.42
 Insert a heading that conforms with rule 24.5.
 To the Registrar of the court at [place]
 I, [full name, address, description of insolvent person] (the insolvent), submit the following proposal under the Insolvency Act 2006:
-1 That payment/satisfaction* of my debts to the secured creditors will be made in the following manner: [specify terms of proposal in respect of secured claims].
+1
+That payment/satisfaction* of my debts to the secured creditors will be made in the following manner: [specify terms of proposal in respect of secured claims].
 *Select one.
-2 That payment/satisfaction* of debts directed by the Insolvency Act 2006 to be paid in priority to all other debts in the distribution of the property of a bankrupt will be made as follows: [specify terms of proposal in respect of preferred claims].
+2
+That payment/satisfaction* of debts directed by the Insolvency Act 2006 to be paid in priority to all other debts in the distribution of the property of a bankrupt will be made as follows: [specify terms of proposal in respect of preferred claims].
 *Select one.
-3 That provision for payment of all proper fees and expenses of the trustee on and incidental to the proceedings arising out of the proposal will be made in the following manner: [specify terms of proposal in respect of fees and expenses of trustee].
-4 For this paragraph select the statement that applies.
+3
+That provision for payment of all proper fees and expenses of the trustee on and incidental to the proceedings arising out of the proposal will be made in the following manner: [specify terms of proposal in respect of fees and expenses of trustee].
+4
+For this paragraph select the statement that applies.
 Statement A
 That a dividend of $[amount] will be paid on all unsecured debts.
 Statement B
 [Specify terms of proposal in respect of unsecured claims.]
-5 [Specify terms of any other offer.]
-6 That the money payable under this proposal will be paid over to the trustee, [full name, address], and the payment of the money will be secured in the following manner: [list full names and addresses of sureties, if any, and specify terms of any proposed security or charge or guarantee].
-7 That [full name, address] is willing to act as trustee in terms of this proposal.
+5
+[Specify terms of any other offer.]
+6
+That the money payable under this proposal will be paid over to the trustee, [full name, address], and the payment of the money will be secured in the following manner: [list full names and addresses of sureties, if any, and specify terms of any proposed security or charge or guarantee].
+7
+That [full name, address] is willing to act as trustee in terms of this proposal.
 Date:
 Signature:
 (insolvent)
@@ -12624,8 +13020,7 @@ I am willing to act as trustee in terms of this proposal.
 Date:
 Signature:
 (trustee)
-Form B 10
-Statement of affairs and affidavit
+Form B 10 Statement of affairs and affidavit
 r 24.42
 Insert a heading that conforms with rule 24.5.
 Statement showing the assets, debts, and liabilities of [full name, address, description of insolvent person] (the insolvent).
@@ -12652,26 +13047,33 @@ Sworn at [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand/Registrar/Deputy Registrar/Notary Public*)
 *Select one.
-Form B 11
-Report of trustee on proposal
+Form B 11 Report of trustee on proposal
 r 24.43
 Insert a heading that conforms with rule 24.5.
 I, [full name, address, description of trustee], the trustee named in the proposal of [full name, address, description of insolvent] (the insolvent), report to the court as follows:
-1 The insolvent on [date] lodged a proposal in the court. A correct copy (marked "A") is attached.
-2 On [date], I gave notice to every known creditor affected by the proposal (the names and addresses of whom are listed in the document marked "B" attached) that a meeting of creditors would be held on [date] to consider the proposal.
-3 The notice was accompanied by the following:
+1
+The insolvent on [date] lodged a proposal in the court. A correct copy (marked "A") is attached.
+2
+On [date], I gave notice to every known creditor affected by the proposal (the names and addresses of whom are listed in the document marked "B" attached) that a meeting of creditors would be held on [date] to consider the proposal.
+3
+The notice was accompanied by the following:
 (a) a statement of the assets, debts, and liabilities of the insolvent:
 (b) a list of the insolvent's creditors affected by the proposal and showing the amounts of their claims:
 (c) a copy of the insolvent's proposal, a form of proof of debt, and a voting letter.
-4 I attach correct copies of the notice (marked "C"), the statement of affairs (marked "D"), and the list of creditors (marked "E").
-5 The meeting of creditors was held on [date] and was presided over by [full name].
-6 For this paragraph select the statement that applies.
+4
+I attach correct copies of the notice (marked "C"), the statement of affairs (marked "D"), and the list of creditors (marked "E").
+5
+The meeting of creditors was held on [date] and was presided over by [full name].
+6
+For this paragraph select the statement that applies.
 Statement A
 The proposal was accepted by the required majority of creditors.
 Statement B
 The proposal was amended at the meeting and was accepted by the required majority of creditors (as amended).
-7 A correct copy of the resolution of the meeting (marked "F") is attached.
-8 In my opinion—
+7
+A correct copy of the resolution of the meeting (marked "F") is attached.
+8
+In my opinion—
 (a) the assets of the insolvent and their fair realisable value are as follows: [details of assets, giving the value as carried on the books of the insolvent and the trustee's estimate in each case of their realisable value]:
 (b) the debts and liabilities of the insolvent are as follows: [details of debts and liabilities, including whether secured, preferred, or unsecured, and pointing out discrepancies (if any) between debts and liabilities as declared by the insolvent and as subsequently proved and admitted by the trustee]:
 (c) For this paragraph select the statement that applies.
@@ -12682,8 +13084,7 @@ the debtor's proposal is not advantageous for the creditors for the following re
 Date:
 Signature:
 (trustee)
-Form B 12
-Account of assets, debts, etc, of deceased person verified by affidavit
+Form B 12 Account of assets, debts, etc, of deceased person verified by affidavit
 r 24.45(2)
 Insert a heading that conforms with rule 24.5.
 Statement showing the assets, debts, and liabilities of the estate of [full name, former address of deceased] (the deceased).
@@ -12706,27 +13107,31 @@ Other liabilities, according to list attached and marked "F"
 Total debts
 According to the above statement there appears to be a deficiency in the estate amounting to $[amount].
 I, [full name, address, description of administrator], swear—
-1 That I am the administrator of the estate.
-2 That the above statement and the lists marked "A", "B", "C", "D", "E", and "F" show the assets, debts, and liabilities of the deceased so far as they are known to me.
+1
+That I am the administrator of the estate.
+2
+That the above statement and the lists marked "A", "B", "C", "D", "E", and "F" show the assets, debts, and liabilities of the deceased so far as they are known to me.
 Signature:
 (administrator)
 Sworn at [place, date]
 Before me: [name, signature]
 (a solicitor of the High Court of New Zealand/Registrar/Deputy Registrar/Notary Public*)
 *Select one.
-Form B 13
-Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006
+Form B 13 Certificate by Public Trust or Māori Trustee of election to administer under Part 6 of Insolvency Act 2006
 r 24.49
 Insert a heading that conforms with rule 24.5.
 The Public Trust/Māori Trustee*, certifies as follows:
 *Select one.
-1 For this paragraph select the statement that applies.
+1
+For this paragraph select the statement that applies.
 Statement A
 The [Public Trust or Māori Trustee] is the executor under the will of the deceased, which was proved in this court on [date].
 Statement B
 The [Public Trust or Māori Trustee] is the administrator of the estate of the deceased under an order to administer the estate granted to the [Public Trust or Māori Trustee] on [date].
-2 The [Public Trust or Māori Trustee] has control of the estate, and is satisfied that the assets of the deceased that are available, or reasonably likely to be available, are not sufficient to meet the various claims on the estate, and that the estate appears to be insolvent.
-3 Under the circumstances, the [Public Trust or Māori Trustee] elects to administer the estate under Part 6 of the Insolvency Act 2006, and makes this certificate accordingly.
+2
+The [Public Trust or Māori Trustee] has control of the estate, and is satisfied that the assets of the deceased that are available, or reasonably likely to be available, are not sufficient to meet the various claims on the estate, and that the estate appears to be insolvent.
+3
+Under the circumstances, the [Public Trust or Māori Trustee] elects to administer the estate under Part 6 of the Insolvency Act 2006, and makes this certificate accordingly.
 Date:
 Signature:
 (signed for the Public Trust/by the Māori Trustee*)
@@ -12735,25 +13140,32 @@ Sealed: [name, date]
 Witness: [name, address, description]
 Note
 When this certificate is filed it has the effect of both an application for the estate to be administered, and an order that the estate be administered, under Part 6 of the Insolvency Act 2006. See section 386(2) of the Insolvency Act 2006.
-Form B 14
-Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006
+Form B 14 Originating application to cancel irregular transaction under section 206 of Insolvency Act 2006
 r 24.35(2)
 Insert a heading that conforms with rule 24.5.
 To the Registrar of the court at [place]
 and
 To [full names of parties to be served]
 This document notifies you that—
-1 The Assignee of [full name, address of bankrupt person] will on [date] at [time] ask the court to—
+1
+The Assignee of [full name, address of bankrupt person] will on [date] at [time] ask the court to—
 (a) order the cancellation of the irregular transaction identified in paragraph 4 of this application:
 (b) make the following additional orders: [specify].
-2 [Full name of bankrupt person] was adjudicated bankrupt on [date].
-3 The property or value that the Assignee wants to recover is [details of property or value].
-4 The transaction claimed to be irregular is described in the attached notice, which was filed and served under section 206(2) of the Insolvency Act 2006.
-5 The transaction is claimed to be irregular because it was an insolvent transaction/insolvent charge/insolvent gift*.
+2
+[Full name of bankrupt person] was adjudicated bankrupt on [date].
+3
+The property or value that the Assignee wants to recover is [details of property or value].
+4
+The transaction claimed to be irregular is described in the attached notice, which was filed and served under section 206(2) of the Insolvency Act 2006.
+5
+The transaction is claimed to be irregular because it was an insolvent transaction/insolvent charge/insolvent gift*.
 *Select one.
-6 The Assignee relies on the following matters in support of the claim in paragraph 5: [specify matters with particularity].
-7 The Assignee relies on the following evidence: [list any affidavits filed or to be filed].
-8 A person who, having been served with this application, wants to oppose the making of an order referred to in paragraph 1—
+6
+The Assignee relies on the following matters in support of the claim in paragraph 5: [specify matters with particularity].
+7
+The Assignee relies on the following evidence: [list any affidavits filed or to be filed].
+8
+A person who, having been served with this application, wants to oppose the making of an order referred to in paragraph 1—
 (a) is advised to consult a solicitor for that purpose without delay:
 (b) must comply with the procedural rules set out in Part 19 of the High Court Rules:
 (c) must file and serve a notice of opposition (in form G 33 of the High Court Rules) to the application within the earlier of—
@@ -12765,15 +13177,15 @@ Signature:
 *Select one.
 Note
 The notice filed and served under section 206(2) of the Insolvency Act 2006 and the written notice of objection received by the Assignee under section 206(4) must both be attached to this application.
-Form B 15
-Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006
+Form B 15 Originating application to order retransfer of property or payment of value under section 207 of Insolvency Act 2006
 r 24.35(3)
 Insert a heading that conforms with rule 24.5.
 To the Registrar of the High Court at [place]
 and
 To [full names of parties to be served]
 This document notifies you that—
-1 The Assignee of [full name, address of bankrupt person] will on [date] at [time] ask the court to—
+1
+The Assignee of [full name, address of bankrupt person] will on [date] at [time] ask the court to—
 (a) For this paragraph select the statement that applies.
 Statement A
 order the retransfer to the Assignee of the property/an interest in the property* described in paragraph 2 of this application:
@@ -12781,10 +13193,14 @@ order the retransfer to the Assignee of the property/an interest in the property
 Statement B
 order the payment to the Assignee of a sum of money:
 (b) make the following additional order: [specify any additional order sought under section 207(2), otherwise omit this paragraph].
-2 [Specify property or interest in property or sum of money to which the application refers.]
-3 The Assignee relies on the following matters as justifying the orders asked for in this application: [specify matters with particularity].
-4 The Assignee relies on the following evidence: [list any affidavits filed or to be filed].
-5 A person who, having been served with this application, wants to oppose the making of an order referred to in paragraph 1—
+2
+[Specify property or interest in property or sum of money to which the application refers.]
+3
+The Assignee relies on the following matters as justifying the orders asked for in this application: [specify matters with particularity].
+4
+The Assignee relies on the following evidence: [list any affidavits filed or to be filed].
+5
+A person who, having been served with this application, wants to oppose the making of an order referred to in paragraph 1—
 (a) is advised to consult a solicitor for that purpose without delay:
 (b) must comply with the procedural rules set out in Part 18 of the High Court Rules:
 (c) must file and serve a notice of opposition (in form G 33 of the High Court Rules) to the application within the earlier of—
@@ -12794,8 +13210,7 @@ Date:
 Signature:
 (Assignee/counsel for the Assignee*)
 *Select one.
-Form B 16
-Order adjudicating debtor bankrupt
+Form B 16 Order adjudicating debtor bankrupt
 r 24.11
 Before the Honourable Justice/Associate Judge* [name]
 Date
@@ -12804,8 +13219,7 @@ Time
 On the application of [name, place of residence, occupation], a creditor of the debtor, the court orders that [full name, residential address, occupation] be adjudicated bankrupt and that the creditor be allowed costs and disbursements of $[amount].
 Date:
 Deputy Registrar
-Form B 17
-Appointment of Official Assignee as receiver and manager
+Form B 17 Appointment of Official Assignee as receiver and manager
 r 24.24
 Before the Honourable Justice/Associate Judge* [name]
 *Select one.
@@ -12816,16 +13230,14 @@ Date:
 Deputy Registrar
 Note
 Three copies of this order must be filed in the court immediately after the making of the order.
-Schedule 2
-Appropriate daily recovery rates
+Schedule 2 Appropriate daily recovery rates
 r 14.4
 Note: The following are the appropriate daily recovery rates for the categories of proceedings referred to in rule 14.3.
 Category of proceedings (rule 14.3) Appropriate daily recovery rate ($)
-1 1,320
-2 1,990
-3 2,940
-Schedule 3
-Time allocations
+1 1,480
+2 2,230
+3 3,300
+Schedule 3 Time allocations
 r 14.5
 General civil proceedings Allocated days or part days
 A B C
@@ -12904,14 +13316,16 @@ Enforcement of judgment or order
 60 Charging order with application, including any unopposed order 0.5 0.5 1.4
 61 Sale order, including sale of seized property 0.5 0.5 0.7
 62 Other enforcement process 0.5 0.5 0.7
-Schedule 4
-Code of conduct for expert witnesses
+Schedule 4 Code of conduct for expert witnesses
 r 9.43
 Duty to the court
-1 An expert witness has an overriding duty to assist the court impartially on relevant matters within the expert's area of expertise.
-2 An expert witness is not an advocate for the party who engages the witness.
+1
+An expert witness has an overriding duty to assist the court impartially on relevant matters within the expert's area of expertise.
+2
+An expert witness is not an advocate for the party who engages the witness.
 Evidence of expert witness
-3 In any evidence given by an expert witness, the expert witness must—
+3
+In any evidence given by an expert witness, the expert witness must—
 (a) acknowledge that the expert witness has read this code of conduct and agrees to comply with it:
 (b) state the expert witness' qualifications as an expert:
 (c) state the issues the evidence of the expert witness addresses and that the evidence is within the expert's area of expertise:
@@ -12919,16 +13333,19 @@ Evidence of expert witness
 (e) state the reasons for the opinions given by the expert witness:
 (f) specify any literature or other material used or relied on in support of the opinions expressed by the expert witness:
 (g) describe any examinations, tests, or other investigations on which the expert witness has relied and identify, and give details of the qualifications of, any person who carried them out.
-4 If an expert witness believes that his or her evidence or any part of it may be incomplete or inaccurate without some qualification, that qualification must be stated in his or her evidence.
-5 If an expert witness believes that his or her opinion is not a concluded opinion because of insufficient research or data or for any other reason, this must be stated in his or her evidence.
+4
+If an expert witness believes that his or her evidence or any part of it may be incomplete or inaccurate without some qualification, that qualification must be stated in his or her evidence.
+5
+If an expert witness believes that his or her opinion is not a concluded opinion because of insufficient research or data or for any other reason, this must be stated in his or her evidence.
 Duty to confer
-6 An expert witness must comply with any direction of the court to—
+6
+An expert witness must comply with any direction of the court to—
 (a) confer with another expert witness:
 (b) try to reach agreement with the other expert witness on matters within the field of expertise of the expert witnesses:
 (c) prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement.
-7 In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement.
-Schedule 5
-Matters for consideration at case management conference
+7
+In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement.
+Schedule 5 Matters for consideration at case management conference
 rr 7.3, 7.4
 Note: The presiding Judge will expect the parties at the first case management conference to have—
 (a) provided initial disclosure in accordance with rule 8.4:
@@ -12937,17 +13354,25 @@ Note: The presiding Judge will expect the parties at the first case management c
 (d) discussed and endeavoured to agree on the matters for consideration listed in this schedule:
 (e) filed and served a joint memorandum or separate memoranda in accordance with rules 7.3 and 8.11.
 Issues
-1 Resolution and refinement of the issues, and as a consequence whether the pleadings require amendment.
-2 Whether additional parties should be joined.
-3 Whether this proceeding has been appropriately categorised and is either an ordinary defended proceeding or a complex defended proceeding.
+1
+Resolution and refinement of the issues, and as a consequence whether the pleadings require amendment.
+2
+Whether additional parties should be joined.
+3
+Whether this proceeding has been appropriately categorised and is either an ordinary defended proceeding or a complex defended proceeding.
 Discovery and other interlocutory applications
-4 The scope, terms, and timetable for any discovery.
-5 If any interlocutory applications have been filed or will be filed, whether they can be heard and disposed of at the case management conference.
+4
+The scope, terms, and timetable for any discovery.
+5
+If any interlocutory applications have been filed or will be filed, whether they can be heard and disposed of at the case management conference.
 Readiness for trial
-6 Is the case sufficiently ready for a fixture date to be allocated in the near future?
-7 If there are still outstanding issues, whether a further case management conference or an issues conference should be timetabled.
+6
+Is the case sufficiently ready for a fixture date to be allocated in the near future?
+7
+If there are still outstanding issues, whether a further case management conference or an issues conference should be timetabled.
 Fixture or hearing
-8 If the proceeding is ready to go for a hearing or a trial,—
+8
+If the proceeding is ready to go for a hearing or a trial,—
 (a) when should the close of pleadings date be?
 (b) should there be a pre-trial conference?
 (c) what is the estimated length of trial? (The Judge will estimate this by the number of witnesses and the estimate of duration of their testimony.)
@@ -12958,19 +13383,27 @@ Fixture or hearing
 (h) is alternative dispute resolution suitable to try to facilitate settlement prior to trial?
 (i) what is the categorisation of the proceeding in relation to costs?
 Other
-9 Any other matters, provided that those matters have been discussed between the parties at least 5 working days before the conference.
-Schedule 6
-Standard directions for appeals
+9
+Any other matters, provided that those matters have been discussed between the parties at least 5 working days before the conference.
+Schedule 6 Standard directions for appeals
 r 7.14
-1 The appeal will be heard at [time, date]/at a time and date to be allocated by the Registrar*.
+1
+The appeal will be heard at [time, date]/at a time and date to be allocated by the Registrar*.
 *Select one.
-2 The time for the hearing is estimated to be [half-days or days].
-3 The appeal is categorised as a category [type] proceeding for the purposes of rule 14.3.
-4 The appeal is to proceed as determined by rule 20.8(1) or by any direction given under rule 20.8(3) in the [specify] registry.
-5 The appellant must pay security in the sum of $[amount] not later than 10 working days after the conference.
-6 Unless detailed and specific points on appeal have been included in the notice of appeal, the appellant must file and serve, not later than 10 working days after the conference, points on appeal that clearly state the issues on appeal.
-7 If the appeal involves a significant issue under the New Zealand Bill of Rights Act 1990, or an issue affecting New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue arising in the appeal is otherwise of significant public interest, the Judge may direct that the Solicitor-General be served with the notice of appeal and with documents subsequently filed in the appeal. In other cases, the parties must advise the Judge whether they consider that an amicus curiae should be appointed.
-8 The appellant must file and serve, not later than 20 working days after the conference, a common bundle of paginated and indexed copies of all relevant documents, including, if applicable,—
+2
+The time for the hearing is estimated to be [half-days or days].
+3
+The appeal is categorised as a category [type] proceeding for the purposes of rule 14.3.
+4
+The appeal is to proceed as determined by rule 20.8(1) or by any direction given under rule 20.8(3) in the [specify] registry.
+5
+The appellant must pay security in the sum of $[amount] not later than 10 working days after the conference.
+6
+Unless detailed and specific points on appeal have been included in the notice of appeal, the appellant must file and serve, not later than 10 working days after the conference, points on appeal that clearly state the issues on appeal.
+7
+If the appeal involves a significant issue under the New Zealand Bill of Rights Act 1990, or an issue affecting New Zealand's international obligations or the Crown's obligations under the Treaty of Waitangi, or an issue arising in the appeal is otherwise of significant public interest, the Judge may direct that the Solicitor-General be served with the notice of appeal and with documents subsequently filed in the appeal. In other cases, the parties must advise the Judge whether they consider that an amicus curiae should be appointed.
+8
+The appellant must file and serve, not later than 20 working days after the conference, a common bundle of paginated and indexed copies of all relevant documents, including, if applicable,—
 (a) the reasons for the decision; and
 (b) the sealed order or judgment appealed from; and
 (c) the pleadings; and
@@ -12978,48 +13411,61 @@ r 7.14
 (e) the exhibits; and
 (f) the notes of evidence, to the extent that they are relevant to the issues on appeal; and
 (g) any other documents, if possible in date sequence.
-9 If a party insists on including a document in the common bundle even though another party objects to its inclusion on the ground that it is unnecessary or irrelevant, the objection must be recorded for the purpose of any award of costs relating to the inclusion of the document.
-10 The appellant must file and serve, not later than 25 working days after the conference,—
+9
+If a party insists on including a document in the common bundle even though another party objects to its inclusion on the ground that it is unnecessary or irrelevant, the objection must be recorded for the purpose of any award of costs relating to the inclusion of the document.
+10
+The appellant must file and serve, not later than 25 working days after the conference,—
 (a) the appellant's submissions; and
 (b) a chronology (if relevant).
-11 The appellant's submissions must be not more than 30 pages in length, unless a Judge permits an extension, and use 1.5 line spacing, and must contain—
+11
+The appellant's submissions must be not more than 30 pages in length, unless a Judge permits an extension, and use 1.5 line spacing, and must contain—
 (a) references to any specific passages in the evidence that the appellant will refer to at the hearing; and
 (b) a list of the names and correct citations of any authorities mentioned.
-12 The respondent must file and serve, not later than 30 working days after the conference,—
+12
+The respondent must file and serve, not later than 30 working days after the conference,—
 (a) submissions that meet the requirements set out in clause 11; and
 (b) if the respondent disagrees with the appellant's chronology, a separate chronology noting areas of disagreement.
-13 The appellant must prepare a bundle of any authorities referred to in the submissions provided in accordance with clauses 10 and 11 that the appellant or the respondent considers ought to be produced to the court. The bundle may be produced at the hearing of the appeal or filed before the appeal is heard.
-14 If the appeal is to be heard by a single Judge, 1 copy of each document must be filed.
-15 If the appeal is to be heard by a full court, 2 copies of each document must be filed.
-Schedule 7
-Standard directions for appeals by way of case stated and references under Part 21
+13
+The appellant must prepare a bundle of any authorities referred to in the submissions provided in accordance with clauses 10 and 11 that the appellant or the respondent considers ought to be produced to the court. The bundle may be produced at the hearing of the appeal or filed before the appeal is heard.
+14
+If the appeal is to be heard by a single Judge, 1 copy of each document must be filed.
+15
+If the appeal is to be heard by a full court, 2 copies of each document must be filed.
+Schedule 7 Standard directions for appeals by way of case stated and references under Part 21
 r 7.25(2)
-1 The appeal will be heard (at [time] on [date]) [or] (at a time and date to be allocated by the Registrar).
-2 The time for the hearing is estimated to be [half days or days].
-3 The appeal is categorised as a category [type] proceeding for the purposes of rule 14.3.
-4 The appellant must pay security in the sum of $[amount] not later than 10 working days after the conference [if ordered under rule 21.13].
-5 The appellant must file and serve no later than 25 working days after the conference—
+1
+The appeal will be heard (at [time] on [date]) [or] (at a time and date to be allocated by the Registrar).
+2
+The time for the hearing is estimated to be [half days or days].
+3
+The appeal is categorised as a category [type] proceeding for the purposes of rule 14.3.
+4
+The appellant must pay security in the sum of $[amount] not later than 10 working days after the conference [if ordered under rule 21.13].
+5
+The appellant must file and serve no later than 25 working days after the conference—
 (a) the appellant's submissions; and
 (b) a chronology (if relevant).
-6 The appellant's submissions must contain—
+6
+The appellant's submissions must contain—
 (a) references to any specific passages in the evidence that the appellant will refer to at the hearing; and
 (b) a list of the names and correct citations of any authorities mentioned.
-7 The respondent must file and serve, not later than 30 working days after the conference,—
+7
+The respondent must file and serve, not later than 30 working days after the conference,—
 (a) submissions that meet the requirements set out in clause 6; and
 (b) if the respondent disagrees with the appellant's chronology, a separate chronology noting areas of disagreement.
-8 The appellant must prepare a bundle of any authorities referred to in the submissions provided in accordance with clauses 6 and 7 that the appellant or the respondent considers ought to be produced to the court. The bundle may be produced at the hearing of the appeal or filed before the appeal is heard.
-9 If the appeal is to be heard by a single Judge, 1 copy of each document must be filed.
-10 If the appeal is to be heard by a full court, 2 copies of each document must be filed.
-Schedule 8
-Matters for consideration at pre-trial conference for proceedings on standard track
-r 7.3(8)
+8
+The appellant must prepare a bundle of any authorities referred to in the submissions provided in accordance with clauses 6 and 7 that the appellant or the respondent considers ought to be produced to the court. The bundle may be produced at the hearing of the appeal or filed before the appeal is heard.
+9
+If the appeal is to be heard by a single Judge, 1 copy of each document must be filed.
+10
+If the appeal is to be heard by a full court, 2 copies of each document must be filed.
+Schedule 8 Matters for consideration at pre-trial conference for proceedings on standard track
 [Repealed]
-Schedule 9
-Discovery checklist and the listing and exchange protocol
+r 7.3(8)
+Schedule 9 Discovery checklist and the listing and exchange protocol
 rr 8.10, 8.11, 8.12, 8.15, 8.16, 8.27
 The purpose of this schedule is to assist the parties in carrying out discovery in accordance with subpart 1 of Part 8, and to specify detailed requirements for listing and exchanging documents when giving discovery.
-Part 1
-Discovery checklist
+Part 1 Discovery checklist
 1 Assessing proportionality
 The parties must—
 (a) review the pleadings to identify the categories of documents that would be required if a standard discovery order were made in the terms set out in rule 8.7; and
@@ -13071,8 +13517,7 @@ The parties must—
 The parties must—
 (a) consider with the other parties how documents will be used efficiently and effectively in preparation for and in the conduct of the trial (for example, whether an electronic bundle of documents will be used); and
 (b) ensure the format adopted for listing and exchange of documents is compatible with any such uses.
-Part 2
-Listing and exchange protocol
+Part 2 Listing and exchange protocol
 6 Protocol requirements
 (1) Parties are required to—
 (a) list documents, providing the following detail for each document:
@@ -13173,8 +13618,7 @@ Colour documents
 (6) If the software technology available to the party giving discovery makes it reasonably possible, all image documents must have the document ID clearly marked on at least the first page of the document.
 (7) The spreadsheet and the folder with the documents should be provided on a media disk.
 (8) Parties should not place any restrictions on the spreadsheet or documents that prevent opposing parties from accessing them.
-Part 3
-Glossary
+Part 3 Glossary
 In this schedule, unless the context otherwise requires,—
 attachment means any document that is attached to or embedded within another document
 clustering means grouping documents by identifying conceptually alike documents
@@ -13196,18 +13640,32 @@ party code means a sequence of alphanumeric characters in a document ID that uni
 PDF (portable document format) is a file format that enables documents to be displayed or printed in a manner that preserves the formatting originally used by the author. A PDF file may be either a searchable image file or an unsearchable image file
 redaction means the process of rendering part of a document unreadable. It is sometimes referred to as masking. Redaction is typically used to render confidential or privileged portions of an otherwise discoverable document unreadable
 searchable image means an electronic image in which text-based contents can be searched electronically.
-Schedule 10
-Issues to be addressed at case management conference in proceedings under Part 30
+Schedule 10 Issues to be addressed at case management conference in proceedings under Part 30
 r 7.17
-1 The date for filing the statement of defence.
-2 Any orders necessary relating to the production of the relevant records of the decision maker.
-3 Categorisation of the proceeding for the purposes of rule 14.3.
-4 Whether the Attorney-General or any other parties should be served.
-5 Whether any application for interim relief is to be made.
-6 Whether any other interlocutory applications are contemplated.
-7 The estimated duration of the hearing.
-8 Any dates on which the parties are unavailable for a fixture.
-9 Proposed dates for filing and serving evidence.
-10 Proposed date for filing and serving common bundle of documents.
-11 Proposed dates for filing and serving submissions.
-12 Any other matters relevant to the proceeding.
+Note: The presiding Judge will expect the parties at the first case management conference to have—
+(a) provided initial disclosure in accordance with rule 8.4:
+(b) carefully considered the pleadings and the principal documents disclosed with them.
+1
+The date for filing the statement of defence.
+2
+Any orders necessary relating to the production of the relevant records of the decision maker.
+3
+Categorisation of the proceeding for the purposes of rule 14.3.
+4
+Whether the Attorney-General or any other parties should be served.
+5
+Whether any application for interim relief is to be made.
+6
+Whether any other interlocutory applications are contemplated.
+7
+The estimated duration of the hearing.
+8
+Any dates on which the parties are unavailable for a fixture.
+9
+Proposed dates for filing and serving evidence.
+10
+Proposed date for filing and serving common bundle of documents.
+11
+Proposed dates for filing and serving submissions.
+12
+Any other matters relevant to the proceeding.
