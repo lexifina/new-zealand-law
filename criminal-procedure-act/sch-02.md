@@ -10,7 +10,7 @@ Section 7(5)(j): omit "any of sections 139 to 141 of the Criminal Justice Act 19
 Crimes Act 1961 (1961 No 43)
 Section 375A: repeal.
 Section 378E(3): repeal and substitute:
-"(3) For the purposes of subsection (2), subpart 3 of Part 5 of the Criminal Procedure Act 2011, so far as it is applicable, applies with the necessary modifications."
+(3) For the purposes of subsection (2), subpart 3 of Part 5 of the Criminal Procedure Act 2011, so far as it is applicable, applies with the necessary modifications.
 Section 379A(1)(ba): omit "paragraph (a) or paragraph (b) of section 138(2) or section 140 of the Criminal Justice Act 1985" and substitute "section 200, 202, or 205 of the Criminal Procedure Act 2011".
 Criminal Justice Act 1985 (1985 No 120)
 Sections 138 to 141: repeal.
@@ -27,16 +27,16 @@ Section 112(6): omit "Section 140 of the Criminal Justice Act 1985" and substitu
 Summary Proceedings Act 1957 (1957 No 87)
 Heading to section 9E: add ", and Criminal Procedure Act 2011".
 Section 9E(a): repeal and substitute:
-"(a) power to make orders of any kind provided under section 197 or 205 of the Criminal Procedure Act 2011, subject to section 198 of that Act:".
+(a) power to make orders of any kind provided under section 197 or 205 of the Criminal Procedure Act 2011, subject to section 198 of that Act:
 Section 9E(b): repeal and substitute:
-"(b) power to make orders of any kind provided under section 200 or 202 of the Criminal Procedure Act 2011:".
+(b) power to make orders of any kind provided under section 200 or 202 of the Criminal Procedure Act 2011:
 Section 36(1B): repeal.
 Section 45A(2): repeal and substitute:
-"(2) If an adjournment is granted under subsection (1), the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing."
+(2) If an adjournment is granted under subsection (1), the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing.
 Section 46A: repeal.
 Section 115C(1): omit "paragraph (a) or paragraph (b) of section 138(2), or under section 140, of the Criminal Justice Act 1985" and substitute "section 200, 202, or 205 of the Criminal Procedure Act 2011".
 Section 156(2): repeal and substitute:
-"(2) If an adjournment is granted under subsection (1), the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing."
+(2) If an adjournment is granted under subsection (1), the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing.
 Section 185E: repeal.
 Section 185F: omit "or 185E".
 Section 185F: omit ", or under section 138 of the Criminal Justice Act 1985,".
