@@ -33,6 +33,7 @@ Raukawa Claims Settlement Act 2014
 Rongowhakaata Claims Settlement Act 2012
 Tapuika Claims Settlement Act 2014
 Te Arawa Lakes Settlement Act 2006
+Te Kawerau ā Maki Claims Settlement Act 2015
 Te Roroa Claims Settlement Act 2008
 Te Uri o Hau Claims Settlement Act 2002
 Waitaha Claims Settlement Act 2013
