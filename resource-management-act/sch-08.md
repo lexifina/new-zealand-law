@@ -1,7 +1,6 @@
 # Schedule 8 Enactments amended
 s 362
-Part 1
-Amendments to Acts
+Part 1Amendments to Acts
 Airport Authorities Act 1966 (1966 No 51) (RS Vol 17, p 1)
 Amendment(s) incorporated in the Act(s).
 Atomic Energy Act 1945 (1945 No 41) (RS Vol 1, p 189)
@@ -110,8 +109,7 @@ Valuation of Land Act 1951 (1951 No 19)
 Amendment(s) incorporated in the Act(s).
 Whakatane Paper Mills, Limited, Water-Supply Empowering Act 1936 (1936 No 7 (P))
 Amendment(s) incorporated in the Act(s).
-Part 2
-Regulations amended
+Part 2Regulations amended
 Geothermal Energy Regulations 1961 (SR 1961/124)
 Amendment(s) incorporated in the regulations.
 Geothermal Energy Regulations 1987 (SR 1987/73)

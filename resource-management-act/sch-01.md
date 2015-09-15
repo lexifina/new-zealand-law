@@ -53,8 +53,7 @@ Incorporation of documents by reference in plans and proposed plans
 33 Effect of expiry of material incorporated by reference
 34 Consultation on proposal to incorporate material by reference
 35 Access to material incorporated by reference
-Part 1
-Preparation and change of policy statements and plans by local authorities
+Part 1 Preparation and change of policy statements and plans by local authorities
 1 Time limits
 (1) [Repealed]
 (2) Where any time limit is set in this schedule, a local authority may extend it under section 37.
@@ -311,8 +310,7 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 20A Correction of operative policy statement or plan
 A local authority may amend, without using the process in this schedule, an operative policy statement or plan to correct any minor errors.
-Part 2
-Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
+Part 2 Requests for changes to policy statements and plans of local authorities and requests to prepare regional plans
 21 Requests
 (1) Any person may request a change to a district plan or a regional plan (including a regional coastal plan).
 (2) Any person may request the preparation of a regional plan, other than a regional coastal plan.
@@ -400,8 +398,7 @@ Where a local authority accepts the request or part of the request under clause 
 (7) Where a plan or change has been appealed to the Environment Court, clauses 14 and 15 shall apply, with all necessary modifications.
 (8) Where a plan or change has been appealed to the Environment Court, the person who made the request under clause 21 has the right to appear before the Environment Court.
 (9) With the agreement of the person who made the request, the local authority may, at any time before its decision on the plan or change, initiate a variation under clause 16A.
-Part 3
-Incorporation of documents by reference in plans and proposed plans
+Part 3 Incorporation of documents by reference in plans and proposed plans
 30 Incorporation of documents by reference in plans and proposed plans
 (1) The following written material may be incorporated by reference in a plan or proposed plan:
 (a) standards, requirements, or recommended practices of international or national organisations:
