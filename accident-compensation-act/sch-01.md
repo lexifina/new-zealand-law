@@ -113,8 +113,7 @@ Child care payments
 76 Child care payments for children of deceased claimant
 77 Duration of child care payments
 78 Child care payments made to caregiver
-Part 1
-Rehabilitation
+Part 1 Rehabilitation
 Treatment
 1 Corporation's liability to pay or contribute to cost of treatment
 (1) The Corporation is liable to pay or contribute to the cost of the claimant's treatment for personal injury for which the claimant has cover if clause 2 applies,—
@@ -510,8 +509,7 @@ Compare: 1998 No 114 s 99
 (b) are not related to the claimant's injury.
 (3) The Corporation must provide a copy of the report to the claimant.
 Compare: 1998 No 114 s 100
-Part 2
-Weekly compensation
+Part 2 Weekly compensation
 30 Meaning of relevant year
 (1) In this Part, relevant year means the most recent tax year (as defined in section YA 1 of the Income Tax Act 2007) last ended before the commencement of the period of incapacity.
 (2) However, in the case of a self-employed person or a shareholder-employee, the relevant year is the most recent year ending with the balance date (whether 31 March or another date) of the self-employed person or shareholder-employee before the commencement of the period of incapacity.
@@ -552,13 +550,21 @@ Employee in permanent employment
 (b) the claimant's weekly earnings calculated in accordance with clause 36, as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
 34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
 (1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:
+a
+b
 where—
-a is the claimant's earnings as an employee (from that permanent employment) in the 4 weeks immediately before his or her incapacity commenced
-b is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
+a
+is the claimant's earnings as an employee (from that permanent employment) in the 4 weeks immediately before his or her incapacity commenced
+b
+is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
 (2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:
+a
+b
 where—
-a is the claimant's earnings as an employee (from employment with that employer) in the 52 weeks immediately before his or her incapacity commenced
-b is the number of full or part weeks during which the claimant earned those earnings as an employee.
+a
+is the claimant's earnings as an employee (from employment with that employer) in the 52 weeks immediately before his or her incapacity commenced
+b
+is the number of full or part weeks during which the claimant earned those earnings as an employee.
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
 (a) any period during which the claimant was entitled to weekly compensation; and
 (b) any earnings in respect of any such period.
@@ -616,20 +622,31 @@ Compare: 1998 No 114 Schedule 1 cl 14
 (b) for any period of incapacity after the 4 weeks referred to in paragraph (a), the relevant amount calculated under subclause (2).
 (2) The amounts that apply under this subclause are,—
 (a) for claimants who first commenced receiving earnings as self-employed persons in the tax year in which the incapacity commenced, the amount calculated using the following formula:
+a
+b
 where—
-a is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
-b is the number of full or part weeks during which the claimant earned those earnings as an employee:
+a
+is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
+b
+is the number of full or part weeks during which the claimant earned those earnings as an employee:
 (b) for claimants for whom the relevant year was the first year during which they received earnings as a self-employed person, the amount calculated using the following formula:
 where—
-a is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
-b is the claimant's earnings as a self-employed person in the relevant year
-c is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a self-employed person in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
+a
+is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
+b
+is the claimant's earnings as a self-employed person in the relevant year
+c
+is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a self-employed person in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
 (c) for all other claimants, the amount calculated using the following formula:
 where—
-a is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
-b is the claimant's earnings as a self-employed person in the relevant year
-c is 52
-d is the number of weeks in the relevant year.
+a
+is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
+b
+is the claimant's earnings as a self-employed person in the relevant year
+c
+is 52
+d
+is the number of weeks in the relevant year.
 (3) The amount that applies under this subclause is the amount of minimum weekly earnings as determined under clause 42(3), if the claimant is an earner who is liable to pay the minimum levy set out in regulations made for the purposes of section 168B.
 (4) A claimant is eligible for the greater of—
 (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
@@ -653,20 +670,31 @@ Shareholder-employee
 (b) the relevant amount calculated under subclause (2).
 (2) The amounts to be calculated under this subclause are,—
 (a) for claimants who first commenced receiving earnings as a shareholder-employee in the tax year in which the incapacity commenced, the amount calculated using the following formula:
+a
+b
 where—
-a is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
-b is the number of full or part weeks during which the claimant earned those earnings as an employee:
+a
+is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
+b
+is the number of full or part weeks during which the claimant earned those earnings as an employee:
 (b) for claimants for whom the relevant year was the first year during which they received earnings as a shareholder-employee, the amount calculated using the following formula:
 where—
-a is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
-b is the claimant's earnings as a shareholder-employee in the relevant year
-c is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a shareholder-employee in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
+a
+is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
+b
+is the claimant's earnings as a shareholder-employee in the relevant year
+c
+is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a shareholder-employee in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
 (c) for all other claimants, the amount calculated using the following formula:
 where—
-a is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
-b is the claimant's earnings as a shareholder-employee in the relevant year
-c is 52
-d is the number of weeks in the relevant year.
+a
+is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
+b
+is the claimant's earnings as a shareholder-employee in the relevant year
+c
+is 52
+d
+is the number of weeks in the relevant year.
 (3) A claimant is eligible for the greater of—
 (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
 (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
@@ -854,8 +882,7 @@ Compare: 1998 No 114 Schedule 1 cl 25
 (b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the claimant's case.
 (2) The Corporation may allow a claimant to exercise or revoke an election under clause 52(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
 Compare: 1998 No 114 Schedule 1 cl 26
-Part 3
-Lump sum compensation for permanent impairment
+Part 3 Lump sum compensation for permanent impairment
 54 Lump sum compensation for permanent impairment
 (1) The Corporation is liable to pay the claimant lump sum compensation in accordance with this schedule, if—
 (a) the claimant has suffered personal injury, after the commencement of this Part, for which he or she has cover; and
@@ -987,8 +1014,7 @@ Lump sum compensation for permanent impairment
 (7) A claimant is not entitled to more than 1 reassessment under subclause (4) in any 12-month period.
 62 Payment of entitlement to lump sum compensation to deceased claimant's estate
 If a claimant dies after the completion of the assessment of the degree of permanent impairment but before payment of the lump sum, the Corporation is liable to pay the lump sum to the deceased claimant's estate.
-Part 4
-Entitlements arising from fatal injuries
+Part 4 Entitlements arising from fatal injuries
 63 Child not born at date of claimant's death
 For the purposes of this Part, any child of the claimant who is born within 12 months after the claimant's death is deemed to be—
 (a) dependent on the claimant at the date of the claimant's death; and

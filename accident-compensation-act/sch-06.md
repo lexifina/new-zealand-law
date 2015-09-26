@@ -1,7 +1,6 @@
 # Schedule 6 Consequential amendments
 s 337
-Part 1
-Acts amended
+Part 1Acts amended
 Administration Act 1969 (1969 No 52)
 Amendment(s) incorporated in the Act(s).
 Armed Forces Discipline Act 1971 (1971 No 53)
@@ -82,8 +81,7 @@ Transport (Vehicle and Driver Registration and Licensing) Act 1986 (1986 No 6)
 Amendment(s) incorporated in the Act(s).
 Trustee Companies Act 1967 (1967 No 35)
 Amendment(s) incorporated in the Act(s).
-Part 2
-Regulations amended
+Part 2Regulations amended
 District Courts Rules 1992 (SR 1992/109)
 Amendment(s) incorporated in the rules.
 Health Entitlement Cards Regulations 1993 (SR 1993/169)

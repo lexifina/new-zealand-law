@@ -1,7 +1,6 @@
 # Schedule 5 Provisions relating to Corporation
 s 269
-Members
-[Repealed]
+Members[Repealed]
 1 Chairperson and deputy chairperson
 [Repealed]
 2 Term of office
@@ -14,8 +13,7 @@ Members
 [Repealed]
 6 Remuneration and expenses of Board members
 [Repealed]
-Meetings of Board
-[Repealed]
+Meetings of Board[Repealed]
 7 Meetings
 [Repealed]
 8 Chairperson to preside at meetings
@@ -34,8 +32,7 @@ Meetings of Board
 [Repealed]
 15 Committees
 [Repealed]
-Documents
-[Repealed]
+Documents[Repealed]
 16 Execution of documents
 [Repealed]
 Employment
