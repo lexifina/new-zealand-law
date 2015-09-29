@@ -1,7 +1,6 @@
 # Schedule 2 Consequential amendments to other enactments
 s 445
-Part 1
-Amendments to Acts
+Part 1Amendments to Acts
 Administration Act 1969 (1969 No 52)
 Section 31: omit "Part 17 of the Insolvency Act 1967" and substitute "Part 6 of the Insolvency Act 2006".
 Section 32(1): omit "Part 17 of the Insolvency Act 1967" and substitute "Part 6 of the Insolvency Act 2006".
@@ -19,23 +18,23 @@ Construction Contracts Act 2002 (2002 No 46)
 Section 71(2)(a): omit "section 32 of the Insolvency Act 1967" and substitute "section 76 of the Insolvency Act 2006".
 Contractual Mistakes Act 1977 (1977 No 54)
 Definition of disposition in section 8(3): omit and substitute:
-"disposition means—
-"(a) any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity:
-"(b) the creation of a trust:
-"(c) the grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property, whether at law or in equity:
-"(d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
-"(e) the exercise of a general power of appointment in favour of any person other than the donee of the power:
-"(f) any transaction entered into by any person with intent thereby to diminish, directly or indirectly, the value of that person's own estate and to increase the value of the estate of any other person."
+disposition means—
+(a) any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity:
+(b) the creation of a trust:
+(c) the grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property, whether at law or in equity:
+(d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
+(e) the exercise of a general power of appointment in favour of any person other than the donee of the power:
+(f) any transaction entered into by any person with intent thereby to diminish, directly or indirectly, the value of that person's own estate and to increase the value of the estate of any other person.
 Copyright Act 1994 (1994 No 143)
 Section 208(2): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Corporations (Investigation and Management) Act 1989 (1989 No 11)
 Section 42(7): omit "sections 93A to 93I of the Insolvency Act 1967" and substitute "sections 255 to 263 of the Insolvency Act 2006".
 Section 44(4): omit "section 93C of the Insolvency Act 1967" and substitute "section 257 of the Insolvency Act 2006".
 Section 51(2)(b)(i) and (ii): repeal and substitute:
-"(i) proceeds of an account receivable that is subject to a security interest that—
-"(A) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
-"(B) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
-"(ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999."
+(i) proceeds of an account receivable that is subject to a security interest that—
+(A) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
+(B) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises from the transfer of the account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); or
+(ii) proceeds of inventory that are subject to a security interest that is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999.
 Section 51(6): omit "section" and substitute "subsection."
 Section 51(6)(b): insert "that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999" after "interest".
 Section 51(6)(c): omit "does not arise" and substitute "is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the time the corporation was declared to be subject to statutory management and that arises".
@@ -71,13 +70,13 @@ Section 101(3)(a): omit "Insolvency Act 1967" and substitute "Insolvency Act 200
 Section 103(2): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Illegal Contracts Act 1970 (1970 No 129)
 Section 6(2): omit and substitute:
-"(2) In this section, disposition means—
-"(a) any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity:
-"(b) the creation of a trust:
-"(c) the grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property, whether at law or in equity:
-"(d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
-"(e) the exercise of a general power of appointment in favour of any person other than the donee of the power:
-"(f) any transaction entered into by any person with intent thereby to diminish, directly or indirectly, the value of that person's own estate and to increase the value of the estate of any other person."
+(2) In this section, disposition means—
+(a) any conveyance, transfer, assignment, settlement, delivery, payment, or other alienation of property, whether at law or in equity:
+(b) the creation of a trust:
+(c) the grant or creation of any lease, mortgage, charge, servitude, licence, power, or other right, estate, or interest in or over any property, whether at law or in equity:
+(d) the release, discharge, surrender, forfeiture, or abandonment, at law or in equity, of any debt, contract, or thing in action, or of any right, power, estate, or interest in or over any property; and for this purpose a debt, or any other right, estate, or interest, shall be deemed to have been released or surrendered when it has become irrecoverable or unenforceable by action through the lapse of time:
+(e) the exercise of a general power of appointment in favour of any person other than the donee of the power:
+(f) any transaction entered into by any person with intent thereby to diminish, directly or indirectly, the value of that person's own estate and to increase the value of the estate of any other person.
 Income Tax Act 2004 (2004 No 35)
 Section CG 2(4)(b): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Section EW 29(10): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
@@ -94,10 +93,10 @@ Section 9(2)(d): omit "Insolvency Act 1967" wherever it appears and in each case
 Section 12A(6): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Judicature Act 1908 (1908 No 89)
 Section 26I(2)(e): repeal and substitute:
-"(e) Sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, and Part 16 of the Companies Act 1993:".
+(e) Sections 123, 154, 165 to 168, 173, 179, 232 to 234, 236 to 238, Part 15A, and Part 16 of the Companies Act 1993:
 Section 26I(2): insert after paragraph (h):
-"(ha) the Insolvency Act 2006 (except sections 150, 166(3), 180, and 236(2)):
-"(hb) any regulations or rules made under the Insolvency Act 2006:".
+(ha) the Insolvency Act 2006 (except sections 150, 166(3), 180, and 236(2)):
+(hb) any regulations or rules made under the Insolvency Act 2006:
 Section 448(1)(g): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Section 651(1)(b): omit "section 154(3) of the Insolvency Act 1967" and substitute "section 380(4)(c)(iii) of the Insolvency Act 2006".
 Section 819(1): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
@@ -115,7 +114,7 @@ Layby Sales Act 1971 (1971 No 80)
 Section 11(1A)(b): insert "that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999" after "interest".
 Section 11(1A)(c): omit "does not arise" and substitute "is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the commencement of the liquidation, or at the time of the receiver's appointment, or at the date of adjudication, as the case may be, and that arises".
 Section 11(2): repeal and substitute:
-"(2) Debts to which priority is given by subsection (1) must be paid in accordance with section 312 and Schedule 7 of the Companies Act 1993, or section 30 of the Receiverships Act 1993, or section 274(3) of the Insolvency Act 2006, as the case may be."
+(2) Debts to which priority is given by subsection (1) must be paid in accordance with section 312 and Schedule 7 of the Companies Act 1993, or section 30 of the Receiverships Act 1993, or section 274(3) of the Insolvency Act 2006, as the case may be.
 Medicines Act 1981 (1981 No 118)
 Section 55D(4): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Paragraph (b) of the definition of pharmacist in section 55E(3): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
@@ -138,11 +137,11 @@ Property Law Act 1952 (1952 No 51)
 Items repealed.
 Property (Relationships) Act 1976 (1976 No 166)
 Section 58(1): repeal and substitute:
-"(1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed."
+(1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
 Section 59(1)(a): repeal and substitute:
-"(a) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act:".
+(a) if, after the death of a spouse or partner, the family home (including a homestead) or, if section 11A applies, the proceeds of the sale of the family home vest in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act:
 Section 88(3)(c): repeal and substitute:
-"(c) an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under section 379 of that Act."
+(c) an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under section 379 of that Act.
 Protection of Personal and Property Rights Act 1988 (1988 No 4)
 Clause 1(a)(ii) of Schedule 1: omit "Part 16 of the Insolvency Act 1967" and substitute "subpart 3 of Part 5 of the Insolvency Act 2006".
 Radiocommunications Act 1989 (1989 No 148)
@@ -161,7 +160,7 @@ Section 136(1)(b): omit "Insolvency Act 1967" and substitute "Insolvency Act 200
 Paragraph (b) of the definition of insolvency in section 156L: omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Heading to section 156S: omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
 Section 156S(b): repeal and substitute:
-"(b) sections 255 to 262 of the Insolvency Act 2006."
+(b) sections 255 to 262 of the Insolvency Act 2006.
 Section 156T(1)(a): omit "section 56 of the Insolvency Act 1967" and substitute "section 194 of the Insolvency Act 2006".
 Section 156T(2): omit "section 56 of the Insolvency Act 1967" and substitute "section 194 of the Insolvency Act 2006".
 Retirement Villages Act 2003 (2003 No 112)
@@ -191,8 +190,7 @@ Section 15: repeal.
 Weathertight Homes Resolution Services Act 2006 (2006 No 84)
 Section 63(a): omit "section 32 of the Insolvency Act 1967" and substitute "section 76 of the Insolvency Act 2006".
 Clause 5(2) of Schedule 3: omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
-Part 2
-Amendments to Regulations
+Part 2Amendments to Regulations
 Domestic Violence (Public Registers) Regulations 1998 (SR 1998/342)
 Schedule 1: omit the item relating to the Insolvency Act 1967 and substitute:
 Insolvency Act 2006 Section 62
