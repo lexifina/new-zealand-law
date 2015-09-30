@@ -10,4 +10,4 @@
 (d) substituting rights and powers for any implied rights and powers.
 (4) Subsection (3) does not apply to easements created under section 90B.
 (5) The rights and powers that apply by virtue of this section become binding on the grantor and the grantee on the registration of the easement.
-(6) The provisions of this section are in addition to, and not in derogation, of the provisions of sections 26(4), 27(3), and 28(3) of the Housing Act 1955.
+(6) The provisions of this section are in addition to, and not in derogation of, the provisions of sections 26(4), 27(3), and 28(3) of the Housing Act 1955.
