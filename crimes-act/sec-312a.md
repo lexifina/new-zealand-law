@@ -1,0 +1,2 @@
+# 312A Interpretation
+[Repealed]
