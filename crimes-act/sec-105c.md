@@ -1,6 +1,8 @@
 # 105C Bribery of foreign public official
 (1) In this section and in sections 105D and 105E,—
 benefit means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
+business includes the provision of international aid
+employee, in relation to a body corporate or corporation sole, means an individual who is an employee, agent, director, or officer of that body corporate or corporation sole
 foreign country includes—
 (a) a territory for whose international relations the Government of a foreign country is responsible; and
 (b) an organised foreign area or entity including an autonomous territory or a separate Customs territory
@@ -27,11 +29,26 @@ routine government action, in relation to the performance of any action by a for
 (i) whether to award new business; or
 (ii) whether to continue existing business with any particular person or body; or
 (iii) the terms of new business or existing business; or
-(b) any action that is outside the scope of the ordinary duties of that official.
-(2) Every one is liable to imprisonment for a term not exceeding 7 years who corruptly gives or offers or agrees to give a bribe to a person with intent to influence a foreign public official in respect of any act or omission by that official in his or her official capacity (whether or not the act or omission is within the scope of the official's authority) in order to—
+(b) any action that is outside the scope of the ordinary duties of that official; or
+(c) any action that provides—
+(i) an undue material benefit to a person who makes a payment; or
+(ii) an undue material disadvantage to any other person.
+(2) Every person commits an offence who corruptly gives or offers or agrees to give a bribe to a person with intent to influence a foreign public official in respect of any act or omission by that official in his or her official capacity (whether or not the act or omission is within the scope of the official's authority) in order to—
 (a) obtain or retain business; or
 (b) obtain any improper advantage in the conduct of business.
+(2A) A body corporate or corporation sole commits an offence against subsection (2) if—
+(a) an employee of the body corporate or corporation sole does an act that would constitute an offence under subsection (2); and
+(b) the employee does the act, in whole or in part, with the intent to benefit the body corporate or corporation sole; and
+(c) the employee, in doing the act, is acting within the scope of their authority as an employee of the body corporate or corporation sole.
+(2B) A body corporate or corporation sole does not commit an offence under subsection (2) if it has taken reasonable steps to prevent the offence.
+(2C) If a body corporate or corporation sole is charged with an offence under subsection (2), it is to be presumed, unless the body corporate or corporation sole puts the matter at issue, that it did not take reasonable steps.
+(2D) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 7 years, or a fine, or both.
+(2E) A fine imposed under subsection (2D) cannot exceed the greater of—
+(a) $5 million; or
+(b) if a court is satisfied that an offence occurred in the course of producing a commercial gain, and if the value of that commercial gain can be readily ascertained, 3 times the value of that commercial gain.
 (3) This section does not apply if—
 (a) the act that is alleged to constitute the offence was committed for the sole or primary purpose of ensuring or expediting the performance by a foreign public official of a routine government action; and
 (b) the value of the benefit is small.
-(4) This section is subject to section 105E.
+(4) Subsections (2A), (2B), and (2C)—
+(a) apply only in respect of offences under subsection (2) and section 105D; and
+(b) do not preclude the liability of a body corporate or corporation sole under any other provision of this Act.

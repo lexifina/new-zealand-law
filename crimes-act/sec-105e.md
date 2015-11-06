@@ -1,5 +1,10 @@
-# 105E Exception for acts lawful in country of foreign public official
-(1) Sections 105C and 105D do not apply if the act that is alleged to constitute an offence under either of those sections—
-(a) was done outside New Zealand; and
-(b) was not, at the time of its commission, an offence under the laws of the foreign country in which the principal office of the person, organisation, or other body for whom the foreign public official is employed or otherwise provides services, is situated.
-(2) If a person is charged with an offence under section 105C or section 105D, it is to be presumed, unless the person charged puts the matter at issue, that the act was an offence under the laws of the foreign country referred to in subsection (1)(b).
+# 105E Corruption of foreign public officials
+(1) Every person specified in subsection (2) who corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for that person or another person in respect of any act or omission by an official in the official's official capacity (whether or not the act or omission is within the scope of the official's authority) is liable to imprisonment for a term not exceeding 7 years.
+(2) Subsection (1) applies to—
+(a) any foreign public official who has committed the offence while in New Zealand:
+(b) any person employed as a foreign public official who has committed the offence while outside New Zealand if the person is—
+(i) a New Zealand citizen; or
+(ii) ordinarily resident in New Zealand; or
+(iii) a body corporate incorporated in New Zealand; or
+(iv) a corporation sole incorporated in New Zealand.
+(3) Nothing in this section limits any immunity that a foreign public official or person has under this Act or any other enactment.

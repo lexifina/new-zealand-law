@@ -6,4 +6,4 @@
 (c) a body corporate incorporated in New Zealand; or
 (d) a corporation sole incorporated in New Zealand.
 (3) Every one who commits an offence against this section is liable to the same penalty to which the person would have been liable if the person had been convicted of an offence against section 105C.
-(4) This section is subject to section 105E.
+(4) [Repealed]

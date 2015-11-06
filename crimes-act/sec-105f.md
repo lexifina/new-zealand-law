@@ -1,0 +1,2 @@
+# 105F Trading in influence
+Every person is liable to imprisonment for a term not exceeding 7 years who corruptly accepts or obtains, or agrees or offers to accept or attempts to obtain, a bribe for that person or another person with intent to influence an official in respect of any act or omission by that official in the official's official capacity (whether or not the act or omission is within the scope of the official's authority).
