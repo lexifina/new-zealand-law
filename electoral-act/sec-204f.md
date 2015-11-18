@@ -6,4 +6,4 @@
 (5) If the election advertisement is published in a visual form, the promoter statement must be clearly displayed in the advertisement.
 (6) If the election advertisement is published only in an audible form, the promoter statement when published must be no less audible than the other content of the advertisement.
 (7) A person who wilfully contravenes any of subsections (1) to (6) is guilty of an illegal practice.
-Compare: 1993 No 87 s 221(2)(b), (3)(b), (4) (pre-January 2011)
+Compare: 1993 No 87 s 221(2)(b), (3)(b), (4) (pre-1 January 2011)
