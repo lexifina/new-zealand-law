@@ -1,7 +1,6 @@
 # Schedule 13A Procedure relating to development contribution objections
 ss 199E, 199I
-Part 1
-General provisions
+Part 1 General provisions
 1 Lodgment of objection
 (1) A person exercises the right under section 199C to lodge a development contribution objection by serving notice of the objection on the territorial authority within 15 working days after the date on which the person received notice from the territorial authority of the level of development contribution that the territorial authority requires.
 (2) However, if a person has received notice of the outcome of a reconsideration under section 199B, the 15-working-day period in subclause (1) begins on the day after the date on which the person receives the notice of the outcome.
@@ -75,8 +74,7 @@ A hearing on an objection need not be held if—
 (2) Service of the decision must be given within 15 working days after—
 (a) the end of the hearing; or
 (b) if no hearing is held, the last day of the commissioners' consideration of the evidence.
-Part 2
-Provisions supplementing section 199I
+Part 2 Provisions supplementing section 199I
 11 Development contributions commissioners' powers
 (1) The commissioners conducting a hearing on an objection have the same powers that a District Court, in the exercise of its civil jurisdiction, has to conduct and maintain order.
 (2) Sections 29 to 31 of the Inquiries Act 2013 apply to the hearing of an objection as if the hearing was an inquiry within the meaning of section 4 of that Act.

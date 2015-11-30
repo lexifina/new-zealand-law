@@ -54,8 +54,7 @@ Part 4
 Information to be included in pre-election report
 36 Pre-election report
 37 Substituted information for small local authorities
-Part 1
-Information to be included in long-term plans
+Part 1 Information to be included in long-term plans
 1 Community outcomes
 A long-term plan must, to the extent determined appropriate by the local authority, describe the community outcomes for the local authority's district or region.
 2 Groups of activities
@@ -175,8 +174,7 @@ In the case of a unitary authority for a district that includes 1 or more local 
 (b) group the activities to which paragraph (a) relates separately from any other activity or group of activities of the unitary authority (there may be 1 or more groups, but each group of activities specified in clause 2(2) must be separately identified):
 (c) include the estimated local board funding allocation for each local board for each year to which the long-term plan relates:
 (d) include the local board agreement for each local board area for the first year to which the long-term plan relates.
-Part 2
-Information to be included in annual plan
+Part 2 Information to be included in annual plan
 18 Forecast financial statements
 (1) An annual plan must include, for the financial year to which the plan relates, forecast financial statements for the local authority.
 (2) An annual plan may include, for the financial year to which the plan relates, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.
@@ -227,8 +225,7 @@ In the case of a unitary authority for a district that includes 1 or more local 
 (c) include the local board agreement for each local board area.
 22 Annual plan and amendment of long-term plan
 To avoid doubt, a local authority may prepare and adopt the annual plan at the same time as it amends the long-term plan.
-Part 3
-Information to be included in annual reports
+Part 3 Information to be included in annual reports
 23 Groups of activities
 An annual report must, in relation to each group of activities of the local authority,—
 (a) identify the activities within the group of activities; and
@@ -341,8 +338,7 @@ An annual report must state, as at the end of the financial year,—
 (3) In this clause, local activities or activities means the non-regulatory activities of the unitary authority in respect of which a local board is allocated decision-making responsibility under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009.
 35 General
 An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority.
-Part 4
-Information to be included in pre-election report
+Part 4 Information to be included in pre-election report
 36 Pre-election report
 (1) A pre-election report must include,—
 (a) for the 3 financial years immediately preceding the date of the election,—

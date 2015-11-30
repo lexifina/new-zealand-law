@@ -119,8 +119,7 @@ public notice, in relation to a notice of a reorganisation application, draft pr
 (ii) on the Internet site of the Commission; and
 (b) includes any other notice that the Commission thinks desirable in the circumstances
 reorganisation application means an application under clause 3 or 10 proposing local government reorganisation and dealing with 1 or more of the matters specified in section 24.
-Part 1
-Reorganisation applications
+Part 1 Reorganisation applications
 Subpart 1—Making reorganisation applications
 3 Who may make reorganisation application
 (1) A reorganisation application may be made to the Commission by any person, body, or group, including (but not limited to)—
@@ -261,8 +260,7 @@ The Commission may decline to assess a reorganisation application on 1 or more o
 (ii) every affected local authority; and
 (b) proceed under clause 14 to develop a draft reorganisation proposal to give effect to the preferred option.
 (2) However, subclause (1)(b) does not apply if the Commission's preferred option, under clause 11, is the existing arrangements for local government.
-Part 2
-Reorganisation proposals
+Part 2 Reorganisation proposals
 Subpart 1—Preparation of proposals
 14 Development of proposal
 (1) This clause applies to a draft reorganisation proposal developed by the Commission to give effect to its preferred option (draft proposal).
@@ -490,8 +488,7 @@ specified period means,—
 (b) in relation to a body corporate or unincorporated,—
 (i) the full street address of the body's principal place of business; or
 (ii) the full street address of the body's head office.
-Part 3
-Transition bodies
+Part 3 Transition bodies
 33 Application
 This subpart applies to a final proposal that is issued under clause 21 and notified under clause 22 and in relation to which—
 (a) a poll, under clause 25,—
@@ -585,8 +582,7 @@ This subpart applies to a final proposal that is issued under clause 21 and noti
 (i) the operation of the transition body or transition bodies; and
 (ii) the appointment and employment of the interim chief executive; and
 (b) the costs referred to in clause 39(4).
-Part 4
-Reorganisation schemes
+Part 4 Reorganisation schemes
 Subpart 1—Preparation of reorganisation schemes
 41 Preparation of reorganisation scheme
 (1) This clause applies in relation to a final proposal that is given effect to by an Order in Council under section 25(1).

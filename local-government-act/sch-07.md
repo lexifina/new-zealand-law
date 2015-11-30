@@ -1,7 +1,6 @@
 # Schedule 7 Local authorities, local boards, community boards, and their members
 ss 5(1), 41(1), 42(1), 48, 48Q, 53(1), 54, 59(2)
-Part 1
-Provisions relating to local authorities and their members
+Part 1 Provisions relating to local authorities and their members
 Vacation of office by members
 1 Disqualification of members
 (1) A person's office as member of a local authority is vacated if the person, while holding office as a member of the local authority,—
@@ -508,8 +507,7 @@ Compare: 1974 No 66 s 119F
 (a) employee staffing levels; and
 (b) the remuneration of employees.
 (2) A local authority must review a policy adopted under this clause at intervals of no more than 3 years.
-Part 1A
-Provisions relating to local boards and their members
+Part 1A Provisions relating to local boards and their members
 36B Code of conduct
 Each member of each local board must comply with the code of conduct adopted by the governing body under clause 15.
 36C Delegations to local boards from governing body
@@ -534,8 +532,7 @@ Each member of each local board must comply with the code of conduct adopted by 
 (a) without confirmation by the local board, exercise or perform the responsibility, duty, or power in the same manner and with the same effect as the local board could have exercised or performed it:
 (b) delegate the responsibility, duty, or power to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local board when making the original delegation.
 (5) No delegation relieves the local board of the liability or legal responsibility to perform or ensure the performance of any responsibility or duty.
-Part 2
-Provisions relating to community boards and their members
+Part 2 Provisions relating to community boards and their members
 37 Chairpersons of community boards
 (1) A community board must have a chairperson.
 (2) Clause 25 applies to the election of chairpersons of community boards.
