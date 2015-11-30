@@ -60,7 +60,6 @@ Solid Energy New Zealand Limited
 Survey Board of New Zealand
 Takeovers Panel
 Television New Zealand Limited
-Timberlands West Coast Limited
 Transitional Fish and Game Councils
 Waitaki Catchment Water Allocation Board
 Waitangi National Trust Board
