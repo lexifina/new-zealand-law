@@ -1,7 +1,6 @@
 # Schedule 2 Local authorities
 ss 5(1), 21(3), 25(5), 27(4)
-Part 1
-Regional councils
+Part 1 Regional councils
 Regional councils Constituted by
 Bay of Plenty Regional Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
 Canterbury Regional Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
@@ -14,8 +13,7 @@ Taranaki Regional Council Local Government (Taranaki Region) Reorganisation Orde
 Waikato Regional Council Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460
 Wellington Regional Council Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491
 West Coast Regional Council Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517
-Part 2
-Territorial authorities
+Part 2 Territorial authorities
 City and District Councils Constituted by
 Ashburton District Council Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296
 Auckland Council section 6(1) of the Local Government (Auckland Council) Act 2009
@@ -78,14 +76,13 @@ Waipa District Council Local Government (Waikato Region) Reorganisation Order 19
 Wairoa District Council Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334
 Waitaki District Council Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408
 Waitomo District Council Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460
-Wanganui District Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
 Wellington City Council Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491
 Western Bay of Plenty District Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
 Westland District Council Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517
 Whakatane District Council Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275
+Whanganui District Council Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351
 Whangarei District Council Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391
-Part 3
-Boundaries
+Part 3 Boundaries
 1 Boundaries of regions
 (1) If any part of the boundary of a region is the sea, that boundary is the outer limits of the territorial sea of New Zealand.
 (2) A region must be defined, as far as practicable, so that it does not contain a fraction of the district of a territorial authority.
