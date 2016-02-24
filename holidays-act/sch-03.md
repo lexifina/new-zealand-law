@@ -1,7 +1,6 @@
 # Schedule 3 Enactments amended
 s 91(2)
-Part 1
-Acts amended
+Part 1Acts amended
 Companies Act 1993 (1993 No 105)
 Amendment(s) incorporated in the Act(s).
 Electoral Act 1993 (1993 No 87)
@@ -22,8 +21,7 @@ Social Security Act 1964 (1964 No 136)
 Amendment(s) incorporated in the Act(s).
 Volunteers Employment Protection Act 1973 (1973 No 25)
 Amendment(s) incorporated in the Act(s).
-Part 2
-Regulations amended
+Part 2Regulations amended
 Disabled Persons Employment Promotion Order 2002 (SR 2002/332)
 Amendment(s) incorporated in the order(s).
 District Courts Rules 1992 (SR 1992/109)
