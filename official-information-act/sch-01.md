@@ -41,6 +41,7 @@ New Zealand Pork Industry Board
 New Zealand Post Limited
 New Zealand Racing Board
 New Zealand Security Intelligence Service
+New Zealand Standards Approval Board
 New Zealand Symphony Orchestra and any subsidiary of the New Zealand Symphony Orchestra
 Parliamentary Commissioner for the Environment
 Privacy Commissioner
