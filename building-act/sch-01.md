@@ -1,7 +1,6 @@
 # Schedule 1 Building work for which building consent not required
 s 42(1)(b)
-Part 1
-Exempted building work
+Part 1 Exempted building work
 General
 1 General repair, maintenance, and replacement
 (1) The repair and maintenance of any component or assembly incorporated in or associated with a building, provided that comparable materials are used.
@@ -149,8 +148,7 @@ The removal of a building element from a building that is not more than 3 storey
 (a) the primary structure of the building; or
 (b) any specified system; or
 (c) any fire separation.
-Part 2
-Sanitary plumbing and drainlaying carried out by person authorised under Plumbers, Gasfitters, and Drainlayers Act 2006
+Part 2 Sanitary plumbing and drainlaying carried out by person authorised under Plumbers, Gasfitters, and Drainlayers Act 2006
 Plumbing and drainage
 32 Repair, maintenance, and replacement
 (1) The repair and maintenance of any sanitary plumbing and drainage in or associated with a building, provided that comparable materials are used.
@@ -180,8 +178,7 @@ The replacement of any water-storage heater connected to a solid-fuel heater or 
 (b) is fixed in the same position, and uses the same pipework, as the replaced water storage heater.
 38 Replacement or repositioning of water heater that is connected to, or incorporates, controlled heat source
 The replacement of any water heater (including the repositioning of an existing water heater) if the replacement water heater is connected to, or incorporates, a controlled heat source or, if connected to or incorporating more than 1 heat source, 2 or more heat sources all of which are controlled.
-Part 3
-Building work for which design is carried out or reviewed by chartered professional engineer
+Part 3 Building work for which design is carried out or reviewed by chartered professional engineer
 39 Signs
 Building work in connection with any sign (whether freestanding or attached to a structure) and any structural support of the sign.
 40 Plinths

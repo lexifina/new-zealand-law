@@ -1,7 +1,6 @@
 # Schedule 4 Enactments amended
 s 414
-Part 1
-Amendments to other Acts (other than local Acts)
+Part 1Amendments to other Acts (other than local Acts)
 Boilers, Lifts, and Cranes Act 1950 (1950 No 53)
 Amendment(s) incorporated in the Act(s).
 Building Research Levy Act 1969 (1969 No 23)
@@ -70,14 +69,12 @@ Sale of Liquor Act 1989 (1989 No 63)
 Amendment(s) incorporated in the Act(s).
 Sentencing Act 2002 (2002 No 9)
 Amendment(s) incorporated in the Act(s).
-Part 2
-Local Acts amended
+Part 2Local Acts amended
 Auckland Improvement Trust Act 1971 (1971 No 9)
 Amendment(s) incorporated in the Act(s).
 Summit Road (Canterbury) Protection Act 2001 (2001 No 3)
 Amendment(s) incorporated in the Act(s).
-Part 3
-Regulations amended
+Part 3Regulations amended
 Dangerous Goods (Class 3—Flammable Liquids) Regulations 1985 (SR 1985/188)
 Amendment(s) incorporated in the regulations.
 District Courts Rules 1992 (SR 1992/109)
