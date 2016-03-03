@@ -5,10 +5,11 @@ Company Sections of Crown Entities Act 2004 (relating to financial powers)
 161 162 163 164 165
 Crown Asset Management Limited ✓ ✓ ✓
 Crown Fibre Holdings Limited
-Dispute Resolution Services Limited ✓ ✓ ✓ ✓
 Education Payroll Limited ✓ ✓ ✓ ✓
+Fairway Resolution Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
-The Network for Learning Limited
+Ōtākaro Limited ✓ ✓ ✓ ✓
 Research and Education Advanced Network New Zealand Limited ✓ ✓ ✓ ✓
 Southern Response Earthquake Services Limited ✓ ✓ ✓
 Tāmaki Redevelopment Company Limited ✓ ✓ ✓ ✓
+The Network for Learning Limited
