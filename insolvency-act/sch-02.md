@@ -47,7 +47,7 @@ District Courts Act 1947 (1947 No 16)
 Section 90(3): omit "section 50 of the Insolvency Act 1967" and substitute "sections 108 to 112 of the Insolvency Act 2006".
 Employment Relations Act 2000 (2000 No 24)
 Section 170(2): omit "Insolvency Act 1967" and substitute "Insolvency Act 2006".
-Energy Companies Act 1992 (1992 No 52)
+Energy Companies Act 1992 (1992 No 56)
 Section 6(1)(c): omit "section 111 of the Insolvency Act 1967" and substitute "section 299 of the Insolvency Act 2006".
 Fisheries Act 1996 (1996 No 88)
 Section 270: repeal.
