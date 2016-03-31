@@ -1,0 +1,5 @@
+# 179C Limitations on consideration by Employment Court of matters arising under section 30D of Parental Leave and Employment Protection Act 1987
+(1) This section applies to a reference to the Authority under section 30I of the Parental Leave and Employment Protection Act 1987 for a determination as to whether the employer has complied with section 30D of that Act.
+(2) The Authority may not refer a question of law to the court under section 177 if the question of law arises during an investigation of the Authority into a reference referred to in subsection (1).
+(3) No matter, or part of a matter, may be removed to the court under section 178 if the matter, or the part of the matter, arises during an investigation of the Authority into a reference referred to in subsection (1).
+(4) No party who is dissatisfied with a determination, or any part of a determination, of the Authority of a reference referred to in subsection (1) may elect, under section 179, to have the matter heard by the court.
