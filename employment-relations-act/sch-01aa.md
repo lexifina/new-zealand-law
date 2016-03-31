@@ -1,7 +1,9 @@
 # Schedule 1AA Application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013
 ss 5A, 254
 1 Interpretation
-In this schedule, 2014 Act means the Employment Relations Amendment Act 2014.
+In this schedule,—
+2014 Act means the Employment Relations Amendment Act 2014
+2016 Act means the Employment Relations Amendment Act 2016.
 2 Application, savings, and transitional provisions arising from 2014 Act
 Amendments to section 4 (Parties to employment relationship to deal with each other in good faith)
 (1) Despite the amendments made to section 4 of this Act by section 4 of the 2014 Act, section 4 of this Act (as it was immediately before it was amended by the 2014 Act) continues to apply in relation to proposed decisions referred to in section 4 of this Act—
@@ -33,3 +35,15 @@ Amendments to Part 10 (Institutions)
 (10) Section 174 of this Act (as it was immediately before the 2014 Act) continues to apply to matters commenced in the Authority before the commencement of the 2014 Act as if the 2014 Act had not been passed.
 Repeal of section 237A
 (11) On the commencement of the 2014 Act, any request made under section 237A(3)(a) of this Act lapses and, to avoid doubt, neither the Minister nor any other person is required to take any action, or any further action, in relation to such a request.
+3 Application, savings, and transitional provisions arising from 2016 Act
+(1) The amendments made by the 2016 Act do not apply to conduct that occurred before the commencement of that Act.
+(2) If a collective agreement (the previous agreement) is in force immediately before the commencement of the 2016 Act (whether or not bargaining has been initiated under section 41(3) or (4)), sections 67C to 67H (as inserted by section 9 of that Act) apply to—
+(a) any collective agreement that replaces the previous agreement, on the commencement of the replacement agreement; and
+(b) an individual employment agreement that comes into force under section 61(2)(a), based on the previous agreement and any additional terms and conditions agreed under section 61(1), on the commencement of the individual employment agreement.
+(3) If an individual employment agreement has been entered into, or has come into force under section 61(2)(a), before the commencement of the 2016 Act, sections 67C to 67H (as inserted by section 9 of that Act) apply to the agreement from 1 April 2017.
+(4) Subclause (1) applies subject to subclauses (5) to (7).
+(5) The amendment to section 140 (made by section 17 of the 2016 Act) (which relates to compliance orders made by the court) applies to an order imposing a fine whether the breach that the fine relates to occurred before, on, or after the commencement of the 2016 Act.
+(6) Sections 159AA (inserted by section 22 of the 2016 Act) and 188A (inserted by section 25 of the 2016 Act) (both relating to when mediation in relation to breaches of employment standards is appropriate)—
+(a) apply only to proceedings filed after the commencement of the 2016 Act; but
+(b) may apply to conduct whether it occurred before, on, or after the commencement of the 2016 Act.
+(7) Section 234 (which relates to the circumstances in which officers, directors, or agents of a company are liable for minimum wages and holiday pay) continues to apply (despite its repeal by section 35 of the 2016 Act) to proceedings brought in relation to conduct that occurred before the commencement of the 2016 Act, whether or not the proceedings were brought before that commencement.

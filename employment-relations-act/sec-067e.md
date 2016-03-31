@@ -1,0 +1,2 @@
+# 67E Employee may refuse to perform certain work
+An employee is entitled to refuse to perform work in addition to any guaranteed hours specified in the employee's employment agreement if the agreement does not contain an availability provision that provides for the payment of reasonable compensation to the employee for making himself or herself available to perform work under the availability provision.
