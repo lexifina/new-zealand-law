@@ -11,5 +11,5 @@
 (a) may decline an employee's request; and
 (b) is not required to provide the employee with a reason for declining the request.
 (5) In this section, entitlement year—
-(a) means a period of 12 months continuous employment beginning on the anniversary of the employee's employment; and
-(b) includes a period of 12 months continuous employment described in section 16(2).
+(a) means a period of 12 months' continuous employment beginning on the anniversary of the employee's employment; and
+(b) includes a period of 12 months' continuous employment described in section 16(2).
