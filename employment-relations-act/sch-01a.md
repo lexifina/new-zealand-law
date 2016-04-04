@@ -6,4 +6,4 @@ Employees who provide the following services in the specified sectors, facilitie
 (c) cleaning services, food catering services, orderly services, or laundry services in the age-related residential care sector:
 (d) cleaning services or food catering services in the public service (as defined in Schedule 1 of the State Sector Act 1988) or local government sector:
 (e) cleaning services or food catering services in relation to any airport facility or for the aviation sector:
-(f) cleaning services or food catering services in relation to any other place of work (within the meaning of the Health and Safety in Employment Act 1992).
+(f) cleaning services or food catering services in relation to any other workplace.
