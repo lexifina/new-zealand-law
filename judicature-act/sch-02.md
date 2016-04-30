@@ -989,8 +989,9 @@ Subpart 2—Certified copy procedure
 23.24 Method of application
 23.25 Issue of certified copy
 Subpart 3—Enforcement of certain judgments and orders of Federal Court of Australia
-23.26 Interpretation
-23.27 Scope
+[Repealed]
+23.26 Interpretation [Repealed]
+23.27 Scope [Repealed]
 23.28 Application of other Parts [Repealed]
 23.29 Method of application [Repealed]
 23.30 Title of proceeding [Repealed]
@@ -1499,7 +1500,7 @@ Compare: 1908 No 89 Schedule 2 r 11
 Compare: 1908 No 89 Schedule 2 rr 16, 17
 Subpart 3—Use of Māori language, translations, and sign language
 1.11 Speaking in Māori
-(1) This rule applies to a person entitled under section 4(1) of the Maori Language Act 1987 to speak Māori in a proceeding or at the hearing of an interlocutory application.
+(1) This rule applies to a person entitled under section 7(1) of Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 to speak Māori in a proceeding or at the hearing of an interlocutory application.
 (2) If a person to whom this rule applies wishes to speak Māori in a proceeding or at the hearing of an interlocutory application, that person, or, if the person is a witness, the party intending to call that person, must file and serve on every other party to the proceeding a notice of his or her intention to speak Māori.
 (3) The notice must state that the person intends to speak Māori at—
 (a) all case management conferences and hearings; or
@@ -1517,7 +1518,7 @@ Compare: 1908 No 89 Schedule 2 r 65A
 (b) states a postal address for the service of the translation (if an address for service has not already been given); and
 (c) satisfies the Registrar that he or she is unable to read the document but could read it if it were translated into the Māori language.
 (2) The Registrar must require that translation to be prepared by the party or person on whose behalf the document was served.
-(3) The translation must be certified correct by a person holding an endorsed certificate of competency under section 18 of the Maori Language Act 1987.
+(3) The translation must be certified correct by a person holding an endorsed certificate of competency under clause 4 of Schedule 6 of Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016.
 (4) The translation may be served—
 (a) personally; or
 (b) at the address for service (if any) of the person entitled to the translation; or
@@ -1531,7 +1532,7 @@ Compare: 1908 No 89 Schedule 2 r 65A
 Compare: 1908 No 89 Schedule 2 rr 62-64
 1.13 Failure to give notice
 A failure to comply with rule 1.11 does not prevent a person speaking Māori at a case management conference or pre-trial conference or hearing, but—
-(a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
+(a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under clause 1(2)(a) or (c) of Schedule 6 of Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
 (b) the court may treat the failure to comply as a relevant consideration in an award of costs.
 Compare: 1908 No 89 Schedule 2 r 65B
 1.14 Translation may be ordered by court
@@ -3255,7 +3256,7 @@ Compare: 1908 No 89 Schedule 2 r 7.14 prior to 1 February 2013
 (1) A Registrar must convene a case management conference for a proceeding under Part 30 if a Judge makes a direction that a case management conference be held.
 (2) The Registrar must arrange for the conference management conference to be held as soon as practicable after the direction is made.
 (3) The plaintiff must, as soon as practicable after being notified of the date of the case management conference, give notice of that date to everyone who has been, or is to be, served with a copy of the notice of proceeding and statement of claim.
-(4) The parties must, not later than 2 working days before the case management conference,- -
+(4) The parties must, not later than 2 working days before the case management conference,—
 (a) file a joint memorandum; or
 (b) each file a memorandum.
 (5) A memorandum must address the issues set out in Schedule 10.
@@ -5064,8 +5065,8 @@ Compare: 1908 No 89 Schedule 2 r 140A
 (2) For the purposes of subclause (1), in answer to means,—
 (a) in the case of a defendant, setting out the defence to the cause or causes of action that are subject to the summary judgment application; or
 (b) in the case of a plaintiff, setting out the reasons why the defendant's defences do not succeed against the plaintiff's cause or causes of action.
-(2) If an opposing party does not file and serve the documents required by subclause (1), the party may not be heard in opposition to the application without the leave of the court.
-(3) Rule 7.24(2) and (3) apply, with all necessary modifications, to a notice of opposition filed under subclause (1)(a).
+(3) If an opposing party does not file and serve the documents required by subclause (1), the party may not be heard in opposition to the application without the leave of the court.
+(4) Rule 7.24(2) and (3) apply, with all necessary modifications, to a notice of opposition filed under subclause (1)(a).
 Compare: 1908 No 89 Schedule 2 r 141
 12.10 Statement of defence
 A defendant who has filed both a notice of opposition and an affidavit under rule 12.9 may, in addition, file a statement of defence in the registry of the court in which the notice of opposition and the affidavit were filed.
@@ -6602,7 +6603,7 @@ Subpart 2—Application for leave to appeal
 (a) by the date fixed when the decision-maker or the court grants leave; or
 (b) within 20 working days after the grant of leave, if the decision-maker or the court does not fix a date.
 (4) Any date fixed by the decision-maker is to be treated as a determination for the purposes of rule 7.50.
-(5) The decision-maker or, as the case requires, the court may, on application, extend the period for bringing an application under this rule, if the enactment under which the appeal is sought to be brought—
+(5) The decision-maker or, as the case requires, the court, may, on application, extend the period for bringing an application under this rule, if the enactment under which the appeal is sought to be brought—
 (a) permits the extension; or
 (b) does not limit the time prescribed for making the application.
 (6) A party may apply for the extension of a period before or after the period expires.
@@ -7289,8 +7290,11 @@ Compare: 1908 No 89 Schedule 2 r 749
 (2) In giving a certificate under subclause (1)(b) the Registrar is entitled to rely on the affidavit filed under rule 23.24(2) and the documents attached to it.
 Compare: 1908 No 89 Schedule 2 r 750
 Subpart 3—Enforcement of certain judgments and orders of Federal Court of Australia
+[Repealed]
 23.26 Interpretation
+[Repealed]
 23.27 Scope
+[Repealed]
 23.28 Application of other Parts
 [Repealed]
 23.29 Method of application
@@ -9879,7 +9883,7 @@ Signature:
 *Select one.
 Notes
 1
-The Maori Language Act 1987 entitles the following persons to speak Māori in legal proceedings: the parties to the proceedings, witnesses, counsel, and, with the leave of the court, other persons.
+Te Ture mō Te Reo Māori 2016/the Māori Language Act 2016 entitles the following persons to speak Māori in legal proceedings: the parties to the proceedings, witnesses, counsel, and, with the leave of the court, other persons.
 2
 If a person intends to speak Māori at all case management conferences and hearings relating to a proceeding or application, the person (or, if the person is a witness, the party intending to call the person as a witness) must, at least 10 working days before the first case management conference or hearing, file this notice in the registry of the court and serve a copy of the notice on every other party to the proceeding or application.
 3
@@ -9961,7 +9965,7 @@ Date:
 Signature:
 (Registrar/Deputy Registrar*)
 *Select one.
-Add the following notice if the defendant is to be served overseas (other than in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010). If the defendant is to be served in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010, do not use the following notice, but use instead the information that section 15 of that Act requires to be served on the defendant (see form 1 of the Schedule of the Trans-Tasman Regulations and Rules 2013).
+Add the following notice if the defendant is to be served overseas (other than in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010). If the defendant is to be served in Australia and under section 13 of the Trans-Tasman Proceedings Act 2010, do not use the following notice, but use instead the information that section 15 of that Act requires to be served on the defendant (see form 1 of the Schedule of the Trans-Tasman Proceedings Regulations and Rules 2013).
 Notice to defendant served overseas
 Since you are resident outside New Zealand you are further notified that—
 1
