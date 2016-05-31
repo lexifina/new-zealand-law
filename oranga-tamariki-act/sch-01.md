@@ -1,9 +1,11 @@
 # Schedule 1 Provisions applied to Youth Courts and to proceedings in such courts
 s 321
-1 The District Courts Act 1947, except that—
+1
+The District Courts Act 1947, except that—
 (a) where any provisions of this Act conflict with any of the provisions of the District Courts Act 1947, the provisions of this Act prevail:
 (b) nothing in section 22 of the District Courts Act 1947 applies in respect of Youth Court Judges or the business of Youth Courts.
-2 Section 10, 13, Part 2, subparts 1 to 4 of Part 3, subparts 1 and 3 of Part 4, and subparts 1 and 2 of Part 5 of the Criminal Procedure Act 2011, except that—
+2
+Section 10, 13, Part 2, subparts 1 to 4 of Part 3, subparts 1 and 3 of Part 4, and subparts 1 and 2 of Part 5 of the Criminal Procedure Act 2011, except that—
 (a) charging documents against children or young persons must continue to be filed in District Courts even though they may be heard and determined in Youth Courts:
 (b) unless a District Court Judge orders otherwise, charges that are within the jurisdiction of the Youth Court must be heard and determined in the Youth Court that is a division of the District Court in which the charging document is filed:
 (c) section 35 of that Act does not apply:
@@ -20,12 +22,16 @@ s 321
 (n) section 177 of that Act applies to all offence categories as if the proving of a charge were a conviction:
 (o) section 178 of that Act applies as if the proving of a charge were a conviction:
 (p) section 184 of that Act does not apply.
-3 Part 3 of the Bail Act 2000 except that—
+3
+Part 3 of the Bail Act 2000 except that—
 (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by section 33:
 (b) the provisions of section 30 apply as if there were inserted in that section, as subsections (1A) and (1B), the following subsections:
-"(1A) Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Children, Young Persons, and Their Families Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
-"(1B) If, under subsection (1A), the defendant is excused from attending any hearing, and the court adjourns that hearing, the Registrar must notify the defendant of the time and place to which the hearing is adjourned."
-3A The Victims' Rights Act 2002, as follows:
+"(1A)
+Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Children, Young Persons, and Their Families Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
+"(1B)
+If, under subsection (1A), the defendant is excused from attending any hearing, and the court adjourns that hearing, the Registrar must notify the defendant of the time and place to which the hearing is adjourned."
+3A
+The Victims' Rights Act 2002, as follows:
 (a) sections 7 and 8, and, for the purposes of these sections, victim also includes—
 (i) a person who, through or by means of an offence committed by a child or young person, suffers any form of emotional harm; and
 (ii) a parent or guardian of a child or young person who is a victim within the meaning of subparagraph (i), unless that parent or guardian is—
@@ -53,4 +59,5 @@ s 321
 (ii) the victim has requested the Commissioner of Police to ensure that he or she is given notice under section 38; and
 (iii) the Commissioner of Police has referred that request to the Director-General of Health and provided the Director-General of Health with the victim's address:
 (j) the provisions of Part 4, so far as they are applicable, except that the reference to offender in section 51(1) includes a child or young person against whom a charge in respect of the offence has been proved before a Youth Court.
-4 The Criminal Disclosure Act 2008.
+4
+The Criminal Disclosure Act 2008.
