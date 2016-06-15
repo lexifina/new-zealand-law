@@ -8,3 +8,4 @@
 (b) if an order is sought under subsection (1)(a), set out the information, documents, or things in respect of which the order is sought; and
 (c) explain why the information, documents, things, or evidence in question will or may be relevant to the inquiry.
 (4) In this section, specified inquiry means an inquiry by the Commission under section 5(2)(h) into the contravention or possible contravention by any person of New Zealand law relating to human rights.
+(5) For the avoidance of doubt, nothing in this section requires the Commission in the exercise of its inquiry function under section 5(2)(h) to obtain an order under subsection (1).
