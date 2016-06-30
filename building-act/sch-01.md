@@ -94,9 +94,8 @@ Building work in connection with a porch or a veranda that—
 (d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
 18 Carports
 Building work in connection with a carport that—
-(a) is on or attached to an existing building; and
-(b) is on the ground level of the building; and
-(c) does not exceed 20 square metres in floor area.
+(a) is on the ground level; and
+(b) does not exceed 20 square metres in floor area.
 19 Shade sails
 Building work in connection with a shade sail made of fabric or other similar lightweight material, and associated structural support, that—
 (a) does not exceed 50 square metres in size; and
