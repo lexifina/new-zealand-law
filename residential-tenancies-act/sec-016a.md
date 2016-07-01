@@ -5,5 +5,8 @@
 (4) A landlord who appoints an agent under this section must, immediately after appointing the agent,—
 (a) notify the tenant of the agent's name, contact address, and address for service; and
 (b) if a bond is held in respect of the tenancy, notify the chief executive in the approved form of those particulars.
+(4A) For the purposes of subsection (4)(a), the following must be notified with the agent's contact address:
+(a) the agent's contact mobile telephone number (if any):
+(b) the agent's contact email address (if any).
 (5) An agent appointed under this section has, as against the tenant, all the rights and obligations of the landlord.
 (6) A contravention of any of subsections (1) to (4) is declared to be an unlawful act.
