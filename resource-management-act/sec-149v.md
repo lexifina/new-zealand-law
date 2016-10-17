@@ -4,7 +4,7 @@
 (3) If the appeal is from a decision of a board of inquiry, sections 300 to 307 apply to the appeal subject to the following:
 (a) every reference to the Environment Court in those sections must be read as a reference to the board of inquiry; and
 (b) those sections must be read with any other necessary modifications; and
-(c) the High Court Rules apply if a procedural matter is not dealt with in the sections.
+(c) the High Court Rules 2016 apply if a procedural matter is not dealt with in the sections.
 (4) If the appeal is from a decision of the Environment Court, section 299 applies to the appeal.
 (5) No appeal may be made to the Court of Appeal from a determination of the High Court under this section.
 (6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 12 to 15 of the Supreme Court Act 2003 apply with any necessary modifications.

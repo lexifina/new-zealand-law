@@ -5,5 +5,5 @@
 (2) The notice must—
 (a) identify each company to which the proposed order relates; and
 (b) summarise all information known to the applicant that is material to whether the order should be made; and
-(c) state that a person to whom the notice must be given may oppose the application by filing a statement of defence in accordance with the High Court Rules.
-(3) The notice requirement in this section is in addition to anything required by the High Court Rules to be done.
+(c) state that a person to whom the notice must be given may oppose the application by filing a statement of defence in accordance with the High Court Rules 2016.
+(3) The notice requirement in this section is in addition to anything required by the High Court Rules 2016 to be done.
