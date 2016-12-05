@@ -8,6 +8,7 @@ Ngaa Rauru Kiitahi Claims Settlement Act 2005
 NgāiTakoto Claims Settlement Act 2015
 Ngāi Tahu Claims Settlement Act 1998
 Ngai Tāmanuhiri Claims Settlement Act 2012
+Ngāruahine Claims Settlement Act 2016
 Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014
 Ngāti Apa (North Island) Claims Settlement Act 2010
 Ngāti Awa Claims Settlement Act 2005
@@ -35,7 +36,9 @@ Pouakani Claims Settlement Act 2000
 Raukawa Claims Settlement Act 2014
 Rongowhakaata Claims Settlement Act 2012
 Tapuika Claims Settlement Act 2014
+Taranaki Iwi Claims Settlement Act 2016
 Te Arawa Lakes Settlement Act 2006
+Te Atiawa Claims Settlement Act 2016
 Te Aupouri Claims Settlement Act 2015
 Te Kawerau ā Maki Claims Settlement Act 2015
 Te Rarawa Claims Settlement Act 2015
