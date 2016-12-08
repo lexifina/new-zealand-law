@@ -9,6 +9,7 @@ Education Payroll Limited ✓ ✓ ✓ ✓
 Fairway Resolution Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
+Predator Free 2050 Limited ✓ ✓ ✓ ✓
 Research and Education Advanced Network New Zealand Limited ✓ ✓ ✓ ✓
 Southern Response Earthquake Services Limited ✓ ✓ ✓
 Tāmaki Redevelopment Company Limited ✓ ✓ ✓ ✓
