@@ -33,6 +33,7 @@ Ngāti Whātua o Kaipara Claims Settlement Act 2013
 Ngāti Whātua Ōrākei Claims Settlement Act 2012
 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
 Pouakani Claims Settlement Act 2000
+Rangitāne o Manawatu Claims Settlement Act 2016
 Raukawa Claims Settlement Act 2014
 Rongowhakaata Claims Settlement Act 2012
 Tapuika Claims Settlement Act 2014
