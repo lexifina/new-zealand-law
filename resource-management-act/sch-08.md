@@ -112,5 +112,5 @@ Amendment(s) incorporated in the Act(s).
 Part 2Regulations amended
 Geothermal Energy Regulations 1961 (SR 1961/124)
 Amendment(s) incorporated in the regulations.
-Geothermal Energy Regulations 1987 (SR 1987/73)
+Geothermal Energy Regulations 1961, Amendment No 2 (SR 1987/73)
 Amendment(s) incorporated in the regulations.
