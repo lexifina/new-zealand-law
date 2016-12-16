@@ -5,7 +5,7 @@
 (ii) section 114(2)(b) and (c) applies as if the special guardian were a sole guardian; and
 (b) the order must specify the access and other rights (not being custody or guardianship rights), including any terms and conditions that apply to those rights, of each existing guardian in relation to the child or young person.
 (2) Where a special guardianship order specifies the access and other rights of any existing guardian,—
-(a) no existing guardian may apply for an order under section 121(2)(c) or (d) concerning his or her access or other rights in relation to the child or young person, but any other parent or person may apply for orders under that section in relation to the child or young person, as if the special guardian were a sole guardian; and
+(a) no existing guardian may apply for an order under section 121(2)(d) or (e) concerning his or her access or other rights in relation to the child or young person, but any other parent or person may apply for orders under that section in relation to the child or young person, as if the special guardian were a sole guardian; and
 (b) section 122 applies to any access rights specified in the order as if those access rights had been granted by an order made under section 121.
 (3) If a person who is appointed as the sole guardian of a child or young person is also appointed as a special guardian, the provisions of this Act relating to sole guardians apply, except that—
 (a) sections 134 and 135 (about reviewing plans) do not apply to the court plan that was prepared for the purposes of section 128; and
