@@ -15,7 +15,7 @@
 (b) vary the home detention residence; or
 (c) cancel the sentence; or
 (d) cancel the sentence and substitute any other sentence (including another sentence of home detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
-(4A) When an application is made under this section for variation of conditions on the ground specified in subsection (1)(c) and there is no suitable alternative residence available, the court may do either or both of the following things:
+(4A) When an application is made under this section on the ground specified in subsection (1)(c) and there is no suitable alternative residence available, the court may do either or both of the following things:
 (a) issue to a constable a warrant for the offender's arrest:
 (b) bail the offender or remand the offender in custody if the application cannot be determined immediately.
 (5) An application under subsection (1), (2), or (3) may be made at any time before or after the sentence commences.

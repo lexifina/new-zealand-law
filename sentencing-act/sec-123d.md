@@ -2,7 +2,7 @@
 (1) On making a protection order, the Judge or Registrar must explain to the offender—
 (a) the effect of—
 (i) the order; and
-(ii) any direction to attend a programme made under section 32 of the Domestic Violence Act 1995 (as applied by section 123C(1)(a)); and
+(ii) any direction to attend a programme made under section 51D of the Domestic Violence Act 1995 (as applied by section 123C(1)(a)); and
 (b) the consequences that may follow if the offender fails to—
 (i) comply with the terms of the order; or
 (ii) attend any session of a programme that he or she has been directed to attend; and

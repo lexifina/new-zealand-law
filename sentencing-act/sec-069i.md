@@ -11,7 +11,7 @@
 (b) vary the curfew address; or
 (c) cancel the sentence; or
 (d) cancel the sentence and substitute any other sentence (including another sentence of community detention) that could have been imposed on the offender at the time that the offender was convicted of the offence for which the sentence was imposed.
-(3A) When an application is made under this section for variation of conditions on the ground specified in subsection (1)(b) and there is no suitable alternative curfew address available, the court may do either or both of the following things:
+(3A) When an application is made under this section on the ground specified in subsection (1)(b) and there is no suitable alternative curfew address available, the court may do either or both of the following things:
 (a) issue to a constable a warrant for the offender's arrest:
 (b) bail the offender or remand the offender in custody if the application cannot be determined immediately.
 (4) When determining a substitute sentence to be imposed under subsection (3)(d), the court must take into account the portion of the original sentence that remains unserved at the time of the order.

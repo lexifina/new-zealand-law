@@ -15,7 +15,7 @@
 (b) the offender must report to a probation officer on that date; and
 (c) the sentence of home detention resumes when the offender has reported to the probation officer on that date.
 (3) If the offender has been on bail for more than 2 months, the probation officer must, before the sentence of home detention resumes,—
-(a) review the suitability of the home detention address; and
+(a) review the suitability of the home detention residence; and
 (b) ensure every relevant occupant consents, in accordance with section 26A(3), to the offender resuming the sentence at the home detention residence; and
 (c) if necessary, apply to the court for a variation or cancellation of the sentence under section 80F or obtain from the chief executive of the Department of Corrections a variation of the home detention residence under section 80FA.
 (4) This section does not apply if the offender is detained under a sentence of imprisonment.
