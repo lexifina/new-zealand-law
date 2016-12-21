@@ -9,11 +9,12 @@
 (b) conditions requiring the offender to take prescription medication:
 (c) conditions requiring the offender to undertake training in basic work and living skills:
 (d) a condition requiring the offender to comply with the requirements of judicial monitoring under subpart 2B as directed by a probation officer or the sentencing Judge:
-(e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender.
+(e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender:
+(f) a condition that the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with any conditions of his or her sentence imposed under paragraph (e) that prohibit the offender from entering or remaining in specified places or areas at specified times or at all times.
 (4) No court may impose a condition under this section that—
 (a) the offender pay any fine, reparation, or other sum ordered to be paid on conviction; or
-(b) the offender perform any service that he or she could have been required to perform if he or she had been sentenced to community work; or
-(c) the offender submit to electronic monitoring.
+(b) the offender perform any service that he or she could have been required to perform if he or she had been sentenced to community work.
+(c) [Repealed]
 (5) No offender may be made subject to a special condition that requires the offender to take prescription medication unless the offender—
 (a) has been fully advised, by a person who is qualified to prescribe that medication, about the nature and likely or intended effect of the medication and any known risks; and
 (b) consents to taking the prescription medication.

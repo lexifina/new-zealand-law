@@ -1,5 +1,5 @@
 # 80E Electronic monitoring
-(1) The purpose of an electronic monitoring condition is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
+(1) The purpose of an electronic monitoring condition imposed as a condition under section 80C(2)(d) is to deter the offender from breaching conditions that relate to his or her whereabouts, and to monitor compliance with those conditions.
 (2) Information about an offender that is obtained through electronic monitoring may be used both for the purposes referred to in subsection (1) and for the following purposes:
 (a) to verify compliance with any detention conditions:
 (b) to detect non-compliance with any detention conditions and the commission of offences:
