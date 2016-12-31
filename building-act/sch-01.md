@@ -1,5 +1,5 @@
 # Schedule 1 Building work for which building consent not required
-s 42(1)(b)
+s 12
 Part 1 Exempted building work
 General
 1 General repair, maintenance, and replacement
@@ -108,11 +108,13 @@ Building work in connection with a retaining wall that—
 (b) does not support any surcharge or any load additional to the load of that ground (for example, the load of vehicles).
 21 Fences and hoardings
 (1) Building work in connection with a fence or hoarding in each case not exceeding 2.5 metres in height above the supporting ground.
-(2) Subclause (1) does not include a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987.
+(2) Subclause (1) does not include a fence or hoarding to restrict access to a residential pool.
+21A Means of restricting access to small heated pools
+Installation of a safety cover as a means of restricting access to a small heated pool that is a residential pool.
 22 Dams (excluding large dams)
 Building work in connection with a dam that is not a large dam.
-23 Tanks and pools (excluding swimming pools)
-Building work in connection with a tank or pool and any structure in support of the tank or pool (except a swimming pool as defined in section 2 of the Fencing of Swimming Pools Act 1987), including any tank or pool that is part of any other building for which a building consent is required, that—
+23 Tanks and pools
+Building work in connection with a tank or pool and any structure in support of the tank or pool, including any tank or pool that is part of any other building for which a building consent is required, that—
 (a) does not exceed 500 litres capacity and is supported not more than 4 metres above the supporting ground; or
 (b) does not exceed 1 000 litres capacity and is supported not more than 3 metres above the supporting ground; or
 (c) does not exceed 2 000 litres capacity and is supported not more than 2 metres above the supporting ground; or
