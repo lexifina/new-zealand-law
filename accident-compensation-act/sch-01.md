@@ -879,7 +879,7 @@ Compare: 1998 No 114 Schedule 1 cl 25
 53 Election for purposes of clause 52
 (1) A claimant must make an election under clause 52(5) or (8) within the period that is the later of the following:
 (a) within 1 month before the date on which the election would take effect; or
-(b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the claimant's case.
+(b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the claimant's case.
 (2) The Corporation may allow a claimant to exercise or revoke an election under clause 52(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
 Compare: 1998 No 114 Schedule 1 cl 26
 Part 3 Lump sum compensation for permanent impairment
@@ -1072,7 +1072,7 @@ Compare: 1998 No 114 Schedule 1 cl 68
 69 Election for purposes of clause 68
 (1) A surviving spouse or partner must make an election under clause 68(2) or (5) within the period that is the latest of the following:
 (a) within 1 month before the date on which the election would take effect; or
-(b) within 1 month after the surviving spouse or partner has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the surviving spouse's or partner's case; or
+(b) within 1 month after the surviving spouse or partner has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the surviving spouse's or partner's case; or
 (c) before 1 month before the surviving spouse or partner reaches New Zealand superannuation qualification age.
 (2) The Corporation may allow a surviving spouse or partner to exercise or revoke an election under clause 68(2) or (5) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the surviving spouse's or partner's circumstances have changed significantly since the end of the period.
 Compare: 1998 No 114 Schedule 1 cl 69
@@ -1119,7 +1119,7 @@ Compare: 1998 No 114 Schedule 1 cl 72
 73 Election for purposes of clause 72
 (1) The other dependant must make an election under clause 72(5) or (8) within the period that is the latest of the following:
 (a) within 1 month before the date on which the election would take effect; or
-(b) within 1 month after the other dependant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the other dependant's case; or
+(b) within 1 month after the other dependant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the other dependant's case; or
 (c) before 1 month before the other dependant reaches New Zealand superannuation qualification age.
 (2) The Corporation may allow any other dependant to exercise or revoke an election under clause 72(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the other dependant's circumstances have changed significantly since the end of the period.
 Compare: 1998 No 114 Schedule 1 cl 73

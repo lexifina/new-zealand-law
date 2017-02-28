@@ -9,6 +9,6 @@
 (i) an order made under paragraph (c), or any of paragraphs (k) to (o), of section 283; or
 (ii) a community-based sentence under the Sentencing Act 2002; or
 (iii) a sentence of home detention imposed under section 80A of the Sentencing Act 2002; and
-(g) neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before a Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (f).
+(g) neither the chief executive, nor any officer or employee of the department, knows of any charging document filed, or of any proceedings pending before the Youth Court or any other court, that could lead to the child or young person being made subject to an order or sentence referred to in paragraph (f).
 (2) In determining whether a protection order to the same or a similar effect as the home order could be made under the child welfare law of a participating State, the chief executive must not take into account the maximum period for which such an order can have effect in that State.
 (3) Before deciding whether to transfer a protection order, the chief executive may request a care and protection co-ordinator to convene a family group conference for the purpose of considering whether the order should be transferred, and sections 20 to 36 apply, with any necessary modification, to the convening of such a family group conference.
