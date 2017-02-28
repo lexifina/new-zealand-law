@@ -1,0 +1,3 @@
+# 288E Terms of section 288C order
+(1) An order made under section 288C may restrain a party from commencing or continuing any civil proceeding (whether generally or against any particular person or persons) of any type specified in the order without first obtaining the leave of the court.
+(2) An order made under section 288C, whether limited or extended, has effect for a period of up to 3 years as specified by the Judge, but the Judge making it may specify a longer period (which must not exceed 5 years) if he or she is satisfied that there are exceptional circumstances justifying the longer period.
