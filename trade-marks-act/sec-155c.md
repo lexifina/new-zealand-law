@@ -4,8 +4,8 @@
 (a) be in the prescribed form; and
 (b) specify the Customs officer before whom the person must appear; and
 (c) specify a reasonable time and place at which the person must appear; and
-(d) be served on the person by—
-(i) delivering it to him or her in person; or
-(ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
-(iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
+(d) be served on the person—
+(i) by delivering it to him or her in person; or
+(ii) by posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
+(iii) by sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
 (iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), by transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person.
