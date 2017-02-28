@@ -1,0 +1,4 @@
+# 74A Recovery of payments made under mistake of law
+(1) If relief in respect of any payment that has been made under mistake is sought in any court (whether in civil proceedings or by way of defence, set-off, counterclaim, or otherwise) and that relief could be granted if the mistake were wholly one of fact, that relief must not be denied by reason only that the mistake is one of law, whether or not it is in any degree also one of fact.
+(2) Nothing in this section enables relief to be given in respect of any payment made at a time when the law required, or allowed, or was commonly understood to require or allow, the payment to be made or enforced, by reason only that the law was subsequently changed or shown not to have been as it was commonly understood to have been at the time of the payment.
+Compare: 1908 No 89 s 94A
