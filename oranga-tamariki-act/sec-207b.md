@@ -23,7 +23,7 @@ protection proceedings means—
 (i) that a child or young person is in need of care or protection; and
 (ii) that empowers the court or Children's Court to make a protection order
 review proceedings means proceedings—
-(a) by way of an application for review under the Judicature Amendment Act 1972; or
+(a) by way of an application for review under the Judicial Review Procedure Act 2016; or
 (b) by way of an application for mandamus, injunction, prohibition, or certiorari; or
 (c) by way of an application for a declaratory judgment
 sending State means the participating State from which a protection order or protection proceedings are transferred to New Zealand under this Part and the interstate law of that State
