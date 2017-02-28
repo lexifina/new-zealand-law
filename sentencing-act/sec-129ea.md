@@ -7,5 +7,5 @@
 (4) The right of appeal under subsection (1) is independent of the offender's right of appeal against conviction and sentence for the relevant offence or offences.
 (5) The court must set aside the confiscation of the motor vehicle if satisfied that the ground of appeal stated in subsection (1) applies.
 (6) For the purposes of subsection (1),—
-(a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
+(a) if the order was made in the District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
 (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.

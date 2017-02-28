@@ -2,7 +2,7 @@
 (1) The Commission may appear and be heard, in person or by a barrister or solicitor,—
 (a) in proceedings before the Human Rights Review Tribunal; and
 (b) in proceedings in any of the following courts in relation to proceedings that are or have been before the Human Rights Review Tribunal:
-(i) a District Court:
+(i) the District Court:
 (ii) the High Court:
 (iii) the Court of Appeal:
 (iv) the Supreme Court.

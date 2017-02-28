@@ -1,5 +1,5 @@
 # 206ZA Leave to pay claim after time limitation
-(1) On the application of a claimant or a registered promoter, a District Court may make an order granting leave to the registered promoter to pay—
+(1) On the application of a claimant or a registered promoter, the District Court may make an order granting leave to the registered promoter to pay—
 (a) a claim for election expenses sent after the period specified in section 206Y(1); or
 (b) a claim not paid in the period specified in section 206Y(2); or
 (c) a disputed claim in respect of which an action was not brought within the period specified in section 206Z(1)(b).

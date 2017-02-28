@@ -1,14 +1,2 @@
 # 11CE Indemnity to Community Magistrate
-(1) Subsection (2) applies to any Community Magistrate against whom a judgment has been entered to pay damages or costs to any person injured as a result of any act done by the Community Magistrate in excess of jurisdiction or without jurisdiction.
-(2) The Community Magistrate must be indemnified by the Crown to the full amount of the judgment if he or she produces a certificate signed by a Judge of the High Court stating that, in the Judge's opinion,—
-(a) the Community Magistrate acted in good faith under the belief that he or she had in fact jurisdiction; and
-(b) in all the circumstances the Community Magistrate ought fairly and reasonably to be excused.
-(3) Subsections (4) and (5) apply if a Community Magistrate settles a claim against him or her by paying or agreeing to pay an agreed amount of damages or costs before proceedings are commenced, or before or during trial of the proceeding.
-(4) The Community Magistrate must be indemnified by the Crown to the full amount of the amount paid or agreed to be paid if he or she produces a certificate signed by a Judge of the High Court stating that, in the Judge's opinion,—
-(a) the Community Magistrate acted in good faith under the belief that he or she had in fact jurisdiction; and
-(b) in all the circumstances the Community Magistrate ought fairly and reasonably to be excused; and
-(c) the amount paid or agreed to be paid was fair and reasonable.
-(5) If the High Court Judge is not satisfied of the matter in subsection (4)(c), the Judge may issue the certificate in respect of any lesser sum that in the Judge's opinion is adequate to settle the plaintiff's claim, and in that case the Community Magistrate must be indemnified by the Crown to the amount specified in the certificate.
-(6) Application for a certificate under any of subsections (2), (4), or (5) may be made by a Community Magistrate at any time to a Judge in chambers, and the Judge has power to grant the certificate after considering all evidence that is given before him or her either orally or in the form of affidavits.
-(7) A copy of the application must be served by the Community Magistrate on the Attorney-General, who is entitled to appear and oppose it.
-Compare: 1957 No 87 s 197
+[Repealed]

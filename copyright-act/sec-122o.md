@@ -10,5 +10,5 @@
 (b) reimbursement of the application fee paid by the rights owner to the Tribunal.
 (4) The total amount ordered by the Tribunal to be paid by the account holder must not exceed $15,000.
 (5) Despite subsection (1), the Tribunal may decline to make the order required by that subsection if, in the circumstances of the case, the Tribunal is satisfied that making the order would be manifestly unjust to the account holder.
-(6) An order made under this section may be enforced as if it were a judgment for a sum of money made by a District Court.
+(6) An order made under this section may be enforced as if it were a judgment for a sum of money made by the District Court.
 (7) The Tribunal may award costs against a party to the proceedings only if the Tribunal is satisfied that the party has engaged in conduct intended to impede the prompt determination of the proceedings.

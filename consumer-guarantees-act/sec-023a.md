@@ -4,7 +4,7 @@
 (b) the contract is associated with a collateral credit agreement; and
 (c) the supplier is a party to the contract; and
 (d) the consumer exercises the right to reject the goods under this Act.
-(2) A court or a Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
+(2) A court or the Disputes Tribunal may order that all or any of the rights and obligations of the consumer under the collateral credit agreement vest in the supplier.
 (3) In this section,—
 collateral credit agreement, in relation to a contract for the supply of goods, means a contract or an agreement that—
 (a) is arranged or procured by the supplier of the goods; and

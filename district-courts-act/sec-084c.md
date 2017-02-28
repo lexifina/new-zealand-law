@@ -1,5 +1,2 @@
 # 84C Court to request information about judgment debtor's means
-(1) If a judgment creditor makes an application in a form approved by the chief executive of the Ministry of Justice, the court must request the judgment debtor to provide the court with information about the judgment debtor's means for satisfying the judgment debt.
-(2) The request may be made by any means of communication that the court considers appropriate.
-(3) The information may be provided at any place and using any means of communication that the court considers appropriate; and the court may request the person providing the information to verify it on oath.
-(4) The jurisdiction of the court under this section may be exercised by the Registrar.
+[Repealed]

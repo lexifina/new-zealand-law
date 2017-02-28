@@ -1,6 +1,6 @@
 # 162B Fees and expenses of lawyer appointed under section 162 or 162A
 (1) The fees and expenses of a lawyer appointed under section 162 or 162A must—
-(a) be determined in accordance with regulations made under section 16D of the Family Courts Act 1980 or, if no such regulations are made, by the Registrar of the court; and
+(a) be determined in accordance with regulations made under section 16D of the Family Court Act 1980 or, if no such regulations are made, by the Registrar of the court; and
 (b) be paid in accordance with that determination out of public money appropriated by Parliament for the purpose.
 (2) An invoice rendered by a lawyer appointed under section 162 or 162A for fees and expenses must be given to the Registrar of the court in which the proceedings were heard, and the Registrar may decide to adjust the amount of the invoice.
 (3) A lawyer who is dissatisfied with the decision of the Registrar as to the amount of the invoice may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision, and the Judge may on the application make any order varying or confirming the decision that the Judge considers fair and reasonable.

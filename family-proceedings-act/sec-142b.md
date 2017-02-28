@@ -1,5 +1,5 @@
 # 142B Discharge, variation, etc, of child maintenance order
-(1) A District Court may, at any time, on the application of any person, make any of the following orders:
+(1) The District Court may, at any time, on the application of any person, make any of the following orders:
 (a) an order discharging a child maintenance order:
 (b) an order varying a child maintenance order:
 (c) an order suspending the operation of a child maintenance order for the purposes of New Zealand law:

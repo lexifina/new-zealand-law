@@ -1,5 +1,5 @@
 # 7A Lawyers acting for parties
-(1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in a Family Court only as provided in subsections (2) to (6).
+(1) A lawyer may act for a party to a proceeding under this Act that is to be heard and determined in the Family Court only as provided in subsections (2) to (6).
 (2) A lawyer may act for a party to a proceeding commenced by an application made under subpart 4 of Part 2.
 (3) A lawyer may act for a party to a proceeding if that party is the Crown.
 (4) A lawyer may act for a party to a proceeding that is—

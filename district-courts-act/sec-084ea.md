@@ -1,17 +1,2 @@
 # 84EA Power to arrest judgment debtor or officer
-(1) This section applies if a summons issued under section 84D or 84E cannot be served on a judgment debtor.
-(2) This section also applies if—
-(a) a summons was served on a judgment debtor at least 3 working days or any shorter period agreed under section 84D(5) or 84E(5) before the date of the hearing to which the summons relates; but
-(b) the judgment debtor fails to appear in person at the hearing or at any subsequent adjournment of the hearing.
-(3) This section applies in relation to a judgment debtor that is a body corporate if—
-(a) a summons was served on an officer of the judgment debtor (the relevant officer) at least 3 working days or any shorter period agreed under section 84D(5) or 84E(5) before the date of the hearing to which the summons relates; and
-(b) an officer of the judgment debtor (whether or not the relevant officer) fails to appear in person at the hearing or at any subsequent adjournment of the hearing.
-(4) The summons must not be enforced by committal, but a Judge or Registrar may issue a warrant to arrest the judgment debtor or relevant officer.
-(5) If the judgment debtor or relevant officer is arrested under this section, the following provisions apply:
-(a) the judgment debtor or relevant officer must be brought before a Judge or Registrar as soon as possible for the purpose of commencing or continuing the hearing:
-(b) the judgment debtor or relevant officer is bailable as of right:
-(c) section 168 of the Criminal Procedure Act 2011 and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if an appearance at the hearing before a Judge or Registrar constituted part of the hearing of a charge, and as if references in those provisions to a court included references to a Judge or Registrar:
-(d) if the judgment debtor or relevant officer cannot practicably be brought immediately before a Judge or Registrar, then a Police employee or bailiff may grant bail to the judgment debtor or relevant officer, and Parts 1 to 3 of the Bail Act 2000 apply, with any necessary modifications, as if the bail were granted by a Police employee under section 21(1) of that Act.
-(6) In this section, summons means—
-(a) a summons to attend a hearing under section 84D:
-(b) a summons to attend a financial assessment hearing.
+[Repealed]

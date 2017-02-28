@@ -1,3 +1,3 @@
 # 81B Procedure if offender convicted in District Court and court believes offender could be sentenced to life imprisonment
-(1) This section applies if a person is convicted by a District Court of an offence with a maximum penalty of life imprisonment, and the court has reason to believe that a sentence of life imprisonment may be appropriate.
+(1) This section applies if a person is convicted by the District Court of an offence with a maximum penalty of life imprisonment, and the court has reason to believe that a sentence of life imprisonment may be appropriate.
 (2) The court must transfer the offender to the High Court for sentence and make an entry in the permanent court record to the effect that the court has declined jurisdiction on the ground that it has reason to believe that the offender should be considered for a sentence of life imprisonment.

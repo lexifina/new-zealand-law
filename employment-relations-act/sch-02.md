@@ -43,9 +43,9 @@ Compare: 1991 No 22 s 96
 (b) the department must provide any amount fixed under subclause (3) as the amount required to be paid or tendered to that person.
 Compare: 1991 No 22 s 96
 7 Evidence at distance
-(1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
-(2) The provisions of the District Courts Act 1947 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Authority were a District Court.
-(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
+(1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the District Court Act 2016.
+(2) The provisions of the District Court Act 2016 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Authority were the District Court.
+(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of the District Court.
 Compare: 1991 No 22 s 96
 8 Power to take evidence on oath
 (1) The Authority may take evidence on oath and, for that purpose, any member of the Authority, or any other person acting under the express or implied direction of the Authority or a member of the Authority, may administer an oath.

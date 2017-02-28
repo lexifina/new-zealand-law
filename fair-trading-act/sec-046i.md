@@ -1,5 +1,5 @@
 # 46I Declaration of unfair contract terms
-(1) The High Court or a District Court may, on application by the Commission, declare that a term in a standard form consumer contract is an unfair contract term.
+(1) The High Court or the District Court may, on application by the Commission, declare that a term in a standard form consumer contract is an unfair contract term.
 (2) The court may make the declaration only if it is satisfied that—
 (a) the term is in a contract that is a consumer contract; and
 (b) the consumer contract is a standard form contract (as determined in accordance with section 46J); and

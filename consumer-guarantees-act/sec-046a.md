@@ -3,7 +3,7 @@
 (a) there has been a failure of the acceptable quality guarantee in section 7A in the supply of gas or electricity to a consumer by a retailer, as determined—
 (i) by the retailer; or
 (ii) if the retailer does not make a determination or if the retailer's determination is challenged, by the dispute resolution scheme following a complaint made under section 43EA of the Gas Act 1992 or under section 95 of the Electricity Industry Act 2010 (as the case requires); or
-(iii) by a court or a Disputes Tribunal (if a court or a Disputes Tribunal makes a determination on the issue); and
+(iii) by a court or the Disputes Tribunal (if a court or the Disputes Tribunal makes a determination on the issue); and
 (b) the failure of acceptable quality was wholly or partly the result of an event, circumstance, or condition associated with—
 (i) a gas pipeline or other equipment that was, at the time of the failure, the responsibility of a person then supplying line function services (a responsible party); or
 (ii) electricity lines or other equipment that was, at the time of the failure, the responsibility of a person (including Transpower (as defined in the Electricity Industry Act 2010)) then supplying line function services (a responsible party); and

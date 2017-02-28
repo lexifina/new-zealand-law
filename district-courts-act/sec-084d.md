@@ -1,23 +1,2 @@
 # 84D Court may order hearing if information about judgment debtor's means not provided, etc
-(1) This section applies if—
-(a) no information about the judgment debtor's means for satisfying the judgment debt is provided to the court following a request under section 84C; or
-(b) the court wishes to obtain information about the judgment debtor's means for satisfying the judgment debt in addition to information provided under section 84C before exercising its powers under section 84EC; or
-(c) a person providing information to the court under section 84C refuses to verify it on oath.
-(2) The court may issue a summons, in a form approved by the chief executive of the Ministry of Justice, requiring the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor to attend a hearing and be questioned by the court about the judgment debtor's means for satisfying the judgment debt.
-(3) If the court issues a summons, the court may also—
-(a) order any of the judgment debtor's books or other documents to be produced at the hearing:
-(b) order that the hearing be held at a place other than in a court:
-(c) impose such other terms and conditions as the court thinks proper in respect of the hearing.
-(4) The summons must be served on the judgment debtor by a person referred to in section 108A(3)(a) and, at the same time as the summons is served, the judgment debtor must be notified of the court's power to cancel the hearing in the circumstances referred to in subsection (6).
-(5) The hearing must not be held until at least 3 working days or any shorter period agreed by the judgment debtor has passed after the date on which the summons was served.
-(6) The court may cancel a hearing if, before the date of the hearing,—
-(a) such information about the judgment debtor's means for satisfying the judgment debt is provided that, in the opinion of the court, it is unnecessary for the hearing to take place; and
-(b) if the court so requests, the person providing the information verifies it on oath.
-(7) If a hearing takes place,—
-(a) the judgment debtor or, if the judgment debtor is a body corporate, an officer of the judgment debtor must appear in person:
-(b) the court may require the judgment debtor or officer and any witness to take an oath before giving evidence:
-(c) the judgment debtor may be represented by a barrister or solicitor who may question the judgment debtor or officer and be heard on the matter of the judgment debtor's means for satisfying the judgment debt:
-(d) the judgment debtor or officer may be questioned by the court:
-(e) any witness may be questioned by or on behalf of the judgment debtor or by the court.
-(8) A hearing may from time to time be adjourned by the court to a time and place to be appointed.
-(9) The jurisdiction of the court under this section may be exercised by the Registrar.
+[Repealed]

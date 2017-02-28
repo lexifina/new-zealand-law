@@ -2,7 +2,7 @@
 (1) The Attorney-General may appear and be heard, in person or by a barrister or solicitor,—
 (a) in proceedings before the Human Rights Review Tribunal alleging a breach of Part 1A, or alleging a breach of Part 2 by a person or body referred to in section 3 of the New Zealand Bill of Rights Act 1990:
 (b) in proceedings in any of the following courts in relation to proceedings of a kind referred to in paragraph (a) that are or have been before the Human Rights Review Tribunal:
-(i) a District Court:
+(i) the District Court:
 (ii) the High Court:
 (iii) the Court of Appeal:
 (iv) the Supreme Court.

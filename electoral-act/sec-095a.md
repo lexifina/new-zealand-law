@@ -4,7 +4,7 @@
 (b) the person who, under section 12(1) of the Protection of Personal and Property Rights Act 1988, is the welfare guardian for the person objected to; or
 (c) the attorney appointed by the person objected to under an enduring power of attorney,—
 notice in writing of the objection, which notice shall include both the name of the objector and the particulars specified by the objector (being particulars sufficient to inform the person objected to of the ground for the objection and the reason or reasons supporting the ground for objection).
-(2) Any notice issued under subsection (1) shall be served personally in accordance with the rules governing personal service contained in the District Courts Rules 1992.
+(2) Any notice issued under subsection (1) shall be served personally in accordance with the rules governing personal service contained in District Court Rules 2014.
 (3) The notice issued by the Registrar under subsection (1) shall also inform the person objected to—
 (a) that he or she may forward to the Registrar a statement signed by him or her giving reasons why his or her name should be retained on the roll; and
 (b) that his or her name will be retained on the roll if he or she provides the Registrar with evidence that satisfies the Registrar that the name of the person objected to should be retained on the roll; and

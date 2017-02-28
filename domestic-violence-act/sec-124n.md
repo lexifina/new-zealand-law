@@ -1,5 +1,5 @@
 # 124N Jurisdiction of District Court
-(1) If a District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, is satisfied that a person has refused or failed to comply with a Police safety order, the court may,—
+(1) If the District Court presided over by 1 or more Justices, or 1 or more Community Magistrates, is satisfied that a person has refused or failed to comply with a Police safety order, the court may,—
 (a) if the order has not expired, direct that another order, which is to continue in force for a period not exceeding 5 days specified by the court, be—
 (i) issued against the person in substitution of the earlier order for the safety of the person named in the earlier order; and
 (ii) served by a constable or officer of the court as soon as practicable; or
@@ -9,7 +9,7 @@
 (c) if it considers it appropriate in the circumstances to do so,—
 (i) adjourn the proceedings to a specified time and place to enable a District Court Judge to consider whether a temporary protection order should be issued under subsection (2)(b); and
 (ii) make a direction of the kind specified in paragraph (a) or (b), as the case may require.
-(2) If a District Court presided over by a District Court Judge is satisfied that a person has refused or failed to comply with a Police safety order, the Judge may—
+(2) If the District Court presided over by a District Court Judge is satisfied that a person has refused or failed to comply with a Police safety order, the Judge may—
 (a) make a direction of the kind specified in subsection (1)(a) or (b); or
 (b) issue, without application from any person, a temporary protection order under section 14 as if—
 (i) every reference in that section to the respondent were a reference to the person who the Judge is satisfied has refused or failed to comply with the Police safety order (person R); and

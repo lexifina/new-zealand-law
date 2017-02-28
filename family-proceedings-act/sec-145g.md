@@ -1,5 +1,5 @@
 # 145G Maintenance orders in respect of children
-(1) On hearing an application under section 145A(b), a Family Court may, subject to subsections (2) and (9), make any 1 or more of the following orders:
+(1) On hearing an application under section 145A(b), the Family Court may, subject to subsections (2) and (9), make any 1 or more of the following orders:
 (a) an order directing the respondent to pay such periodical sum towards the future maintenance of the child as the court thinks fit:
 (b) an order directing the respondent to pay such lump sum towards the future maintenance of the child as the court thinks fit:
 (c) an order directing the respondent to pay such lump sum towards the past maintenance of the child as the court thinks fit.

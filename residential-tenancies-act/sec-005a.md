@@ -8,6 +8,6 @@
 (3) No covenant or agreement, whether entered into before or after the commencement, on 19 September 1975, of the Property Law Amendment Act 1975 has, from that commencement, any force or effect to deprive the lessor or lessee of any dwellinghouse of any right, power, privilege, or other benefit provided for in any of the specified sections of the 1952 Act.
 (4) Subsection (3) does not apply in respect of any lease of a dwellinghouse if the rent thereby reserved does not exceed 50% of the equitable rent of the dwellinghouse.
 (5) Subsection (6) applies to a person who makes an assertion, for the purposes of subsection (4), that the rent reserved by the lease of a dwellinghouse does not exceed 50% of the equitable rent of that dwellinghouse.
-(6) It is for the person to prove the assertion by showing that the rent does not exceed 50% of the equitable rent of the dwellinghouse within the preceding period of 12 months as determined by a District Court—
+(6) It is for the person to prove the assertion by showing that the rent does not exceed 50% of the equitable rent of the dwellinghouse within the preceding period of 12 months as determined by the District Court—
 (a) on an application for the purpose by the person; and
 (b) applying section 8 of the Rent Appeal Act 1973.

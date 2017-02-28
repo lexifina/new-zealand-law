@@ -14,11 +14,11 @@ Vacation of office by members
 (3) A person may not do an act as a member while disqualified under subclause (1) or while on leave of absence under subclause (2).
 Compare: 1974 No 66 s 101X
 2 Ouster of office of member
-(1) On proof by affidavit that a member of a local authority is, or has become, or was at the date of appointment or election, incapable of holding office under this Act, a District Court may call on that person to show cause why he or she should not be adjudged to be ousted from office.
-(2) If a District Court concludes that the member is or was incapable of holding office, the court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
+(1) On proof by affidavit that a member of a local authority is, or has become, or was at the date of appointment or election, incapable of holding office under this Act, the District Court may call on that person to show cause why he or she should not be adjudged to be ousted from office.
+(2) If the District Court concludes that the member is or was incapable of holding office, the court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
 (3) In proceedings under this clause, the District Court may exercise all the powers and authorities that it may exercise in its ordinary jurisdiction in civil cases, and the procedure of the court applies generally, so far as practicable.
-(4) No matter in relation to a disputed appointment or election is to be heard by a District Court under this clause.
-(5) If a District Court adjudges that a member be ousted from his or her office,—
+(4) No matter in relation to a disputed appointment or election is to be heard by the District Court under this clause.
+(5) If the District Court adjudges that a member be ousted from his or her office,—
 (a) the decision is not to take effect—
 (i) until the expiration of the time for appealing against the decision; or
 (ii) if there is an appeal against the decision, until the appeal is determined; and

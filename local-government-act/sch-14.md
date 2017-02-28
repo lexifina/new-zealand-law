@@ -15,7 +15,7 @@ If a removal order is made under section 216, the Judge may, on application or o
 Compare: 1974 No 66 s 692ZD(4)
 3 Basis for removal order taking effect
 A removal order does not take effect unless—
-(a) a copy of the order is served in accordance with Part 8 of the District Courts Rules 2009 or in accordance with any directions given under clause 2 on—
+(a) a copy of the order is served in accordance with subpart 4 of Part 20 of the District Court Rules 2014 or in accordance with any directions given under clause 2 on—
 (i) the respondent; and
 (ii) if the respondent is not the owner of the property to which the order relates, the owner of the property; and
 (iii) any mortgagee of the property to which the order relates; and
@@ -41,12 +41,12 @@ Compare: 1974 No 66 s 692ZD(7)
 (3) The method of proving a previous conviction authorised by subclause (2) is in addition to, and not to the exclusion of, any other method of proof authorised by another enactment or rule of law.
 Compare: 1974 No 66 s 692ZE
 6 Form of removal order
-(1) Subject to subclause (2), a removal order must be in the form prescribed in Part 8 of the District Courts Rules 2009.
+(1) Subject to subclause (2), a removal order must be in the form prescribed in subpart 4 of Part 20 of the District Court Rules 2014.
 (2) If an objection is lodged under section 217(1) and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the court in accordance with clause 8(2) as the date by which compliance is required.
 Compare: 1974 No 66 s 692ZF
 7 Notice of objection to removal order
 (1) A notice of objection under section 217(1) must—
-(a) be in the form prescribed in Part 8 of the District Courts Rules 2009; and
+(a) be in the form prescribed in subpart 4 of Part 20 of the District Court Rules 2014; and
 (b) be lodged with the court and served on the applicant and, if the objector is not the respondent, the respondent, within 15 working days from the date on which the removal order was served on the objector, or within any further time that the court allows.
 (2) Subject to subclause (4), the Registrar must assign a date for an oral hearing of any objection as soon as practicable if the respondent or, if the respondent is not the owner of the property to which the order relates, the owner of the property—
 (a) objects to the making of the order; and

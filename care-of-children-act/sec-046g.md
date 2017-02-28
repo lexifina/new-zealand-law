@@ -1,5 +1,5 @@
 # 46G Counselling after proceedings commenced
-(1) This section applies after an application has been made to a Family Court for—
+(1) This section applies after an application has been made to the Family Court for—
 (a) a direction under section 46R; or
 (b) a parenting order under section 48.
 (2) A Family Court Judge may direct the Registrar of the court to refer the parties to the application to counselling services for either or both of the following purposes:

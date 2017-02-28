@@ -1,5 +1,5 @@
 # 122P Court order suspending account holder's account
-(1) A District Court may make a suspension order requiring an IPAP to suspend the Internet account of an account holder.
+(1) The District Court may make a suspension order requiring an IPAP to suspend the Internet account of an account holder.
 (2) A suspension order may be for any period up to 6 months.
 (3) The court may make an order under this section only if it is satisfied that—
 (a) at least 1 enforcement notice has been issued to the account holder in accordance with this Act; and
@@ -10,6 +10,6 @@
 (b) the identity (if known) of the user who engaged in the infringements identified in the notices; and
 (c) any other matter that may be specified in regulations; and
 (d) whether it would be manifestly unjust to suspend the account holder's account.
-(5) An application to a District Court for an order under this section must be made—
+(5) An application to the District Court for an order under this section must be made—
 (a) by the rights owner whose copyright is alleged to have been infringed; and
 (b) no later than 1 month after the rights owner receives the contact details of an account holder from an IPAP following an order made under section 122Q(2).

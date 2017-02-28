@@ -1,5 +1,5 @@
 # 46F Family dispute resolution after proceedings commenced
-(1) This section applies after an application has been made to a Family Court for—
+(1) This section applies after an application has been made to the Family Court for—
 (a) a direction under section 46R; or
 (b) a parenting order under section 48.
 (2) At any time before the application is finally determined, a Family Court Judge may direct the parties to attend family dispute resolution.

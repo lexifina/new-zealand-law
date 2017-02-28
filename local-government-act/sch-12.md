@@ -14,7 +14,7 @@ For the purposes of section 181(3)(b), the requirements are as follows:
 (i) to abandon the works proposed; or
 (ii) to proceed with the works proposed, with or without any alterations that the territorial authority thinks fit.
 2
-A person who is aggrieved by a determination of the territorial authority under clause 1(e) to proceed with the works proposed (with or without alterations) may appeal to a District Court against the determination within 14 days after the date of the determination.
+A person who is aggrieved by a determination of the territorial authority under clause 1(e) to proceed with the works proposed (with or without alterations) may appeal to the District Court against the determination within 14 days after the date of the determination.
 3
 Pending the decision of the court on the appeal, the territorial authority must not proceed with the works.
 4

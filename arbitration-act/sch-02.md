@@ -65,7 +65,7 @@ any party may, by written communication delivered to every such party, arbitrato
 (j) order any party to do all such other things during the arbitral proceedings as may reasonably be needed to enable an award to be made properly and efficiently:
 (k) make an interim, interlocutory or partial award.
 (2) Notwithstanding anything in article 5 of Schedule 1, the arbitral tribunal, or a party with the approval of the arbitral tribunal, may request from the court assistance in the exercise of any power conferred on the arbitral tribunal under subclause (1).
-(3) If a request is made under subclause (2), the High Court or a District Court shall have, for the purposes of the arbitral proceedings, the same power to make an order for the doing of any thing which the arbitral tribunal is empowered to order under subclause (1) as it would have in civil proceedings before that court.
+(3) If a request is made under subclause (2), the High Court or the District Court shall have, for the purposes of the arbitral proceedings, the same power to make an order for the doing of any thing which the arbitral tribunal is empowered to order under subclause (1) as it would have in civil proceedings before that court.
 4 Determination of preliminary point of law by court
 (1) Notwithstanding anything in article 5 of Schedule 1, on an application to the High Court by any party—
 (a) with the consent of the arbitral tribunal; or
@@ -114,5 +114,5 @@ the High Court may order the arbitral tribunal to release the award on such cond
 (5) An application may not be made under subclause (3) after 3 months have elapsed from the date on which the party making the application received any award or additional award fixing and allocating the costs and expenses of the arbitration.
 (6) There shall be no appeal from any decision of the High Court under this clause.
 7 Extension of time for commencing arbitration proceedings
-(1) Where an arbitration agreement provides that no arbitral proceedings are to be commenced unless steps have been taken to commence the proceedings within the time specified in the agreement, the High Court or a District Court, as the case may be, may, notwithstanding that the specified time has expired, extend the time for such period as it thinks fit, if, in its opinion, undue hardship would otherwise be caused to the parties.
+(1) Where an arbitration agreement provides that no arbitral proceedings are to be commenced unless steps have been taken to commence the proceedings within the time specified in the agreement, the High Court or the District Court, as the case may be, may, notwithstanding that the specified time has expired, extend the time for such period as it thinks fit, if, in its opinion, undue hardship would otherwise be caused to the parties.
 (2) An extension may be subject to any such conditions as the justice of the case may require.

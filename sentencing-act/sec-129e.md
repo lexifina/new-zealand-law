@@ -17,5 +17,5 @@
 (a) a ground stated in subsection (1)(a), (d), or (h) applies; or
 (b) another ground stated in that subsection applies to the appellant and to every other person who is treated as a substitute for the offender.
 (6) For the purposes of subsection (1),—
-(a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
+(a) if the order was made in the District Court, the appeal must be brought in the High Court in accordance with the High Court Rules 2016:
 (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.

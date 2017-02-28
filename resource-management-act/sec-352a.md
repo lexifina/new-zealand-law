@@ -8,6 +8,6 @@
 (a) where service is effected in accordance with subsection (1)(a), the time when the summons or other document is personally delivered to the agent of the ship or brought to that agent's attention, as the case may be; or
 (b) where service is effected in accordance with subsection (1)(b), the time when the letter would have been delivered to the agent of the ship in the ordinary course of post.
 (4) In this section,—
-District Court Judge means a District Court Judge appointed under the District Courts Act 1947
+District Court Judge means a District Court Judge appointed under the District Court Act 2016
 Justice has the same meaning as in section 2 of the Justice of the Peace Act 1957
 Registrar has the same meaning as in section 2(1) of the Criminal Procedure Act 2011.

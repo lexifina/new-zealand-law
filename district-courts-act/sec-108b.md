@@ -1,10 +1,2 @@
 # 108B Service provisions modified in special cases
-(1) If a document is served in accordance with this section, it is, for the purposes of section 108A, taken to be served on the recipient concerned.
-(2) If the recipient is a body corporate or a Crown organisation, a document may be served—
-(a) if it may be served under section 108A(1)(b) or (c), by being sent, in accordance with either of those paragraphs, to the body corporate or Crown organisation for the attention of an officer or employee of that body or organisation:
-(b) by being delivered to an officer or employee of the body corporate or Crown organisation at its head office, principal place of business, or registered office, or bringing it to the officer's notice or the employee's notice if that person refuses to accept it.
-(3) If a solicitor has signed a memorandum stating that the solicitor is authorised to accept service of a document on behalf of the recipient, the document may be served on the solicitor in any way authorised by section 108A.
-(4) In addition to the ways of service authorised by section 108A, a document may be served by delivering or sending it to, or by leaving it with,—
-(a) in the case of a recipient who lives or works on board a vessel (including a vessel belonging to the Royal New Zealand Navy), the person on board who is apparently in charge of the vessel:
-(b) in the case of a recipient who is a member of the New Zealand Armed Forces, the officer apparently in command of the unit or detachment to which the recipient belongs:
-(c) in the case of a recipient who is a prisoner, the manager or other officer apparently in charge of the prison.
+[Repealed]

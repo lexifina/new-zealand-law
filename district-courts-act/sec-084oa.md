@@ -1,12 +1,2 @@
 # 84OA Process for dealing with application for contempt procedures
-(1) On receipt of an application under section 84O(3), the Registrar must—
-(a) appoint a time and place for the hearing of the application if satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so; or
-(b) if not so satisfied, refer the application to a Judge.
-(2) On the referral of the application under subsection (1)(b), the Judge must—
-(a) deal with the application on the papers; and
-(b) consider whether he or she is satisfied, on the basis of information provided with the application, that the judgment debtor has sufficient means to pay the judgment debt but refuses to do so.
-(3) If the Judge is so satisfied, he or she must direct the Registrar to appoint a time and place for the hearing of the application.
-(4) If the Judge is not so satisfied, he or she must decline the application.
-(5) If the Registrar appoints a time and place for the hearing of the application under subsection (1)(a) or (3), the judgment debtor must be served with a copy of the application, and a notice of the time and place so appointed, by a person referred to in section 108A(3)(c).
-(6) The Registrar must notify the judgment creditor of the time and place so appointed.
-(7) If the application is declined under subsection (4), the Registrar must notify the judgment creditor that the application has been declined.
+[Repealed]

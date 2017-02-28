@@ -1,5 +1,5 @@
 # 206G Leave to pay claim after time limitation
-(1) On the application of a claimant or a party, a District Court may make an order granting leave to a party to pay—
+(1) On the application of a claimant or a party, the District Court may make an order granting leave to a party to pay—
 (a) a claim for election expenses sent after the period specified in section 206E(1); or
 (b) a claim not paid in the period specified in section 206E(2); or
 (c) a disputed claim in respect of which an action was not brought within the period specified in section 206F(1)(b).

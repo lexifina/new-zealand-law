@@ -1,7 +1,2 @@
 # 10A Retired Judges may act
-(1) Any person who has retired from office as a Judge on attaining the age of 70 years, or who has sooner resigned, may be appointed from time to time as an acting Judge by the Governor-General by warrant under his hand.
-(1A) Notwithstanding section 28B, any person so appointed may, at the same time or at any subsequent time during the term of his appointment, be appointed to exercise the criminal jurisdiction of the courts under Part 2A; and any such appointment shall take effect during any period when, and in any place where, that person is entitled under subsection (4) to act as a Judge.
-(2) Notwithstanding the provisions of section 435 of the Children, Young Persons, and Their Families Act 1989, any person so appointed may at the same time or at any subsequent time during the term of that person's appointment be designated as a Youth Court Judge, and any such designation shall take effect during any period when and in any place where pursuant to subsection (4) that person is entitled to act as a Judge.
-(3) Each such appointment shall be for a term not exceeding 2 years or, if the person has attained the age of 72 years, not exceeding 12 months.
-(4) During the term of the warrant, the person so appointed may act as a District Court Judge during such period or periods only and in such place or places only as the Chief District Court Judge may fix.
-(5) Every acting Judge so appointed shall, during the period when he acts as a Judge, but not otherwise, be paid a salary at the rate for the time being prescribed for Judges under section 6 and during that period he shall have all the jurisdiction, powers, protections, privileges, and immunities of a Judge.
+[Repealed]

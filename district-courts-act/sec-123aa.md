@@ -1,6 +1,2 @@
 # 123AA Chief executive of Ministry of Justice may approve forms
-(1) The chief executive of the Ministry of Justice may approve and issue forms that the chief executive considers necessary for the purposes of this Act, not being forms required to be prescribed by regulations or rules made under this Act.
-(2) Without limiting subsection (1),—
-(a) more than 1 form may be approved and issued in relation to the same matter; and
-(b) a form may be described by any name that the chief executive considers appropriate even though it relates to a matter that is described by a different name under this Act, so long as the form refers to the appropriate provision of this Act.
-(3) Every document purporting to be a form approved and issued by the chief executive under and for the purposes of this Act is deemed to have been so approved and issued unless the chief executive otherwise certifies.
+[Repealed]

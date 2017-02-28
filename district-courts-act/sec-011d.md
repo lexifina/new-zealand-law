@@ -1,7 +1,2 @@
 # 11D Chief Community Magistrate
-(1) The Governor-General may from time to time, by warrant under the Governor-General's hand and on the advice of the Minister of Justice, appoint a Chief Community Magistrate.
-(2) No person may be appointed as Chief Community Magistrate unless that person has held a practising certificate as a barrister or solicitor for at least 5 years.
-(3) The criteria and procedures for appointment of a person as Chief Community Magistrate may be prescribed by regulations made under section 123; but the failure to make any such regulations does not preclude the appointment of a person as Chief Community Magistrate.
-(4) Subject to subsection (5), the Chief Community Magistrate holds office so long as he or she holds office as a Community Magistrate.
-(5) With the prior approval of the Governor-General, the Chief Community Magistrate may resign that office without resigning his or her office as a Community Magistrate.
-(6) Whenever by reason of illness, absence from New Zealand, or any other cause the Chief Community Magistrate is prevented from exercising the duties of his or her office, the Governor-General may, by writing under his or her hand, appoint 1 of the other Community Magistrates to act as Chief Community Magistrate until the Chief Community Magistrate resumes his or her duties and, during that period, to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Community Magistrate.
+[Repealed]

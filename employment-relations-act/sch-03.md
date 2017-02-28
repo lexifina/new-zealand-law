@@ -50,9 +50,9 @@ Compare: 1991 No 22 s 126(2)(a), (b)
 (4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the court or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 Compare: 1991 No 22 s 126(2)(d)
 8 Evidence at distance
-(1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
-(2) The provisions of the District Courts Act 1947 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were a District Court.
-(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
+(1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the District Court Act 2016.
+(2) The provisions of the District Court Act 2016 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were the District Court.
+(3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of the District Court.
 Compare: 1991 No 22 s 126(2)(f)
 9 Power to take evidence on oath
 (1) The court may take evidence on oath, and for that purpose any Judge, or any other person acting under the express or implied direction of the court or a Judge, may administer an oath.
@@ -69,8 +69,8 @@ Compare: 1991 No 22 s 126(3)
 (2) Where proceedings are resolved by the court making a consent order as to the terms of settlement, the court may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the court thinks fit.
 Compare: 1991 No 22 s 109
 13 Discovery
-(1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that a District Court may make under section 56A or 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
-(2) Every application for an order under section 56A or section 56B of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
+(1) The court may, in relation to discovery that relates to proceedings brought or intended to be brought in the court, or intended to be brought in the Authority, make any order that the District Court may make under section 105 or 106 of the District Court Act 2016; and those sections apply accordingly with all necessary modifications.
+(2) Every application for an order under section 105 or 106 of the District Court Act 2016 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 (3) Nothing in subclauses (1) and (2) limits the making of rules under section 212 or regulations under section 237.
 14 Power to award interest
 (1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.

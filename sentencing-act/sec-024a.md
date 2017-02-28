@@ -1,6 +1,6 @@
 # 24A Adjournment for restorative justice process in certain cases
 (1) This section applies if—
-(a) an offender appears before a District Court at any time before sentencing; and
+(a) an offender appears before the District Court at any time before sentencing; and
 (b) the offender has pleaded guilty to the offence; and
 (c) there are 1 or more victims of the offence; and
 (d) no restorative justice process has previously occurred in relation to the offending; and
