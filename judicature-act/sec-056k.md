@@ -1,3 +1,2 @@
 # 56K Issue of subpoenas in Australian proceedings
-(1) An order of subpoena that is issued by the Federal Court with the leave of a Judge of that court requiring the attendance of a person in New Zealand to testify or to produce documents for the purposes of an Australian proceeding may be served on that person in New Zealand by leaving a sealed copy of the subpoena with that person personally together with a statement setting out the rights and obligations of that person, including information as to the manner in which application may be made to that court to have the subpoena set aside.
-(2) A person who has been served with an order of subpoena under subsection (1) is not compellable to comply with the order unless, at the time of service of the order or at some other reasonable time before the hearing, allowances and travelling expenses or vouchers sufficient to enable that person to comply with the order are tendered or paid to that person.
+[Repealed]

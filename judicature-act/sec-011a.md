@@ -1,5 +1,2 @@
 # 11A Former Judges
-(1) Subject to section 11B, the Governor-General may, in the name and on behalf of Her Majesty, appoint any former Judge to be an acting Judge for such term not exceeding 2 years or, if the former Judge has attained the age of 72 years, not exceeding 1 year, as the Governor-General may specify.
-(2) During the term of his appointment, the former Judge may act as a Judge during such period or periods only and in such place or places only as the Chief High Court Judge may determine.
-(3) Every former Judge appointed under this section shall, during each period when he acts as a Judge, but not otherwise, be paid a salary at the rate for the time being payable by law to a Judge other than the Chief Justice or the President of the Court of Appeal or a Judge of the Court of Appeal, and must also be paid the higher duties allowance payable and calculated under section 9A(1)(ba) and (1A) and such travelling allowances or other incidental or minor allowances as may be fixed from time to time by the Governor-General.
-(4) Every former Judge appointed under this section shall, during each period when he acts as a Judge, have all the jurisdiction, powers, protections, privileges, and immunities of a Judge.
+[Repealed]

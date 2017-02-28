@@ -1,3 +1,2 @@
 # 58G Authority of High Court Judges
-(1) The fact that a Judge of the High Court acts as a Judge of the Court of Appeal is conclusive evidence of the Judge's authority to do so, and no judgment or determination given or made by the Court of Appeal while the Judge so acts may be questioned on the ground that the occasion for the Judge so acting had not arisen or had ceased to exist.
-(2) A Judge of the High Court who has acted as a Judge of the Court of Appeal may attend sittings of the Court of Appeal for the purpose of giving any judgment or passing sentence in or otherwise completing any proceeding in relation to any case that has been heard by the Judge while he or she so acted.
+[Repealed]

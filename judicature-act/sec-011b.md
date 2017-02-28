@@ -1,2 +1,2 @@
 # 11B Certificate by Chief Justice and Chief High Court Judge
-No appointment may be made under section 11 or section 11A except on a certificate signed by the Chief Justice and the Chief High Court Judge to the effect that, in their opinion, it is necessary for the due conduct of the court's business that 1 or more temporary Judges, or (as the case may require) 1 or more acting Judges, be appointed.
+[Repealed]

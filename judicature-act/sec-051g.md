@@ -1,3 +1,2 @@
 # 51G Jurisdiction of court to award costs in all cases
-(1) Where any Act confers jurisdiction on the High Court or a Judge thereof in regard to any civil proceedings or any criminal proceedings or any appeal, without expressly conferring jurisdiction to award or otherwise deal with the costs of the proceedings or appeal, jurisdiction to award and deal with those costs and to make and enforce orders relating thereto shall be deemed to be also conferred on the court or Judge.
-(2) Such costs shall be in the discretion of the court or Judge, and may, if the court or Judge thinks fit, be ordered to be charged upon or paid out of any fund or estate before the court.
+[Repealed]

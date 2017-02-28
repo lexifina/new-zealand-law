@@ -1,13 +1,2 @@
 # 19A Certain civil proceedings may be tried by jury
-(1) This section applies to civil proceedings in which the only relief claimed is payment of a debt or pecuniary damages or the recovery of chattels.
-(2) If the debt or damages or the value of the chattels claimed in any civil proceedings to which this section applies exceeds $3,000, either party may have the civil proceedings tried before a Judge and a jury on giving notice to the court and to the other party, within the time and in the manner prescribed by the High Court Rules, that he requires the civil proceedings to be tried before a jury.
-(3) Notwithstanding anything in subsection (2), in any case where, after notice has been given pursuant to that subsection but before the trial has commenced, the debt or damages or the value of the chattels claimed is reduced to $3,000 or less, the civil proceedings shall be tried before a Judge without a jury.
-(4) If, in any civil proceedings to which this section applies, the defendant sets up a counterclaim, then, unless pursuant to this section the civil proceedings and the counterclaim are both to be tried before a Judge without a jury, the following provisions shall apply:
-(a) on the application of either party made with the consent in writing of the other party, both the civil proceedings and counterclaim shall be tried before a Judge without a jury, or before a Judge with a jury, whichever is specified in the application:
-(b) if no such application is made, the civil proceedings and the counterclaim shall, subject to any direction of the court or a Judge under section 19B, be tried in accordance with the foregoing provisions of this section:
-provided that if the court or a Judge orders that the civil proceedings and the counterclaim be tried together, they shall be tried before a Judge with a jury.
-(5) Notwithstanding anything to the contrary in the foregoing provisions of this section, in any case where notice is given as aforesaid requiring any civil proceedings to be tried before a jury, if it appears to a Judge before the trial—
-(a) that the trial of the civil proceedings or any issue therein will involve mainly the consideration of difficult questions of law; or
-(b) that the trial of the civil proceedings or any issue therein will require any prolonged examination of documents or accounts, or any investigation in which difficult questions in relation to scientific, technical, business, or professional matters are likely to arise, being an examination or investigation which cannot conveniently be made with a jury,—
-the Judge may, on the application of either party, order that the civil proceedings or issue be tried before a Judge without a jury.
-(6) Nothing in this section shall apply in respect of any civil proceedings to be heard by the court in its admiralty jurisdiction.
+[Repealed]

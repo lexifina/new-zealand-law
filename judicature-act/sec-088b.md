@@ -1,4 +1,2 @@
 # 88B Restriction on institution of vexatious actions
-(1) If, on an application made by the Attorney-General under this section, the High Court is satisfied that any person has persistently and without any reasonable ground instituted vexatious legal proceedings, whether in the High Court or in any inferior court, and whether against the same person or against different persons, the court may, after hearing that person or giving him an opportunity of being heard, order that no civil proceeding or no civil proceeding against any particular person or persons shall without the leave of the High Court or a Judge thereof be instituted by him in any court and that any civil proceeding instituted by him in any court before the making of the order shall not be continued by him without such leave.
-(2) Leave may be granted subject to such conditions (if any) as the court or Judge thinks fit and shall not be granted unless the court or Judge is satisfied that the proceeding is not an abuse of the process of the court and that there is prima facie ground for the proceeding.
-(3) No appeal shall lie from an order granting or refusing such leave.
+[Repealed]

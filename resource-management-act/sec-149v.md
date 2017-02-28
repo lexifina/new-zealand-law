@@ -7,8 +7,8 @@
 (c) the High Court Rules 2016 apply if a procedural matter is not dealt with in the sections.
 (4) If the appeal is from a decision of the Environment Court, section 299 applies to the appeal.
 (5) No appeal may be made to the Court of Appeal from a determination of the High Court under this section.
-(6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 12 to 15 of the Supreme Court Act 2003 apply with any necessary modifications.
-(7) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under section 14 of the Supreme Court Act 2003), but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
+(6) However, a party may apply to the Supreme Court for leave to bring an appeal to that court against a determination of the High Court and, for this purpose, sections 73 to 76 of the Senior Courts Act 2016 apply with any necessary modifications.
+(7) If the Supreme Court refuses to give leave for an appeal (on the grounds that exceptional circumstances have not been established under section 75 of the Senior Courts Act 2016), but considers that a further appeal from the determination of the High Court is justified, the court may remit the proposed appeal to the Court of Appeal.
 (8) No appeal may be made from any appeal determined by the Court of Appeal in accordance with subsection (7).
 (9) Despite any enactment to the contrary,—
 (a) an application for leave for the purposes of subsection (6) must be filed no later than 10 working days after the determination of the High Court; and
