@@ -75,8 +75,7 @@ Chapter 8
 Recognition and enforcement of awards
 35 Recognition and enforcement
 36 Grounds for refusing recognition or enforcement
-Chapter 1
-General provisions
+Chapter 1 General provisions
 1 Scope of application
 (1) This schedule applies as provided in sections 6, 7, 8, and 9.
 (2) (deleted)
@@ -109,8 +108,7 @@ A party who knows that any provision of this schedule from which the parties may
 In matters governed by this schedule, no court shall intervene except where so provided in this schedule.
 6 Court or other authority for certain functions of arbitration assistance and supervision
 Any court having jurisdiction may perform any function conferred on a court by these articles, except where the article provides that the function shall be performed by a specified court or courts.
-Chapter 2
-Arbitration agreement
+Chapter 2 Arbitration agreement
 7 Form of arbitration agreement
 (1) An arbitration agreement may be made orally or in writing. Subject to section 11, an arbitration agreement may be in the form of an arbitration clause in a contract or in the form of a separate agreement.
 (2) A reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement, provided that the reference is such as to make that clause part of the contract.
@@ -119,10 +117,9 @@ Arbitration agreement
 (2) Where proceedings referred to in paragraph (1) have been brought, arbitral proceedings may nevertheless be commenced or continued, and an award may be made, while the issue is pending before the court.
 9 Arbitration agreement and interim measures by court
 (1) It is not incompatible with an arbitration agreement for a party to request, before or during arbitral proceedings, from a court an interim measure and for a court to grant such measure.
-(2) For the purposes of paragraph (1), the High Court or a District Court has the same powers as an arbitral tribunal to grant an interim measure under article 17A for the purposes of proceedings before that court, and that article and article 17B apply accordingly subject to all necessary modifications.
+(2) For the purposes of paragraph (1), the High Court or the District Court has the same powers as an arbitral tribunal to grant an interim measure under article 17A for the purposes of proceedings before that court, and that article and article 17B apply accordingly subject to all necessary modifications.
 (3) Where a party applies to a court for an interim injunction or other interim order and an arbitral tribunal has already ruled on any matter relevant to the application, the court shall treat the ruling or any finding of fact made in the course of the ruling as conclusive for the purposes of the application.
-Chapter 3
-Composition of arbitral tribunal
+Chapter 3 Composition of arbitral tribunal
 10 Number of arbitrators
 (1) The parties are free to determine the number of arbitrators.
 (2) Failing such determination,—
@@ -132,18 +129,22 @@ Composition of arbitral tribunal
 (1) No person shall be precluded by reason of that person's nationality from acting as an arbitrator, unless otherwise agreed by the parties.
 (2) The parties are free to agree on a procedure of appointing the arbitrator or arbitrators, subject to the provisions of paragraphs (4) and (5).
 (3) Failing such agreement,—
-(a) in an arbitration with 3 arbitrators and 2 parties, each party shall appoint 1 arbitrator, and the 2 arbitrators thus appointed shall appoint the third arbitrator; if a party fails to appoint the arbitrator within 30 days of receipt of a request to do so from the other party, or if the 2 arbitrators fail to agree on the third arbitrator within 30 days of their appointment, the appointment shall be made, upon request of a party, by the High Court:
-(b) in an arbitration with a sole arbitrator, if the parties are unable to agree on the arbitrator, that arbitrator shall be appointed, upon request of a party, by the High Court.
+(a) in an arbitration with 3 arbitrators and 2 parties, each party shall appoint 1 arbitrator, and the 2 arbitrators thus appointed shall appoint the third arbitrator; if a party fails to appoint the arbitrator within 30 days of receipt of a request to do so from the other party, or if the 2 arbitrators fail to agree on the third arbitrator within 30 days of their appointment, the appointment shall be made, upon request of a party, by the appointed body:
+(b) in an arbitration with a sole arbitrator, if the parties are unable to agree on the arbitrator, that arbitrator shall be appointed, upon request of a party, by the appointed body.
 (4) Where, under an appointment procedure agreed upon by the parties,—
 (a) a party fails to act as required under such procedure; or
 (b) the parties, or 2 arbitrators, are unable to reach an agreement expected of them under such procedure; or
 (c) a third party, including an institution, fails to perform any function entrusted to it under such procedure,—
-any party may request the High Court to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.
-(5) A decision on a matter entrusted by paragraphs (3), (4), or (6) to the High Court shall be subject to no appeal. The court, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall, in the case of an international arbitration, take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
+any party may request the appointed body to take the necessary measure, unless the agreement on the appointment procedure provides other means for securing the appointment.
+(5) A decision on a matter entrusted by paragraphs (3), (4), or (6) to the appointed body shall be subject to no appeal. The appointed body, in appointing an arbitrator, shall have due regard to any qualifications required of the arbitrator by the agreement of the parties and to such considerations as are likely to secure the appointment of an independent and impartial arbitrator and, in the case of a sole or third arbitrator, shall, in the case of an international arbitration, take into account as well the advisability of appointing an arbitrator of a nationality other than those of the parties.
 (6) In an arbitration, where—
 (a) the parties have agreed to an arbitration with 2 or 4 or more arbitrators; or
 (b) there are 3 arbitrators and more than 2 parties,—
-and no procedure for the appointment of arbitrators has been agreed upon, the High Court may, upon request of a party, appoint the requisite number of arbitrators, having due regard to the matters referred to in paragraph (5).
+and no procedure for the appointment of arbitrators has been agreed upon, the appointed body may, upon request of a party, appoint the requisite number of arbitrators, having due regard to the matters referred to in paragraph (5).
+(7) A party may apply to the High Court to appoint an arbitrator or arbitrators if—
+(a) the appointed body is unable or fails to appoint an arbitrator under paragraph (3) within 30 days of receiving a request to do so; or
+(b) a dispute arises in respect of the appointment process that the appointed body uses.
+(8) In this article, appointed body means a body that the Minister of Justice has appointed under section 6A.
 12 Grounds for challenge
 (1) A person who is approached in connection with that person's possible appointment as an arbitrator shall disclose any circumstances likely to give rise to justifiable doubts as to that person's impartiality or independence. An arbitrator, from the time of appointment and throughout the arbitral proceedings, shall without delay disclose any such circumstances to the parties unless they have already been informed of them by that arbitrator.
 (2) An arbitrator may be challenged only if circumstances exist that give rise to justifiable doubts as to that arbitrator's impartiality or independence, or if that arbitrator does not possess qualifications agreed to by the parties. A party may challenge an arbitrator appointed by that party, or in whose appointment that party has participated, only for reasons of which that party becomes aware after the appointment has been made.
@@ -160,14 +161,12 @@ and no procedure for the appointment of arbitrators has been agreed upon, the Hi
 (a) where the sole or the presiding arbitrator is replaced, any hearings previously held shall be repeated; and
 (b) where an arbitrator, other than a sole or a presiding arbitrator is replaced, any hearings previously held may be repeated at the discretion of the arbitral tribunal.
 (3) Unless otherwise agreed by the parties, an order or ruling of the arbitral tribunal made prior to the replacement of an arbitrator under this article is not invalid solely because there has been a change in the composition of the arbitral tribunal.
-Chapter 4
-Jurisdiction of arbitral tribunal
+Chapter 4 Jurisdiction of arbitral tribunal
 16 Competence of arbitral tribunal to rule on its jurisdiction
 (1) The arbitral tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the arbitration agreement. For that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the arbitral tribunal that the contract is null and void shall not entail ipso jure (necessarily) the invalidity of the arbitration clause.
 (2) A plea that the arbitral tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence. A party is not precluded from raising such a plea by the fact that that party has appointed, or participated in the appointment of, an arbitrator. A plea that the arbitral tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The arbitral tribunal may, in either case, admit a later plea if it considers the delay justified.
 (3) The arbitral tribunal may rule on a plea referred to in paragraph (2) either as a preliminary question or in an award on the merits. If the arbitral tribunal rules on such a plea as a preliminary question, any party may request, within 30 days after having received notice of that ruling, the High Court to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the arbitral tribunal may continue the arbitral proceedings and make an award.
-Chapter 4A
-Interim measures and preliminary orders
+Chapter 4A Interim measures and preliminary orders
 Preliminary
 17 Interpretation
 In this Chapter, unless the context otherwise requires,—
@@ -257,8 +256,7 @@ Recognition and enforcement of interim measures
 (ii) any of the grounds set out in article 36(1)(b) apply to the recognition and enforcement of the interim measure.
 (2) A determination made by the court on any ground in paragraph (1) is effective only for the purposes of the application to recognise and enforce the interim measure.
 (3) The court must not, in making that determination, undertake a review of the substance of the interim measure.
-Chapter 5
-Conduct of arbitral proceedings
+Chapter 5 Conduct of arbitral proceedings
 18 Equal treatment of parties
 The parties shall be treated with equality and each party shall be given a full opportunity of presenting that party's case.
 19 Determination of rules of procedure
@@ -295,14 +293,13 @@ Unless otherwise agreed by the parties, if, without showing sufficient cause,—
 27 Court assistance in taking evidence
 (1) The arbitral tribunal or a party with the approval of the arbitral tribunal may request from the court assistance in taking evidence. The court may execute the request within its competence and according to its rules on taking evidence.
 (2) For the purposes of paragraph (1),—
-(a) the High Court may make an order of subpoena or a District Court may issue a witness summons to compel the attendance of a witness before an arbitral tribunal to give evidence or produce documents:
-(b) the High Court or a District Court may order any witness to submit to examination on oath or affirmation before the arbitral tribunal, or before an officer of the court, or any other person for the use of the arbitral tribunal:
-(c) the High Court or a District Court shall have, for the purpose of the arbitral proceedings, the same power as it has for the purpose of proceedings before that court to make an order for—
+(a) the High Court may make an order of subpoena or the District Court may issue a witness summons to compel the attendance of a witness before an arbitral tribunal to give evidence or produce documents:
+(b) the High Court or the District Court may order any witness to submit to examination on oath or affirmation before the arbitral tribunal, or before an officer of the court, or any other person for the use of the arbitral tribunal:
+(c) the High Court or the District Court shall have, for the purpose of the arbitral proceedings, the same power as it has for the purpose of proceedings before that court to make an order for—
 (i) the discovery of documents and interrogatories:
 (ii) the issue of a commission or request for the taking of evidence out of the jurisdiction:
 (iii) the detention, preservation, or inspection of any property or thing which is in issue in the arbitral proceedings and authorising for any of those purposes any person to enter upon any land or building in the possession of a party, or authorising any sample to be taken or any observation to be made or experiment to be tried which may be necessary or expedient for the purpose of obtaining full information or evidence.
-Chapter 6
-Making of award and termination of proceedings
+Chapter 6 Making of award and termination of proceedings
 28 Rules applicable to substance of dispute
 (1) The arbitral tribunal shall decide the dispute in accordance with such rules of law as are chosen by the parties as applicable to the substance of the dispute. Any designation of the law or legal system of a given State shall be construed, unless otherwise expressed, as directly referring to the substantive law of that State and not to its conflict of laws rules.
 (2) Failing any designation by the parties, the arbitral tribunal shall apply the law determined by the conflict of laws rules which it considers applicable.
@@ -337,8 +334,7 @@ If the arbitral tribunal considers the request to be justified, it shall make th
 (3) Unless otherwise agreed by the parties, a party, with notice to the other party, may request, within 30 days of receipt of the award, the arbitral tribunal to make an additional award as to claims presented in the arbitral proceedings but omitted from the award. If the arbitral tribunal considers the request to be justified, it shall make the additional award within 60 days.
 (4) The arbitral tribunal may extend, if necessary, the period of time within which it shall make a correction, interpretation, or an additional award under paragraphs (1) or (3).
 (5) The provisions of article 31 shall apply to a correction or interpretation of the award or to an additional award.
-Chapter 7
-Recourse against award
+Chapter 7 Recourse against award
 34 Application for setting aside as exclusive recourse against arbitral award
 (1) Recourse to a court against an arbitral award may be made only by an application for setting aside in accordance with paragraphs (2) and (3).
 (2) An arbitral award may be set aside by the High Court only if—
@@ -358,8 +354,7 @@ Recourse against award
 (b) a breach of the rules of natural justice occurred—
 (i) during the arbitral proceedings; or
 (ii) in connection with the making of the award.
-Chapter 8
-Recognition and enforcement of awards
+Chapter 8 Recognition and enforcement of awards
 35 Recognition and enforcement
 (1) An arbitral award, irrespective of the country in which it was made,—
 (a) must be recognised as binding; and
@@ -370,7 +365,7 @@ Recognition and enforcement of awards
 (c) if the award or agreement is not made in the English language, a duly certified translation into the English language of either or both documents.
 (3) For the purposes of this article, court means—
 (a) the High Court; or
-(b) a District Court in any case where the amount of any money made payable by the award does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases.
+(b) the District Court in any case where the amount of any money made payable by the award does not exceed the amount to which the jurisdiction of the District Court is limited in civil cases.
 36 Grounds for refusing recognition or enforcement
 (1) Recognition or enforcement of an arbitral award, irrespective of the country in which it was made, may be refused only—
 (a) at the request of the party against whom it is invoked, if that party furnishes to the court where recognition or enforcement is sought proof that—
