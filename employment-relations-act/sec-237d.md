@@ -1,0 +1,12 @@
+# 237D Reviews of decisions of Registrars concerning fees
+(1) A person who disagrees with a decision of a Registrar of the court under regulations made under section 237B(1) may apply to a Judge for a review of that decision.
+(2) The application must be made within—
+(a) 20 working days after the date on which the applicant is notified of the decision; or
+(b) any further time that the Judge allows on application, which may be made either before or after the expiry of that period.
+(3) The application may be made informally.
+(4) A review is—
+(a) conducted by way of rehearing of the matter in respect of which the Registrar of the court made the decision; and
+(b) dealt with on the papers, unless the Judge directs otherwise.
+(5) The Judge may confirm, modify, or reverse the decision of the Registrar of the court.
+(6) No fee is payable on the application.
+Compare: 1947 No 16 s 123A

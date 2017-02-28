@@ -3,7 +3,8 @@ ss 5A, 254
 1 Interpretation
 In this schedule,—
 2014 Act means the Employment Relations Amendment Act 2014
-2016 Act means the Employment Relations Amendment Act 2016.
+2016 Act means the Employment Relations Amendment Act 2016
+2016 (No 2) Act means the Employment Relations Amendment Act (No 2) 2016.
 2 Application, savings, and transitional provisions arising from 2014 Act
 Amendments to section 4 (Parties to employment relationship to deal with each other in good faith)
 (1) Despite the amendments made to section 4 of this Act by section 4 of the 2014 Act, section 4 of this Act (as it was immediately before it was amended by the 2014 Act) continues to apply in relation to proposed decisions referred to in section 4 of this Act—
@@ -47,3 +48,5 @@ Repeal of section 237A
 (a) apply only to proceedings filed after the commencement of the 2016 Act; but
 (b) may apply to conduct whether it occurred before, on, or after the commencement of the 2016 Act.
 (7) Section 234 (which relates to the circumstances in which officers, directors, or agents of a company are liable for minimum wages and holiday pay) continues to apply (despite its repeal by section 35 of the 2016 Act) to proceedings brought in relation to conduct that occurred before the commencement of the 2016 Act, whether or not the proceedings were brought before that commencement.
+4 Application, savings, and transitional provision arising from 2016 (No 2) Act
+A person holding office as a temporary Judge under section 207 immediately before the commencement of this clause continues to hold office on the same terms as if he or she were appointed as an acting Judge under section 207.
