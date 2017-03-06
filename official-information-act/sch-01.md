@@ -49,7 +49,7 @@ Provincial Patriotic Councils
 Public Advisory Committee on Disarmament and Arms Control
 Public Trust
 Queen Elizabeth the Second National Trust
-Radiation Protection Advisory Council
+Radiation Safety Advisory Council
 Radio New Zealand Limited
 Related companies of State enterprises (within the meaning of section 2(1A))
 Remuneration Authority
