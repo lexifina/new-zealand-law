@@ -1,6 +1,6 @@
 # 174D Conditions for counting early votes before close of poll
-(1) In this section and in sections 174E to 174G, restricted area means an area, in the office of the Returning Officer, that—
-(a) is designated by the Returning Officer for the purpose of the count of early votes; and
+(1) In this section and in sections 174E to 174G, restricted area means an area that—
+(a) is designated by the Electoral Commission for the purpose of the count of early votes; and
 (b) has features that—
 (i) preclude persons who are not in the area from seeing or hearing any aspect of the count; and
 (ii) permit the Returning Officer to control persons who wish to enter or leave the area.

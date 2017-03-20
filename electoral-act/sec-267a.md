@@ -8,7 +8,7 @@
 (b) the procedures to be followed by any person before displaying an advertisement of a specified kind.
 (2) Regulations made under subsection (1)(a)—
 (a) may be made only for the purpose of ensuring that an advertisement of a specified kind does not endanger the safety of road users; and
-(b) apply only during the period beginning 2 months before polling day and ending with the close of the day before polling day.
+(b) apply only during the period beginning 9 weeks before polling day and ending with the close of the day before polling day.
 (3) Regulations made under subsection (1) may—
 (a) impose different requirements for an advertisement of a specified kind depending on how it is published:
 (b) override or modify any other enactment and any bylaw or other instrument.

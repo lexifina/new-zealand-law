@@ -4,10 +4,10 @@
 (a) the change of his or her place of residence; and
 (b) the address of the new place of residence.
 (3) Notice under subsection (2) must be given—
-(a) in writing to the Registrar for the electoral district in which the elector resides; or
+(a) in writing to the Electoral Commission; or
 (b) in an approved electronic medium.
 (4) An elector who has a physical or mental impairment may give notice under subsection (2) through a representative, and section 86 applies with any necessary modifications.
-(5) On receiving a notice under subsection (2), a Registrar must—
+(5) On receiving a notice under subsection (2), the Electoral Commission must—
 (a) amend the roll to record the change in the elector's place of residence; and
 (b) give confirmation to the elector, in accordance with section 94A, of that amendment.
 (6) An elector who knowingly and wilfully fails to comply with subsection (2)—

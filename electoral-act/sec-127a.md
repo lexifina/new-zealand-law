@@ -1,5 +1,5 @@
 # 127A Deposit by party secretary
-(1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on nomination day, a deposit of $1,000 (inclusive of goods and services tax).
+(1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on the day before nomination day, a deposit of $1,000 (inclusive of goods and services tax).
 (2) The deposit must be paid by—
 (a) direct credit to a bank account nominated by the Electoral Commission; or
 (b) bank cheque.

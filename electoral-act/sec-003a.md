@@ -29,6 +29,9 @@
 (iii) a publication on a news media Internet site:
 (d) any transmission (whether live or not) of proceedings in the House of Representatives:
 (e) any publication on the Internet, or other electronic medium, of personal political views by an individual who does not make or receive a payment in respect of the publication of those views.
+(2A) When determining whether signage is contact information,—
+(a) all of the fixed signage on an out-of-Parliament office of a member of Parliament must be treated as a single sign; and
+(b) all of the signage on a vehicle of a member of Parliament must be treated as a single sign.
 (3) In this section,—
 contact information, in relation to a member of Parliament, means information that—
 (a) must include—
@@ -50,5 +53,6 @@ periodical means a newspaper, magazine, or trade or professional journal that—
 (a) was established for purposes unrelated to the conduct of election campaigns; and
 (b) since its establishment has been—
 (i) published at regular intervals; and
-(ii) generally available to members of the public.
+(ii) generally available to members of the public
+vehicle has the meaning given to it by section 2(1) of the Land Transport Act 1998.
 Compare: 1993 No 87 ss 221(1), (6), 221A(2), (4) (pre-1 January 2011); 2007 No 111 ss 4, 5(2)

@@ -18,10 +18,9 @@ responsible department means the department of State that is, with the authority
 (ii) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type.
 (3) For the purposes of this section, any officer or employee or agent of the responsible department authorised in that behalf by the chief executive of that department may, at the request of the Electoral Commission, supply to the Electoral Commission any immigration information held by that department.
 (4) If, in relation to any person, immigration information is supplied to the Electoral Commission pursuant to subsection (3), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
-(5) If the result of a comparison carried out pursuant to subsection (4) indicates that any person who has applied to be (but is not yet) registered as an elector, or who is on the electoral roll, is—
+(5) Subsection (6) applies in respect of a person if the result of a comparison carried out under subsection (4) indicates that the person has applied to be (but is not yet) registered as an elector, or is on the electoral roll, and is—
 (a) a person who the chief executive of the responsible department believes is unlawfully in New Zealand; or
-(b) a person who is lawfully in New Zealand but only by virtue of being the holder of a temporary entry class visa of whatever type,—
-the Electoral Commission must advise the Registrar of the electoral district in which that person is, or has applied to be, registered as an elector accordingly.
-(6) After receiving advice from the Electoral Commission under subsection (5) that, in relation to any person, either of the circumstances referred to in subsection (5) applies, the Registrar must,—
+(b) a person who is lawfully in New Zealand, but only by virtue of being the holder of a temporary entry class visa of whatever type.
+(6) If this subsection applies in respect of a person, the Electoral Commission must,—
 (a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87; or
 (b) if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.
