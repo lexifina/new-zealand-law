@@ -7,7 +7,7 @@
 (2) For the purposes of subsection (1), conduct described in that section is engaged in for a prohibited health and safety reason if it is engaged in for a reason described in section 89 of the Health and Safety at Work Act 2015.
 (3) An employer may be found to have engaged in adverse conduct for a prohibited health and safety reason only if the prohibited health and safety reason was a substantial reason for the conduct.
 (4) For the purposes of subsection (3), a prohibited health and safety reason is presumed to be a substantial reason for the conduct unless the employer proves, on the balance of probabilities, that the reason was not a substantial reason for the conduct.
-(5) It is a defence to an action for a personal grievance under section 103(1)(h)(i) if the employer proves that—
+(5) It is a defence to an action for a personal grievance under section 103(1)(j)(i) if the employer proves that—
 (a) the conduct was reasonable in the circumstances; and
 (b) a substantial reason for the conduct was to comply with the requirements of the Health and Safety at Work Act 2015 or other relevant health and safety legislation (as defined in section 16 of that Act).
 (6) For the purposes of this section,—
