@@ -18,7 +18,7 @@
 (ii) sections 134 and 135 (about reviewing plans) do not apply to the court plan that was prepared for the purposes of section 128; and
 (iii) despite section 117(1)(a), the order ceases to have effect when the child or young person attains the age of 18 years or sooner marries or enters into a civil union.
 (5) Every special guardianship order must require that, if the child or young person to whom the order applies begins to live with anyone other than the special guardian on more than a temporary basis, the special guardian must,—
-(a) if the child or young person, immediately before the guardianship order was made, was in the custody of the chief executive or a natural person, advise a social worker; or
+(a) if the child or young person, immediately before the guardianship order was made, was in the custody of the chief executive or a natural person, advise the chief executive; or
 (b) if the child or young person, immediately before the guardianship order was made, was in the custody of an iwi social service, cultural social service, or the director of a child and family support service, advise that service or director, as appropriate.
 (6) The obligation on the chief executive imposed by section 7(2)(e) does not apply in respect of a child or young person in respect of whom a special guardianship order is made.
 (7) If a child or young person has more than 1 existing guardian, or more than 1 special guardian, this section and any other applicable sections must be applied with all necessary modifications to each existing guardian and each special guardian.

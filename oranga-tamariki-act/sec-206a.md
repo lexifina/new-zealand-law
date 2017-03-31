@@ -16,7 +16,7 @@
 (a) every party to the new proceeding consents to its commencement; or
 (b) the new proceeding is commenced by—
 (i) the chief executive; or
-(ii) a social worker; or
+(ii) [Repealed]
 (iii) an iwi social service; or
 (iv) a cultural social service; or
 (v) the director of a child and family support service; or

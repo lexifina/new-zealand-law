@@ -28,5 +28,5 @@ review proceedings means proceedings—
 (c) by way of an application for a declaratory judgment
 sending State means the participating State from which a protection order or protection proceedings are transferred to New Zealand under this Part and the interstate law of that State
 young person includes a person—
-(a) who is 17 years old or older; and
+(a) who is 18 years old or older; and
 (b) to whom a guardianship order made under section 110 applies.
