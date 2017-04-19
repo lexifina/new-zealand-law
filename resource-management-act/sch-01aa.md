@@ -9,6 +9,8 @@ s 43G
 (a) in whole or in part; and
 (b) with modifications, additions, or variations specified in the standard or statement.
 (3) Material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement has legal effect as part of the standard or statement.
+(4) Any material or documents that may be incorporated by reference under this schedule may be in electronic form, and may include any electronic tools, models, and databases that are appropriate for inclusion in a national environmental standard, a national policy statement, or a New Zealand coastal policy statement.
+(5) A requirement to provide a copy of any material or document incorporated by reference under this schedule is satisfied if an electronic copy is provided.
 2 Effect of amendments to, or replacement of, material incorporated by reference
 (1) An amendment to, or replacement of, material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement has legal effect as part of the standard or statement only if the Minister publishes a notice under subclause (2).
 (2) The Minister may publish a notice in the Gazette that—

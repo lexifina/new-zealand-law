@@ -47,7 +47,7 @@ Assessment of environmental effects
 (1) An assessment of the activity's effects on the environment must include the following information:
 (a) if it is likely that the activity will result in any significant adverse effect on the environment, a description of any possible alternative locations or methods for undertaking the activity:
 (b) an assessment of the actual or potential effect on the environment of the activity:
-(c) if the activity includes the use of hazardous substances and installations, an assessment of any risks to the environment that are likely to arise from such use:
+(c) if the activity includes the use of hazardous installations, an assessment of any risks to the environment that are likely to arise from such use:
 (d) if the activity includes the discharge of any contaminant, a description of—
 (i) the nature of the discharge and the sensitivity of the receiving environment to adverse effects; and
 (ii) any possible alternative methods of discharge, including discharge into any other receiving environment:
@@ -66,5 +66,5 @@ Assessment of environmental effects
 (c) any effect on ecosystems, including effects on plants or animals and any physical disturbance of habitats in the vicinity:
 (d) any effect on natural and physical resources having aesthetic, recreational, scientific, historical, spiritual, or cultural value, or other special value, for present or future generations:
 (e) any discharge of contaminants into the environment, including any unreasonable emission of noise, and options for the treatment and disposal of contaminants:
-(f) any risk to the neighbourhood, the wider community, or the environment through natural hazards or the use of hazardous substances or hazardous installations.
+(f) any risk to the neighbourhood, the wider community, or the environment through natural hazards or hazardous installations.
 (2) The requirement to address a matter in the assessment of environmental effects is subject to the provisions of any policy statement or plan.

@@ -13,7 +13,7 @@ operative, in relation to a policy statement or plan, or a provision of a policy
 (b) has not ceased to be operative
 plan means a regional plan or a district plan
 policy statement means a regional policy statement
-proposed policy statement means a proposed policy statement that has been notified under clause 5 of Schedule 1 but has not become operative in terms of clause 20 of Schedule 1
+proposed policy statement means a proposed policy statement that has been notified under clause 5 of Schedule 1, or given limited notification under clause 5A of that schedule, but has not become operative in terms of clause 20 of that schedule
 regional coastal plan—
 (a) means an operative plan approved by the Minister of Conservation under Schedule 1; and
 (b) includes all operative changes to the plan (whether arising from a review or otherwise)

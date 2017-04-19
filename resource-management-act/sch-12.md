@@ -1,13 +1,21 @@
-# Schedule 12 Transitional provisions for amendments made on or after commencement of Resource Management Amendment Act 2013
-s 434
+# Schedule 12 Transitional, savings, and related provisions
+s 3B
+1AA Overview
+In addition to the transitional, savings, and related provisions set out in this schedule, other transitional, savings, and related provisions that may apply are those set out in—
+(a) Part 15, in relation to the principal Act:
+(b) subpart 3 of Part 2 of the Resource Management Amendment Act 2003:
+(c) Part 2 of the Resource Management (Energy and Climate Change) Amendment Act 2004:
+(d) sections 131 to 135 of the Resource Management Amendment Act 2005:
+(e) Part 2 of the Resource Management (Simplifying and Streamlining) Amendment Act 2009.
+Part 1 Provisions relating to Resource Management Amendment Act 2013
 1 Interpretation
-In this schedule, amendment Act means the Resource Management Amendment Act 2013, which amends this Act.
+In this Part, amendment Act means the Resource Management Amendment Act 2013, which amends this Act.
 2 Existing section 32 applies to some proposed policy statements and plans
 If Part 2 of the amendment Act comes into force on or after the date of the last day for making further submissions on a proposed policy statement or plan (as publicly notified in accordance with clause 7(1)(d) of Schedule 1), the further evaluation for that proposed policy statement or plan must be undertaken as if Part 2 had not come into force.
 3 National policy statements
 An amendment made by the amendment Act applies to a national policy statement whether the statement was issued before or after the commencement of the amendment.
 4 Existing rules providing for protection of trees
-(1) An existing rule or part of a rule in a district plan or proposed district plan that complied with section 76(4A) immediately before its amendment by the amendment Act is revoked, without further authority than this section, on the day that is 24 months after the date on which Part 1 of the amendment Act comes into force.
+(1) An existing rule or part of a rule in a district plan or proposed district plan that complied with section 76(4A) immediately before its amendment by the amendment Act is revoked, without further authority than this clause, on the day that is 24 months after the date on which Part 1 of the amendment Act comes into force.
 (2) Subclause (1) applies unless the rule or part of the rule complies with section 76(4A) and (4B) as inserted by the amendment Act.
 5 Certain new rules providing for protection of trees may take effect once plan change notified
 (1) Subclause (2) applies if, before the date referred to in clause 4(1),—
@@ -55,3 +63,53 @@ An amendment made by the amendment Act applies to a national policy statement wh
 (2) If an application was made for an enforcement order before the commencement of the amendment, the application must be determined as if the amendment had not been made.
 10 Return of property
 The insertion of section 336 by the amendment Act is to be treated as having commenced on 1 October 2012 and section 336 is to be treated as having had continuous effect despite section 300(6) of the Search and Surveillance Act 2012.
+Part 2 Provisions relating to Part 1 of Resource Legislation Amendment Act 2017
+11 Interpretation
+In this Part,—
+amendment Act means Part 1 of the Resource Legislation Amendment Act 2017
+commencement, in relation to a provision of the amendment Act or an amendment made by that provision, means the date on which that provision comes into force.
+12 Specified matters subject to transitional arrangements
+(1) An amendment made by the amendment Act does not apply in respect of a matter specified in subclause (2) if, immediately before the commencement of the amendment, the matter—
+(a) has been lodged with a local authority, the EPA, or a Minister, or called in by the Minister; but
+(b) has not proceeded to the stage at which no further appeal is possible.
+(2) The matters referred in subclause (1) are—
+(a) an application for a resource consent (or anything treated by this Act as if it were an application for a resource consent):
+(b) any other matter in relation to a resource consent (or in relation to anything treated by this Act as if it were a resource consent):
+(c) a challenge under section 85 in relation to a provision or proposed provision of a plan or proposed plan that would render any land incapable of reasonable use:
+(d) an application relating to a nationally significant proposal lodged with the EPA or called in by the Minister under Part 6AA:
+(e) a notice of requirement—
+(i) for a designation or heritage order; or
+(ii) to alter a designation or heritage order:
+(f) an application for a water conservation order made under section 201(1) or to amend or revoke an order under section 216(2):
+(g) an application or a proposal to vary or cancel an instrument that creates an esplanade strip under section 234(1) or (3):
+(h) the creation of an esplanade strip by agreement under section 235(1).
+(3) This clause does not limit clauses 13 to 15.
+13 Proposed policy statement or plans, changes, or variations
+(1) This clause applies to a proposed policy statement or plan, change, or variation that, immediately before the commencement of a relevant amendment made by the amendment Act,—
+(a) has been publicly notified under clause 5 or 26(b) of Schedule 1; but
+(b) has not proceeded to the stage at which no further appeal is possible.
+(2) The proposed policy statement, plan, change, or variation must be determined as if the amendments made by the amendment Act had not been enacted.
+14 Transitional arrangements for early use of collaborative process
+(1) A collaborative planning process may be used in accordance with this clause if, before the commencement of subpart 4 of Part 5 (which provides for the use of a collaborative planning process), a local authority—
+(a) has commenced preparing, changing, or reviewing a policy statement or plan; but
+(b) has not publicly notified the proposed policy statement or plan or change under Part 1 of this schedule.
+(2) If a local authority wishes to use a collaborative process in the circumstances set out in subclause (1), the local authority must—
+(a) publicly notify its intention to apply to the Minister for approval to continue its process of preparing or changing a policy statement or plan using the collaborative planning process under this Part; and
+(b) invite submissions, to be submitted within 20 working days of the notice, on the proposal to use the collaborative planning process; and
+(c) submit to the Minister a summary of the submissions and a report setting out how the collaborative planning process meets the criteria set out in subclause (3).
+(3) The criteria are as follows:
+(a) whether there has been a clear intention to set up a collaborative group and appoint its members:
+(b) whether the composition of the collaborative group reflects the requirements set out in clause 40 of Schedule 1:
+(c) whether the commitment of the local authority to the consensus of the collaborative group is consistent with the requirement of clause 46(2)(a) of Schedule 1:
+(d) whether the terms of reference for the collaborative group are consistent with the terms of reference required by clause 41 of Schedule 1.
+(4) After considering any submissions and the report submitted under subclause (2)(c), the Minister—
+(a) may accept the application if the Minister is satisfied that the local authority meets the criteria set out in subclause (3), but must otherwise reject the application; and
+(b) if the Minister accepts the application, must notify that decision to the local authority not later than 2 months after the date of the application.
+(5) If the Minister accepts the application under subclause (4), the local authority must—
+(a) give public notice that the Minister has accepted the local authority's application to continue its process of preparing, changing, or reviewing a policy statement or plan using the collaborative planning process; and
+(b) amend the terms of reference in accordance with clause 41 of Schedule 1.
+(6) This clause ceases to apply on the date that is 2 years after the commencement of this clause.
+15 Application to fresh water of rules relating to water quality
+Nothing in section 69(4) (as inserted by the amendment Act) affects any plan approved, resource consent granted, or water conservation order made before the commencement of that amendment if that plan, resource consent, or order refers to or incorporates any standards set out in Schedule 3.
+16 Matters before the Environment Court
+An amendment made by the amendment Act does not apply to any proceeding lodged with the Environment Court immediately before the commencement of that amendment.

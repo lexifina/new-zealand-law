@@ -3,4 +3,4 @@
 (2) Person A may make the submission only if directly affected by an effect of the activity to which the application relates, that—
 (a) adversely affects the environment; and
 (b) does not relate to trade competition or the effects of trade competition.
-(3) Failure to comply with the limits on submissions set in section 149E or 149O or clause 6(4) or 29(1B) of Schedule 1 is a contravention of this Part.
+(3) Failure to comply with the limits on submissions set in section 149E or 149O or Schedule 1 is a contravention of this Part.

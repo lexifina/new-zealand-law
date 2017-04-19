@@ -15,6 +15,7 @@
 (c) state where the matter, its accompanying information, and any further information may be viewed; and
 (d) state that any person may make submissions on the matter to the EPA; and
 (e) state the closing date for the receipt of submissions; and
+(ea) specify an electronic address for sending submissions; and
 (f) state the address for service of the EPA and the applicant (or each applicant if more than 1).
 (4) When the EPA gives public notice under subsection (1), it must also serve a copy of the notice on—
 (a) each owner and occupier (other than an applicant) of any land to which the matter relates; and

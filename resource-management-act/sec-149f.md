@@ -5,6 +5,7 @@
 (b) where the summary and the submissions can be inspected; and
 (c) the fact that no later than 10 working days after the day on which this public notice is given, the persons described in subsection (3) may make a further submission on the matter; and
 (d) the date of the last day for making further submissions (as calculated under paragraph (c)); and
+(da) an electronic address for sending further submissions; and
 (e) the address for service of the EPA.
 (3) The following persons may make a further submission on the matter:
 (a) any person representing a relevant aspect of the public interest; and
@@ -14,6 +15,8 @@
 (a) may only be in support of or in opposition to a submission made on a matter under section 149E:
 (b) may not be made on a concurrent application made under subpart 4 of Part 7A.
 (5) A further submission must be in the prescribed form.
+(5A) If a person who makes a further electronic submission on a matter to which the further submission relates has specified an electronic address as an address for service, and has not requested a method of service specified in section 352(1)(b) (as applied by subsection (5B)), any further correspondence relating to the matter must be served by sending it to that electronic address.
+(5B) If subsection (5A) does not apply, the further correspondence may be served by any of the methods specified in section 352(1)(b).
 (6) A person who makes a further submission under subsection (3) must serve a copy of it on—
 (a) the applicant; and
 (b) the person who made the submission under section 149E to which the further submission relates.

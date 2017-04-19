@@ -1,19 +1,27 @@
-# 46A Minister chooses process
-(1) After preparing a proposed national policy statement under sections 45 and 46, the Minister must—
-(a) use the process set out in sections 47 to 52; or
-(b) establish, and then use, a process that—
-(iaaa) notifies the public and iwi authorities of the proposed national policy statement; and
-(i) gives the public adequate time and opportunity to make a submission on the statement; and
-(ii) requires a report and recommendations to be made to the Minister on the submissions and the subject matter of the statement; and
-(iii) incorporates sections 51 and 52 as if their references to a board of inquiry were references to the person who prepares the report and recommendations.
-(2) When choosing between subsection (1)(a) and subsection (1)(b), the Minister may consider the following matters:
-(a) the advantages and disadvantages of having the proposed national policy statement made quickly:
-(b) the extent to which the policy in the proposed national policy statement differs from the policies in—
-(i) national environmental standards; and
-(ia) other national policy statements; and
-(ii) regional policy statements; and
-(iii) regional or district plans:
-(c) the extent and timing of public debate and public consultation that took place on the policy before the proposed national policy statement was prepared:
+# 46A Single process for preparing national directions
+(1) This section and sections 47 to 51 set out the requirements for preparing a national direction.
+(2) In this section and sections 47 to 51, national direction means both or either of the following documents:
+(a) a national environmental standard:
+(b) a national policy statement.
+(3) If the Minister proposes to issue a national direction, the Minister must either—
+(a) follow the requirements set out in sections 47 to 51; or
+(b) establish and follow a process that includes the steps described in subsection (4).
+(4) The steps required in the process established under subsection (3)(b) must include the following:
+(a) the public and iwi authorities must be given notice of—
+(i) the proposed national direction; and
+(ii) why the Minister considers that the proposed national direction is consistent with the purpose of the Act; and
+(b) those notified must be given adequate time and opportunity to make a submission on the subject matter of the proposed national direction; and
+(c) a report and recommendations must be made to the Minister on the submissions and the subject matter of the national direction; and
+(d) the matters listed in section 51(1) must be considered as if the references in that provision to a board of inquiry were references to the person who prepares the report and recommendations.
+(5) In preparing a national direction, the Minister may, at any time, consult on a draft national direction.
+(6) When choosing between subsection (3)(a) and (b), the Minister may consider—
+(a) the advantages and disadvantages of preparing the proposed national direction quickly:
+(b) the extent to which the proposed national direction differs from—
+(i) other national environmental standards:
+(ii) other national policy statements:
+(iii) regional policy statements:
+(iv) plans:
+(c) the extent and timing of public debate and consultation that took place before the proposed national direction was prepared:
 (d) any other relevant matter.
-(3) [Repealed]
-(4) A national policy statement prepared after the use of a process established under subsection (1)(b) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) If the Minister decides, after consulting as required by subsection (3), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360H, the consultation under subsection (3) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
+(8) A national policy statement prepared in accordance with this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.

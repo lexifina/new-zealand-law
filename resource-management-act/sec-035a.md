@@ -2,7 +2,8 @@
 (1) For the purposes of this Act or regulations under this Act, a local authority must keep and maintain, for each iwi and hapu within its region or district, a record of—
 (a) the contact details of each iwi authority within the region or district and any groups within the region or district that represent hapu for the purposes of this Act or regulations under this Act; and
 (b) the planning documents that are recognised by each iwi authority and lodged with the local authority; and
-(c) any area of the region or district over which 1 or more iwi or hapu exercise kaitiakitanga.
+(c) any area of the region or district over which 1 or more iwi or hapu exercise kaitiakitanga; and
+(d) any Mana Whakahono a Rohe entered into under section 58O.
 (2) For the purposes of subsection (1)(a) and (c),—
 (a) the Crown must provide to each local authority information on—
 (i) the iwi authorities within the region or district of that local authority and the areas over which 1 or more iwi exercise kaitiakitanga within that region or district; and

@@ -7,10 +7,10 @@
 (e) specify, in relation to a rule made before the commencement of a national environmental standard,—
 (i) the extent to which any matter to which the standard applies continues to have effect; or
 (ii) the time period during which any matter to which the standard applies continues to have effect:
-(f) require local authorities to review, under section 128(1), all or any of the permits to which paragraph (ba) of that subsection applies as soon as practicable or within the time specified in a national environmental standard.
+(f) require local authorities to review, under section 128(1), all or any of the permits or consents to which paragraph (ba) of that subsection applies as soon as practicable or within the time specified in a national environmental standard.
 (2) A national environmental standard that prohibits an activity—
 (a) may do one or both of the following:
-(i) state that a resource consent may be granted for the activity, but only on the terms or conditions specified in the standard; and
+(i) state that a resource consent may be granted for the activity, but only on the terms or conditions specified in the standard, including the duration of a consent; and
 (ii) require compliance with the rules in a plan or proposed plan as a term or condition; or
 (b) may state that the activity is a prohibited activity.
 (3) If an activity has significant adverse effects on the environment, a national environmental standard must not, under subsections (1)(b) and (4),—
@@ -38,3 +38,4 @@
 (a) must give public notification of an application for a resource consent:
 (b) is precluded from giving public notification of an application for a resource consent:
 (c) is precluded from giving limited notification of an application for a resource consent.
+(8) A national environmental standard may empower local authorities to charge for monitoring any specified permitted activities in the standard.

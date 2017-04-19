@@ -5,7 +5,7 @@
 (c) a request under clause 21(1) of Schedule 1 for a change to be made to a plan; or
 (d) a review of a resource consent; or
 (e) an application to change or cancel a condition of a resource consent; or
-(f) a proposed policy statement or plan that is notified under clause 5 of Schedule 1; or
+(f) a proposed policy statement or plan that is notified under clause 5 of Schedule 1 or given limited notification under clause 5A of that schedule; or
 (g) any matter under section 357C.
 (2) If the local authority wants to give authority to 1 person, it may do so only if the person is accredited.
 (3) If the local authority wants to give authority to a group of persons that has a chairperson, it may do so only if—

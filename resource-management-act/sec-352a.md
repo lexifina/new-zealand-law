@@ -10,4 +10,4 @@
 (4) In this section,—
 District Court Judge means a District Court Judge appointed under the District Court Act 2016
 Justice has the same meaning as in section 2 of the Justice of the Peace Act 1957
-Registrar has the same meaning as in section 2(1) of the Criminal Procedure Act 2011.
+Registrar has the same meaning as in section 5 of the Criminal Procedure Act 2011.

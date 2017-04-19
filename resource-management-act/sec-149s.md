@@ -7,6 +7,7 @@
 (ii) the day on which the EPA gives public notice under section 149O of the proposed plan or change, if that section applies to the matter before the board; or
 (iii) the day on which the EPA gives limited notification under section 149ZC(4), if the EPA gives that notice for the matter before the board.
 (3) However, the Minister may grant an extension that results in a time period greater than that described in subsection (2)(b) if the applicant agrees.
+(3A) For the purposes of subsection (2)(b), the period of 18 months excludes any time while an inquiry is suspended under section 149ZG(3) (as calculated from the date of notification of suspension under section 149ZG(5) to the date of notification of resumption under section 149ZG(5)).
 (4) The EPA must give written notice to the following persons if the Minister grants an extension under subsection (1), or each time the Minister grants an extension under subsection (1), as the case may be:
 (a) the applicant; and
 (b) the local authority; and

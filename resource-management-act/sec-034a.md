@@ -2,6 +2,9 @@
 (1) A local authority may delegate to an employee, or hearings commissioner appointed by the local authority (who may or may not be a member of the local authority), any functions, powers, or duties under this Act except the following:
 (a) the approval of a proposed policy statement or plan under clause 17 of Schedule 1:
 (b) this power of delegation.
+(1A) If a local authority is considering appointing 1 or more hearings commissioners to exercise a delegated power to conduct a hearing under Part 1 or 5 of Schedule 1,—
+(a) the local authority must consult tangata whenua through relevant iwi authorities on whether it is appropriate to appoint a commissioner with an understanding of tikanga Māori and of the perspectives of local iwi or hapū; and
+(b) if the local authority considers it appropriate, it must appoint at least 1 commissioner with an understanding of tikanga Māori and of the perspectives of local iwi or hapū, in consultation with relevant iwi authorities.
 (2) A local authority may delegate to any other person any functions, powers, or duties under this Act except the following:
 (a) the powers in subsection (1)(a) and (b):
 (b) the decision on an application for a resource consent:

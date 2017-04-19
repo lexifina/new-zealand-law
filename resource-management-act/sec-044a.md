@@ -4,7 +4,7 @@
 (a) both of the following apply:
 (i) the rule is more stringent than the provision in that it prohibits or restricts an activity that the provision permits or authorises; and
 (ii) the standard does not expressly say that a rule may be more stringent than it; or
-(b) the rule is more lenient than the provision.
+(b) the rule in the plan is more lenient than a provision in the standard and the standard does not expressly specify that a rule may be more lenient than the provision in the standard.
 (3) If the duplication or conflict is dealt with in the national environmental standard in one of the ways described in section 43A(1)(e), the local authority must amend the plan or proposed plan to remove the duplication or conflict—
 (a) without using the process in Schedule 1; and
 (b) in accordance with the specification in the national environmental standard.

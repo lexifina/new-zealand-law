@@ -10,6 +10,8 @@
 (b) served—
 (i) on the EPA, within the time allowed under subsection (9); and
 (ii) on the applicant, as soon as practicable after service on the EPA.
+(3A) If a person who makes an electronic submission on a matter to which the submission relates has specified an electronic address as an address for service, and has not requested a method of service specified in section 352(1)(b) (as applied by subsection (3B)), any further correspondence relating to the matter must be served by sending it to that electronic address.
+(3B) If subsection (3A) does not apply, the further correspondence may be served by any of the methods specified in section 352(1)(b).
 (4) A submission must state whether it supports the matter, it opposes the matter, or it is neutral.
 (5) If the person is a trade competitor of the applicant, the person may make a submission only if directly affected by an effect of the activity to which the matter relates, and the effect—
 (a) adversely affects the environment; and
@@ -23,5 +25,5 @@
 (8) If the matter is a request for the preparation of a regional plan, or a request for a change to a plan, a person who is a trade competitor of the person who made the request may make a submission only if directly affected by an effect of the proposed plan or change that—
 (a) adversely affects the environment; and
 (b) does not relate to trade competition or the effects of trade competition.
-(9) The closing date for making a submission is 20 working days after the day on which public notice of the direction is given.
+(9) The closing date for making a submission is 30 working days after the day on which public notice of the direction is given.
 (10) Any submissions on the matter received by the local authority before the matter is called in (by a direction being made under section 142(2)) must be treated as having been made to the EPA under this section.
