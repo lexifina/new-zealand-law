@@ -9,6 +9,10 @@
 (a) any conditions that the court thinks fit relating to the offender's finances or earnings:
 (b) conditions requiring the offender to take prescription medication:
 (c) conditions relating to a programme:
+(ca) conditions prohibiting the offender from doing 1 or more of the following:
+(i) using (as defined in section 4(1)) a controlled drug:
+(ii) using a psychoactive substance:
+(iii) consuming alcohol:
 (d) a condition requiring the offender to comply with the requirements of judicial monitoring under subpart 2B as directed by a probation officer or the sentencing Judge:
 (e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender.
 (5) For the purposes of subsection (4), programme has the same meaning as in section 54H.

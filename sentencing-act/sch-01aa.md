@@ -19,3 +19,38 @@ In this Part, commencement date means the date on which the Sentencing (Electron
 (3) The circumstances are as follows:
 (a) if the court imposes an additional release condition under section 94(3)(a):
 (b) if the court discharges a release condition and substitutes another release condition under section 94(3)(b).
+Part 2 Provisions relating to Sentencing (Drug and Alcohol Testing) Amendment Act 2016
+4 Interpretation
+In this Part,—
+commencement date means the date on which the Sentencing (Drug and Alcohol Testing) Amendment Act 2016 comes into force
+pre-commencement drug or alcohol condition means a condition of a sentence of supervision, intensive supervision, or home detention, or a post-detention or post-imprisonment condition,—
+(a) that is imposed before the commencement date under section 52(2)(c), 54I(3)(e), 80D(4)(e), 80N(1) and (2)(b), or 93(1) or (2)(b); and
+(b) that prohibits an offender from doing 1 or more of the following:
+(i) using (as defined in section 4(1)) a controlled drug:
+(ii) using a psychoactive substance:
+(iii) consuming alcohol.
+5 Testing and monitoring of offender subject to sentence of supervision with pre-commencement drug or alcohol condition
+(1) This clause applies if an offender is subject to a sentence of supervision with a pre-commencement drug or alcohol condition.
+(2) On and from the commencement date, sections 70AA and 80ZO to 80ZU, and any rules made under section 80ZT, apply in respect of the offender—
+(a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
+(b) as if the court had complied with section 80ZN(3) in respect of the condition.
+6 Testing and monitoring of offender subject to sentence of intensive supervision with pre-commencement drug or alcohol condition
+(1) This clause applies if an offender is subject to a sentence of intensive supervision with a pre-commencement drug or alcohol condition.
+(2) On and from the commencement date, sections 70B and 80ZO to 80ZU, and any rules made under section 80ZT, apply in respect of the offender—
+(a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
+(b) as if the court had complied with section 80ZN(3) in respect of the condition.
+7 Testing and monitoring of offender subject to sentence of home detention with pre-commencement drug or alcohol condition
+(1) This clause applies if an offender is subject to a sentence of home detention with a pre-commencement drug or alcohol condition.
+(2) On and from the commencement date, sections 80SA and 80ZO to 80ZU, and any rules made under section 80ZT, apply in respect of the offender—
+(a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
+(b) as if the court had complied with section 80ZN(3) in respect of the condition.
+8 Testing and monitoring of offender subject to post-detention condition that is a pre-commencement drug or alcohol condition
+(1) This clause applies if an offender is subject to a post-detention condition that is a pre-commencement drug or alcohol condition.
+(2) On and from the commencement date, sections 80UA and 80ZO to 80ZU, and any rules made under section 80ZT, apply in respect of the offender—
+(a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
+(b) as if the court had complied with section 80ZN(3) in respect of the condition.
+9 Testing and monitoring of offender subject to post-imprisonment condition that is a pre-commencement drug or alcohol condition
+(1) This clause applies if an offender is subject to a post-imprisonment condition that is a pre-commencement drug or alcohol condition.
+(2) On and from the commencement date, sections 80ZO to 80ZU and 96A, and any rules made under section 80ZT, apply in respect of the offender—
+(a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
+(b) as if the court had complied with section 80ZN(3) in respect of the condition.

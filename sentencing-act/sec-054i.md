@@ -7,6 +7,10 @@
 (3) The conditions referred to in subsections (1) and (2) comprise—
 (a) any conditions that the court thinks fit relating to the offender's place of residence (which may include a condition that the offender not move residence), finances, or earnings:
 (b) conditions requiring the offender to take prescription medication:
+(ba) conditions prohibiting the offender from doing 1 or more of the following:
+(i) using (as defined in section 4(1)) a controlled drug:
+(ii) using a psychoactive substance:
+(iii) consuming alcohol:
 (c) conditions requiring the offender to undertake training in basic work and living skills:
 (d) a condition requiring the offender to comply with the requirements of judicial monitoring under subpart 2B as directed by a probation officer or the sentencing Judge:
 (e) any other conditions that the court thinks fit to reduce the likelihood of further offending by the offender:
