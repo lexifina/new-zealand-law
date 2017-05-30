@@ -48,12 +48,16 @@ A meeting of shareholders may be held by a quorum of the shareholders—
 (3A) A shareholder may appoint more than 1 proxy for a particular meeting, provided that more than 1 proxy is not appointed to exercise the rights attached to a particular share held by the shareholder.
 (4) No proxy is effective in relation to a meeting unless a copy of the notice of appointment is produced before the start of the meeting.
 (5) The constitution of a company may provide that a proxy is not effective unless it is produced by a specified time before the start of a meeting if the time specified is not earlier than 48 hours before the start of the meeting.
+(6) For the purposes of subclause (5), the constitution may provide for different matters for different kinds of proxies (for example, a different specified time for the production of a proxy by electronic means).
 7 Postal votes
 (1) Subject to the constitution of the company, a shareholder may exercise the right to vote at a meeting by casting a postal vote in accordance with the provisions of this clause.
 (1A) To avoid doubt, a postal vote may be cast using electronic means permitted by the board.
 (2) The notice of a meeting at which shareholders are entitled to cast a postal vote must state the name of the person authorised by the board to receive and count postal votes at that meeting.
 (3) If no person has been authorised to receive and count postal votes at a meeting, or if no person is named as being so authorised in the notice of the meeting, every director is deemed to be so authorised.
 (4) A shareholder may cast a postal vote on all or any of the matters to be voted on at the meeting by sending a notice of the manner in which his or her shares are to be voted to a person authorised to receive and count postal votes at that meeting. The notice must reach that person not less than 48 hours before the start of the meeting.
+(4A) Despite subclause (4),—
+(a) the constitution of a company may specify a time by which postal votes that are cast using electronic means must reach the person who is authorised to receive and count postal votes at the meeting; and
+(b) that time may be less than 48 hours before the start of the meeting.
 (5) It is the duty of a person authorised to receive and count postal votes at a meeting—
 (a) to collect together all postal votes received by him or her or by the company; and
 (b) in relation to each resolution to be voted on at the meeting, to count—

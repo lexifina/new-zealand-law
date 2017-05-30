@@ -16,7 +16,7 @@ s 214
 (viii) the total number of shares purchased or otherwise acquired by the company:
 (ix) the total number of shares redeemed by the company:
 (g) the full names, dates and places of birth, and residential addresses of the directors of the company:
-(ga) if a director is resident in an enforcement country, the prescribed information in respect of the company or companies in that country of which the director is a director:
+(ga) in relation to at least 1 director of the company who lives in an enforcement country, the prescribed information in respect of 1 body corporate that is incorporated in that enforcement country under a law that is equivalent to this Act and of which the director is a director (but this paragraph applies only if no directors of the company live in New Zealand):
 (gb) the company's ultimate holding company information:
 (h) in respect of shares of the company that are quoted on a stock exchange, the names and addresses of, and the number of shares held by,—
 (i) the persons holding the 10 largest numbers of shares; or
@@ -45,7 +45,7 @@ the financial statements or group financial statements of the company were requi
 (jc) a statement as to whether the company at any time since the last annual return or, in the case of the first annual return, since the date of registration has been the offeror of financial products and has knowingly relied on an exclusion under clause 3(2)(b) or (3), 4(3), 8, 10, 11, 12, 15, 16, or 19 of Schedule 1 of the Financial Markets Conduct Act 2013, and, if so, which of those exclusions the offeror relied on:
 (k) in the case of a company that has passed a resolution under section 207I or 207J, the text and date of the resolution:
 (ka) in the case of a company in respect of which a notice has been given under section 207K, the text and date of the notice:
-(l) the date of the last annual meeting of the company held under this Act or, if the company avoided the need for an annual meeting by doing everything required to be done at that meeting by passing a resolution under section 122, the date on which the resolution was passed.
+(l) the date of the last annual meeting of the company held under this Act or, if the company is not required to hold an annual meeting, the date on which a resolution was passed under section 120(5)(b) or 122.
 (m) [Repealed]
 Notes
 The information required by paragraph (f)(i) must show separately the number of shares issued for cash and the number of shares issued as fully or partly paid up for a consideration other than cash.

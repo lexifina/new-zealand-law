@@ -6,7 +6,9 @@
 (ii) a body corporate incorporated outside New Zealand; or
 (iii) a person not ordinarily resident in New Zealand.
 (2) However, section 207E does not apply to a company or an overseas company (A) if the following requirements are satisfied:
-(a) A is a subsidiary of a company that is incorporated in New Zealand (B); and
+(a) A is a subsidiary of a body corporate (B) that is—
+(i) incorporated in New Zealand; or
+(ii) registered or deemed to be registered under Part 18; and
 (b) group financial statements in relation to a group comprising B, A, and all other subsidiaries of B that comply with generally accepted accounting practice are completed and signed within the time specified in section 202; and
 (c) a copy of the group financial statements referred to in paragraph (b) and a copy of the auditor's report on those statements are delivered for registration under this Act or for lodgement under another Act.
 (3) For the purposes of subsection (1), a person is ordinarily resident in New Zealand if that person—

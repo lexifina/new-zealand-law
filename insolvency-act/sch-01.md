@@ -35,5 +35,6 @@ The Assignee has the power to—
 (ii) property that is unsold after being offered for sale by public auction or public tender:
 (iii) property that the Assignee considers unnecessary or inadvisable to sell by public auction or public tender because of its nature, situation, value, or other special circumstance:
 (iv) property authorised by a resolution of creditors to be sold by private contract, but in that case the Assignee must sell the property in accordance with the authority given by the creditors:
-(v) financial products (within the meaning of section 7 of the Financial Markets Conduct Act 2013) if sold on a stock exchange (within the meaning of section 2(1) of the Companies Act 1993).
+(v) financial products (within the meaning of section 7 of the Financial Markets Conduct Act 2013) if sold on a stock exchange (within the meaning of section 2(1) of the Companies Act 1993):
+(x) bring a proceeding challenging the existence or terms of a trust (even if the bankrupt could not have brought the proceeding if the bankrupt was not bankrupt and even if the bankrupt is a settlor, trustee, or beneficiary of the trust).
 Compare: 1967 No 54 s 71

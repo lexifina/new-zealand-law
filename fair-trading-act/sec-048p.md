@@ -16,4 +16,7 @@
 financial product—
 (a) has the same meaning as in section 7 of the Financial Markets Conduct Act 2013; and
 (b) includes, in relation to any provision of sections 9 to 13, any class or classes of financial product declared by regulations made under section 548(1)(a) of that Act to be a financial product for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act
-financial service has the same meaning as in section 6(1) of the Financial Markets Conduct Act 2013.
+financial service—
+(a) has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
+(b) includes a market service within the meaning of section 6(1) of the Financial Markets Conduct Act 2013; but
+(c) does not include, in relation to any provision of sections 9 to 13, any class or classes of services declared by regulations made under section 548(1)(d)(ii) of the Financial Markets Conduct Act 2013 not to be financial services for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act.
