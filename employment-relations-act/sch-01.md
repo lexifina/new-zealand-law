@@ -14,7 +14,7 @@ The supply of water to the inhabitants of a city, district, or other place.
 5
 The disposal of sewage.
 6
-The work of a fire brigade within the meaning of the Fire Service Act 1975 (but excluding the work performed by members of volunteer fire brigades).
+The delivery of designated services (within the meaning of section 6 of the Fire and Emergency New Zealand Act 2017) by employees of Fire and Emergency New Zealand.
 7
 The provision of all necessary services in connection with the arrival, berthing, loading, unloading, and departure of ships at a port.
 8
