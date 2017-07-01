@@ -1,4 +1,4 @@
-# 128A Offences in relation to dangerous, affected, earthquake-prone, or insanitary buildings
+# 128A Offences in relation to dangerous, affected, or insanitary buildings
 (1) A person who fails to comply with a notice issued under section 124(2)(c) that is given to that person under section 125(2)—
 (a) commits an offence; and
 (b) is liable to a fine not exceeding $200,000.
