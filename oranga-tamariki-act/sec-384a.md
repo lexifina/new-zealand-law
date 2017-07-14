@@ -8,13 +8,13 @@ mail includes—
 manager means the person for the time being in charge of a residence
 member of staff means every person employed as a member of staff of a residence; and includes the manager of the residence
 pat down search means a search of a clothed child or young person in a residence in which the person conducting the search may do the following:
-(a) run or pat his or her hand over the body of the person being searched, whether inside or outside the clothing (other than any underclothing) of that person:
-(b) insert his or her hand inside any pocket or pouch in the clothing (other than the underclothing) of the person being searched:
+(a) run or pat the person's hand over the body of the person being searched, whether inside or outside the clothing (other than any underclothing) of that person:
+(b) insert the person's hand inside any pocket or pouch in the clothing (other than the underclothing) of the person being searched:
 (c) for the purpose of permitting a visual inspection, require the person being searched to do all or any of the following:
-(i) open his or her mouth:
-(ii) display the palms of his or her hands:
-(iii) display the soles of his or her feet:
-(iv) lift or rub his or her hair:
+(i) open the child's or young person's mouth:
+(ii) display the palms of the child's or young person's hands:
+(iii) display the soles of the child's or young person's feet:
+(iv) lift or rub the child's or young person's hair:
 (v) remove, raise, lower, or open any outer clothing (including, without limitation, any coat, jacket, jumper, or cardigan) worn by the person being searched, except where the person has no other clothing, or only underclothing, under that outer clothing:
 (vi) turn out any pocket or pouch, and display any hem, cuff, lining, or fold, in any outer clothing worn by that person:
 (vii) remove any head covering, gloves, or footwear (including socks or stockings) being worn by that person:
@@ -24,7 +24,7 @@ residence means a residence established under section 364
 scanner search means a search of a child or young person by means of an electronic device passed over the clothed body of the person being searched and that does not include any touching (except any accidental touching) of the person being searched
 strip search means a search where the person conducting the search may require the child or young person being searched—
 (a) to undress, or to remove any specified items of clothing and underclothing, and be visually examined; and
-(b) to have his or her clothing searched
+(b) to have the child's or young person's clothing searched
 unauthorised item means any article, drug, or substance—
 (a) that is a harmful item; or
 (b) that may not be lawfully possessed by any child or young person in the residence.

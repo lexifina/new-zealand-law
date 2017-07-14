@@ -11,5 +11,5 @@
 (d) adjourn the hearing and require the chief executive to—
 (i) provide such information as the court specifies, within the period specified by the court; or
 (ii) reconsider all or any aspect of the assessment and report to the court within a period specified by the court.
-(5) The court may confirm the decision of the chief executive under section 18A(4)(b) only if it is satisfied, on the basis of the written material before it (and, if the court has heard any person under subsection (3), any other material heard), that the parent in respect of whom the application is made has demonstrated that he or she meets the requirements of section 18A(3).
+(5) The court may confirm the decision of the chief executive under section 18A(4)(b) only if it is satisfied, on the basis of the written material before it (and, if the court has heard any person under subsection (3), any other material heard), that the parent in respect of whom the application is made has demonstrated that the parent meets the requirements of section 18A(3).
 (6) Except as provided in this section, nothing in Part 3 applies in respect of an application for, or a decision of a court on, confirmation of a decision made under section 18A(4)(b).

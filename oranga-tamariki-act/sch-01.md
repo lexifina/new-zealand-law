@@ -27,7 +27,7 @@ Part 3 of the Bail Act 2000 except that—
 (a) neither a Justice nor a Community Magistrate may exercise any of the powers conferred by section 33:
 (b) the provisions of section 30 apply as if there were inserted in that section, as subsections (1A) and (1B), the following subsections:
 "(1A)
-Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Children, Young Persons, and Their Families Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
+Despite anything in subsection (1), if the hearing is adjourned for the purpose of enabling a family group conference to be held under the provisions of the Oranga Tamariki Act 1989, the defendant must be excused from attending at the time and place to which the hearing is adjourned if, before that time, the Youth Justice Co-ordinator convening that conference notifies the court, in writing, that the proceedings of that family group conference will not be completed by that time.
 "(1B)
 If, under subsection (1A), the defendant is excused from attending any hearing, and the court adjourns that hearing, the Registrar must notify the defendant of the time and place to which the hearing is adjourned."
 3A

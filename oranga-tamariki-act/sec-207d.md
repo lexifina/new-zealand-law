@@ -1,6 +1,6 @@
 # 207D Chief executive may transfer protection order
 (1) The chief executive may transfer a protection order (the home order) to a participating State if,—
-(a) in his or her opinion, a protection order to the same or a similar effect as the home order could be made under the child welfare law of that State; and
+(a) in the chief executive's opinion, a protection order to the same or a similar effect as the home order could be made under the child welfare law of that State; and
 (b) the home order is not subject to an appeal to the High Court, or to any review proceedings; and
 (c) the interstate officer of the participating State has consented in writing to the transfer and to the proposed terms of the protection order to be transferred (the interstate order); and
 (d) any consent required under section 207F has been given; and

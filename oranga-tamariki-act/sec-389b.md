@@ -1,5 +1,5 @@
 # 389B Appeal against decisions about financial or other assistance to permanent caregivers
-(1) A permanent caregiver who has applied for a review of a decision under section 388A(2) may appeal to the Family Court against the decision if he or she—
+(1) A permanent caregiver who has applied for a review of a decision under section 388A(2) may appeal to the Family Court against the decision if that caregiver—
 (a) has not received notification of the outcome of the review within 3 months after the application was lodged; or
 (b) is dissatisfied with the outcome of the review.
 (2) An appeal under this section may be made only on the ground that the decision is wrong or unreasonable, or both.

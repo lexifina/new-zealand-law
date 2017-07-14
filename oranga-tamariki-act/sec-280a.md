@@ -10,7 +10,7 @@
 (b) if not discharged earlier, the charge is deemed to be discharged if, and when, an application for a declaration under section 67 on that ground in respect of the child and the offence first comes before a Family Court Judge.
 (4) A person to whom a matter in respect of a child is referred under subsection (2) must—
 (a) consider whether to make an application for a declaration under section 67 on that ground in respect of the child and offence or to deal with the matter in some other way; and
-(b) give effect to his or her decision under paragraph (a), and ensure the Youth Court is advised promptly of the outcome of the referral.
+(b) give effect to the decision under paragraph (a), and ensure the Youth Court is advised promptly of the outcome of the referral.
 (5) Before referring a matter to the person who commenced the proceedings under subsection (2), the court may—
 (a) direct a youth justice co-ordinator to convene a family group conference for the purpose of considering whether the making of an application for a declaration under section 67 on that ground in respect of the child and the offence would serve the public interest better than the continuation of the proceedings under this Part (in which case sections 250 to 259 apply to the conference with all necessary modifications); and
 (b) adjourn the proceedings until the conference has been held.

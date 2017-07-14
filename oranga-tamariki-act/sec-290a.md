@@ -5,6 +5,6 @@
 (2) The court must not impose the condition unless the residential component of the specified programme or activity is to be provided by—
 (a) the chief executive; or
 (b) a body or organisation approved under section 396.
-(3) The residential component of a specified programme or activity means any component of the programme or activity that cannot be undertaken satisfactorily by a young person unless he or she resides—
+(3) The residential component of a specified programme or activity means any component of the programme or activity that cannot be undertaken satisfactorily by a young person unless the young person resides—
 (a) where that component is provided; and
 (b) with, and under the control of, the provider.

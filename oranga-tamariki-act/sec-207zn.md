@@ -2,7 +2,7 @@
 (1) This section applies to information—
 (a) to which section 207ZM applies; and
 (b) that, if disclosed, would be likely to identify, or lead to the identification of, a person (a notifier) who notified the interstate officer of the person's belief that a child or young person was in need of care or protection.
-(2) This section does not apply to information that is or may be evidence of any grounds that the notifier had for his or her belief.
+(2) This section does not apply to information that is or may be evidence of any grounds that the notifier had for their belief.
 (3) The chief executive, or an officer or employee of the department, must not disclose information to which this section applies unless—
 (a) the notifier has consented in writing to the disclosure; or
 (b) the disclosure is to enable—

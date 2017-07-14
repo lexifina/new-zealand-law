@@ -1,5 +1,5 @@
 # 384C Child or young person may be searched to detect unauthorised items
-(1) A member of staff, who believes on reasonable grounds that a child or young person in the residence has in his or her possession any unauthorised item, may carry out any of the following types of searches for the purpose of detecting that item:
+(1) A member of staff, who believes on reasonable grounds that a child or young person in the residence has in their possession any unauthorised item, may carry out any of the following types of searches for the purpose of detecting that item:
 (a) a scanner search of the child or young person:
 (b) a pat down search of the child or young person:
 (c) a search of any room or sleeping area assigned to the child or young person.
