@@ -7,7 +7,7 @@
 (b) is without notice; or
 (c) is for a consent order; or
 (d) seeks the enforcement of an existing order; or
-(e) relates to a child who is the subject of proceedings already begun under Part 2 of the Children, Young Persons, and Their Families Act 1989; or
+(e) relates to a child who is the subject of proceedings already begun under Part 2 of the Oranga Tamariki Act 1989; or
 (f) is accompanied by an affidavit that provides evidence of either of the following matters:
 (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
 (ii) that at least 1 of the parties to the family dispute, or a child of one of the parties, has been subject to domestic violence by one of the other parties to the dispute.
