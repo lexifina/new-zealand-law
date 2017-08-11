@@ -7,7 +7,6 @@ City Rail Link Limited ✓ ✓ ✓ ✓
 Crown Asset Management Limited ✓ ✓ ✓
 Crown Fibre Holdings Limited
 Education Payroll Limited ✓ ✓ ✓ ✓
-Fairway Resolution Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
 Predator Free 2050 Limited ✓ ✓ ✓ ✓
