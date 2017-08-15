@@ -1,0 +1,36 @@
+# Schedule 1AA Transitional, savings, and related provisions
+s 6C
+Part 1 Provisions relating to Commerce (Cartels and Other Matters) Amendment Act 2017
+1 Interpretation
+(1) In this Part, Amendment Act 2017 means the Commerce (Cartels and Other Matters) Amendment Act 2017.
+(2) In this Part,—
+(a) a reference to section 30, section 58A, section 65A, or section 80A (or a provision of that section) is a reference to that section (or provision) as amended, inserted, or substituted by the Amendment Act 2017 (subject to paragraph (b)); and
+(b) a reference to a former section (for example, former section 30) is a reference to that section as in force immediately before the commencement of this clause.
+2 Transitional provisions for cartel prohibition under section 30
+(1) Section 30(a) (which relates to entering into a contract or an arrangement, or arriving at an understanding, that contains a cartel provision) applies only to contracts, arrangements, or understandings that are entered into or arrived at after section 30 comes into force.
+(2) Section 30(b) (which relates to giving effect to a cartel provision in a contract, arrangement, or understanding) applies only to conduct occurring after section 30 comes into force, but applies whether the contract, arrangement, or understanding is entered into or arrived at before or after section 30 comes into force, and whether or not the contract, arrangement, or understanding has been suspended at any time.
+(3) Subclauses (4) to (6) apply to a contract, arrangement, or understanding that was entered into or arrived at before the commencement of section 30 and that, at the time of that commencement, contained or may have contained a cartel provision.
+(4) Despite subclause (2), no proceedings under section 80, 80B, 80C, 81, or 82 may be commenced for a contravention of section 30(b) or 80A occurring during the transitional period.
+(5) However,—
+(a) proceedings under former section 80 or 80C, or section 81 or 82, may be commenced in relation to conduct occurring during the transitional period as if former sections 30 to 33 were still in force during the transitional period; and
+(b) proceedings under section 80B may be commenced for a contravention of former section 80A occurring during the transitional period.
+(6) Former sections 30 to 33, 80, 80A, and 80C continue to have effect as if those sections had not been repealed or amended by the Amendment Act 2017, and section 89 continues to apply, for the purpose of—
+(a) investigating a contravention to which subclause (5) applies:
+(b) commencing or completing proceedings to which subclause (5) applies:
+(c) imposing a penalty or other remedy or making an order in proceedings to which subclause (5) applies.
+(7) In this section, transitional period means the 9-month period starting on the commencement of section 30.
+3 Transitional provision for authorisations under section 58
+Section 58A(1) and (2) applies to an authorisation that is given either before or after section 12 of the Amendment Act 2017 comes into force.
+4 Transitional provision relating to amendments to Shipping Act 1987
+(1) This clause applies to a contract, arrangement, or understanding, or to a proposed contract, arrangement, or understanding, in so far as it contains a provision to which the exception in section 44(2) applies.
+(2) At any time before section 33 of the Amendment Act 2017 comes into force, any carrier (as defined in section 2 of the Shipping Act 1987) who is a party to the contract, arrangement, or understanding may apply to the Commission for the following:
+(a) an authorisation under section 58, in which case the Commission may grant the authorisation in accordance with that section:
+(b) a clearance under section 65A, in which case the Commission may grant the clearance in accordance with that section, except that the clearance may be granted in respect of a contract, arrangement, or understanding that has already been entered into or arrived at (and not just in relation to proposed contracts, arrangements, or understandings).
+(3) This clause is repealed at the close of the day immediately before section 33 of the Amendment Act 2017 comes into force.
+(4) Despite the repeal of this clause, any application made pursuant to subclause (2) before its repeal may continue to be dealt with by the Commission as if the clause had not been repealed.
+5 Transitional provision for offences and contraventions under repealed or amended provisions
+(1) This clause applies to an offence committed under, or a contravention of, any provision of this Act repealed or amended by the Amendment Act 2017 before the commencement of the provision that repealed or amended that provision.
+(2) The provisions repealed or amended by the Amendment Act 2017 continue to have effect as if they had not been repealed or amended for the purpose of—
+(a) investigating an offence or a contravention to which this clause applies:
+(b) commencing or completing proceedings for an offence or a contravention to which this clause applies:
+(c) imposing a penalty, or making an order, in relation to an offence or a contravention to which this clause applies.

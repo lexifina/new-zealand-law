@@ -1,9 +1,9 @@
 # 58A Effect of authorisation
-(1) While an authorisation under subsection (1) or subsection (5) of section 58 remains in force, as the case may be, nothing in section 27 or section 29, as the case may be, shall prevent the applicant from—
+(1) While an authorisation under section 58(1) remains in force, nothing in section 27, 30, or 30C prevents an applicant from—
 (a) entering into, or in accordance with the authorisation, giving effect to or enforcing any provision of the contract to which the authorisation relates; or
 (b) entering into, or in accordance with the authorisation, giving effect to the arrangement to which the authorisation relates; or
 (c) arriving at, or in accordance with the authorisation, giving effect to the understanding to which the authorisation relates.
-(2) While an authorisation under subsection (2) or subsection (6) of section 58 remains in force, as the case may be, nothing in section 27 or section 29, as the case may be, shall prevent the applicant from—
+(2) While an authorisation under section 58(2) remains in force, nothing in section 27, 30, or 30C prevents an applicant from—
 (a) in accordance with the authorisation, giving effect to or enforcing the contract to which the authorisation relates; or
 (b) in accordance with the authorisation, giving effect to the arrangement or understanding.
 (3) While an authorisation under subsection (3) of section 58 remains in force, nothing in section 28 shall prevent the applicant from—
