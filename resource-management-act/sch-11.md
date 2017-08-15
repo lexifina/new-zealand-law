@@ -22,6 +22,7 @@ Ngāti Manuhiri Claims Settlement Act 2012
 Ngāti Mutunga Claims Settlement Act 2006
 Ngāti Pāhauwera Treaty Claims Settlement Act 2012
 Ngati Porou Claims Settlement Act 2012
+Ngāti Pūkenga Claims Settlement Act 2017
 Ngāti Rangiteaorere Claims Settlement Act 2014
 Ngāti Rangiwewehi Claims Settlement Act 2014
 Ngati Ruanui Claims Settlement Act 2003
@@ -34,6 +35,7 @@ Ngāti Whātua Ōrākei Claims Settlement Act 2012
 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
 Pouakani Claims Settlement Act 2000
 Rangitāne o Manawatu Claims Settlement Act 2016
+Rangitāne Tū Mai Rā (Wairarapa Tamaki nui-ā-Rua) Claims Settlement Act 2017
 Raukawa Claims Settlement Act 2014
 Rongowhakaata Claims Settlement Act 2012
 Tapuika Claims Settlement Act 2014
