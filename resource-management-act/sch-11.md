@@ -32,6 +32,7 @@ Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
 Ngāti Whare Claims Settlement Act 2012
 Ngāti Whātua o Kaipara Claims Settlement Act 2013
 Ngāti Whātua Ōrākei Claims Settlement Act 2012
+Ngatikahu ki Whangaroa Claims Settlement Act 2017
 Port Nicholson Block (Taranaki Whānui ki Te Upoko o Te Ika) Claims Settlement Act 2009
 Pouakani Claims Settlement Act 2000
 Rangitāne o Manawatu Claims Settlement Act 2016
