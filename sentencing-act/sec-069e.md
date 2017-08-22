@@ -8,6 +8,8 @@
 (ii) not later than 24 hours after the start date of the sentence if the sentence has been deferred under section 20A(2)(b) unless the 24 hours elapses on a weekend or a public holiday, in which case the offender must report on the next working day:
 (c) the offender must report to a probation officer as and when required to do so by the probation officer, and must notify the probation officer of his or her residential address, any change to that address, and the nature and place of his or her employment when asked to do so:
 (d) the offender must keep in his or her possession the curfew order drawn up under section 74 and, if requested to do so by a constable or a probation officer, must produce the order for inspection:
+(da) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+(db) the offender must, if a probation officer directs, allow the collection of biometric information:
 (e) the offender must, when required to do so by a probation officer, submit to the electronic monitoring of compliance with the conditions of his or her sentence, which may require the offender to be connected to electronic monitoring equipment throughout the sentence term and not just throughout the curfew period:
 (f) the offender must, if required to submit to the electronic monitoring of his or her sentence, remain during the curfew period within the area defined by the probation officer.
 (2) An offender may leave the curfew address during the curfew period only—

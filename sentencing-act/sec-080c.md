@@ -6,6 +6,8 @@
 (a) the offender is under the supervision of a probation officer and must co-operate with the probation officer and comply with any lawful direction given by that probation officer; and
 (b) the offender must not leave the home detention residence at any time except in the circumstances set out in subsections (3), (4), and (5); and
 (c) the offender must keep in his or her possession the order drawn up under section 80ZC and, if requested to do so by a constable or a probation officer, must produce the order for inspection; and
+(ca) the offender must not leave or attempt to leave New Zealand without the prior written consent of a probation officer:
+(cb) the offender must, if a probation officer directs, allow the collection of biometric information:
 (d) the offender must, when required by a probation officer, submit to the electronic monitoring of compliance with his or her detention conditions; and
 (da) the offender must, if required to submit to the electronic monitoring of his or her sentence, remain within the area defined by the probation officer; and
 (e) the offender must not engage, or continue to engage, in any employment or occupation in which a probation officer has directed the offender not to engage or continue to engage; and
