@@ -22,4 +22,4 @@
 (e) whether all or any of the parties received advice from, or were represented by, a lawyer, either at the time of the negotiations leading to the agreement or at any other relevant time.
 (5) To avoid doubt, nothing in this section—
 (a) prevents the Commission from bringing proceedings for an offence under this Act (including an offence under section 12A, 13, or 14(1)) against a party to the agreement referred to in subsection (1):
-(b) limits the application of the Contractual Remedies Act 1979.
+(b) limits the application of subpart 3 of Part 2 of the Contract and Commercial Law Act 2017.

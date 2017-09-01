@@ -8,7 +8,7 @@
 (d) an order that the defendant perform any acts specified in the order with a view to redressing any loss or damage suffered by the complainant or, as the case may be, the aggrieved person as a result of the breach:
 (e) a declaration that any contract entered into or performed in contravention of any provision of Part 1A or Part 2 is an illegal contract:
 (f) an order that the defendant undertake any specified training or any other programme, or implement any specified policy or programme, in order to assist or enable the defendant to comply with the provisions of this Act:
-(g) relief in accordance with the Illegal Contracts Act 1970 in respect of any such contract to which the defendant and the complainant or, as the case may be, the aggrieved person are parties:
+(g) relief in accordance with subpart 5 of Part 2 of the Contract and Commercial Law Act 2017 in respect of any such contract to which the defendant and the complainant or, as the case may be, the aggrieved person are parties:
 (h) any other relief the Tribunal thinks fit.
 (4) It is no defence to proceedings referred to in subsection (2) or subsection (5) that the breach was unintentional or without negligence on the part of the party against whom the complaint was made, but, subject to section 92P, the Tribunal must take the conduct of the parties into account in deciding what, if any, remedy to grant.
 (5) In proceedings before the Human Rights Review Tribunal brought, under section 92B(3), by the person against whom a complaint was made, that person may seek a declaration that he or she has not committed a breach of Part 1A or Part 2.
