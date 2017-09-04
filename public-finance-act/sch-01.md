@@ -53,7 +53,4 @@ Additional transitional provisions applicable to Schedule 4 organisations and Sc
 (3) In this clause, TRCL's first statement of intent means Tāmaki Redevelopment Company Limited's statement of intent for the 2013/14 financial year.
 Part 2 Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
-(1) In this clause, commencement date means the day on which the Public Finance (Fiscal Responsibility) Amendment Act 2013 comes into force.
-(2) Section 26M(3)(c) does not apply to a budget policy statement if the fiscal strategy report most recently presented to the House of Representatives was presented before the commencement date.
-(3) Section 26NA(2)(d) does not apply to the first investment statement presented to the House of Representatives under section 26NA.
-(4) This Part is repealed 4 years after the commencement date.
+[Repealed]
