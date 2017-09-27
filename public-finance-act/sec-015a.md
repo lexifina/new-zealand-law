@@ -14,5 +14,5 @@
 (b) projected expenses or non-departmental capital expenditure to be incurred for the category; and
 (c) comparative projected and estimated actual expenses or non-departmental capital expenditure for the category for the previous financial year.
 (4) However,—
-(a) in the case of an appropriation for expenses and capital expenditure to be incurred by an intelligence and security department, subsection (2)(a) and (c) do not apply; and
+(a) in the case of an appropriation for expenses and capital expenditure to be incurred by an intelligence and security department, subsection (2)(c) does not apply; and
 (b) in the case of an appropriation for borrowing expenses, subsection (2)(c) does not apply.

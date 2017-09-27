@@ -1,10 +1,8 @@
 # 45E Application of this Part to intelligence and security departments
 (1) This Part applies to an intelligence and security department, subject to subsection (2) and with the following (and any other necessary) modifications:
-(a) section 40 must be read as if section 40(2)(d)(ii) did not include a reference to the Minister; and
-(b) sections 45B and 45BA must be read as if those sections referred to the forecast or actual financial statements, prepared in accordance with generally accepted accounting practice, that, in the opinion of the responsible Minister, will fairly reflect the department's forecast or actual financial operations and financial position for that financial year; and
-(c) section 4J of the New Zealand Security Intelligence Service Act 1969 or, as the case may be, section 12 of the Government Communications Security Bureau Act 2003 is substituted (subject to all necessary modifications) for sections 43 and 44, except that—
-(i) the report presented to the House of Representatives under section 4J(3) of the New Zealand Security Intelligence Service Act 1969 or section 12(3) of the Government Communications Security Bureau Act 2003 must include a statement that provides a record of the total of the actual expenses and capital expenditure incurred by the department for that year against the department's appropriation for that financial year (that statement being a substitute for the financial statements submitted to the responsible Minister and the Intelligence and Security Committee); and
-(ii) the department must publish the report as soon as practicable after it has been presented to the House of Representatives.
+(a) section 40 must be read as if the discretion conferred on the Minister by section 40(2)(d)(ii) were only able to be exercised with the agreement of the responsible Minister; and
+(b) [Repealed]
+(c) section 221 of the Intelligence and Security Act 2017 is substituted for sections 43 and 44.
 (d) [Repealed]
 (2) Section 39 (which requires information provided by a department on its strategic intentions to be presented to the House of Representatives and to be published) does not apply to an intelligence and security department.
 (3) However, subsection (2) does not affect the obligations of the responsible Minister of an intelligence and security department under section 39(3).
