@@ -13,13 +13,13 @@ security, intelligence, or law enforcement agency means—
 (a) the New Zealand Defence Force:
 (b) the Government Communications Security Bureau:
 (c) the New Zealand Police:
-(d) the New Zealand Security Intelligence Service:
-(e) any agency declared by the Governor-General from time to time by Order in Council to be an intelligence and security agency for the purposes of the Inspector-General of Intelligence and Security Act 1996
+(d) the New Zealand Security Intelligence Service
+(e) [Repealed]
 special advocate means a person appointed under clause 6
 specified agency means—
 (a) the New Zealand Defence Force:
 (b) the New Zealand Police:
-(c) the New Zealand Security Intelligence Service:
+(c) [Repealed]
 (d) a government department named in Schedule 1 of the State Sector Act 1988.
 3 Meaning of classified security information
 (1) In this schedule, classified security information means information—
