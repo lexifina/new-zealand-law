@@ -4,11 +4,8 @@
 (a) is a party to that private communication; or
 (b) does so pursuant to, and in accordance with the terms of, any authority conferred on him or her by or under—
 (i) the Search and Surveillance Act 2012; or
-(ii) [Repealed]
-(iii) the New Zealand Security Intelligence Service Act 1969; or
-(iiia) the Government Communications Security Bureau Act 2003; or
-(iv) [Repealed]
-(v) the International Terrorism (Emergency Powers) Act 1987.
+(ii) Part 4 of the Intelligence and Security Act 2017; or
+(iii) the International Terrorism (Emergency Powers) Act 1987.
 (3) [Repealed]
 (4) Subsection (1) does not apply to any monitoring of a prisoner call under section 113 of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under section 189B of that Act.
 (5) Subsection (1) does not apply to the interception of private communications by any interception device operated by a person engaged in providing an Internet or other communication service to the public if—

@@ -2,7 +2,8 @@
 (1) This section applies to the following persons:
 (a) any constable; and
 (b) any Customs officer; and
-(c) any officer or employee of the New Zealand Security Intelligence Service; and
+(c) any employee of the New Zealand Security Intelligence Service; and
+(ca) any employee of the Government Communications Security Bureau; and
 (d) any employee of the Department of Corrections and any other employee exercising powers or functions under the Corrections Act 2004; and
 (e) any lawyer or agent—
 (i) giving legal advice in relation to an intimate visual recording; or
