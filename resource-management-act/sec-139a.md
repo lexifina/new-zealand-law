@@ -21,5 +21,5 @@
 (c) the date on which the authority receives the payment of the appropriate administrative charge.
 (7) Subsection (8) applies if a consent authority that issued a certificate becomes aware that the information that a person provided in order to obtain the certificate contained inaccuracies.
 (8) The authority must revoke the certificate, if it is satisfied that the inaccuracies were material in satisfying the authority that it must issue the certificate.
-(9) An existing use certificate is treated as an appropriate resource consent. The provisions of this Act apply to the certificate, except for sections 87AA to 119 and 123 to 150.
-(10) Sections 357A and 357C to 358 apply in relation to the issue or revocation of an existing use certificate.
+(9) An existing use certificate is treated as an appropriate resource consent. The provisions of this Act apply to the certificate, except for sections 87AA to 119, 120(1A) and (1B), and 123 to 150.
+(10) Sections 357A, 357AB, and 357C to 358 apply in relation to the issue or revocation of an existing use certificate.

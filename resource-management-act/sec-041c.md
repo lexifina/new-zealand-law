@@ -27,9 +27,6 @@
 (6) At the hearing, the authority may direct a person presenting a submission not to present—
 (a) the whole submission, if all of it is irrelevant or not in dispute; or
 (b) any part of it that is irrelevant or not in dispute.
-(7) Before or at the hearing, the authority may direct that the whole, or a part, of a submission be struck out if the authority considers—
-(a) that the whole submission, or the part, is frivolous or vexatious; or
-(b) that the whole submission, or the part, discloses no reasonable or relevant case; or
-(c) that it would otherwise be an abuse of the hearing process to allow the whole submission, or the part, to be taken further.
-(8) If the authority gives a direction under subsection (7), it must record its reasons for the direction.
-(9) A person whose submission, or part of whose submission, is struck out has a right of objection under section 357.
+(7) [Repealed]
+(8) [Repealed]
+(9) [Repealed]

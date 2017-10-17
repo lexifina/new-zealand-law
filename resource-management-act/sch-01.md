@@ -26,6 +26,7 @@ Preparation and change of policy statements and plans by local authorities
 8D Withdrawal of proposed policy statements and plans
 9 Recommendations and decisions on requirements
 10 Decisions on provisions and matters raised in submissions
+10A Application to Minister for extension of time
 11 Notification of decision
 12 Record of effect of decisions on provisions other than requirements [Repealed]
 13 Decision of requiring authority or heritage protection authority
@@ -380,6 +381,21 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (a) give its decision no later than 2 years after notifying the proposed policy statement or plan under clause 5; and
 (b) publicly notify the decision within the same time.
 (5) On and from the date the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
+10A Application to Minister for extension of time
+(1) A local authority must, before the time for making its decision under clause 10, apply to the Minister for an extension of the time for giving a decision under that clause if the local authority is unable, or is likely to be unable, to meet the requirement of clause 10(4)(a) (under which decisions must be given within 2 years of notification of a proposed policy statement or plan).
+(2) An application under subclause (1) must be in writing, and must set out—
+(a) the reasons for the request for an extension; and
+(b) the duration of the extension required.
+(3) Before applying for an extension, a local authority must take into account—
+(a) the interests of any person who, in its opinion, may be directly affected by an extension; and
+(b) the interests of the community in achieving adequate assessment of the effects of the proposed policy statement or plan or change to a policy statement or plan; and
+(c) its duty under section 21 to avoid unreasonable delay.
+(4) The Minister—
+(a) may decline or agree to an extension applied for under subclause (1); but
+(b) in the case of a regional coastal plan, must consider the views of the Minister of Conservation before granting an extension.
+(5) The Minister must serve notice of his or her decision on the local authority.
+(6) If the Minister grants an extension, the local authority must give public notice of that extension.
+(7) This clause applies instead of section 37 if the time limit prescribed by clause 10(4)(a) is to be extended.
 11 Notification of decision
 (1) At the same time as a local authority publicly notifies a decision under clause 10(4)(b), it must serve, on every person who made a submission on the proposed policy statement or plan concerned,—
 (a) a copy of the public notice; and
@@ -956,7 +972,11 @@ The function of every panel is—
 (d) section 41 (which provides for the application of certain provisions of the Commissions of Inquiry Act 1908):
 (e) section 41A (which relates to the control of hearings):
 (f) section 41B (which provides for the giving of directions as to the time for providing evidence in relation to a hearing):
-(g) section 41C (which sets out the directions and requests that may be given before or at a hearing), except section 41C(4).
+(g) section 41C (which sets out the directions and requests that may be given before or at a hearing), except section 41C(4):
+(h) section 41D (which provides for submissions to be struck out before or at a hearing).
+(1A) If a panel exercises a power under section 41D,—
+(a) a person whose submission is struck out has a right to objection under section 357 as if the references in that section to an authority were references to the panel; and
+(b) sections 357C to 358 apply to the panel as the body to which the objection is made under section 357.
 (2) A panel may exercise the powers conferred by clause 8AA, except that in clause 8AA(2) to (6) the references to a local authority are to be read as references to a panel.
 (3) Subclause (2) applies for the purpose of clarifying or facilitating the resolution of a matter relating to a proposed policy statement or plan.
 (4) If a panel considers it appropriate, it may on its own initiative, or if requested, invite anyone who made a submission on a proposed policy statement or plan to meet with the local authority.
