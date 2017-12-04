@@ -34,3 +34,32 @@ An amendment made by section 35(2) or 46(6) of the Amendment Act applies only if
 10 Application of amendments to Schedule 1A (amounts for unlawful acts)
 (1) The amendments made by section 46(1) of the Amendment Act in relation to sections 30(2) and 48(4)(b) of this Act apply only to unlawful acts that occur on or after the commencement date.
 (2) The amendments made by section 46(3) and (5) of the Amendment Act apply only to unlawful acts that occur on or after the commencement date.
+Part 2 Provisions relating to Healthy Homes Guarantee Act 2017
+11 Interpretation
+In this Part, HHG Act means the Healthy Homes Guarantee Act 2017.
+12 Application of HHG Act
+General
+(1) An amendment made by the HHG Act applies to a tenancy whether the tenancy commences before, on, or after the date on which the amendment comes into force.
+Landlords' statements
+(2) Subclauses (3) and (4) apply to a tenancy agreement that is made before 1 July 2019.
+(3) Section 13A(1CA), as inserted by section 4(2) of the HHG Act, does not apply to the tenancy agreement.
+(4) Section 13A(1CB), as inserted by section 4(2) of the HHG Act, applies to the tenancy agreement only if the written variation or renewal is signed by the landlord on or after 1 July 2019.
+Application of sections 45(1)(bb) and 66I(1)(bb) (compliance with healthy homes standards)
+(5) If a tenancy commences before 1 July 2019, section 45(1)(bb) or 66I(1)(bb), as replaced by section 5(1) or 8(1) of the HHG Act, applies to the landlord only at and after the prescribed time (which may be the beginning of 1 July 2019 but must be no later than the beginning of 1 July 2024).
+(6) If a tenancy commences on or after 1 July 2019 but before 1 July 2024, section 45(1)(bb) or 66I(1)(bb), as replaced by section 5(1) or 8(1) of the HHG Act, applies to the landlord only at and after the prescribed time (which may be the commencement of the tenancy but must be no later than the beginning of 1 July 2024).
+(7) In subclauses (5) and (6), prescribed means prescribed by, or determined in accordance with, regulations under subsection (1) of section 138B, as replaced by section 6 of the HHG Act, and regulations under that subsection may include provision as contemplated by this subclause accordingly.
+(8) Without limiting subsection (6) of section 138B, as replaced by section 6 of the HHG Act, different times may be prescribed in relation to different standards included in the healthy homes standards.
+Other provisions
+(9) The following apply before 1 July 2019 as if they were in force:
+(a) the definition of healthy homes standards in section 2(1), as inserted by section 8(1) of the HHG Act:
+(b) sections 48(2)(cb) and 66S(1)(cb), as inserted by section 8(1) of the HHG Act:
+(c) the powers to make regulations (including to amend and revoke regulations made) under section 138B, as replaced by section 6 of the HHG Act.
+(10) Sections 48(2)(ca) and 66S(1)(ca), as in force on the date this subclause comes into force, apply before 1 July 2019 in relation to insulation disregarding the HHG Act.
+13 Residential Tenancies (Smoke Alarms and Insulation) Regulations 2016
+(1) Regulations under subsection (1) of section 138B, as replaced by section 6 of the HHG Act, may—
+(a) revoke the 2016 insulation regulations at the beginning of 1 July 2019; or
+(b) provide for the 2016 insulation regulations to continue in force on and after 1 July 2019, and (as applicable) to come into force on or after that date, as if they had been made under subsection (1) of section 138B, as replaced by section 6 of the HHG Act.
+(2) If provision is made under subclause (1)(b), the 2016 insulation regulations—
+(a) are, accordingly, standards included in the healthy homes standards; and
+(b) may be amended or revoked accordingly by regulations under subsection (1) of section 138B, as replaced by section 6 of the HHG Act.
+(3) In this clause, 2016 insulation regulations means the Residential Tenancies (Smoke Alarms and Insulation) Regulations 2016 to the extent that those regulations are regulations under section 138B disregarding the HHG Act.
