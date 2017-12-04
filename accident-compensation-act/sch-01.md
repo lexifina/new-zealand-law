@@ -64,6 +64,10 @@ Claimant no longer an employee
 43 Weekly earnings if employment ended before commencement of incapacity
 Employee on unpaid parental leave
 44 Weekly earnings if employee on unpaid parental leave immediately before his or her incapacity commenced
+Claimant who is recuperating organ donor
+44A Weekly earnings if claimant receiving earnings compensation as organ donor immediately before his or her incapacity commenced
+Employee who has consecutive periods of unpaid parental leave and recuperation from organ donation
+44B Weekly earnings if employee has consecutive periods of unpaid parental leave and earnings compensation as organ donor
 Estimated earnings
 45 Interim estimation of weekly earnings that cannot be ascertained
 Maximum compensation
@@ -595,11 +599,12 @@ is 52 or such smaller number, if adjustments are required under subclause (4).
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
 (a) any period during which the claimant was entitled to weekly compensation:
 (b) any continuous period of unpaid sick leave, during a period of employment, of more than 1 week:
+(ba) any period during which the claimant was within a payment period under the Compensation for Live Organ Donors Act 2016:
 (c) any period during which—
 (i) the claimant did not receive earnings as an employee; and
 (ii) the claimant did receive earnings as a self-employed person or as a shareholder-employee; and
 (iii) those earnings ceased before the commencement of the claimant's incapacity:
-(d) any earnings in respect of any period under paragraph (a), (b), or (c).
+(d) any earnings in respect of any period under paragraph (a), (b), (ba), or (c).
 (4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)(a), (b), or (c) applies to.
 (5) For the purposes of subclause (3)(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
 Self-employed claimant
@@ -644,10 +649,11 @@ is the claimant's total earnings as an employee in the 52 weeks immediately befo
 b
 is the claimant's earnings as a self-employed person in the relevant year
 c
-is 52
+is 52 or such smaller number, if an adjustment is required under subclause (3A)
 d
-is the number of weeks in the relevant year.
+is the number of weeks in the relevant year or such smaller number, if an adjustment is required under subclause (3A).
 (3) The amount that applies under this subclause is the amount of minimum weekly earnings as determined under clause 42(3), if the claimant is an earner who is liable to pay the minimum levy set out in regulations made for the purposes of section 168B.
+(3A) The numbers referred to in items c and d of the formula in subclause (2)(c) must be adjusted by deducting any period during which the claimant was within a payment period under the Compensation for Live Organ Donors Act 2016.
 (4) A claimant is eligible for the greater of—
 (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
 (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
@@ -692,9 +698,10 @@ is the claimant's total earnings as an employee in the 52 weeks immediately befo
 b
 is the claimant's earnings as a shareholder-employee in the relevant year
 c
-is 52
+is 52 or such smaller number, if an adjustment is required under subclause (2A)
 d
-is the number of weeks in the relevant year.
+is the number of weeks in the relevant year or such smaller number, if an adjustment is required under subclause (2A).
+(2A) The numbers referred to in items c and d of the formula in subclause (2)(c) must be adjusted by deducting any period during which the claimant was within a payment period under the Compensation for Live Organ Donors Act 2016.
 (3) A claimant is eligible for the greater of—
 (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
 (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
@@ -780,6 +787,25 @@ Employee on unpaid parental leave
 (a) weekly compensation for loss of earnings arising from the application of this clause:
 (b) weekly compensation for loss of earnings arising from an entitlement under any other provision of this schedule.
 (6) Parental leave must not be treated as paid leave for the purposes of this clause only because the person may be entitled to a payment in respect of the leave under Part 7A of the Parental Leave and Employment Protection Act 1987.
+Claimant who is recuperating organ donor
+44A Weekly earnings if claimant receiving earnings compensation as organ donor immediately before his or her incapacity commenced
+(1) This clause applies to a claimant who is within a payment period under the Compensation for Live Organ Donors Act 2016 immediately before his or her incapacity commenced.
+(2) The claimant's incapacity is deemed to have commenced on the date on which the payment period started—
+(a) for the purposes of calculating the claimant's weekly compensation, if the claimant had earnings immediately before that date; or
+(b) for the purposes of applying clause 43, if the claimant did not have earnings immediately before that date.
+(3) For the purposes of determining the commencement date of entitlement to compensation for loss of earnings under this Act, the date that falls immediately after the payment period ends is deemed to be the date his or her incapacity commenced.
+(4) Unless the personal injury is a motor vehicle injury, a work-related personal injury, or a treatment injury, payments under this clause come from the Earners' Account.
+(5) If this clause applies, the claimant is entitled to the greater of the following:
+(a) weekly compensation for loss of earnings arising from the application of this clause:
+(b) weekly compensation for loss of earnings arising from an entitlement under any other provision of this schedule.
+Employee who has consecutive periods of unpaid parental leave and recuperation from organ donation
+44B Weekly earnings if employee has consecutive periods of unpaid parental leave and earnings compensation as organ donor
+(1) This clause applies if a claimant is an employee and either—
+(a) clause 44 applies to the claimant and the claimant's unpaid parental leave is immediately before or after a payment period under the Compensation for Live Organ Donors Act 2016; or
+(b) clause 44A applies to the claimant and the claimant's payment period is immediately before or after a period of unpaid parental leave.
+(2) The claimant's incapacity is deemed to have commenced—
+(a) on the earlier of the dates described in clauses 44(2) and 44A(2), for the purposes of calculating the claimant's weekly compensation; and
+(b) on the later of the dates described in clauses 44(3) and 44A(3), for the purposes of determining the commencement date of entitlement to compensation for loss of earnings.
 Estimated earnings
 45 Interim estimation of weekly earnings that cannot be ascertained
 (1) This clause applies to a claimant who, immediately before his or her incapacity commenced,—
@@ -841,6 +867,7 @@ Abatement
 (ii) whether made in New Zealand currency or an overseas currency:
 (b) employment includes employment whether in New Zealand or overseas.
 (5) Payments made in an overseas currency must be treated as having been converted into New Zealand currency at the average rate of foreign exchange offered, at the date of payment, by registered banks in New Zealand.
+(6) In clause 51(2), earnings includes payments of earnings compensation under the Compensation for Live Organ Donors Act 2016.
 Compare: 1998 No 114 Schedule 1 cl 23
 50 Estimation for abatement purposes of earnings that cannot be ascertained
 (1) This clause applies to a claimant who has—
