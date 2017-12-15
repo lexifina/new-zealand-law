@@ -12,4 +12,6 @@
 (d) consider any response made by that person to the chief executive within the time allowed.
 (3) The written advice under subsection (2) may be given—
 (a) by delivering it to that person; or
-(b) by posting it to the most recent address for that person that has been notified to the chief executive.
+(b) by posting it to the most recent address for that person that has been notified to the chief executive; or
+(c) by emailing it to the person at an email address that is used by the person.
+(4) In the absence of proof to the contrary, written advice that is emailed to a person must be treated as received by the person on the second working day after the date on which it is emailed, and, in proving that the advice was emailed, it is sufficient to prove that the advice was properly addressed and sent to the email address.
