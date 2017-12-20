@@ -136,7 +136,7 @@ A worker participation system developed, agreed, and implemented under section 1
 (2) On and after the commencement of this clause, the register must be treated as if it were kept under clause 24 of Schedule 3 of this Act.
 New Zealand Mining Board of Examiners
 22 Continuation of New Zealand Mining Board of Examiners
-(1) The New Zealand Mining Board of Examiners (the Board) established under section 20D of the Health and Safety in Employment Act 1992 is continued.
+(1) The New Zealand Mining Board of Examiners (the Board) established under section 20D of the Health and Safety in Employment Act 1992is continued.
 (2) A person who, immediately before the commencement of this clause, held office as a member of the Board continues in office on and after that commencement and must be treated as if the person were appointed under clause 29 of Schedule 3 of this Act.
 23 Savings of Board levy
 If, before the commencement of this clause, a mine operator is liable to pay a levy under section 20H of the Health and Safety in Employment Act 1992 and the levy remains unpaid after payment is due, then, on and after the commencement of this clause,—
