@@ -1,2 +1,0 @@
-# 56D Interpretation
-[Repealed]
