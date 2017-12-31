@@ -1,2 +1,0 @@
-# 84F Interpretation
-[Repealed]
