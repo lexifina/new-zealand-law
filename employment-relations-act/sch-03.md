@@ -73,8 +73,7 @@ Compare: 1991 No 22 s 109
 (2) Every application for an order under section 105 or 106 of the District Court Act 2016 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 (3) Nothing in subclauses (1) and (2) limits the making of rules under section 212 or regulations under section 237.
 14 Power to award interest
-(1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
-(2) Subclause (1) does not authorise the giving of interest upon interest.
+In any proceedings for the recovery of any money, the court may, if it thinks fit, order that the amount awarded include interest, calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
 15 Power to dismiss frivolous or vexatious proceedings
 (1) The court may, at any time in any proceedings before it, dismiss a matter or defence that the court considers to be frivolous or vexatious.
 (2) In any such case, the order of the court may include an order for payment of costs and expenses against the party bringing the matter or defence before the Authority.

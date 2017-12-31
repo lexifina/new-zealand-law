@@ -59,9 +59,9 @@ Compare: 1991 No 22 s 96
 (2) Where a matter is resolved by the Authority making a consent order as to the terms of settlement, the Authority may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the Authority thinks fit.
 Compare: 1991 No 22 s 97
 11 Power to award interest
-(1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at the rate prescribed under section 87(3) of the Judicature Act 1908, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
+(1) In any matter involving the recovery of any money, the Authority may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, calculated in accordance with Schedule 2 of the Interest on Money Claims Act 2016, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the determination of the Authority.
 (2) Without limiting the Authority's discretion under subclause (1), in deciding whether to order the inclusion of interest, the Authority must consider whether there has been long-standing and repeated non-compliance with a demand notice.
-(3) Subclause (1) does not authorise the giving of interest upon interest.
+(3) [Repealed]
 12 Power to proceed if any party fails to attend
 If, without good cause shown, any party to a matter before the Authority fails to attend or be represented, the Authority may act as fully in the matter before it as if that party had duly attended or been represented.
 Compare: 1991 No 22 s 100
