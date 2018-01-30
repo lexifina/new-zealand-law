@@ -194,10 +194,13 @@ Individual rehabilitation plans
 (b) provide a link between the claimant and the services identified in the plan.
 (3) The following persons must be given an opportunity to participate in the preparation and costing of the plan to the extent that they are willing and able to do so:
 (a) the claimant:
-(b) any medical practitioner providing treatment to the claimant:
-(c) any employer or potential employer of the claimant.
+(b) the lead health practitioner:
+(c) any health practitioner providing treatment to the claimant:
+(d) any employer or potential employer of the claimant.
 (4) The Corporation is liable to meet the costs of preparing the plan, including the costs of any assessment that it has approved as necessary to enable the preparation of a plan.
-(5) In this clause, services includes the key aspects of social rehabilitation, as defined in section 81.
+(5) In this clause,—
+lead health practitioner means the health practitioner who is leading the co-ordination of the provision of treatment or rehabilitation (or both) to the claimant
+services includes the key aspects of social rehabilitation, as defined in section 81.
 Compare: 1998 No 114 Schedule 1 cl 31
 8 Agreement to plan
 (1) The Corporation must then ask the claimant to agree to the plan prepared for the claimant under clause 7.
@@ -287,7 +290,7 @@ Compare: 1998 No 114 Schedule 1 cl 36
 13 Aids and appliances
 (1) In deciding whether to provide or contribute to the cost of an aid or appliance, the Corporation must have regard to—
 (a) any rehabilitation outcome that would be achieved by providing it; and
-(b) whether a claimant has a prescription for the aid or appliance from a medical practitioner who holds appropriate qualifications to the satisfaction of the Corporation.
+(b) whether a claimant has a prescription for the aid or appliance from a health practitioner who holds appropriate qualifications to the satisfaction of the Corporation.
 (2) The Corporation is not required to provide an artificial aid in the nature of an implant, unless the implant is implanted in the course of a surgical procedure approved by the Corporation.
 (3) The Corporation is not required to provide any aid or appliance, if a claimant already—
 (a) owns an aid or appliance that has, at the time at which the Corporation is making its decision, a similar function to the aid or appliance for which the claimant has lodged a claim; or
