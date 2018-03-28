@@ -557,16 +557,14 @@ Employee in permanent employment
 (b) the claimant's weekly earnings calculated in accordance with clause 36, as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
 34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
 (1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:
-a
-b
+a ÷ b
 where—
 a
 is the claimant's earnings as an employee (from that permanent employment) in the 4 weeks immediately before his or her incapacity commenced
 b
 is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
 (2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:
-a
-b
+a ÷ b
 where—
 a
 is the claimant's earnings as an employee (from employment with that employer) in the 52 weeks immediately before his or her incapacity commenced
@@ -584,16 +582,14 @@ Employee not in permanent employment
 (2) For the purposes of this clause and clause 36, employment is not permanent employment if, in the opinion of the Corporation, the claimant would have not continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
 36 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations
 (1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:
-a
-b
+a ÷ b
 where—
 a
 is the claimant's earnings as an employee (from all employment that was not permanent employment) in the 4 weeks immediately before his or her incapacity commenced
 b
 is the number of full or part weeks during which the claimant earned those earnings as an employee in the 4 weeks immediately before his or her incapacity commenced.
 (2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:
-a
-b
+a ÷ b
 where—
 a
 is the claimant's earnings as an employee (from all employment that was not permanent employment) in the 52 weeks immediately before his or her incapacity commenced
@@ -630,14 +626,14 @@ Compare: 1998 No 114 Schedule 1 cl 14
 (b) for any period of incapacity after the 4 weeks referred to in paragraph (a), the relevant amount calculated under subclause (2).
 (2) The amounts that apply under this subclause are,—
 (a) for claimants who first commenced receiving earnings as self-employed persons in the tax year in which the incapacity commenced, the amount calculated using the following formula:
-a
-b
+a ÷ b
 where—
 a
 is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
 b
 is the number of full or part weeks during which the claimant earned those earnings as an employee:
 (b) for claimants for whom the relevant year was the first year during which they received earnings as a self-employed person, the amount calculated using the following formula:
+(a + b) ÷ c
 where—
 a
 is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
@@ -646,6 +642,7 @@ is the claimant's earnings as a self-employed person in the relevant year
 c
 is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a self-employed person in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
 (c) for all other claimants, the amount calculated using the following formula:
+a ÷ c + b ÷ d
 where—
 a
 is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
@@ -679,14 +676,14 @@ Shareholder-employee
 (b) the relevant amount calculated under subclause (2).
 (2) The amounts to be calculated under this subclause are,—
 (a) for claimants who first commenced receiving earnings as a shareholder-employee in the tax year in which the incapacity commenced, the amount calculated using the following formula:
-a
-b
+a ÷ b
 where—
 a
 is the total of the claimant's earnings as an employee in the 52 weeks immediately before the incapacity commenced
 b
 is the number of full or part weeks during which the claimant earned those earnings as an employee:
 (b) for claimants for whom the relevant year was the first year during which they received earnings as a shareholder-employee, the amount calculated using the following formula:
+(a + b) ÷ c
 where—
 a
 is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
@@ -695,6 +692,7 @@ is the claimant's earnings as a shareholder-employee in the relevant year
 c
 is the combined number of full or part weeks during which the claimant earned those earnings as an employee and the number of weeks that the Corporation considers fairly and reasonably represents the number of weeks or part weeks during which the claimant earned those earnings as a shareholder-employee in the relevant year, up to a combined maximum of 52 weeks or the total number of weeks in the claimant's relevant year if the relevant year is more than 52 weeks:
 (c) for all other claimants, the amount calculated using the following formula:
+a ÷ c + b ÷ d
 where—
 a
 is the claimant's total earnings as an employee in the 52 weeks immediately before his or her incapacity commenced
