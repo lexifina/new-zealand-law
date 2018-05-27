@@ -65,8 +65,13 @@ Section 20 Conspiracy to defeat justice in the ICC
 Section 21 Interference with witnesses or officials of the ICC
 Maritime Crimes Act 1999
 Section Offence
-Section 4 Crimes relating to ships
-Section 5 Crimes relating to fixed platforms
+Section 4 Offences relating to ships
+Section 4A Further offences relating to ships
+Section 4B Offences relating to transportation of weapons and nuclear material and equipment
+Section 4C Offences relating to transportation of fugitives by ship
+Section 5 Offences relating to fixed platforms
+Section 5A Further offences relating to fixed platforms
+Section 6 Offences relating to death and injury
 Mercenary Activities (Prohibition) Act 2004
 Section Offence
 Section 7 Recruiting a person to be a mercenary
