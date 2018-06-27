@@ -1,6 +1,7 @@
 # Schedule 11 Acts that include statutory acknowledgements
 ss 95E, 274
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
+Heretaunga Tamatea Claims Settlement Act 2018
 Hineuru Claims Settlement Act 2016
 Maraeroa A and B Blocks Claims Settlement Act 2012
 Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
