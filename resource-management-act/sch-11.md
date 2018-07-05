@@ -6,9 +6,10 @@ Hineuru Claims Settlement Act 2016
 Maraeroa A and B Blocks Claims Settlement Act 2012
 Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
-NgāiTakoto Claims Settlement Act 2015
 Ngāi Tahu Claims Settlement Act 1998
+Ngāi Tai ki Tāmaki Claims Settlement Act 2018
 Ngai Tāmanuhiri Claims Settlement Act 2012
+NgāiTakoto Claims Settlement Act 2015
 Ngāruahine Claims Settlement Act 2016
 Ngāti Apa ki te Rā Tō, Ngāti Kuia, and Rangitāne o Wairau Claims Settlement Act 2014
 Ngāti Apa (North Island) Claims Settlement Act 2010
