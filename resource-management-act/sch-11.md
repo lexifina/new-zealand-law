@@ -29,6 +29,7 @@ Ngāti Rangiteaorere Claims Settlement Act 2014
 Ngāti Rangiwewehi Claims Settlement Act 2014
 Ngati Ruanui Claims Settlement Act 2003
 Ngati Tama Claims Settlement Act 2003
+Ngāti Tamaoho Claims Settlement Act 2018
 Ngati Toa Rangatira Claims Settlement Act 2014
 Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
 Ngāti Whare Claims Settlement Act 2012
