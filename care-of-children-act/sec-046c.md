@@ -1,4 +1,4 @@
 # 46C Certain children may seek review of parent's or guardian's decision or refusal to give consent
 (1) A child of or over the age of 16 years who is affected by a decision or by a refusal of consent by a parent or guardian in an important matter may (unless the child is under the guardianship of the court) apply to a Family Court Judge, who may, if he or she thinks it reasonable in all the circumstances to do so, review the decision or refusal and make any order in respect of it that he or she thinks fit.
 (2) A consent given by a Family Court Judge under this section has the same effect as if it had been given by the parent or guardian.
-(3) This section does not apply where a parent or guardian refuses to give consent to a child's marriage, civil union, or entry into a de facto relationship. In those cases, sections 18 to 20 of the Marriage Act 1955, sections 19 and 20 of the Civil Union Act 2004, and section 46A of this Act, respectively, apply instead.
+(3) [Repealed]
