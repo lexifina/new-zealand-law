@@ -5,3 +5,6 @@
 (c) the total amount appropriated for that financial year for all output expense appropriations in that Vote is unaltered.
 (2) A clause that confirms the making of an Order in Council under subsection (1) in a financial year must be included in an Appropriation Bill that applies to that financial year.
 (3) Subsection (2) does not limit the validity of an Order in Council made under subsection (1) or the validity of any transfer made under that Order in Council.
+(4) In this section, output expense appropriation means—
+(a) an appropriation for 1 category of output expenses:
+(b) a multi-category appropriation that includes only categories of output expenses.

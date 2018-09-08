@@ -7,5 +7,5 @@
 (2) End-of-year performance information on an appropriation must be provided,—
 (a) for a multi-category appropriation, by the appropriation administrator; and
 (b) for an appropriation described in subsection (3), by the appropriation Minister; and
-(c) for any other appropriation, by a department, a departmental agency, an Office of Parliament, or a Crown entity.
-(3) Subsection (2)(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, or a Crown entity.
+(c) for any other appropriation, by a department, a departmental agency, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
+(3) Subsection (2)(b) applies in respect of an appropriation for non-departmental expenses, or non-departmental capital expenditure, from which resources will be provided to a person or an entity other than a department, a departmental agency, an Office of Parliament, a Crown entity, a Schedule 4 organisation (but not including a Reserves Board (as described in Schedule 4)), or a Schedule 4A company.
