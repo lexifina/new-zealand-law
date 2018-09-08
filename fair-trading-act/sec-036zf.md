@@ -8,5 +8,5 @@
 (i) is in trade; or
 (ii) is selling goods other than goods of a kind ordinarily acquired for personal, domestic, or household use or consumption; and
 (b) the vendor agrees (expressly or impliedly) that subsection (1) need not apply.
-(4) This section does not apply to a sale by auction of land or an interest in land conducted by a licensed real estate agent, and the provisions of the Real Estate Agents Act 2008 apply instead.
+(4) This section does not apply to a sale by auction of land or an interest in land conducted by an agent, a branch manager, or a salesperson, licensed under the Real Estate Agents Act 2008, and the provisions of that Act apply instead.
 Compare: 1928 No 29 s 31
