@@ -3,6 +3,7 @@ ss 95E, 274
 Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
 Heretaunga Tamatea Claims Settlement Act 2018
 Hineuru Claims Settlement Act 2016
+Iwi and Hapū of Te Rohe o Te Wairoa Claims Settlement Act 2018
 Maraeroa A and B Blocks Claims Settlement Act 2012
 Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
