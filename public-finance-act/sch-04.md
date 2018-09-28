@@ -6,7 +6,6 @@ Name or description of organisation SOI Annual report SP Securities Borrowing Gu
 Agricultural and Marketing Research and Development Trust
 Asia New Zealand Foundation
 Game Animal Council
-Leadership Development Centre Trust
 the Māori Trustee
 National Pacific Radio Trust
 New Zealand Fish and Game Council and Fish and Game Councils
