@@ -5,7 +5,7 @@ Company Sections of Crown Entities Act 2004 (relating to financial powers)
 161 162 163 164 165
 City Rail Link Limited ✓ ✓ ✓ ✓
 Crown Asset Management Limited ✓ ✓ ✓
-Crown Fibre Holdings Limited
+Crown Infrastructure Partners Limited
 Education Payroll Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
