@@ -8,6 +8,6 @@
 (i) delivering it to him or her in person; or
 (ii) posting it to the person's address or delivering it to a box at a document exchange that the person is using at the time; or
 (iii) sending it by fax machine to a telephone number used by the person for the transmission of documents by fax; or
-(iv) if the person is a registered user of the JBMS (within the meaning of section 131A of the Customs and Excise Act 1996), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the JBMS in relation to that person; or
+(iv) if the person is a registered user of a registered user system (within the meaning of section 322 of the Customs and Excise Act 2018), transmitting it by electronic means to the person in accordance with the normal procedure of operation of the registered user system in relation to that person.
 (v) emailing it to the person at an email address that is used by the person.
 (3) In the absence of proof to the contrary, a notice that is emailed to a person must be treated as served on the person on the second working day after the date on which it is emailed, and, in proving that the notice was emailed, it is sufficient to prove that the notice was properly addressed and sent to the email address.

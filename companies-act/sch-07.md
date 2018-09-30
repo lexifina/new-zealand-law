@@ -23,12 +23,12 @@ s 312
 (a) paid by the buyer to a seller on account of the purchase price of goods; or
 (b) to which the buyer is or becomes entitled to receive from a seller under section 36H of the Fair Trading Act 1986.
 (4) After paying the claims referred to in subclause (3), the liquidator must next pay the amount of any costs referred to in section 234(c).
-(5) After paying the claims referred to in subclause (4), the liquidator must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Collector of Customs, as the case may require, the amount of—
+(5) After paying the claims referred to in subclause (4), the liquidator must next pay, to the extent that it remains unpaid to the Commissioner of Inland Revenue or to the Comptroller of Customs, as the case may require, the amount of—
 (a) tax payable by the company in the manner required by Part 3 of the Goods and Services Tax Act 1985; and
 (b) tax deductions made by the company under the PAYE rules of the Income Tax Act 2007; and
 (c) non-resident withholding tax deducted by the company under the NRWT rules of the Income Tax Act 2007; and
 (d) resident withholding tax deducted by the company under the RWT rules of the Income Tax Act 2007; and
-(e) duty payable within the meaning of section 2(1) of the Customs and Excise Act 1996.
+(e) duty payable within the meaning of section 5(1) of the Customs and Excise Act 2018.
 2 Conditions to priority of payments to preferential creditors
 (1) The claims listed in each of subclauses (2), (3), (4), and (5) of clause 1—
 (a) rank equally among themselves and, subject to any maximum payment level specified in any Act or regulations, must be paid in full, unless the assets of the company are insufficient to meet them, in which case they abate in equal proportions; and
