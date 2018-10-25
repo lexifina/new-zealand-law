@@ -1,6 +1,13 @@
-# 56G Transitional provision requiring review after new prices set
-(1) As soon as practicable after any new price for a specified airport service is set in or after 2012 by a supplier of the service, the Commission must—
-(a) review the information that has been disclosed by suppliers of specified airport services under subpart 4; and
-(b) consult (without necessarily holding an inquiry) with interested parties; and
-(c) report to the Ministers of Commerce and Transport as to how effectively information disclosure regulation under this Part is promoting the purpose in section 52A in respect of the specified airport services.
-(2) To avoid doubt, subsection (1) applies regardless of whether or not any new price for a specified airport service is set before 2012.
+# 56G Commission inquiry
+(1) In conducting an inquiry into the regulation of specified airport services, the Commission must consider—
+(a) whether, in addition to information disclosure regulation, 1 of the following types of regulation should be imposed on the services:
+(i) negotiate/arbitrate regulation:
+(ii) default/customised price-quality regulation:
+(iii) individual price-quality regulation; and
+(b) if so, how that type of regulation should apply to specified airport companies.
+(2) As part of the inquiry, the Commission must—
+(a) determine or amend (and then apply) input methodologies for the supply of the services, in accordance with subpart 3; and
+(b) when considering whether a type of regulation might be imposed, assess the benefits of imposing different types of regulation in meeting the purpose of this Part against the costs of imposing those types of regulation.
+(3) The input methodologies must be determined or amended as soon as practicable after the inquiry is triggered.
+(4) During an inquiry, the Commission may have regard to any other matters it considers necessary or desirable for the purpose of the inquiry.
+(5) An inquiry under this section must follow the process set out in section 52J.

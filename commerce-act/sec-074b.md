@@ -1,12 +1,14 @@
-# 74B Investigation, notice, and opportunity to be heard
-A cease and desist order may be made under section 74A only if—
-(a) an investigation has been conducted into the alleged contravention of this Act and a report has been submitted to the Commission recommending that a cease and desist order be sought; and
-(b) the Commission agrees with the recommendation in the report and directs an employee of the Commission to make an application for a cease and desist order; and
-(c) the person against whom an order is sought is served with notice in writing of the following matters:
-(i) the nature of the alleged contravention:
-(ii) the terms of the proposed order:
-(iii) the reasons for the order; and
-(d) the person against whom an order is sought has an opportunity to—
-(i) access the relevant information held by the Commission:
-(ii) make a written submission:
-(iii) consent to the terms of the proposed order or have the matter determined by a Commissioner following a hearing.
+# 74B Matters included in undertakings
+(1) An undertaking under section 74A may, without limitation, include either or both of the following:
+(a) an undertaking to pay compensation to any person or otherwise take action to avoid, remedy, or mitigate any actual or likely adverse effects arising from a contravention, or possible contravention, of this Act:
+(b) an undertaking to pay to the Commission all or part of the Commission's costs incurred in investigating, or bringing proceedings in relation to, a contravention, or possible contravention, of this Act.
+(2) However, the Commission may accept an undertaking relating to the enforcement of section 47 only if the undertaking is to dispose of assets or shares specified in the undertaking.
+(3) If the Commission accepts an undertaking that involves payment of compensation to any person, or payment of the Commission's costs, the Commission must make the following information publicly available:
+(a) the amount of the compensation, or of the Commission's costs, that has been undertaken to be paid; and
+(b) a brief description of the circumstances and nature of the contravention or possible contravention of this Act to which the undertaking relates.
+(4) In this section, a contravention means any of the following:
+(a) an actual contravention:
+(b) aiding, abetting, counselling, or procuring a contravention:
+(c) inducing a contravention, whether by threats, promises, or otherwise:
+(d) being in any way, directly or indirectly, knowingly concerned in, or party to, a contravention:
+(e) conspiring with any other person in a contravention.

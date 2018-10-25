@@ -1,2 +1,2 @@
-# 56E Commission must make determination specifying how subpart applies
-The section 52P determinations that specify how information disclosure regulation applies to each supplier of specified airport services must be made no later than 1 July 2010 (or, if the deadline for determining input methodologies is extended under section 52U(2), no later than the day after the date to which that deadline is extended).
+# 56E Duty to supply information to Secretary
+A specified airport company must, as soon as practicable after disclosing information under this Part, supply a copy of the information to the Secretary (as defined in section 2(1) of the Civil Aviation Act 1990).

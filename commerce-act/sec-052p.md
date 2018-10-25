@@ -2,7 +2,8 @@
 (1) The Commission must make determinations under this section specifying how the relevant forms of regulation apply to suppliers of regulated goods or services.
 (2) Determinations must be made,—
 (a) in the case of goods or services declared to be regulated by an Order in Council under section 52N, as soon as practicable after the Order in Council is made; and
-(b) in the case of goods or services declared to be regulated under any of subparts 9 to 11, in accordance with sections 54I, 54J, 54K, 55E, and 56E.
+(b) in the case of goods or services declared to be regulated under subparts 9 and 10, in accordance with sections 54I, 54J, 54K, and 55E; and
+(c) in the case of regulation being imposed on specified airport services under section 56K, in accordance with section 56L.
 (3) Determinations must—
 (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and
 (b) set out any time frames (including the regulatory periods) that must be met or that apply; and

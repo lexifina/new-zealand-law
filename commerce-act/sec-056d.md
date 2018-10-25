@@ -1,2 +1,2 @@
-# 56D Duty to also disclose to Secretary of Transport
-Each supplier of specified airport services must supply to the Secretary of Transport a copy of any information disclosed under this Part, as soon as practicable after so disclosing it.
+# 56D Specified airport services subject to additional regulation if imposed by Order in Council
+In addition to information disclosure regulation, specified airport services are subject to the type of regulation (if any) imposed by Order in Council made under section 56K.

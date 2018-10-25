@@ -34,3 +34,37 @@ Section 58A(1) and (2) applies to an authorisation that is given either before o
 (a) investigating an offence or a contravention to which this clause applies:
 (b) commencing or completing proceedings for an offence or a contravention to which this clause applies:
 (c) imposing a penalty, or making an order, in relation to an offence or a contravention to which this clause applies.
+Part 2 Provisions relating to Commerce Amendment Act 2018
+6 Interpretation
+(1) In this Part,—
+Amendment Act 2018 means the Commerce Amendment Act 2018
+commencement date means the date on which section 12 of the Amendment Act 2018 comes into force
+Commissioner has the meaning given in former section 2(1)
+outstanding application means an application for a cease and desist order under former section 74B(b) that was—
+(a) made by an employee of the Commission before the commencement date; but
+(b) not determined by a Commissioner (either by making, or declining to make, an order) before the commencement date.
+(2) In this Part, a reference to a former section (for example, former section 74B(b)) is a reference to that section as in force immediately before the commencement date.
+Cease and desist orders
+7 Term of appointment of cease and desist Commissioners
+(1) If there are no outstanding applications, the Commissioners cease to hold office on the commencement date.
+(2) If there are 1 or more outstanding applications, the Commissioners continue in office under the notice of appointment made under former section 74AA.
+8 Applications for cease and desist orders made before commencement
+Former sections 74A to 74C remain in force for the purposes of allowing a Commissioner to consider and determine an outstanding application.
+9 Cease and desist orders continued
+(1) The following continue in force on and from the commencement date:
+(a) cease and desist orders made before the commencement date:
+(b) cease and desist orders made on or after the commencement date in accordance with clause 8.
+(2) Former section 74D continues to apply in relation to the orders described in subclause (1).
+(3) The High Court, on an application by the Commission or a person subject to a cease and desist order, may amend or revoke an order continued by subclause (1).
+10 Entitlement to appeal cease and desist order
+(1) Former section 92(f) remains in force for the purpose of allowing a person to appeal against a determination of a Commissioner under former section 74A.
+(2) Subclause (1) applies irrespective of whether the determination was made—
+(a) before the commencement date; or
+(b) in accordance with clause 8, on or after the commencement date.
+11 Court may not refer appeals back for reconsideration
+(1) This clause applies if—
+(a) the Commissioners have ceased to hold office, either under clause 7(1) or because the term of appointment referred to in former section 74AA(3)(a)(ii) has expired; but
+(b) an appeal against a determination of a Commissioner under former section 74A is being considered by the High Court.
+(2) The High Court—
+(a) must determine the appeal under section 93; and
+(b) despite section 94, must not refer any matter relating to the appeal back to the Commissioners to reconsider.
