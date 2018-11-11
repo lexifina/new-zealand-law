@@ -9,8 +9,8 @@ Compare: 1974 No 66 s 594ZE(2)
 (2) However, after the transfer, sections 40 and 41 of that Act apply to that land as if the council-controlled organisation were a local authority and the land had not been transferred under this Act.
 Compare: 1974 No 66 s 594ZF
 3 Obligation to lodge caveat
-(1) The rights of persons from whom land was acquired and their successors to have land offered to them under section 40(2) of the Public Works Act 1981 are deemed interests in land for the purposes of section 137 of the Land Transfer Act 1952, and the local authority that transfers the land to a council-controlled organisation under this Act must lodge an appropriate caveat.
-(2) In stating the interest claimed by the caveator in a caveat lodged under subclause (1), it is sufficient, for the purposes of section 138 of the Land Transfer Act 1952, to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
+(1) The rights of persons from whom land was acquired and their successors to have land offered to them under section 40(2) of the Public Works Act 1981 are deemed interests in land for the purposes of section 138 of the Land Transfer Act 2017, and the local authority that transfers the land to a council-controlled organisation under this Act must lodge an appropriate caveat.
+(2) In stating the interest claimed by the caveator in a caveat lodged under subclause (1), it is sufficient to refer to sections 40 to 42 of the Public Works Act 1981 and to this clause.
 Compare: 1974 No 66 s 594ZG
 4 Transfer of liabilities in relation to undertakings
 (1) A local authority may transfer its liabilities in relation to an undertaking to a council-controlled organisation if the transfer is agreed to by—

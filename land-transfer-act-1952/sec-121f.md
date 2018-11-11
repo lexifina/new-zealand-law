@@ -1,4 +1,0 @@
-# 121F Effect of registration of licence
-(1) Subject to this Part, registration of a licence does not give the licence any greater operation or effect than it would have without registration, but otherwise every registered licence is an interest within the meaning of section 62 suitably modified.
-(2) Every entry made on a registered licence, if purporting to be duly made and signed, shall be received in all courts of law and equity as evidence of the particulars contained in it, and, as against the person named in the original licence and all persons claiming through, under, or in trust for that person, is conclusive evidence that the person named in that entry is seised or possessed of the estate or interest of which the person so named is expressed to be the registered proprietor.
-Compare: 1964 No 42 s 6

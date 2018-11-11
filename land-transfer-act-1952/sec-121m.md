@@ -1,3 +1,0 @@
-# 121M Registration of transfer of licence or new licence
-(1) The Registrar must not register a memorandum of transfer of a registered licence unless the Registrar is satisfied that an instrument disposing of the shares to which the licence relates to the person acquiring the licence under the memorandum of transfer has been registered by the company or its directors.
-(2) The Registrar must not register a licence issued by a company in the place of any other registered licence, unless that other licence has been cancelled, revoked, rescinded, or surrendered, and the cancellation, revocation, rescission or surrender has been registered under subsection (3) of section 121K.

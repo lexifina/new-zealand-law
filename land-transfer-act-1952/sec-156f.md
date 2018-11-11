@@ -1,7 +1,0 @@
-# 156F Chief executive must supply tax information to Commissioner of Inland Revenue
-(1) The chief executive must supply to the Commissioner of Inland Revenue tax information and details about the transfer or transfers to which the tax information relates that are held by Land Information New Zealand.
-(2) The chief executive and the Commissioner may, for the purpose of this section, determine by written agreement between them, in relation to the information that must be supplied under subsection (1),—
-(a) the frequency with which the information must be supplied; and
-(b) the form in which the information must be supplied; and
-(c) the method by which the information must be supplied.
-(3) Subsection (1) applies despite anything in the Domestic Violence Act 1995.

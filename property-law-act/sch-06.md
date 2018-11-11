@@ -1,4 +1,4 @@
-# Schedule 6 Provisions applying to land not owned by the Crown and not under Land Transfer Act 1952
+# Schedule 6 Provisions applying to land not owned by the Crown and not under Land Transfer Act 2017
 s 351
 1 Certain dealings in land not valid unless made by deed
 (1) No partition, exchange, lease, assignment, or surrender of land is valid unless it is made by deed.

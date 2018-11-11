@@ -1,7 +1,7 @@
 # 237B Access strips
-(1) A local authority may agree with the registered proprietor of any land to acquire an easement over the land, and may agree upon the conditions upon which such an easement may be enjoyed.
+(1) A local authority may agree with the registered owner of any land to acquire an easement over the land, and may agree upon the conditions upon which such an easement may be enjoyed.
 (2) Any such easement shall—
-(a) be executed by the local authority and the registered proprietor; and
+(a) be executed by the local authority and the registered owner; and
 (b) be in the prescribed form; and
 (c) contain the relevant provisions in accordance with Schedule 10.
 (3) When deciding which matters shall be provided for in the easement, the parties shall consider—
@@ -17,4 +17,4 @@
 (5) Any such easement shall take effect when registered at the office of the Registrar-General of Land.
 (6) An access strip may be closed to public entry under section 237C.
 (7) No easement for an access strip may be registered with the Registrar-General of Land unless every person having a registered interest in the land has endorsed his or her consent on the easement.
-(8) The registered proprietor and the local authority may, by agreement, vary or cancel the easement if the matters in subsection (4) and any change in circumstances have been taken into account; and in any such case the provisions of section 234(7) and (8) shall apply, with all necessary modifications.
+(8) The registered owner and the local authority may, by agreement, vary or cancel the easement if the matters in subsection (4) and any change in circumstances have been taken into account; and in any such case the provisions of section 234(7) and (8) shall apply, with all necessary modifications.

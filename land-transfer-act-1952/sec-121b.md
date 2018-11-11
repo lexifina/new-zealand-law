@@ -1,8 +1,0 @@
-# 121B Issue of share certificates
-(1) Every flat or office owning company must issue to every shareholder in the company a share certificate that complies with the requirements of section 95(1)(a), (b), and (c) of the Companies Act 1993.
-(2) Where a company acts in contravention of or fails to comply with subsection (1),—
-(a) the company commits an offence and is liable on conviction to a fine not exceeding $5,000:
-(b) every director of the company commits an offence, and is liable on conviction to a fine not exceeding $5,000, unless the director shows that—
-(i) the company took all reasonable and proper steps to ensure that the requirements of that subsection would be complied with; or
-(ii) he or she took all reasonable steps to ensure that the company complied with the requirements of that subsection; or
-(iii) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of that subsection.

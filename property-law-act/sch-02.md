@@ -119,7 +119,7 @@ Compare: 1952 No 51 Schedule 4 cl 8
 (v) the formation of access ways and rights of way:
 (vi) the creation of easements:
 (vii) the execution of any bonds, covenants, or consent notices:
-(c) to survey the mortgaged land and deposit a plan of subdivision under the Land Transfer Act 1952.
+(c) to survey the mortgaged land and deposit a plan of subdivision under the Land Transfer Act 2017.
 (3) The mortgagor irrevocably appoints the mortgagee as the attorney of the mortgagor to execute documents and do things that may be reasonably necessary or incidental to the exercise of the powers conferred by subclauses (1) and (2).
 (4) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys, and the mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
 15 Unit titles
@@ -164,7 +164,7 @@ Compare: 1952 No 51 Schedule 4 cl 8
 (c) execute a new mortgage over any new or renewed lease or reversion in substitution for this mortgage on terms, covenants, and conditions as like or similar to those of the present mortgage as the circumstances will permit:
 (d) enforce the rights of the mortgagor to any compensation, damages, or other amounts for any cause, including compensation for the value of improvements and buildings that is or may be payable if any person other than the mortgagor becomes the purchaser at auction of any right to a lease of the land, or otherwise:
 (e) receive the compensation, damages, or other amounts referred to in paragraph (d) on behalf of the mortgagor:
-(f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of a request to the Registrar-General under section 117 or 118A of the Land Transfer Act 1952).
+(f) enter into, execute, and register any instrument that is necessary or expedient for any of the purposes specified in paragraphs (a) to (e) (including the making of an application to the Registrar-General under section 95 or 96 of the Land Transfer Act 2017).
 (6) The mortgagee, as attorney of the mortgagor, has power from time to time to appoint and remove 1 or more substitute attorneys.
 (7) The mortgagor agrees to ratify and confirm anything that the mortgagee or a substitute attorney lawfully does or causes to be done under this clause.
 Compare: 1952 No 51 Schedule 4 cls 14, 15
@@ -181,7 +181,7 @@ Compare: 1952 No 51 Schedule 4 cl 10
 (b) while the mortgagor is failing to perform or observe any covenant expressed or implied in the mortgage; or
 (c) for the purpose of any dealing concerning the land referred to in clause 11(1)(c) or (i) of these covenants to which the mortgagee has not consented; or
 (d) until the proper and reasonable costs of their production have first been paid to the mortgagee.
-(2) Subclause (1) does not apply if the mortgagee is required to produce the certificate of title or other instruments of title to the mortgaged land or the mortgage by a notice issued by the Registrar-General under section 211 of the Land Transfer Act 1952.
+(2) [Repealed]
 20 Mortgagor's liability for costs
 (1) The mortgagor will pay all costs and expenses of and incidental to the arranging and preparation of the mortgage and any variation or discharge of the mortgage or any transfer of the mortgage or the mortgaged land instead of a discharge.
 (2) If and as often as the mortgagor fails to pay any amounts secured by the mortgage on the due date, or fails to perform or observe any covenant expressed or implied in the mortgage, the mortgagor will pay the costs of the mortgagee (as between solicitor and client) of and incidental to the enforcement or attempted enforcement by the mortgagee of the mortgagee's rights, remedies, and powers under the mortgage.

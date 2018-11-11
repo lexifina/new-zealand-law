@@ -1,2 +1,0 @@
-# 148A Registrar not required to verify caveator's entitlement to estate or interest claimed
-Except to the extent of ensuring that a caveat lodged under any provision of this Act complies on its face with the requirements of this Act and with the requirements of any regulations made for the purposes of this Act, the Registrar is not required to be satisfied that the caveator is in fact or at law entitled to the estate or interest claimed in the caveat.

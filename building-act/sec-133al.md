@@ -23,8 +23,8 @@
 (ii) that the earthquake rating of the building or part has not been determined.
 (5) The territorial authority must give a copy of the notice to—
 (a) the owner of the building or the part of the building; and
-(b) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 1952; and
-(c) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 137 of the Land Transfer Act 1952; and
+(b) every person who has an interest in the land on which the building is situated under a mortgage or other encumbrance registered under the Land Transfer Act 2017; and
+(c) every person claiming an interest in the land that is protected by a caveat lodged and in force under section 138 of the Land Transfer Act 2017; and
 (d) every statutory authority that has exercised a statutory power to classify or register, for any purpose, the building or the land on which the building is situated; and
 (e) Heritage New Zealand Pouhere Taonga, if the building is a heritage building.
 (6) However, the notice is not invalid because a copy of it has not been given to any or all of the persons referred to in subsection (5).
