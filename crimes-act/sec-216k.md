@@ -7,7 +7,7 @@
 (c) storage of the recording electronically in a way that is accessible by any other person or persons.
 (4) In subsection (3), unless the context otherwise requires,—
 courier means a person carrying on business as a courier
-network operator has the same meaning as in section 3(1) of the Telecommunications (Interception Capability and Security) Act 2013
+network operator has the same meaning as in section 3 of the Telecommunications (Interception Capability and Security) Act 2013
 postal operator has the same meaning as in section 2(1) of the Postal Services Act 1998
 public data network has the same meaning as in section 5 of the Telecommunications Act 2001
 service provider—
