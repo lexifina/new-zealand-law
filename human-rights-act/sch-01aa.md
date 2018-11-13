@@ -1,6 +1,6 @@
 # Schedule 1AA Transitional, savings, and related provisions
 s 2A
-Human Rights Amendment Act 2016: transitional provisions
+Part 1 Provision relating to Human Rights Amendment Act 2016
 1 Human Rights Amendment Act 2016: transitional provisions
 (1) The provisions in subclauses (2) to (5) are transitional provisions for the Human Rights Amendment Act 2016 (the Amendment Act).
 (2) On the commencement of the Amendment Act (commencement),—
@@ -11,3 +11,9 @@ Human Rights Amendment Act 2016: transitional provisions
 (a) does not apply to the exercise of the power to appoint the first person to lead the work of the Commission in the priority area of disability rights; but
 (b) does apply to any reappointment of the first person appointed, or any extension of his or her appointment.
 (5) A reference in any instrument, document, or notice to the Equal Employment Opportunities Commissioner or the Race Relations Commissioner must be read as a reference, respectively, to the person leading the work of the Commission in the priority area of equal employment opportunities (including pay equity) or the person leading the work of the Commission in the priority area of race relations, as the case may be.
+Part 2 Provision relating to Tribunals Powers and Procedures Legislation Act 2018
+2 Chairpersons of Human Rights Review Tribunal
+(1) A person who holds the office of Chairperson immediately before the commencement date continues in office for the balance of his or her term, despite sections 81 and 83 of the Tribunals Powers and Procedures Legislation Act 2018, even if the consequence is that the Tribunal continues to have 2 Chairpersons until (at the latest) 31 December 2019.
+(2) Each of those Chairpersons may, in consultation with the other Chairperson, exercise the powers of the Chairperson of the Tribunal under the Human Rights Act 1993, as amended by subpart 7 of Part 1 of the Tribunals Powers and Procedures Legislation Act 2018.
+(3) While 2 Chairpersons are appointed, they must act together in issuing practice notes under section 121A.
+(4) For the purpose of this clause, commencement date means the date on which section 83 of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
