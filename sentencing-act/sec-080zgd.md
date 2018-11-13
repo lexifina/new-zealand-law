@@ -4,7 +4,7 @@
 (i) a sentence of home detention imposed before or after that commencement; or
 (ii) the conviction on which that sentence is based; or
 (iii) both; and
-(b) the offender has been granted bail under section 53, 54, or 55 of the Bail Act 2000; and
+(b) the offender has been granted bail under section 53, or 54 of the Bail Act 2000; and
 (c) the outcome of the appeal is that—
 (i) the appeal is dismissed; or
 (ii) the appeal is deemed pursuant to rules of court to be dismissed; or

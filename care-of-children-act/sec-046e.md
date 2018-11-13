@@ -6,7 +6,7 @@
 (a) is in response to an application that another party to the proceedings has made for an order under section 46R or 48; or
 (b) is without notice; or
 (c) is for a consent order; or
-(d) seeks the enforcement of an existing order; or
+(d) [Repealed]
 (e) relates to a child who is the subject of proceedings already begun under Part 2 of the Oranga Tamariki Act 1989; or
 (f) is accompanied by an affidavit that provides evidence of either of the following matters:
 (i) that at least 1 of the parties to the family dispute is unable to participate effectively in family dispute resolution:
