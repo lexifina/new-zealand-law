@@ -743,11 +743,11 @@ Adjustments for low earners
 (3) The minimum weekly earnings are—
 (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
 (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-(ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the Social Security Act 1964; or
+(ii) 125% of the rate for a single person under the age of 18 years and without dependent children of supported living payment under the Social Security Act 2018; or
 (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (b) for a person 18 years of age or over, the amount as at 1 July each year which is the greater of—
 (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; or
-(ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the Social Security Act 1964; or
+(ii) 125% of the rate for a single person over the age of 18 years and without dependent children of supported living payment under the Social Security Act 2018; or
 (iii) the higher of the amounts calculated under subparagraphs (i) and (ii) as at 1 July in the preceding year.
 (4) [Repealed]
 (5) [Repealed]
