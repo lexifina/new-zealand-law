@@ -61,7 +61,7 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 (m) Land Valuation Tribunals established under the Land Valuation Proceedings Act 1948:
 (n) Motor Vehicle Disputes Tribunals established under the Motor Vehicle Sales Act 2003:
 (o) the Refugee Status Appeals Authority, the Removal Review Authority, and the Residence Review Board continued by, and the Immigration and Protection Tribunal established under, the Immigration Act 2009:
-(p) the Social Security Appeal Authority and the benefits review committees established under the Social Security Act 1964, and the medical board appointed under section 10B of that Act:
+(p) the social security appeal authority, benefits review committees, and medical board established by or under the Social Security Act 2018:
 (q) the Student Allowance Appeal Authority established under the Education Act 1989:
 (r) the Tenancy Tribunal constituted under the Residential Tenancies Act 1986:
 (s) the Environment Court continued by the Resource Management Act 1991:
