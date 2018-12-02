@@ -1,5 +1,5 @@
 # 7A Extraterritorial jurisdiction in respect of certain offences with transnational aspects
-(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 243, section 298A, or section 298B—
+(1) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for any offence against this Act committed in the course of carrying out a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002) or an offence against section 98AA, section 98A, section 98C, section 98D, any of sections 100 to 104, section 105(2), section 116, section 117, section 207A, section 243, section 298A, or section 298B—
 (a) if the person to be charged—
 (i) is a New Zealand citizen; or
 (ii) is ordinarily resident in New Zealand; or
