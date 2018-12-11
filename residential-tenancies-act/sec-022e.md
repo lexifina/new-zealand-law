@@ -1,7 +1,7 @@
 # 22E MSD may disclose address information for bond refund purposes
 (1) In this section, unless the context otherwise requires,—
 address information, in relation to a person, means the last known address and (if available) the telephone number of the person
-MSD means the department of State that, with the Prime Minister's authority, is for the time being responsible for the administration of the Social Security Act 2018
+MSD means the department of State that, with the Prime Minister's authority, is for the time being responsible for the administration of the Social Security Act 2018.
 (2) The purpose of this section is to facilitate the disclosure of address information by MSD to the department to enable the chief executive to locate persons who are entitled to bonds to which section 22D(1) applies and that the chief executive continues to hold despite previous attempts to refund them.
 (3) If the chief executive is satisfied that reasonable steps have been taken, under section 22D, to refund a bond but that those steps have not been successful, the chief executive may, for the purposes of this section, request MSD, in accordance with arrangements made with the chief executive of MSD,—
 (a) to ascertain whether MSD holds any address information about any person entitled to the bond who is named in the request; and
