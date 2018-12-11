@@ -63,3 +63,10 @@ Other provisions
 (a) are, accordingly, standards included in the healthy homes standards; and
 (b) may be amended or revoked accordingly by regulations under subsection (1) of section 138B, as replaced by section 6 of the HHG Act.
 (3) In this clause, 2016 insulation regulations means the Residential Tenancies (Smoke Alarms and Insulation) Regulations 2016 to the extent that those regulations are regulations under section 138B disregarding the HHG Act.
+Part 3 Provision relating to Residential Tenancies (Prohibiting Letting Fees) Amendment Act 2018
+14 Application of section 17A (Requiring letting fee prohibited)
+Section 17A does not apply to—
+(a) any fee or charge paid or payable before the date of commencement of that section; or
+(b) any tenancy agreement entered into before that date (whether the tenancy agreement took effect before or takes effect on or after that date); or
+(c) any assignment or subletting if the landlord consented to the assignment or subletting before that date (whether the assignment or subletting took effect before or takes effect on or after that date); or
+(d) any amount that is charged in relation to a subletting, if the Tribunal consented to the charge before that date.

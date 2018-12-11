@@ -6,6 +6,7 @@ Section Amount
 13A(1F) (Non-compliance with section 13A(1A), etc) 500
 16A(6) (Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days) 1,000
 17 (Requiring key money) 1,000
+Section 17A (Requiring letting fee) 1,000
 18 (Landlord requiring bond greater than amount permitted) 1,000
 18A (Requiring unauthorised form of security) 1,000
 19(2) (Breach of duties of landlord on receipt of bond) 1,000

@@ -16,7 +16,7 @@
 (j) the rent payable; and
 (k) the frequency of the rent payments; and
 (l) the place or bank account number where the rent is to be paid; and
-(m) a statement (if applicable) that the tenant shall pay any fee or other charge for services rendered by any solicitor or letting agent relating to the grant or assignment of the tenancy; and
+(m) [Repealed]
 (n) [Repealed]
 (o) a list of any chattels provided by the landlord; and
 (p) if the tenancy is a fixed-term tenancy, the date on which the tenancy will terminate.
