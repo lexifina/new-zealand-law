@@ -17,6 +17,7 @@
 (i) are members of a union that is a party to the bargaining; and
 (ii) are covered by the bargaining; and
 (iii) are employed in the relevant part of the workplace or at any particular place or places where the work is carried on.
+(3A) An omission or error in any information specified under subsection (2)(b) or a failure to comply with subsection (3)(a) does not affect the validity of the notice if the omission, error, or failure is minor and technical only.
 (4) To avoid doubt, this section does not apply if notice is required under any of the following provisions:
 (a) section 90 (strikes in essential services):
 (b) section 93 (procedure to provide public with notice before strike in certain passenger transport services):

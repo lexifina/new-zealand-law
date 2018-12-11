@@ -1,7 +1,8 @@
 # Schedule 1AA Application, savings, and transitional provisions relating to amendments made to this Act after 1 January 2013
 ss 5A, 254
+Part 1 Provisions relating to Employment Relations Amendment Act 2014, Employment Relations Amendment Act 2016, and Employment Relations Amendment Act (No 2) 2016
 1 Interpretation
-In this schedule,—
+In this Part,—
 2014 Act means the Employment Relations Amendment Act 2014
 2016 Act means the Employment Relations Amendment Act 2016
 2016 (No 2) Act means the Employment Relations Amendment Act (No 2) 2016.
@@ -50,3 +51,48 @@ Repeal of section 237A
 (7) Section 234 (which relates to the circumstances in which officers, directors, or agents of a company are liable for minimum wages and holiday pay) continues to apply (despite its repeal by section 35 of the 2016 Act) to proceedings brought in relation to conduct that occurred before the commencement of the 2016 Act, whether or not the proceedings were brought before that commencement.
 4 Application, savings, and transitional provision arising from 2016 (No 2) Act
 A person holding office as a temporary Judge under section 207 immediately before the commencement of this clause continues to hold office on the same terms as if he or she were appointed as an acting Judge under section 207.
+Part 2 Provisions relating to Employment Relations Amendment Act 2018
+5 Interpretation
+In this Part, 2018 Act means the Employment Relations Amendment Act 2018.
+Provisions relating to collective bargaining and unions
+6 Duty to conclude applies to bargaining initiated before commencement
+Sections 31 to 33 of this Act (as amended by sections 12 to 14 of the 2018 Act) apply to all bargaining that has not concluded before the commencement of sections 12 to 14 of the 2018 Act, whether the bargaining was initiated before or on the commencement of sections 12 to 14 of the 2018 Act.
+7 Existing opt-out notice under section 44B continues to have effect
+Sections 44B(3), 44C, and 53(2A) (as they were immediately before they were repealed by sections 16 and 18 of the 2018 Act) continue to apply in relation to an opt-out notice given before the commencement of this clause in accordance with section 44B (as it was immediately before it was repealed by section 16 of the 2018 Act).
+8 Existing declarations or determinations under section 50K continue to have effect
+(1) The following continue to have effect as if sections 17, 18, and 35 of the 2018 Act had not come into force:
+(a) any declaration or determination made by the Authority under section 50K(3) or (4) or 50KA(2) before the commencement of this clause:
+(b) any orders or recommendations made by, or directions issued by, the Authority under section 50KA(5) before the commencement of this clause.
+(2) Sections 53(4) and 161(1)(cba) (as they were immediately before they were repealed by sections 18 and 35 of the 2018 Act) continue to apply in relation to any declaration or determination made by the Authority under section 50K(3) before the commencement of this clause.
+(3) However, an application made under section 50K (as it was immediately before it was repealed by section 17 of the 2018 Act) that is not determined or dismissed before the commencement of this clause must be treated as if it had not been made.
+9 Requirement for collective agreement to include rates of wages or salary applies only to collective agreement concluded on or after commencement
+(1) Section 54 (as amended by section 19 of the 2018 Act) applies to a collective agreement concluded on or after the commencement of section 19 of the 2018 Act whether bargaining for the agreement was initiated before, on, or after the commencement of section 19 of the 2018 Act.
+(2) Section 54 (as it was immediately before it was amended by section 19 of the 2018 Act) continues to apply to a collective agreement concluded before the commencement of section 19 of the 2018 Act.
+10 Amendments relating to new employees apply to employees who enter into IEAs on or after commencement
+(1) Sections 62 and 62A of this Act (as inserted by section 22 of the 2018 Act) apply to a new employee who commences work with an employer, or signs an employment agreement with an employer, on or after the commencement of section 22 of the 2018 Act.
+(2) Section 63B of this Act (as inserted by section 24 of the 2018 Act) applies to an employer who is bargaining with an individual on or after the commencement of section 24 of the 2018 Act for terms and conditions of employment for the first 30 days of the individual's employment under section 62 (as inserted by section 22 of the 2018 Act) whether the bargaining was initiated before, on, or after the commencement of section 22 of the 2018 Act.
+11 Union may provide information about role and functions of union for employer to pass on to new employees before commencement of section 24 of 2018 Act
+(1) If the union requests, on or after the commencement of section 11 of the 2018 Act but before the commencement of section 24 of the 2018 Act, that an employer provide certain specified information to new employees, the reference to section 63B(3)(b) in section 30A (as inserted by section 11 of the 2018 Act) must be read as if section 63B(3)(b) had already commenced.
+(2) However, an employer who receives information under section 30A before the commencement of section 24 of the 2018 Act is required to provide the information only on or after the commencement of section 63B(3)(b) (as inserted by section 24 of the 2018 Act).
+12 Specified pay deductions must cease on commencement
+(1) An employer who is making specified pay deductions from the salary or wages of an employee under section 95B must cease the deductions on the commencement of sections 29 and 30 of the 2018 Act.
+(2) Sections 95F to 95H and section 100(1)(c), (2)(c), (4), and (5) (as they were immediately before they were repealed by sections 29 and 30 of the 2018 Act) continue to apply in relation to any specified pay deductions made before the commencement of this clause.
+Provisions relating to trial periods of 90 days or less
+13 Trial provisions contained in employment agreements entered into before commencement continue to apply
+A trial provision contained in an employment agreement entered into before the commencement of sections 36 and 37 of the 2018 Act in accordance with section 67A (as it was immediately before it was replaced by section 36) of the 2018 Act continues to apply as if sections 36 and 37 of the 2018 Act had not commenced.
+Provision relating to rest breaks and meal breaks
+14 Employees receiving compensatory measures before commencement of section 43 of 2018 Act
+(1) This provision applies to an employee who is receiving compensatory measures under sections 69ZEA and 69ZEB (as they were immediately before they were replaced by section 43 of the 2018 Act) (existing compensatory measures).
+(2) On the commencement of section 43 of the 2018 Act, if an exemption under section 69ZEA(1) applies to an employer providing existing compensatory measures,—
+(a) the employer and employee may agree that any rest breaks and meal breaks are to be taken in a different manner (including the number and timing of breaks) than that specified in Part 6D; but
+(b) if the employer and employee are unable to reach agreement under paragraph (a), the employee is entitled to, and the employee's employer must provide the employee with, compensatory measures in accordance with section 69ZEB (as replaced by section 43 of the 2018 Act).
+(3) On the commencement of section 43 of the 2018 Act, if an exemption under section 69ZEA(1) does not apply to an employer providing existing compensatory measures, the employee is entitled to, and the employee's employer must provide the employee with, rest breaks and meal breaks in accordance with sections 69ZD and 69ZE (as replaced by section 43 of the 2018 Act).
+(4) On and from the commencement of section 43 of the 2018 Act, the employee continues to be entitled to receive the existing compensatory measures until the earlier of the following:
+(a) the coming into force of an agreement between the employer and the employee under subclause (2)(a):
+(b) the employer provides the employee with compensatory measures under subclause (2)(b).
+(5) The provisions of this clause have effect despite any provision to the contrary in any contract or agreement.
+Provision relating to remedy of reinstatement
+15 Remedy of reinstatement in personal grievance proceedings
+(1) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal), but not finally determined or completed, before the commencement of this clause must be determined or completed under the law as it was at the time the proceedings were brought.
+(2) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal) on or after the commencement of this clause must be determined in accordance with section 125 as replaced by section 47 of the 2018 Act.
+(3) Subclause (2) applies irrespective of whether the action alleged to amount to a personal grievance occurred or came to the notice of the employee before, on, or after the commencement of section 47 of the 2018 Act.
