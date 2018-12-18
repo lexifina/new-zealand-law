@@ -1,5 +1,5 @@
 # Schedule 1AA Incorporation of documents by reference in national environmental standards, national policy statements, and New Zealand coastal policy statements
-s 43G
+s 46B
 1 Incorporation of documents by reference
 (1) The following written material may be incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement:
 (a) standards, requirements, or recommended practices of international or national organisations:
