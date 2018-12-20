@@ -54,3 +54,9 @@ Additional transitional provisions applicable to Schedule 4 organisations and Sc
 Part 2 Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 [Repealed]
+Part 3 Provision relating to Child Poverty Reduction Act 2018
+10 Report on child poverty: required for and after Budget for 2019/20
+(1) The report on child poverty required by section 15EA is required only for the main Appropriation Bill for—
+(a) the financial year commencing on 1 July 2019; or
+(b) a later financial year.
+(2) Despite subclause (1), the report on child poverty required by section 15EA for the main Appropriation Bill for the financial year commencing on 1 July 2019 is required to comply with section 15EA(2)(a) only if, and after, the first targets are set under the Child Poverty Reduction Act 2018.
