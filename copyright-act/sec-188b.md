@@ -1,2 +1,2 @@
-# 188B Assessment of damages for infringement of rights under this Part in relation to performance or recording
-Where the making of a communication work is an infringement of rights under this Part in relation to a performance or recording, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.
+# 188B Assessment of damages for infringement of rights under subparts 2 to 4 in relation to performance or recording
+Where the making of a communication work is an infringement of rights under subparts 2 to 4 in relation to a performance or recording, the fact that the work was heard or seen in public by the reception of the communication work must be taken into account in assessing the damages for the infringement.

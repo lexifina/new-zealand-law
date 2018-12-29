@@ -3,7 +3,7 @@
 (a) is made for reception in the area in which it is played or shown; and
 (b) is not a communication work for which a subscription fee must be paid in order to receive it; and
 (c) is played or shown simultaneously upon reception of the communication work.
-(2) The free public playing or showing of a communication work to which this section applies does not infringe a right under this Part in relation to a performance or recording included in—
+(2) The free public playing or showing of a communication work to which this section applies does not infringe a right under subparts 2 to 4 in relation to a performance or recording included in—
 (a) the communication work; or
 (b) any sound recording or film that is played or shown in public by reception of the communication work.
 (3) For the purposes of this section, the public playing or showing of a communication work is not free if—

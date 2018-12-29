@@ -1,7 +1,7 @@
 # 226D When rights of issuer of TPM work do not apply
 (1) The rights that the issuer of a TPM work has under section 226B do not prevent or restrict the exercise of a permitted act.
 (2) The rights that the issuer of a TPM work has under section 226B do not prevent or restrict the making, importation, sale, or letting for hire of a TPM circumvention device to enable—
-(a) a qualified person to exercise a permitted act under Part 3 using a TPM circumvention device on behalf of the user of a TPM work; or
+(a) a qualified person to exercise a permitted act using a TPM circumvention device on behalf of the user of a TPM work; or
 (b) a person referred to in section 226E(3) to undertake encryption research.
 (3) In this section and in section 226E, qualified person means—
 (a) the librarian of a prescribed library; or

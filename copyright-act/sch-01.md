@@ -1,7 +1,8 @@
 # Schedule 1 Transitional provisions and savings
 s 235
+Part 1 Provisions relating to Act as enacted
 1 Interpretation
-(1) In this schedule, unless the context otherwise requires,—
+(1) In this Part, unless the context otherwise requires,—
 the 1913 Act means the Copyright Act 1913
 the 1962 Act means the Copyright Act 1962
 the 1985 Amendment means the Copyright Amendment Act 1985
@@ -9,9 +10,9 @@ the new copyright provisions means the provisions of this Act
 work means,—
 (a) in relation to the 1913 Act, any thing recognised by that Act as a subject of copyright; and
 (b) in relation to the 1962 Act, any thing recognised by that Act as a subject of copyright.
-(2) References in this schedule to commencement, without more, are to the date on which the new copyright provisions come into force.
-(3) For the purposes of this schedule, a work of which the making extended over a period shall be taken to have been made when its making was completed.
-(4) Unless the context otherwise requires, provisions of the 1913 Act or the 1962 Act referred to in this schedule shall be taken as continuing in force for the purposes of this schedule, notwithstanding the repeal of the 1913 Act and the 1962 Act.
+(2) References in this Part to commencement, without more, are to the date on which the new copyright provisions come into force.
+(3) For the purposes of this Part, a work of which the making extended over a period shall be taken to have been made when its making was completed.
+(4) Unless the context otherwise requires, provisions of the 1913 Act or the 1962 Act referred to in this Part shall be taken as continuing in force for the purposes of this schedule, notwithstanding the repeal of the 1913 Act and the 1962 Act.
 Compare: 1962 No 33 Schedule 1 cl 47(2); Copyright, Designs and Patents Act 1988 Schedule 1 paras 1, 2(1) (UK)
 2 Continuity of the law
 (1) A reference in an enactment, instrument, or other document to copyright that, apart from this Act, would be construed as referring to copyright under the 1962 Act or any corresponding earlier enactment, shall be construed, so far as may be required for continuing its effect, as being, or as the case may require including, a reference to copyright under this Act.
@@ -23,14 +24,14 @@ Compare: 1962 No 33 Schedule 1 cl 46(1)(a), (b); Copyright, Designs and Patents 
 3 Copyright under new copyright provisions in works in which copyright exists at commencement
 (1) Copyright exists under the new copyright provisions in any work in which copyright existed immediately before commencement.
 (2) For the purposes of subclause (1), a work in which copyright existed immediately before commencement includes a work in which a right was conferred by section 32 of the 1913 Act in substitution for a right existing immediately before the commencement of the 1913 Act.
-(3) Where copyright exists under the new copyright provisions in a work in which copyright existed immediately before commencement, the copyright in that work under the new provisions is subject to any modifications made by the provisions of this schedule.
+(3) Where copyright exists under the new copyright provisions in a work in which copyright existed immediately before commencement, the copyright in that work under the new provisions is subject to any modifications made by the provisions of this Part.
 Compare: 1962 No 33 Schedule 1 cl 38(2); Copyright, Designs and Patents Act 1988 Schedule 1 paras 2(2)(a), 5(1) (UK)
 4 Application of new copyright provisions to works in which copyright exists at commencement
 (1) The new copyright provisions—
 (a) apply to any work in which copyright existed immediately before commencement; and
 (b) are deemed to be satisfied, so far as they relate to qualification for copyright, by every work in which copyright existed immediately before commencement.
 (2) For the purposes of subclause (1), a work in which copyright existed immediately before commencement includes a work in which a right was conferred by section 32 of the 1913 Act in substitution for a right existing immediately before the commencement of the 1913 Act.
-(3) Where the new copyright provisions apply to a work in which copyright existed immediately before commencement, the new copyright provisions are subject, in their application to that work, to any modifications made by the provisions of this schedule.
+(3) Where the new copyright provisions apply to a work in which copyright existed immediately before commencement, the new copyright provisions are subject, in their application to that work, to any modifications made by the provisions of this Part.
 Compare: 1962 No 33 Schedule 1 cls 38(2), 47(1); Copyright, Designs and Patents Act 1988 Schedule 1 paras 3, 35 (UK)
 5 Works may qualify under new copyright provisions
 (1) Subject to subclause (2), a work made before commencement may qualify for copyright after commencement—
@@ -358,3 +359,17 @@ Compare: 1962 No 33 Schedule 1 cl 24; Copyright, Designs and Patents Act 1988 Sc
 (a) any items sold in another country by or with the consent of the owner of the copyright in that country; and
 (b) any items in transit to a country other than New Zealand.
 Compare: 1962 No 33 Schedule 1 cl 29
+Part 2 Provisions relating to Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018
+Subpart 2—Performers' rights
+Interpretation
+47 Interpretation
+In this subpart, unless the context otherwise requires,—
+commencement means the date on which the WIPO performers' rights provisions come into force
+performer's rights means the rights of a performer conferred by Part 9 of this Act
+WIPO performers' rights provisions means the provisions of Part 1 of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership Amendment Act 2018.
+Application
+48 Application
+(1) If a performance is given on or after commencement, Part 9 (as amended by the WIPO performers' rights provisions) applies to any act done on or after commencement in relation to that performance.
+(2) If a performance is given before commencement, Part 9 (as in force immediately before commencement) continues to apply to any act done on or after commencement in relation to that performance.
+(3) Despite subclause (2), if Part 9 (as in force immediately before commencement) would not have applied to an act done, or a performance given, before commencement, subclause (2) and Part 9 do not apply to the act or the performance.
+(4) This clause is subject to clauses 49 and 50.

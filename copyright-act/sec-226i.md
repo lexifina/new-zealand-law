@@ -1,2 +1,4 @@
 # 226I Contravention of section 226G or 226H
-A copyright owner or licensee of a work has the same rights in relation to a contravention of section 226G or 226H as a copyright owner has in respect of an infringement of copyright.
+(1) A copyright owner or licensee of a work has the same rights in relation to a contravention of section 226G or 226H as a copyright owner has in respect of an infringement of copyright.
+(2) If the copyright management information is or includes information that identifies an author, a director, or a performer (or is a number or code that represents information that identifies that person), the author, director, or performer (or a person entitled to exercise that person's rights under Part 4 or 9) has the same rights and remedies in relation to a contravention of either of sections 226G and 226H as an author, a director, or a performer has in respect of an infringement of the rights conferred by Part 4 or 9.
+(3) Subsection (2) does not limit subsection (1).
