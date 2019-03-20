@@ -2,7 +2,7 @@
 (1) The Secretary—
 (a) must make the material referred to in subsection (2) available for inspection during working hours, free of charge, at the offices of the Secretary; and
 (b) must make copies of the incorporated material available for purchase at a reasonable price; and
-(c) must make copies of the incorporated material available, free of charge, on an Internet site maintained by or on behalf of the Secretary, unless doing so would infringe copyright; and
+(c) must make copies of the incorporated material available, free of charge, on the Secretary's Internet site, unless doing so would infringe copyright; and
 (d) may make copies of the incorporated material available in any other way that the Secretary considers appropriate in the circumstances; and
 (e) must give notice in the Gazette stating—
 (i) that the material is incorporated in the rule and the date on which the rule was made; and

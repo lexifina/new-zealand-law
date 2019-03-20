@@ -212,7 +212,7 @@ Calling of meetings
 (b) Part 7 of the Local Government Official Information and Meetings Act 1987; and
 (c) the standing orders of the local authority.
 (4) A local authority must hold meetings at the times and places that it appoints.
-(5) Unless clause 22 applies, the chief executive must give notice in writing to each member of the time and place of a meeting—
+(5) Unless clause 22 or 22A applies, the chief executive must give notice in writing to each member of the time and place of a meeting—
 (a) not less than 14 days before the meeting; or
 (b) if the local authority has adopted a schedule of meetings, not less than 14 days before the first meeting on the schedule.
 (6) If a local authority adopts a schedule of meetings,—
@@ -246,19 +246,19 @@ Compare: 1974 No 66 s 114H
 (e) the election of the deputy mayor or deputy chairperson in accordance with clause 17.
 Compare: 1974 No 66 s 114D
 22 Extraordinary meetings
-(1) Despite clause 19(4) to (6), if a resolution or requisition specifies the time and place at which the meeting is to be held and the general nature of the business to be brought before the meeting, a meeting may be called by—
+(1) Despite clause 19(4) to (6), an extraordinary meeting of a local authority may be called by—
 (a) a resolution of the local authority; or
-(b) a requisition in writing delivered to the chief executive and signed by—
+(b) requisition in writing delivered to the chief executive and signed by—
 (i) the mayor or chairperson; or
 (ii) not less than one-third of the total membership of the local authority (including vacancies).
-(2) Despite clause 19(4) to (6), if the business to be dealt with requires a meeting to be held at a time earlier than is allowed by the notice requirements specified in subclause (3), a meeting may be called by—
-(a) the mayor or chairperson; or
-(b) if the mayor or chairperson are unavailable, the chief executive.
-(3) Notice in writing of the time and place of the meeting called under subclause (1) and of the general nature of business must be given by the chief executive to each member of the local authority—
+(2) Notice in writing of the time and place of the meeting called under subclause (1) and of the general nature of business must be given by the chief executive to each member of the local authority—
 (a) at least 3 working days before the day appointed for the meeting; or
 (b) if the meeting is called by a resolution, within a lesser period of notice that is specified in the resolution, being not less than 24 hours.
-(4) Notice of the time and place of a meeting called under subclause (2) and of the matters in respect of which the meeting is being called must be given by the person calling the meeting or by another person on that person's behalf, by whatever means is reasonable in the circumstances, to each member of the local authority and to the chief executive at least 24 hours before the time appointed for the meeting.
-Compare: 1974 No 66 ss 114F, 114G
+22A Emergency meetings
+(1) Despite clause 19(4) to (6), if the business to be dealt with requires a meeting to be held at a time earlier than is allowed by the notice requirements of clause 22(2)(a) and it is not practicable to call the meeting by resolution, an emergency meeting may be called by—
+(a) the mayor or chairperson; or
+(b) if the mayor and chairperson are unavailable, the chief executive.
+(2) Notice of the time and place of an emergency meeting and of the matters in respect of which the emergency meeting is being called must be given by the person calling the meeting or by another person on that person's behalf, by whatever means is reasonable in the circumstances, to each member of the local authority and to the chief executive at least 24 hours before the time appointed for the meeting.
 Conduct of meetings
 23 Quorum of councils and committees
 (1) A meeting is duly constituted if a quorum is present, whether or not all of the members are voting or entitled to vote.
@@ -429,7 +429,7 @@ For the purposes of clauses 32, 32A, and 32B, officer means—
 (g) [Repealed]
 (h) the power to adopt a remuneration and employment policy.
 (2) Nothing in this clause restricts the power of a local authority to delegate to a committee or other subordinate decision-making body, community board, or member or officer of the local authority the power to do anything precedent to the exercise by the local authority (after consultation with the committee or body or person) of any power or duty specified in subclause (1).
-(3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or person, subject to any conditions, limitations, or prohibitions imposed by the local authority or by the committee or body or person that makes the original delegation.
+(3) A committee or other subordinate decision-making body, community board, or member or officer of the local authority may delegate any of its responsibilities, duties, or powers to a subcommittee or to another committee or subordinate decision-making body, community board, or member or officer of the local authority, but, to avoid doubt, if doing so is itself a sub-delegation, the power to so delegate is subject to any conditions, limitations, or prohibitions imposed in connection with the primary delegation.
 (4) A committee, subcommittee, other subordinate decision-making body, community board, or member or officer of the local authority to which or to whom any responsibilities, powers, or duties are delegated may, without confirmation by the local authority or committee or body or person that made the delegation, exercise or perform them in the like manner and with the same effect as the local authority could itself have exercised or performed them.
 (5) A local authority may delegate to any other local authority, organisation, or person the enforcement, inspection, licensing, and administration related to bylaws and other regulatory matters.
 (6) A territorial authority must consider whether or not to delegate to a community board if the delegation would enable the community board to best achieve its role.

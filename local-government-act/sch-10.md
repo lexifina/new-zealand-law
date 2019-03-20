@@ -112,7 +112,7 @@ A long-term plan must include a local authority's revenue and financing policy a
 11 Significance and engagement policy
 A long-term plan must contain—
 (a) a summary (or other description) of the local authority's significance and engagement policy under section 76AA; and
-(b) a reference to where the full policy can be found, which may be done by providing a link to the relevant document on an Internet site maintained by or on behalf of the local authority.
+(b) a reference to where the full policy can be found, which may be done by providing a link to the relevant document on the local authority's Internet site.
 12 Forecast financial statements
 (1) A long-term plan must include, for each of the financial years covered by the plan, forecast financial statements for the local authority.
 (2) A long-term plan may include, for each of the financial years covered by the plan, or for any of those years, forecast financial statements for any council-controlled organisation or any other entity under the local authority's control.

@@ -15,7 +15,7 @@
 (i) a draft of the annual plan as proposed to be adopted; or
 (ii) a full draft of any policy; or
 (iii) any detailed information, whether described in Part 2 of Schedule 10 or otherwise, that is not necessary or desirable for the purposes of subsections (1) and (2); and
-(c) must state where members of the public may obtain the information held by the local authority that is relied on by the content of the consultation document, including by providing links or references to the relevant information on an Internet site maintained by or on behalf of the local authority; and
+(c) must state where members of the public may obtain the information held by the local authority that is relied on by the content of the consultation document, including by providing links or references to the relevant information on the local authority's Internet site; and
 (d) may be given the title of the local authority's choice, provided that the title or subtitle make reference to this being a consultation document for the proposed annual plan for the relevant year.
 (4) The local authority must adopt the information that is relied on by the content of the consultation document, as referred to in subsection (3)(c), before it adopts the consultation document.
 (5) For the purposes of this section, a difference, variation, or departure is material if it could, itself or in conjunction with other differences, influence the decisions or assessments of those reading or responding to the consultation document.

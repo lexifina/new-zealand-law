@@ -9,7 +9,7 @@
 (ii) the expected capital expenditure on network infrastructure, flood protection, and flood control works that is required to maintain existing levels of service currently provided by the local authority; and
 (iii) other significant factors affecting the local authority's ability to maintain existing levels of service and to meet additional demands for services; and
 (b) include a statement of the local authority's—
-(i) quantified limits on rates, rate increases, and borrowing; and
+(i) quantified limits on rate increases and borrowing; and
 (ii) assessment of its ability to provide and maintain existing levels of service and to meet additional demands for services within those limits; and
 (c) specify the local authority's policy on the giving of securities for its borrowing; and
 (d) specify the local authority's objectives for holding and managing financial investments and equity securities and its quantified targets for returns on those investments and equity securities.

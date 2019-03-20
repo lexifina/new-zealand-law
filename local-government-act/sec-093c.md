@@ -9,7 +9,7 @@
 (ii) the local authority's proposal, if any, for addressing the issue; and
 (iii) the likely consequences of proceeding with the proposal on the local authority's rates, debt, and levels of service; and
 (c) other matters of public interest relating to—
-(i) the proposed content of the local authority's financial strategy (under section 101A) including, without limitation, the quantified limits on rates, rates increases, and borrowing in that strategy; and
+(i) the proposed content of the local authority's financial strategy (under section 101A) including, without limitation, the quantified limits on rate increases and borrowing in that strategy; and
 (ii) the proposed content of the local authority's infrastructure strategy (under section 101B); and
 (d) any significant changes that are proposed to the way the local authority funds its operating and capital expenditure requirements, including changes to the rating system described in clause 15(3) and (4) of Schedule 10; and
 (e) using graphs or charts, the direction and scale of changes to the local authority's rates and debt levels that will result from the proposed content of the long-term plan; and
@@ -22,7 +22,7 @@
 (ii) a full draft of any policy; or
 (iii) a full draft of the local authority's financial strategy or infrastructure strategy; or
 (iv) any detailed information, whether described in Part 1 of Schedule 10 or otherwise, that is not necessary or desirable for the purposes of subsections (1) and (2); and
-(c) must state where members of the public may obtain information adopted by the local authority under section 93G, which may include, for example, providing links or references to the relevant documents on an Internet site maintained by or on behalf of the local authority; and
+(c) must state where members of the public may obtain information adopted by the local authority under section 93G, which may include, for example, providing links or references to the relevant documents on the local authority's Internet site; and
 (d) may be given the title of the local authority's choice, provided that the title or subtitle make reference to this being a consultation document for the proposed long-term plan for the relevant years.
 (4) The consultation document must contain a report from the Auditor-General on—
 (a) whether the consultation document gives effect to the purpose set out in section 93B; and

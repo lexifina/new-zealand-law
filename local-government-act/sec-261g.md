@@ -2,7 +2,7 @@
 (1) Before a rule is made under section 261B, the Secretary—
 (a) must make copies of any material proposed to be incorporated by reference in the rule (or the proposed amendment to, or replacement of, material incorporated by reference in the rule) (the proposed material) available for inspection, free of charge, during working hours at the offices of the Secretary; and
 (b) must make copies of the proposed material available for purchase at a reasonable price; and
-(c) must make copies of the proposed material available, free of charge, on an Internet site maintained by or on behalf of the Secretary, unless doing so would infringe copyright; and
+(c) must make copies of the proposed material available, free of charge, on the Secretary's Internet site, unless doing so would infringe copyright; and
 (d) may make copies of the proposed material available in any way that the Secretary considers appropriate in the circumstances; and
 (e) must give notice in the Gazette stating—
 (i) that the proposed material is available for inspection during working hours and free of charge, the place at which it can be inspected, and the period during which it can be inspected; and

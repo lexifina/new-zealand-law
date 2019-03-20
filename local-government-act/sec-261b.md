@@ -18,7 +18,7 @@
 (d) consult any other persons or groups as the Secretary considers appropriate.
 (4) The Secretary must—
 (a) make copies of the rules available for purchase at a reasonable price; and
-(b) make copies of the rules available free of charge, at all reasonable times, on an Internet site maintained by, or on behalf of, the Secretary; and
+(b) make copies of the rules available free of charge, at all reasonable times, on the Secretary's Internet site; and
 (c) give notice in the Gazette that—
 (i) the rules have been made; and
 (ii) copies of the rules may be purchased and the place at which they may be purchased; and
