@@ -11,7 +11,7 @@ s 312
 (ii) the amount of the costs incurred by that creditor in protecting, preserving the value of, or recovering those assets.
 (2) After paying the claims referred to in subclause (1), the liquidator must next pay, to the extent that they remain unpaid, the following claims:
 (a) subject to clause 3(1), all wages or salary of any employee, whether or not earned wholly or in part by way of commission, and whether payable for time or for piece work, in respect of services provided to the company during the 4 months before the commencement of the liquidation:
-(aa) subject to clause 3(1), all untransferred amounts of an employee's payroll donations by an employer or PAYE intermediary under section 24Q of the Tax Administration Act 1994 during the 4 months before the commencement of the liquidation:
+(aa) subject to clause 3(1), all untransferred amounts of an employee's payroll donations by an employer or PAYE intermediary under section 169B of the Tax Administration Act 1994 during the 4 months before the commencement of the liquidation:
 (b) subject to clause 3(1), any holiday pay payable to an employee on the termination of his or her employment before, or because of, the commencement of the liquidation:
 (c) subject to clause 3(1), any compensation for redundancy owed to an employee that accrues before, or because of, the commencement of the liquidation:
 (d) subject to clause 3(1), amounts deducted by the company from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with section 163(1) of the Child Support Act 1991 and section 167(2) of the Tax Administration Act 1994 as applied by section 70 of the Student Loan Scheme Act 2011):
