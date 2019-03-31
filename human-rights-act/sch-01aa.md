@@ -11,6 +11,12 @@ Part 1 Provision relating to Human Rights Amendment Act 2016
 (a) does not apply to the exercise of the power to appoint the first person to lead the work of the Commission in the priority area of disability rights; but
 (b) does apply to any reappointment of the first person appointed, or any extension of his or her appointment.
 (5) A reference in any instrument, document, or notice to the Equal Employment Opportunities Commissioner or the Race Relations Commissioner must be read as a reference, respectively, to the person leading the work of the Commission in the priority area of equal employment opportunities (including pay equity) or the person leading the work of the Commission in the priority area of race relations, as the case may be.
+Part 1A Provisions relating to Part 3 of Domestic Violence—Victims' Protection Act 2018
+1A Interpretation
+In this Part, 2018 Part means Part 3 of the Domestic Violence—Victims' Protection Act 2018.
+Provisions relating to adverse treatment in employment of people affected by domestic violence
+1B Application to pre-commencement domestic violence
+Section 62A applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
 Part 2 Provision relating to Tribunals Powers and Procedures Legislation Act 2018
 2 Chairpersons of Human Rights Review Tribunal
 (1) A person who holds the office of Chairperson immediately before the commencement date continues in office for the balance of his or her term, despite sections 81 and 83 of the Tribunals Powers and Procedures Legislation Act 2018, even if the consequence is that the Tribunal continues to have 2 Chairpersons until (at the latest) 31 December 2019.

@@ -51,6 +51,15 @@ Repeal of section 237A
 (7) Section 234 (which relates to the circumstances in which officers, directors, or agents of a company are liable for minimum wages and holiday pay) continues to apply (despite its repeal by section 35 of the 2016 Act) to proceedings brought in relation to conduct that occurred before the commencement of the 2016 Act, whether or not the proceedings were brought before that commencement.
 4 Application, savings, and transitional provision arising from 2016 (No 2) Act
 A person holding office as a temporary Judge under section 207 immediately before the commencement of this clause continues to hold office on the same terms as if he or she were appointed as an acting Judge under section 207.
+Part 1A Provisions relating to Part 1 of Domestic Violence—Victims' Protection Act 2018
+4A Interpretation
+In this Part, 2018 Part means Part 1 of the Domestic Violence—Victims' Protection Act 2018.
+Provisions relating to flexible working short-term for people affected by domestic violence
+4B Application to pre-commencement domestic violence
+Part 6AB applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+Provisions relating to adverse treatment in employment of people affected by domestic violence
+4C Application to pre-commencement domestic violence
+Sections 103(1)(da), 108A, 111, and 123(1)(d) apply even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
 Part 2 Provisions relating to Employment Relations Amendment Act 2018
 5 Interpretation
 In this Part, 2018 Act means the Employment Relations Amendment Act 2018.

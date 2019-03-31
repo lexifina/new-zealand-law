@@ -1,5 +1,5 @@
 # 9A Average daily pay
-(1) An employer may use an employee's average daily pay for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, or bereavement leave if—
+(1) An employer may use an employee's average daily pay for the purposes of calculating payment for a public holiday, an alternative holiday, sick leave, bereavement leave, or domestic violence leave if—
 (a) it is not possible or practicable to determine an employee's relevant daily pay under section 9(1); or
 (b) the employee's daily pay varies within the pay period when the holiday or leave falls.
 (2) The employee's average daily pay must be calculated in accordance with the following formula:
