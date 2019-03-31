@@ -28,7 +28,7 @@ An employer who makes a payment to a shareholder-employee must, within the time 
 8
 Neither an employer of any person referred to in section LC 3 of the Income Tax Act 2007 nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer to that person, unless the employer or the PAYE intermediary withholds an amount of tax on account of income tax under the PAYE rules from any such amount.
 9
-Despite clause 1, sections LA 3, LA 6, RA 2, RD 10, RD 11, RD 16, RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994, and section 33A of the Tax Administration Act 1994 do not apply to any such amount required to be deducted.
+Despite clause 1, sections LA 3, LA 6, RA 2, RD 10, RD 11, RD 16, RD 18 of the Income Tax Act 2007 and subpart 3D and schedule 5 of the Tax Administration Act 1994, and section 33A of the Tax Administration Act 1994 do not apply to any such amount required to be deducted.
 10
 Except to the extent specified in clause 11, the following Parts of the Tax Administration Act 1994 (those provisions) apply to earner levies payable under section 219, namely,—
 (a) Part 7—interest (but subject to section 157A of the Tax Administration Act 1994); and
@@ -57,15 +57,17 @@ No person is chargeable with a penalty under this schedule in respect of any ded
 15
 Nothing in clause 14 limits the application of the remission, relief, and refunds component of Part 6.
 16
-Except as provided in clause 19, every person who has earnings as an employee in a tax year and is subject to the provisions of the Tax Administration Act 1994 as it relates to income statements or the requirements to furnish a return of income must—
-(a) deliver to the Commissioner a statement of the person's earnings as an employee for the tax year, within the applicable time within which the return, income statement, or other relevant information is required under the Tax Administration Act 1994 to be furnished to the Commissioner; and
+Except as provided in clause 19, every person who has earnings as an employee in a tax year and is subject to the provisions of the Tax Administration Act 1994 as it relates to information provided or required to be provided on the person's assessable income under Part 3, subpart 3B of that Act or the requirements to furnish a return of income must—
+(a) confirm that their pre-populated account for the tax year is correct and complete; and
+(ab) to the extent to which the amount not included in their pre-populated account for the tax year, provide information to the Commissioner on the amount of their earnings as an employee within the time required under section 22H of that Act; and
+(ac) for a person to whom paragraph (a) or (ab) does not apply, provide a return of income within the applicable time under that Act; and
 (b) pay to the Commissioner, on or before the due date, an earner levy, at the rate prescribed, on any earnings that do not exceed the specified maximum.
 17
 The amount of any levy payable under this Act and clause 16 must have credited towards it the sum of the deductions (excluding any penalty charged or imposed under clause 10 of Schedule 5 of the Accident Insurance Act 1998) made by an employer of the employee or by a PAYE intermediary under section 221 on account of that levy.
 18
 If the sum of the levy deductions from a person's earnings as an employee on account of the earner levy payable by the person exceeds the amount of the earner levy payable on the specified maximum of the levy, the Corporation or its agent must refund the excess to the employee.
 19
-If a person with earnings as an employee is not required to furnish a return of income or an income statement under the Tax Administration Act 1994, and does not in fact do so,—
+If a person with earnings as an employee is a qualifying individual to whom Part 3, subpart 3B of the Tax Administration Act 1994 applies for the corresponding income year,—
 (a) the amount of the earner levy payable under clause 16 is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under section 221; and
 (b) the person need not deliver a statement of earnings as an employee under clause 16.
 20
