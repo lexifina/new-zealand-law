@@ -11,4 +11,4 @@
 (b) the employees who have transferred a right,—
 (i) subject to their employment agreements, to bargain for redundancy entitlements from the other person if made redundant by the other person for reasons relating to the transfer of the employees or to the circumstances arising from the transfer of the employees; and
 (ii) if redundancy entitlements cannot be agreed with the other person, to have the redundancy entitlements determined by the Authority.
-(4) The protection provided by this subpart does not apply if the other person who is to perform the employees' work is an exempt employer.
+(4) [Repealed]

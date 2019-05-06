@@ -1,8 +1,6 @@
 # 69E Examples of contracting in, contracting out, and subsequent contracting
 (1) This section contains examples of contracting in, contracting out, and subsequent contracting.
-(2) Whether, in the following examples, an employee has the right to elect to transfer to a new employer depends on whether—
-(a) section 69F applies to the employee; and
-(b) the new employer is an exempt employer.
+(2) Whether, in the following examples, an employee comes within the protection provided by this subpart depends on whether section 69F applies to the employee.
 (3) This subsection sets out examples of contracting in.
 Example A
 A rest home carries on business in the age-related residential care sector. Instead of providing food catering services through its employees, it enters into an agreement with an independent contractor to provide those services.
@@ -24,7 +22,7 @@ A school has employees who provide cleaning services.
 The school then enters into an agreement with an independent contractor to do that work or some of that work.
 The employees of the school to whom section 69F applies may elect to transfer to the independent contractor.
 Note
-Example C would not be a contracting out if, at the outset, the school did not have employees providing cleaning services.
+Example C would not be a contracting out if, at the outset, the school does not have employees providing cleaning services.
 In example C, the persons relate to the definition of contracting out as follows:
 the school is person A:
 the independent contractor is person B.

@@ -4,9 +4,11 @@
 (b) under section 61(2), in relation to—
 (i) additional terms and conditions to the collective agreement on which the individual employment agreement is based; and
 (ii) variations to the individual employment agreement in subparagraph (i):
+(c) under section 62(3), in relation to additional terms and conditions for the first 30 days of an employee's employment:
 (c) [Repealed]
+(d) under section 63(2), in relation to variations to terms and conditions of an individual employment agreement after the 30-day period:
 (d) [Repealed]
-(e) in relation to terms and conditions of an individual employment agreement, including any variations to that agreement:
+(e) in relation to the terms and conditions of an individual employment agreement (including any variations to that agreement) for an employee if no collective agreement covers the work done, or to be done, by the employee:
 (f) where a fixed term of employment, or probationary or trial period of employment, is proposed:
 (g) under section 69OJ in relation to employee protection provisions in individual employment agreements:
 (h) under section 69N in relation to redundancy entitlements with a new employer.
@@ -18,5 +20,6 @@
 (3) Every employer who fails to comply with this section is liable to a penalty imposed by the Authority.
 (4) Failure to comply with this section does not affect the validity of the employment agreement between the employee and the employer.
 (5) The requirements imposed by this section are in addition to any requirements that may be imposed under any provision in this Act.
+(6) For the purpose of subsection (1)(e), a collective agreement that includes a coverage clause referring to named employees, or the work done by named employees, to whom the collective agreement applies must be treated as covering the work or type of work done by the named employees (whether done by those employees or any other employees).
 (6) [Repealed]
 (7) In this section, employee includes a prospective employee.
