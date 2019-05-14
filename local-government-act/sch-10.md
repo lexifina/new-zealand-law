@@ -62,7 +62,7 @@ A long-term plan must, to the extent determined appropriate by the local authori
 (1) A long-term plan must, in relation to each group of activities of the local authority,—
 (a) identify the activities within the group of activities:
 (b) identify the rationale for delivery of the group of activities (including the community outcomes to which the group of activities primarily contributes):
-(c) outline any significant negative effects that any activity within the group of activities may have on the local community:
+(c) outline any significant negative effects that any activity within the group of activities may have on the social, economic, environmental, or cultural well-being of the local community:
 (d) include the information specified in clauses 4 and 5—
 (i) in detail in relation to each of the first 3 financial years covered by the plan; and
 (ii) in outline in relation to each of the subsequent financial years covered by the plan.
@@ -232,7 +232,7 @@ An annual report must, in relation to each group of activities of the local auth
 (a) identify the activities within the group of activities; and
 (b) identify the community outcomes to which the group of activities primarily contributes; and
 (c) report the results of any measurement undertaken during the year of progress towards the achievement of those outcomes; and
-(d) describe any identified effects that any activity within the group of activities has had on the community.
+(d) describe any identified effects that any activity within the group of activities has had on the social, economic, environmental, or cultural well-being of the community.
 24 Capital expenditure for groups of activities
 (1) An annual report must, in relation to each group of activities, include an audited statement comparing the capital expenditure budgeted by the local authority (as set out in the long-term plan or annual plan for the financial year) with the amount spent.
 (2) The statement described in subclause (1) must show separately the amount of funds that the local authority intended to spend and the amount spent to—

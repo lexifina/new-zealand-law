@@ -1,5 +1,6 @@
-# Schedule 1AA Application, savings, and transitional provisions relating to amendments to this Act made by the Local Government Act 2002 Amendment Act 2014
+# Schedule 1AA Application, savings, and transitional provisions
 s 8A
+Part 1 Provisions relating to Local Government Act 2002 Amendment Act 2014
 1 Transitional provision relating to triennial agreements
 (1) A triennial agreement that is in force on the date of commencement of section 9 of the Local Government Act 2002 Amendment Act 2014—
 (a) is not required to comply with the requirements of section 15 as replaced by section 9 of the Local Government Act 2002 Amendment Act 2014; but
@@ -30,20 +31,7 @@ s 8A
 (b) in respect of which a development contribution has yet to be required.
 (2) The application must be dealt with, and any development contribution must be required, collected, and paid, as if the Local Government Act 2002 Amendment Act 2014 had not been enacted.
 8 Transitional provision regarding development contributions for community infrastructure
-(1) This clause applies to any work or programme that—
-(a) was within the definition of community infrastructure as it was immediately before the commencement of section 51 of the Local Government Act 2002 Amendment Act 2014, but is not within that definition as it was immediately after the commencement of section 51 of the Local Government Act 2002 Amendment Act 2014; and
-(b) in relation to which development contributions were authorised by a development contributions policy in force immediately before the commencement of section 51 of the Local Government Act 2002 Amendment Act 2014.
-(2) In relation to a resource consent, building consent, certificate of acceptance, or authorisation for service connection for which an application is submitted on or after the commencement of this clause, a territorial authority may require and collect development contributions in relation to the work or programme if, and only if,—
-(a) immediately before the commencement of this clause,—
-(i) the work or programme had been completed; or
-(ii) substantial progress or effort had been made to complete the work or programme; and
-(b) the development contributions are authorised by the development contributions policy in force at the time the application is made.
-(3) If development contributions are required under subclause (2),—
-(a) the work or programme must be separately identified in the schedule required by section 201A; and
-(b) for each work or programme separately identified, the following must be identified in that schedule, in addition to the matters described in section 201A(1):
-(i) the amount of the total cost of capital expenditure that is still to be recovered through development contributions (at the time the schedule is updated); and
-(ii) the date by which the territorial authority expects to complete recovery of that cost.
-(4) If subclause (2) does not apply, the territorial authority must not require a development contribution in relation to that work or programme.
+[Repealed]
 9 Transitional provision relating to development contributions policy
 (1) Until 30 June 2015 a development contributions policy that was in force immediately before the commencement of this clause is not invalid solely because it is inconsistent with this Act as amended by the specified provisions.
 (2) No later than 1 December 2014, the territorial authority must make publicly available the information required by section 82A(2) in respect of changes proposed to comply with subclause (3).
@@ -68,3 +56,19 @@ s 8A
 (3) The amendments to this Act referred to in subclauses (1) and (2) apply only to annual plans for the period commencing on 1 July 2016 and ending on 30 June 2017 and subsequent annual plans.
 13 Transitional provision relating to annual reports
 The amendments to Schedule 10 made by the 10th to 13th items in Schedule 5 of the Local Government Act 2002 Amendment Act 2014 apply only to annual reports for the period commencing on 1 July 2013 and ending on 30 June 2014 and subsequent annual reports.
+Part 2 Provisions relating to Local Government (Community Well-being) Amendment Act 2019
+14 Interpretation in this Part
+In this Part, 2019 Act means the Local Government (Community Well-being) Amendment Act 2019.
+15 Transitional provision relating to development contributions for certain community infrastructure
+(1) This clause applies to any work or programme that—
+(a) was not within the definition of community infrastructure as it was immediately before the commencement of section 11 of the 2019 Act, but is within the definition of community infrastructure immediately after the commencement of that section; and
+(b) was completed on or after 8 August 2014 and before the commencement of section 11 of the 2019 Act.
+(2) If a territorial authority amends its development contribution policy to require development contributions in relation to any work or programme described in subclause (1),—
+(a) the work or programme must be separately identified in the schedule required by section 201A; and
+(b) for each work or programme separately identified, instead of the matters specified in section 201A(1)(c) and (d), the schedule must list—
+(i) the proportion of the capital cost of the work or programme that the territorial authority would have proposed to recover through development contributions had it been possible to recover development contributions in respect of all developments that meet the criteria in the amended policy; and
+(ii) the proportion of the capital cost of the work or programme that the territorial authority would have proposed to recover from other sources had it been possible to recover development contributions in respect of all developments that meet the criteria in the amended policy; and
+(iii) based on the proportion specified under subparagraph (i), the amount that would have been recoverable in respect of resource consents granted, building consents granted, and service connections granted before the date on which the amendment to the development contribution policy came into effect (and which therefore cannot be recovered through development contributions); and
+(iv) after taking into account the territorial authority's inability to recover the amount specified in subparagraph (iii) from development contributions,—
+(A) the adjusted proportion of the capital cost that the territorial authority proposes to recover through development contributions; and
+(B) the adjusted proportion of the capital cost that the territorial authority proposes to recover from other sources.
