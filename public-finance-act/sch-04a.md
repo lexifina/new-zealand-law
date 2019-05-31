@@ -8,6 +8,7 @@ Crown Asset Management Limited ✓ ✓ ✓
 Crown Infrastructure Partners Limited
 Education Payroll Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
+New Zealand Green Investment Finance Limited ✓ ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
 Predator Free 2050 Limited ✓ ✓ ✓ ✓
 Research and Education Advanced Network New Zealand Limited ✓ ✓ ✓ ✓
