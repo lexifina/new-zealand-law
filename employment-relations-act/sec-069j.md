@@ -2,7 +2,7 @@
 (1) The employment of an employee who elects to transfer to a new employer is to be treated as continuous, including for the purpose of service-related entitlements whether legislative or otherwise.
 (2) To avoid doubt, and without limiting subsection (1),—
 (a) in relation to an employee's entitlements under the Holidays Act 2003,—
-(i) the period of employment of an employee with the employer that ends with the transfer must be treated as a period of employment with the new employer for the purpose of determining the employee's entitlement to annual holidays, sick leave, bereavement leave, and domestic violence leave; and
+(i) the period of employment of an employee with the employer that ends with the transfer must be treated as a period of employment with the new employer for the purpose of determining the employee's entitlement to annual holidays, sick leave, bereavement leave, and family violence leave; and
 (ii) the employer must not pay the employee for annual holidays not taken before the date of transfer; and
 (iii) the new employer must recognise the employee's entitlement to—
 (A) any sick leave, including any sick leave carried over under section 66 of that Act, not taken before the date of transfer; and

@@ -54,12 +54,12 @@ A person holding office as a temporary Judge under section 207 immediately befor
 Part 1A Provisions relating to Part 1 of Domestic Violence—Victims' Protection Act 2018
 4A Interpretation
 In this Part, 2018 Part means Part 1 of the Domestic Violence—Victims' Protection Act 2018.
-Provisions relating to flexible working short-term for people affected by domestic violence
-4B Application to pre-commencement domestic violence
-Part 6AB applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
-Provisions relating to adverse treatment in employment of people affected by domestic violence
-4C Application to pre-commencement domestic violence
-Sections 103(1)(da), 108A, 111, and 123(1)(d) apply even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+Provisions relating to flexible working short-term for people affected by family violence
+4B Application to pre-commencement family violence
+Part 6AB applies even if all or any of the family violence occurred before the commencement of the 2018 Part.
+Provisions relating to adverse treatment in employment of people affected by family violence
+4C Application to pre-commencement family violence
+Sections 103(1)(da), 108A, 111, and 123(1)(d) apply even if all or any of the family violence occurred before the commencement of the 2018 Part.
 Part 2 Provisions relating to Employment Relations Amendment Act 2018
 5 Interpretation
 In this Part, 2018 Act means the Employment Relations Amendment Act 2018.

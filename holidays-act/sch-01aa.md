@@ -8,6 +8,6 @@ The amendments made by the 2016 Act do not apply to conduct that occurred before
 Part 2 Provisions relating to Part 2 of Domestic Violence—Victims' Protection Act 2018
 3 Interpretation
 In this Part, 2018 Part means Part 2 of the Domestic Violence—Victims' Protection Act 2018.
-Provisions relating to domestic violence leave
-4 Application to pre-commencement domestic violence
-Subpart 5 of Part 2 applies even if all or any of the domestic violence occurred before the commencement of the 2018 Part.
+Provisions relating to family violence leave
+4 Application to pre-commencement family violence
+Subpart 5 of Part 2 applies even if all or any of the family violence occurred before the commencement of the 2018 Part.

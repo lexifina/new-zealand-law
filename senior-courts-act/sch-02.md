@@ -19,7 +19,7 @@ Part B Permitted information
 Item Category Description
 Permitted information (1) The permanent court record, as prescribed by rule 7.2 of the Criminal Procedure Rules 2012 (as from time to time amended or replaced)
 (2) Information that any of the following orders have been made in respect of a person:
-(a) any protection order under the Domestic Violence Act 1995 or the Sentencing Act 2002:
+(a) any protection order under the Family Violence Act 2018 or the Sentencing Act 2002:
 (b) any restraining order under the Harassment Act 1997:
 (c) any extended supervision order under the Parole Act 2002:
 (d) any non-contact order under the Victims' Orders Against Violent Offenders Act 2014:

@@ -1,7 +1,0 @@
-# 51F Court may confirm or discharge direction after considering objection made under section 51E
-(1) After considering an objection, made under section 51E, to a direction, the court may—
-(a) confirm the direction; or
-(b) vary the direction; or
-(c) discharge the direction.
-(2) Where, pursuant to subsection (1), the court confirms or varies a direction, then, if the respondent is before the court, the Judge must warn the respondent that non-compliance with the direction is an offence punishable by imprisonment.
-(3) Failure to give the warning required by subsection (2) does not affect the validity of the direction confirmed or varied.

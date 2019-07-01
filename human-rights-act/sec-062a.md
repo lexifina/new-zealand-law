@@ -1,4 +1,4 @@
-# 62A Adverse treatment in employment of people affected by domestic violence
+# 62A Adverse treatment in employment of people affected by family violence
 (1) It is unlawful for a person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (2)) to treat adversely any other person, or to make an implied or overt threat to treat adversely any other person, on the ground that the other person is, or is suspected or assumed or believed to be, a person affected by domestic violence.
 (2) The areas to which subsection (1) applies are—
 (a) the making of an application for employment:
@@ -9,9 +9,9 @@
 (c) subjects that employee to any detriment, in circumstances in which other employees employed by that employer on work of that description are not or would not be subjected to such detriment; or
 (d) retires that employee, or requires or causes that employee to retire or resign.
 (4) For the purposes of this section,—
-child has the meaning given to it in section 2 of the Domestic Violence Act 1995
-domestic violence has the meaning given to it in section 3 of the Domestic Violence Act 1995
-person affected by domestic violence means a person who is 1 or both of the following:
-(a) a person against whom any other person is inflicting, or has inflicted, domestic violence:
-(b) a person with whom there ordinarily or periodically resides a child against whom any other person is inflicting, or has inflicted, domestic violence.
-(5) Subsection (1) applies regardless of how long ago the domestic violence occurred or is suspected or assumed or believed to have occurred, and even if the domestic violence occurred or is suspected or assumed or believed to have occurred before the person became an employee.
+child has the meaning given to it in section 8 of the Family Violence Act 2018
+family violence has the meaning given to it in section 9 the Family Violence Act 2018
+person affected by family violence means a person who is 1 or both of the following:
+(a) a person against whom any other person is inflicting, or has inflicted, family violence:
+(b) a person with whom there ordinarily or periodically resides a child against whom any other person is inflicting, or has inflicted, family violence.
+(5) Subsection (1) applies regardless of how long ago the family violence occurred or is suspected or assumed or believed to have occurred, and even if the family violence occurred or is suspected or assumed or believed to have occurred before the person became an employee.

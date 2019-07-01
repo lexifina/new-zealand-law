@@ -1,5 +1,5 @@
-# 69ABEA Proof of domestic violence
-(1) An employer may require proof that an employee is a person affected by domestic violence to be produced—
+# 69ABEA Proof of family violence
+(1) An employer may require proof that an employee is a person affected by family violence to be produced—
 (a) to the employer; and
 (b) by or on behalf of an employee; and
 (c) for the purposes of a request made by or on behalf of the employee; and
