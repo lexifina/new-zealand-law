@@ -3,7 +3,7 @@ s 109(4)
 Section Amount
 ($)
 12 (Unlawful discrimination) 4,000
-13A(1F) (Non-compliance with section 13A(1A), etc) 500
+13A(1F) (Non-compliance with section 13A(1A), (1CA), or (1CB), etc) 500
 16A(6) (Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days) 1,000
 17 (Requiring key money) 1,000
 Section 17A (Requiring letting fee) 1,000
@@ -22,7 +22,7 @@ Section 17A (Requiring letting fee) 1,000
 40(3A)(d) (Harassment of tenant or neighbour) 2,000
 40(3A)(e) (Tenant failing to ensure number of residents does not exceed maximum allowed) 1,000
 44(2A) (Assigning or subletting a tenancy when prohibited to do so or without the landlord's written consent) 1,000
-45(1A) (Landlord's failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, insulation, or building, or health and safety requirements) 4,000
+45(1A) (Landlord's failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) 4,000
 45(2A) (Landlord interfering with supply of services to premises) 1,000
 46(3) (Altering locks without consent of other party) 1,000
 48(4)(a) (Unlawful entry by landlord) 1,000
@@ -30,7 +30,7 @@ Section 17A (Requiring letting fee) 1,000
 54(3) (Retaliatory notice of termination) 4,000
 61(5) (Abandonment of premises without reasonable excuse) 1,000
 66G(4) (Harassment of tenant in boarding house) 2,000
-66I(4) (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, insulation, or building, or health and safety requirements) 4,000
+66I(4) (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) 4,000
 66J(4) (Landlord of boarding house interfering with services or failing to advise that premises on the market) 1,000
 66K(2)(b) (Interference, etc, with means of escape from fire) 3,000
 66K(4)(b) (Using or permitting premises to be used for unlawful purposes) 1,000

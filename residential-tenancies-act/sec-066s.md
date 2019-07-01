@@ -3,7 +3,8 @@
 (a) to show the room to a prospective tenant:
 (b) to show the room to a prospective buyer or lender, or to a registered valuer, real estate agent, or an expert engaged in appraising or evaluating the boarding house, if the boarding house is to be sold or used as security:
 (c) where entry to the room is necessary to enable the landlord to fulfil his or her obligations under this Act:
-(ca) without limiting paragraph (c), to comply, or to prepare to comply, with any requirements in respect of smoke alarms or insulation imposed, or prospectively imposed, on landlords by regulations made under section 138A or 138B:
+(ca) without limiting paragraph (c), to comply, or to prepare to comply, with any requirements in respect of smoke alarms imposed, or prospectively imposed, on landlords by regulations made under section 138A:
+(cb) without limiting paragraph (c), to comply, or to prepare to comply, with the healthy homes standards (including any prospective requirements of those standards):
 (d) where the landlord has reasonable grounds to believe that a tenant of the room has failed to comply with his or her obligations as a tenant under this Act:
 (e) the landlord wishes to confirm whether or not a tenant of the room has abandoned the tenancy:
 (f) the landlord wishes to inspect the room and no entry for that purpose has been made within the last 4 weeks:

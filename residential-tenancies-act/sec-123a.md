@@ -3,6 +3,7 @@
 (a) the tenancy agreement and any variations or renewals of it (or copies):
 (b) any reports of inspections of the premises carried out by or for the landlord during the tenancy (or copies):
 (c) records of any maintenance or repair work carried out at the premises by or for the landlord during the tenancy (or copies):
+(ca) the records or other documents that relate to the landlord's compliance with the healthy homes standards and that are prescribed by regulations under section 138B(5):
 (d) any notices or letters, emails, or other forms of correspondence between the landlord (or a person acting on the landlord's behalf) and the tenant (or a person acting on the tenant's behalf) in relation to the tenancy (or copies).
 (2) The chief executive may by notice in writing require a landlord to produce to the chief executive any specified documents, or any documents of a specified class, that the landlord is required to retain under subsection (1)(b) to (d).
 (3) A notice under subsection (2)—

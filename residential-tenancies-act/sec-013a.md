@@ -23,15 +23,22 @@
 (1A) The landlord must include in the tenancy agreement a statement, made and signed by the landlord, that provides the following information to the tenant (subject to subsections (1B) and (1C)):
 (a) whether or not there is, as at the date of the tenancy agreement, any insulation installed in connection with any ceilings, floors, or walls that are at the premises:
 (b) details of the location, type, and condition of all insulation that is, as at the date of the tenancy agreement, installed in connection with any ceilings, floors, or walls that are at the premises:
-(c) if the tenancy is, or will be, an income-related rent tenancy and requirements in respect of insulation are imposed on the landlord as referred to in section 45(1)(bb), an explanation of how the landlord will comply with those requirements.
+(c) [Repealed]
 (1B) Subsection (1C) applies if, despite making all reasonable efforts to do so, the landlord has not been able to obtain some or all of the information required by subsection (1A)(a) or (b) in respect of a particular location (for example, above a ceiling, under a floor, or in a wall).
 (1C) The landlord's statement under subsection (1A) does not have to provide the information that the landlord has not been able to obtain in respect of the particular location, so long as the statement instead—
 (a) describes the information that the landlord has not been able to obtain in respect of the particular location; and
 (b) explains why the landlord has not been able to obtain that information; and
 (c) confirms that the landlord has made all reasonable efforts to obtain that information.
-(1D) The requirement that the landlord's statement under subsection (1A) be signed by the landlord is in addition to the requirement under section 13(1) that the landlord sign the tenancy agreement.
-(1E) The landlord's statement under subsection (1A) does not affect the landlord's duties in respect of insulation under section 45(1) or 66I(1) or otherwise.
+(1CA) The landlord must also include in the tenancy agreement a statement, made and signed by the landlord,—
+(a) that, on and after the commencement of the tenancy, the landlord will comply with the healthy homes standards as required by section 45(1)(bb) or 66I(1)(bb) (as the case may be); and
+(b) including the information (if any) prescribed by regulations under section 138B(5).
+(1CB) If there is a written variation or renewal of the tenancy agreement in accordance with section 13B(1), the landlord must include in the written variation or renewal a statement, made and signed by the landlord,—
+(a) that, on and after the time when the variation or renewal takes effect, the landlord will comply with the healthy homes standards as required by section 45(1)(bb) or 66I(1)(bb) (as the case may be); and
+(b) including the information (if any) prescribed by regulations under section 138B(5).
+(1D) The requirement that the landlord's statement under subsection (1A) or (1CA) be signed by the landlord is in addition to the requirement under section 13(1) that the landlord sign the tenancy agreement.
+(1DA) The requirement that the landlord's statement under subsection (1CB) be signed by the landlord is in addition to the requirement under section 13B(1) that the landlord sign the variation or renewal.
+(1E) The landlord's statement under subsection (1A), (1CA), or (1CB) does not affect the landlord's duties in respect of insulation or the healthy homes standards under section 45(1) or 66I(1) or otherwise.
 (1F) The landlord commits an unlawful act if—
-(a) the landlord fails to comply with subsection (1A); or
-(b) the landlord's statement under subsection (1A) includes anything that the landlord knows to be false or misleading.
+(a) the landlord fails to comply with subsection (1A), (1CA), or (1CB); or
+(b) the landlord's statement under subsection (1A), (1CA), or (1CB) includes anything that the landlord knows to be false or misleading.
 (2) [Repealed]
