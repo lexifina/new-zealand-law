@@ -23,11 +23,18 @@ Part 2 Provisions relating to Children, Young Persons, and Their Families (Advoc
 (g) any reference similar to those in paragraphs (a) to (f).
 Part 3 Provisions relating to Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017
 4 New definition of young person not to apply to criminal proceedings underway at commencement date
-(1) For the purpose of this clause, commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
+(1) For the purpose of this clause,—
+commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force
+criminal proceedings—
+(a) means a proceeding that has been commenced by—
+(i) the filing of a charging document; or
+(ii) the filing of a notice of hearing under, or in accordance with, section 21(8) of the Summary Proceedings Act 1957; and
+(b) includes an appeal against conviction or sentence.
 (2) Any defendant aged 17 years in criminal proceedings that are underway in the District Court or High Court on the commencement date must be dealt with by that court as if section 7(4) of this Act had not come into force.
+(3) This clause is subject to clause 23.
 5 Protections for young persons aged 17 years in criminal investigations
 (1) For the purpose of this clause, commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 comes into force.
-(2) Sections 215 to 232 of this Act apply to investigations of alleged offending by persons aged 17 years only if the offending occurred or is alleged to have occurred on or after the commencement date.
+(2) Sections 215 to 232 of this Act apply to investigations of alleged offending by persons aged 17 years if the offending occurred or is alleged to have occurred before, on, or after the commencement date.
 6 Application of complaints mechanism
 A complaints mechanism established under section 7(2)(bad) of this Act applies to any act or omission that occurred on or after 1 January 2008.
 7 Previous definition of child or young person in need of care or protection applies to proceedings underway
@@ -71,3 +78,52 @@ A determination made under section 18B(2)(c) before the commencement of section 
 (4) Section 386C of this Act applies only to persons who are subject to any process or proceeding under this Act on or after the commencement date.
 19 References to Children, Young Persons, and Their Families Act 1989
 Unless the context otherwise requires, every reference to the Children, Young Persons, and Their Families Act 1989 in any document is, after the commencement of section 138 of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017, to be read as a reference to the Oranga Tamariki Act 1989.
+Part 4 Provisions relating to Oranga Tamariki Legislation Act 2019
+20 Proceeding commenced on or after commencement date for offence committed before commencement date
+(1) For the purpose of this clause, commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 (the 2017 Act) comes into force.
+(2) This clause applies to any person in a proceeding that—
+(a) is commenced on or after the commencement date against that person; and
+(b) is for an offence, or an alleged offence, that was committed before the commencement date when that person was 17 years of age.
+(3) The proceeding against the person must be commenced and dealt with under this Act—
+(a) as amended by the 2017 Act; and
+(b) as further amended by Part 1 of the Oranga Tamariki Legislation Act 2019.
+(4) Section 2(2), as amended by the 2017 Act, applies to this clause, except for the requirement that the person be a young person at the date of the alleged offence.
+21 Proceeding for charge related to criminal proceeding underway in District Court or High Court on commencement date
+(1) For the purpose of this clause, commencement date means the date on which section 12 of the Oranga Tamariki Legislation Act 2019 comes into force.
+(2) This clause applies to a person to whom clause 4 applies and either—
+(a) clause 20 applies, if the date of the alleged offending that is the subject of the new proceeding occurred before the commencement date; or
+(b) clause 20 does not apply, if the date of the alleged offending that is the subject of the new proceeding occurred on or after the commencement date.
+(3) If a new proceeding is commenced against the person on or after the commencement date by the filing of a charge for a non-Schedule 1A offence, the provisions referred to in subclause (4) are modified as set out in subclause (5) to enable the Youth Court to determine whether the charge for the non-Schedule 1A offence is related to and may be joined with the criminal proceedings that are underway in the District Court or the High Court.
+(4) The provisions are as follows:
+(a) section 247A; and
+(b) sections 276AA to 276AC; and
+(c) section 276A.
+(5) A reference to a charge for a Schedule 1A offence includes a reference to a charge for any offence (whether specified in Schedule 1A or not) for which the person is in criminal proceedings that are underway in the District Court or the High Court on the commencement date.
+(6) A reference to a charge for a non-Schedule 1A offence continues to exclude a reference to a charge of murder or manslaughter or another offence over which the Youth Court does not have jurisdiction.
+22 Subsequent proceedings not invalidated
+(1) For the purpose of this clause, commencement date means the date on which section 7(4) of the Children, Young Persons, and Their Families (Oranga Tamariki) Legislation Act 2017 (the 2017 Act) comes into force.
+(2) This clause applies to actions taken by a constable before the commencement date during an investigation of a person aged 17 years for an offence or an alleged offence.
+(3) No proceedings are invalidated and no evidential material is deemed inadmissible because the actions are inconsistent with—
+(a) the definition of young person in section 2(1), as replaced by section 7(4) of the 2017 Act; and
+(b) this Act as amended by the 2017 Act and the Oranga Tamariki Legislation Act 2019.
+23 Arrest of person aged 17 years without warrant under section 35(1) or 36(1) of Bail Act 2000
+(1) For the purpose of this clause, unless the context otherwise requires,—
+commencement date means the date on which section 5 of the Oranga Tamariki Legislation Act 2019 comes into force
+court has the same meaning as in section 3 of the Bail Act 2000
+criminal proceedings—
+(a) means a proceeding that has been commenced by—
+(i) the filing of a charging document; or
+(ii) the filing of a notice of hearing under, or in accordance with, section 21(8) of the Summary Proceedings Act 1957; and
+(b) includes an appeal against conviction or sentence
+drug dealing offence has the same meaning as in section 3 of the Bail Act 2000
+Registrar has the same meaning as in section 3 of the Bail Act 2000.
+(2) Section 214B applies to a person aged 17 years if—
+(a) the person—
+(i) is a defendant in criminal proceedings for any offence (except a drug dealing offence), or any alleged offence, that are underway in the District Court or the High Court on the commencement date; and
+(ii) is released on bail (before, on, or after the commencement date) for the offence, or the alleged offence, by a court, a Registrar, or a Police employee; and
+(b) any of the circumstances set out in section 35(1) of the Bail Act 2000 apply to the person so as to empower the arrest without warrant of the person on or after the commencement date.
+(3) Section 214B applies to a person aged 17 years if—
+(a) the person—
+(i) is a defendant in criminal proceedings for a drug dealing offence, or an alleged drug dealing offence, that are underway in the District Court or the High Court on the commencement date; and
+(ii) is released on bail (before, on, or after the commencement date) for the offence, or the alleged offence, by a District Court Judge or a High Court Judge; and
+(b) any of the circumstances set out in section 36(1) of the Bail Act 2000 apply to the person so as to empower the arrest without warrant of the person on or after the commencement date.
