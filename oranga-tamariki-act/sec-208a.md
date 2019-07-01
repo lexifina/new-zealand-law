@@ -1,0 +1,2 @@
+# 208A Child or young person subject to youth justice jurisdiction only until allegations of offending dealt with
+Nothing in section 4A(2), 5, or 208 requires or allows a court or person to make or keep a child or young person subject to any process under this Part, Part 5, or sections 351 to 360, unless the court or person is considering how allegations of offending are to be dealt with or is disposing of criminal proceedings.

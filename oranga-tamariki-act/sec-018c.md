@@ -1,11 +1,11 @@
-# 18C Confirmation of decision not to apply for declaration under section 67
+# 18C Confirmation of decision not to apply for care or protection order
 (1) An application under this section for confirmation of a decision under section 18A(4)(b) relating to the parent of a subsequent child must include—
 (a) information showing that the person is a person to whom section 18A applies; and
 (b) an affidavit by the person making the application setting out the circumstances of the application and the reasons for the person's belief that the parent meets the requirements of section 18A(3).
-(2) The application must be served in accordance with section 152(1) as if it were an application for a declaration under section 67.
+(2) The application must be served in accordance with section 152(1) as if it were an application for a care or protection order.
 (3) When considering the application, the court may (but need not) give any person an opportunity to be heard on the application and, if it does, may appoint a barrister or solicitor (under section 159) to represent the subsequent child.
 (4) After considering the application, the court may,—
-(a) if subsection (5) applies, confirm the chief executive's decision under section 18A(4)(b) not to apply for a declaration under section 67; or
+(a) if subsection (5) applies, confirm the chief executive's decision under section 18A(4)(b) not to apply for a care or protection order; or
 (b) decline to confirm the chief executive's decision under section 18A(4)(b), in which case section 18D applies; or
 (c) dismiss the application on the ground that it does not relate to a person to whom section 18A applies; or
 (d) adjourn the hearing and require the chief executive to—

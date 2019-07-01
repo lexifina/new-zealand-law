@@ -1,0 +1,2 @@
+# 18AAA Chief executive may make family group conference available in certain circumstances
+If the chief executive is not satisfied that a child or young person is in need of care or protection but believes that holding a family group conference would best assist in formulating a plan to help the child or young person, the chief executive may refer the case to a care and protection co-ordinator, who must convene a family group conference under section 20.

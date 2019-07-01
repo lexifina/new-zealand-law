@@ -8,5 +8,5 @@
 (a) the court is satisfied that—
 (i) the person has been unable to effectively exercise their guardianship responsibilities or responsibilities to provide day-to-day care to the child or young person under the orders made under the Care of Children Act 2004; and
 (ii) that inability is due to the conduct of the parents or other guardians of the child or young person, and that conduct forms a pattern of behaviour; and
-(iii) the child's or young person's welfare is being threatened or seriously disturbed as a result; and
+(iii) the child's or young person's well-being is being threatened or seriously disturbed as a result; and
 (b) following an application under section 29A of the Care of Children Act 2004, the court will at the same time revoke both the person's appointment as a guardian under that Act and any associated parenting orders under section 48 of that Act.
