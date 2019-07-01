@@ -54,3 +54,21 @@ pre-commencement drug or alcohol condition means a condition of a sentence of su
 (2) On and from the commencement date, sections 80ZO to 80ZU and 96A, and any rules made under section 80ZT, apply in respect of the offender—
 (a) as if the pre-commencement drug or alcohol condition were a drug or alcohol condition imposed by a court on or after the commencement date; and
 (b) as if the court had complied with section 80ZN(3) in respect of the condition.
+Part 3 Provisions relating to Oranga Tamariki Legislation Act 2019
+10 Interpretation
+In this Part,—
+2019 Act means the Oranga Tamariki Legislation Act 2019
+commencement date means the date on which sections 54 and 55 of the 2019 Act come into force
+proceeding—
+(a) means a proceeding that has been commenced by—
+(i) the filing of a charging document; or
+(ii) the filing of a notice of hearing under, or in accordance with, section 21(8) of the Summary Proceedings Act 1957; and
+(b) includes an appeal against conviction or sentence.
+11 Proceeding under way on commencement date against defendant aged 17 years
+(1) This clause applies to any defendant aged 17 years in a proceeding that is under way in the District Court or the High Court on the commencement date.
+(2) The defendant must be dealt with by the court under this Act as if sections 54 and 55 of the 2019 Act had not come into force.
+12 Proceeding commenced on or after commencement date for offence committed before commencement date
+(1) This clause applies to any defendant aged 17 years in a proceeding that—
+(a) is commenced on or after the commencement date; and
+(b) is for an offence, or an alleged offence, that was committed before the commencement date when the defendant was 17 years of age.
+(2) The defendant must be dealt with by the court under this Act as amended by sections 54 and 55 of the 2019 Act.

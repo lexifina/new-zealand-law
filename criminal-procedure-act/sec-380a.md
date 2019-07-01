@@ -1,0 +1,2 @@
+# 380A Transfer of proceedings commenced in Youth Court back to Youth Court in certain circumstances
+Proceedings commenced in the Youth Court and transferred to the District Court or High Court under section 275 or 276AB(1) of the Oranga Tamariki Act 1989 must, if the circumstances described in section 276A of that Act arise and the requirements of that section are met, be transferred back to the Youth Court.
