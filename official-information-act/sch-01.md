@@ -39,7 +39,6 @@ New Zealand Meat Board
 New Zealand Parole Board
 New Zealand Pork Industry Board
 New Zealand Post Limited
-New Zealand Racing Board
 New Zealand Security Intelligence Service
 New Zealand Standards Approval Board
 New Zealand Symphony Orchestra and any subsidiary of the New Zealand Symphony Orchestra
@@ -49,6 +48,7 @@ Provincial Patriotic Councils
 Public Advisory Committee on Disarmament and Arms Control
 Public Trust
 Queen Elizabeth the Second National Trust
+Racing Industry Transition Agency
 Radiation Safety Advisory Council
 Radio New Zealand Limited
 Related companies of State enterprises (within the meaning of section 2(1A))
