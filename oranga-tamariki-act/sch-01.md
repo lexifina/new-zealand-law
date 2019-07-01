@@ -37,7 +37,7 @@ The Victims' Rights Act 2002, as follows:
 (ii) a parent or guardian of a child or young person who is a victim within the meaning of subparagraph (i), unless that parent or guardian is—
 (A) the child or young person charged with the commission of the offence concerned:
 (B) the child or young person against whom a charge in respect of the offence has been proved before the Youth Court; and
-(iii) a person who has experienced domestic violence; and
+(iii) a person who has experienced family violence (as defined in section 9 of the Family Violence Act 2018); and
 (iv) a child or young person residing with a person who falls within subparagraph (iii), not being the child or young person who committed the offence or alleged offence:
 (b) section 10:
 (c) section 11 (except the definition of services in subsection (2) does not apply):
