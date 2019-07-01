@@ -82,7 +82,7 @@ Abatement
 51 Abatement of compensation
 Effect of New Zealand superannuation
 52 Relationship between weekly compensation and New Zealand superannuation
-53 Election for purposes of clause 52
+53 Election for purposes of clause 52 [Repealed]
 Part 3
 Lump sum compensation for permanent impairment
 54 Lump sum compensation for permanent impairment
@@ -105,12 +105,12 @@ Entitlements arising from fatal injuries
 65 Survivor's grant
 66 Weekly compensation for surviving spouse or partner
 67 Surviving spouse or partner may choose to convert weekly compensation to aggregated payment or payments
-68 Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation
-69 Election for purposes of clause 68
+68 Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation [Repealed]
+69 Election for purposes of clause 68 [Repealed]
 70 Weekly compensation for child
 71 Weekly compensation for other dependants
 72 Relationship between other dependant's weekly compensation and New Zealand superannuation
-73 Election for purposes of clause 72
+73 Election for purposes of clause 72 [Repealed]
 74 Maximum payments
 75 Spouse or partner status or dependency arising after date of personal injury
 Child care payments
@@ -891,25 +891,14 @@ Effect of New Zealand superannuation
 (1) Subclause (2) applies to a claimant who—
 (a) first becomes entitled to weekly compensation before reaching New Zealand superannuation qualification age; and
 (b) has been entitled to it for 24 months or longer before reaching that age.
-(2) Such a claimant loses his or her entitlement to weekly compensation on reaching that age.
-(3) Subclauses (4) and (5) apply to a claimant who first becomes entitled to weekly compensation 12 months or more, but less than 24 months, before reaching New Zealand superannuation qualification age.
-(4) Such a claimant is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
-(5) However, the claimant's entitlement to the compensation is dependent on his or her making an election to be entitled, after reaching New Zealand superannuation qualification age, to the compensation, rather than to New Zealand superannuation.
-(6) Subclauses (7) and (8) apply to a claimant who first becomes entitled to weekly compensation—
-(a) within 12 months before reaching New Zealand superannuation qualification age; or
+(2) The claimant loses entitlement to weekly compensation on reaching that age.
+(3) Subclause (4) applies to a claimant who first becomes entitled to weekly compensation—
+(a) less than 24 months before reaching New Zealand superannuation qualification age; or
 (b) on or after reaching New Zealand superannuation qualification age.
-(7) Such a claimant is entitled to the weekly compensation for a period of 12 months following the later of—
-(a) the date of reaching New Zealand superannuation qualification age; or
-(b) the date of entitlement to weekly compensation.
-(8) The claimant is then entitled to the weekly compensation for the next 12 months, if he or she makes an election to be entitled, during those 12 months, to the compensation, rather than to New Zealand superannuation.
-(9) Nothing in this clause entitles a claimant to weekly compensation if he or she is not otherwise entitled to it under this schedule.
-Compare: 1998 No 114 Schedule 1 cl 25
+(4) The claimant is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
+(5) Nothing in this clause entitles a claimant to weekly compensation if the claimant is not otherwise entitled to it under this Act.
 53 Election for purposes of clause 52
-(1) A claimant must make an election under clause 52(5) or (8) within the period that is the later of the following:
-(a) within 1 month before the date on which the election would take effect; or
-(b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the claimant's case.
-(2) The Corporation may allow a claimant to exercise or revoke an election under clause 52(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
-Compare: 1998 No 114 Schedule 1 cl 26
+[Repealed]
 Part 3 Lump sum compensation for permanent impairment
 54 Lump sum compensation for permanent impairment
 (1) The Corporation is liable to pay the claimant lump sum compensation in accordance with this schedule, if—
@@ -1084,26 +1073,9 @@ Compare: 1998 No 114 Schedule 1 cl 67
 (4) A spouse or partner converts his or her entitlement to weekly compensation under clause 66 to aggregated payments by giving the Corporation notice in writing of the option the spouse or partner has chosen.
 (5) If the Corporation provides aggregated payments to a spouse or partner in accordance with the option chosen by the spouse or partner, the Corporation must not provide weekly compensation to the spouse or partner under clause 66.
 68 Relationship between surviving spouse's or partner's weekly compensation and New Zealand superannuation
-(1) Subclause (2) applies to a surviving spouse or partner who—
-(a) is entitled to weekly compensation immediately before reaching New Zealand superannuation qualification age; and
-(b) has been entitled to it for 12 months or longer before reaching that age.
-(2) Such a surviving spouse or partner is entitled to the weekly compensation if he or she makes an election to be entitled to it, rather than to New Zealand superannuation.
-(3) Subclauses (4) and (5) apply to a surviving spouse or partner who becomes entitled to weekly compensation—
-(a) within 12 months before reaching New Zealand superannuation qualification age; or
-(b) on or after reaching New Zealand superannuation qualification age.
-(4) Such a surviving spouse or partner is entitled to the weekly compensation for a period of 12 months following the later of—
-(a) the date of reaching New Zealand superannuation qualification age; or
-(b) the date of entitlement to weekly compensation.
-(5) The surviving spouse or partner then continues to be entitled to the weekly compensation if he or she makes an election to be entitled to it, rather than to New Zealand superannuation.
-(6) Nothing in this clause entitles a surviving spouse or partner to weekly compensation if he or she is not otherwise entitled to it under this schedule.
-Compare: 1998 No 114 Schedule 1 cl 68
+[Repealed]
 69 Election for purposes of clause 68
-(1) A surviving spouse or partner must make an election under clause 68(2) or (5) within the period that is the latest of the following:
-(a) within 1 month before the date on which the election would take effect; or
-(b) within 1 month after the surviving spouse or partner has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the surviving spouse's or partner's case; or
-(c) before 1 month before the surviving spouse or partner reaches New Zealand superannuation qualification age.
-(2) The Corporation may allow a surviving spouse or partner to exercise or revoke an election under clause 68(2) or (5) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the surviving spouse's or partner's circumstances have changed significantly since the end of the period.
-Compare: 1998 No 114 Schedule 1 cl 69
+[Repealed]
 70 Weekly compensation for child
 (1) The Corporation is liable to pay weekly compensation to a child of a deceased claimant.
 (2) Compensation payable under this clause is payable from the date of the claimant's death at the rate of 20% of—
@@ -1131,26 +1103,14 @@ Compare: 1998 No 114 Schedule 1 cl 71
 (1) Subclause (2) applies to any other dependant who—
 (a) is entitled to weekly compensation immediately before reaching New Zealand superannuation qualification age; and
 (b) has been entitled to it for 24 months or longer before reaching that age.
-(2) Such a dependant loses his or her entitlement to weekly compensation on reaching that age.
-(3) Subclauses (4) and (5) apply to any other dependant who becomes entitled to weekly compensation 12 months or more, but less than 24 months, before reaching New Zealand superannuation qualification age.
-(4) Such a dependant is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
-(5) However, the other dependant's entitlement to the compensation is dependent on his or her making an election to be entitled to the compensation, rather than to New Zealand superannuation, after reaching New Zealand superannuation qualification age.
-(6) Subclauses (7) and (8) apply to any other dependant who becomes entitled to weekly compensation—
-(a) within 12 months before reaching New Zealand superannuation qualification age; or
+(2) The dependant loses entitlement to weekly compensation on reaching that age.
+(3) Subclause (4) applies to any other dependant who first becomes entitled to weekly compensation—
+(a) less than 24 months before reaching New Zealand superannuation qualification age; or
 (b) on or after reaching New Zealand superannuation qualification age.
-(7) Such a dependant is entitled to the weekly compensation for a period of 12 months following the later of—
-(a) the date of reaching New Zealand superannuation qualification age; or
-(b) the date of entitlement to weekly compensation.
-(8) The other dependant is then entitled to the weekly compensation for the next 12 months, if he or she makes an election to be entitled to the compensation, rather than to New Zealand superannuation, for those next 12 months.
-(9) Nothing in this clause entitles any other dependant to weekly compensation if he or she is not otherwise entitled to it under this schedule.
-Compare: 1998 No 114 Schedule 1 cl 72
+(4) The dependant is entitled to weekly compensation for 24 months from the date of entitlement to the compensation.
+(5) Nothing in this clause entitles any other dependant to weekly compensation if the dependant is not otherwise entitled to it under this Act.
 73 Election for purposes of clause 72
-(1) The other dependant must make an election under clause 72(5) or (8) within the period that is the latest of the following:
-(a) within 1 month before the date on which the election would take effect; or
-(b) within 1 month after the other dependant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or the District Court, whichever is applicable in the other dependant's case; or
-(c) before 1 month before the other dependant reaches New Zealand superannuation qualification age.
-(2) The Corporation may allow any other dependant to exercise or revoke an election under clause 72(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the other dependant's circumstances have changed significantly since the end of the period.
-Compare: 1998 No 114 Schedule 1 cl 73
+[Repealed]
 74 Maximum payments
 (1) The total amount of weekly compensation payable under clauses 66 to 73 must not exceed—
 (a) the weekly compensation for loss of earnings to which the claimant would have been entitled at the end of 5 weeks of incapacity, had he or she lived but been totally incapacitated; or
