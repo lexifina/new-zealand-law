@@ -1,0 +1,3 @@
+# 138D Powers to make regulations under sections 138A to 138C not limited by other enactments, etc
+(1) To avoid doubt, nothing in the Building Act 2004, or in any other enactment relating to buildings, health, or safety, limits the provision that may be made by regulations under section 138A, 138B, or 138C.
+(2) Regulations under section 138B(1) may provide that a provision of any regulations in force under section 120C of the Health Act 1956 that relates to any matter referred to in section 138B(2) does not apply in relation to premises (read in accordance with section 138B(7)) that are subject to tenancies.

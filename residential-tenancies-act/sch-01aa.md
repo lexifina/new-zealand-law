@@ -70,3 +70,40 @@ Section 17A does not apply to—
 (b) any tenancy agreement entered into before that date (whether the tenancy agreement took effect before or takes effect on or after that date); or
 (c) any assignment or subletting if the landlord consented to the assignment or subletting before that date (whether the assignment or subletting took effect before or takes effect on or after that date); or
 (d) any amount that is charged in relation to a subletting, if the Tribunal consented to the charge before that date.
+Part 4 Provisions relating to Residential Tenancies Amendment Act 2019
+15 Interpretation
+In this Part,—
+2019 Amendment Act means the Residential Tenancies Amendment Act 2019
+amendment means an amendment to this Act made by a provision of the 2019 Amendment Act
+commencement date, in relation to an amendment, means the date on which the provision of the 2019 Amendment Act that makes the amendment comes into force
+tenancy includes a tenancy to which this Act applies as a result of section 4(2) of the 2019 Amendment Act (which replaces the definition of residential premises in section 2(1)) and that subsists on the date on which that amendment came into force.
+16 Existing tenancies, etc
+(1) An amendment applies to a tenancy whether the tenancy commences before, on, or after the commencement date.
+(2) This clause is subject to clause 19.
+17 New unlawful acts
+An amendment that creates a new unlawful act does not apply to acts or omissions before the commencement date.
+18 Proceedings that have commenced
+An amendment does not apply to proceedings commenced before the Tribunal before the commencement date.
+19 Application of insurance and tenant liability provisions to social housing provider tenancies under existing Property Law Act 2007 leases
+(1) This clause applies only in circumstances where—
+(a) Housing New Zealand Corporation or a registered community housing provider (a housing provider) is the landlord of residential premises that are the subject of a tenancy agreement; and
+(b) the housing provider is a lessee of those premises under a lease—
+(i) to which the Property Law Act 2007 applies; and
+(ii) that was entered into before the date on which section 5 of the 2019 Amendment Act came into force (and including any renewal term commencing on or after that date if the right of renewal existed in the lease before that date); and
+(c) the housing provider has no legally enforceable right to require the lessor under that lease to provide the housing provider with the information that the housing provider would need to possess in order to be able to comply with the insurance information sections.
+(2) If this clause applies,—
+(a) the insurance information sections do not apply to the housing provider; and
+(b) for the purpose of determining the tenant's liability under section 49B(2), the premises are treated as not insured against the destruction or damage (so that the applicable limit in section 49B(3)(b) applies).
+(3) In this clause,—
+insurance information sections means—
+(a) section 13A(2) to (4) (as inserted by section 5 of the 2019 Amendment Act); and
+(b) section 45(2B) to (2D) (as inserted by section 7 of the 2019 Amendment Act); and
+(c) section 66J(5) to (7) (as inserted by section 15 of the 2019 Amendment Act)
+registered community housing provider has the same meaning as in section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
+20 Transitional provision for continuing tenancy agreement when circumstances in clause 19 cease applying
+(1) This clause applies if clause 19 ceases to apply but the tenancy agreement is continuing, and the tenancy agreement was entered into on or after the date on which section 13A(2) (as inserted by section 5 of the 2019 Amendment Act) came into force.
+(2) For the purpose of section 13A(3), the tenancy agreement is treated as having been entered into before section 13A(2) came into force.
+21 Application of section 56A(1) to existing tenancies
+Section 56A(1) (as inserted by section 12 of the 2019 Amendment Act) applies to a tenant of a tenancy of premises that are unlawful residential premises immediately after the commencement of section 56A(1) as if the tenancy had started on commencement of that section.
+22 Application of section 78A to certain work orders
+Section 78A (as inserted by section 19 of the 2019 Amendment Act) does not apply to subsequent proceedings taken for enforcement of a work order made in a matter for which proceedings commenced before the Tribunal before the date on which that section comes into force.
