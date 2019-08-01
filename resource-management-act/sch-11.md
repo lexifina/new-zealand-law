@@ -26,6 +26,7 @@ Ngāti Mutunga Claims Settlement Act 2006
 Ngāti Pāhauwera Treaty Claims Settlement Act 2012
 Ngati Porou Claims Settlement Act 2012
 Ngāti Pūkenga Claims Settlement Act 2017
+Ngāti Rangi Claims Settlement Act 2019
 Ngāti Rangiteaorere Claims Settlement Act 2014
 Ngāti Rangiwewehi Claims Settlement Act 2014
 Ngati Ruanui Claims Settlement Act 2003
