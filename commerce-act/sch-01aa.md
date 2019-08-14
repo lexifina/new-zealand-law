@@ -22,12 +22,7 @@ Part 1 Provisions relating to Commerce (Cartels and Other Matters) Amendment Act
 3 Transitional provision for authorisations under section 58
 Section 58A(1) and (2) applies to an authorisation that is given either before or after section 12 of the Amendment Act 2017 comes into force.
 4 Transitional provision relating to amendments to Shipping Act 1987
-(1) This clause applies to a contract, arrangement, or understanding, or to a proposed contract, arrangement, or understanding, in so far as it contains a provision to which the exception in section 44(2) applies.
-(2) At any time before section 33 of the Amendment Act 2017 comes into force, any carrier (as defined in section 2 of the Shipping Act 1987) who is a party to the contract, arrangement, or understanding may apply to the Commission for the following:
-(a) an authorisation under section 58, in which case the Commission may grant the authorisation in accordance with that section:
-(b) a clearance under section 65A, in which case the Commission may grant the clearance in accordance with that section, except that the clearance may be granted in respect of a contract, arrangement, or understanding that has already been entered into or arrived at (and not just in relation to proposed contracts, arrangements, or understandings).
-(3) This clause is repealed at the close of the day immediately before section 33 of the Amendment Act 2017 comes into force.
-(4) Despite the repeal of this clause, any application made pursuant to subclause (2) before its repeal may continue to be dealt with by the Commission as if the clause had not been repealed.
+[Repealed]
 5 Transitional provision for offences and contraventions under repealed or amended provisions
 (1) This clause applies to an offence committed under, or a contravention of, any provision of this Act repealed or amended by the Amendment Act 2017 before the commencement of the provision that repealed or amended that provision.
 (2) The provisions repealed or amended by the Amendment Act 2017 continue to have effect as if they had not been repealed or amended for the purpose of—
