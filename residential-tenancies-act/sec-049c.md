@@ -1,0 +1,3 @@
+# 49C Landlord, not insurer, to benefit from tenant liability for careless damage
+(1) An insurer of the premises against destruction or damage has no right or claim in relation to a tenant's liability under section 49B(2) or (6), including no right of equitable or contractual subrogation and no right arising out of an assignment by the insured.
+(2) If an insured receives or is entitled to receive any money or benefit arising out of a tenant's liability under section 49B(2) or (6), an insurer of the premises may not take that money or benefit into account in calculating the amount payable under the insurance.

@@ -3,7 +3,7 @@ s 109(4)
 Section Amount
 ($)
 12 (Unlawful discrimination) 4,000
-13A(1F) (Non-compliance with section 13A(1A), (1CA), or (1CB), etc) 500
+13A(1F) (Non-compliance with section 13A(1A), (1CA), (1CB), (2), (3), or (4), etc) 500
 16A(6) (Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days) 1,000
 17 (Requiring key money) 1,000
 Section 17A (Requiring letting fee) 1,000
@@ -24,20 +24,24 @@ Section 17A (Requiring letting fee) 1,000
 44(2A) (Assigning or subletting a tenancy when prohibited to do so or without the landlord's written consent) 1,000
 45(1A) (Landlord's failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) 4,000
 45(2A) (Landlord interfering with supply of services to premises) 1,000
+45(2D) (Landlord's failure to meet obligations to provide insurance policy or to correct information provided) 500
 46(3) (Altering locks without consent of other party) 1,000
 48(4)(a) (Unlawful entry by landlord) 1,000
 48(4)(b) (Tenant failing, without reasonable excuse, to allow landlord to enter upon premises in circumstances where landlord entitled to enter) 1,000
+49D (Unlawful acts of landlord related to the tenant's liability under section 49B) 1,000
 54(3) (Retaliatory notice of termination) 4,000
 61(5) (Abandonment of premises without reasonable excuse) 1,000
 66G(4) (Harassment of tenant in boarding house) 2,000
 66I(4) (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) 4,000
 66J(4) (Landlord of boarding house interfering with services or failing to advise that premises on the market) 1,000
+66J(7) (Landlord of boarding house failing to meet obligations to provide insurance policy or to correct information provided) 500
 66K(2)(b) (Interference, etc, with means of escape from fire) 3,000
 66K(4)(b) (Using or permitting premises to be used for unlawful purposes) 1,000
 66K(4)(c) (Harassment of neighbour) 2,000
 66P(4) (Landlord of boarding house failing to comply with order relating to house rules) 2,000
 66T(1) (Contraventions relating to entry, or attempted entry, of tenant's room in boarding house) 1,000
 66X(5) (Abandonment of premises without reasonable excuse) 1,000
-108(2A) (Breach of work order without reasonable excuse) 3,000
+108(2A) (Breach of work order (other than section 78A work order) without reasonable excuse) 3,000
+108(2A) (Landlord breaching section 78A work order without reasonable excuse) 4,000
 123A(4) (Landlord failing to provide required documents to chief executive) 1,000
 137(2) (Contracting to contravene or evade the provisions of this Act) 1,000

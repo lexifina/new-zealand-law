@@ -5,8 +5,8 @@
 (c) keep the tenant's room reasonably clean and reasonably tidy, and in a condition that does not create a health or safety hazard; and
 (ca) comply with all requirements in respect of smoke alarms imposed on the tenant by regulations made under section 138A; and
 (d) notify the landlord, as soon as possible after discovery, of any damage to the premises or of the need for any repairs; and
-(e) observe the house rules; and
-(f) compensate the landlord for any damage done by the tenant, or by any of his or her visitors to the premises, other than damage caused by general wear and tear.
+(e) observe the house rules.
+(f) [Repealed]
 (2) The tenant of a boarding house must not—
 (a) intentionally or carelessly damage, or permit any other person to damage, the premises; or
 (b) cause or permit any interference with, or render inoperative, any means of escape from fire within the meaning of the Building Act 2004; or
@@ -20,3 +20,4 @@
 (a) a contravention of subsection (2)(b):
 (b) a contravention of subsection (2)(c):
 (c) a contravention of subsection (2)(d) in circumstances that amount to harassment of a neighbour of the tenant.
+(5) See sections 49A and 49B in relation to the tenant's liability for a contravention of subsection (2)(a).
