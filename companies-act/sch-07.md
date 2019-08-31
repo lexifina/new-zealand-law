@@ -37,9 +37,19 @@ s 312
 (A) is over all or any part of the company's accounts receivable and inventory or all or any part of either of them; and
 (B) is not a purchase money security interest that has been perfected at the time specified in section 74 of the Personal Property Securities Act 1999; and
 (C) is not a security interest that has been perfected under the Personal Property Securities Act 1999 at the commencement of the liquidation and that arises from the transfer of an account receivable for which new value is provided by the transferee for the acquisition of that account receivable (whether or not the transfer of the account receivable secures payment or performance of an obligation); and
+(D) is not a security interest referred to in subclause (3A); and
 (ii) must be paid accordingly out of any accounts receivable or inventory subject to that security interest (or their proceeds).
-(2) For the purposes of subclause (1)(b), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
+(2) For the purposes of subclauses (1)(b) and (3A), the terms account receivable, inventory, new value, proceeds, purchase money security interest, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 (3) To the extent that the claims to which subclause (1) applies are paid out of assets referred to in paragraph (b) of that subclause, the amount so paid is an unsecured debt due by the company to the secured party.
+(3A) For the purposes of subclause (1)(b)(i)(D), the security interest is a security interest over accounts receivable, inventory, or both to the extent that that security interest secures payment or performance of an obligation under or in relation to a qualifying derivative and—
+(a) the counterparties to the derivative are—
+(i) 2 qualifying counterparties; or
+(ii) a qualifying counterparty and an overseas person; and
+(b) before enforcement of the interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
+(i) the enforcing counterparty; or
+(ii) another person (who is not the company that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
+(3B) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subclause (3A) have in that subclause the same meanings as in that section.
+(3C) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subclause (3A)(b) (and those modifications include treating references to section 122(9A)(b) of that Act as references to subclause (3A)(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
 (4) Clause 9 of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 3 Provisions concerning preferential payments to employees
 (1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $23,960 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.

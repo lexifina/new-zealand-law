@@ -18,3 +18,8 @@ Section 231(1A) (as inserted by section 29 of the Regulatory Systems (Commercial
 (2) Section 310D(2) and (3) (as inserted by section 31 of the Regulatory Systems (Commercial Matters) Amendment Act 2017)—
 (a) applies to a bilateral netting agreement whether made before or after the commencement of section 310D(2) and (3); but
 (b) does not apply if the liquidation of the company began before the commencement of section 310D(2) and (3).
+Part 2 Provision relating to Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019
+5 Provision relating to enforcing security interest over collateral for qualifying derivative
+The amendments made by subpart 2 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
+(a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
+(b) a qualifying derivative entered into on or after the commencement of this clause.
