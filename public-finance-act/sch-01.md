@@ -52,6 +52,7 @@ Additional transitional provisions applicable to Schedule 4 organisations and Sc
 (2) If TRCL's first statement of intent includes information described in section 141(1)(b), (c), (d), (f), (g), or (h) or section 142(1)(b) (a specified provision) of the Crown Entities Act 2004, section 147 of that Act applies as if the information were included in TRCL's first statement of intent under the specified provision.
 (3) In this clause, TRCL's first statement of intent means Tāmaki Redevelopment Company Limited's statement of intent for the 2013/14 financial year.
 Part 2 Provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
+[Repealed]
 9 Transitional provision relating to Public Finance (Fiscal Responsibility) Amendment Act 2013
 [Repealed]
 Part 3 Provision relating to Child Poverty Reduction Act 2018
