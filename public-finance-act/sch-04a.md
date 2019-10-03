@@ -11,6 +11,7 @@ Health Benefits Limited ✓ ✓ ✓ ✓
 New Zealand Green Investment Finance Limited ✓ ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
 Predator Free 2050 Limited ✓ ✓ ✓ ✓
+Provincial Growth Fund Limited ✓ ✓
 Research and Education Advanced Network New Zealand Limited ✓ ✓ ✓ ✓
 Southern Response Earthquake Services Limited ✓ ✓ ✓
 Tāmaki Redevelopment Company Limited ✓ ✓ ✓ ✓
