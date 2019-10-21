@@ -97,7 +97,7 @@ A long-term plan for a territorial authority must identify and explain any signi
 (a) assessment of water and other sanitary services under section 125:
 (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
 7 Council-controlled organisations
-A long-term plan must, in relation to each council-controlled organisation,—
+A long-term plan must, in relation to each council-controlled organisation in which the local authority is a shareholder,—
 (a) name the council-controlled organisation and any subsidiary of the council-controlled organisation; and
 (b) identify—
 (i) the local authority's significant policies and objectives in relation to ownership and control of the organisation; and
@@ -259,7 +259,7 @@ An annual report must include an audited statement that—
 (b) the amount of funds borrowed and repaid during the year; and
 (c) the amount of interest (if any) paid in relation to the internal borrowing.
 28 Council-controlled organisations
-An annual report must include, in relation to each council-controlled organisation,—
+An annual report must include, in relation to each council-controlled organisation in which the local authority is a shareholder,—
 (a) a report on the extent to which the local authority's significant policies and objectives in regard to ownership and control of the organisation (as set out in the relevant long-term plan or annual plan) have been implemented or attained in the year to which the report relates; and
 (b) a comparison between the nature and scope of the activities intended to be provided by the organisation in the year to which the report relates (as set out in the relevant long-term plan or annual plan) and the nature and scope of the activities actually provided by the organisation in that year; and
 (c) a comparison between actual performance and the key performance targets and other measures set out in the relevant long-term plan or annual plan.

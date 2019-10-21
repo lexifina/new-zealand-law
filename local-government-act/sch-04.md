@@ -15,7 +15,11 @@ Compare: 1974 No 66 s 37Z(1), (2)
 (b) the member's successor is appointed; or
 (c) the member is informed in writing by the Minister that he or she is not to be reappointed; or
 (d) the member resigns his or her office by sending a written notice to the Minister.
-(2) A member may, at any time, be removed from office by written notice from the Minister for inability to perform the functions of office, legal incapacity, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Minister.
+(2) A member may, at any time, be removed from office, by written notice from the Minister, for any reason that, in the Minister's opinion, justifies the removal.
+(2A) The notice referred to in subclause (2) must—
+(a) state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received; and
+(b) state the reasons for the removal.
+(2B) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice under subclause (2).
 (3) If a member dies, resigns, or is removed from office, his or her office becomes vacant.
 (4) A vacancy under this clause is an extraordinary vacancy, and must be filled in the manner in which the appointment to the vacant office was made.
 (5) A person appointed to fill an extraordinary vacancy must be appointed for the residue of the term for which the vacating member was appointed.

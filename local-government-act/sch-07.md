@@ -78,7 +78,7 @@ Remuneration of members
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
 (7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(8) In this clause, local boards has the meaning given in section 4(1) of the Local Government (Auckland Council) Act 2009.
+(8) [Repealed]
 7 Mandatory criteria for Remuneration Authority
 (1) In determining remuneration under clause 6, the Remuneration Authority must have regard to the need to—
 (a) minimise the potential for certain types of remuneration to distort the behaviour of the persons listed in clause 6(1) in relation to their positions as listed in clause 6(1); and
@@ -400,7 +400,10 @@ Compare: 1974 No 66 ss 114P, 114R, 114S(3)-(5)
 (ii) the procedure by which the chairperson or deputy chairperson may be removed from that office:
 (iii) whether a quorum must include 1 or more members appointed by each party, or any party:
 (iv) the extent to which the standing orders of any local authority or public body apply to meetings of the joint committee.
-(7) Nothing in this clause applies to a joint committee constituted or continued by, or required to be constituted or continued by, an enactment other than this Act.
+(6A) For the purposes of subclause (6)(b), a mayor who is a member of the committee solely by operation of section 41A(5) is not counted as a member of the committee for the purposes of determining—
+(a) the number of members required to constitute a quorum; or
+(b) whether a quorum exists at a meeting.
+(7) Nothing in subclauses (1) to (4) applies to a joint committee constituted or continued by, or required to be constituted or continued by, an enactment other than this Act.
 31 Membership of committees and subcommittees
 (1) A local authority may appoint or discharge any member of a committee or a subcommittee.
 (2) Unless directed otherwise by the local authority, a committee may appoint or discharge any member of a subcommittee appointed by the committee.

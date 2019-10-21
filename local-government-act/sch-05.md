@@ -4,7 +4,7 @@ s 37
 (1) Proceedings before the Commission are not invalid for want of form and, except as provided in this schedule, no appeal lies from any decision of the Commission.
 (2) Nothing in subclause (1)—
 (a) prohibits or restricts the High Court from exercising a supervisory jurisdiction over the Commission on questions of law; or
-(b) restricts the power of the Commission to refer any disputed question of law to the High Court for decision under section 10 of the Commissions of Inquiry Act 1908.
+(b) restricts the power of the Commission to refer any disputed question of law to the High Court for decision under section 34 of the Inquiries Act 2013.
 Compare: 1974 No 66 s 37ZM
 2 Appeal to High Court
 (1) If a party to proceedings before the Commission or the Minister is dissatisfied with a decision of the Commission in the proceedings as being erroneous in point of law, the party or the Minister may appeal to the High Court on the question of law.

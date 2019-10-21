@@ -72,3 +72,46 @@ In this Part, 2019 Act means the Local Government (Community Well-being) Amendme
 (iv) after taking into account the territorial authority's inability to recover the amount specified in subparagraph (iii) from development contributions,—
 (A) the adjusted proportion of the capital cost that the territorial authority proposes to recover through development contributions; and
 (B) the adjusted proportion of the capital cost that the territorial authority proposes to recover from other sources.
+Part 3 Provisions relating to Local Government Act 2002 Amendment Act 2019
+Transitional provision relating to reporting and publication requirements
+16 Delayed effective date for certain reporting and publication requirements
+(1) Despite sections 64(9), 64B(3), 66(5), and 67(4), a local authority is not required to publish a council-controlled organisation's statement of intent, statement of expectations, half-yearly or quarterly report, or annual report on an Internet site maintained by the local authority before the date that is 3 months after the date of commencement of the Local Government Act 2002 Amendment Act 2019.
+(2) Despite sections 66 and 67(1)(b), a council-controlled organisation is not required to deliver a report to a local authority that indirectly controls the organisation before the date that is 3 months after the date of commencement of the Local Government Act 2002 Amendment Act 2019.
+Transitional provisions relating to scope of local government reorganisations
+17 Interpretation
+In this Part,—
+relevant amendments means the amendments to subpart 2 of Part 3 and to Schedule 3 made by sections 8 to 14 and 31 of the Local Government Act 2002 Amendment Act 2019
+relevant provisions means the provisions in subpart 2 of Part 3 and Schedule 3.
+18 Relevant amendments do not apply if final proposal notified before commencement
+The relevant amendments do not apply to a local government reorganisation for which a final proposal was publicly notified under clause 22 of Schedule 3 before the repeal of that clause and the commencement of the relevant amendments. The relevant provisions continue to apply as if the relevant amendments had not been made.
+Reorganisation applications made before 4 April 2019
+19 Process if notice of proposal given, but decision not made, before commencement of relevant amendments
+(1) Subclause (2) applies if,—
+(a) before 4 April 2019, the Local Government Commission received a reorganisation application under clause 3 of Schedule 3; and
+(b) before the commencement of the relevant amendments, the Commission—
+(i) had given notice of a draft proposal under clause 20 of Schedule 3; but
+(ii) had not made a decision under clause 21(1) of that schedule in respect of that draft proposal.
+(2) If this subclause applies,—
+(a) the relevant provisions, as amended by the relevant amendments, apply to consideration of the draft proposal as if it were a reorganisation investigation under subpart 2 of Part 1 of Schedule 3; but
+(b) the Commission must complete the consultation required by clause 20 of Schedule 3 as if that clause had not been repealed, before taking any action under Part 2 of Schedule 3.
+20 Process if decision to assess application notified before commencement of relevant amendments, but draft proposal not completed
+(1) Subclause (2) applies if,—
+(a) before 4 April 2019, the Local Government Commission received a reorganisation application under clause 3 of Schedule 3; and
+(b) before the commencement of the relevant amendments, the Commission—
+(i) had notified its decision to assess an application under clause 6 of Schedule 3; but
+(ii) had not completed a draft proposal for the affected area under clause 14 of that schedule.
+(2) If this subclause applies,—
+(a) the relevant provisions, as amended by the relevant amendments, apply to the application, and to any alternative applications relating to the application received under clause 10 of Schedule 3, as if each application were a reorganisation initiative under subpart 1 of Part 1 of Schedule 3; but
+(b) the Commission must undertake 1 or more investigations covering the proposals in the application or applications, and clause 5 of Schedule 3 does not apply.
+Reorganisation applications made after 4 April 2019
+21 Process if reorganisation application made between 4 April 2019 and date of commencement of relevant amendments
+(1) Subclauses (2) to (4) apply if the Commission received a reorganisation application under clause 3 of Schedule 3 in the period starting on 4 April 2019 and ending immediately before the commencement of the relevant amendments.
+(2) If the reorganisation application was made by a person, body, or group, other than a local authority or the Minister, the Commission must determine whether the application was made on behalf of a group that comprises at least 10% of electors in the affected area.
+(3) If the Commission determines that the application was not made on behalf of a group that comprises at least 10% of electors in the affected area,—
+(a) the Commission must not assess or continue to assess the application; and
+(b) the Commission must notify the person who submitted the application that—
+(i) the application will not be assessed; but
+(ii) the person may propose a reorganisation initiative or make an investigation request in accordance with subpart 1 of Part 1 of Schedule 3.
+(4) If the Commission determines that the application was made on behalf of a group that comprises at least 10% of electors in the affected area, the application must be progressed as follows:
+(a) in accordance with clause 19(2), if the circumstances described in clause 19(1)(b) apply; and
+(b) in accordance with clause 20(2), if the circumstances described in clause 20(1)(b) apply.
