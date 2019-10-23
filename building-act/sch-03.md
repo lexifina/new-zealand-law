@@ -47,13 +47,14 @@ Procedures of Board
 34 Appointment of subcommittee to deal with complaints and licensing appeals
 Members' appointment
 1 Method of appointment
-(1) The Governor-General appoints a member by sending written notice to the member (with a copy to the Board).
+(1) The Minister appoints a member by sending written notice to the member (with a copy to the Board).
 (2) The notice of appointment must—
 (a) state the date on which the appointment takes effect; and
 (b) be given only after the person to be appointed has—
 (i) consented in writing to being a member; and
 (ii) certified in writing that he or she is not disqualified from being a member; and
 (iii) disclosed to the Minister all interests that the person would, if he or she were a member, have to disclose under clauses 15 to 18 at the time of the certificate.
+(3) When a member of the Board is appointed, the Minister must publish a notice in the Gazette confirming the appointment.
 2 Qualifications of members
 (1) A natural person who is not disqualified by this clause may be a member.
 (2) The following persons are disqualified from being a member:
@@ -68,7 +69,7 @@ Members' appointment
 (3) A member continues in office despite the expiry of his or her term of office until—
 (a) the member is reappointed; or
 (b) the member's successor is appointed; or
-(c) the Governor-General informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed at that time.
+(c) the Minister informs the member by written notice (with a copy to the Board) that the member is not to be reappointed and no successor is to be appointed at that time.
 (4) This clause is subject to clause 9.
 4 Validity of members' acts
 The acts of a person as a member are valid even if—
@@ -81,12 +82,12 @@ Resignation and removal of members
 (1) A member may resign from office by written notice to the Minister (with a copy to the Board) that is signed by the member.
 (2) The resignation is effective on receipt of the notice by the Minister or at any later time stated in the notice.
 7 Removal from office
-(1) The Governor-General may, on the advice of the Minister given after consultation with the Attorney-General, remove a member from office by written notice to the member (with a copy to the Board) at any time for any of the following reasons proved to the satisfaction of the Governor-General:
+(1) The Minister may, after consultation with the Attorney-General, remove a member from office by written notice to the member (with a copy to the Board) at any time for any of the following reasons proved to the satisfaction of the Minister:
 (a) breach of the member's duties or the Board's collective duties under this schedule; or
 (b) failure or inability to perform, or inadequate performance of, the member's duties and responsibilities as a member; or
 (c) misconduct by the member; or
 (d) any other just cause.
-(2) Before giving advice to the Governor-General, the Minister must give the member a reasonable opportunity to make written submissions or be heard on the proposal to remove him or her.
+(2) Before removing the member, the Minister must give the member a reasonable opportunity to make written submissions or be heard on the proposal to remove him or her.
 (3) The notice of removal must state the reason for the removal.
 8 No compensation for ceasing to hold office
 A member is not entitled to any compensation or other payment or benefit relating to his or her ceasing for any reason to hold office as a member.
@@ -98,8 +99,8 @@ A member ceases to hold office if he or she—
 (d) otherwise ceases to hold office in accordance with any enactment.
 Vacancies in membership of Board
 10 Position where vacancy in membership
-(1) If a member, for any reason, ceases to hold office as a member, the Governor-General may appoint another person to act as a member.
-(2) A member who is appointed under subclause (1) is appointed for the residue of the term for which the vacating member was appointed.
+(1) If a member, for any reason, ceases to hold office as a member, the Minister may appoint another person to act as a member.
+(2) A member who is appointed under subclause (1) is appointed for a term determined by the Minister, not exceeding 3 years.
 11 Effect of vacancy in membership
 The powers and functions of the Board are not affected by any vacancy in its membership.
 Duties of members

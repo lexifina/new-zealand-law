@@ -5,4 +5,4 @@
 (c) a rule in a proposed plan describes the activity as a prohibited activity and the rule has not become operative.
 (2) Prospecting, exploring, or mining for Crown owned minerals in the internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) of the Coromandel Peninsula must be treated as a prohibited activity.
 (3) Subsection (2) does not apply to prospecting, exploring, or mining activities set out in section 61(1A) of the Crown Minerals Act 1991.
-(4) [Repealed]
+(4) Any mining whose main purpose is to mine mercury must be treated as a prohibited activity.

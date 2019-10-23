@@ -12,8 +12,8 @@
 (2) The dispute resolution process recorded under subsection (1)(c)(vi) must—
 (a) set out the extent to which the outcome of a dispute resolution process may constitute an agreement—
 (i) to alter or terminate a Mana Whakahono a Rohe (see subsection (5)):
-(ii) to conclude a Mana Whakahono a Rohe at a time other than that specified in section 58Q:
-(iii) to complete a Mana Whakahono a Rohe at a later date (see section 58T(2)):
+(ii) [Repealed]
+(iii) to complete the review of a local authority's policies and processes (to ensure that they are consistent with a Mana Whakahono a Rohe) at a later date (see section 58T(2)):
 (iv) jointly to review the effectiveness of a Mana Whakahono a Rohe at a later date (see section 58T(3)):
 (v) to undertake any additional reporting (see section 58T(5)); and
 (b) require each of the participating authorities to bear its own costs for any dispute resolution process undertaken.

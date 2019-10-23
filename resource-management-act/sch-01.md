@@ -327,7 +327,7 @@ and shall send a copy of the public notice to any other person who, in the terri
 (a) any person representing a relevant aspect of the public interest; and
 (b) any person that has an interest in the proposed policy statement or plan greater than the interest that the general public has; and
 (c) the local authority itself.
-(1A) However, in the case of submissions on a proposed change to a policy statement or plan, the only persons (in addition to the relevant local authority) who may make a further submission are—
+(1A) However, in the case of submissions on a proposed change to a policy statement or plan for which limited notification has been given under clause 5A, the only persons (in addition to the relevant local authority) who may make a further submission are—
 (a) the persons given limited notification under clause 5A(3); and
 (b) the persons given a copy of the proposed change under clause 5A(8).
 (2) A further submission given under subclause (1) or (1A) must be limited to a matter in support of or in opposition to the relevant submission made under clause 6 or 6A.

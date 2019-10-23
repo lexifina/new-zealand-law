@@ -9,4 +9,4 @@ participating iwi authorities means the iwi authorities that—
 (a) have agreed to participate in a Mana Whakahono a Rohe; and
 (b) have agreed the order in which negotiations are to be conducted
 relevant iwi authority means an iwi authority whose area of interest overlaps with, or is adjacent to, the area of interest of an initiating iwi authority
-relevant local authority means a district or regional council whose area of interest overlaps with, or is adjacent to, the area of interest represented by the initiating iwi authority.
+relevant local authority means a local authority whose area of interest overlaps with, or is adjacent to, the area of interest represented by the initiating iwi authority.
