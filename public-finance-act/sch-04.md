@@ -1,8 +1,8 @@
 # Schedule 4 Organisations for the purposes of subpart 2 of Part 5
 ss 3A, 45M, 45N
 Note: A tick alongside the name of an organisation means that the section of the Crown Entities Act 2004 that appears above the tick applies to that organisation.
-Name or description of organisation SOI Annual report SP Securities Borrowing Guarantees Derivatives Surplus
-139 150 153 161 162 163 164 165
+Name or description of organisation SOI SPE Annual report SP Securities Borrowing Guarantees Derivatives Surplus
+139 149C 150 153 161 162 163 164 165
 Agricultural and Marketing Research and Development Trust
 Asia New Zealand Foundation
 Game Animal Council
