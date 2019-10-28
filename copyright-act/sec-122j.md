@@ -8,7 +8,7 @@ Example
 An enforcement notice is issued on Monday, 1 March, and—
 (1) by the close of Monday, 15 March, no challenges have been received. The rights owner can apply to the Tribunal at any time after that, up until the close of Sunday, 4 April (end of quarantine period); or
 (2) on Monday, 15 March, a valid challenge is received. Whether or not the challenge is rejected, the rights owner cannot apply to the Tribunal until after Monday, 29 March (last day on which challenge could be rejected) and must do so before the close of Sunday, 4 April (end of quarantine period).
-(2) The application must be in the prescribed form and include or be accompanied by—
+(2) The application must be in a form approved by the chief executive of the Ministry of Justice after consultation with the chairperson of the Tribunal, and include or be accompanied by—
 (a) a copy of the enforcement notice as forwarded to the rights owner; and
 (b) evidence that the rights owner is the owner, or acts as agent for the owner, of the material in which copyright is alleged to be infringed; and
 (c) a statement of which of the alleged infringements identified in the enforcement notice the rights owner is seeking to enforce; and

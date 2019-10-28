@@ -1,5 +1,5 @@
 # 122K Notice of proceedings
-(1) The Tribunal must give notice of the proceedings, in the prescribed form, to the account holder and any parties that the Tribunal directs to be joined.
+(1) The Tribunal must give notice of the proceedings, in a form approved by the chief executive of the Ministry of Justice after consultation with the chairperson of the Tribunal, to the account holder and any parties that the Tribunal directs to be joined.
 (2) The notice of proceedings must—
 (a) identify all the infringements in relation to which the rights owner seeks an order; and
 (b) specify the amount sought; and
