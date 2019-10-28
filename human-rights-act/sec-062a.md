@@ -1,5 +1,5 @@
 # 62A Adverse treatment in employment of people affected by family violence
-(1) It is unlawful for a person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (2)) to treat adversely any other person, or to make an implied or overt threat to treat adversely any other person, on the ground that the other person is, or is suspected or assumed or believed to be, a person affected by domestic violence.
+(1) It is unlawful for a person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (2)) to treat adversely any other person, or to make an implied or overt threat to treat adversely any other person, on the ground that the other person is, or is suspected or assumed or believed to be, a person affected by family violence.
 (2) The areas to which subsection (1) applies are—
 (a) the making of an application for employment:
 (b) employment, which term includes unpaid work.
