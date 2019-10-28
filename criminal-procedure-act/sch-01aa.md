@@ -1,5 +1,5 @@
 # Schedule 1AA Transitional, savings, and related provisions
-s 7A
+ss 5A, 7A
 Part 1 Provisions relating to Oranga Tamariki Legislation Act 2019
 1 Interpretation
 In this Part,—
@@ -21,3 +21,6 @@ proceeding—
 (2) The defendant must be dealt with by the court under this Act—
 (a) as amended by subpart 1 of Part 2 of the 2017 Act; and
 (b) as further amended by sections 35 and 46 of the 2019 Act.
+Part 2 Provision relating to Courts Matters Act 2018
+4 Declaration made under old law continues to be admissible
+A declaration containing the statement required by section 82(1)(b) of the principal Act (as it read before the amendments made by section 32 of the Courts Matters Act 2018) continues to be admissible in proceedings on and after the commencement of section 32 of the Courts Matters Act 2018.
