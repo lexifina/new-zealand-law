@@ -5,10 +5,10 @@
 (2) To the extent provided in subsection (3), the tenant is liable to the landlord for destruction of, or damage to, the premises that is caused by a careless act or omission of the tenant or of a person for whose actions the tenant is responsible under section 41 or 66L, other than an act or omission described in subsection (1).
 (3) The tenant's liability under subsection (2) is limited,—
 (a) if the property is insured against the destruction or damage, to the lesser of the applicable excess under the insurance and whichever of the following is applicable:
-(i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
+(i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Public and Community Housing Management Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
 (ii) in any other case, the rent under the tenancy agreement for a period of 4 weeks; or
 (b) otherwise, to whichever of the following is applicable:
-(i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
+(i) if the tenant pays an income-related rent within the meaning of section 2(1) of the Public and Community Housing Management Act 1992, the market rent within the meaning of section 2(1) of that Act for the premises for a period of 4 weeks:
 (ii) in any other case, the rent under the tenancy agreement for a period of 4 weeks.
 (4) However,—
 (a) if any insurance moneys that would otherwise have been payable because of the destruction or damage are irrecoverable because of an act or omission of the tenant or of a person for whose actions the tenant is responsible under section 41 or 66L, for the purposes of subsection (3) the property is treated as not insured against the destruction or damage (and therefore subsection (3)(b) sets out the limit of the tenant's liability under subsection (2)); and

@@ -99,7 +99,7 @@ insurance information sections means—
 (a) section 13A(2) to (4) (as inserted by section 5 of the 2019 Amendment Act); and
 (b) section 45(2B) to (2D) (as inserted by section 7 of the 2019 Amendment Act); and
 (c) section 66J(5) to (7) (as inserted by section 15 of the 2019 Amendment Act)
-registered community housing provider has the same meaning as in section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992.
+registered community housing provider has the same meaning as in section 2(1) of the Public and Community Housing Management Act 1992.
 20 Transitional provision for continuing tenancy agreement when circumstances in clause 19 cease applying
 (1) This clause applies if clause 19 ceases to apply but the tenancy agreement is continuing, and the tenancy agreement was entered into on or after the date on which section 13A(2) (as inserted by section 5 of the 2019 Amendment Act) came into force.
 (2) For the purpose of section 13A(3), the tenancy agreement is treated as having been entered into before section 13A(2) came into force.
