@@ -1,6 +1,7 @@
 # Schedule 1AA Transitional, savings, and related provisions
 ss 5A, 133AL, 133AM, 401C
-Transitional provisions relating to Building (Earthquake-prone Buildings) Amendment Act 2016
+Transitional provisions relating to Building (Earthquake-prone Buildings) Amendment Act 2016[Repealed]
+Part 1 Provisions relating to Building (Earthquake-prone Buildings) Amendment Act 2016
 1 Interpretation
 In this schedule,—
 amendment Act means the Building (Earthquake-prone Buildings) Amendment Act 2016
@@ -35,3 +36,13 @@ commencement date means the day on which section 24 of the amendment Act (which 
 (4) Section 132 applies to an amendment or a replacement made under subclause (3), except that the special consultative procedure in section 83 of the Local Government Act 2002 (see section 132(2)) does not apply unless the amendment or replacement materially affects the policy as it applies to dangerous and insanitary buildings.
 4 Effect of certain references to parts of buildings
 The fact that provisions added to this Act by the amendment Act refer separately to buildings and parts of buildings does not limit or affect any other provision of this Act in terms of how that provision applies in respect of parts of buildings.
+Part 2 Provisions relating to Building Amendment Act 2019
+5 Application of subpart 6B of Part 2 where emergency precedes commencement date
+(1) This clause applies if the whole or a part of an area that is designated under section 133BC is—
+(a) subject to a state of emergency or a transition period under the CDEM Act that was in force immediately before the commencement date (see section 133BC(1)); or
+(b) affected by an emergency, in relation to which no state of emergency has been declared and no transition period has been notified, that arose and was still affecting the area immediately before the commencement date (see section 133BC(2)).
+(2) The provisions of subpart 6B of Part 2 apply to the area on and after the commencement date as if the state of emergency had been declared, the transition period had been notified, or the emergency had arisen on or after that date.
+(3) In this clause, commencement date means the date on which section 12 of the Building Amendment Act 2019 comes into force.
+6 Investigation of existing building failure
+(1) The requirements in section 207C(1)(a) and (b) may be satisfied even if the matters to which they relate (the building failure and resulting risk or potential risk) occurred before the commencement date.
+(2) In this clause, commencement date means the date on which section 20 of the Building Amendment Act 2019 comes into force.
