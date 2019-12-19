@@ -25,3 +25,6 @@
 (d) any action to recover any amount owing by the debtor to the creditor under the credit contract after the consumer goods are sold under subpart 5 (see sections 83ZI(1)(d) and 83ZM).
 (7) In this section, an application under section 55 is decided when the creditor gives written notice of the creditor's decision under section 57A(1)(c)(ii).
 (8) To avoid doubt, the creditor or the creditor's agent may, subject to this Part, to any court order, and to any terms on which the complaint was resolved, take, or continue, the enforcement action referred to in subsection (1) or (2) from the time that the complaint has been resolved or (in the case of an unsuccessful application under section 55) the application has been decided.
+(9) Despite subsections (1) and (2), the creditor may take an enforcement action referred to in subsection (6)(a) to (c) (but not an action referred to in subsection (6)(d)) if—
+(a) the person responsible for the dispute resolution scheme to which a complaint has been referred under this section has given notice (which may include a preliminary view) to the effect that the enforcement action would be in the best interests of the debtor; and
+(b) the debtor and the creditor have agreed in writing to the enforcement action.

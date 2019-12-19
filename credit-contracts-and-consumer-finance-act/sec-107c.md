@@ -1,0 +1,5 @@
+# 107C Relationship between pecuniary penalties and criminal liability
+(1) Once criminal proceedings against a person for an offence under this or any other Act are determined, the High Court may not order the person to pay a pecuniary penalty under this subpart in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
+(2) Once civil proceedings against a person for a pecuniary penalty under this subpart are determined, the person may not be convicted of an offence under this or any other Act in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
+(3) Any uncompleted proceedings for an order under this Act that a person pay a pecuniary penalty must be stayed if criminal proceedings are started or have already been started against the person for the same act or omission, or substantially the same act or omission, in respect of which the pecuniary penalty order is sought.
+Compare: 1986 No 5 s 79B

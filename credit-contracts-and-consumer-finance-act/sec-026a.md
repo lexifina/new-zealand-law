@@ -8,3 +8,4 @@
 (f) that the transfer does not affect the terms of the contract that the debtor entered into (other than terms relating to the identity of the creditor).
 (2) Disclosure under this section must be made within 10 working days of the day on which the transfer takes effect.
 (3) This section does not apply in the prescribed circumstances (being circumstances that relate to securitisation or covered bond arrangements or similar arrangements).
+(4) Disclosure under this section is not required in relation to a particular debtor or guarantor if the creditor cannot reasonably locate the debtor or guarantor, as the case may be.

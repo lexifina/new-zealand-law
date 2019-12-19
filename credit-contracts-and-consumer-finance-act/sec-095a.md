@@ -1,0 +1,5 @@
+# 95A Court may reduce effect of failure to make disclosure
+(1) The court may, on the application of a creditor under a class of consumer credit contracts, order that the effect under section 48 or 99(1A) of a failure to make initial disclosure under section 17, or variation disclosure under section 22, be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(2) The court may, on the application of a lessor under a class of consumer leases, order that the effect under section 101(2) of a failure to make disclosure under section 64 or 65 be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(3) The court may, on the application of a transferee under a class of buy-back transactions, order that the effect under section 102(2) of a failure to make disclosure under section 72 or 77 be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(4) The order may be made on the terms and conditions that the court thinks fit.
