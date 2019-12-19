@@ -55,7 +55,6 @@ Remuneration Authority
 Representation Commission
 Reserve Bank of New Zealand
 Rugby World Cup Authority
-Solid Energy New Zealand Limited
 Survey Board of New Zealand
 Takeovers Panel
 Television New Zealand Limited
