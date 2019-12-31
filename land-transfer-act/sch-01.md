@@ -72,3 +72,9 @@ certificate of title means a certificate of title issued under the Land Transfer
 computer register means a computer freehold register, computer interest register, or computer unit title register created under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
 13 Application of Interpretation Act 1999
 Except as provided in clauses 1 to 12 or in regulations made under section 228, nothing in this schedule limits the Interpretation Act 1999.
+Part 2 Provision relating to the Taxation (Annual Rates for 2019-20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
+14 Six-month transitional period for existing agreements
+(1) The old regime continues to apply in relation to a transfer of land if—
+(a) an agreement for the transfer of the land was entered into before 1 January 2020; and
+(b) the instrument of transfer is lodged for registration on or before 1 July 2020.
+(2) In this section, old regime means this Act as in force immediately before 1 January 2020 (when sections 130 to 133 of the Taxation (Annual Rates for 2019-20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019 came into force).
