@@ -373,3 +373,12 @@ Application
 (2) If a performance is given before commencement, Part 9 (as in force immediately before commencement) continues to apply to any act done on or after commencement in relation to that performance.
 (3) Despite subclause (2), if Part 9 (as in force immediately before commencement) would not have applied to an act done, or a performance given, before commencement, subclause (2) and Part 9 do not apply to the act or the performance.
 (4) This clause is subject to clauses 49 and 50.
+Part 3 Provisions relating to Copyright (Marrakesh Treaty Implementation) Amendment Act 2019
+51 Interpretation
+In this Part,—
+commencement date means the date on which this Part comes into force
+former section 69 means section 69 as in force immediately before the commencement date
+prescribed body means a body declared in regulation 5 to be a prescribed body for the purposes of former section 69
+regulation 5 means regulation 5 of the Copyright (General Matters) Regulations 1995 as in force immediately before the commencement date.
+52 Braille or otherwise modified copies made under former section 69 treated as if made under Act as amended
+A copy or an adaptation made or communicated by a prescribed body before the commencement date in compliance with the conditions of the former section 69 is to be treated on and after the commencement date as an accessible format copy that was made or provided in compliance with sections 69A and 69B.
