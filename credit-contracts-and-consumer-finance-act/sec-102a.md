@@ -7,6 +7,10 @@
 (2) Subsection (1) does not apply to a complete failure to give or send a disclosure statement to a debtor, guarantor, lessee, or occupier in accordance with a disclosure section (but such a breach is an offence under section 103).
 (3) Every creditor, lessor, or transferee who is subject to section 24, 67, or 79 commits an offence if the creditor, lessor, or transferee breaches that section.
 (4) Every lender who is subject to section 9J commits an offence if the lender breaches section 9J(4).
+(4A) Every creditor who is subject to section 9K commits an offence if the creditor breaches section 9K(4).
+(4B) Every creditor who is subject to section 9K commits an offence if both of the following apply:
+(a) a paragraph in regulations prescribed under this Act requires particular information to be contained in the information made publicly available:
+(b) the creditor breaches section 9K(6)(a) by failing to make any information publicly available for the purposes of that paragraph.
 (5) Every creditor who is subject to Part 3A commits an offence if both of the following apply:
 (a) a paragraph in Schedule 3A requires information to be contained in the repossession warning notice that is to be served for the purposes of section 83G; and
 (b) the creditor breaches section 83G by failing to include any information in the repossession warning notice for the purposes of that paragraph.

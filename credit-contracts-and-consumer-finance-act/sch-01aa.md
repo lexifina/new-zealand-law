@@ -3,14 +3,15 @@ ss 8B, 141A
 1 Interpretation
 In this schedule,—
 2014 Act means the Credit Contracts and Consumer Finance Amendment Act 2014
-principal Act means the Credit Contracts and Consumer Finance Act 2003.
+principal Act means the Credit Contracts and Consumer Finance Act 2003
+Regulatory Systems Act 2019 means the Regulatory Systems (Economic Development) Amendment Act 2019.
 Credit Contracts and Consumer Finance Amendment Act 2014
 2 Minister may prepare Responsible Lending Code before commencement of Part 1A
 (1) The Minister may exercise or perform a power or duty under sections 9G to 9I (as inserted by the 2014 Act) before section 9 of the 2014 Act comes into force.
 (2) Any consultation undertaken before section 9 of the 2014 Act comes into force that is of the kind referred to in section 9G(2)(b) or (e) must be treated as the consultation required for the purposes of that section (even if the consultation occurs before the enactment of the 2014 Act).
 (3) The Minister must ensure that the Responsible Lending Code first comes into force no later than 12 months after the date on which the 2014 Act receives the Royal assent.
 3 Application of amendments to existing agreements
-(1) Except as provided for in subclauses (2) and (3),—
+(1) Except as provided for in subclauses (2) and (3) and in clause 4,—
 (a) the amendments to the principal Act in the 2014 Act do not apply to existing agreements; and
 (b) the principal Act and the Credit (Repossession) Act 1997, as in force immediately before the commencement of this clause, continue to apply for the purposes of those agreements.
 (2) The amendments referred to in subclause (1) apply in relation to existing agreements as follows:
@@ -23,9 +24,31 @@ Credit Contracts and Consumer Finance Amendment Act 2014
 (i) a variation of a contract where the variation takes effect on or after the commencement of section 9 of the 2014 Act:
 (ii) an application under section 55 of the principal Act made on or after the commencement of section 9 of the 2014 Act.
 (3) If a provision of the principal Act as amended or inserted by the 2014 Act applies in relation to an existing agreement under subclause (2), sections 93 and 96 of the principal Act (as amended by sections 59 and 63 of the 2014 Act) apply to a breach of that provision in relation to the existing agreement if the breach occurs on or after the commencement of this clause.
-(4) In this clause, existing agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement—
+(4) In this clause and in clause 4, existing agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement—
 (a) to which the principal Act or the Credit (Repossession) Act 1997 (as in force before this clause came into force) applies; and
 (b) that was entered into before this clause came into force.
+Regulatory Systems (Economic Development) Amendment Act 2019
+4 Creditor may, by notice to debtors, apply Part 3A to existing agreements
+(1) Part 3A applies to the existing agreements described in this clause.
+(2) The existing agreements are those agreements—
+(a) to which Part 3A (as in force immediately before the commencement of the Regulatory Systems Act 2019) would have applied if the agreements had been entered into on or after the date on which Part 3A came into force; and
+(b) in respect of which neither a creditor nor a debtor has taken any action (such as issuing a pre-possession notice) under the principal Act or the Credit (Repossession) Act 1997, as in force immediately before the commencement of Part 3A; and
+(c) in respect of which any creditor under the agreement has given notice to every debtor under the agreement—
+(i) stating that Part 3A will apply to the agreement; and
+(ii) specifying the date on which Part 3A begins to apply to the agreement (which must be at least 5 working days after the last notice is given); and
+(iii) summarising the rights and obligations of the creditors and the debtors under Part 3A.
+(3) Part 3A applies to an existing agreement on and from the date referred to in subclause (2)(c)(ii) as if that agreement were a consumer credit contract.
+(4) On and from the date on which Part 3A begins to apply to an existing agreement, the Credit (Repossession) Act 1997 (as in force immediately before the commencement of Part 3A) ceases to apply for the purposes of the agreement.
+(5) Section 83ZQ applies to the giving and receiving of a notice under subclause (2).
+5 Application of Part 3A and related provisions to existing credit contracts
+(1) This clause applies to a credit contract if,—
+(a) immediately before the Regulatory Systems Act 2019 came into force, Part 3A applied to the contract; but
+(b) the contract is not a consumer credit contract.
+(2) The following provisions continue to apply to the contract as if that contract were a consumer credit contract:
+(a) section 5, definition of costs of borrowing:
+(b) section 9B, definitions of agreement, lender, and relevant guarantee:
+(c) section 9K:
+(d) Part 3A.
 Credit Contracts Legislation Amendment Act 2019
 6 Interpretation
 In clauses 7 to 11, unless the context otherwise requires,—

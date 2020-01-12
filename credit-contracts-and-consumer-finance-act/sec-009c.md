@@ -2,9 +2,9 @@
 (1) Every lender must comply with the lender responsibility principles.
 (2) The lender responsibility principles are that every lender must, at all times,—
 (a) exercise the care, diligence, and skill of a responsible lender—
-(i) in any advertisement for providing credit or finance under an agreement; and
-(ii) before entering into an agreement to provide credit or finance and before taking a relevant guarantee; and
-(iii) in all subsequent dealings with a borrower in relation to an agreement or a guarantor in relation to a relevant guarantee; and
+(i) in any advertisement for providing credit or finance under an agreement or for providing credit-related insurance under a relevant insurance contract; and
+(ii) before entering into an agreement to provide credit or finance or a relevant insurance contract and before taking a relevant guarantee; and
+(iii) in all subsequent dealings with a borrower in relation to an agreement or a relevant insurance contract or a guarantor in relation to a relevant guarantee; and
 (b) comply with all the lender responsibilities specified in subsections (3), (4), and (5).
 (3) The lender responsibilities are that a lender must, in relation to an agreement with a borrower,—
 (a) make reasonable inquiries, before entering into the agreement, so as to be satisfied that it is likely that—

@@ -1,16 +1,14 @@
 # 9B Interpretation
 (1) In this Part, unless the context otherwise requires,—
 agreement means—
-(a) a consumer credit contract or a credit contract to which Part 3A applies:
+(a) a consumer credit contract:
 (b) a buy-back transaction
 borrower means any person who has entered into, or is seeking to enter into, an agreement with a lender
 finance means finance provided under a buy-back transaction
 lender means—
-(a) a creditor under a consumer credit contract or a credit contract to which Part 3A applies:
+(a) a creditor under a consumer credit contract:
 (b) a transferee under a buy-back transaction
-relevant guarantee means a guarantee given, or proposed to be given, in respect of—
-(a) a consumer credit contract; or
-(b) a credit contract to which Part 3A applies
+relevant guarantee means a guarantee given, or proposed to be given, in respect of a consumer credit contract
 relevant insurance contract means, in relation to a lender, a credit-related insurance contract entered into, or to be entered into, by a borrower if—
 (a) the borrower has also entered into, or is seeking to enter into, an agreement with the lender; and
 (b) the insurance is arranged by the lender.

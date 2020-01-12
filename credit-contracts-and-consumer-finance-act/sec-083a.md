@@ -1,5 +1,5 @@
 # 83A Outline of Part
-This Part sets out—
+This Part sets out, in relation to a consumer credit contract,—
 (a) the rules that apply—
 (i) before a creditor or creditor's agent may repossess consumer goods (which includes repossessing keys or other access devices in relation to consumer goods); and
 (ii) at the time of repossession; and
