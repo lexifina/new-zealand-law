@@ -1,4 +1,4 @@
-# Schedule Acts amended
+# Schedule 1 Acts amended
 s 201
 Administration Act 1969 (1969 No 52)
 Amendment(s) incorporated in the Act(s).
