@@ -328,6 +328,17 @@ Compare: 1974 No 66 s 114K
 (7) In this clause,—
 audio link means facilities that enable audio communication between participants at a meeting when 1 or more of them is not physically present at the place of the meeting
 audiovisual link means facilities that enable audio and visual communication between participants at a meeting when 1 or more of them is not physically present at the place of the meeting.
+25B Modifications to clause 25A while epidemic notice in force for COVID-19
+(1) Subclauses (2) to (4) apply instead of clause 25A(1).
+(2) A member of a local authority, or of a committee of a local authority, has, unless lawfully excluded, the right to attend any meeting of the local authority or committee by means of audio link or audiovisual link.
+(3) To that end, a member may attend a meeting by means of audio link or audiovisual link despite—
+(a) clause 27(5)(a); and
+(b) any limitation or condition on the use of an audio link or audiovisual link that is contained in the local authority's standing orders; and
+(c) anything else to the contrary in the local authority's standing orders.
+(4) For a Civil Defence Emergency Management Group, the reference in subclause (3) to a local authority's standing orders includes any standing orders that apply to the Group under section 19 of the Civil Defence Emergency Management Act 2002.
+(5) Subclause (6) applies instead of clause 25A(4).
+(6) A member of the local authority or committee who attends a meeting by means of audio link or audiovisual link, in accordance with this clause, is to be counted as present for the purposes of clause 23.
+(7) This clause is repealed when the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked.
 26 Chairperson of meetings
 (1) The mayor or chairperson of the local authority must preside at each meeting of the local authority at which he or she is present unless the mayor or chairperson vacates the chair for a particular meeting.
 (2) The chairperson of a committee must preside at each meeting of the committee at which he or she is present unless the chairperson vacates the chair for a particular meeting.
