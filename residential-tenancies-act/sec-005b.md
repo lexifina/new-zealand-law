@@ -11,4 +11,4 @@
 (5) An agreement referred to in subsection (1)(b) is one that sets out—
 (a) the rights and obligations of the accommodation provider and the tertiary education provider; and
 (b) a dispute resolution process by which disputes between the accommodation provider and the tertiary education provider may be resolved.
-(6) In this section, tertiary education provider has the same meaning as in section 159(1) of the Education Act 1989, and, accordingly, includes universities, polytechnics, colleges of education, wananga, specialist colleges, private training establishments registered under Part 18 of that Act, and government training establishments.
+(6) In this section, tertiary education provider has the same meaning as in section 159(1) of the Education Act 1989, and, accordingly, includes universities, the New Zealand Institute of Skills and Technology and its Crown entity subsidiaries, colleges of education, wananga, specialist colleges, private training establishments registered under Part 18 of that Act, and government training establishments.
