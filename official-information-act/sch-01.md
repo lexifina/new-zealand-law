@@ -10,6 +10,7 @@ Broadcasting Commission
 Broadcasting Standards Authority
 Commerce Commission
 Conservation Boards
+Criminal Cases Review Commission
 Deer Industry New Zealand
 Education Authorities (as defined in section 2(1) of the Education Act 1964)
 Electricity Corporation of New Zealand Limited
