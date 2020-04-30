@@ -54,7 +54,7 @@ Credit Contracts Legislation Amendment Act 2019
 In clauses 7 to 11, unless the context otherwise requires,—
 2019 Act means the Credit Contracts Legislation Amendment Act 2019
 agreement means any credit contract, security agreement, lease, buy-back transaction, or other contract or arrangement to which the principal Act applies
-commencement, in relation to any provision of the 2019 Act, means the commencement of that provision
+commencement, in relation to any provision of the 2019 Act, or any provision inserted into this Act by the 2019 Act, means the commencement of the relevant provision, as the case may be
 existing agreement means an agreement entered into before the commencement of the relevant provision
 new agreement means an agreement entered into after the commencement of the relevant provision
 principal Act means the Credit Contracts and Consumer Finance Act 2003 as it read before the relevant provision of the 2019 Act commenced.
@@ -79,7 +79,7 @@ A creditor (C) and Ms S entered into a consumer credit agreement on 1 July 2019.
 C failed to make initial disclosure. C can rely after commencement on section 95A in respect of that failure, but only in respect of costs of borrowing in relation to the period after commencement.
 (7) The amendments made by section 43 (pecuniary penalties) of the 2019 Act apply in respect of existing agreements for breaches or possible breaches that occur after commencement.
 (8) The amendments made by section 46 (enforceable undertakings) of the 2019 Act apply to breaches in respect of existing agreements, whether those breaches occurred or occur before, on, or after commencement.
-9 Application to existing high-cost consumer credit contracts: 1 June 2020 commencement
+9 Application to existing high-cost consumer credit contracts
 (1) The amendments made by section 25 (new subpart 6A of Part 2) of the 2019 Act apply to an existing agreement as set out in this clause.
 Costs cap
 (2) Section 45E (costs of borrowing must not exceed loan advance) applies to an existing agreement as follows:
@@ -96,7 +96,7 @@ Sections 45F and 45G
 10 Other application to existing agreements
 (1) The amendments to the principal Act made by section 10(1) and (8) of the 2019 Act apply to existing agreements in respect of material changes after commencement.
 Example
-A creditor (C) increases the credit limit under an existing consumer credit agreement after 1 April 2021.
+A creditor (C) increases the credit limit under an existing consumer credit agreement after commencement.
 C must make reasonable inquiries about suitability and affordability before making the change. If C fails to comply, the debtor may seek statutory damages and C may be liable for civil pecuniary penalties as provided in Part 5A.
 (2) The amendments made by section 20 of the 2019 Act (disclosure about dispute resolution schemes and financial mentoring services) apply to existing agreements in the same way as they apply to new agreements (for example, disclosure is required if a complaint is made after commencement regardless of whether the agreement is an existing or a new agreement).
 (3) The amendments made by section 27 of the 2019 Act (duty of directors and senior managers of creditors) apply to duties and obligations of the creditor in respect of existing agreements that arise for performance after commencement or that continue to require performance after commencement.
@@ -107,19 +107,19 @@ C must make reasonable inquiries about suitability and affordability before maki
 (8) The amendments made by section 51 of the 2019 Act (disclosure about debt collection) apply to all existing agreements to the extent that debt collection starts after commencement or a new person becomes a debt collector after commencement.
 Example
 A creditor (C) and Ms S enter into a consumer credit agreement on 1 July 2019.
-C starts debt collection on 1 May 2021. Section 132A will apply to the debt collector.
+C starts debt collection on or after commencement. Section 132A will apply to the debt collector.
 Application to new agreements
 11 New agreements
 (1) The amendments to the principal Act in the 2019 Act apply to new agreements.
 (2) Section 41A(3) of the principal Act (as inserted by section 24 of the 2019 Act) applies to new agreements regardless of whether the change occurred before, on, or after commencement.
 Other application
-12 Creditors registered as financial service providers before 1 April 2021 and mobile traders
-(1) Subclause (2) applies to every creditor that is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as at the close of 31 March 2021 and that is required to be certified under Part 5A of this Act.
-(2) Section 131B does not apply until the first due date on or after 1 April 2021 on which the person must supply to the Registrar its annual confirmation of details under section 28 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
+12 Creditors registered as financial service providers before commencement and mobile traders
+(1) Subclause (2) applies to every creditor that is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as at the close of the day before commencement of section 131B and that is required to be certified under Part 5A of this Act.
+(2) Section 131B does not apply until the first due date on or after commencement of section 131B on which the person must supply to the Registrar its annual confirmation of details under section 28 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
 (3) Subclause (5) applies to every creditor—
 (a) that has made an application to the Commerce Commission in accordance with section 131F no less than 2 months before the first due date referred to in subclause (2); and
-(b) that is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as at the close of 31 March 2021.
-(4) Subclause (5) also applies to every mobile trader that has made an application to the Commerce Commission in accordance with section 131F before 1 February 2021.
+(b) that is registered under the Financial Service Providers (Registration and Dispute Resolution) Act 2008 as at the close of the day before commencement of section 131B.
+(4) Subclause (5) also applies to every mobile trader that has made an application to the Commerce Commission in accordance with section 131F before 2 months before commencement of section 131B.
 (5) Section 131B does not apply to that person before the earlier of the following:
 (a) the close of the 20th working day after the person has failed to provide to the Commission any information that the Commission has required under section 131F(3) to assist it in determining the application:
 (b) the date on which the Commission gives a written notice of decision to the person under section 131I.
