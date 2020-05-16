@@ -23,3 +23,7 @@ Part 2 Provision relating to Financial Markets (Derivatives Margin and Benchmark
 The amendments made by subpart 2 of Part 1 of the Financial Markets (Derivatives Margin and Benchmarking) Reform Amendment Act 2019 apply to—
 (a) a qualifying derivative entered into before the commencement of this clause if, on that commencement, any obligations remain under or in relation to the derivative (whether the obligations are contingent or otherwise); and
 (b) a qualifying derivative entered into on or after the commencement of this clause.
+Part 3 Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+6 Application of changes to voidable transactions provisions
+(1) The amendments made to section 126 and Part 16 by the COVID-19 Response (Further Management Measures) Legislation Act 2020 apply only in respect of liquidations that commence on or after the date on which those amendments came into force.
+(2) Section 126 and Part 16, as in force immediately before those amendments come into force, continue to apply in respect of liquidations that commenced before those amendments came into force.

@@ -88,3 +88,7 @@ Section 363 does not apply, and former section 363 continues to apply, in relati
 (1) Section 449(1)(ab) applies in respect of a person (P) who is or has been bankrupt (whether P was adjudicated bankrupt before, on, or after the commencement date and whether the bankruptcy was first entered on the public register before, on, or after the commencement date).
 (2) Section 449(1)(ga) applies in respect of a person who is subject to a current debt repayment order (whether the order was made before, on, or after the commencement date and whether the order was first entered on the public register before, on, or after the commencement date).
 (3) Section 449(1)(n) applies in respect of a person who is subject to a current debt repayment order (whether the order was made before, on, or after the commencement date and whether the order was first entered on the public register before, on, or after the commencement date).
+Part 3 Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+26 Application of changes to subpart 7 of Part 3 (Irregular transactions before adjudication)
+(1) The amendments made to subpart 7 of Part 3 of this Act by the COVID-19 Response (Further Management Measures) Legislation Act 2020 apply only in respect of bankruptcies that commence on or after the date on which those amendments came into force.
+(2) Subpart 7 of Part 3 of this Act, as in force immediately before those amendments come into force, continues to apply in respect of bankruptcies that commenced before those amendments came into force.

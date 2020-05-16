@@ -63,3 +63,8 @@ Former sections 74A to 74C remain in force for the purposes of allowing a Commis
 (2) The High Court—
 (a) must determine the appeal under section 93; and
 (b) despite section 94, must not refer any matter relating to the appeal back to the Commissioners to reconsider.
+Part 3 Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+12 Application of provisions after repeal
+For the purposes of an application that is made during the epidemic period, sections 65AA to 65AD continue to apply as if they remained in force, despite their repeal by section 65AE, to the application including in relation to—
+(a) any authorisation or provisional authorisation granted on the application:
+(b) any appeal in relation to a determination of the Commission on the application.
