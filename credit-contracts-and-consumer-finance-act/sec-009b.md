@@ -8,7 +8,7 @@ finance means finance provided under a buy-back transaction
 lender means—
 (a) a creditor under a consumer credit contract:
 (b) a transferee under a buy-back transaction
-relevant guarantee means a guarantee given, or proposed to be given, in respect of a consumer credit contract
+relevant guarantee means a guarantee given, or proposed to be given, by a natural person in respect of a consumer credit contract, but does not include a guarantee under which the guarantor is a trustee acting in their capacity as a trustee of a family trust or as a partner of a partnership under the Partnership Act 1908
 relevant insurance contract means, in relation to a lender, a credit-related insurance contract entered into, or to be entered into, by a borrower if—
 (a) the borrower has also entered into, or is seeking to enter into, an agreement with the lender; and
 (b) the insurance is arranged by the lender.

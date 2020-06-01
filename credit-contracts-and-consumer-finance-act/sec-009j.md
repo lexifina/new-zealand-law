@@ -5,4 +5,4 @@
 (a) if the lender has an Internet site, the lender must display prominently and clearly a copy of the standard form contract terms on that site; and
 (b) if the lender operates from business premises that are accessible to the public, the lender must display prominently and clearly on those premises a notice that a copy of those terms is available on request (free of charge).
 (4) The lender must, immediately after receiving the request of any person, supply a copy of its standard form contract terms, free of charge, to that person (regardless of whether subsection (3) applies).
-(5) The lender may, for the purposes of subsection (4), supply the copy by way of an electronic communication if the person who made the request consents to receive the copy in that manner.
+(5) [Repealed]

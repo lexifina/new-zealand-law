@@ -11,7 +11,9 @@
 (i) the credit or finance provided under the agreement will meet the borrower's requirements and objectives; and
 (ii) the borrower will make the payments under the agreement without suffering substantial hardship; and
 (b) assist the borrower to reach an informed decision as to whether or not to enter into the agreement and to be reasonably aware of the full implications of entering into the agreement, including by ensuring that—
-(i) any advertising is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
+(i) any advertising—
+(A) complies with the advertising standards set out in the regulations; and
+(B) is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
 (ii) the terms of the agreement are expressed in plain language in a clear, concise, and intelligible manner; and
 (iii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing; and
 (c) assist the borrower to reach informed decisions in all subsequent dealings in relation to the agreement, including by ensuring that—
@@ -47,5 +49,6 @@
 (b) assist the borrower to reach an informed decision as to whether or not to enter into the contract and to be reasonably aware of the full implications of entering into the contract, including by ensuring that—
 (i) any advertising distributed by the lender is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
 (ii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing.
+(5A) In subsections (3)(a), (4)(a), and (5)(a), the requirement to make reasonable inquiries so as to be satisfied of a matter includes a requirement to comply with regulations made under section 138(1)(abd).
 (6) Subsections (3)(b)(iii) and (c)(ii), (4)(b)(ii), and (5)(b)(ii) do not apply to information that is subject to section 32(1).
 (7) For the purposes of the inquiries required under subsections (3)(a), (4)(a), and (5)(a), the lender may rely on information provided by the borrower or guarantor unless the lender has reasonable grounds to believe the information is not reliable.

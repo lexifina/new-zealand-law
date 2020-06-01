@@ -16,3 +16,4 @@
 (v) the supplier's name, street address, telephone number, and email address; and
 (b) the total price payable under the agreement is disclosed in the agreement; and
 (c) the agreement is dated.
+(3) This section and section 36D do not apply to a layby sale agreement that is a consumer credit contract to which subpart 2 of Part 2 of the Credit Contracts and Consumer Finance Act 2003 applies (which relates to required disclosure).
