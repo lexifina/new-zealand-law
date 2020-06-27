@@ -105,3 +105,6 @@ Provision relating to remedy of reinstatement
 (1) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal), but not finally determined or completed, before the commencement of this clause must be determined or completed under the law as it was at the time the proceedings were brought.
 (2) Any personal grievance proceedings brought before the Authority or the court (or a court on appeal) on or after the commencement of this clause must be determined in accordance with section 125 as replaced by section 47 of the 2018 Act.
 (3) Subclause (2) applies irrespective of whether the action alleged to amount to a personal grievance occurred or came to the notice of the employee before, on, or after the commencement of section 47 of the 2018 Act.
+Part 3 Provision relating to Employment Relations (Triangular Employment) Amendment Act 2019
+16 Application of sections 103(4), 103B, 115A, and 123A
+Sections 103(4), 103B, 115A, and 123A apply if the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is later, after the commencement of the Employment Relations (Triangular Employment) Amendment Act 2019.
