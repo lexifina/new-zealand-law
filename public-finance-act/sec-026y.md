@@ -9,6 +9,7 @@
 (b) a budget policy statement (see section 26M):
 (c) a statement on the long-term fiscal position (see section 26N):
 (d) an investment statement (see section 26NA):
+(da) a wellbeing report (see section 26NB(1)):
 (e) an economic and fiscal update (see section 26O):
 (f) a half-year economic and fiscal update (see section 26S):
 (g) a pre-election economic and fiscal update (see section 26T).

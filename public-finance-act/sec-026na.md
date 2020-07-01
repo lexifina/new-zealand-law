@@ -5,3 +5,5 @@
 (b) state how those assets and liabilities have changed in value over time; and
 (c) forecast how those assets and liabilities are expected to change in value in each of at least the next 2 financial years after the financial year in which the investment statement is presented; and
 (d) identify any significant differences between the information specified in paragraphs (a) to (c) and the equivalent information reported in the most recent previous investment statement.
+(3) The investment statement must be accompanied by a statement of responsibility signed by the Secretary.
+(4) The statement of responsibility must state that the investment statement has been prepared by the Treasury using its best professional judgements.
