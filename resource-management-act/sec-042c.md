@@ -13,4 +13,6 @@ The functions of the Environmental Protection Authority are—
 (dac) if requested by the Minister, to provide advice and secretarial and support services to the Minister in relation to the Minister's functions under the streamlined planning process (see subpart 5 of Part 5 and Part 5 of Schedule 1).
 (da) to provide technical advice to the Minister on the development of a national environmental standard:
 (e) to exercise any powers or perform any functions or duties delegated to it by the Minister under section 29(4):
-(f) to exercise any other functions specified in this Act.
+(f) to perform the enforcement functions conferred by section 343F; and
+(g) if requested by the Minister, to provide secretarial and support services to assist the Chief Freshwater Commissioner in the exercise of his or her functions and powers in respect of the freshwater planning process; and
+(h) to exercise any other functions specified in this Act.

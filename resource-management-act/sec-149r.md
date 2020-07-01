@@ -4,7 +4,7 @@
 (b) produce a written report.
 (2) The board must perform the duties in subsection (1) no later than 9 months after—
 (a) the day on which the EPA gave public notice under section 149C of the Minister's direction under section 142(2) or 147(1)(a) in relation to the matter, unless paragraph (b) or (c) applies; or
-(b) the day on which the EPA gave public notice under section 149O of the proposed plan or change, if that section applies to the matter before the board; or
+(b) the day on which the EPA gave public notice under section 149O of the proposed plan or change to a plan or regional policy statement, if that section applies to the matter before the board; or
 (c) the day on which the EPA gave limited notification under section 149ZC(4), if the EPA gave that notice for the matter before the board.
 (2A) For the purposes of subsection (2), the 9-month period excludes—
 (a) the period starting on 20 December in any year and ending with 10 January in the following year:

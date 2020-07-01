@@ -1,5 +1,8 @@
 # 325A Cancellation of abatement notice
-(1) For the purposes of this section, relevant authority means the local authority or Minister of Conservation which or who authorised, under section 38, the enforcement officer who issued the abatement notice.
+(1) In this section, relevant authority means any of the following which or who authorised the enforcement officer who issued the abatement notice:
+(a) the local authority:
+(b) the Minister of Conservation:
+(c) the EPA.
 (2) Where a relevant authority considers that an abatement notice is no longer required, the relevant authority may cancel the abatement notice at any time.
 (3) The relevant authority shall give written notice of its decision under subsection (2) to cancel an abatement notice to any person subject to that abatement notice.
 (4) Any person who is directly affected by an abatement notice may apply in writing to the relevant authority to change or cancel the abatement notice.

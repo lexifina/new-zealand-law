@@ -22,6 +22,7 @@
 (ii) confirm the requirement; or
 (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
 (c) may waive the requirement for an outline plan to be submitted under section 176A.
+(6A) However, if the requiring authority is the Minister of Education or the Minister of Defence, the court may not impose a condition under subsection (6)(b)(iii) requiring a financial contribution (as defined in section 108(9)).
 (7) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
 (a) must have regard to the matters set out in section 191(1); and
 (b) may—

@@ -1,10 +1,10 @@
 # 149W Local authority to implement decision of board or court about proposed regional plan or change or variation
-(1) Subsections (2) and (3) apply to a local authority if—
-(a) a board of inquiry or the Environment Court considers a matter that is a proposed regional plan or a change to a plan or a variation to a proposed plan; and
-(b) the board or the court, as the case may be, decides that changes must be made to the proposed plan, change, or variation.
+(1) Subsections (2) and (3) apply to a local authority if a board of inquiry or the Environment Court—
+(a) considers a matter that is a proposed regional plan, a change to a plan, a variation to a proposed plan, a change to a regional policy statement, or a variation to a proposed regional policy statement; and
+(b) decides that changes must be made to that matter.
 (2) As soon as practicable after receiving notice of the decision of the board or the court under section 149R(4) or 149U, as the case may be,—
-(a) the local authority must amend the proposed plan, change, or variation under clause 16(1) of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under section 293; and
-(b) if the decision is in respect of a proposed regional plan, or a change or variation to a district or regional plan (other than a regional coastal plan), the local authority must—
+(a) the local authority must amend the proposed regional plan or a change or variation to a plan or regional policy statement under clause 16(1) of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under section 293; and
+(b) if the decision is in respect of a proposed regional plan, or a change or variation to a district or regional plan (other than a regional coastal plan), or a regional policy statement, the local authority must—
 (i) approve the proposed plan, change, or variation under clause 17 of Schedule 1; and
 (ii) make the plan, change, or variation operative by giving public notice in accordance with clause 20 of Schedule 1; and
 (c) if the decision is in respect of a change or variation to a regional coastal plan, the local authority must—

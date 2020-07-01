@@ -3,7 +3,7 @@
 (a) be recorded in writing; and
 (b) identify the participating authorities; and
 (c) record the agreement of the participating authorities about—
-(i) how an iwi authority may participate in the preparation or change of a policy statement or plan, including the use of any of the pre-notification, collaborative, or streamlined planning processes under Schedule 1; and
+(i) how an iwi authority may participate in the preparation or change of a policy statement or plan, including the use of any of the pre-notification or streamlined planning processes under Schedule 1; and
 (ii) how the participating authorities will undertake consultation requirements, including the requirements of section 34A(1A) and clause 4A of Schedule 1; and
 (iii) how the participating authorities will work together to develop and agree on methods for monitoring under this Act; and
 (iv) how the participating authorities will give effect to the requirements of any relevant iwi participation legislation, or of any agreements associated with, or entered into under, that legislation; and

@@ -113,3 +113,61 @@ commencement, in relation to a provision of the amendment Act or an amendment ma
 Nothing in section 69(4) (as inserted by the amendment Act) affects any plan approved, resource consent granted, or water conservation order made before the commencement of that amendment if that plan, resource consent, or order refers to or incorporates any standards set out in Schedule 3.
 16 Matters before the Environment Court
 An amendment made by the amendment Act does not apply to any proceeding lodged with the Environment Court immediately before the commencement of that amendment.
+Part 3 Provisions relating to Resource Management Amendment Act 2020
+17 Interpretation
+In this Part,—
+amendment Act means the Resource Management Amendment Act 2020
+commencement date means the day after the date on which the amendment Act received the Royal assent.
+18 Planning instruments relating to freshwater notified after commencement date
+(1) This clause applies to the following planning instruments:
+(a) a proposed regional plan or regional policy statement for the purpose of giving effect to any national policy statement for freshwater management:
+(b) a proposed regional plan or regional policy statement that relates to freshwater but not for the purpose of giving effect to any national policy statement for freshwater management:
+(c) a change or variation to a proposed regional plan or regional policy statement if the change or variation—
+(i) is for the purpose of giving effect to any national policy statement for freshwater management; or
+(ii) relates to freshwater in the manner described in paragraph (b).
+(2) A planning instrument to which this clause applies must, if it was publicly notified after the commencement date, undergo the freshwater planning process.
+19 Planning instruments relating to freshwater notified before commencement
+(1) In this clause, planning instrument means a proposed regional plan or regional policy statement that—
+(a) is for the purpose of giving effect to any national policy statement for freshwater management or otherwise relates to freshwater; and
+(b) was publicly notified before the commencement date.
+(2) This Act applies to the planning instrument as if the amendment Act had not been enacted.
+(3) A variation to a planning instrument must be dealt with as if the amendment Act had not been enacted, regardless of whether—
+(a) the variation was publicly notified before or after the commencement date; or
+(b) the variation in any way gives effect to any national policy statement for freshwater management.
+20 Application of sections 120(1A) and (1B) to appeal rights
+(1) Section 120(1A) applies only in relation to resource consents lodged on or after the date on which section 37(1) of the amendment Act comes into force.
+(2) Section 120(1B) applies only in relation to resource consents lodged on or after the commencement date.
+21 Conditions that may be imposed on notices of requirement
+Sections 149P, 149U, 171, 174, 198E, and 198K, as amended by the amendment Act, apply to notices of requirement given under section 168 or 181 or lodged under section 145 on or after the commencement date.
+22 New time frames for resource consents relating to emergency work
+Section 330B(3), as amended by the amendment Act, applies to an activity if the appropriate consent authority was advised of the activity on or after the commencement date.
+23 Application of limitation period in section 338(4)
+Section 338(4), as amended by the amendment Act, applies to an offence committed on or after the commencement date.
+24 Performance of EPA enforcement functions
+The EPA may, in the performance of its enforcement functions specified in section 343F, take an enforcement action in relation to an incident (within the meaning of section 343E) that occurred or started to occur before, on, or after the commencement date.
+25 National environmental standards and boards of inquiry
+Sections 44, 46A, and 48, as amended by the amendment Act, apply only in respect of—
+(a) a board of inquiry appointed under section 47 on or after the commencement date; or
+(b) a process established under section 46A(4) on or after the commencement date.
+26 Transitional effect of climate change amendments
+(1) This clause applies to a proposed policy statement or plan, change, or variation that, immediately before the effective date,—
+(a) has been publicly notified under clause 5 or 26(1)(b) of Schedule 1; but
+(b) has not proceeded to the stage at which no further appeal is possible.
+(2) This clause also applies to applications for resource consents that were lodged with a local authority immediately before the effective date.
+(3) The proposed policy statement, plan, change, or variation, or resource consent must be determined as if the climate change amendments had not been enacted.
+(4) In this clause,—
+climate change amendments means the amendments made by sections 17 to 21, 35, and 36 of the amendment Act
+effective date means the date on which the climate change amendments come into force by virtue of section 2(3) and (4) of the amendment Act.
+27 Transitional effect of amendments to sections 149P and 149U
+(1) This clause applies to a matter described in paragraph (a), (b), (c), (d), (e), or (f) of the definition of matter in section 141.
+(2) If the matter has been called in under section 142 before the amendments made by sections 52 and 55 of the amendment Act take effect, the matter must be determined as if those amendments had not been made.
+28 References to clause 10 of Schedule 1 in specified Treaty Settlement legislation
+A reference, immediately before the commencement date, to clause 10 of Schedule 1 in the following provisions must, on and from the commencement date, be read as a reference to clauses 10 and 51 of Schedule 1:
+(a) sections 13(6)(d) and 46(2)(d) of the Waikato-Tainui Raupatu Claims (Waikato River) Settlement Act 2010:
+(b) sections 14(6)(d) and 48(2)(d) of the Ngati Tuwharetoa, Raukawa, and Te Arawa River Iwi Waikato River Act 2010:
+(c) section 22(2)(d) of the Nga Wai o Maniapoto (Waipa River) Act 2012.
+29 Effect of amendments on resource consent applications lodged with local authority or EPA
+An amendment made by section 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 99, or 100 of the amendment Act does not affect a resource consent application if, before the date that section came into force (see section 2 of the amendment Act), the application was lodged with a local authority or the EPA.
+30 Effect of amendments on notice of intention to review resource consent conditions
+(1) An amendment made by section 38 or 39 of the amendment Act does not affect a notice of intention to review resource consent conditions if, before the date that section came into force (see section 2 of the amendment Act), the notice was served on a consent holder.
+(2) In this clause, a notice of intention to review resource consent conditions means a notice under section 128.

@@ -1,5 +1,5 @@
 # 149F EPA to receive further submissions if matter is request, change, or variation
-(1) Subsection (2) applies if the matter for which the Minister makes a direction under section 142(2) or 147(1)(a) or (b) is a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, or a variation to a proposed plan.
+(1) Subsection (2) applies if the matter for which the Minister makes a direction under section 142(2) or 147(1)(a) or (b) is a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, a variation to a proposed plan, or a matter relating to a regional policy statement.
 (2) The EPA must produce a summary of all the submissions on the matter received under section 149E and give public notice of—
 (a) the availability of a summary of submissions on the matter; and
 (b) where the summary and the submissions can be inspected; and
@@ -9,7 +9,7 @@
 (e) the address for service of the EPA.
 (3) The following persons may make a further submission on the matter:
 (a) any person representing a relevant aspect of the public interest; and
-(b) any person that has an interest in the request, change, or variation greater than the interest that the general public has; and
+(b) any person that has an interest in the matter greater than the interest that the general public has; and
 (c) the local authority.
 (4) However, a further submission—
 (a) may only be in support of or in opposition to a submission made on a matter under section 149E:

@@ -1,5 +1,5 @@
 # 149O Public notice and submissions where EPA receives proposed plan or change from local authority under section 149N
-(1) This section applies where the EPA receives a proposed plan or change proposed by a local authority under section 149N.
+(1) This section applies where the EPA receives a proposed plan or change to a plan or regional policy statement proposed by a local authority under section 149N.
 (2) On receiving a copy of the proposed plan or change, the EPA must give public notice of the proposed plan or change that—
 (a) states the Minister's reasons for making a direction in relation to the matter; and
 (b) states where the proposed plan or change, accompanying information, and any further information may be viewed; and

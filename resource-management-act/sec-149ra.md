@@ -4,6 +4,9 @@
 (3) The board may amend a proposed plan as if the board were a local authority acting under clause 16(2) of Schedule 1 before the earlier of the following:
 (a) the day on which the local authority approves the proposed plan under clause 17 of Schedule 1 or the day on which the Minister of Conservation approves the proposed regional coastal plan under clause 19 of Schedule 1, whichever applies:
 (b) the day that is 40 working days after the day on which any appeals relating to the matter have been determined and all rights of appeal have expired.
+(3A) The board may amend a proposed regional policy statement as if the board were a local authority acting under clause 16(2) of Schedule 1 before the earlier of the following:
+(a) the day on which the local authority approves the proposed regional policy statement under clause 17 of Schedule 1:
+(b) the day that is 40 working days after the day on which any appeals relating to the matter have been determined and all rights of appeal have expired.
 (4) The board may correct a requirement before the earlier of the following:
 (a) the day on which the local authority includes the relevant designation or heritage order in its district plan and any proposed district plan under section 175(2):
 (b) the day that is 40 working days after the day on which any appeals relating to the matter have been determined and all rights of appeal have expired.

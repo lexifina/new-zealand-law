@@ -61,60 +61,78 @@ Incorporation of documents by reference in plans and proposed plans
 34 Consultation on proposal to incorporate material by reference
 35 Access to material incorporated by reference
 Part 4
-Collaborative planning process
+Freshwater planning process
 36 Interpretation
-Choice of collaborative planning process
-37 Considerations relevant to decision on choice of process
-38 Notification of planning process to be adopted
-Collaborative group
-39 Collaborative group to be established
-40 Appointments
-41 Terms of reference for collaborative group
-42 Discretion to include requirements in collaborative planning process
-43 Other matters relevant to collaborative group
-44 Report of collaborative group
+Subpart 1—Freshwater planning process
+Commencement of freshwater planning process
+37 Regional council must submit freshwater planning documents and give nominations to Chief Freshwater Commissioner
+38 Chief Freshwater Commissioner must convene freshwater hearings panel
+Hearing of submissions on freshwater planning instrument
+39 Functions of freshwater hearings panel
+40 Powers of freshwater hearings panel
+41 Pre-hearing meetings
+42 Council's role during hearings
+43 Conference of experts
+44 Alternative dispute resolution
 Notification of report and preparation of proposed policy statement, plan, or change
-45 Notification of report of collaborative group
-46 Preparation of proposal
-47 Advice from iwi authorities
-48 Evaluation report
-49 Notification of proposed policy statement or plan or change
+[Repealed]
+45 Freshwater hearings panel may commission reports
+46 Freshwater hearings panel may appoint special advisor and friend of submitter
+Extensions of time
+47 Chief Freshwater Commissioner may extend time frame
+Other procedural matters
+48 Procedures of freshwater hearings panel
+Process for recommendations of freshwater hearings panel
+49 Freshwater hearings panel must make recommendations to regional council on freshwater planning instrument
 Public submissions
-50 Submissions on proposed policy statement or plan or change
-51 Local authority report on submissions
-Role of review panel
-52 Hearing of submissions by review panel
-53 Role of collaborative group in procedures of review panel
-54 Recommendations of review panel
+[Repealed]
+50 Matters that affect recommendations
+51 Deadline for recommendations
+Regional council's response to recommendations
+52 Relevant regional council to consider recommendations and notify decisions on them
+53 Variations to freshwater planning instrument
+Subpart 2—Appeals
+54 Appeal rights
 Decision
-55 Decision of local authority following recommendations of review panel
-56 Approval of regional coastal plan
-57 Notification of local authority's decision
+[Repealed]
+55 Right of appeal in relation to rejected recommendation
+56 Right of appeal in relation to accepted recommendation
+57 Judicial review
 Transitional arrangement
-58 Early use of collaborative planning process
+[Repealed]
+Subpart 3—Freshwater hearings panels
+58 Chief Freshwater Commissioner's powers and functions in relation to freshwater hearings panels
 Rights of appeal under collaborative planning process
-59 Overview
-60 Appeals by way of rehearing
-61 Appeals on questions of law
-62 Procedural matters
+[Repealed]
+59 Composition of freshwater hearings panel
+60 Appointment of chairperson of freshwater hearings panel
+61 Liability of members of freshwater hearings panel
+62 Other duties of Chief Freshwater Commissioner in relation to panel members
 Approval of proposed policy statement or plan
-63 Amendment, variation, merger, and approval
+[Repealed]
+63 Funding of freshwater hearings panel and related activities
 Review panels
-64 Establishment of panel
-65 Membership of panel
-66 How members are appointed
+[Repealed]
+64 Continued existence of freshwater hearings panel
+Subpart 4—Freshwater commissioners
+65 Minister may appoint freshwater commissioners
+66 How freshwater commissioners appointed
 Terms and liabilities
-67 Term of panel and term of office of members
-68 Liability of members of panel
+[Repealed]
+67 When freshwater commissioner's appointment ceases
+68 Liability of members of panel [Repealed]
 Functions and powers
-69 Functions of panel
-70 Powers of panel
+[Repealed]
+69 Functions of panel [Repealed]
+70 Powers of panel [Repealed]
 Procedural matters
-71 Procedures of panel
+[Repealed]
+71 Procedures of panel [Repealed]
 Evidentiary matters
-72 Reports
-73 Conference of experts
-74 Information provided to review panel
+[Repealed]
+72 Reports [Repealed]
+73 Conference of experts [Repealed]
+74 Information provided to review panel [Repealed]
 Part 5
 Streamlined planning process
 75 Contents of application for directions
@@ -209,24 +227,16 @@ A local authority is not required to comply with clause 3 to the extent that any
 (1B) The purpose of the notice is to invite those requiring authorities to give written notice to the territorial authority stating whether the requiring authority requires the designation to be included, with or without modification, in the proposed plan.
 (1C) Subclause (1A) applies before the territorial authority—
 (a) notifies the district plan, change, or variation under clause 5; or
-(b) notifies a decision to use a collaborative planning process under clause 38; or
+(b) [Repealed]
 (c) applies to the Minister for a direction under section 80C to enter the streamlined planning process.
 (1D) The written notice must—
 (a) give the requiring authority at least 30 working days to respond; and
 (b) state which planning process under this schedule it proposes to use or request; and
-(c) specify the final date for the requiring authority to provide its written notice; and
-(d) advise the requiring authority whether the territorial authority intends to include the designation in the matters that the collaborative group may consider under the terms of reference set under clause 41.
-(2) If a territorial authority intends to use a collaborative planning process under clause 38, the written notice it gives under subclause (1A) requesting the requiring authority or heritage protection authority to advise the territorial authority of the following matters must also be given to any heritage protection authority that has a heritage order that has not lapsed:
-(a) whether the requiring authority or heritage protection authority wishes to be part of the collaborative group; and
-(b) if so, the name of the person to represent the requiring authority or heritage protection authority on the collaborative group.
-(2A) If the requiring authority or heritage protection authority agrees to be part of the collaborative group, the provisions of Part 4 of this schedule apply to the processes for review, the making of submissions, hearings, decision making on the designation or heritage order, and appeal rights.
-(2B) If the requiring authority or heritage protection authority does not agree to be part of the collaborative group,—
-(a) the collaborative group may consider the designation or heritage order, but only if it is within the terms of reference of the collaborative group; and
-(b) the territorial authority must include in the proposed plan—
-(i) the designation or heritage order; and
-(ii) any consensus recommendations on the designation or heritage order; and
-(c) the provisions of Part 4 of this schedule apply to the processes for review, the making of submissions, and hearings; and
-(d) the provisions of Part 1 of this schedule apply to decision making on a designation or heritage order and on any appeal rights.
+(c) specify the final date for the requiring authority to provide its written notice.
+(d) [Repealed]
+(2) [Repealed]
+(2A) [Repealed]
+(2B) [Repealed]
 (3) Where the requiring authority states that a designation is to be included in the proposed plan, with modifications, the requiring authority shall include in its written notice the nature of the modifications, and the reasons for the modifications.
 (4) If the requiring authority fails to notify the territorial authority in accordance with subclause (1), no provision for the designation shall be included in the proposed plan.
 (5) A territorial authority shall include in its proposed plan provision for any designation it receives notice of under this clause, any existing heritage orders, and any requirements for designations and heritage orders to which sections 170 and 192 apply or any requirement to which clause 42 applies.
@@ -260,6 +270,11 @@ and shall send a copy of the public notice to any other person who, in the terri
 (c) the process for public participation in the consideration of the proposed policy statement or plan; and
 (d) the closing date for submissions; and
 (e) the address for service of the local authority.
+(2A) If the proposed policy statement or plan is a freshwater planning instrument, the public notice under subclause (1) must also—
+(a) state whether all or part of the instrument is subject to the freshwater planning process; and
+(b) if applicable, state—
+(i) which part will undergo the freshwater planning process and the reasons why; and
+(ii) which part will undergo the processes in Part 1 of this schedule and the reasons why.
 (3) The closing date for submissions—
 (a) shall, in the case of a proposed policy statement or plan, be at least 40 working days after public notification; and
 (b) shall, in the case of a proposed change or variation to a policy statement or plan, be at least 20 working days after public notification.
@@ -487,7 +502,7 @@ Part 2 Requests for changes to policy statements and plans of local authorities 
 (1) Any person may request a change to a district plan or a regional plan (including a regional coastal plan).
 (2) Any person may request the preparation of a regional plan, other than a regional coastal plan.
 (3) Any Minister of the Crown or any territorial authority in the region may request a change to a policy statement.
-(3A) However, in relation to a policy statement or plan approved under Part 4 of this schedule, no request may be made to change the policy statement or plan earlier than 3 years after the date on which it becomes operative under clause 20 (as applied by section 80A(2)(a)).
+(3A) [Repealed]
 (4) Where a local authority proposes to prepare or change its policy statement or plan, the provisions of this Part shall not apply and the procedure set out in Part 1, 4, or 5 applies.
 (5) If a request for a plan change is made jointly with an application to exchange recreation reserve land (as permitted by section 65(4A) or 73(2A)), the application must be—
 (a) processed, with the request for a plan change, in accordance with this Part, other than clauses 27 and 29(4) to (8); then
@@ -634,387 +649,360 @@ Material incorporated by reference in a plan or proposed plan that expires or th
 (a) material incorporated by reference in a plan or proposed plan:
 (b) any amendment to, or replacement of, that material that is incorporated in the plan or proposed plan or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
 (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
-Part 4 Collaborative planning process
+Part 4 Freshwater planning process
 36 Interpretation
 In this Part,—
-appointer means the local authority that appoints a review panel for the purposes of this Part
-collaborative group means a group of persons appointed by a local authority under clause 40 for the purpose of assisting the local authority to prepare or change a proposed policy statement or plan that relates to its functions under section 30 or 31, as the case may be
-review panel and panel mean a panel established under clause 64.
-Choice of collaborative planning process
-37 Considerations relevant to decision on choice of process
-(1) A local authority may decide to use the collaborative planning process to prepare or change a policy statement or plan.
-(2) In determining whether the collaborative planning process is to be used to prepare or change a policy statement or plan, a local authority must consider—
-(a) whether the resource management issues to be dealt with in the policy statement or plan would benefit from the use of the collaborative planning process, having regard to the scale and significance of the relevant resource management issues; and
-(b) the views and preferences expressed by persons who are likely to be affected by those resource management issues or who have an interest in them; and
-(c) whether the local authority has the capacity to support the collaborative planning process, having regard to the financial and other costs of the process; and
-(d) whether a requirement, designation, or heritage order could be considered within a collaborative planning process; and
-(e) whether there are people in the community able and willing to participate effectively in the collaborative planning process as members of a collaborative group; and
-(f) whether any matters of national significance are likely to arise and, if so, whether these could be dealt with in the collaborative planning process; and
-(g) whether the relevant provisions of any iwi participation legislation that applies in an area could be accommodated within the collaborative planning process, as required by this Part.
-(3) Before determining to use the collaborative planning process, a local authority must be satisfied that use of the process is not inconsistent with the local authority's obligations under any relevant iwi participation legislation or Mana Whakahono a Rohe.
-38 Notification of planning process to be adopted
-(1) A local authority must give public notice of its decision made under clause 37, stating—
-(a) the extent of the area that will be subject to the proposed policy statement or plan and the subject matter, including any requirement, designation, or heritage order; and
-(b) where the decision and reasons for the decision of the local authority may be inspected.
-(2) If a local authority gives notice that it intends to use the collaborative planning process to prepare or change a policy statement or plan, it is not permitted to withdraw from that process at any stage and progress the preparation of a policy statement or plan under any of the other processes in this schedule.
-(3) However, subclause (2) does not apply if—
-(a) a local authority has been unable to appoint a collaborative group in accordance with clause 40; or
-(b) a collaborative group has breached its terms of reference and the local authority has followed the process specified for dispute resolution in the terms of reference, but the dispute is not resolved; or
-(c) the collaborative group and the local authority, after following the dispute resolution process specified in the terms of reference, agree that there are insufficient consensus recommendations on which to proceed to prepare a policy statement or plan.
-Collaborative group
-39 Collaborative group to be established
-If a local authority gives notice under clause 38 of its decision to use the collaborative planning process, it must establish a collaborative group.
-40 Appointments
-(1) In establishing a collaborative group, a local authority must appoint—
-(a) at least 1 person chosen by iwi authorities to represent the views of tangata whenua; and
-(b) in the case of a regional policy statement or plan (other than one prepared by a unitary authority), at least 1 person to represent the views of territorial authorities within the relevant area; and
-(c) in the case of a regional coastal plan, 1 person chosen by any customary marine title holder to represent the views of any customary marine title groups within the relevant area; and
-(d) other persons who, in the opinion of the local authority, have the knowledge, experience, and skills (including skills in collaboration) that are relevant to the resource management issues to be considered by the group; and
-(e) the nominated representative of a requiring authority or heritage protection authority, as the case requires, if the relevant authority has indicated its willingness to be a member of the collaborative group under section 170(2)(c) or clause 4(2) of this schedule.
-(2) If the terms of reference under clause 41 include a requirement, designation, or heritage order, the local authority must invite the following persons to nominate representatives for the collaborative group:
-(a) landowners and occupiers likely to be directly affected by decisions relating to the requirement, designation, or heritage order; and
-(b) any other person that the local authority identifies as being affected.
-(3) The local authority may, as it considers necessary, appoint 1 or more representatives from those nominated under Part 1, 4, or 5.
-(4) A local authority may appoint as many persons as it considers appropriate, having regard to—
-(a) the scale and significance of the resource management issues to be dealt with; and
-(b) the need to comply with subclauses (6) and (8).
-(5) A local authority must not appoint persons who are employees or officers of any local authority within the relevant area.
-(6) However, the collaborative group may include 1, but not more than 1, elected or appointed member from the local authority that is using the collaborative planning process to prepare or change a policy statement or plan.
-(7) If a combined instrument is to be prepared under section 80, the collaborative group may include 1, but not more than 1, elected or appointed member from each local authority that is using the collaborative planning process to prepare or change a policy statement or plan.
-(8) The appointments made under this clause must result in a collaborative group whose membership, collectively, reflects a balanced range of the community's interests, values, and investments in the relevant area as they relate to the resource management issues to be considered by the group.
-(9) The Local Government Official Information and Meetings Act 1987 applies to a collaborative group established under this Part as if it were a committee of the local authority under the Local Government Act 2002.
-41 Terms of reference for collaborative group
-(1) A local authority must set the terms of reference for a collaborative group that it establishes, in consultation with that group.
-(2) The terms of reference must direct a collaborative group—
-(a) to consider specified matters; and
-(b) to report to a local authority with consensus recommendations for a proposed policy statement or plan within a specified time; and
-(c) to consider how to comply with the obligations identified by the local authority that arise under this Act or any other enactment that applies to the preparation or changing of a policy statement or plan under this Act; and
-(d) to consider how to give effect to the provisions of a national policy statement, a New Zealand coastal policy statement, or a national planning standard that are identified by the local authority as relevant; and
-(e) to consider how to comply with the provisions in regulations (including any national environmental standards) and water conservation orders that are identified by the local authority as relevant; and
-(f) to consider how to comply with the obligations that are identified by the local authority as arising under—
-(i) the provisions of any relevant iwi participation legislation, or any agreement entered into under that legislation:
-(ii) the provisions of any relevant legislation that require a local authority, in preparing or changing a policy statement or plan under this Act, to give particular consideration to a document prepared under other legislation; and
-(g) to establish and use a process for seeking the views of the community of the relevant area on the work that the collaborative group is carrying out and to specify how the local authority will support the collaborative group; and
-(h) to prepare an evaluation of the costs and benefits of any recommendations it makes to the local authority.
-(3) The terms of reference must include—
-(a) the period for which a collaborative group is established (including the period until any appeals are completed); and
-(b) whether, and, if so, how much, members of a group are to be paid; and
-(c) how the local authority will provide resources to a group for the period between the establishment of a collaborative group and the date on which the local authority's decision is made under clause 55; and
-(d) a dispute resolution process that the local authority must use if necessary in relation to a collaborative group, including—
-(i) the process for removing and replacing any of the group's members or discharging the group:
-(ii) the decisions that are required to withdraw from the collaborative planning process under clause 38(3)(c).
-(4) A local authority may, at any time after consulting a collaborative group, amend the terms of reference that apply to the group.
-(5) The local authority must give public notice and notice to the chairperson of the collaborative group if amendments are made to the terms of reference under subclause (4).
-(6) A notice given under subclause (5) must state where a copy of the amended terms of reference may be inspected.
-(7) The terms of reference are binding on both the local authority and the collaborative group.
-42 Discretion to include requirements in collaborative planning process
-(1) This clause applies if, after a notice is given under clause 38 and before the collaborative group reports under clause 44, a territorial authority—
-(a) receives a notice of requirement under section 168 or 189; or
-(b) issues a notice of requirement under section 168A or 189A.
-(2) If the collaborative group, requiring authority, and territorial authority agree,—
-(a) a notice of requirement may proceed through the collaborative planning process instead of using the procedures of Part 8 of this Act; and
-(b) the requiring authority responsible for the notice of requirement must nominate, and the territorial authority must appoint, a representative for the collaborative group; and
-(c) the territorial authority must apply the provisions of clause 40(2) and (3).
-(3) However, if the requiring authority does not agree to be part of the collaborative group, or withdraws from the group before the collaborative group delivers its report under clause 44, the notice of requirement may not proceed using a collaborative process, but must proceed using another process under this Act.
-(4) The terms of reference set under clause 41 must be amended as necessary to reflect the new notice of requirement.
-(5) The territorial authority must give public notice in accordance with clause 43 of the new notice of requirement.
-43 Other matters relevant to collaborative group
-(1) As soon as practicable after establishing a collaborative group and providing the terms of reference, a local authority must give public notice that it has appointed a collaborative group and has set its terms of reference.
-(2) The public notice must—
-(a) include details of the appointments; and
-(b) state where the terms of reference may be inspected.
-(3) A collaborative group must determine its own procedure.
-(4) A collaborative group may commission 1 or more reports on a matter relevant to its terms of reference without the approval of the local authority.
-(5) However, the local authority must approve a commission if the local authority is to meet the costs of the commission.
-(6) Officers and employees of the local authority may, at the request of a collaborative group, provide technical, executive, or secretarial support to a collaborative group.
-(7) Officers and employees of any other local authority may attend the meetings of a collaborative group as technical advisers, if the chairperson of the group agrees.
-(8) Section 43 of the Local Government Act 2002 (which relates to indemnification) applies to the members of a collaborative group as if the group were a committee of a local authority.
-44 Report of collaborative group
-(1) A collaborative group must report to the local authority in accordance with the terms of reference.
-(2) The report must include—
-(a) a record of the recommendations on which the collaborative group has reached consensus and the reasons for the consensus position; and
-(b) a summary of the costs and benefits that the collaborative group has identified in relation to those recommendations; and
-(c) a summary of any alternative options that the collaborative group considered; and
-(d) a record of the matters that the collaborative group considered but on which it did not reach consensus; and
-(e) a summary of how the collaborative group obtained and considered the views of the community of the relevant area.
-Notification of report and preparation of proposed policy statement, plan, or change
-45 Notification of report of collaborative group
-A local authority must publicly notify the report received under clause 44, stating where the report may be inspected.
-46 Preparation of proposal
-(1) As soon as is reasonably practicable after the report of a collaborative group is publicly notified under clause 45, the local authority must—
-(a) prepare a proposed policy statement or plan or change in conjunction with the collaborative group; and
-(b) comply with subclauses (2) and (3) and clauses 2 and 3.
-(2) A proposed policy statement or plan—
-(a) must give effect to the consensus position reached by a collaborative group; and
-(b) may include provisions—
-(i) that are necessary or appropriate for giving effect to or implementing the consensus position; and
-(ii) for matters on which the collaborative group did not reach a consensus position, provided those matters were within the terms of reference given to the collaborative group.
-(3) However, subclause (2)(a) does not apply if, in giving effect to the consensus position, the proposed policy statement or plan would not comply with—
-(a) the relevant provisions of Parts 4 and 5 of this Act; or
-(b) any other provisions of this Act or of any other enactment that apply to the preparation or changing of a policy statement or plan under this Act.
-(4) A requirement, designation, or heritage order must be included in a proposed plan notified by the requiring authority under section 168 or 189 or clause 4, unless—
-(a) the requirement, designation, or heritage order is included in the terms of reference set under clause 41; and
-(b) there are consensus recommendations that apply (see subclause (2)(a)).
-47 Advice from iwi authorities
-(1) Before notifying a proposed policy statement or plan prepared or changed under clause 46(1), a local authority must—
-(a) provide a copy of the relevant draft proposed policy statement or draft plan to tangata whenua of the relevant area through the relevant iwi authorities, ensuring that the iwi authorities have adequate time and opportunity to provide advice to the local authority; and
-(b) have particular regard to any advice received on the draft policy statement or draft plan from the iwi authorities if, and to the extent that, the advice is not inconsistent with the consensus position.
-(2) This section applies only if the local authority does not have a Mana Whakahono a Rohe with any relevant iwi authority.
-48 Evaluation report
-(1) Before a local authority may notify a proposed policy statement or plan prepared or changed under clause 46(1), it must prepare an evaluation report under section 32 for the proposed policy statement or plan or a change to a policy statement or plan.
-(2) The evaluation report must state the extent (if any) to which the proposed policy statement, plan, or change does not give effect to the consensus position, and the reasons for that.
-(3) The local authority must have particular regard to the evaluation report before notifying a proposed policy statement or plan or change.
-49 Notification of proposed policy statement or plan or change
-(1) A local authority must publicly notify a proposed policy statement or plan prepared or changed under clause 46.
-(2) A proposed policy statement or plan notified under subclause (1) must be treated as if it were publicly notified under clause 5(1)(b)(i).
-(3) In carrying out its obligation to give public notice under subclause (1), the local authority must comply with—
-(a) clause 5(2) and (3) (which relates to the contents and timing of the notice); and
-(b) clause 5 (other than subclause (1)).
-Public submissions
-50 Submissions on proposed policy statement or plan or change
-(1) Clauses 6 to 8A apply to the making of submissions to a local authority on a proposed policy statement, plan, or change notified under clause 49.
-(2) A challenge to any part of a proposed policy statement or plan or change on the grounds that it does not comply with clause 46(2) may be made only in a submission to the relevant local authority under clause 6 or 8 (as applied by subclause (1)).
-51 Local authority report on submissions
-(1) Not later than 3 months after the closing date for further submissions as notified under clause 7(1)(d) (as applied by clause 50), a local authority must prepare a report that includes—
-(a) an analysis of whether the decisions requested by submitters are consistent or inconsistent with the consensus position of the collaborative group; and
-(b) the response of the local authority to the decisions requested.
-(2) The local authority must—
-(a) provide a copy of that report to the collaborative group and to tangata whenua of the relevant area through iwi authorities; and
-(b) invite comments on the report and the proposed policy statement or plan from the collaborative group and the iwi authorities.
-Role of review panel
-52 Hearing of submissions by review panel
-(1) A review panel established by a local authority under clause 64 must hold a hearing on any submissions lodged under clause 6 or 8 (as applied by clause 50).
-(2) Notice of the date, time, and place of any hearing must be given to every submitter and to the chairperson of the collaborative group at least 10 working days before the hearing.
-(3) Clauses 64 to 74 apply to the establishment and procedures of a review panel.
-53 Role of collaborative group in procedures of review panel
-(1) At the same time as a collaborative group gives comments to a local authority under clause 51(2)(b), the collaborative group may give notice to the local authority that the group has appointed one of its members to attend the hearing of the review panel in order to assist the panel by—
-(a) clarifying matters included in the proposed policy statement or plan:
-(b) discussing with the panel issues raised in submissions:
-(c) providing any relevant information that the panel may request.
-(2) Subclause (1) does not exclude any member of the collaborative group from making a submission to the panel on the proposed policy statement or plan.
-54 Recommendations of review panel
-(1) A review panel established by the local authority must provide a report to the local authority with recommendations on—
-(a) the proposed policy statement or plan; and
-(b) the matters raised in submissions.
-(2) The report must include—
-(a) a statement about the extent to which a proposed policy statement or plan, as notified, is inconsistent with the consensus position of the collaborative group; and
-(b) the panel's reasons for accepting or rejecting submissions and, for that purpose, the panel may group submissions according to—
-(i) the provisions of the proposed policy statement or plan to which they relate; or
-(ii) any other provisions of this Act or of any other Act that apply to the preparation or changing of a policy statement or plan under this Act; and
-(c) a further evaluation of the proposed policy statement or plan in accordance with section 32AA; and
-(d) the panel's recommendations in respect of—
-(i) any changes it proposes to the policy statement or plan; and
-(ii) whether the recommended changes would be consistent with the consensus position of the relevant collaborative group; and
-(iii) a requirement, designation, or heritage order that complies with sections 168A(2A) and (3), 171, 189A(10), and 191.
-(3) The review panel must not recommend changes to a proposed policy statement or plan—
-(a) unless it is satisfied that the changes are needed to ensure that the proposed policy statement or plan complies with—
-(i) the relevant provisions of Parts 4, 5, and 8 of this Act; or
-(ii) the provisions in any other enactment that require a local authority, in preparing or changing a policy statement or plan under this Act, to give particular consideration to a document prepared under that other enactment; or
-(b) unless—
-(i) the collaborative group is given the opportunity to comment on the review panel's proposed changes; and
-(ii) those comments, whether in support or otherwise, are included in the report.
-(4) If a review panel proposes to change a requirement, designation, or heritage order,—
-(a) the review panel must seek comments from the relevant requiring authority or heritage protection authority (including an authority that is a territorial authority); and
-(b) the relevant authority must advise the review panel whether it—
-(i) supports the proposed changes; or
-(ii) seeks further changes; or
-(iii) disagrees with the changes proposed by the review panel; and
-(c) the review panel must include the comments of the authority in the report the panel provides under subclause (1).
-(5) A review panel must not recommend changes to an existing designation or heritage order—
-(a) that is included without modification in a proposed plan; and
-(b) on which no submissions have been received.
-(6) In making recommendations to the local authority, the review panel may only make recommendations that are within the scope of—
-(a) the proposed policy statement or plan as notified; and
-(b) the submissions on the proposed policy statement or plan; and
-(c) any comments—
-(i) received under clause 51(2)(b); or
-(ii) provided to the review panel under clause 74.
-(7) A review panel is not required to deal individually with each submission, and may group submissions according to the provisions or matter to which they relate.
-Decision
-55 Decision of local authority following recommendations of review panel
-(1) As soon as is reasonably practicable after receiving a report from a review panel, a local authority must decide whether to accept or reject each recommendation in the report.
-(2) If a local authority rejects a recommendation, it must develop an alternative provision for its proposed policy statement or plan, giving reasons for the alternative provision.
-(3) An alternative provision must be within the scope of—
-(a) a matter raised in a submission; or
-(b) the reports and comments provided to a review panel under clause 74; or
-(c) comments received under clause 51(2)(b) or 54(3)(b).
-(4) Before deciding on an alternative provision, a local authority must—
-(a) prepare an evaluation of the alternative provision under section 32; and
-(b) ascertain whether the alternative provision is inconsistent with the consensus position; and
-(c) ascertain whether any inconsistency is necessary to ensure that the proposed policy statement or plan complies with—
-(i) the relevant provisions of Parts 4, 5, and 8 of this Act; and
-(ii) the provisions of any relevant enactment, including any enactment specified in Schedule 3 of the Treaty of Waitangi Act 1975, that require a local authority, in preparing or changing a proposed policy statement or plan under this Act, to give particular consideration to a document prepared under any other enactment; and
-(d) specify any other reasons why the alternative provision is preferred.
-(5) When making a decision under subclause (1), a local authority—
-(a) is not required to consult any person or to consider the submissions or other evidence of any person; and
-(b) must not consider any submission or other evidence unless it was made available to the review panel before the panel made the recommendation on which the local authority makes its decision.
-(6) A territorial authority must not make a recommendation or decision in respect of an existing designation or heritage order that—
-(a) is included without modification in a proposed plan; and
-(b) on which no submissions were received.
-(7) Subclause (8) applies to a designation or heritage order—
-(a) that must be included in a proposed plan under clause 4(5) (because the requiring authority or heritage protection authority gave notice under clause 4(3)); and
-(b) to which clause 4(2B) applies.
-(8) The territorial authority must—
-(a) recommend to the requiring authority or heritage protection authority that it confirm, modify, impose conditions on, or withdraw the designation or heritage order concerned; and
-(b) provide the recommendations to the requiring authority or heritage protection authority for its decision under clause 13.
-(9) If subclause (8) applies, the designation or heritage order must be considered in accordance with Part 1 of this schedule from the point when the recommendations of the territorial authority are sent to the requiring authority for its decision under clause 13.
-56 Approval of regional coastal plan
-(1) If the collaborative planning process is used by a regional council to prepare or change a regional coastal plan, the Minister of Conservation must approve the proposed plan.
-(2) Clauses 18 and 19 apply, with the necessary modifications, to the consideration and approval of a proposed regional coastal plan prepared or changed using the collaborative planning process.
-57 Notification of local authority's decision
-(1) Not later than 2 years after notifying a proposed policy statement or plan or change under clause 49(1), a local authority must—
-(a) publicly notify—
-(i) its decision under clause 55(1) and (2); and
-(ii) the report and recommendations of the review panel; and
-(iii) the place where the decision and reasons may be inspected; and
-(b) serve copies of the public notice electronically on each person who made a submission under clause 50.
-(2) When publicly notifying a decision in respect of a requirement, designation, or heritage order under this clause, the territorial authority must serve the notice on landowners and occupiers identified under clause 40(2) who, in the opinion of the local authority, are likely to be directly affected by the decision.
-(3) On and from the date on which the decision is publicly notified, the proposed policy statement or plan is amended in accordance with the decision.
-Transitional arrangement
-58 Early use of collaborative planning process
-Clause 14 of Schedule 12 provides the transitional arrangements for the early use of a collaborative planning process.
-Rights of appeal under collaborative planning process
-59 Overview
-The only rights of appeal that are available in respect of decisions made under clause 55 are—
-(a) by way of a rehearing under clause 60:
-(b) on a question of law under clause 61.
-60 Appeals by way of rehearing
-(1) An appeal by way of rehearing may be made in respect of a decision by a local authority under clause 55(1) or (2)—
-(a) to change a provision of a proposed policy statement or plan in a way that is inconsistent with the recommendations of the review panel under clause 54:
-(b) to include a matter in the proposed policy statement or plan that was not based on a consensus position, because—
-(i) it had been included under clause 46(2)(b)(ii); or
-(ii) it was recommended by the review panel but opposed by the collaborative group under clause 54(3)(b):
-(c) to accept or reject a recommendation of the review panel under clause 54(1) for a provision in the proposed plan in relation to a requirement, designation, or heritage order that the requiring authority or heritage protection authority did not support, or supported with changes under clause 54(4)(b).
-(2) The following groups and persons may appeal to the Environment Court under subclause (1):
-(a) a collaborative group that provided, in relation to the provision or matter that is the subject of the appeal,—
-(i) comments to a local authority under clause 51(2)(b):
-(ii) information to a panel under clause 53:
-(b) an iwi authority that provided comments to a local authority under clause 51(2)(b), but only in relation to a provision or matter on which it provided those comments:
-(c) a person who made a submission to the local authority under clause 6 or 8 (as applied by clause 50), but only in relation to a provision or matter on which the person made a submission:
-(d) the relevant requiring authority or heritage protection authority, in relation to a decision under subclause (1)(c).
-(3) However, there is no right of appeal under this clause if the local authority records in its decision that a change has been made (or not made) to a provision of a proposed policy statement or plan to ensure that the proposed policy statement or plan complies with—
-(a) Parts 4, 5, and 8 of this Act, as relevant:
-(b) the provisions in any enactment, including any enactment specified in Schedule 3 of the Treaty of Waitangi Act 1975, that require a local authority, in preparing or changing a policy statement or plan under this Act, to give particular consideration to a document prepared under any other enactment.
-(4) Section 277A applies to an appeal under this clause.
-61 Appeals on questions of law
-(1) A group or person specified in clause 60(2) may appeal to the Environment Court against a decision of a local authority made under clause 55(1) if there is no right of appeal in relation to that matter under clause 60.
-(2) An appeal under this clause is an appeal on a question of law only.
-62 Procedural matters
-(1) A notice of appeal under clause 60 or 61 must,—
-(a) not later than 30 working days after a local authority publicly notifies a decision under clause 57,—
-(i) be lodged with the Environment Court in the prescribed form; and
-(ii) be served on the local authority whose decision is the subject of the appeal; and
-(iii) in relation to a designation or heritage order included in the proposed plan, be served on the relevant requiring authority or heritage protection authority; and
-(b) if the notice of appeal relates to the coastal marine area, be served on the Minister of Conservation not later than 5 working days after the notice of appeal is lodged with the Environment Court.
-(2) Parts 11 and 11A of this Act apply to appeals under clauses 60 and 61.
-Approval of proposed policy statement or plan
-63 Amendment, variation, merger, and approval
-(1) The following provisions of Part 1 of this schedule apply, as far as they are relevant and with the necessary modifications, to a proposed policy statement or plan:
-(a) clauses 16 to 16B (which relate to amending, varying, or merging a variation with, a proposed policy statement or plan); and
-(b) clause 17 (which relates to the final consideration and approval of a proposed policy statement or plan, other than a regional coastal plan); and
-(c) clauses 18 and 19 (which relate to the consideration and ministerial approval of a regional coastal plan).
-(2) If a proposed policy statement or plan is prepared in accordance with the collaborative planning process, any variation to that statement or plan must also be undertaken in accordance with the collaborative planning process.
-Review panels
-64 Establishment of panel
-A review panel must be established by a local authority (the appointer) to hear submissions and make recommendations on a proposed policy statement, plan, or change in the course of the collaborative planning process undertaken under this Part.
-65 Membership of panel
-(1) Every panel established under clause 64 must comprise at least 3, but not more than 8, members, including the chairperson of the panel.
-(2) The majority of the members of a panel must be persons who are not elected or appointed members of an appointer.
-(3) A panel must consist of members who collectively have the appropriate knowledge, skills, and experience in relation to—
-(a) this Act; and
-(b) the matter or type of matter that is to be the subject of the hearing; and
-(c) the conduct of cross-examination in legal proceedings; and
-(d) the local community.
-(4) All the members of a panel must be accredited.
-(5) Every panel must include at least 1 member who—
-(a) has an understanding of tikanga Māori and the perspective of tangata whenua; and
-(b) is appointed after consultation with tangata whenua through the relevant iwi authorities.
-(6) A panel (other than one provided for in subclause (7)) must include the chairperson or other member nominated by the Minister if the Minister gives notice, not later than 5 working days after the date by which further submissions must be lodged under clause 7(1)(d), of his or her intention to make a nomination.
-(7) A panel established to hear submissions that relate to a proposed regional coastal plan must include the chairperson or other member nominated jointly by the Minister and the Minister of Conservation if the Ministers give notice, not later than 5 working days after the date by which further submissions must be lodged under clause 7(1)(d), of their intention to make a nomination.
-(8) Members must be appointed in accordance with clause 66.
-66 How members are appointed
-(1) In making appointments as required by clauses 64 and 65, an appointer must give written notice to each member appointed, stating—
-(a) the date on which the appointment takes effect; and
-(b) the term of the appointment.
-(2) As soon as practicable after the members of a panel have been appointed, the appointer concerned must notify the appointments on an Internet site to which the public has free access, stating—
-(a) that the panel has been established; and
-(b) the purpose for which the panel is established.
-(3) An appointer may appoint—
-(a) a member to replace a member who ceases to hold office:
-(b) additional members, after the initial appointments, if the total number of members on a panel is not more than 8, including the chairperson.
-(4) This clause applies, to the extent that it is relevant, to the appointment of a replacement member or an additional member.
-Terms and liabilities
-67 Term of panel and term of office of members
-(1) Every panel continues until it has performed its functions and exercised its powers in relation to the matters for which the panel is established (including the period required to complete any appeals).
-(2) A member of a panel remains a member until the earliest of the following:
-(a) the panel to which the member is appointed ceases to exist:
-(b) the member's term of office ends:
-(c) the member dies or is no longer able to perform the functions and duties of a member on account of ill health or other indisposition:
-(d) the member resigns by giving 20 working days' written notice to the appointer:
-(e) the member is removed from office under subclause (3).
-(3) An appointer may, at any time for just cause, remove a member from a panel by providing written notice to the member, and a copy of that notice to the chairperson of the panel, that states—
-(a) the date on which the member's removal takes effect, which must not be earlier than the date on which the notice is received by the member; and
-(b) the reasons for the removal.
-(4) A member of a panel is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member.
-(5) In subclause (3), just cause includes misconduct, an inability to perform the functions of office, a neglect of duty, and any breach of the collective duties of the panel or the individual duties of members.
-68 Liability of members of panel
-A member of a panel is not liable for anything the member does, or omits to do, in good faith in performing the functions and duties or exercising the powers of a panel.
-Functions and powers
-69 Functions of panel
-The function of every panel is—
-(a) to conduct a public hearing of submissions; and
-(b) to make recommendations to a local authority on a proposed policy statement or plan under the collaborative planning process.
-70 Powers of panel
-(1) A panel has the same powers and duties as a local authority under the following provisions:
+hearings means any hearing or part of a hearing of submissions on a freshwater planning instrument conducted by a freshwater hearings panel
+relevant regional council means the regional council responsible for a freshwater planning instrument.
+Subpart 1—Freshwater planning process
+Commencement of freshwater planning process
+37 Regional council must submit freshwater planning documents and give nominations to Chief Freshwater Commissioner
+(1) A regional council must, no later than 6 months after it has publicly notified a freshwater planning instrument, submit the following documents to the Chief Freshwater Commissioner:
+(a) the freshwater planning instrument that was publicly notified:
+(b) any variation made to the freshwater planning instrument under clause 16A:
+(c) the regional council's evaluation report prepared under section 32:
+(d) the submissions on the freshwater planning instrument received by the closing date for submissions:
+(e) the regional council's summary of the decisions requested by submitters:
+(f) any further submissions on the freshwater planning instrument received by the closing date for further submissions:
+(g) any submissions received after the closing date for submissions or further submissions:
+(h) any information about when the submissions described in paragraph (g) were received:
+(i) the planning documents that are recognised by an iwi authority and lodged with the regional council:
+(j) any documentation relevant to any obligations arising under any relevant iwi participation legislation, joint management agreement, or Mana Whakahono a Rohe:
+(k) any other relevant information.
+(2) A regional council must, at least 20 working days before it submits the documents under subclause (1), provide the Chief Freshwater Commissioner in writing with—
+(a) a notice of its intention to submit those documents to the Chief Freshwater Commissioner; and
+(b) nominations for appointments to the freshwater hearings panel that are required by clause 59(1)(b) and (c).
+38 Chief Freshwater Commissioner must convene freshwater hearings panel
+As soon as practicable after receiving the documents described in clause 37(1), the Chief Freshwater Commissioner must, in accordance with clause 59, convene a freshwater hearings panel for the freshwater planning instrument to which those documents relate.
+Hearing of submissions on freshwater planning instrument
+39 Functions of freshwater hearings panel
+The functions of every freshwater hearings panel are—
+(a) to conduct a hearing of submissions on a freshwater planning instrument referred to it by the Chief Freshwater Commissioner; and
+(b) to make recommendations, after the hearing of submissions is concluded, to the relevant regional council; and
+(c) to hear any objections made in accordance with clause 40(2).
+40 Powers of freshwater hearings panel
+(1) A freshwater hearings panel has the same duties and powers as a local authority under the following provisions to the extent applicable:
 (a) section 39 (which provides for how hearings are to be conducted), except section 39(2)(c) and (d):
 (b) section 39C (which sets out the effect of a lack of accreditation):
-(c) section 40 (which provides for the persons who may be heard at hearings):
+(c) section 40 (which provides for the persons who may be heard at a hearing):
 (d) section 41 (which provides for the application of certain provisions of the Commissions of Inquiry Act 1908):
 (e) section 41A (which relates to the control of hearings):
 (f) section 41B (which provides for the giving of directions as to the time for providing evidence in relation to a hearing):
 (g) section 41C (which sets out the directions and requests that may be given before or at a hearing), except section 41C(4):
-(h) section 41D (which provides for submissions to be struck out before or at a hearing).
-(1A) If a panel exercises a power under section 41D,—
-(a) a person whose submission is struck out has a right to objection under section 357 as if the references in that section to an authority were references to the panel; and
-(b) sections 357C to 358 apply to the panel as the body to which the objection is made under section 357.
-(2) A panel may exercise the powers conferred by clause 8AA, except that in clause 8AA(2) to (6) the references to a local authority are to be read as references to a panel.
-(3) Subclause (2) applies for the purpose of clarifying or facilitating the resolution of a matter relating to a proposed policy statement or plan.
-(4) If a panel considers it appropriate, it may on its own initiative, or if requested, invite anyone who made a submission on a proposed policy statement or plan to meet with the local authority.
-Procedural matters
+(h) section 41D (which provides for submissions to be struck out before or at a hearing):
+(i) section 42 (which provides for the protection of sensitive information):
+(j) section 42A (which provides for the ability to commission hearing reports).
+(2) If a freshwater hearings panel exercises a power under section 41D,—
+(a) a person whose submission is struck out has a right of objection under section 357 as if the references in that section to an authority were a reference to a freshwater hearings panel; and
+(b) sections 357C, 357D, and 358 apply to the freshwater hearings panel as the body to which an objection is made under section 357.
+(3) A freshwater hearings panel may decide to accept or reject any late submission.
+(4) A freshwater hearings panel may recommend to a relevant regional council that a variation be made to a freshwater planning instrument.
+41 Pre-hearing meetings
+(1) The chairperson of a freshwater hearings panel may convene a pre-hearing meeting for the purpose of—
+(a) clarifying a matter or an issue; or
+(b) facilitating resolution of a matter or an issue; or
+(c) dealing with any matter of an administrative or a procedural nature.
+(2) The chairperson may invite to the meeting—
+(a) any person who made a submission on the freshwater planning instrument:
+(b) the relevant regional council:
+(c) any person who the chairperson considers has relevant expertise.
+(3) The chairperson must appoint a person to chair the pre-hearing meeting.
+(4) The chairperson of the pre-hearing meeting must provide the freshwater hearings panel with a report that—
+(a) sets out any clarification or resolution of a matter or an issue agreed between the persons who attended the meeting; and
+(b) sets out any outstanding matter or issue between them; and
+(c) addresses any matter or issue identified by the chairperson to the freshwater hearings panel.
+42 Council's role during hearings
+(1) The relevant regional council must attend the hearings to assist a freshwater hearings panel in 1 or more of the following ways:
+(a) to clarify or discuss matters in the freshwater planning instrument:
+(b) to give evidence:
+(c) to speak to submissions or address issues raised by them:
+(d) to provide any other relevant information as requested by the panel.
+(2) Despite subclause (1), the freshwater hearings panel may excuse the relevant regional council from attending or remaining at any particular hearing.
+(3) A failure by a relevant regional council or a freshwater hearings panel to comply with this clause does not invalidate the hearing or the hearings session.
+(4) To avoid doubt, this clause does not limit or prevent the relevant regional council from—
+(a) making a submission on the freshwater planning instrument:
+(b) being heard on that submission.
+(5) A regional council must comply with any requirement by the freshwater hearings panel to provide a hearing report in accordance with section 42A.
+43 Conference of experts
+(1) A freshwater hearings panel may, at any time during a hearing, direct that a conference of experts be held for the purpose of—
+(a) clarifying a matter or an issue relating to the freshwater planning instrument; or
+(b) facilitating resolution of a matter or an issue relating to the freshwater planning instrument.
+(2) Without limiting the panel's discretion under subclause (1), the panel may authorise a representative of the relevant regional council with appropriate expertise to attend the conference.
+(3) The persons attending the conference must provide the freshwater hearings panel with a report of the outcomes of the conference.
+(4) If a conference requires a facilitator, the panel must appoint an independent facilitator.
+(5) The facilitator of a conference must, after the conference, prepare a report on the conference and provide it in writing or electronically to—
+(a) the freshwater hearings panel; and
+(b) the persons who attended the conference.
+(6) A facilitator must act under subclause (5) only if the freshwater hearings panel requires him or her to do so.
+(7) A report prepared under subclause (5) must not, without a person's consent, include any material that the person communicated or made available at the conference on a without prejudice basis.
+44 Alternative dispute resolution
+(1) A freshwater hearings panel may, at any time during a hearing, refer to mediation or any other alternative dispute resolution process the persons listed in subclause (2) if—
+(a) the panel considers that it is—
+(i) appropriate to do so; and
+(ii) likely to resolve issues between the parties that relate to the freshwater planning instrument; and
+(b) each person has consented (other than the relevant regional council, which must participate if referred by the panel).
+(2) The persons are—
+(a) 1 or more submitters; and
+(b) the relevant regional council; and
+(c) any other person that the freshwater hearings panel considers appropriate.
+(3) The freshwater hearings panel must appoint the mediator or person facilitating the mediation or other dispute resolution process (the mediator).
+(4) The mediator must report the outcome to the freshwater hearings panel.
+(5) The outcome reported under subclause (4) must not include any material without the consent of the relevant person, if the material was communicated or made available by the person at the mediation or other process on a without prejudice basis.
+Notification of report and preparation of proposed policy statement, plan, or change[Repealed]
+45 Freshwater hearings panel may commission reports
+(1) A freshwater hearings panel may, at any time before or during a hearing, require the relevant regional council, or commission a consultant or any other person, to prepare a report on—
+(a) 1 or more submissions; or
+(b) any matter arising from a hearing; or
+(c) any other matter that the panel considers necessary for the purpose of the panel making its recommendations.
+(2) The report does not need to repeat information included in any submission.
+(3) Instead, the report may—
+(a) adopt all of the information; or
+(b) adopt any part of the information by referring to the part adopted.
+(4) The freshwater hearings panel—
+(a) may consider the report at the hearing or when making its recommendations, or both; and
+(b) must require the relevant regional council to make the report available for inspection on its Internet site and at its offices.
+(5) The freshwater hearings panel may request and receive, from the person who prepared the report, any information and advice that is relevant and reasonably necessary for the panel to make its recommendations under clause 49.
+46 Freshwater hearings panel may appoint special advisor and friend of submitter
+(1) The chairperson of a freshwater hearings panel may appoint as a special advisor a person who is able to assist the panel in any hearing.
+(2) A special advisor is not a member of the panel but may assist the panel in any way that the panel thinks fit.
+(3) The chairperson of a freshwater hearings panel—
+(a) may appoint a friend of submitter for the purpose of providing support to the submitter in relation to the hearings; but
+(b) must consult the relevant regional council before making an appointment.
+Extensions of time
+47 Chief Freshwater Commissioner may extend time frame
+(1) A regional council or the chairperson of a freshwater hearings panel may request the Chief Freshwater Commissioner for an extension of a time frame specified in clauses 37, 40, 51, and 52 in relation to a freshwater planning instrument.
+(2) The person applying must state why the extension is sought, the proposed time frame, and how the person intends to meet the proposed time frame.
+(3) The Chief Freshwater Commissioner may—
+(a) decline the request; or
+(b) fully accept the request (including the proposed time frame); or
+(c) partially accept the request and determine a different time frame.
+(4) The Chief Freshwater Commissioner may grant a regional council or a freshwater hearings panel an extension more than once (in relation to the same or a different provision specified in subclause (1)).
+(5) However, the total period of any extension (regardless of who applied for it) must not exceed 12 months in relation to a freshwater planning instrument.
+Other procedural matters
+48 Procedures of freshwater hearings panel
+(1) Every freshwater hearings panel must—
+(a) regulate its own proceedings in a manner that is appropriate and fair in the circumstances; and
+(b) keep a full record of proceedings.
+(2) At a hearing, a freshwater hearings panel may—
+(a) permit a party to question another party or witness:
+(b) prohibit cross-examination:
+(c) permit cross-examination at the request of a party but only if the panel is satisfied that it is in the interests of justice:
+(d) regulate the conduct of any cross-examination.
+Process for recommendations of freshwater hearings panel
+49 Freshwater hearings panel must make recommendations to regional council on freshwater planning instrument
+(1) A freshwater hearings panel must make recommendations on the freshwater planning instrument.
+(2) The freshwater hearings panel—
+(a) is not limited in making recommendations only within the scope of submissions made on the freshwater planning instrument; and
+(b) may make recommendations on any other matters relating to the freshwater planning instrument identified by the panel or any other person during the hearing.
+Recommendations must be provided in reports
+(3) The freshwater hearings panel must provide its recommendations to the relevant regional council in 1 or more written reports.
+(4) Each report must include—
+(a) the panel's recommendations on the provisions of the freshwater planning instrument covered by the report, and identify any recommendations that are out of scope of the submissions made in respect of those provisions; and
+(b) the panel's recommendations on the provisions and matters raised in submissions made in respect of the provisions covered by the report; and
+(c) the panel's reasons for accepting or rejecting submissions and, for this purpose, may address the submissions by grouping them according to—
+(i) the provisions of the freshwater planning instrument to which they relate; or
+(ii) the matters to which they relate.
+(5) Each report may also include—
+(a) matters relating to any consequential alterations necessary to the freshwater planning instrument arising from submissions; and
+(b) any other matter that the panel considers relevant to the freshwater planning instrument that arises from submissions or otherwise.
+(6) To avoid doubt, a panel is not required to make recommendations in a report that address each submission individually.
+Public submissions[Repealed]
+50 Matters that affect recommendations
+A freshwater hearings panel, in formulating its recommendations, must—
+(a) have regard to—
+(i) any reports prepared under section 42A and clauses 41, 43, 45, and 46; and
+(ii) any reports produced as a result of mediation or other alternative dispute resolution directed by the panel; and
+(iii) any technical or other reports commissioned by the panel; and
+(iv) any advice or other assistance provided by a special advisor appointed under clause 46; and
+(b) take account of any alternative dispute resolution outcomes reported under clause 44; and
+(c) include in its recommendations a further evaluation of the freshwater planning instrument undertaken in accordance with section 32AA; and
+(d) be sure that if the relevant regional council were to accept the panel's recommendations, the following would be complied with:
+(i) sections 43B, 59 to 68, 69 to 70B, 85A, and 85B(2); and
+(ii) any other provision of any enactment (including this Act) that applies to the council's preparation of the plan.
+51 Deadline for recommendations
+A freshwater hearings panel must provide its report under clause 49 to the relevant regional council no later than the date that is 40 working days before the expiry of 2 years after the date on which the freshwater planning instrument was publicly notified by the relevant regional council.
+Regional council's response to recommendations
+52 Relevant regional council to consider recommendations and notify decisions on them
+(1) The relevant regional council must—
+(a) decide whether to accept or reject each recommendation of the freshwater hearings panel; and
+(b) for each rejected recommendation that is within the scope of submissions, decide an alternative solution, which—
+(i) may or may not include elements of both the freshwater planning instrument as notified and the freshwater hearings panel's recommendation in respect of that part of the freshwater planning instrument; but
+(ii) must be within the scope of the submissions; and
+(c) for each rejected recommendation that is outside the scope of submissions, decide an alternative solution, which may be within or outside the scope of submissions; and
+(d) include an assessment of each alternative solution to a rejected recommendation in the further evaluation report required under section 32AA.
+(2) The regional council must make decisions under subclause (1) in a manner that is consistent with any relevant iwi participation legislation, Mana Whakahono a Rohe, or joint management agreement.
+(3) When making decisions under subclause (1), the relevant regional council—
+(a) is not, subject to subclause (2), required to consult any person or consider submissions or other evidence from any person; and
+(b) must not consider any submission or other evidence unless it was made available to the freshwater hearings panel before the panel made the recommendation that is the subject of the relevant regional council's decision.
+(4) To avoid doubt, the relevant regional council may accept recommendations of the freshwater hearings panel that are beyond the scope of the submissions made on the freshwater planning instrument.
+(5) The relevant regional council must, no later than 40 working days after it is provided with the report, publicly notify its decisions under subclause (1) in a way that sets out the following information:
+(a) each recommendation of the freshwater hearings panel that it accepts:
+(b) each recommendation of the freshwater hearings panel that it rejects and the reasons for doing so:
+(c) the alternative solution for each rejected recommendation.
+(6) After the regional council publicly notifies its decisions, it must comply with clause 11 as if the decisions were notified under clause 10(4)(b).
+(7) On and from the date the decisions are publicly notified, the freshwater planning instrument is amended in accordance with the decisions.
+(8) A regional council must publicly notify the availability of the report of the freshwater hearings panel, the council's decisions, and where the report and the decisions may be viewed or accessed.
+53 Variations to freshwater planning instrument
+(1) If at any time after complying with clause 37(1), a relevant regional council considers that a variation to the freshwater planning instrument is needed, the council must—
+(a) notify the Chief Freshwater Commissioner in writing of the need for the variation; and
+(b) provide any additional information requested by the Chief Freshwater Commissioner for the purpose of subclause (3).
+(2) A regional council must also comply with subclause (1)(a) and (b) if it considers that a variation to a freshwater instrument recommended by the freshwater hearings panel is needed (see clause 40(4)).
+(3) The Chief Freshwater Commissioner must, after consulting the relevant freshwater hearings panel, determine whether to accept or reject the variation.
+(4) In making a determination, the Chief Freshwater Commissioner must consider—
+(a) whether the variation is needed to correct a significant defect in the freshwater planning instrument; and
+(b) whether the variation is needed for the effective functioning of the freshwater planning instrument; and
+(c) the impact that accepting the variation would have on the decision date of the freshwater planning instrument.
+(5) The Chief Freshwater Commissioner must advise the relevant regional council in writing of the outcome of the determination.
+(6) Clauses 16A and 16B apply, with any necessary modifications, to the variation. However, a variation that is initiated before the regional council complies with clause 37(1) must be merged into the freshwater planning instrument in accordance with clause 16B before the council complies with that clause.
+Subpart 2—Appeals
+54 Appeal rights
+(1) The appeal rights available in respect of a freshwater planning instrument are as provided in clauses 55 and 56.
+(2) To avoid doubt, no further appeal lies to the Supreme Court (by leave or otherwise).
+Decision[Repealed]
+55 Right of appeal in relation to rejected recommendation
+(1) A person who made a submission on a freshwater planning instrument may appeal to the Environment Court in respect of a provision or matter relating to the freshwater planning instrument—
+(a) that the person addressed in the submission; and
+(b) in relation to which the relevant regional council rejected a recommendation of the freshwater hearings panel and decided an alternative solution which resulted in—
+(i) a provision or matter being included in the freshwater planning instrument; or
+(ii) a provision or matter being excluded from the freshwater planning instrument.
+(2) If a regional council decides to reject a recommendation of the freshwater hearings panel that is outside the scope of submissions, a person who made a submission may appeal to the Environment Court in respect of that decision or the alternative solution proposed by the council.
+(3) The Environment Court must treat an appeal under this clause as if it were a hearing under clause 15(1) or (2).
+(4) Except as provided in this clause, the following provisions apply with all necessary modifications:
+(a) Parts 11 and 11A but not section 308; and
+(b) clauses 14(4) and (5) and 15(1) and (2) of this schedule.
+56 Right of appeal in relation to accepted recommendation
+(1) A person who made a submission on a freshwater planning instrument may appeal to the High Court in respect of a provision or matter relating to the freshwater planning instrument—
+(a) that the person addressed in the submission; and
+(b) in relation to which the relevant regional council accepted a recommendation of the freshwater hearings panel which resulted in—
+(i) a provision or matter being included in a freshwater planning instrument; or
+(ii) a provision or matter being excluded from a freshwater planning instrument.
+(2) If a regional council decides to accept a recommendation of the freshwater hearings panel that is outside the scope of submissions, a person who made a submission may appeal to the High Court in respect of that decision.
+(3) An appeal under this clause may be on a question of law only.
+(4) Except as otherwise provided in this clause, sections 299(2), 300 to 308, and Part 11A apply with all necessary modifications.
+57 Judicial review
+(1) Nothing in this Part limits or affects any right of judicial review a person may have in respect of any matter to which this Part applies except as provided in clause 55(4) (which applies section 296, that section being in Part 11).
+(2) However, a person must not both apply for judicial review of a decision made under this Part and appeal to the High Court under clause 56 in respect of the decision unless the person lodges the applications for judicial review and appeal together.
+(3) If applications for judicial review and appeal are lodged together, the High Court must try to hear the judicial review and appeal proceedings together, but need not if the court considers it impracticable to do so in the circumstances of the particular case.
+Transitional arrangement[Repealed]
+Subpart 3—Freshwater hearings panels
+58 Chief Freshwater Commissioner's powers and functions in relation to freshwater hearings panels
+(1) The Chief Freshwater Commissioner has the following powers and functions:
+(a) to decide when freshwater hearings panels are to be convened:
+(b) to determine, after considering the documents submitted by a regional council under clause 37(1) in relation to a freshwater planning instrument, the appropriate size and composition of a freshwater hearings panel in accordance with clause 59:
+(c) to consider nominations for appointment to a freshwater hearings panel made under clause 59(1)(b) and (c):
+(d) to appoint members of a freshwater hearings panel in accordance with clause 59:
+(e) to appoint the chairperson of a freshwater hearings panel.
+(2) The Chief Freshwater Commissioner may direct that a freshwater hearings panel be split into 2 panels if the Commissioner considers it appropriate in the circumstances.
+Rights of appeal under collaborative planning process[Repealed]
+59 Composition of freshwater hearings panel
+(1) Each freshwater hearings panel must comprise 5 members as follows:
+(a) 2 freshwater commissioners; and
+(b) 2 persons who—
+(i) are nominated by the relevant regional council; and
+(ii) may or may not be elected regional council members; and
+(c) 1 person with an understanding of tikanga Māori and mātauranga Māori who—
+(i) is nominated by local tangata whenua; or
+(ii) if no nomination is made, is appointed by the Chief Freshwater Commissioner.
+(2) However, the number of members on a freshwater hearings panel—
+(a) may exceed 5 if the Chief Freshwater Commissioner considers there are special circumstances in the region to which the freshwater planning instrument applies; or
+(b) may be fewer than 5 (but no fewer than 3) if the Chief Freshwater Commissioner considers that the scale and complexity of the freshwater planning instrument does not warrant the appointment of 5 members.
+(3) When appointing fewer than 5 members to a freshwater hearings panel, the Chief Freshwater Commissioner must ensure that the panel includes—
+(a) 1 person described in subclause (1)(b); and
+(b) 1 person described in subclause (1)(c); and
+(c) 1 freshwater commissioner.
+(4) When appointing more than 5 members to a freshwater hearings panel, the Chief Freshwater Commissioner must ensure that the panel includes the 5 members referred to in subclause (1)(a) to (c).
+(5) The Chief Freshwater Commissioner must convene each freshwater hearings panel in a manner that is consistent with any relevant iwi participation legislation, Mana Whakahono a Rohe, or joint management agreement.
+(6) When convening a freshwater hearings panel, the Chief Freshwater Commissioner must consider the need for the panel to collectively have knowledge of and expertise in relation to—
+(a) judicial processes and cross-examination; and
+(b) freshwater quality, quantity, and ecology; and
+(c) this Act; and
+(d) tikanga Māori and mātauranga Māori; and
+(e) Te Mana o te Wai; and
+(f) water use in the local community; and
+(g) subject areas likely to be relevant to the work of the panel.
+(7) A freshwater hearings panel member must be accredited under section 39A unless the Chief Freshwater Commissioner is satisfied there are special circumstances in relation to the freshwater hearings panel to which the commissioner is appointed.
+60 Appointment of chairperson of freshwater hearings panel
+(1) The Chief Freshwater Commissioner must appoint the chairperson of a freshwater hearings panel.
+(2) Before appointing a chairperson, the Chief Freshwater Commissioner must consider the desirability of the chairperson having knowledge and expertise in relation to judicial processes and cross-examination.
+(3) The chairperson must be a freshwater commissioner and may be the Chief Freshwater Commissioner.
+(4) In the event of an equality of votes, the chairperson has a casting vote.
+61 Liability of members of freshwater hearings panel
+A member of a freshwater hearings panel is not liable for anything the member does, or omits to do, in good faith in performing the functions and duties or exercising the powers of a panel.
+62 Other duties of Chief Freshwater Commissioner in relation to panel members
+(1) The Chief Freshwater Commissioner may,—
+(a) at any time, for just cause, remove a member from a freshwater hearings panel; and
+(b) appoint new members to the freshwater hearings panel in accordance with clause 59.
+(2) The Chief Freshwater Commissioner must notify members of their appointment to a freshwater hearings panel and when their appointment commences.
+(3) When removing a member from a freshwater hearings panel, the Chief Freshwater Commissioner must tell the member in writing of the date on which the removal takes effect and the reasons for the removal.
+(4) A member is not entitled to any compensation or other payment or benefit relating to the person ceasing, for any reason, to be a member of the panel.
+(5) In subclause (1), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of the collective duties of the freshwater hearings panel or the individual duties of members of the panel.
+Approval of proposed policy statement or plan[Repealed]
+63 Funding of freshwater hearings panel and related activities
+(1) The relevant regional council is responsible for all costs incurred by a freshwater hearings panel and for the activities related to the performance or exercise of the panel's functions and powers under this Part.
+(2) Subclause (1) applies from the date that members are appointed to the freshwater hearings panel.
+(3) Without limiting subclause (1), the relevant regional council is responsible for—
+(a) the remuneration and expenses of the members of the freshwater hearings panel; and
+(b) the administrative costs of each hearing session, including venue hire and public notices; and
+(c) the remuneration of any expert, mediator or other dispute resolution facilitator, or other person whose services are engaged by the panel under this Part; and
+(d) the allowances payable to any witness called by the panel; and
+(e) the costs of any special advisor or friend of submitter appointed by the panel; and
+(f) providing administrative and secretarial support services to the panel as required.
+(4) For the purposes of subclause (1), each member of the freshwater hearings panel, other than members of a regional council, must be paid—
+(a) remuneration by way of salary, fees, or allowances at a rate determined by the Minister; and
+(b) actual and reasonable travelling and other expenses incurred in carrying out his or her office in accordance with the Fees and Travelling Allowances Act 1951, and that Act applies as if the members were members of a statutory Board within the meaning of that Act.
+(5) Members of a regional council who are appointed to a freshwater hearings panel must be paid at a rate determined by the relevant council.
+Review panels[Repealed]
+64 Continued existence of freshwater hearings panel
+A freshwater hearings panel exists until it has completed the performance and exercise of its functions and powers under this Part in relation to the hearing of submissions, including any related appeals that are filed in any court.
+Subpart 4—Freshwater commissioners
+65 Minister may appoint freshwater commissioners
+(1) The Minister may appoint freshwater commissioners.
+(2) The Minister must appoint freshwater commissioners who—
+(a) are accredited under section 39A; and
+(b) collectively have knowledge of and expertise in relation to—
+(i) judicial processes and cross-examination; and
+(ii) freshwater quality, quantity, and ecology; and
+(iii) this Act; and
+(iv) tikanga Māori and mātauranga Māori.
+(3) The Minister must appoint as Chief Freshwater Commissioner a freshwater commissioner who is an Environment Court Judge or retired Environment Court Judge.
+66 How freshwater commissioners appointed
+(1) The Minister must give a person appointed as a freshwater commissioner a written notice of appointment.
+(2) The notice of appointment must—
+(a) state the date on which the appointment takes effect; and
+(b) state the term of the appointment; and
+(c) specify that the costs of the freshwater commissioner—
+(i) that are for purposes specific to a freshwater hearings panel will be met by the relevant regional council; and
+(ii) that are for other purposes directed by the Chief Freshwater Commissioner will be met by the Crown.
+Terms and liabilities[Repealed]
+67 When freshwater commissioner's appointment ceases
+(1) A person appointed as a freshwater commissioner will remain in that office until the earliest of the following:
+(a) the person's term of appointment ends:
+(b) the person dies:
+(c) the person resigns by giving 20 working days' written notice to the Minister.
+(2) The Minister may, at any time for just cause, by written notice, terminate the appointment of a freshwater commissioner.
+(3) The Minister may, at any time for just cause, remove a freshwater commissioner by written notice to that person (with a copy to the Chief Freshwater Commissioner).
+(4) The notice must state—
+(a) the date on which the removal takes effect, which must not be earlier than the date on which the notice is received by the freshwater commissioner; and
+(b) the reasons for the removal.
+(5) A freshwater commissioner is not entitled to any compensation or other payment or benefit relating to the person ceasing, for any reason, to hold office as a freshwater commissioner or the Chief Freshwater Commissioner.
+(6) In subclause (2), just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of the collective duties of the freshwater hearings panel or the individual duties of members of the panel.
+68 Liability of members of panel
+[Repealed]
+Functions and powers[Repealed]
+69 Functions of panel
+[Repealed]
+70 Powers of panel
+[Repealed]
+Procedural matters[Repealed]
 71 Procedures of panel
-(1) Every panel must—
-(a) regulate its own procedure in a manner that is appropriate and fair in the circumstances; and
-(b) keep a full record of its proceedings.
-(2) Parts 1 to 6 and sections 48 and 53 of the Local Government Official Information and Meetings Act 1987 apply to a panel as if that panel were a committee appointed by a local authority under the Local Government Act 2002.
-(3) In the event of an equality of votes, the chairperson of the panel has a casting vote.
-Evidentiary matters
+[Repealed]
+Evidentiary matters[Repealed]
 72 Reports
-(1) At any time before or during a hearing, a panel may commission, or require an appointer to commission, a report on any matter, including a report by an officer of a local authority, as the panel considers necessary.
-(2) A report does not need to repeat material included in submissions.
-(3) An appointer must—
-(a) make any report commissioned under this clause available for inspection as soon as practicable at its offices or on an Internet site to which the public has free access; and
-(b) give written notice to the persons who made submissions that a report has been commissioned and is available for inspection.
-(4) A panel may request, from the person making a report under this clause, any information and advice that the panel considers is relevant and reasonably necessary to enable the panel to make recommendations under clause 69(b).
+[Repealed]
 73 Conference of experts
-(1) A panel may, at any time during a hearing, direct that a conference of experts be convened for the purpose of—
-(a) clarifying a matter relating to the proposed policy statement or plan:
-(b) facilitating the resolution of a matter relating to a proposed policy statement or plan.
-(2) A member of the panel, or a person appointed for the purpose by the panel, must be appointed to act as the facilitator of the conference.
-(3) If directed by the panel to do so, the facilitator must prepare a report on the conference and provide it to the panel and persons attending the conference.
-(4) No information given or made available to the conference on a without prejudice basis may be included in a report given under subclause (3).
-(5) The appointer or his or her representatives may not attend a conference unless authorised to do so by the panel.
+[Repealed]
 74 Information provided to review panel
-(1) An appointer must provide a review panel with copies of—
-(a) the publicly notified proposed policy statement or plan that is the subject of a hearing before the panel; and
-(b) the report of the relevant collaborative group provided under clause 44; and
-(c) an evaluation report required by clause 48; and
-(d) the submissions that were received on the proposed policy statement or plan by the closing date for submissions; and
-(e) the report prepared by the relevant local authority under clause 51; and
-(f) any planning documents recognised by an iwi authority and lodged with the relevant local authority; and
-(g) any documentation relevant to obligations arising for the relevant local authority under any relevant iwi participation legislation or Mana Whakahono a Rohe; and
-(h) any comments provided to the relevant local authority under clause 51(2)(b) by an iwi authority or the relevant collaborative group; and
-(i) any other relevant information held by the local authority and requested by the panel.
-(2) Information may be provided under this clause electronically or on an Internet site to which the review panel has access.
+[Repealed]
 Part 5 Streamlined planning process
 75 Contents of application for directions
 An application to a Minister for a direction under section 80C to use the streamlined planning process must—

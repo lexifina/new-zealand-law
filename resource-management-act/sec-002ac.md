@@ -1,4 +1,4 @@
-# 2AC Availability of documents during COVID-19 response
+# 2AC Availability of documents
 Interpretation
 (1) In this section, document includes the following if they are required to be made available for inspection to the public, a class of members of the public, a person, or a class of persons, whether free of charge or at a reasonable cost:
 (a) information of any kind; and
@@ -15,5 +15,5 @@ How documents may be made available
 (5) In addition, the person responsible for making a document available may—
 (a) make it available for inspection; and
 (b) upon request, make a physical copy of the document available for purchase at a reasonable cost.
-Repeal
-(6) This section is repealed on 31 October 2021.
+Repeal[Repealed]
+(6) [Repealed]

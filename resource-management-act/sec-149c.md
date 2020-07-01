@@ -1,7 +1,7 @@
 # 149C EPA must give public notice of Minister's direction
 (1) The EPA must give public notice of a direction the Minister makes under section 142(2) or 147(1)(a) or (b).
 (2) Subsection (1) does not apply if—
-(a) the matter is a request for the preparation of a regional plan, or a request for a change to a plan, lodged with the local authority under clause 21 of Schedule 1 and, at the time the Minister makes the direction, the local authority—
+(a) the matter is a request for the preparation of a regional plan, a request for a change to a plan, or a request for a change to a regional policy statement, lodged with the local authority under clause 21 of Schedule 1 and, at the time the Minister makes the direction, the local authority—
 (i) has not yet made a decision on the request under clause 25 of Schedule 1; or
 (ii) has made a decision to accept the request, but has not yet prepared the proposed plan or change under clause 26(a) of Schedule 1; or
 (iii) has made a decision to adopt the request, but has not yet notified the proposed plan or change under clause 5 of Schedule 1; or

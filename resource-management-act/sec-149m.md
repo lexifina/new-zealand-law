@@ -1,5 +1,5 @@
 # 149M Process if matter is request for regional plan or change and particular circumstances apply
-(1) This section applies if the matter before a board of inquiry is a request for the preparation of a regional plan, or a request for a change to a plan, and—
+(1) This section applies if the matter before a board of inquiry is a request for the preparation of a regional plan, or a request for a change to a plan or a regional policy statement, and—
 (a) the request is lodged with the EPA under section 145; or
 (b) the request is lodged with the local authority under clause 21 of Schedule 1 but, at the time the Minister made the direction under section 142(2) in relation to the request, the local authority had not yet made a decision on the request under clause 25 of Schedule 1.
 (2) The board may only—

@@ -1,4 +1,4 @@
-# 39AA Hearing using remote access facilities during COVID-19 response
+# 39AA Hearing using remote access facilities
 Interpretation
 (1) In this section,—
 audio link means a facility (such as a telephone facility) that enables audio communication between an authority and 1 or more persons with a right to be heard at a hearing
@@ -26,6 +26,6 @@ Exclusions
 (b) to a hearing to which section 47A of the Local Government Official Information and Meetings Act 1987 applies.
 Deemed compliance
 (7) A hearing conducted in full or in part before 25 March 2020 using a remote access facility is deemed to comply with this section.
-Period for which this section applies
+When this section applies
 (8) This section applies on and from 25 March 2020.
-(9) This section is repealed on 31 October 2021.
+(9) [Repealed]

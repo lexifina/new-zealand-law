@@ -16,13 +16,13 @@
 (5) If the person is a trade competitor of the applicant, the person may make a submission only if directly affected by an effect of the activity to which the matter relates, and the effect—
 (a) adversely affects the environment; and
 (b) does not relate to trade competition or the effects of trade competition.
-(6) However, subsection (5) does not apply if the matter is a notice of requirement for a heritage order (or to alter a heritage order), a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, or a variation to a proposed plan.
-(7) If the matter is a change to a plan proposed by a local authority under clause 2 of Schedule 1, or a variation to a proposed plan, the person—
+(6) However, subsection (5) does not apply if the matter is a notice of requirement for a heritage order (or to alter a heritage order), a request for the preparation of a regional plan, a request for a change to a plan, a change to a plan, a variation to a proposed plan, a request for a change to a regional policy statement, a change to a regional policy statement, or a variation to a proposed regional policy statement.
+(7) If the matter is a change to a plan proposed by a local authority under clause 2 of Schedule 1, a variation to a proposed plan, a change to a regional policy statement, or a variation to a proposed regional policy statement, the person—
 (a) must not make a submission if the person could gain an advantage in trade competition through the submission; and
 (b) may make a submission only if directly affected by an effect of the change or variation that—
 (i) adversely affects the environment; and
 (ii) does not relate to trade competition or the effects of trade competition.
-(8) If the matter is a request for the preparation of a regional plan, or a request for a change to a plan, a person who is a trade competitor of the person who made the request may make a submission only if directly affected by an effect of the proposed plan or change that—
+(8) If the matter is a request for the preparation of a regional plan, a request for a change to a plan or a regional policy statement, a person who is a trade competitor of the person who made the request may make a submission only if directly affected by an effect of the proposed plan or change that—
 (a) adversely affects the environment; and
 (b) does not relate to trade competition or the effects of trade competition.
 (9) The closing date for making a submission is 30 working days after the day on which public notice of the direction is given.

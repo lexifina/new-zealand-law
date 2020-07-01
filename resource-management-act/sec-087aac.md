@@ -1,9 +1,7 @@
 # 87AAC Meaning of fast-track application
-(1) An application is a fast-track application if—
-(a) the application is for a resource consent for 1 or both of the following, but no other, activities:
-(i) a controlled activity that requires consent under a district plan (other than a subdivision of land):
-(ii) an activity prescribed, or identified in the manner prescribed, under section 360G(1)(a); and
-(b) the application includes an address for service that is an electronic address.
+(1) An application is a fast-track application if the application—
+(a) is for a resource consent for a controlled activity (but no other activity) that requires consent under a district plan (other than a subdivision of land); and
+(b) includes an address for service that is an electronic address.
 (2) An application described in subsection (1) ceases to be a fast-track application if—
 (a) a consent authority gives public or limited notification of the application; or
 (b) a hearing is to be held for the application; or
