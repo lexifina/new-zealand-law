@@ -5,14 +5,13 @@ Airport companies (as defined in section 2 of the Airport Authorities Act 1966) 
 Airways Corporation of New Zealand Limited
 Animal Control Products Limited
 Armed Forces Canteen Council
-Boards of Trustees constituted under Part 9 of the Education Act 1989
+Boards constituted under subpart 5 of Part 3 of the Education and Training Act 2020
 Broadcasting Commission
 Broadcasting Standards Authority
 Commerce Commission
 Conservation Boards
 Criminal Cases Review Commission
 Deer Industry New Zealand
-Education Authorities (as defined in section 2(1) of the Education Act 1964)
 Electricity Corporation of New Zealand Limited
 Energy Efficiency and Conservation Authority
 External Reporting Board
@@ -47,7 +46,6 @@ Provincial Patriotic Councils
 Public Advisory Committee on Disarmament and Arms Control
 Public Trust
 Queen Elizabeth the Second National Trust
-Racing Industry Transition Agency
 Radiation Safety Advisory Council
 Radio New Zealand Limited
 Related companies of State enterprises (within the meaning of section 2(1A))
@@ -56,6 +54,7 @@ Representation Commission
 Reserve Bank of New Zealand
 Rugby World Cup Authority
 Survey Board of New Zealand
+TAB NZ
 Takeovers Panel
 Television New Zealand Limited
 Transitional Fish and Game Councils

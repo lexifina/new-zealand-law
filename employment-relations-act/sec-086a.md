@@ -21,4 +21,4 @@
 (4) To avoid doubt, this section does not apply if notice is required under any of the following provisions:
 (a) section 90 (strikes in essential services):
 (b) section 93 (procedure to provide public with notice before strike in certain passenger transport services):
-(c) section 74AC of the State Sector Act 1988 (strikes in schools to be notified).
+(c) section 589 of the Education and Training Act 2020 (strikes in schools to be notified).

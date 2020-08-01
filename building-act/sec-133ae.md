@@ -6,10 +6,10 @@
 (b) a building that is likely to be needed in an emergency for use as an emergency shelter or emergency centre:
 (c) a building that is used to provide emergency response services (for example, policing, fire, ambulance, or rescue services):
 (d) a building that is regularly occupied by at least 20 people and that is used as any of the following:
-(i) an early childhood education and care centre licensed under Part 26 of the Education Act 1989:
-(ii) a registered school or an integrated school (within the meaning of the Education Act 1989):
-(iii) a private training establishment registered under Part 18 of the Education Act 1989:
-(iv) a tertiary institution established under section 162 of the Education Act 1989:
+(i) an early childhood education and care centre licensed under Part 2 of the Education and Training Act 2020:
+(ii) a registered school or an integrated school (within the meaning of the Education and Training Act 2020):
+(iii) a private training establishment registered under subpart 5 of Part 4 of the Education and Training Act 2020:
+(iv) an institution established under section 268 of the Education and Training Act 2020:
 (e) any part of an unreinforced masonry building that could—
 (i) fall from the building in an earthquake (for example, a parapet, an external wall, or a veranda); and
 (ii) fall onto any part of a public road, footpath, or other thoroughfare that a territorial authority has identified under section 133AF(2)(a):
