@@ -241,13 +241,13 @@ domestic activities means cleaning, laundry, meal preparation, and associated sh
 education support—
 (a) means the provision of support or assistance for a claimant to assist him or her to achieve independence in educational participation; and
 (b) includes resource preparation and planning assessed as necessary for the provision of that support or assistance
-educational participation means participation within the claimant's school day or period of attendance at an early childhood education service by a claimant who is—
-(a) entitled to free enrolment and free education under the Education Act 1989 and is—
+educational participation means participation within the claimant's school day or period of attendance at an early childhood service by a claimant who is—
+(a) entitled to free enrolment and free education under the Education and Training Act 2020 and is—
 (i) enrolled at a registered school within the meaning of that Act; or
-(ii) exempted under section 21 or 22A of that Act from the requirement to be enrolled; or
-(iii) exempted under section 26 (but not subsection (1)(b)(iii)) of that Act from attending a school; or
-(b) attending a licensed early childhood service within the meaning of section 309 of the Education Act 1989; or
-(c) enrolled at a State school, special school, special class, or special clinic, under an agreement to which section 9 of the Education Act 1989 applies
+(ii) exempted under section 38 or 41 of that Act from the requirement to be enrolled; or
+(iii) exempted under section 44 (but not section 44(1)(c)) of that Act from attending a school; or
+(b) attending a licensed early childhood service within the meaning of section 10(1) of that Act; or
+(c) enrolled at a State school or specialist school under an agreement to which section 37 of that Act applies
 home—
 (a) means residential premises in New Zealand in which the claimant lives and which are owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; and
 (b) includes residential premises in New Zealand in which the claimant proposes to live after they are built and which will be owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; but
