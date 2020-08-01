@@ -7,7 +7,7 @@
 (2) The effect is causing a significant disruption of 1 or more of the following things:
 (a) the activities of the civilian population of New Zealand:
 (b) something that is or forms part of an infrastructure facility in New Zealand:
-(c) civil administration in New Zealand (whether administration undertaken by the Government of New Zealand or by institutions such as local authorities, District Health Boards, or boards of trustees of schools):
+(c) civil administration in New Zealand (whether administration undertaken by the Government of New Zealand or by institutions such as local authorities, District Health Boards, or boards of schools):
 (d) commercial activity in New Zealand (whether commercial activity in general or commercial activity of a particular kind).
 (3) The results are—
 (a) creating a risk to the health of 1 or more people:
