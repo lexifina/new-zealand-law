@@ -3,7 +3,8 @@
 (a) each new asset, additional asset, asset of increased capacity, or programme of works for which the development contributions requirements set out in the development contributions policy are intended to be used or have already been used; and
 (b) the estimated capital cost of each asset described in paragraph (a); and
 (c) the proportion of the capital cost that the territorial authority proposes to recover through development contributions; and
-(d) the proportion of the capital cost that the territorial authority proposes to recover from other sources.
+(d) the proportion of the capital cost that the territorial authority proposes to recover from other sources; and
+(e) if the asset is eligible infrastructure that has been, or is intended to be, transferred by a responsible SPV to a responsible infrastructure authority under section 90 of the Infrastructure Funding and Financing Act 2020, the proportion of the capital cost to be funded by a levy under that Act and from other sources.
 (2) For the purposes of subsection (1), assets for which development contributions are required can be grouped together into logical and appropriate groups of assets that reflect the intended or completed programmes of works or capacity expansion.
 (3) A schedule under subsection (1) must also include assets for which capital expenditure has already been incurred by a territorial authority in anticipation of development.
 (4) Information in the schedule under subsection (1) must group assets according to the district or parts of the district for which the development contribution is required, and by the activity or group of activities for which the development contribution is required.

@@ -1,6 +1,7 @@
 # 168A Notice of requirement by territorial authority
 (1) This section applies if a territorial authority decides to issue a notice of requirement for a designation—
 (a) for a public work within its district and for which it has financial responsibility; or
+(ab) for work within its district that relates to the construction of eligible infrastructure for which the territorial authority is a responsible infrastructure authority; or
 (b) in respect of any land, water, subsoil, or airspace where a restriction is necessary for the safe or efficient functioning or operation of a public work.
 (1A) The territorial authority must decide whether to notify the notice of requirement under—
 (a) subsection (1AA); or
