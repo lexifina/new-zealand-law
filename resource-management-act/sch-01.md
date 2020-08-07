@@ -470,11 +470,13 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (1B) A variation to a proposed policy statement or plan approved under subclause (1A) must be treated as if it were a change to the policy statement or plan unless the variation has merged in and become part of the proposed policy statement or plan under clause 16B(1).
 (2) A local authority may approve part of a policy statement or plan, if all submissions or appeals relating to that part have been disposed of.
 (3) Every approval under this clause shall be effected by affixing the seal of the local authority to the proposed policy statement or plan.
+(4) See also section 99 of the Urban Development Act 2020 (which requires notice of plan changes, at least 20 working days before approval, to Kāinga Ora-Homes and Communities, in certain circumstances).
 18 Consideration of a regional coastal plan by regional council
 (1) A regional council shall adopt a proposed regional coastal plan for reference to the Minister of Conservation once it has made amendments under clause 16 or variations under clause 16A (if any).
 (2) Every adoption of a proposed regional coastal plan under this clause shall be effected by affixing the seal of the regional council to the proposed regional coastal plan.
 (3) As soon as practicable after a regional council adopts a proposed regional coastal plan it shall send the plan to the Minister of Conservation for his or her approval.
 (4) A regional council may adopt part of a proposed regional coastal plan if all submissions or inquiries relating to that part have been disposed of.
+(5) See also section 99 of the Urban Development Act 2020 (which requires notice of plan changes, at least 20 working days before adopting them, to Kāinga Ora-Homes and Communities, in certain circumstances).
 19 Ministerial approval of regional coastal plan
 (1) Prior to his or her approval of a regional coastal plan, the Minister of Conservation may require the regional council to make any amendments to the plan specified by that Minister.
 (2) The Minister of Conservation may not require a regional council to make an amendment to a regional coastal plan that is in conflict or inconsistent with any direction of the Environment Court, unless the Minister made a submission on the provision concerned when the provision was referred to the court.
@@ -1095,6 +1097,7 @@ Process for approval of proposed planning instrument
 (ii) this Act or regulations made under it; and
 (g) any other information and documentation that is specified in the direction.
 (2) However, the territorial authority must consult the relevant requiring authority or heritage protection authority on the recommendations before it submits to the Minister information required by subclause (1)(a) that relates to a requirement, designation, or heritage order.
+(2A) See also section 99 of the Urban Development Act 2020 (which requires notice of plan changes, at least 20 working days before submitting, to Kāinga Ora-Homes and Communities, in certain circumstances).
 (3) The local authority may provide any further information in addition to the requirements of subclause (1).
 84 Responsible Minister to consider proposed planning instrument
 (1) The responsible Minister may—
