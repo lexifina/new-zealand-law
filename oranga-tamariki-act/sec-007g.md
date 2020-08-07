@@ -1,2 +1,2 @@
-# 7G Immunity for delegates outside Public Service
-Section 86 of the State Sector Act 1988 applies to a person outside the Public Service acting under a delegation referred to in section 7B or 7C as if the person were a Public Service employee.
+# 7G Immunity for delegations outside public service
+Section 104 of the Public Service Act 2020 applies to a person outside the public service acting under a delegation referred to in section 7B or 7C as if the person were a public service employee.

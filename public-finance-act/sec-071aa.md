@@ -1,5 +1,5 @@
 # 71AA Delegation of Secretary's powers
-(1) The Secretary may delegate to the chief executive of a department (whether or not the department is listed in Schedule 1 of the State Sector Act 1988) any power—
+(1) The Secretary may delegate to the chief executive of a department (whether or not the department is listed in Part 1 of Schedule 2 of the Public Service Act 2020) any power—
 (a) conferred on the Secretary by this Act; or
 (b) conferred on the Minister by this Act and delegated to the Secretary by the Minister.
 (2) Without limiting subsection (1), the Secretary may delegate to the persons referred to in subsection (3) any power conferred on the Secretary by Part 6.
@@ -7,5 +7,5 @@
 (a) the Reserve Bank of New Zealand; or
 (b) the Governor of the Reserve Bank of New Zealand; or
 (c) the Deputy Governor of the Reserve Bank of New Zealand.
-(4) The Secretary's power to delegate under this section is in addition to the Secretary's powers under section 41(1) of the State Sector Act 1988.
-(5) Section 41(2) to (7) of the State Sector Act 1988 applies in relation to a delegation under this section as if it were a delegation made under section 41(1) of that Act.
+(4) The Secretary's power to delegate under this section is in addition to the Secretary's powers under clause 2(1) of Schedule 6 of the Public Service Act 2020.
+(5) Clauses 2(3) to (15) and 3 of Schedule 6 of the Public Service Act 2020 apply to a delegation under this section as if it were a delegation made under clause 2(1) of Schedule 6 of that Act.
