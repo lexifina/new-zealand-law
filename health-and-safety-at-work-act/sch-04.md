@@ -20,7 +20,7 @@ specified agency means—
 (a) the New Zealand Defence Force:
 (b) the New Zealand Police:
 (c) [Repealed]
-(d) a government department named in Schedule 1 of the State Sector Act 1988.
+(d) a public service agency as defined in section 5 of the Public Service Act 2020.
 3 Meaning of classified security information
 (1) In this schedule, classified security information means information—
 (a) that is relevant to proceedings that relate to the administration or enforcement of this Act; and

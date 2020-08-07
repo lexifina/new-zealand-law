@@ -1,7 +1,7 @@
 # 18A Requests involving substantial collation or research
-(1) In deciding whether to refuse a request under section 18(f), the department, Minister of the Crown, or organisation must consider whether doing either or both of the following would enable the request to be granted:
+(1) In deciding whether to refuse a request under section 18(f), the department or interdepartmental venture, Minister of the Crown, or organisation must consider whether doing either or both of the following would enable the request to be granted:
 (a) fixing a charge under section 15:
 (b) extending the time limit under section 15A.
-(2) For the purposes of refusing a request under section 18(f), the department, Minister of the Crown, or organisation may treat as a single request 2 or more requests from the same person—
+(2) For the purposes of refusing a request under section 18(f), the department or venture, Minister of the Crown, or organisation may treat as a single request 2 or more requests from the same person—
 (a) that are about the same subject matter or about similar subject matters; and
 (b) that are received simultaneously or in short succession.

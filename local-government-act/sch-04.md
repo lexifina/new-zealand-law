@@ -88,7 +88,7 @@ The Commission must appoint the times and places for all its ordinary meetings.
 (3) The notice must be either given to a member or sent to the member's last known address in New Zealand.
 (4) Only the business stated in the notice may be transacted at the meeting.
 16 Specialist advice
-(1) The Commission may invite any officer of the Public Service or any other person or a representative of any body who or that, in the opinion of the Commission, has specialist knowledge that is likely to be of assistance to the Commission to attend any meeting or discussion held by the Commission and to take part in the proceedings.
+(1) The Commission may invite any officer of the public service or any other person or a representative of any body who or that, in the opinion of the Commission, has specialist knowledge that is likely to be of assistance to the Commission to attend any meeting or discussion held by the Commission and to take part in the proceedings.
 (2) The Commission may engage any consultants that it thinks necessary or desirable to assist it to carry out its functions.
 (3) The Commission may pay to a person engaged under subclause (2), for services rendered by the person, the fees or commissions or both that it thinks fit, and may reimburse the person for expenses reasonably incurred in rendering services for the Commission.
 Compare: 1974 No 66 Schedule 3A cls 5, 6
@@ -152,8 +152,8 @@ A delegation—
 (c) does not prevent the Commission from performing a function or exercising a delegated power.
 Miscellaneous provisions
 29 Chief Executive Officer
-(1) There may from time to time be appointed under the State Sector Act 1988 a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
-(2) A person may hold office under this clause in conjunction with any other office in the Public Service.
+(1) There may from time to time be appointed under the Public Service Act 2020 a Chief Executive Officer of the Commission to enable the Commission to carry out and exercise its functions, responsibilities, duties, and powers.
+(2) A person may hold office under this clause in conjunction with any other office in the public service.
 Compare: 1974 No 66 Schedule 3A cl 7
 30 Liability of members
 (1) A member is not personally liable, in an action taken against him or her by the Commission, for any liability of the Commission, or for any act done or omitted to be done by the Commission or by any person acting under a delegation of the Commission's functions and powers, if the member acted in good faith in pursuance or intended pursuance of the functions or powers of the Commission.
