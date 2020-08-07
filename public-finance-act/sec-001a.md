@@ -6,7 +6,7 @@
 (ii) the Government's management of its assets and liabilities; and
 (b) establishes lines of responsibility for effective and efficient management of public financial resources; and
 (c) specifies the principles for responsible fiscal management in the conduct of fiscal policy and requires regular reporting on the extent to which the Government's fiscal policy is consistent with those principles; and
-(d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments, departmental agencies, Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies; and
+(d) specifies the minimum financial and non-financial reporting obligations of Ministers, departments (including departmental agencies, interdepartmental executive boards, and interdepartmental ventures), Offices of Parliament, Schedule 4 organisations, and Schedule 4A companies; and
 (e) provides for the application of financial management incentives and for the accountability of Schedule 4 organisations and Schedule 4A companies; and
 (ea) places limits on the ownership of the companies named in Schedule 5; and
 (f) safeguards public assets by providing statutory authority and control for the—

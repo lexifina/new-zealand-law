@@ -10,3 +10,4 @@
 (4) In the case of an appropriation made to an Office of Parliament,—
 (a) the Speaker is responsible for the appropriation; and
 (b) the appropriation must be administered by that Office of Parliament.
+(5) The reference to department in subsection (2)(b) does not include a departmental agency that, under Part 2 of Schedule 2 of the Public Service Act 2020, is not empowered to manage assets or liabilities.

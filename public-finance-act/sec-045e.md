@@ -7,3 +7,4 @@
 (2) Section 39 (which requires information provided by a department on its strategic intentions to be presented to the House of Representatives and to be published) does not apply to an intelligence and security department.
 (3) However, subsection (2) does not affect the obligations of the responsible Minister of an intelligence and security department under section 39(3).
 (4) Section 45A(d) and (e) (which requires statements of expenses and capital expenditure to include statements relating to capital injections) does not apply to an intelligence and security department.
+(5) See also section 82A.
