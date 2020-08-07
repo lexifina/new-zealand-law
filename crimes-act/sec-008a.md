@@ -5,7 +5,7 @@
 (c) a New Zealand citizen ordinarily resident in New Zealand and who is—
 (i) a member of the family of a person described in paragraph (a) or paragraph (b); or
 (ii) a member of the staff of a New Zealand overseas post or a New Zealand overseas mission, whether or not an officer or employee of the Ministry of Foreign Affairs and Trade or a person employed under section 10 of the Foreign Affairs Act 1988; or
-(iii) an officer or employee of the State services (as defined in section 2(1) of the State Sector Act 1988), or of New Zealand Trade and Enterprise (as established by the New Zealand Trade and Enterprise Act 2003), who is serving in a New Zealand overseas post or a New Zealand overseas mission.
+(iii) an officer or employee of the State services (as defined in section 5 of the Public Service Act 2020), or of New Zealand Trade and Enterprise (as established by the New Zealand Trade and Enterprise Act 2003), who is serving in a New Zealand overseas post or a New Zealand overseas mission.
 (2) Where—
 (a) any person to whom this section applies does, or omits to do, any act outside New Zealand (whether or not the act or omission concerned constitutes an offence under the laws in force in the place where it took place) that, if done or omitted within New Zealand would constitute an offence punishable by imprisonment for 1 year or more; and
 (b) that person has immunity from criminal jurisdiction in the place where that act or omission took place; and
