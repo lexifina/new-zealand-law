@@ -107,3 +107,42 @@ registered community housing provider has the same meaning as in section 2(1) of
 Section 56A(1) (as inserted by section 12 of the 2019 Amendment Act) applies to a tenant of a tenancy of premises that are unlawful residential premises immediately after the commencement of section 56A(1) as if the tenancy had started on commencement of that section.
 22 Application of section 78A to certain work orders
 Section 78A (as inserted by section 19 of the 2019 Amendment Act) does not apply to subsequent proceedings taken for enforcement of a work order made in a matter for which proceedings commenced before the Tribunal before the date on which that section comes into force.
+Part 5 Provisions relating to Residential Tenancies Amendment Act 2020
+23 Interpretation
+In this Part,—
+2020 Act means the Residential Tenancies Amendment Act 2020
+amendment means an amendment to this Act made by a provision of the 2020 Act
+commencement date, in relation to an amendment, means the date on which the provision of the 2020 Act that makes the amendment comes into force.
+24 Existing tenancies, etc
+(1) An amendment applies to a tenancy whether the tenancy commences before, on, or after the commencement date.
+(2) This clause is subject to clauses 25 to 37.
+25 New unlawful acts and pecuniary penalties
+An amendment that creates a new unlawful act or confers a power to impose pecuniary penalties does not apply to acts or omissions before the commencement date.
+26 Proceedings that have commenced
+An amendment does not apply to proceedings commenced before the Tribunal before the commencement date.
+27 Notices to terminate, renew, or extend tenancies
+(1) An amendment made by any of sections 4(3), 32 to 34, and 36 of the 2020 Act does not apply to the termination of a tenancy by notice if the notice is given before the commencement date.
+(2) The amendments made by section 42 of the 2020 Act do not apply to the exercise of a right to renew or extend a tenancy unless the date on which the tenancy would otherwise expire is 28 or more days after the commencement date.
+28 Notice to increase rent
+(1) An amendment made by section 19 or 78 of the 2020 Act does not apply to an increase of rent by notice given under section 24 of this Act if the notice is given before the commencement date for those amendments and relates to an increase with effect on or after 26 September 2020.
+(2) See clauses 2 and 11 to 13 of Schedule 5.
+29 Assignment by tenant
+Section 43A of this Act (as inserted by section 24 of the 2020 Act) does not apply to a tenancy granted before the commencement date.
+30 Documents to be retained and produced by landlord
+(1) The amendment made by section 27 of the 2020 Act applies to any information retained by the landlord on or after the commencement date, whether the information came into the landlord's possession or control before, on, or after that date.
+(2) Any new requirement imposed on a landlord by an amendment made by section 65 of the 2020 Act applies to any documents (or copies of them) in the landlord's possession or control on or after the commencement date, whether the documents (or copies) were created before, on, or after that date.
+31 Termination for physical assault by tenant
+The amendment made by section 37 of the 2020 Act does not apply in relation to a physical assault that occurred before the commencement date.
+32 Rent arrears and anti-social behaviour
+(1) The amendment made by section 36 of the 2020 Act does not apply to rent arrears incurred before the commencement date.
+(2) Section 55A of this Act (as inserted by section 38 of the 2020 Act) does not apply to anti-social behaviour engaged in before the commencement date.
+33 Withdrawal following family violence
+The amendment made by section 39 of the 2020 Act applies whether the family violence occurred before, on, or after the commencement date.
+34 Continuation of existing fixed-term tenancies as periodic
+The amendment made by section 41 of the 2020 Act does not apply to tenancies granted before the commencement date.
+35 Abandonment of premises
+The amendment made by section 43 of the 2020 Act does not apply to the abandonment of premises if the date determined by the Tribunal under section 61(2) of this Act in relation to the abandonment is before the commencement date.
+36 Enforceable undertakings
+Sections 126N to 126R of this Act (as inserted by section 70 of the 2020 Act) relate to any enforceable undertaking given on or after the commencement date, whether the contravention or alleged contravention to which the undertaking relates occurred or is alleged to have occurred on, before, or after that date.
+37 Only 1 penalty type for same conduct
+The amendment made by section 73 of the 2020 Act applies to conduct whether the conduct is engaged in before, on, or after the commencement date.

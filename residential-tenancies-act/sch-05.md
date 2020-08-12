@@ -96,7 +96,15 @@ Clauses 12 and 13 apply for a period of 6 months starting on the commencement da
 (2) The maximum amount that a person may be ordered to pay under section 109 for the unlawful act is $6,500.
 Tribunal proceedings
 14 Application of clause 15
-Clause 15 applies for a period of 6 months starting on the commencement date.
+(1) Clause 15(1) and (2) applies for a period of 12 months starting on the commencement date (the 12-month period).
+(2) Clause 15(3) to (6) applies for the part (if any) of the 12-month period during which section 56B (as inserted by section 39 of the Residential Tenancies Amendment Act 2020) is in force.
 15 Tribunal proceedings
 (1) The Tribunal may conduct its proceedings (whether they relate to this schedule or otherwise) as it sees fit, including on the papers.
 (2) If the Tribunal decides to hold a hearing, it may hold the hearing in any manner that the Tribunal thinks fit (including by telephone or video conference).
+(3) In relation to any proceedings that relate to withdrawal from a tenancy under section 56B, subclauses (1) and (2) are subject to subclauses (4) to (6).
+(4) If the Tribunal decides to hold a hearing, it must order that the whole of the hearing be held in private.
+(5) The Tribunal must, on the application of any party to the proceedings, permit the party's evidence to be given remotely if the necessary facilities are available.
+(6) If evidence is to be given remotely under subclause (5), the Tenancy Adjudicator conducting the hearing or a Registrar of the Tribunal may determine which 1 or more of the following are to be used:
+(a) telephone:
+(b) audiovisual link:
+(c) any other remote access facility that the Tenancy Adjudicator or Registrar considers appropriate.
