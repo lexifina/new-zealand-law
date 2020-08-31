@@ -1,5 +1,10 @@
 # Schedule 1 Building work for which building consent not required
 s 12
+1AA Interpretation
+In this schedule, unless the context otherwise requires,—
+Acceptable Solution B1/AS1 means Acceptable Solution B1/AS1 as set out in the Acceptable Solution for New Zealand Building Code Clause B1 Structure, issued by the chief executive under section 22 and available on the Ministry's Internet site, as in force on 28 November 2019
+rural zone, in relation to building work, means any zone or area (other than a rural residential area) that, in the district plan of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning
+Verification Method B1/VM1 means Verification Method B1/VM1 as set out in the Verification Method for New Zealand Building Code Clause B1 Structure, issued by the chief executive under section 22 and available on the Ministry's Internet site, as in force on 28 November 2019.
 Part 1 Exempted building work
 General
 1 General repair, maintenance, and replacement
@@ -23,6 +28,25 @@ Any building work in respect of which the territorial authority or regional auth
 (c) does not contain sanitary facilities or facilities for the storage of potable water; and
 (d) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities.
 (2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+3A Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area and constructed of lightweight material
+(1) Building work in connection with any detached building that—
+(a) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
+(b) exceeds 10 square metres in floor area, but does not exceed 30 square metres; and
+(c) is built using lightweight wall and roof materials, and in accordance with Acceptable Solution B1/AS1 for timber or steel buildings; and
+(d) does not contain sanitary facilities or facilities for the storage of potable water; and
+(e) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
+(f) if it includes sleeping accommodation, has smoke alarms installed.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+3B Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area if work carried out or supervised by licensed building practitioner
+(1) Building work in connection with any detached building if—
+(a) any design or construction work is carried out or supervised by a licensed building practitioner; and
+(b) the building—
+(i) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
+(ii) exceeds 10 square metres in floor area, but does not exceed 30 square metres; and
+(iii) does not contain sanitary facilities or facilities for the storage of potable water; and
+(iv) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
+(v) if it includes sleeping accommodation, has smoke alarms installed.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
 4 Unoccupied detached buildings
 (1) Building work in connection with any detached building that—
 (a) houses fixed plant or machinery and under normal circumstances is entered only on intermittent occasions for the routine inspection and maintenance of that plant or machinery; or
@@ -31,6 +55,19 @@ Any building work in respect of which the territorial authority or regional auth
 (i) in relation to another building; and
 (ii) for which a building consent is required.
 (2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+4A Single-storey pole sheds and hay barns in rural zones
+(1) Building work in connection with a pole shed or hay barn in a rural zone if—
+(a) any design or construction work is carried out or supervised by a licensed building practitioner; and
+(b) the building—
+(i) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 4 metres above the floor level); and
+(ii) does not exceed 110 square metres in floor area; and
+(iii) is not accessible by the public; and
+(iv) is not used to store hazardous substances within the meaning of that term in regulation 4 of the Health and Safety at Work (Hazardous Substances) Regulations 2017; and
+(c) the maximum unsupported roof span in any direction does not exceed 6 metres; and
+(d) either—
+(i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
+(ii) the building is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
+(2) However, subclause (1) does not include any building work in connection with a building that is closer than the measure of its own height to any residential building, public road, railway, or legal boundary.
 5 Tents, marquees, and similar lightweight structures
 Building work in connection with any tent or marquee, or any similar lightweight structure (for example, a stall, booth, or compartment used at fairs, exhibitions, or markets) that—
 (a) does not exceed 100 square metres in floor area; and
@@ -82,22 +119,44 @@ Building work in connection with the installation in an existing building's subf
 (b) does not modify or affect any specified system.
 15 Closing in existing veranda or patio
 Building work in connection with the closing in of an existing veranda, patio, or the like so as to provide an enclosed porch, conservatory, or the like with a floor area not exceeding 5 square metres.
-16 Awnings
+16 Awnings not exceeding 20 square metres in size
 Building work in connection with an awning that—
 (a) is on or attached to an existing building; and
 (b) is on the ground or first-storey level of the building; and
 (c) does not exceed 20 square metres in size; and
 (d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
-17 Porches and verandas
+16A Awnings exceeding 20, but not exceeding 30, square metres in size
+Building work in connection with an awning if—
+(a) any design or construction work is carried out or supervised by a licensed building practitioner; and
+(b) the awning—
+(i) is on or attached to an existing building; and
+(ii) is on the ground level of the building; and
+(iii) exceeds 20 square metres in size, but does not exceed 30 square metres; and
+(iv) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
+17 Porches and verandas not exceeding 20 square metres in floor area
 Building work in connection with a porch or a veranda that—
 (a) is on or attached to an existing building; and
 (b) is on the ground or first-storey level of the building; and
 (c) does not exceed 20 square metres in floor area; and
 (d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
-18 Carports
+17A Porches and verandas exceeding 20, but not exceeding 30, square metres in floor area
+Building work in connection with a porch or a veranda if—
+(a) any design or construction work is carried out or supervised by a licensed building practitioner; and
+(b) the porch or veranda—
+(i) is on or attached to an existing building; and
+(ii) is on the ground level of the building; and
+(iii) exceeds 20 square metres in floor area, but does not exceed 30 square metres; and
+(iv) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
+18 Carports not exceeding 20 square metres in floor area
 Building work in connection with a carport that—
 (a) is on the ground level; and
 (b) does not exceed 20 square metres in floor area.
+18A Carports exceeding 20, but not exceeding 40, square metres in floor area
+Building work in connection with a carport if—
+(a) any design or construction work is carried out or supervised by a licensed building practitioner; and
+(b) the carport—
+(i) is on the ground level; and
+(ii) exceeds 20 square metres in floor area, but does not exceed 40 square metres.
 19 Shade sails
 Building work in connection with a shade sail made of fabric or other similar lightweight material, and associated structural support, that—
 (a) does not exceed 50 square metres in size; and
@@ -124,6 +183,13 @@ Building work in connection with a tank or pool and any structure in support of 
 (e) does not exceed 8 000 litres capacity and is supported not more than 0.5 metres above the supporting ground; or
 (f) does not exceed 16 000 litres capacity and is supported not more than 0.25 metres above the supporting ground; or
 (g) does not exceed 35 000 litres capacity and is supported directly by ground.
+23A Flexible water storage bladders
+Building work in connection with a flexible water storage bladder that—
+(a) is on the ground; and
+(b) has an overall height of no more than 2 metres; and
+(c) does not exceed 200,000 litres in capacity; and
+(d) is at least 100 metres from any residential building or legal boundary; and
+(e) is used exclusively for irrigation or firefighting purposes.
 24 Decks, platforms, bridges, boardwalks, etc
 Building work in connection with a deck, platform, bridge, boardwalk, or the like from which it is not possible to fall more than 1.5 metres even if it collapses.
 25 Signs
@@ -138,6 +204,32 @@ Building work in connection with a temporary storage stack of goods or materials
 Building work in connection with playground equipment if—
 (a) the equipment is for use by a single private household; and
 (b) no part of the equipment exceeds 3 metres in height above the supporting ground level.
+28A Permanent outdoor fireplaces and ovens
+Building work in connection with a permanent outdoor fireplace or oven that—
+(a) is on the ground; and
+(b) is not covered by a roof or wall; and
+(c) has an overall height of no more than 2.5 metres, and a cooking surface of no more than 1 square metre; and
+(d) is at least 1 metre from any legal boundary or building; and
+(e) disposes of smoke in a way that does not create a nuisance to people or a hazard to any property.
+28B Structures supporting water pipes
+Building work in connection with a pipe-supporting structure that—
+(a) is on the ground; and
+(b) has an overall height, excluding the pipe, of no more than 1 metre; and
+(c) is at least 5 metres from any residential building, public road, railway, or legal boundary; and
+(d) is on private land with no public access to the structure; and
+(e) supports a single pipe that—
+(i) has a maximum diameter of 300 millimetres; and
+(ii) transports only water.
+28C Ground-mounted solar panel arrays
+Building work in connection with a ground-mounted solar panel array if—
+(a) the array, if outside a rural zone, does not exceed 20 square metres in size; and
+(b) the array is supported by a frame or structure that is on the ground; and
+(c) the frame or structure is attached to the ground by more than a single post; and
+(d) the distance from the top of the array to the ground does not exceed 4 metres; and
+(e) the array is at least 5 metres from any residential building, public road, railway, or legal boundary; and
+(f) either—
+(i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
+(ii) the array is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
 Network utility operators or other similar organisations
 29 Certain structures owned or controlled by network utility operators or other similar organisations
 Building work in connection with a motorway sign, stopbank, culvert for carrying water under or in association with a road, or other similar structure that is—
@@ -193,5 +285,61 @@ Building work in connection with any plinth or similar foundation if the plinth 
 (2) In subclause (1), rural zone means any zone or area (other than a rural residential area) that, in the district plan of the territorial authority in whose district the building work is to be undertaken, is described as a rural zone, rural resource area, or rural environment, or by words of similar meaning.
 42 Certain public playground equipment
 Building work in connection with playground equipment if the work is for a government department, Crown entity, licensed early childhood centre, territorial or regional authority, or other similar public organisation.
-43 Removal of sign, plinth, retaining wall, or public playground equipment
-The removal of any of the structures referred to in clauses 39 to 42, whether or not the design of the structure has been carried out or reviewed by a chartered professional engineer.
+43 Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area (where kitset or prefabricated)
+(1) Building work in connection with any detached building if—
+(a) the building is a kitset or prefabricated building, and the product manufacturer or supplier has complied with subclause (3); and
+(b) the building work is carried out in accordance with the design referred to in subclause (3); and
+(c) the building—
+(i) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
+(ii) exceeds 10 square metres in floor area, but does not exceed 30 square metres; and
+(iii) does not contain sanitary facilities or facilities for the storage of potable water; and
+(iv) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
+(v) if it includes sleeping accommodation, has smoke alarms installed.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+(3) The product manufacturer or supplier (as defined in section 14G) must have had the design of the building carried out or reviewed by a chartered professional engineer.
+44 Carports exceeding 20, but not exceeding 40, square metres in floor area
+Building work in connection with a carport that—
+(a) is on the ground level; and
+(b) exceeds 20 square metres in floor area, but does not exceed 40 square metres.
+45 Awnings exceeding 20, but not exceeding 30, square metres in size
+Building work in connection with an awning that—
+(a) is on or attached to an existing building; and
+(b) in on the ground level of the building; and
+(c) exceeds 20 square metres in size, but does not exceed 30 square metres; and
+(d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
+46 Porches and verandas exceeding 20, but not exceeding 30, square metres in floor area
+Building work in connection with a porch or a veranda that—
+(a) is on or attached to an existing building; and
+(b) is on the ground level of the building; and
+(c) exceeds 20 square metres in floor area, but does not exceed 30 square metres; and
+(d) does not overhang any area accessible by the public, including private areas with limited public access, for example, restaurants and bars.
+47 Short-span bridges on private land
+(1) Building work in connection with a bridge that—
+(a) has a span of less than 6 metres; and
+(b) does not span a road, a railway, or any other area with public access; and
+(c) is not used by the general public; and
+(d) has a safety barrier.
+(2) However, subclause (1) does not apply to a bridge from which it is possible to fall further than 3 metres even if it collapses.
+48 Ground-mounted solar panel arrays exceeding 20, but not exceeding 40, square metres in size (outside rural zones)
+Building work in connection with a ground-mounted solar panel array outside a rural zone if—
+(a) the array is supported by a frame or structure that is on the ground; and
+(b) the frame or structure is attached to the ground by more than a single post; and
+(c) the distance from the top of the array to the ground does not exceed 4 metres; and
+(d) the array exceeds 20 square metres in size, but does not exceed 40 square metres; and
+(e) the array is at least 5 metres from any residential building, public road, railway, or legal boundary; and
+(f) either—
+(i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
+(ii) the array is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
+49 Single-storey pole sheds and hay barns
+(1) Building work in connection with a pole shed or hay barn in a rural zone if—
+(a) the building is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 4 metres above the floor level); and
+(b) the building does not exceed 110 square metres in floor area; and
+(c) the maximum unsupported roof span in any direction does not exceed 6 metres; and
+(d) the building is not accessible by the public; and
+(e) the building is not used to store hazardous substances within the meaning of that term in regulation 4 of the Health and Safety at Work (Hazardous Substances) Regulations 2017; and
+(f) either—
+(i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
+(ii) the building is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
+(2) However, subclause (1) does not include any building work in connection with a building that is closer than the measure of its own height to any residential building, public road, railway, or legal boundary.
+50 Removal of structures
+The removal of any of the structures referred to in clauses 39 to 49, whether or not the design of the structure has been carried out or reviewed by a chartered professional engineer.
