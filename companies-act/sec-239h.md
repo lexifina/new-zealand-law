@@ -8,5 +8,6 @@
 (2) If the company is already in administration, an administrator may be appointed only by—
 (a) the court; or
 (b) the creditors, as a replacement administrator for an administrator that the creditors have removed; or
-(c) the appointor of the first administrator, if that administrator has died, resigned, or become disqualified.
+(c) the appointor of the first administrator, if that administrator has died, resigned, or become disqualified from appointment under section 239F(2).
+(3) The appointment of a replacement administrator by a company must be made by a resolution of the board of the company.
 Compare: Corporations Act 2001 s 436D (Aust)

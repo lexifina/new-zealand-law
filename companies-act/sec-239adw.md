@@ -7,4 +7,5 @@
 (ii) each person who holds 2 or more charges in the property of the company if the property of the company subject to those charges together is the whole, or substantially the whole, of the company's property; and
 (d) in the notice referred to in paragraph (c), set out the rights of the creditor to enforce the charge under section 239ABL.
 (2) The administrator need not give notice under subsection (1) to the person who appointed him or her.
+(3) A notice of appointment must identify who made the appointment and, if the administrator was appointed by the court, who applied to the court for the appointment.
 Compare: Corporations Act 2001 s 450A(1), (3), (4) (Aust)

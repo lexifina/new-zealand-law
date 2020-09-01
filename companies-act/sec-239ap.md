@@ -1,4 +1,6 @@
-# 239AP Administrator must table interests statement
-(1) The administrator must table at the first creditors' meeting an interests statement that complies with subsection (2).
-(2) The interests statement must disclose whether the administrator, or a firm of which the administrator is a partner, has a relationship (whether professional, business, or personal) with the company in administration, or any of its officers, shareholders, or creditors.
-(3) The administrator must, before tabling the interests statement, make the inquiries that are reasonably necessary for ensuring that the interests statement is complete.
+# 239AP Administrator must table documents at first creditors' meeting
+(1) The administrator must table at the first creditors' meeting—
+(a) the written consent and certificate required under section 239G; and
+(b) an interests statement that complies with section 239APA; and
+(c) a notice stating that administrators are required to be licensed, and that more information about the regulation of insolvency practitioners is available from the Registrar.
+(2) A person who fails to comply with subsection (1)(a), (b), or (c) commits an offence and is liable on conviction to the penalty set out in section 373(2).

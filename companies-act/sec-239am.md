@@ -1,19 +1,18 @@
-# 239AM Power of court where outcome of voting at creditors' meeting determined by related entity
-(1) This section applies if the court is satisfied that—
-(a) a resolution at a creditors' meeting under this Part was passed, defeated, or required to be decided by a casting vote; and
-(b) the resolution would not have been passed, defeated, or required to be decided by a casting vote if the vote or votes cast by a particular related creditor or particular related creditors were disregarded; and
-(c) the passing of the resolution, or the failure to pass it,—
-(i) is contrary to the interests of the creditors, or a class of creditors, as a whole; and
-(ii) has prejudiced, or is reasonably likely to prejudice, the interest of the creditors who voted against the resolution, or for it, as the case may be, to an extent that is unreasonable having regard to—
-(A) the benefits accruing to the related creditor, or to some or all of the related creditors, from the resolution, or from the failure to pass the resolution; and
-(B) the nature of the relationship between the related creditor and the company, or between the related creditors and the company; and
-(C) any other related matter.
-(2) The court may, on the application of a creditor or the administrator,—
-(a) order that the resolution be set aside:
-(b) order that a new meeting be held to consider and vote on the resolution:
-(c) order that a specified related creditor or creditors must not vote on the resolution or on a resolution to vary or amend it:
-(d) make any other orders that the court thinks necessary.
-(3) In this section,—
+# 239AM Related creditor's vote disregarded unless court orders otherwise
+(1) The administrator must disregard a related creditor's vote on a resolution at the creditors' meeting unless the court orders otherwise.
+(2) A related creditor may apply to the court for an order that its vote be taken into account.
+(2A) A related creditor that intends to apply for an order must,—
+(a) before a vote is taken on the resolution, give notice in writing to the administrator that the creditor—
+(i) is a related creditor; and
+(ii) intends to apply to the court for an order that its vote be taken into account; and
+(b) within 10 working days of the creditors' meeting, make an application to the court.
+(2B) The court may order that a related creditor's vote be taken into account only if satisfied that ordering that the applicant's vote (or the applicants' votes) be taken into account—
+(a) is not contrary to the interests of the creditors, or a class of creditors, as a whole; and
+(b) will not prejudice, and is not reasonably likely to prejudice, the interests of the creditors who voted against the resolution or for it, as the case may be, to an extent that is unreasonable having regard to—
+(i) the benefits accruing to the applicant (or the applicants), or to some or all of the related creditors, from the resolution or from the failure to pass the resolution; and
+(ii) the nature of the relationship between the applicant (or the applicants) and the company, or between the related creditors and the company; and
+(iii) any other relevant matter.
+(3) In this section and sections 239AMA to 239AMC,—
 related creditor means a creditor who is a related entity of the company in administration
 related entity means, in relation to the company in administration,—
 (a) a promoter; or

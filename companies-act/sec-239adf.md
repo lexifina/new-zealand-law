@@ -4,7 +4,7 @@
 (b) must convene a meeting if requested to do so in writing by creditors whose claims against the company are not less than 10% in value of the total value of all creditors' claims.
 (2) The deed administrator must convene the meeting by—
 (a) giving written notice to as many of the company's creditors as reasonably practicable; and
-(b) advertising the meeting in accordance with section 3(1)(b).
+(b) advertising the meeting in accordance with section 3(1)(a).
 (3) The administrator must take the steps in subsection (2) not less than 5 working days before the meeting.
 (4) The notice given to the creditors must set out any resolution for varying or terminating the deed that is to be considered by the meeting.
 (5) The deed administrator must preside at the meeting.

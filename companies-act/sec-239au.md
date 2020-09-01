@@ -1,9 +1,10 @@
 # 239AU Notice of watershed meeting
 (1) The administrator must convene the watershed meeting by—
 (a) giving written notice of the meeting to as many of the company's creditors as reasonably practicable; and
-(b) advertising the meeting in accordance with section 3(1)(b).
+(b) advertising the meeting in accordance with section 3(1)(a).
 (2) The administrator must take the steps in subsection (1) not less than 5 working days before the meeting.
 (3) The following documents must accompany the notice of the watershed meeting that is sent to the company's creditors:
+(aa) an updated interests statement that complies with section 239APA; and
 (a) a report by the administrator about—
 (i) the company's business, property, affairs, and financial circumstances; and
 (ii) any other matter material to the creditors' decisions to be considered at the meeting; and
@@ -12,4 +13,5 @@
 (ii) whether it would be in the creditors' interests for the administration to end:
 (iii) whether it would be in the creditors' interests for the company to be placed in liquidation; and
 (c) if a deed of company arrangement is proposed, a statement setting out the details of the proposed deed.
+(4) The updated interests statement may be in the form of a statement to be read in conjunction with previous interests statements and updates.
 Compare: Corporations Act 2001 s 439A(3), (4) (Aust)
