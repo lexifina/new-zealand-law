@@ -1,18 +1,18 @@
-# Schedule 13 NZIST's charter
+# Schedule 13 Te Pūkenga—New Zealand Institute of Skills and Technology's charter
 ss 9(1)(g), 316(1)
 1
-The New Zealand Institute of Skills and Technology (NZIST) exists to perform the functions set out in section 315.
+Te Pūkenga—New Zealand Institute of Skills and Technology exists to perform the functions set out in section 315.
 2
-NZIST is to be responsive to the needs of all regions of New Zealand and their learners, industries, employers, and communities.
+Te Pūkenga—New Zealand Institute of Skills and Technology is to be responsive to the needs of all regions of New Zealand and their learners, industries, employers, and communities.
 3
-To meet the needs of regions throughout New Zealand, NZIST must—
+To meet the needs of regions throughout New Zealand, Te Pūkenga—New Zealand Institute of Skills and Technology must—
 (a) offer in each region a mix of education and training, including on-the-job, face-to-face, and distance delivery that is accessible to the learners of that region and meets the needs of its learners, industries, and communities; and
 (b) operate in a manner that ensures its regional representatives are empowered to make decisions about delivery and operations that are informed by local relationships and to make decisions that meet the needs of their communities; and
 (c) ensure that international learners are attracted to train and study in regions throughout New Zealand; and
 (d) ensure that there is collaboration across its national network; and
 (e) maintain a high-quality, coherent network of infrastructure that meets regional skills needs.
 4
-NZIST must operate in a way that allows it to—
+Te Pūkenga—New Zealand Institute of Skills and Technology must operate in a way that allows it to—
 (a) empower students and staff on academic, non-academic, and well-being matters and matters relating to the organisation's practices and services; and
 (b) develop meaningful partnerships with—
 (i) industry across the country, including Māori and Pacific employers, smaller employers, and those operating in niche sectors; and
@@ -32,7 +32,7 @@ NZIST must operate in a way that allows it to—
 (h) have culturally responsive delivery approaches, whether on campus, in the workplace, online, or otherwise; and
 (i) work collaboratively with schools, wānanga, and other tertiary education organisations (including workforce development councils) to improve the outcomes of the education system as a whole, including the transition of learners into employment.
 5
-In giving effect to clause 4, NZIST must ensure that—
+In giving effect to clause 4, Te Pūkenga—New Zealand Institute of Skills and Technology must ensure that—
 (a) students and employers can transition seamlessly between delivery sites and educational modes, including between workplaces and other forms and places of learning; and
 (b) programmes of study and qualifications are portable and consistent, yet flexible enough to meet local needs; and
 (c) the academic integrity of the education and training programmes it delivers is protected; and

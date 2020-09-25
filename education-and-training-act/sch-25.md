@@ -38,6 +38,6 @@ Compare: 1989 No 80 s 476D
 Compare: 1989 No 80 s 476E
 6 Academic freedom unaffected
 Nothing in this schedule limits the academic freedom of—
-(a) an institution other than NZIST as set out in section 267:
-(b) NZIST as set out in section 318.
+(a) an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 267:
+(b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
 Compare: 1989 No 80 s 476F

@@ -1,6 +1,6 @@
-# Schedule 15 Further provisions of Act that apply and do not apply to NZIST subsidiaries
+# Schedule 15 Further provisions of Act that apply and do not apply to Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
 ss 340(2), 341
-The following provisions of this Act apply, with all necessary modifications, to an NZIST subsidiary that provides education or training, or both:
+The following provisions of this Act apply, with all necessary modifications, to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary that provides education or training, or both:
 (a) section 299 (how institutions may use income and capital):
 (b) section 300 (gifts):
 (c) section 301 (council may establish common fund):
@@ -11,7 +11,7 @@ The following provisions of this Act apply, with all necessary modifications, to
 (h) section 569 (resumption of land on recommendations of Waitangi Tribunal):
 (i) section 570 (resumption of land to be acquired under Public Works Act 1981):
 (j) section 571 (resumption of wāhi tapu).
-The following provisions of this Act do not apply to an NZIST subsidiary that provides education or training, or both:
+The following provisions of this Act do not apply to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary that provides education or training, or both:
 (a) section 294 (duties of chief executive):
 (b) sections 295 and 296 (delegation by chief executive):
 (c) section 297 (bank accounts):

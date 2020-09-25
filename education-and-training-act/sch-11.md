@@ -25,11 +25,11 @@ Contents
 (1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1).
 (2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee's opinion, appropriate for the institution and complies with the requirements of section 276.
 (3) When the establishment committee has recommended a constitution for the council in accordance with subclause (2), the Minister must, by notice published in the Gazette, determine the constitution of the council in accordance with the recommendation.
-(4) This section does not apply to the membership of NZIST's council.
+(4) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 169
 2 Amendment of constitution
 (1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
-(2) Subclause (1) does not apply to the membership of NZIST's council (for which section 320 provides).
+(2) Subclause (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology's council (for which section 320 provides).
 Compare: 1989 No 80 s 170
 3 Limit on number of occasions on which people may be appointed as council members
 (1) A council's constitution must contain a provision limiting the number of occasions on which a person may be appointed as a council member.
@@ -38,7 +38,7 @@ Compare: 1989 No 80 s 170
 (4) For the purposes of subclause (2), appointed means—
 (a) appointed, elected, or co-opted before 13 February 2015 (otherwise than to fill a casual vacancy); or
 (b) appointed on or after that commencement.
-(5) This clause does not apply to NZIST's council.
+(5) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 171D
 4 Membership of more than 1 council
 A person who is a council member of an institution may be appointed as a council member of another institution (whether or not they are institutions of the same kind).
@@ -51,7 +51,7 @@ Compare: 1989 No 80 s 171E
 (d) a disqualification of a council member or committee; or
 (e) a vacancy in the membership of the council or committee; or
 (f) a defect in the convening of any meeting.
-(2) This clause does not apply to NZIST's council (for which section 320(3) provides).
+(2) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology's council (for which section 320(3) provides).
 Compare: 1989 No 80 s 171F
 6 Term of office
 (1) When appointing a council member, the Minister or council—
@@ -60,7 +60,7 @@ Compare: 1989 No 80 s 171F
 (i) the day on which the member's appointment takes effect; and
 (ii) the term for which the member is appointed.
 (2) If a council member's term of office expires before their successor is appointed, the member continues in office until their successor's appointment takes effect.
-(3) This clause does not apply to appointments to NZIST's council (for which section 323 provides).
+(3) This clause does not apply to appointments to Te Pūkenga—New Zealand Institute of Skills and Technology's council (for which section 323 provides).
 Compare: 1989 No 80 s 173
 7 Vacation of office
 (1) A council member may resign by giving written notice signed by the member to the chief executive.
@@ -80,7 +80,7 @@ Compare: 1989 No 80 s 173
 (b) the member is not capable of acting as a member during the period of suspension; and
 (c) the suspension continues until the property order made under section 30 of the Protection of Personal and Property Rights Act 1988 ceases to be in force (but this does not affect any powers of the council under subclause (3) in respect of the member).
 (6) The chief executive must send the council member a letter setting out the terms of the resolution dismissing or suspending the member.
-(7) This clause does not apply to a member of NZIST's council.
+(7) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 174
 8 Disclosure of interest
 (1) A council member or a council committee member who has an interest in a matter being considered or about to be considered by the council or the committee must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the council or the committee.
@@ -96,7 +96,7 @@ Compare: 1989 No 80 s 175
 (b) appoint another person using it.
 (3) If the office becomes vacant within 6 months before the end of the member's term of office, the Minister or council may decide that the vacancy does not need to be filled under this clause.
 (4) Clauses 6 and 7 apply to an appointment under this clause.
-(5) This clause does not apply to appointments to NZIST's council.
+(5) This clause does not apply to appointments to Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 176
 10 Individual duties of council members
 (1) A council member, when acting as a council member in any circumstances,—
@@ -119,7 +119,7 @@ Compare: 1989 No 80 s 176
 (3) This subclause applies to information that—
 (a) a council member has in their capacity as a council member; and
 (b) would not otherwise be available to the member.
-(4) This clause does not apply to a member of NZIST's council.
+(4) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 176A
 11 Accountability for individual duties
 (1) The individual duties of a council member under clause 10 are owed to the Minister and the council.
@@ -130,7 +130,7 @@ Compare: 1989 No 80 s 176A
 (a) anything for which a council member may be liable under any other Act or rule of law arising from the act or omission that constitutes the breach concerned; or
 (b) anything for which a council member who is the chief executive of the institution concerned may, as chief executive, be liable under this Act or any other Act or rule of law, arising from the act or omission that constitutes the breach concerned.
 (6) This clause does not affect any other ground for removing a council member from office.
-(7) This clause does not apply to a member of NZIST's council.
+(7) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 176B
 12 Removal of members
 (1) If an institution's council believes that the actions of a council member may justify the member's removal from office, it must give the Minister a written report stating—
@@ -145,7 +145,7 @@ Compare: 1989 No 80 s 176B
 (5) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice.
 (6) This clause does not limit or affect clause 7.
 (7) In this clause, just cause includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the council or the individual duties of members (depending on the seriousness of the breach).
-(8) This clause does not apply to the removal from office of a member of NZIST's council.
+(8) This clause does not apply to the removal from office of a member of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 176C
 13 Process for removal
 The Minister may remove a council member under clause 12 with as little formality and technicality, and as much expedition, as is permitted by—
@@ -175,7 +175,7 @@ Compare: 1989 No 80 s 176E
 (9) Subclause (8) overrides subclauses (5) and (6).
 (10) The chairperson of the council of a university may be referred to as the Chancellor or by any other title that the council determines, and the chairperson of the institution's council other than a university may be referred to by any title (other than Chancellor or another title that includes the word Chancellor) that the council determines.
 (11) The deputy chairperson of the council of a university may be referred to as the Pro-Chancellor or by any other title that the council determines, and the deputy chairperson of a council other than a university may be referred to by any title (other than Pro-Chancellor or another title that includes the word Chancellor) that the council determines.
-(12) This clause does not apply to the chairperson or deputy chairperson of NZIST's council (for which section 322 provides).
+(12) This clause does not apply to the chairperson or deputy chairperson of Te Pūkenga—New Zealand Institute of Skills and Technology's council (for which section 322 provides).
 Compare: 1989 No 80 s 177
 16 Meetings of councils
 (1) The chairperson of a council may convene meetings to be held at the places and times that the chairperson determines.
@@ -198,7 +198,7 @@ Compare: 1989 No 80 s 178
 (1) A council member (other than the chief executive) may be paid fees at the rates, not exceeding maximum rates fixed by the Minister in accordance with the fees framework, that the council determines.
 (2) A council member is entitled, in accordance with the fees framework, to be reimbursed, out of the funds of the entity, for actual and reasonable travelling and other expenses incurred in carrying out the member's office as a member.
 (3) In this clause, fees framework means the framework determined by the Government for the classification and remuneration of statutory and other bodies in which the Crown has an interest, including statutory entities and their subsidiaries and institutions.
-(4) This clause does not apply to a member of NZIST's council.
+(4) This clause does not apply to a member of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 179
 18 Determination of policy
 (1) In determining the policy of an institution with respect to any matter relating to the institution, the institution's council must consult any board, committee, or other body established within the institution that has responsibility for giving advice in relation to, or for giving effect to, the policy of the institution with respect to that matter.
@@ -208,7 +208,7 @@ Compare: 1989 No 80 s 179
 (3) The academic committee is, for the purposes of section 285, to be treated as a committee appointed by the council under section 283(2)(j).
 (4) Without limiting subclause (1), the institution's council may not make any decision or statute in respect of any academic matter referred to in subclause (2) unless it has requested the advice of the academic committee and considered any advice given by the academic committee.
 (5) However, a decision or statute made by the institution's council is not invalid merely because of a failure of the council to comply with subclause (1) or (4).
-(6) This clause does not apply to NZIST (for which section 324 provides).
+(6) This clause does not apply to Te Pūkenga—New Zealand Institute of Skills and Technology (for which section 324 provides).
 Compare: 1989 No 80 s 182
 19 Personal liability of council members
 A council member is not personally liable for any act done or omitted by the council member or by the council—
@@ -216,5 +216,5 @@ A council member is not personally liable for any act done or omitted by the cou
 (b) in performance or intended performance of the functions of the institution or of the council.
 Compare: 1989 No 80 s 183
 20 Trust property
-Despite anything to the contrary in this Act or any other enactment relating to the institution (including NZIST and its subsidiaries), any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
+Despite anything to the contrary in this Act or any other enactment relating to the institution (including Te Pūkenga—New Zealand Institute of Skills and Technology and its subsidiaries), any real or personal property held by the institution upon trust must be dealt with in accordance with the powers and duties of the institution as trustee.
 Compare: 1989 No 80 s 195

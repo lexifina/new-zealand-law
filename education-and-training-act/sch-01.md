@@ -22,24 +22,24 @@ Subpart 4—General provisions for Part 4 (tertiary education and vocational edu
 Tertiary education strategy
 13 Tertiary education strategy
 Institutions
-14 Institutions (other than NZIST or NZIST subsidiary)
+14 Institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary)
 Ministerial directions
 15 Ministerial direction relating to compulsory student services fees
 16 Ministerial direction relating to programmes
 Staff
 17 Transitional provisions for employment of staff
-Subpart 5—Specific provisions for Part 4 (NZIST and work-based training)
+Subpart 5—Specific provisions for Part 4 (Te Pūkenga—New Zealand Institute of Skills and Technology and work-based training)
 18 Purpose
 19 Interpretation
-Conversion of polytechnics to corresponding NZIST subsidiaries
-20 Polytechnics converted to corresponding NZIST subsidiaries
-Duration of corresponding NZIST subsidiaries
-21 Duration of corresponding NZIST subsidiaries
-22 NZIST's council may dissolve corresponding NZIST subsidiary
-Consequences of conversion of polytechnics to corresponding NZIST subsidiaries
-23 Directors of corresponding NZIST subsidiary
-24 Application of this Act to corresponding NZIST subsidiary
-25 Corresponding NZIST subsidiary is tertiary education organisation, provider, and institution for purposes of this Act
+Conversion of polytechnics to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+20 Polytechnics converted to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+21 Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+22 Te Pūkenga—New Zealand Institute of Skills and Technology's council may dissolve corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+Consequences of conversion of polytechnics to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+23 Directors of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+24 Application of this Act to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+25 Corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is tertiary education organisation, provider, and institution for purposes of this Act
 26 Members of existing polytechnic council cease to hold office
 27 Rights, assets, and liabilities of existing polytechnics
 28 Same person for purposes of Inland Revenue Acts
@@ -52,11 +52,11 @@ Consequences of conversion of polytechnics to corresponding NZIST subsidiaries
 35 Other references to existing polytechnics
 36 Existing proceedings and other matters
 37 Final report of existing polytechnics
-NZIST
-38 Validation of pre-commencement actions and processes relating to ministerial appointments to NZIST's council
-39 Membership of NZIST's council reduced until all appointments made
-40 NZIST must obtain ministerial approval before forming new subsidiary
-41 NZIST subsidiary is tertiary education organisation, provider, and institution
+Te Pūkenga—New Zealand Institute of Skills and Technology
+38 Validation of pre-commencement actions and processes relating to ministerial appointments to Te Pūkenga—New Zealand Institute of Skills and Technology's council
+39 Membership of Te Pūkenga—New Zealand Institute of Skills and Technology's council reduced until all appointments made
+40 Te Pūkenga—New Zealand Institute of Skills and Technology must obtain ministerial approval before forming new subsidiary
+41 Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is tertiary education organisation, provider, and institution
 Work-based training
 42 Interpretation
 43 Application of clauses 44 to 58
@@ -74,7 +74,7 @@ Work-based training
 55 Cancellation of recognition of transitional ITO
 56 Recognition lapses at end of transition period
 57 Allocation of assets of transitional ITO
-58 Employment of transitional ITO employees by NZIST, NZIST subsidiary, wānanga, workforce development council, or other transitional ITO
+58 Employment of transitional ITO employees by Te Pūkenga—New Zealand Institute of Skills and Technology, Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO
 59 Employment of NZQA employees by workforce development council
 60 Provider must not charge fee for compulsory student services during specified period
 61 Existing training contracts
@@ -211,8 +211,8 @@ Tertiary education strategy
 (1) This clause applies to the tertiary education strategy issued by the Minister under section 159AA of the 1989 Act and in force immediately before the commencement of this clause.
 (2) The strategy continues in force as if it were issued under section 7.
 Institutions
-14 Institutions (other than NZIST or NZIST subsidiary)
-(1) This clause applies to an institution (other than NZIST or an NZIST subsidiary) in existence immediately before the commencement of this clause.
+14 Institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary)
+(1) This clause applies to an institution (other than Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary) in existence immediately before the commencement of this clause.
 (2) The institution must be treated as having been established under section 268.
 (3) A reference in any other Act to an institution established under this Act must be read as including a reference to a body specified in the definition of institution in section 10(1).
 Compare: 1989 No 80 s 162(1)
@@ -229,25 +229,25 @@ Staff
 (2) The terms and conditions of employment of a person to whom subclause (1) applies must remain in force until varied either individually or through a collective agreement.
 (3) This clause applies subject to the Employment Relations Act 2000 and the Public Service Act 2020.
 Compare: 1989 No 80 s 198
-Subpart 5—Specific provisions for Part 4 (NZIST and work-based training)
+Subpart 5—Specific provisions for Part 4 (Te Pūkenga—New Zealand Institute of Skills and Technology and work-based training)
 18 Purpose
-(1) The purpose of this subpart is to re-enact the provisions set out in Part 10 of Schedule 1 of the 1989 Act relating to NZIST and workforce development councils that came into force on 1 April 2020 and are operative on and after that date in order to continue their legal effect.
+(1) The purpose of this subpart is to re-enact the provisions set out in Part 10 of Schedule 1 of the 1989 Act relating to Te Pūkenga—New Zealand Institute of Skills and Technology and workforce development councils that came into force on 1 April 2020 and are operative on and after that date in order to continue their legal effect.
 (2) Anything done under Part 10 of Schedule 1 of the 1989 Act before the commencement of this subpart is to be treated as having been done under this subpart.
 19 Interpretation
 In this subpart, unless the context otherwise requires,—
-corresponding NZIST subsidiary, in relation to an existing polytechnic, means the Crown entity subsidiary specified in the second column of the table in clause 20(3) opposite the name of the existing polytechnic specified in the first column of the table
+corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, in relation to an existing polytechnic, means the Crown entity subsidiary specified in the second column of the table in clause 20(3) opposite the name of the existing polytechnic specified in the first column of the table
 existing polytechnic or polytechnic means each polytechnic that is listed in the first column of the table in clause 20(3) and that was established or treated as having been established under section 268 before 1 April 2020 and in existence immediately before that date.
-Conversion of polytechnics to corresponding NZIST subsidiaries
-20 Polytechnics converted to corresponding NZIST subsidiaries
-(1) On and after 1 April 2020, an existing polytechnic is a Crown entity subsidiary of NZIST and the following provisions apply for that purpose:
+Conversion of polytechnics to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+20 Polytechnics converted to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+(1) On and after 1 April 2020, an existing polytechnic is a Crown entity subsidiary of Te Pūkenga—New Zealand Institute of Skills and Technology and the following provisions apply for that purpose:
 (a) the polytechnic is to be treated as a company registered under the Companies Act 1993 with the name specified in the second column of the table in subclause (3) opposite the name of the polytechnic specified in the first column of that table; and
 (b) the Registrar of Companies must issue a certificate of incorporation for the company; and
-(c) 100 shares must be treated as having been issued to NZIST.
-(2) The certificate of incorporation is conclusive evidence that the corresponding NZIST subsidiary was, on and after 1 April 2020, registered as a company under the Companies Act 1993.
-(3) For the purposes of subclause (1)(a), the name of the corresponding NZIST subsidiary is:
-Name of existing polytechnic Name of corresponding NZIST subsidiary
+(c) 100 shares must be treated as having been issued to Te Pūkenga—New Zealand Institute of Skills and Technology.
+(2) The certificate of incorporation is conclusive evidence that the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was, on and after 1 April 2020, registered as a company under the Companies Act 1993.
+(3) For the purposes of subclause (1)(a), the name of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is:
+Name of existing polytechnic Name of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
 Ara Institute of Canterbury Ara Institute of Canterbury Limited
-Eastern Institute of Technology (Te Aho a Māui) Eastern Institute of Technology (Te Aho a Māui) Limited
+Eastern Institute of Technology Eastern Institute of Technology Limited
 Manukau Institute of Technology Manukau Institute of Technology Limited
 Nelson Marlborough Institute of Technology Nelson Marlborough Institute of Technology Limited
 Northland Polytechnic Northland Polytechnic Limited
@@ -263,35 +263,35 @@ Wellington Institute of Technology Wellington Institute of Technology Limited
 Western Institute of Technology at Taranaki Western Institute of Technology at Taranaki Limited
 Whitireia Community Polytechnic Whitireia Community Polytechnic Limited
 Compare: 1989 No 80 Schedule 1 cl 29
-Duration of corresponding NZIST subsidiaries
-21 Duration of corresponding NZIST subsidiaries
-(1) Each corresponding NZIST subsidiary continues in existence until the close of 31 December 2022.
-(2) However, the Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period that any particular corresponding NZIST subsidiary may continue to exist to a date specified in the order.
-(3) Before making a recommendation under subclause (2), the Minister must consult NZIST on the proposed extension and take into account NZIST's views.
+Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+21 Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+(1) Each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary continues in existence until the close of 31 December 2022.
+(2) However, the Governor-General may, by Order in Council made on the recommendation of the Minister, extend the period that any particular corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary may continue to exist to a date specified in the order.
+(3) Before making a recommendation under subclause (2), the Minister must consult Te Pūkenga—New Zealand Institute of Skills and Technology on the proposed extension and take into account Te Pūkenga—New Zealand Institute of Skills and Technology's views.
 (4) The Minister must not recommend an extension under subclause (2) unless the Minister is satisfied on reasonable grounds that the extension is—
-(a) consistent with NZIST's responsibilities under the charter set out in Schedule 13; and
+(a) consistent with Te Pūkenga—New Zealand Institute of Skills and Technology's responsibilities under the charter set out in Schedule 13; and
 (b) in the interests of the tertiary education system and the nation as a whole.
 Compare: 1989 No 80 Schedule 1 cl 30
-22 NZIST's council may dissolve corresponding NZIST subsidiary
-NZIST's council may, by resolution, at any time before the date specified in clause 21(1) or by Order in Council under clause 21(2), dissolve a corresponding NZIST subsidiary and transfer some or all of the rights, assets, and liabilities of that subsidiary to NZIST or another NZIST subsidiary (whether established under clause 20(1) or formed by NZIST under section 340).
+22 Te Pūkenga—New Zealand Institute of Skills and Technology's council may dissolve corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+Te Pūkenga—New Zealand Institute of Skills and Technology's council may, by resolution, at any time before the date specified in clause 21(1) or by Order in Council under clause 21(2), dissolve a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and transfer some or all of the rights, assets, and liabilities of that subsidiary to Te Pūkenga—New Zealand Institute of Skills and Technology or another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary (whether established under clause 20(1) or formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340).
 Compare: 1989 No 80 Schedule 1 cl 31
-Consequences of conversion of polytechnics to corresponding NZIST subsidiaries
-23 Directors of corresponding NZIST subsidiary
-(1) The directors of each corresponding NZIST subsidiary must comprise at least 4, but not more than 8, directors.
-(2) In appointing directors under subclause (1), NZIST must ensure that at least half of the initial directors reside in the region in which the corresponding NZIST subsidiary mainly operates.
+Consequences of conversion of polytechnics to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiaries
+23 Directors of corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+(1) The directors of each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must comprise at least 4, but not more than 8, directors.
+(2) In appointing directors under subclause (1), Te Pūkenga—New Zealand Institute of Skills and Technology must ensure that at least half of the initial directors reside in the region in which the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary mainly operates.
 Compare: 1989 No 80 Schedule 1 cl 32
-24 Application of this Act to corresponding NZIST subsidiary
-The provisions of this Act, as far as they relate to an NZIST subsidiary that provides education or training (or both) apply, with any necessary modifications, to each corresponding NZIST subsidiary during the period that the corresponding NZIST subsidiary exists in accordance with clause 21 or 22.
+24 Application of this Act to corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
+The provisions of this Act, as far as they relate to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary that provides education or training (or both) apply, with any necessary modifications, to each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary during the period that the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary exists in accordance with clause 21 or 22.
 Compare: 1989 No 80 Schedule 1 cl 33
-25 Corresponding NZIST subsidiary is tertiary education organisation, provider, and institution for purposes of this Act
-(1) On and after 1 April 2020, each NZIST subsidiary is to be treated,—
-(a) until 31 December 2022, as a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-(b) as a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-(c) as a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
+25 Corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is tertiary education organisation, provider, and institution for purposes of this Act
+(1) On and after 1 April 2020, each Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is to be treated,—
+(a) until 31 December 2022, as a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+(b) as a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+(c) as a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
 (d) as an institution within the meaning of section 10(1), and the provisions referred to in subclause (3) apply to it accordingly as if—
-(i) those provisions included a reference to the NZIST subsidiary; and
-(ii) any reference in those provisions to the council of an institution were a reference to the board of the NZIST subsidiary.
-(2) For the purposes of subclause (1)(a), TEC may consider a proposed plan of an NZIST subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by NZIST.
+(i) those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+(ii) any reference in those provisions to the council of an institution were a reference to the board of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(2) For the purposes of subclause (1)(a), TEC may consider a proposed plan of an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by Te Pūkenga—New Zealand Institute of Skills and Technology.
 (3) For the purposes of subclause (1)(d), the provisions are—
 (a) sections 284, 309, 310, 386, 525, and 526:
 (b) subparts 1 and 2 of Part 4:
@@ -305,41 +305,41 @@ Compare: 1989 No 80 Schedule 1 cl 35
 27 Rights, assets, and liabilities of existing polytechnics
 (1) This clause applies to all rights, assets, and liabilities that an existing polytechnic had immediately before 1 April 2020.
 (2) On and after 1 April 2020,—
-(a) the rights, assets, and liabilities of the existing polytechnic vest in the existing polytechnic's corresponding NZIST subsidiary; and
-(b) unless the context otherwise requires, every reference to the existing polytechnic in any enactment (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to the polytechnic's corresponding NZIST subsidiary.
+(a) the rights, assets, and liabilities of the existing polytechnic vest in the existing polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+(b) unless the context otherwise requires, every reference to the existing polytechnic in any enactment (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (3) In this clause, assets, liabilities, and rights have the same meanings as in section 10(6).
 Compare: 1989 No 80 Schedule 1 cl 36
 28 Same person for purposes of Inland Revenue Acts
-For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a corresponding NZIST subsidiary must be treated as the same person as the existing polytechnic.
+For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must be treated as the same person as the existing polytechnic.
 Compare: 1989 No 80 Schedule 1 cl 37
 29 Employees of existing polytechnics
-(1) On and after 1 April 2020, every employee of an existing polytechnic becomes an employee of the polytechnic's corresponding NZIST subsidiary on the same terms and conditions that applied to the person immediately before they became an employee of the corresponding NZIST subsidiary.
+(1) On and after 1 April 2020, every employee of an existing polytechnic becomes an employee of the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on the same terms and conditions that applied to the person immediately before they became an employee of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of that employee,—
 (a) the employee's employment agreement of that employee is to be treated as unbroken; and
-(b) the employee's period of service with the existing polytechnic, and every other period of service of the employee that is recognised by the polytechnic as continuous service, is to be treated as a period of service with the polytechnic's corresponding NZIST subsidiary.
-(3) To avoid doubt, the employment of an employee to whom this clause applies by a polytechnic's corresponding NZIST subsidiary does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
-(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from an existing polytechnic or its corresponding NZIST subsidiary on the grounds that the person's position in the polytechnic has ceased to exist or the person has ceased to be an employee of the polytechnic as a result of the transfer to its corresponding NZIST subsidiary.
+(b) the employee's period of service with the existing polytechnic, and every other period of service of the employee that is recognised by the polytechnic as continuous service, is to be treated as a period of service with the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) To avoid doubt, the employment of an employee to whom this clause applies by a polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
+(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from an existing polytechnic or its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary on the grounds that the person's position in the polytechnic has ceased to exist or the person has ceased to be an employee of the polytechnic as a result of the transfer to its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (5) This clause overrides—
 (a) Part 6A of the Employment Relations Act 2000; and
 (b) any employment protection provision in any relevant employment agreement.
 Compare: 1989 No 80 Schedule 1 cl 38
 30 Government Superannuation Fund
-(1) This clause applies to a person who, immediately before becoming an employee of a corresponding NZIST subsidiary, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
-(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the corresponding NZIST subsidiary.
-(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the corresponding NZIST subsidiary were Government service.
+(1) This clause applies to a person who, immediately before becoming an employee of a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary were Government service.
 (4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
-(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the corresponding NZIST subsidiary is the controlling authority.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is the controlling authority.
 Compare: 1989 No 80 Schedule 1 cl 39
 31 Students of existing polytechnics
 (1) This clause applies to every student enrolled at an existing polytechnic immediately before 1 April 2020.
-(2) On and after 1 April 2020, the student must be treated as having been enrolled at the existing polytechnic's corresponding NZIST subsidiary.
-(3) A student who would, but for the conversion of the existing polytechnic into its corresponding NZIST subsidiary, have been entitled to be granted an award of the existing polytechnic is entitled to be granted a like award of the corresponding NZIST subsidiary.
+(2) On and after 1 April 2020, the student must be treated as having been enrolled at the existing polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) A student who would, but for the conversion of the existing polytechnic into its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, have been entitled to be granted an award of the existing polytechnic is entitled to be granted a like award of the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 Compare: 1989 No 80 Schedule 1 cl 40
 32 Visas granted under Immigration Act 2009
 (1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
 (a) a student, for the purposes of enrolment at an existing polytechnic; or
 (b) a staff member of an existing polytechnic.
-(2) On and after 1 April 2020, any reference to the existing polytechnic in a condition imposed on the visa must be read as a reference to the polytechnic's corresponding NZIST subsidiary.
+(2) On and after 1 April 2020, any reference to the existing polytechnic in a condition imposed on the visa must be read as a reference to the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 Compare: 1989 No 80 Schedule 1 cl 41
 33 Existing NZQA approvals, accreditations, and consents
 (1) This clause applies to the following granted to an existing polytechnic by NZQA under Part 20 of the 1989 Act before 1 April 2020 and in effect immediately before that date:
@@ -349,59 +349,59 @@ Compare: 1989 No 80 Schedule 1 cl 41
 (d) a consent to assess against the standards listed in the Directory of Assessment Standards under section 449:
 (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after 1 April 2020,—
-(a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic's corresponding NZIST subsidiary; and
-(b) unless the context otherwise requires, every reference to the existing polytechnic in the approval, accreditation, or consent must be read as a reference to the polytechnic's corresponding NZIST subsidiary.
-(3) On and after 1 January 2023, the approval of a programme under section 439 and the consent to award a degree or a postgraduate qualification under section 454 must be treated as if they were granted to NZIST.
+(a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+(b) unless the context otherwise requires, every reference to the existing polytechnic in the approval, accreditation, or consent must be read as a reference to the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) On and after 1 January 2023, the approval of a programme under section 439 and the consent to award a degree or a postgraduate qualification under section 454 must be treated as if they were granted to Te Pūkenga—New Zealand Institute of Skills and Technology.
 Compare: 1989 No 80 Schedule 1 cl 42
 34 Existing funding paid by TEC under funding mechanism
 (1) This clause applies to funding (including any conditions imposed on the funding) payable by the Commission to an existing polytechnic—
 (a) in accordance with an approval granted under section 425(2); or
 (b) other than via a plan under section 428.
 (2) On and after 1 April 2020,—
-(a) the Commission must treat the funding as if it were payable to the polytechnic's corresponding NZIST subsidiary until the close of 31 December 2020, unless that funding is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18 or the subsidiary is earlier dissolved in accordance with clause 22; and
-(b) for the purposes of paragraph (a), every reference to the existing polytechnic in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the polytechnic's corresponding NZIST subsidiary.
+(a) the Commission must treat the funding as if it were payable to the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary until the close of 31 December 2020, unless that funding is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18 or the subsidiary is earlier dissolved in accordance with clause 22; and
+(b) for the purposes of paragraph (a), every reference to the existing polytechnic in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 Compare: 1989 No 80 Schedule 1 cl 43
 35 Other references to existing polytechnics
-On and after 1 April 2020, every reference to an existing polytechnic in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the polytechnic's corresponding NZIST subsidiary.
+On and after 1 April 2020, every reference to an existing polytechnic in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 Compare: 1989 No 80 Schedule 1 cl 44
 36 Existing proceedings and other matters
 (1) On and after 1 April 2020,—
-(a) any proceedings by or against an existing polytechnic may be continued or enforced by or against its corresponding NZIST subsidiary without amendment to the proceedings; and
-(b) a matter or thing that would, but for this clause, have been completed by the existing polytechnic may be completed by its corresponding NZIST subsidiary; and
-(c) anything done, or omitted to be done, or that is to be done, by or in relation to the existing polytechnic is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to its corresponding NZIST subsidiary.
+(a) any proceedings by or against an existing polytechnic may be continued or enforced by or against its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary without amendment to the proceedings; and
+(b) a matter or thing that would, but for this clause, have been completed by the existing polytechnic may be completed by its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+(c) anything done, or omitted to be done, or that is to be done, by or in relation to the existing polytechnic is to be treated as having been done, or having been omitted to be done, or to be done, by or in relation to its corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (2) In subclause (1)(a), proceedings—
 (a) means civil and criminal proceedings; and
 (b) includes any enforcement or compliance action by TEC or NZQA.
 Compare: 1989 No 80 Schedule 1 cl 45
 37 Final report of existing polytechnics
-(1) Each corresponding NZIST subsidiary must provide a final report to the Minister in relation to the polytechnic from which the corresponding NZIST subsidiary was formed in accordance with clause 20.
-(2) For the purposes of section 45L of the Public Finance Act 1989, an existing polytechnic that is converted into a corresponding NZIST subsidiary must be treated as if it were disestablished and its operations were transferred to the corresponding NZIST subsidiary.
+(1) Each corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must provide a final report to the Minister in relation to the polytechnic from which the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary was formed in accordance with clause 20.
+(2) For the purposes of section 45L of the Public Finance Act 1989, an existing polytechnic that is converted into a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must be treated as if it were disestablished and its operations were transferred to the corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
 (3) Despite subpart 1 of Part 5 of the Public Finance Act 1989, the Minister may specify the contents of the final report and the date or dates by which the contents of the report must be provided.
 (4) The Minister must present a copy of the final report to the House of Representatives as soon as practicable after receiving it.
 Compare: 1989 No 80 Schedule 1 cl 46
-NZIST
-38 Validation of pre-commencement actions and processes relating to ministerial appointments to NZIST's council
-(1) This clause applies to any action or process undertaken by the Minister before 1 April 2020 when appointing members to NZIST's council.
+Te Pūkenga—New Zealand Institute of Skills and Technology
+38 Validation of pre-commencement actions and processes relating to ministerial appointments to Te Pūkenga—New Zealand Institute of Skills and Technology's council
+(1) This clause applies to any action or process undertaken by the Minister before 1 April 2020 when appointing members to Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 (2) An appointment is valid if the action or process substantially complies with this Act.
 Compare: 1989 No 80 Schedule 1 cl 47
-39 Membership of NZIST's council reduced until all appointments made
-(1) The number of NZIST council members is proportionately reduced until the date on which each member referred to in section 320(1)(a), (b), and (c) is appointed to the council.
-(2) No action of NZIST's council is invalid merely because any member referred to in subclause (1) has not been appointed to NZIST's council on 1 April 2020.
+39 Membership of Te Pūkenga—New Zealand Institute of Skills and Technology's council reduced until all appointments made
+(1) The number of Te Pūkenga—New Zealand Institute of Skills and Technology council members is proportionately reduced until the date on which each member referred to in section 320(1)(a), (b), and (c) is appointed to the council.
+(2) No action of Te Pūkenga—New Zealand Institute of Skills and Technology's council is invalid merely because any member referred to in subclause (1) has not been appointed to Te Pūkenga—New Zealand Institute of Skills and Technology's council on 1 April 2020.
 Compare: 1989 No 80 Schedule 1 cl 49
-40 NZIST must obtain ministerial approval before forming new subsidiary
-(1) NZIST must obtain ministerial approval before forming a subsidiary under section 340(1).
+40 Te Pūkenga—New Zealand Institute of Skills and Technology must obtain ministerial approval before forming new subsidiary
+(1) Te Pūkenga—New Zealand Institute of Skills and Technology must obtain ministerial approval before forming a subsidiary under section 340(1).
 (2) The requirement in subclause (1) ceases to apply on the close of 31 December 2024.
 Compare: 1989 No 80 Schedule 1 cl 50
-41 NZIST subsidiary is tertiary education organisation, provider, and institution
-(1) This clause applies to an NZIST subsidiary formed by NZIST on or after 1 April 2020 under section 340 that provides education or training, or both.
-(2) The NZIST subsidiary must be treated as—
-(a) a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-(b) a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
-(c) a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the NZIST subsidiary:
+41 Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary is tertiary education organisation, provider, and institution
+(1) This clause applies to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary formed by Te Pūkenga—New Zealand Institute of Skills and Technology on or after 1 April 2020 under section 340 that provides education or training, or both.
+(2) The Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary must be treated as—
+(a) a tertiary education organisation within the meaning of section 10(1), and the provisions of this Act relating to tertiary education organisations apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+(b) a provider within the meaning of section 10(1), and the provisions of this Act relating to providers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
+(c) a specified user within the meaning of section 10(1), and the provisions of this Act or any regulations made under this Act relating to national student numbers apply to it accordingly as if those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary:
 (d) an institution within the meaning of section 10(1), and the provisions referred to in subclause (4) apply to it accordingly as if—
-(i) those provisions included a reference to the NZIST subsidiary; and
-(ii) any reference in those provisions to the council of an institution were a reference to the board of the NZIST subsidiary.
-(3) For the purposes of subclause (2)(a), the Commission may consider a proposed plan of the NZIST subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by NZIST.
+(i) those provisions included a reference to the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
+(ii) any reference in those provisions to the council of an institution were a reference to the board of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary.
+(3) For the purposes of subclause (2)(a), the Commission may consider a proposed plan of the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and fund that subsidiary for an academic year beginning on or after 1 January 2021 but only if requested by Te Pūkenga—New Zealand Institute of Skills and Technology.
 (4) For the purposes of subclause (2)(d), the provisions are—
 (a) sections 284, 309, 310, 386, 525, and 526:
 (b) subparts 1 and 2 of Part 4:
@@ -558,17 +558,17 @@ Compare: 1989 No 80 Schedule 1 cl 66
 (b) for a transitional ITO that is an incorporated society, the transitional ITO's rules:
 (c) for a transitional ITO that is a charitable trust, the transitional ITO's trust deed.
 Compare: 1989 No 80 Schedule 1 cl 67
-58 Employment of transitional ITO employees by NZIST, NZIST subsidiary, wānanga, workforce development council, or other transitional ITO
-(1) This clause applies if the activities of a transitional ITO are transferred to NZIST, an NZIST subsidiary, a wānanga, a workforce development council, or another transitional ITO in accordance with a transition plan developed under clause 52.
-(2) The chief executive of NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO to which those activities are transferred must identify the employees of the transitional ITO—
-(a) whose duties overall are required by NZIST or that NZIST subsidiary, wānanga, workforce development council, or other transitional ITO to carry out its functions; and
-(b) whose positions will cease to exist as a result of the transfer of responsibility of the transitional ITO's activities to NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO.
-(3) An employee who is identified under subclause (2) may be offered equivalent employment by NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO, being employment that is—
+58 Employment of transitional ITO employees by Te Pūkenga—New Zealand Institute of Skills and Technology, Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO
+(1) This clause applies if the activities of a transitional ITO are transferred to Te Pūkenga—New Zealand Institute of Skills and Technology, an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, a wānanga, a workforce development council, or another transitional ITO in accordance with a transition plan developed under clause 52.
+(2) The chief executive of Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO to which those activities are transferred must identify the employees of the transitional ITO—
+(a) whose duties overall are required by Te Pūkenga—New Zealand Institute of Skills and Technology or that Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO to carry out its functions; and
+(b) whose positions will cease to exist as a result of the transfer of responsibility of the transitional ITO's activities to Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO, being employment that is—
 (a) in substantially the same position; and
 (b) in the same general locality; and
 (c) on terms and conditions (including any terms and conditions relating to redundancy and superannuation) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
-(d) on terms that treat the period of service with the transitional ITO (and every other period of service recognised by the transitional ITO as continuous service) as if it were continuous service with NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO.
-(4) If the employee accepts an offer of employment under subclause (3), the employee's employment by NZIST or the NZIST subsidiary, wānanga, workforce development council, or other transitional ITO is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
+(d) on terms that treat the period of service with the transitional ITO (and every other period of service recognised by the transitional ITO as continuous service) as if it were continuous service with Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO.
+(4) If the employee accepts an offer of employment under subclause (3), the employee's employment by Te Pūkenga—New Zealand Institute of Skills and Technology or the Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary, wānanga, workforce development council, or other transitional ITO is to be treated as continuous employment, including for the purpose of service-related entitlements, whether legislative or otherwise.
 (5) An employee of a transitional ITO that is offered employment under subclause (3) is not entitled to receive any payment or other benefit on the ground that the employee's position in the transitional ITO has ceased to exist, whether or not the employee accepts the offer.
 (6) This clause overrides—
 (a) Part 6A of the Employment Relations Act 2000; and
