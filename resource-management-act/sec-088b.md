@@ -1,2 +1,36 @@
 # 88B Time limits from which time periods are excluded in relation to applications
-[The source does not give the text in force on this date.]
+(1) This section provides for the deferral of certain time limits relating to applications.
+(2) The first column of the table lists the provisions specifying time limits from which certain time periods must be excluded.
+(3) The second column lists the provisions describing time periods that must be excluded from the corresponding time limits.
+Provisions specifying time limits Provisions describing time periods to be excluded
+Section 95 (which relates to the time limit for notification)
+Section 88C(2), (4), or (6)
+Section 88E(2) or (4)
+Section 88F(2)
+Section 88G
+Section 88H
+Section 87F(3) (which relates to the time limit for a consent authority report on an application to be directly referred to the Environment Court)
+Section 88C(4) or (6)
+Section 88E(2), (6), or (8)
+Section 88F(2)
+Section 101(2) (which relates to the time limit for commencement of a hearing of a non-notified application)
+Section 88C(2), (4), or (6)
+Section 88E(2) or (4)
+Section 88F(2)
+Section 88G
+Section 103A (which relates to the time limit for completion of a hearing of a notified application)
+Section 88C(4) or (6)
+Section 88D(2), (4), or (6)
+Section 88E(2), (6), or (8)
+Section 88F(2)
+Section 115(3) (which relates to the time limit for notification of the decision on a non-notified application for which no hearing is held)
+Section 88C(2), (4), or (6)
+Section 88E(2) or (4)
+Section 88F(2)
+Section 88G
+Section 115(4) (which relates to the time limit for notification of the decision on a notified application for which no hearing is held)
+Section 88C(4) or (6)
+Section 88D(2), (4), or (6)
+Section 88E(2), (6), or (8)
+Section 88F(2)
+(4) See also section 103(4) and (5) of the Urban Development Act 2020.

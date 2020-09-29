@@ -16,7 +16,7 @@ Referral to mediation
 (b) ending with the earlier of the following:
 (i) the date on which one of the persons referred to mediation gives the other persons referred and the mediator a written notice withdrawing the person's consent to the mediation; and
 (ii) the date on which the mediator reports the outcome of the mediation to the authority.
-Suspension of application processing
+Suspension of processing of notified application
 (7) Subsection (8) applies when the processing of an application is suspended under section 91A.
 (8) The period that must be excluded from every applicable time limit under section 88B is the period—
 (a) starting with the date on which the suspension started:

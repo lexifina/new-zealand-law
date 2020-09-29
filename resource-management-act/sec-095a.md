@@ -16,10 +16,10 @@ Step 2: if not required by step 1, public notification precluded in certain circ
 (a) the application is for a resource consent for 1 or more activities, and each activity is subject to a rule or national environmental standard that precludes public notification:
 (b) the application is for a resource consent for 1 or more of the following, but no other, activities:
 (i) a controlled activity:
-(ii) a restricted discretionary or discretionary activity, but only if the activity is a subdivision of land or a residential activity:
-(iii) a restricted discretionary, discretionary, or non-complying activity, but only if the activity is a boundary activity:
-(iv) a prescribed activity (see section 360H(1)(a)(i)).
-(6) In subsection (5), residential activity means an activity that requires resource consent under a regional or district plan and that is associated with the construction, alteration, or use of 1 or more dwellinghouses on land that, under a district plan, is intended to be used solely or principally for residential purposes.
+(ii) [Repealed]
+(iii) a restricted discretionary, discretionary, or non-complying activity, but only if the activity is a boundary activity.
+(iv) [Repealed]
+(6) [Repealed]
 Step 3: if not precluded by step 2, public notification required in certain circumstances
 (7) Determine whether the application meets either of the criteria set out in subsection (8) and,—
 (a) if the answer is yes, publicly notify the application; and

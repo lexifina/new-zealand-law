@@ -1,4 +1,4 @@
-# 91A Applicant may have processing of application suspended
+# 91A Applicant may have processing of notified application suspended
 (1) A consent authority must suspend the processing of a notified application when a request is received in accordance with this section.
 (2) The applicant may request the consent authority to suspend the processing of an application at any time in the period—
 (a) starting when the application is notified; and

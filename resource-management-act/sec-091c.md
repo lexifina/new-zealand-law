@@ -1,6 +1,6 @@
-# 91C Application may be returned if suspended after certain period
+# 91C Notified application may be returned if suspended after certain period
 (1) Subsection (2) applies if—
-(a) a total of 130 or more working days have been excluded from time limits under section 88B in relation to an application (which, under section 88E(8), includes time during which the application has been suspended); and
+(a) a total of 130 or more working days have been excluded from time limits under section 88B in relation to a notified application (which, under section 88E(8), includes time during which the application has been suspended); and
 (b) the application is suspended at the time.
 (2) The consent authority must decide to—
 (a) return the application to the applicant; or
