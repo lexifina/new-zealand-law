@@ -116,13 +116,10 @@ Reorganisation applications made after 4 April 2019
 (a) in accordance with clause 19(2), if the circumstances described in clause 19(1)(b) apply; and
 (b) in accordance with clause 20(2), if the circumstances described in clause 20(1)(b) apply.
 Part 4 Provisions relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
+[Repealed]
 22 Special consultative procedure commenced before 17 May 2020
-(1) Subclause (2) applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority has complied with section 83(1)(b)(i) before 17 May 2020.
-(2) Section 83B does not apply and the local authority must continue and conclude the special consultative procedure set out in section 83 without modification.
-(3) Subclause (4) applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority has not yet complied with section 83(1)(b)(i) before 17 May 2020.
-(4) Section 83B applies and the local authority may continue and conclude consultation by using the special consultative procedure as modified by that section.
+[Repealed]
 23 Modified special consultative procedure commenced after 17 May but before 1 October 2020
-(1) This clause applies if, in meeting a requirement to use or adopt the special consultative procedure, a local authority commences the procedure after 17 May 2020 and complies with section 83(1)(b)(i) before 1 October 2020.
-(2) Despite clause 24 and section 83D, the local authority may continue using the special consultative procedure as modified by section 83B until the procedure is concluded.
+[Repealed]
 24 Repeal of this Part
-This Part is repealed on 1 October 2020.
+[Repealed]
