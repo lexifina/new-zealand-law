@@ -1,4 +1,6 @@
-# 100C Authority or court may have regard to code of practice
-The Authority or the court may, in determining any matter within its jurisdiction, have regard to a code of employment practice that—
-(a) was in force at the relevant time; and
-(b) in the form in which it was then in force, related to the circumstances before the Authority or the court.
+# 100C Authority or court may have regard to code of employment practice
+(1) A code of employment practice is admissible in any civil or criminal proceedings as evidence of whether the enactment to which it relates has been complied with.
+(2) The Authority or a court may—
+(a) have regard to the code as evidence of compliance with the provisions of the enactment to which it relates; and
+(b) rely on the code in determining what is required to comply with those provisions.
+Compare: 2015 No 70 s 226
