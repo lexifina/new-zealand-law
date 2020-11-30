@@ -96,15 +96,18 @@ Compare: 1989 No 80 s 307A
 (e) by deduction notice under regulations made under section 444 of the Social Security Act 2018 (which apply with any necessary modifications).
 Compare: 1989 No 80 s 307B
 7 Details of academic performance
-The Ministry may, on request by MSD, supply details of the academic performance of any person for the purpose of verifying—
+(1) The Ministry may, on request by MSD, supply details of the academic performance of any person for the purpose of verifying—
 (a) the entitlement or eligibility of the person to or for any benefit, allowance, or student loan; or
 (b) the amount of any benefit, allowance, or student loan to which any person is or was entitled or for which any person is or was eligible.
+(2) On or after 1 December 2020, no information may be supplied under this clause except under—
+(a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+(b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 Compare: 1989 No 80 s 307D
 8 Disclosure of enrolment information by institutions
 (1) The purpose of this clause is to enable institutions to disclose information to MSD to verify—
 (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
 (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the institution to supply any or all of the information set out in subclause (6) in respect of people—
+(2) For the purpose of this clause, the chief executive may, by notice in writing or electronically, require the institution to supply any or all of the information set out in subclause (5) in respect of people—
 (a) who are (or were in any specified period) enrolled as students at the institution; or
 (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the institution by the chief executive, together with the notice.
 (3) A notice under subclause (2)—
@@ -114,7 +117,7 @@ Compare: 1989 No 80 s 307D
 (a) an identification number assigned by the chief executive to any person who is referred to in the notice; or
 (b) an identification number assigned by the institution to any person who is referred to in the notice; or
 (c) both.
-(5) The information referred to in subclause (3) is—
+(5) The information referred to in subclause (2) is—
 (a) their—
 (i) full names and addresses; and
 (ii) dates of birth:
@@ -126,14 +129,17 @@ Compare: 1989 No 80 s 307D
 (g) details of any allowances granted to the person by the institution on behalf of the Secretary in any academic year before the 1999 academic year:
 (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the determination or provision of an allowance or a benefit.
 (6) As soon as possible after the time or times specified in a requirement under subclause (3), an institution must supply the information required to the chief executive or any employee or agent of MSD authorised by the chief executive to receive the information.
-(7) Information supplied by an institution under subclause (6) must be in a form previously agreed between the institution and the chief executive, or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
-(8) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Privacy Commissioner, before seeking a report on any of the matters in section 104(2)(a), (d), or (e) of the Privacy Act 1993 from an institution, must first seek a report on the matter from MSD.
+(7) Information supplied by an institution under subclause (6) must be in a form previously agreed between the institution and the chief executive under the Privacy Act 2020, or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
+(8) Section 182 of the Privacy Act 2020 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Privacy Commissioner, before seeking a report on any of the matters in section 182(2)(a), (d), or (e) of the Privacy Act 2020 from an institution, must first seek a report on the matter from MSD.
+(9) On or after 1 December 2020, no information may be supplied under this clause except under—
+(a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+(b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 Compare: 1989 No 80 s 226A
 9 Disclosure of enrolment information by private training establishments
 (1) The purpose of this clause is to enable governing bodies of private training establishments to disclose information to MSD to verify—
 (a) the entitlement or eligibility of any person to or for any benefit or allowance or student loan; or
 (b) the amount of any benefit or allowance or student loan to which any person is or was entitled or for which any person is or was eligible.
-(2) For the purpose of this clause, the chief executive may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the chief executive and any institution or, if they are unable to agree, settled by the Privacy Commissioner, by notice in writing or electronically require the private training establishment to supply any or all of the information set out in subclause (3) in respect of people—
+(2) For the purpose of this clause, the chief executive may, by notice in writing or electronically, require the private training establishment to supply any or all of the information set out in subclause (5) in respect of people—
 (a) who are (or were in any specified period) enrolled as students at the private training establishment; or
 (b) whose name and date of birth (being the name and date of birth of any person who is, or was during any specified period, receiving a benefit or allowance or student loan) is supplied to the private training establishment by the chief executive, together with the notice.
 (3) A notice under subclause (2)—
@@ -155,8 +161,11 @@ Compare: 1989 No 80 s 226A
 (g) details of any allowances granted to them by the private training establishment on behalf of the Secretary in any academic year before the 1999 academic year:
 (h) details reasonably required by the chief executive for the administration of the student loan scheme or for the provision or determination of a benefit or allowance.
 (6) As soon as possible after the time or times specified in a requirement under subclause (2), a private training establishment must supply the information required to the chief executive or any employee or agent of MSD authorised by the chief executive to receive the information.
-(7) Information supplied by a private training establishment under subclause (6) must be in a form previously agreed between the private training establishment and the chief executive or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
-(8) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in clause 8, the Privacy Commissioner, before seeking a report on any of the matters in section 104(2)(a), (d), and (e) of the Privacy Act 1993 from a private training establishment, must first seek a report on the matter from MSD.
+(7) Information supplied by a private training establishment under subclause (6) must be in a form previously agreed between the private training establishment and the chief executive under the Privacy Act 2020 or, if they are unable to agree, settled by the Privacy Commissioner, and may include coded information.
+(8) Section 182 of the Privacy Act 2020 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in clause 8, the Privacy Commissioner, before seeking a report on any of the matters in section 182(2)(a), (d), or (e) of the Privacy Act 2020 from a private training establishment, must first seek a report on the matter from MSD.
+(9) On or after 1 December 2020, no information may be supplied under this clause except under—
+(a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+(b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 Compare: 1989 No 80 s 235F
 10 Allowances identified by Gazette notice
 (1) The Minister may, by notice in the Gazette, identify either or both of the following as an allowance to which this clause applies:

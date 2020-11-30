@@ -91,7 +91,7 @@ Compare: 1989 No 80 s 359
 (ii) the person's registration status; and
 (iii) the status and currency of the person's practising certificate; and
 (b) the Ministry, in relation to regular teachers and relieving teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility (if any) for an allowance on the basis of their registration or practising certificate (if any).
-(2) For the purpose set out in subclause (1)(a), the Teaching Council may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teaching Council,—
+(2) For the purpose set out in subclause (1)(a), the Teaching Council may, in accordance with arrangements under the Privacy Act 2020 previously agreed between the Secretary and the Teaching Council,—
 (a) require the Secretary to supply any or all of the following information about any or all regular teachers and relieving teachers in receipt of salaries at payrolled schools:
 (i) surname:
 (ii) first name:
@@ -103,7 +103,7 @@ Compare: 1989 No 80 s 359
 (viii) registration number:
 (ix) number of half-days employed in a teaching position in any calendar year; and
 (b) compare the information supplied under paragraph (a) with the information contained in the register.
-(3) For the purpose set out in subclause (1)(b), the Secretary may, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teaching Council,—
+(3) For the purpose set out in subclause (1)(b), the Secretary may, in accordance with arrangements under the Privacy Act 2020 previously agreed between the Secretary and the Teaching Council,—
 (a) require the Teaching Council to supply any or all of the following information about any or all people registered as teachers:
 (i) surname:
 (ii) first name:
@@ -115,6 +115,9 @@ Compare: 1989 No 80 s 359
 (viii) registration or practising certificate expiry date:
 (ix) registration or practising certificate classification; and
 (b) compare the information supplied under paragraph (a) with the information held by the Ministry about regular teachers and relieving teachers in receipt of salaries at payrolled schools.
+(4) On or after 1 December 2020, no information may be supplied under this clause except under—
+(a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+(b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 Compare: 1989 No 80 s 360
 10 Practising certificates
 (1) Any person may apply to the Teaching Council, on a form provided by the Teaching Council, for a practising certificate.
