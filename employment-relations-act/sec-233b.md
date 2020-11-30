@@ -8,7 +8,7 @@
 (3) A Labour Inspector, the department, or a regulatory agency who provides information or a copy of a document under this section may impose conditions relating to the provision of the information, including conditions relating to—
 (a) the storage and use of, or access to, anything provided:
 (b) the copying, returning, or disposing of any documents provided.
-(4) This section applies subject to any other enactment, including the Privacy Act 1993.
+(4) This section applies subject to any other enactment, including the Privacy Act 2020.
 (5) This section overrides provisions in contracts, deeds, and other documents that are inconsistent with this section.
 (6) In this section, regulatory agency means—
 (a) an immigration officer under the Immigration Act 2009:

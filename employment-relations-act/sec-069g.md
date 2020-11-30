@@ -16,7 +16,7 @@
 (e) notice in writing—
 (i) that employee transfer costs information and individualised employee information (as those terms are defined in section 69OB) relating to employees who elect to transfer will be provided to the new employer; and
 (ii) that explains that individualised employee information includes (but is not limited to) information about any disciplinary matters relating to those employees and any personal grievances raised by those employees against the employer; and
-(iii) that those employees are entitled to access the information, and to request correction of the information, in accordance with the Privacy Act 1993.
+(iii) that those employees are entitled to access the information, and to request correction of the information, in accordance with the Privacy Act 2020.
 (3) The employees' employer must send an election that complies with subsections (1)(d) and (2)(d) to the new employer as soon as practicable, but no later than 5 working days after the day on which that election is received by the employees' employer.
 (4) If an employee sends an election that complies with subsection (2)(d) by post or electronic means before the date described in subsection (1)(d), the employee must be treated as having exercised the employee's right to make an election by that date.
 (5) If the employee's employer sends an election to the new employer by post or electronic means before the date that is 5 working days after the day on which the employee's employer received that election, the employee's employer must be treated as having met the deadline specified in subsection (3).

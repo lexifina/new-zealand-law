@@ -24,3 +24,6 @@ responsible department means the department of State that is, with the authority
 (6) If this subsection applies in respect of a person, the Electoral Commission must,—
 (a) if the person has applied to be (but is not yet) registered as an elector for the district, follow the procedure specified in section 87; or
 (b) if the person is registered as an elector for the district and the name of the person is on the roll for the district, object under section 96 to the name of that person being on the roll for the district.
+(7) On or after 1 December 2020, no information may be disclosed under this section except under—
+(a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+(b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.

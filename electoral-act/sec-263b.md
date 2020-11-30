@@ -26,4 +26,7 @@
 (i) who obtain New Zealand citizenship under the Citizenship Act 1977; or
 (ii) by whom, or on whose behalf, an application is made under the Passports Act 1992 for the issue or renewal of a New Zealand passport.
 (5) If, in relation to any person, information is supplied to the Electoral Commission under subsection (4), the Electoral Commission may cause a comparison of that information to be made with any information that is held by the Electoral Commission and that relates to that person.
+(5A) On or after 1 December 2020, no information may be disclosed under this section except under—
+(a) an information matching agreement entered into under Part 10 of the Privacy Act 1993 and continued by clause 11 of Schedule 1 of the Privacy Act 2020; or
+(b) an approved information sharing agreement entered into under subpart 1 of Part 7 of the Privacy Act 2020.
 (6) In this section, Registrar of Motor Vehicles has the same meaning as Registrar in section 233(1) of the Land Transport Act 1998.

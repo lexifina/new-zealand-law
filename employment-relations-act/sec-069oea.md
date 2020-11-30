@@ -14,4 +14,4 @@
 (a) the information that is out of date; and
 (b) what the up-to-date information is.
 (6) Every employer who fails to comply with subsections (2) to (5) is liable to a penalty imposed by the Authority.
-(7) To avoid doubt, the new employer may keep, use, or disclose individualised employee information only in accordance with the Privacy Act 1993.
+(7) To avoid doubt, the new employer may keep, use, or disclose individualised employee information only in accordance with the Privacy Act 2020.

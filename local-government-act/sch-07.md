@@ -130,7 +130,7 @@ The Remuneration Authority must—
 (b) must not communicate those matters or information except—
 (i) in performing or exercising those responsibilities, duties, and powers; or
 (ii) under subsection (3).
-(3) The Remuneration Authority is required to comply with information privacy principles 6, 7, and 11 of the Privacy Act 1993 and disclose personal information as necessary.
+(3) The Remuneration Authority is required to comply with information privacy principles 6, 7, 11, and 12 set out in section 22 of the Privacy Act 2020 and disclose personal information as necessary.
 12 Payments
 If a determination is made, a local authority must make payment to the person concerned in accordance with the conditions of the determination.
 Compare: 1974 No 66 s 101ZZM

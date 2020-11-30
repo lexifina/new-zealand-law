@@ -10,4 +10,4 @@
 (6) The period specified for the purposes of subsection (4) is, in relation to a document, the period that—
 (a) begins on the day the Electoral Commission receives the document; and
 (b) ends on the day after the day for the return of the writ for the election to which the advertisement relates.
-(7) Subsection (4) overrides the Official Information Act 1982 and the Privacy Act 1993.
+(7) Subsection (4) overrides the Official Information Act 1982 and the Privacy Act 2020.
