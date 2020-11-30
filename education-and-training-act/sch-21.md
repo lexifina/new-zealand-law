@@ -51,8 +51,8 @@ Compare: 1989 No 80 s 65D
 (b) the time periods for each day during which the affected student's timetable runs.
 Compare: 1989 No 80 s 65DA
 6 Application of provisions
-(1) The powers conferred on the Minister by clauses 1 to 6 may be exercised in respect of all schools, schools of a particular classification or description, or specified schools.
-(2) Clauses 1 to 6 have effect as if specialist schools and special services were State schools.
+(1) The powers conferred on the Minister by clauses 1 to 5 may be exercised in respect of all schools, schools of a particular classification or description, or specified schools.
+(2) Clauses 1 to 5 have effect as if specialist schools and special services were State schools.
 Compare: 1989 No 80 s 65F
 7 Minister to act by means of instructions
 (1) The Minister's powers under clauses 1 to 6 may be exercised only by written instruction signed by the Minister.
