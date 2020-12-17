@@ -9,6 +9,7 @@ Crown Infrastructure Partners Limited
 Education Payroll Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
 New Zealand Green Investment Finance Limited ✓ ✓ ✓ ✓
+Ngāpuhi Investment Fund Limited ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
 Predator Free 2050 Limited ✓ ✓ ✓ ✓
 Provincial Growth Fund Limited ✓ ✓
