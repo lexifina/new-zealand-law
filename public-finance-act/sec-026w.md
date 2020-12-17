@@ -15,5 +15,5 @@
 (ii) for the consistency with the requirements of this Part of the information contained in the update; and
 (iii) for the omission from the update under section 26V of any decision, circumstance, or statement.
 (3) The statement referred to in subsection (2)(b) must be accompanied by a statement that the economic and fiscal update has been prepared by the Treasury—
-(a) using its best professional judgments; and
+(a) using its best professional judgements; and
 (b) on the basis of economic and fiscal information available to it before the day on which the contents of the update or the relevant aspect of the update were finalised.
