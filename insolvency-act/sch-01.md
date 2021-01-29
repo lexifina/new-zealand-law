@@ -18,7 +18,7 @@ The Assignee has the power to—
 (o) if any of the bankrupt's property cannot be readily or advantageously sold because of its peculiar nature or other special circumstances, divide it in its existing form among the creditors according to its estimated value:
 (p) give receipts and sign discharges and releases for any money that the Assignee receives, so that the person who pays the money is effectively discharged from any responsibility for how the money is used:
 (q) execute a power of attorney, deed, or any other document for the purpose of carrying into effect the provisions of this Act:
-(r) exercise, in relation to the bankrupt's property, any power conferred on a trustee under the Trustee Act 1956 or by the court under that Act; and for the purposes of those powers the Assignee is a trustee of the bankrupt's property:
+(r) exercise, in relation to the bankrupt's property, any power conferred on a trustee under the Trusts Act 2019 or by the court under that Act; and for the purposes of those powers the Assignee is a trustee of the bankrupt's property:
 (s) exercise any authority or power or do any act in relation to the bankrupt's property that the bankrupt could have exercised or done if he or she was not bankrupt:
 (t) in respect of any particular estate or estates,—
 (i) appoint an agent to act for the Assignee:

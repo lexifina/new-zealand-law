@@ -102,7 +102,7 @@ Compare: 1952 No 51 s 76
 (v) any other reasonable means.
 (5) The power in subclause (4)(b) may be exercised only to raise and pay the annual sum and all arrears due or becoming due, and all costs arising from the non-payment of the annual sum, or incurred in compelling or obtaining payment of the annual sum, including the costs of the preparation and execution of any instrument and the costs of execution of the trust thereby created.
 (6) The surplus, if any, of the money raised or the income received under the trust must be paid to the person for the time being entitled to the land comprised in the trust, in reversion immediately expectant on the term of the trust.
-(7) The rule against perpetuities as modified by the Perpetuities Act 1964 does not apply to—
+(7) Section 16 of the Trusts Act 2019 does not apply to—
 (a) any powers or remedies conferred by this clause; or
 (b) any equivalent powers or remedies conferred by any instrument for recovering the payment of any annual sum within the meaning of this clause.
 Compare: 1952 No 51 s 150
