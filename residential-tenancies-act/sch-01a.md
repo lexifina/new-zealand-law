@@ -22,7 +22,8 @@ Section 17A (Requiring letting fee) 1,000
 40(3A)(d) (Harassment of tenant or neighbour) 2,000
 40(3A)(e) (Tenant failing to ensure number of residents does not exceed maximum allowed) 1,000
 44(2A) (Assigning or subletting a tenancy when prohibited to do so or without the landlord's written consent) 1,000
-45(1A) (Landlord's failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) 4,000
+45(1A) (Landlord's failure to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, contamination, or buildings, health, and safety requirements) 4,000
+45(1AB) (Landlord providing premises, or continuing to provide premises, despite landlord's knowledge of contamination of premises) 4,000
 45(2A) (Landlord interfering with supply of services to premises) 1,000
 45(2D) (Landlord's failure to meet obligations to provide insurance policy or to correct information provided) 500
 46(3) (Altering locks without consent of other party) 1,000
@@ -32,7 +33,8 @@ Section 17A (Requiring letting fee) 1,000
 54(3) (Retaliatory notice of termination) 4,000
 61(5) (Abandonment of premises without reasonable excuse) 1,000
 66G(4) (Harassment of tenant in boarding house) 2,000
-66I(4) (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, or buildings, health, and safety requirements) 4,000
+66I(4) (Landlord of boarding house failing to meet obligations in respect of cleanliness, maintenance, smoke alarms, the healthy homes standards, contamination, or buildings, health, and safety requirements) 4,000
+66I(5) (Landlord of boarding house providing, or continuing to provide, boarding room despite landlord's knowledge of contamination of boarding room or facilities) 4,000
 66J(4) (Landlord of boarding house interfering with services or failing to advise that premises on the market) 1,000
 66J(7) (Landlord of boarding house failing to meet obligations to provide insurance policy or to correct information provided) 500
 66K(2)(b) (Interference, etc, with means of escape from fire) 3,000

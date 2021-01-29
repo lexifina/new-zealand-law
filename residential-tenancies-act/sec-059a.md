@@ -4,3 +4,4 @@
 (3) The party who is not in breach may give notice to the other party terminating the tenancy.
 (4) When a landlord gives notice of termination under this section, the period of notice is not less than 7 days.
 (5) When a tenant gives notice of termination under this section, the period of notice is not less than 2 days.
+(6) This section does not apply in relation to damage that is contamination by a contaminant if regulations prescribe a relevant method of testing for, and a relevant maximum inhabitable level of, that contaminant (but see section 59B).

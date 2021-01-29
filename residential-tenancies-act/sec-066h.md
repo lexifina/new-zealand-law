@@ -6,4 +6,5 @@
 (a) the tenant has vacant possession of the room or, if the room is shared, of the tenant's sleeping quarters in the room; and
 (b) the room is in a reasonable state of cleanliness; and
 (c) there is no legal impediment to the tenant's occupation of the room.
+(3) See also sections 66I(1B)(a) and 66IA.
 Compare: Residential Tenancies Act 1997 s 109 (Vic)
