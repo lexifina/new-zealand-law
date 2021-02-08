@@ -26,6 +26,7 @@ Kordia Group Limited
 Landcorp Farming Limited
 Law Commission
 Māori Television Service and every subsidiary of the Māori Television Service (if any)
+Mental Health and Wellbeing Commission
 Meteorological Service of New Zealand Limited
 New Zealand Council for Educational Research
 New Zealand Film Commission
