@@ -9,4 +9,6 @@
 (a) the agent's contact mobile telephone number (if any):
 (b) the agent's contact email address (if any).
 (5) An agent appointed under this section has, as against the tenant, all the rights and obligations of the landlord.
-(6) A contravention of any of subsections (1) to (4) is declared to be an unlawful act.
+(6) A landlord who fails to comply with this section—
+(a) commits an unlawful act; and
+(b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.

@@ -22,4 +22,8 @@
 (3) The obligations in subsection (1) are in addition to the obligation in section 66G(2).
 (4) Failure by the landlord to comply with any of paragraphs (a) to (c) of subsection (1) is declared to be an unlawful act.
 (5) A contravention by the landlord of subsection (1B) is declared to be an unlawful act.
+(6) If the tenant requests the landlord to provide information described in section 123A(1)(e) (relating to the healthy homes standards) to the tenant, the landlord must, within 21 days after the date of receiving the request, provide the information to the tenant.
+(7) A landlord who, without reasonable excuse, fails to comply with subsection (6)—
+(a) commits an unlawful act; and
+(b) commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B.
 Compare: Residential Tenancies Act 1997 ss 120-124, 127(2) (Vic)

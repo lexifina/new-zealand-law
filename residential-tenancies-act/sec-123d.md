@@ -19,7 +19,7 @@
 (a) on initial entry, produce evidence of the authorised person's identity; and
 (b) while subsequently on the premises, produce that evidence to any person who reasonably requests to see it.
 (8) In respect of any premises in any defence area (within the meaning of the Defence Act 1990), an authorised person must exercise the authorised person's powers under this section subject to any conditions relating to security that the officer in charge of the defence area imposes.
-(9) A person commits an offence and is liable on conviction to a fine not exceeding $2,000 if the person, without reasonable excuse,—
+(9) A person commits an offence and is liable on conviction to a fine not exceeding $3,000 if the person, without reasonable excuse,—
 (a) fails to comply with subsection (4); or
 (b) obstructs or hinders an authorised person in the exercise of the authorised person's powers under this section.
 (10) Sections 166 and 167 of the Search and Surveillance Act 2012 apply (with any necessary modifications) in relation to the powers of an authorised person under this section.

@@ -19,7 +19,8 @@
 (m) [Repealed]
 (n) [Repealed]
 (o) a list of any chattels provided by the landlord; and
-(p) if the tenancy is a fixed-term tenancy, the date on which the tenancy will terminate.
+(p) if the tenancy is a fixed-term tenancy, the date on which the term will expire.
+(1AAA) A landlord who fails to ensure that the tenancy agreement includes the information specified in subsection (1)(a) to (ab), (c) to (f), and (i) to (p) commits an unlawful act.
 (1A) The landlord must include in the tenancy agreement a statement, made and signed by the landlord, that provides the following information to the tenant (subject to subsections (1B) and (1C)):
 (a) whether or not there is, as at the date of the tenancy agreement, any insulation installed in connection with any ceilings, floors, or walls that are at the premises:
 (b) details of the location, type, and condition of all insulation that is, as at the date of the tenancy agreement, installed in connection with any ceilings, floors, or walls that are at the premises:
@@ -42,6 +43,7 @@
 (1F) The landlord commits an unlawful act if—
 (a) the landlord fails to comply with subsection (1A), (1CA), (1CB), (2), (3), or (4); or
 (b) the landlord's statement under subsection (1A), (1CA), (1CB), (2), (3), or (4) includes anything that the landlord knows to be false or misleading.
+(1G) The landlord commits an infringement offence and is liable to a fine or an infringement fee specified in Schedule 1B if the landlord fails to comply with subsection (1A), (1CA), (1CB), or (2).
 (2) The landlord must include in the tenancy agreement the following information about insurance of the premises:
 (a) if the premises are not insured, a statement that they are not insured; and
 (b) if the premises are insured, a statement—
