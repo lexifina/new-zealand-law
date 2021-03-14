@@ -27,7 +27,7 @@
 (i) the agreement is not oppressive:
 (ii) the lender does not exercise a right or power conferred by the agreement in an oppressive manner:
 (iii) the lender does not induce the borrower to enter into the agreement by oppressive means; and
-(f) meet all the lender's legal obligations to the borrower, including under this Act, the Fair Trading Act 1986, the Consumer Guarantees Act 1993, the Financial Service Providers (Registration and Dispute Resolution) Act 2008, and the Financial Advisers Act 2008, which include—
+(f) meet all the lender's legal obligations to the borrower, including under this Act, the Fair Trading Act 1986, the Consumer Guarantees Act 1993, the Financial Service Providers (Registration and Dispute Resolution) Act 2008, and subpart 5A of Part 6 of the Financial Markets Conduct Act 2013, which include—
 (i) obligations in relation to disclosure, credit fees, unforeseen hardship applications, and credit repossession under this Act; and
 (ii) prohibitions on false or misleading representations and unfair contract terms under the Fair Trading Act 1986; and
 (iii) the guarantee that the service of providing credit and any other services will be carried out with reasonable care and skill under the Consumer Guarantees Act 1993.
