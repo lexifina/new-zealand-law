@@ -78,3 +78,10 @@ Part 2 Provision relating to the Taxation (Annual Rates for 2019-20, GST Offshor
 (a) an agreement for the transfer of the land was entered into before 1 January 2020; and
 (b) the instrument of transfer is lodged for registration on or before 1 July 2020.
 (2) In this section, old regime means this Act as in force immediately before 1 January 2020 (when sections 130 to 133 of the Taxation (Annual Rates for 2019-20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019 came into force).
+Part 3 Provision relating to Taxation (Annual Rates for 2020-21, Feasibility Expenditure, and Remedial Matters) Act 2021
+15 Content of tax statements before regulations are made prescribing content
+(1) This clause applies from the 2021 commencement date until the first regulations prescribing information for the purposes of new section 79(1)(a) come into force.
+(2) The information required by section 79 (as in force before the 2021 commencement date) to be included in a tax statement is taken to be the information required to be included in a tax statement under new section 79(1)(a) as if it were information prescribed in regulations made for the purposes of new section 79(1)(a).
+(3) In this clause,—
+2021 commencement date means the date on which the Taxation (Annual Rates for 2020-21, Feasibility Expenditure, and Remedial Matters) Act 2021 receives the Royal assent
+new section 79(1)(a) means section 79(1)(a) as inserted by the Taxation (Annual Rates for 2020-21, Feasibility Expenditure, and Remedial Matters) Act 2021.
