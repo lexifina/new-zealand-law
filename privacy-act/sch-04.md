@@ -62,6 +62,7 @@ Wanted persons Particulars concerning persons wanted for arrest
 New Zealand Transport Agency (access is limited to obtaining information for the purposes of—
 (a) subpart 2 of Part 4A of the Land Transport Act 1998:
 (b) carrying out the functions conferred on the Agency by section 95(1) of the Land Transport Management Act 2003)
+(c) the Director of Land Transport carrying out the functions conferred on the Director by section 104B of the Land Transport Management Act 2003
 Ministry of Justice (access is limited to persons wanted in connection with fines enforcement)
 Ministry of Business, Innovation, and Employment (access is limited to obtaining information for the purposes of section 52 of the Outer Space and High-altitude Activities Act 2017)
 Missing persons Particulars concerning persons missing or required to be located
@@ -123,14 +124,18 @@ WorkSafe New Zealand (access is limited to name and address details of persons w
 Ministry of Business, Innovation, and Employment (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing immigration legislation)
 Ministry for Primary Industries (access is limited to name and address details of persons who are or were previously registered in respect of a specified vehicle for the purposes of enforcing fisheries legislation and any other enactment that confers enforcement powers on fisheries officers)
 New Zealand Customs Service (access is limited to obtaining information for the purposes of enforcing legislation for which the Service has enforcement powers)
-New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by section 95(1) of the Land Transport Management Act 2003)
+New Zealand Transport Agency (access is limited to obtaining information for the purposes of—
+(a) the Agency carrying out the functions conferred on the Agency by section 95(1) of the Land Transport Management Act 2003:
+(b) the Director of Land Transport carrying out the functions conferred on the Director by section 104B of the Land Transport Management Act 2003)
 Legal Services Commissioner (access is limited to obtaining information for the purpose of determining an applicant's financial eligibility for a grant of legal aid in relation to a criminal matter)
 An enforcement authority under the Land Transport Management Act 2003.
 Road User Charges Collector records
 Subject Description Access available to
 Road user charges Details of licences issued under the Road User Charges Act 2012 and details of the corresponding licence holders
 Police (access is limited to obtaining information for the purpose of enforcing the Road User Charges Act 2012)
-New Zealand Transport Agency (access is limited to obtaining information for the purposes of carrying out the functions conferred on the Agency by section 95(1) of the Land Transport Management Act 2003)
+New Zealand Transport Agency (access is limited to obtaining information for the purposes of—
+(a) the Agency carrying out the functions conferred on the Agency by section 95(1) of the Land Transport Management Act 2003:
+(b) the Director of Land Transport carrying out the functions conferred on the Director by section 104B of the Land Transport Management Act 2003)
 Department of Corrections records
 Subject Description Access available to
 Community-based sentences, sentences of home detention, and conditions of release
