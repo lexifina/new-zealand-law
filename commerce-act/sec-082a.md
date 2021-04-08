@@ -3,3 +3,4 @@
 (2) In determining whether to award exemplary damages and, if they are to be awarded, the amount of them, the court must have regard to—
 (a) whether a pecuniary penalty has been imposed on the defendant for a contravention involving the conduct concerned in the claim for exemplary damages; and
 (b) if so, the amount of the pecuniary penalty.
+(3) The court may not order a person to pay exemplary damages in relation to conduct for which the person has been convicted of an offence under section 82B.
