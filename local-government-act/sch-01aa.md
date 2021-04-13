@@ -115,6 +115,22 @@ Reorganisation applications made after 4 April 2019
 (4) If the Commission determines that the application was made on behalf of a group that comprises at least 10% of electors in the affected area, the application must be progressed as follows:
 (a) in accordance with clause 19(2), if the circumstances described in clause 19(1)(b) apply; and
 (b) in accordance with clause 20(2), if the circumstances described in clause 20(1)(b) apply.
+Part 4 Provisions relating to Local Government (Rating of Whenua Māori) Amendment Act 2021
+22 Delayed effective date of requirement for certain funding and financial policies to support principles in Preamble to Te Ture Whenua Maori Act 1993
+(1) Section 102(3A) (as inserted by section 77 of the Local Government (Rating of Whenua Māori) Amendment Act 2021) does not apply to any policy adopted before the effective date for the relevant policy.
+(2) The policies referred to in section 102(3A) must—
+(a) be reviewed for compliance with that section by the effective date for the relevant policy; and
+(b) be amended or replaced as required in order to achieve compliance with that section on or before the effective date.
+(3) If a local authority amends its revenue and financing policy under section 93(4) before 1 July 2024 solely for the purpose of complying with section 102(3A), the amendment is not required to be audited in accordance with sections 93D(4) and 94.
+(4) In this clause,—
+commencement date means the commencement of section 77 of the Local Government (Rating of Whenua Māori) Amendment Act 2021
+effective date means,—
+(a) for a revenue and financing policy adopted under section 102(1), 1 July 2024:
+(b) for a policy on development contributions or financial contributions adopted under section 102(1), the date of the completion of the first review of the policy in accordance with section 106(6) that commenced after the commencement date:
+(c) for a policy on the remission and postponement of rates on Māori freehold land adopted under section 102(1), 1 July 2022:
+(d) for any rates remission policy or rates postponement policy adopted under section 102(3), the earlier of—
+(i) 1 July 2024; and
+(ii) the date of the completion of the first review of the policy under section 109(2A) or 110(2A) that commenced after the commencement date.
 Part 4 Provisions relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
 [Repealed]
 22 Special consultative procedure commenced before 17 May 2020
