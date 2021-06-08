@@ -1,10 +1,15 @@
 # 362V Offence for commercial on-seller to transfer household unit without code compliance certificate
-(1) A commercial on-seller commits an offence if the commercial on-seller does either or both of the following things before a code compliance certificate is issued in relation to a household unit:
-(a) completes a sale of the household unit:
-(b) allows a purchaser of the household unit to enter into possession of the household unit.
+(1) A commercial on-seller must not do either of the following things before a code compliance certificate is issued in relation to a household unit:
+(a) complete a sale of the household unit:
+(b) allow a purchaser of the household unit to enter into possession of the household unit.
 (2) Subsection (1) does not apply if the commercial on-seller and the purchaser of the household unit enter into a written agreement, in the form (if any) prescribed by regulations made under this Act, that the commercial on-seller may do either or both of the things referred to in that subsection before a code compliance certificate is issued in relation to the household unit concerned.
-(3) A person who commits an offence under this section is liable on conviction to a fine not exceeding $200,000.
+(3) If a household unit is a modular component manufactured by a registered MCM who is certified to design and manufacture it, subsection (1) does not apply to the sale of the household unit by the manufacturer.
 (4) Subsection (1) does not apply if the contract for the sale and purchase of the household unit was entered into before 30 November 2004.
+(4A) A person who fails to comply with subsection (1)—
+(a) commits an offence; and
+(b) is liable on conviction,—
+(i) in the case of an individual, to a fine not exceeding $300,000:
+(ii) in the case of a body corporate, to a fine not exceeding $1,500,000.
 (5) In this section, commercial on-seller means a person who, in trade, does any of the following things in relation to a household unit for the purpose of selling the household unit:
 (a) builds the household unit; or
 (b) arranges for the household unit to be built; or

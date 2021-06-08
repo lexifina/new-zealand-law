@@ -7,5 +7,9 @@
 (b) a prescribed checklist (if any).
 (3) The disclosure information and the checklist must each be in the form prescribed by regulations (if any).
 (4) A person who contravenes subsection (2)(a) or (b) commits an infringement offence and is liable to a fine not exceeding $2,000.
-(5) A person commits an offence who, in any communication or document required to be made or given under subsection (2)(a), knowingly makes a statement that is false or misleading in a material particular or knowingly makes a material omission.
-(6) A person who commits an offence under subsection (5) is liable on conviction to a fine not exceeding $20,000.
+(5) A person must not, in any communication or document required to be made or given under subsection (2)(a), knowingly make a statement that is false or misleading in a material particular or knowingly make a material omission.
+(6) A person who fails to comply with subsection (5)—
+(a) commits an offence; and
+(b) is liable on conviction,—
+(i) in the case of an individual, to a fine not exceeding $50,000:
+(ii) in the case of a body corporate, to a fine not exceeding $150,000.

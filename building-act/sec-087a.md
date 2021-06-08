@@ -10,4 +10,4 @@
 (c) be given—
 (i) before the building work begins, if it is a notice required by subsection (2):
 (ii) as soon as practicable, if it is a notice required by subsection (3).
-(5) A person who contravenes this section commits an offence and is liable to a fine not exceeding $20,000.
+(5) A person who contravenes this section commits an offence and is liable on conviction to a fine not exceeding $50,000.
