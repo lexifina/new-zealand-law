@@ -32,17 +32,7 @@ Additional transitional provisions applicable to Schedule 4 organisations and Sc
 (1) Clauses 1 to 3 of Schedule 1AAA of the Crown Entities Act 2004 (the CEA transitional schedule) apply to Schedule 4 organisations and Schedule 4A companies, except that references in clause 1 of the CEA transitional schedule to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
 (2) If new section 139 of the Crown Entities Act 2004 applies to a Schedule 4 organisation or a Schedule 4A company, then clause 4 of the CEA transitional schedule also applies to the organisation or company, except that references in that clause to a Crown entity must be read as if they were references to a Schedule 4 organisation or a Schedule 4A company (as applicable).
 7 Exception to section 45OA(1)(g) for Crown Fibre Holdings Limited in respect of certain subsidiaries
-(1) Despite section 45OA(1)(g), section 97 of the Crown Entities Act 2004 (which sets out rules that apply to a parent Crown entity in respect of its subsidiaries) does not apply to Crown Fibre Holdings Limited in respect of a specified subsidiary.
-(2) For the purposes of subclause (1), specified subsidiary means a subsidiary that, on the commencement date, is a company with no shareholders other than—
-(a) Crown Fibre Holdings Limited; and
-(b) the Crown; and
-(c) 1 of the following:
-(i) Chorus Limited:
-(ii) Enable Services Limited:
-(iii) Northpower Limited:
-(iv) Waikato Networks Limited:
-(v) a wholly owned subsidiary of Chorus Limited, Enable Services Limited, Northpower Limited, or Waikato Networks Limited.
-(3) This clause is repealed on the close of 30 June 2021.
+[Repealed]
 8 Application of Crown Entities Act 2004 to Tāmaki Redevelopment Company Limited's statement of intent for 2013/14 financial year
 (1) Despite new section 45OA(1)(n),—
 (a) sections 138 to 144, 145(a) and (b), and 146 of the Crown Entities Act 2004 do not apply to TRCL's first statement of intent; and
