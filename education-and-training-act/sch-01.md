@@ -92,6 +92,9 @@ Pastoral care
 Subpart 7—Provisions for Part 6 (administration of education system)
 70 Criteria relating to appointment of principals
 71 National student numbers
+Part 2
+Provision relating to Education and Training (Grants—Budget Measures) Amendment Act 2021
+72 Application of section 548(5A) to (5C)
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -656,3 +659,6 @@ The requirement for a person to meet criteria issued by the Minister under secti
 (1) This clause applies to a national student number assigned to a person under section 343 of the 1989 Act before the commencement of this clause.
 (2) The national student number continues to apply in respect of the person as if it were assigned under clause 3 of Schedule 24.
 Compare: 1989 No 80 s 343(2)
+Part 2 Provision relating to Education and Training (Grants—Budget Measures) Amendment Act 2021
+72 Application of section 548(5A) to (5C)
+Section 548(5A) to (5C) (as inserted by section 4 of the Education and Training (Grants—Budget Measures) Amendment Act 2021) applies to a grant paid under section 548, and to a condition or purpose specified under section 548(5)(a) or (b) for that grant, after the commencement of that Act (whether that grant was determined before or after that commencement).
