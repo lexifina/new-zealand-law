@@ -6,13 +6,13 @@ Company Sections of Crown Entities Act 2004 (relating to financial powers)
 City Rail Link Limited ✓ ✓ ✓ ✓
 Crown Asset Management Limited ✓ ✓ ✓
 Crown Infrastructure Partners Limited
+Crown Regional Holdings Limited ✓ ✓
 Education Payroll Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
 New Zealand Green Investment Finance Limited ✓ ✓ ✓ ✓
 Ngāpuhi Investment Fund Limited ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
 Predator Free 2050 Limited ✓ ✓ ✓ ✓
-Provincial Growth Fund Limited ✓ ✓
 Research and Education Advanced Network New Zealand Limited ✓ ✓ ✓ ✓
 Southern Response Earthquake Services Limited ✓ ✓ ✓
 Tāmaki Redevelopment Company Limited ✓ ✓ ✓ ✓
