@@ -1,0 +1,7 @@
+# 56C Service of notices of withdrawal and accompanying evidence
+(1) Despite section 136(6),—
+(a) if a notice of withdrawal under section 56B(1) and accompanying qualifying evidence under section 56B(1)(a) are sent by post in accordance with section 136, they are to be treated as given to the landlord on the date on which they are posted, and, in proving that the notice and evidence were given, it is sufficient to prove that the letter was properly addressed and posted:
+(b) if a notice of withdrawal under section 56B(3)(c) is sent by post in accordance with section 136, it is to be treated as given to the tenant on the date on which it is posted, and, in proving that the notice was given, it is sufficient to prove that the letter was properly addressed and posted.
+(2) Despite section 136(7),—
+(a) if a notice of withdrawal under section 56B(1) and accompanying qualifying evidence under section 56B(1)(a) are delivered to an address in accordance with section 136, they are to be treated as given to the landlord on the date on which they are delivered, and, in proving that the notice and evidence were given, it is sufficient to prove that the letter was properly addressed and delivered:
+(b) if a notice of withdrawal under section 56B(3)(c) is delivered to an address in accordance with section 136, it is to be treated as given to the tenant on the date on which it is delivered, and, in proving that the notice was given, it is sufficient to prove that the letter was properly addressed and delivered.
