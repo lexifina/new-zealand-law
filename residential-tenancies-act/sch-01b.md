@@ -19,7 +19,7 @@ Section Description of offence Fine (cl 1(a)) ($) Fine (cl 1(b)) ($) Fee (cl 2(a
 15(3) Failing to give notice as successor 2,000 1,000 1,000 500
 16(2A) Failing to notify change of name or address 2,000 1,000 1,000 500
 16A(6)(b) Failing to appoint agent when outside New Zealand for longer than 21 consecutive days 3,000 1,500 1,000 500
-17(5) Requiring key money 3,000 1,500 1,000 500
+17(3A) Requiring key money 3,000 1,500 1,000 500
 17A(4) Requiring letting fee 3,000 1,500 1,000 500
 18(4)(b) Requiring bond greater than amount permitted 3,000 1,500 1,000 500
 18A(2)(b) Requiring unauthorised form of security 3,000 1,500 1,000 500
