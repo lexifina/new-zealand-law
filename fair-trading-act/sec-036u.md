@@ -6,7 +6,9 @@
 (iii) is legible; and
 (iv) is presented clearly; and
 (v) complies with the requirements of subsection (2); and
-(b) a copy of the agreement is given to the consumer at the time the consumer purchases the extended warranty.
+(b) a copy of the agreement is given to the consumer—
+(i) at the time the agreement is entered into; or
+(ii) in the case of an agreement entered into over the telephone, within 5 working days after the date on which the agreement was entered into.
 (2) The requirements referred to in subsection (1)(a)(v) are that—
 (a) the following information is set out on the front page of the agreement:
 (i) a summarised comparison between the relevant Consumer Guarantees Act 1993 guarantees and the protections provided by the extended warranty agreement; and
@@ -19,5 +21,5 @@
 (c) the total price payable under the agreement is disclosed in the agreement; and
 (d) the agreement is dated.
 (3) In addition to the requirements for written disclosure under subsections (1) and (2), the warrantor must, where reasonably practicable (for example, where the agreement is entered into between a warrantor and consumer in each other's presence or by telephone), give the consumer oral notice, before the agreement is entered into, of—
-(a) the consumer's right to cancel the agreement within 5 working days; and
+(a) the consumer's right to cancel the agreement within 5 working days after the date on which the consumer receives a copy of the agreement; and
 (b) how the consumer may cancel the agreement.

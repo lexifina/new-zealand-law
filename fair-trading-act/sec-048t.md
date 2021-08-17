@@ -1,0 +1,2 @@
+# 48T Powers of Commission to prohibit disclosure of information, documents, and evidence
+Section 100 of the Commerce Act 1986 (powers of Commission to prohibit disclosure of information, documents, and evidence) applies, with all necessary modifications, in relation to an investigation or inquiry by the Commission under this Act as it applies in relation to an investigation or inquiry under the Commerce Act 1986.
