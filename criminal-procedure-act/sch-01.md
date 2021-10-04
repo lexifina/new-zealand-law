@@ -88,15 +88,21 @@ Section Offence
 Section 5 Nuclear explosions prohibited
 Terrorism Suppression Act 2002
 Section Offence
-Section 6A Engaging in a terrorist act
+Section 6A Terrorist act: credible threat, attempt, and carrying out
+Section 6B Terrorist act: planning or other preparations to carry out (but, despite section 6(2)(a) and (b) of this Act, and in line with section 6B(5), this item does not make any of the following also a category 4 offence:
+(a) conspiring to commit an offence against section 6B:
+(b) attempting to commit an offence against section 6B:
+(c) inciting or counselling or procuring or attempting to procure any person to commit an offence against section 6B that is not committed)
 Section 7 Terrorist bombing
-Section 8 Financing of terrorism
+Section 8 Financing of, or provision of material support for, terrorism
 Section 9 Prohibition on dealing with property of, or derived or generated from property of, designated terrorist entity
-Section 10 Prohibition on making property, or financial or related services, available to designated terrorist entity
+Section 10 Prohibition on making property, or material support, available to designated terrorist entity
 Section 12 Recruiting members of terrorist groups
 Section 13 Participating in terrorist groups
+Section 13AA Providing or receiving weapons or combat training for terrorist purposes
 Section 13A Harbouring or concealing terrorists
 Section 13B Offences involving use and movement of unmarked plastic explosives
 Section 13C Offences involving physical protection of nuclear material
 Section 13D Importation, acquisition, etc, of radioactive material
 Section 13E Offences involving radioactive material and radioactive devices
+Section 13F Travelling intending to commit specified offence
