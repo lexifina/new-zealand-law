@@ -60,8 +60,8 @@ Supplying or administering, or offering to supply or administer, any Class A or 
 Possession of any Class A or Class B controlled drug for the purpose of supplying or administering, or offering to supply or administer, to any other person, or otherwise dealing in any such controlled drug Misuse of Drugs Act 1975, section 6(1)(f)
 Conspiring to commit an offence specified in sections 6(1)(a), (b), (c), or (f) of the Misuse of Drugs Act 1975 in relation to a Class A controlled drug Misuse of Drugs Act 1975, section 6(2A)(a)
 Inducing or compelling persons to provide commercial sexual services or earnings from prostitution Prostitution Reform Act 2003, section 16
-Engaging in a terrorist act Terrorism Suppression Act 2002, section 6A
+Terrorist act: credible threat and carrying out (but excluding an attempt) Terrorism Suppression Act 2002, section 6A(1) (but excluding an attempt)
 Terrorist bombing Terrorism Suppression Act 2002, section 7
-Financing of terrorism Terrorism Suppression Act 2002, section 8
+Financing of, or provision of material support for, terrorism Terrorism Suppression Act 2002, section 8(1), (1A), (2A), or (2B)
 Recruiting members of terrorist group Terrorism Suppression Act 2002, section 12
 Participating in terrorist group Terrorism Suppression Act 2002, section 13
