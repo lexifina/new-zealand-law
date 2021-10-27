@@ -8,3 +8,4 @@
 (iii) the ending of the moratorium in relation to the area will not limit or adversely affect the establishment of aquaculture management areas in the future.
 (3) The Minister must make a recommendation under subsection (1) within 40 working days after receiving a request if the Minister is not prevented by subsection (2) from making the recommendation.
 (4) For the purposes of subsection (3), sections 37 and 37A apply, with all necessary modifications, as if the Minister were acting as a consent authority.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

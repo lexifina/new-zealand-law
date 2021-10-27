@@ -25,3 +25,4 @@
 (a) make different provisions for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
 (b) make provisions applying to all landlords or provisions that apply only to particular descriptions of landlords, premises, areas in New Zealand, or other circumstances.
 (7) In this section, premises, in relation to a tenancy that is not a boarding house tenancy, includes facilities.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

@@ -1,5 +1,5 @@
 # 217Q Regulations relating to sales information on nitrogenous fertiliser
-The Governor-General may, by Order in Council made on the recommendation of the Minister after consulting the Minister of Agriculture, make regulations that—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister after consulting the Minister of Agriculture, make regulations that—
 (a) require persons of a specified class to collect any of the following information relating to or arising from the sale and purchase of nitrogenous fertiliser:
 (i) the date of purchase:
 (ii) where the purchase took place:
@@ -16,3 +16,4 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (iv) a specified agency; and
 (d) specify the manner in which, and the frequency at which, that information is to be provided; and
 (e) allow the collection of personal information of a purchaser only if their purchase exceeds a prescribed volume of nitrogenous fertiliser.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

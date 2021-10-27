@@ -24,4 +24,4 @@
 (c) the extent and timing of public debate and consultation that took place before the proposed national direction was prepared:
 (d) any other relevant matter.
 (7) If the Minister decides, after consulting as required by subsection (3), to recommend that regulations on the same subject matter as that consulted on be made under any of sections 360 to 360C, the consultation under subsection (3) satisfies the requirement to consult the public and iwi authorities in relation to those regulations.
-(8) A national policy statement prepared in accordance with this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(8) [Repealed]

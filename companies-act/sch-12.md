@@ -88,6 +88,7 @@ A person who wishes to rely on a provision of this schedule in a proceeding for,
 (ii) the integrity of corporate insolvency law.
 (3) Different matters may be prescribed in respect of different classes of companies, transactions, or other circumstances.
 (4) See also clause 10 (for regulations prescribing a benchmark date).
+(5) Regulations under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 10 Regulations relating to safe harbour periods
 (1) The Governor-General may, by Order in Council made on the recommendation of the Ministers, make regulations that—
 (a) extend the initial safe harbour period until no later than 31 March 2021:
@@ -110,3 +111,5 @@ A person who wishes to rely on a provision of this schedule in a proceeding for,
 (ii) no later than the date that is 3 months before the start of the new safe harbour period:
 (b) prescribe a date, for the purposes of clauses 6(3) and 7(4), but that date must be not later than 18 months after the start of the new safe harbour period.
 (7) Subclauses (5) and (6) do not limit subclause (1).
+(8) Regulations under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(9) An order under subclause (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

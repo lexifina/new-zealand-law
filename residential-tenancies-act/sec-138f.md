@@ -16,3 +16,4 @@
 (b) the reduction will be the same or substantially the same as, or greater than, the reduction that would otherwise have applied under section 56B(3)(d) and (5).
 (5) Regulations under this section may make different provision for different classes of persons, premises, or tenancies.
 (6) In this section, PACHMA tenancy has the meaning given to it by section 56B(8).
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

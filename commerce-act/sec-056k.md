@@ -5,4 +5,4 @@
 (c) individual price-quality regulation.
 (2) The order must include an expiry date (which must be no later than 20 years after the commencement date) at the close of which the order is revoked.
 (3) Despite subsection (2), the order may be earlier revoked in the manner in which it was made.
-(4) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

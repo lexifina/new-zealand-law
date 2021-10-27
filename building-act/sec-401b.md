@@ -3,3 +3,4 @@
 (2) An order under subsection (1) may apply to any kind of building work or design work generally, or may apply to building work or design work in relation to particular types or categories of buildings or to particular parts of buildings.
 (3) The Minister may recommend the making of an order under this section only if the Minister is satisfied that the kind of building work or design work in question is (or is likely to be) critical to the integrity of a building or part of a building.
 (4) Building work or design work is not restricted building work if it relates to an application for a building consent made before the commencement of an order under subsection (1) declaring building work or design work of the same kind to be restricted building work.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

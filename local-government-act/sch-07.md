@@ -77,7 +77,9 @@ Remuneration of members
 (4) The Remuneration Authority may direct a local authority to make publicly available any rules it has approved under subclause (3)(e).
 (5) The Remuneration Authority may issue separate determinations, at different times, for the different positions listed in subclauses (1) and (2).
 (6) Clause 7A applies to determinations made under this clause.
-(7) A determination by the Remuneration Authority under this clause is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(7) A determination by the Remuneration Authority under this clause—
+(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+(b) comes into force in accordance with clause 7A, even if it is not yet published.
 (8) [Repealed]
 7 Mandatory criteria for Remuneration Authority
 (1) In determining remuneration under clause 6, the Remuneration Authority must have regard to the need to—
@@ -114,6 +116,7 @@ The Remuneration Authority must—
 (b) may provide for—
 (i) the deduction of over-recoveries for a financial year from a levy payable in subsequent financial years; and
 (ii) the addition of under-recoveries for a financial year to a levy payable in a subsequent year.
+(3) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 10A Minister responsible for Remuneration Authority to set levy
 (1) The Minister responsible for the Remuneration Authority may, in each financial year, set a levy on local authorities in accordance with any regulations made under clause 10.
 (2) The levy comes into effect on the 28th day after the date on which the Minister responsible for the Remuneration Authority notifies in the Gazette—

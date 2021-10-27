@@ -25,3 +25,4 @@
 (l) provide for any other matters that are contemplated by, or necessary for giving full effect to, this Part and for its due administration.
 (2) Regulations under this section may apply generally or to specified districts, regions, or parts of New Zealand.
 (3) Regulations under this section may incorporate material by reference under Schedule 1AA (which applies as if references in that schedule to a national environmental standard, national policy statement, or New Zealand coastal policy statement were references to regulations under this section).
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

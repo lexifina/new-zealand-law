@@ -171,3 +171,7 @@ An amendment made by section 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 99, or 100 
 30 Effect of amendments on notice of intention to review resource consent conditions
 (1) An amendment made by section 38 or 39 of the amendment Act does not affect a notice of intention to review resource consent conditions if, before the date that section came into force (see section 2 of the amendment Act), the notice was served on a consent holder.
 (2) In this clause, a notice of intention to review resource consent conditions means a notice under section 128.
+Part 4 Provisions relating to Legislation Act 2019
+31 Local authority recognition of national planning standards
+(1) Section 58I(3)(b) and (7)(b), as in force immediately before the main commencement date, continues to apply in relation to a national planning standard that was notified in the Gazette before the main commencement date.
+(2) In this clause, main commencement date means the date on which section 10 of the Legislation (Repeals and Amendments) Act 2019 (which repeals the Legislation Act 2012) comes into force.

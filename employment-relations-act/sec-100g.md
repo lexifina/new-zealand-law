@@ -4,3 +4,4 @@
 (a) requested to do so by the Commissioner of Police and service organisations representing not less than three-quarters of service organisation members employed by the Police; and
 (b) the Minister has consulted the Minister of Police and any other persons and organisations that he or she considers appropriate.
 (3) In this section, service organisation has the same meaning as in section 55 of the Policing Act 2008.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

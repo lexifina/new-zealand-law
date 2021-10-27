@@ -9,3 +9,4 @@
 (b) requirements about the inspection, maintenance, or replacement of smoke alarms that are installed at premises:
 (c) requirements about the numbers, locations, condition, types, or technical specifications of smoke alarms that are installed at premises and requirements about methods of installation.
 (4) However, the requirements that may be imposed on tenants by regulations under this section are limited to requirements in respect of the replacement of worn-out batteries contained in smoke alarms.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

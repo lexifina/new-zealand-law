@@ -52,4 +52,4 @@ A transfer prohibition notice that was given by the Commissioner under section 1
 (a) the proceedings referred to in subclause (1)(a) are discontinued or completed:
 (b) the sentencing referred to in subclause (1)(a) is completed:
 (c) the outcome of the proceedings and sentencing referred to in subclause (1)(a) has been recorded by the Police.
-(3) Subclause (2) does not limit the application of section 19 of the Interpretation Act 1999.
+(3) Subclause (2) does not limit the application of section 34 of the Legislation Act 2019.

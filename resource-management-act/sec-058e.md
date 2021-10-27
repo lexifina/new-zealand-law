@@ -5,5 +5,5 @@
 (2) The Minister may—
 (a) approve a national planning standard after changing the draft in the manner that the Minister thinks fit; or
 (b) withdraw all or part of a draft national planning standard and give public notice of the withdrawal, including the reasons for the withdrawal.
-(3) The Minister must give notice of the approval of a national planning standard in the Gazette.
-(4) National planning standards are disallowable instruments, but not legislative instruments, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(3) National planning standards under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) [Repealed]

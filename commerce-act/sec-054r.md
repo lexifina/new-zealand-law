@@ -1,7 +1,7 @@
 # 54R Approval of Transpower's grid upgrade plans
 (1) The role of the Electricity Commission in requesting or approving grid upgrade plan proposals by Transpower (including proposals to amend existing grid upgrade plans) is transferred to the Commission on the commencement date.
 (2) Subsection (1) applies both to proposals made on and after the commencement date and to any proposals that were requested or under consideration by the Electricity Commission before the commencement date.
-(3) Until the input methodology required by section 54S is determined and published under section 52W,—
+(3) Until the input methodology required by section 54S is determined and published as referred to in section 52W,—
 (a) Transpower must comply with Part F of the Electricity Governance Rules, as that Part relates to grid upgrade plan proposals; and
 (b) when considering grid upgrade plan proposals, the Commission—
 (i) must apply, with any necessary modifications, the grid investment test set out in Schedule F4 of Part F of the Electricity Governance Rules; and

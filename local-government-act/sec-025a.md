@@ -17,3 +17,4 @@
 (a) amended in their application; or
 (b) declared not to apply.
 (6) Clauses 47 to 60A of Schedule 3 apply to each reorganisation implementation scheme that is given effect to by Order in Council.
+(7) An order under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

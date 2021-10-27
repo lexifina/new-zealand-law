@@ -26,3 +26,4 @@
 (ii) with modifications, additions, or variations specified in the regulations; and
 (b) without limiting the generality of the above, permit the landlord to decontaminate abandoned goods and deduct from the proceeds of sale the costs of decontaminating the goods that were reasonably incurred by the landlord.
 (9) In this section, premises includes facilities.
+(10) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

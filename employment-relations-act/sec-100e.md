@@ -5,3 +5,4 @@
 (i) not less than three-quarters of district health boards; and
 (ii) unions who represent not less than three-quarters of union members employed by district health boards; and
 (b) the Minister has consulted the Minister of Health and such other persons and organisations as he or she considers appropriate.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

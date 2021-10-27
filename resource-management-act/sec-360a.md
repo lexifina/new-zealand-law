@@ -10,3 +10,4 @@
 (3) In this section and sections 360B and 360C, amend provisions includes—
 (a) omitting provisions (whether other provisions are substituted or not):
 (b) adding provisions.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

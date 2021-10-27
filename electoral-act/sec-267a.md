@@ -14,4 +14,5 @@
 (b) override or modify any other enactment and any bylaw or other instrument.
 (4) In this section, advertisement of a specified kind has the same meaning as in section 221B(2).
 (5) This section is subject to section 267B.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1993 No 87 s 267A (pre-20 December 2007)

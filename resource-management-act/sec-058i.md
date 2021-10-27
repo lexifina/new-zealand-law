@@ -12,7 +12,7 @@ Mandatory directions
 (b) to ensure that the document is consistent with any constraint or limit placed on the content of the document under section 58C(2)(a) to (c).
 (3) An amendment required by subsection (2) must—
 (a) be made without using any of the processes set out in Schedule 1; and
-(b) be made within the time specified in the national planning standard or (in the absence of a specified time) within 1 year after the date of the notification in the Gazette of the approval of the national planning standard; and
+(b) be made within the time specified in the national planning standard or (in the absence of a specified time) within 1 year after the date on which the national planning standard is published under the Legislation Act 2019; and
 (c) amend the document to include the provisions as directed; and
 (d) include any consequential amendments to any document as necessary to avoid duplication or conflict with the amendments; and
 (e) be publicly notified not later than 5 working days after the amendments are made under paragraph (d).
@@ -28,6 +28,6 @@ Discretionary directions
 Other changes that may be directed
 (7) A local authority must—
 (a) make all other amendments to any document that are required to give effect to any provision in a national planning standard that affects the document, using one of the processes set out in Schedule 1; and
-(b) notify all amendments required under paragraph (a) not later than 1 year after the date of the notification in the Gazette of the approval of the national planning standard or at another time specified in the national planning standard.
+(b) notify all amendments required under paragraph (a) not later than 1 year after the date on which the national planning standard is published under the Legislation Act 2019.
 (8) A local authority must also take any other action that is directed by a national planning standard.
 (9) This section and section 58J are subject to the obligations of local authorities, or of any particular local authority, under any other Act that relates to the preparation or change of a policy statement or plan under this Act.

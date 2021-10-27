@@ -16,11 +16,5 @@
 (b) publish in the Gazette, and in all of the daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin, a notice of his or her intention to make the rule; and
 (c) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposal; and
 (d) consult any other persons or groups as the Secretary considers appropriate.
-(4) The Secretary must—
-(a) make copies of the rules available for purchase at a reasonable price; and
-(b) make copies of the rules available free of charge, at all reasonable times, on the Secretary's Internet site; and
-(c) give notice in the Gazette that—
-(i) the rules have been made; and
-(ii) copies of the rules may be purchased and the place at which they may be purchased; and
-(iii) the rules are available on an Internet site, free of charge, and state the Internet site address.
-(5) A rule comes into force 28 days after the date of its notification in the Gazette or on such later date as may be specified in the rule.
+(4) Rules under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(5) A rule comes into force 28 days after the date of its publication or on such later date as may be specified in the rule.

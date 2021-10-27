@@ -21,4 +21,5 @@
 (a) a publicly notified offer of authorisations:
 (b) an application for a coastal permit.
 (8) An authorisation allocated in accordance with subsection (3)(d) is a settlement asset for the purposes of the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(9) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1991 No 69 s 165O

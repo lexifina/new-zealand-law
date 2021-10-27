@@ -6,3 +6,4 @@
 (3) Before making a recommendation under subsection (2)(a), the Commission—
 (a) must assess the benefits, in meeting the purpose of this Part, of declaring the services to be specified airport services against the costs of declaring the services to be specified airport services; and
 (b) must be satisfied that the services are supplied in a market where 1 or more of the specified airport companies have a substantial degree of market power.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

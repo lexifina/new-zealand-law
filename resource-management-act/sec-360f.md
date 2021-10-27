@@ -13,3 +13,4 @@
 (i) the class of application; and
 (ii) the complexity of the class of application to which the charges apply; and
 (c) may specify a class or classes of additional charges that may apply.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

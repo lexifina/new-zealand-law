@@ -10,3 +10,4 @@
 (a) has had regard to the purpose of this subpart; and
 (b) has consulted the Commission and the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
 (7) If no regulations have been made, the prescribed amount is $30.
+(8) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

@@ -5,7 +5,7 @@ In this schedule, unless the context otherwise requires,—
 material means written material that is set out in a document other than a Part 4 determination
 Part 4 determination means either of the following:
 (a) a determination made under section 52P; or
-(b) an input methodology published under section 52W.
+(b) an input methodology published as referred to in section 52W.
 2 Material incorporated by reference into Part 4 determinations
 (1) The Commission may incorporate by reference any material into a Part 4 determination if—
 (a) the material deals with technical matters; and
@@ -30,21 +30,23 @@ Part 4 determination means either of the following:
 (2) Subclause (1) applies to material when it is first incorporated into a Part 4 determination, and to any subsequent amendment or replacement of the material that is incorporated into the determination.
 (3) A failure to comply with this clause does not invalidate a Part 4 determination.
 5 Effect of amendments to, or replacements of, material incorporated by reference
-An amendment to, or replacement of, material incorporated by reference in a Part 4 determination has legal effect as part of the determination only if—
+(1) An amendment to, or replacement of, material incorporated by reference in a Part 4 determination has legal effect as part of the determination only if—
 (a) the amendment or replacement material is made by the person or organisation that made the original material; and
 (b) the amendment or replacement material is of the same general character as the original material; and
 (c) either—
 (i) a subsequent Part 4 determination states that the particular amendment or replacement material has legal effect as part of the determination; or
-(ii) the chairperson, by notice in the Gazette, adopts the amendment or replacement material as having legal effect as part of the determination.
+(ii) the chairperson, by notice, adopts the amendment or replacement material as having legal effect as part of the determination.
+(2) A notice under subclause (1)(c)(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 6 Effect of expiry of material incorporated by reference
-Material incorporated by reference in a Part 4 determination that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the Part 4 determination only if—
+(1) Material incorporated by reference in a Part 4 determination that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the Part 4 determination only if—
 (a) a subsequent Part 4 determination states that the material ceases to have that legal effect; or
-(b) the chairperson, by notice in the Gazette, states that the material ceases to have that legal effect.
+(b) the chairperson, by notice, states that the material ceases to have that legal effect.
+(2) A notice under subclause (1)(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 7 Consultation before material incorporated by reference
 (1) This clause applies if—
 (a) the Commission proposes to incorporate material by reference into any Part 4 determination; or
 (b) the Commission proposes to make a Part 4 determination adopting amended or replacement material; or
-(c) the chairperson proposes to publish a notice in the Gazette adopting amended or replacement material.
+(c) the chairperson proposes to make a notice adopting amended or replacement material.
 (2) If any of the things referred to in subclause (1) are proposed, the Commission—
 (a) must make copies of the material (which in this subclause includes any amended or replacement material) proposed to be incorporated by reference available for inspection during normal working hours at the head office of the Commission; and
 (b) must make copies of the material available for purchase at a reasonable price from the head office of the Commission; and
@@ -53,8 +55,7 @@ Material incorporated by reference in a Part 4 determination that expires, is re
 (e) must allow a reasonable opportunity for people to comment on the proposal; and
 (f) must consider any comments made within the time allowed.
 (3) A failure to comply with this clause does not invalidate a Part 4 determination.
-8 Application of Legislation Act 2012 to material incorporated by reference
-(1) Part 2 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
-(2) Subpart 1 of Part 3 of the Legislation Act 2012 does not apply to material incorporated by reference in a Part 4 determination or to any amendment to, or replacement of, that material.
+8 Application of Legislation Act 2019 to material incorporated by reference
+Subpart 1 of Part 3 and section 114 of the Legislation Act 2019 do not apply to material that is incorporated by reference in a Part 4 determination merely because it is incorporated.
 9 Regulations (Disallowance) Act 1989 not applicable
 [Repealed]

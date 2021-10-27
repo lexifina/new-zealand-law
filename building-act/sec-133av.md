@@ -11,3 +11,5 @@
 (4) The methodology may incorporate material by reference in accordance with sections 405 to 413.
 (5) The chief executive may amend or replace the methodology at any time.
 (6) If the chief executive amends or replaces the methodology, sections 133AW and 133AX apply in respect of the amendment or replacement with any necessary modifications.
+(7) As soon as practicable after the chief executive has set the EPB methodology, the chief executive must notify territorial authorities that the methodology has been set.
+(8) An instrument setting the EPB methodology under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

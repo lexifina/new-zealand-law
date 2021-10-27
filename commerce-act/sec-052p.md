@@ -12,9 +12,6 @@
 (4) It is not necessary for a single determination to address all matters relating to particular regulated goods or services, or to a supplier of regulated goods or services, and different parts of any determination may come into effect at different times.
 (5) If a determination under this section is made following an inquiry and a recommendation under section 52K, the requirements referred to in subsection (3)(a) must not differ in any material respect from the recommendation, or (if applicable) from any advice given to the Minister under section 52L(3).
 (6) A determination under this section may require a supplier to comply with the requirements set out in any other determination that has been made under this section in respect of regulated goods or services of the same type.
-(7) The Commission must, as soon as practicable after making a determination under this section,—
-(a) give a copy of the determination to each supplier to whom the determination relates; and
-(b) publish a summary of it in the Gazette; and
-(c) make the whole determination publicly available.
+(7) The Commission must, as soon as practicable after making a determination under this section, give to each supplier to whom the determination relates notice of the determination and where it is available.
 (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
-(9) A determination under this section is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+(9) A determination under this section and an amendment to a determination are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

@@ -37,5 +37,5 @@ warning notice means a warning notice issued by an IPAP to an account holder in 
 (b) in the case of an infringement notice, the date on which it is issued by the IPAP:
 (c) in the case of a challenge made under section 122G, the date on which it is received from an account holder by an IPAP:
 (d) in the case of a response to a challenge, the date on which the IPAP receives the response from the rights owner.
-(4) Despite section 35(6) of the Interpretation Act 1999, for the purposes of this section and sections 122B to 122U, periods of time end on the day calculated, whether or not that day is a working day.
+(4) Despite section 55 of the Legislation Act 2019, for the purposes of this section and sections 122B to 122U, periods of time end on the day calculated, whether or not that day is a working day.
 (5) Examples used in this section and sections 122B to 122U are illustrative only. If an example is inconsistent with any provision, the provision prevails.

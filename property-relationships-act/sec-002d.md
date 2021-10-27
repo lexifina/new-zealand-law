@@ -1,5 +1,5 @@
 # 2D Meaning of de facto relationship
-(1) For the purposes of this Act, a de facto relationship is a relationship between 2 persons (whether a man and a woman, or a man and a man, or a woman and a woman)—
+(1) For the purposes of this Act, a de facto relationship is a relationship between 2 persons (regardless of their sex, sexual orientation, or gender identity)—
 (a) who are both aged 18 years or older; and
 (b) who live together as a couple; and
 (c) who are not married to, or in a civil union with, one another.

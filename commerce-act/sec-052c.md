@@ -3,7 +3,7 @@ In this Part, unless the context otherwise requires,—
 claw-back has the meaning given to it by section 52D
 consumer (other than in sections 54C, 54D, and 55A) means a person that consumes or acquires regulated goods or services
 information disclosure requirement means a requirement that applies to a supplier of goods or services that are subject to information disclosure regulation, and is specified in a section 52P determination
-input methodology means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published by the Commission under section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
+input methodology means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published as referred to in section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
 inquiry means,—
 (a) for the purposes of subpart 11, an inquiry by the Commission into the regulation of specified airport services that is carried out in accordance with sections 56F to 56H; and
 (b) for all other purposes, an inquiry by the Commission that is carried out in accordance with sections 52H to 52J

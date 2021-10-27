@@ -8,3 +8,4 @@
 (c) the Minister has considered those comments.
 (3) A failure to comply with subsection (2) does not affect the validity of any Order in Council made under this section.
 (4) In this section, agreement for the issue or sale of a financial product means an agreement, resulting from an offer described in section 34(2) of the Financial Markets Conduct Act 2013, for the issue or sale of a financial product (within the meaning of that section).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

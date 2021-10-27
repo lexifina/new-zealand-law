@@ -16,3 +16,4 @@ encryption technology means the scrambling and descrambling of information using
 librarian includes a person acting on behalf of the librarian
 prescribed library has the same meaning as in section 50(1).
 (6) In this section and in section 226E, encryption research means identifying and analysing flaws and vulnerabilities of encryption technology.
+(7) An order under subsection (3)(d) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

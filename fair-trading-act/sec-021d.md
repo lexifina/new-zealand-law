@@ -6,3 +6,4 @@
 (a) the Minister has consulted such persons or representatives of such persons as the Minister considers will be substantially affected by any Order in Council made in accordance with the recommendation, and those persons have had the opportunity to comment to the Minister; and
 (b) the Minister has considered any such comments.
 (3) A failure to comply with subsection (2) does not affect the validity of any regulations made under this section.
+(4) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

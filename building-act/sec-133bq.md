@@ -3,6 +3,7 @@
 (2) The post-event assessment must be prepared—
 (a) in accordance with the methodology (if any) approved by the chief executive; and
 (b) in writing and in the form (if any) approved by the chief executive.
+(2A) An instrument containing the methodology approved by the chief executive under subsection (2)(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (3) If a responsible person has reasonable grounds for believing entry to be necessary for making the post-event assessment of a building, the responsible person may—
 (a) enter a simple-unit residential building or a household unit within a simple-unit residential building only—
 (i) with the occupier's consent; or

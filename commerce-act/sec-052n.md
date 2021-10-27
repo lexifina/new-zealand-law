@@ -10,4 +10,4 @@
 (d) any or all of paragraphs (a) to (c).
 (4) Subsection (3) applies so that any part or element of goods or services can be dealt with separately.
 (5) The order must include an expiry date, which must be a date not later than 20 years after its date of commencement.
-(6) The order is a legislative instrument and a disallowable instrument for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(6) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

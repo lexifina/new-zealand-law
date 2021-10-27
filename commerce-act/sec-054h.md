@@ -12,3 +12,4 @@
 (4) If exact figures are not available as to the number of persons in a class referred to in subsection (3), the Commission may rely on any estimate that the Commission considers to be a reasonable estimate.
 (5) Petition means a petition to the Commission seeking the application of price-quality regulation to all or any of the electricity lines services of the relevant supplier, and that records the signatures of the signatories.
 (6) The Governor-General may, on the recommendation of the Minister, make an Order in Council in accordance with this section.
+(7) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

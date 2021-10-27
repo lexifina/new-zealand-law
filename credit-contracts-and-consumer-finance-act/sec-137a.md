@@ -14,3 +14,4 @@
 (e) has consulted the persons or representatives of the persons who the Minister considers will be substantially affected by the regulations.
 (3) If the Minister makes a recommendation, the Minister's reasons for making the recommendation (including why the declaration is appropriate) must be published together with the regulations.
 (4) If a declaration is made under subsection (1)(b) or (c), this Act applies with any modifications specified in the regulations and with all other necessary modifications.
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

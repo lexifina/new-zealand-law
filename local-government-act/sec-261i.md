@@ -7,8 +7,8 @@
 (a) consult every local authority; and
 (b) publish in the Gazette a notice of his or her intention to make the rules; and
 (c) give interested persons a reasonable time, which must be specified in the notice, to make submissions on the proposal.
-(4) After making such rules, the Secretary must—
-(a) make the rules available, at all reasonable times, on the Secretary's Internet site; and
-(b) give notice in the Gazette stating that the rules have been made and are available on the Secretary's Internet site and specifying the Internet site address.
-(5) Rules made under this section are effective 28 days after the date on which the notice is given in the Gazette, or on any later date that is specified in the rules.
-(6) A rule made under this section is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
+(4) [Repealed]
+(5) Rules made under this section are effective 28 days after the date of publication under the Legislation Act 2019, or on any later date that is specified in the rules.
+(6) Rules under this section—
+(a) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); but
+(b) commence in accordance with subsection (5).

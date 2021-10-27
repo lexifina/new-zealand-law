@@ -56,7 +56,7 @@ Re-incorporation of existing material incorporated by reference
 (b) any transfer notice made under section 160A of the Hazardous Substances and New Organisms Act 1996; and
 (c) any group standard made under section 96B of the Hazardous Substances and New Organisms Act 1996; and
 (d) any reassessment under section 63 of the Hazardous Substances and New Organisms Act 1996.
-(2) Section 51 of the Legislation Act 2012 (which requires consultation about material proposed to be incorporated by reference) does not apply to regulations made under this Act or safe work instruments approved under section 227 of this Act that incorporate existing material by reference in reliance on section 49 of that Act.
+(2) Clause 1 of Schedule 2 of the Legislation Act 2019 (which requires consultation about material proposed to be incorporated by reference) does not apply to regulations made under this Act or safe work instruments approved under section 227 of this Act that incorporate existing material by reference in reliance on section 64 of that Act.
 (3) Existing material that is incorporated by reference in accordance with this clause may—
 (a) include corrections or changes:
 (b) include new material that replaces or supersedes the existing material in whole or in part (for example, a new standard that replaces an earlier standard):

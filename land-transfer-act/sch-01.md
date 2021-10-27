@@ -70,8 +70,8 @@ Any charge that was, immediately before the commencement of this clause, registe
 (2) In this clause,—
 certificate of title means a certificate of title issued under the Land Transfer Act 1952
 computer register means a computer freehold register, computer interest register, or computer unit title register created under the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
-13 Application of Interpretation Act 1999
-Except as provided in clauses 1 to 12 or in regulations made under section 228, nothing in this schedule limits the Interpretation Act 1999.
+13 Application of Part 2 of Legislation Act 2019
+Except as provided in clauses 1 to 12 or in regulations made under section 228, nothing in this schedule limits Part 2 of the Legislation Act 2019.
 Part 2 Provision relating to the Taxation (Annual Rates for 2019-20, GST Offshore Supplier Registration, and Remedial Matters) Act 2019
 14 Six-month transitional period for existing agreements
 (1) The old regime continues to apply in relation to a transfer of land if—

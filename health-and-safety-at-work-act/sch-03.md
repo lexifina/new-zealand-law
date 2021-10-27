@@ -72,7 +72,8 @@ In this schedule, tunnelling operation—
 (c) excludes any tunnelling operation of a kind declared under clause 5 not to be a tunnelling operation.
 Compare: 1992 No 96 s 19O
 5 Regulations excluding tunnelling operations from clause 4
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring that certain operations or classes of operation are not tunnelling operations for the purposes of clause 4.
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations declaring that certain operations or classes of operation are not tunnelling operations for the purposes of clause 4.
+(2) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1992 No 96 s 19P
 Worker engagement, participation, and representation in mining sector
 6 How Part 3 applies in mining sector
@@ -258,4 +259,5 @@ Compare: 1992 No 96 s 20G
 (4) Before making a recommendation under this clause, the Minister must—
 (a) receive advice from WorkSafe on the proposed levy; and
 (b) consult the people responsible for paying the proposed levy.
+(5) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1992 No 96 s 20H

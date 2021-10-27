@@ -16,4 +16,4 @@
 (4) A regulatory period must be 5 years.
 (5) However, the Commission may set a shorter period than 5 years if it considers that it would better meet the purposes of this Part, but in any event may not set a term less than 4 years.
 (6) Subsections (4) and (5) are subject to section 53W.
-(7) No default price-quality path applies to a supplier until the date specified in the relevant section 52P determination, which must be a date at least 4 months after a summary of the determination is published in the Gazette under section 52P(7)(b).
+(7) No default price-quality path applies to a supplier until the date specified in the relevant section 52P determination, which must be a date at least 4 months after the determination is published as referred to in section 52P(9).

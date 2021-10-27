@@ -13,10 +13,11 @@ s 46B
 (5) A requirement to provide a copy of any material or document incorporated by reference under this schedule is satisfied if an electronic copy is provided.
 2 Effect of amendments to, or replacement of, material incorporated by reference
 (1) An amendment to, or replacement of, material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement has legal effect as part of the standard or statement only if the Minister publishes a notice under subclause (2).
-(2) The Minister may publish a notice in the Gazette that—
+(2) The Minister may publish a notice that—
 (a) states that subclause (1) applies to the national environmental standard, national policy statement, or New Zealand coastal policy statement; and
 (b) specifies the date on which subclause (1) applies to the standard or statement.
 (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
+(4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 3 Proof of material incorporated by reference
 (1) A copy of material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement including any amendment to, or replacement of, the material (material), must be—
 (a) certified as a correct copy of the material by the chief executive of the Ministry for the Environment; and
@@ -24,10 +25,11 @@ s 46B
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material in the national environmental standard, national policy statement, or New Zealand coastal policy statement.
 4 Effect of expiry of material incorporated by reference
 (1) Material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the standard or statement only if the Minister publishes a notice under subclause (2).
-(2) The Minister may publish a notice in the Gazette that—
+(2) The Minister may publish a notice that—
 (a) states that subclause (1) applies to the national environmental standard, national policy statement, or New Zealand coastal policy statement; and
 (b) specifies the date on which subclause (1) applies to the standard or statement.
 (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
+(4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 5 Access to material incorporated by reference
 (1) The Ministry for the Environment—
 (a) must make the material referred to in subclause (2) (material) available for inspection during working hours at the offices of the Ministry; and

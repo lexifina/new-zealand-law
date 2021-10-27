@@ -24,3 +24,4 @@ pipeline—
 (b) in the case of a recommendation to add a pipeline, the gas pipeline services are supplied in a market where the owner of the pipeline does not have a substantial degree of market power; and
 (c) in the case of a recommendation to delete a pipeline, the gas pipeline services are supplied in a market where the owner of the pipeline has a substantial degree of market power; and
 (d) the Commission has consulted (without necessarily holding an inquiry) with interested parties.
+(7) An order under subsection (5) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

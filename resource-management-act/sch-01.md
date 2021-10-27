@@ -139,7 +139,7 @@ Streamlined planning process
 76 How responsible Minister considers request
 77 Responsible Minister's decision
 78 Direction and its content
-79 Form and status of directions under Legislation Act 2012
+79 Form and status of directions under Legislation Act 2012 [Repealed]
 80 Amendment of direction
 Other matters relevant to direction
 81 Time limits
@@ -1063,10 +1063,9 @@ An application to a Minister for a direction under section 80C to use the stream
 (a) any reporting requirements; and
 (b) any relevant planning process requirements set out in this schedule or elsewhere in this Act.
 (6) If a direction includes a requirement for a hearing, the restrictions of section 39(2)(c) and (d) (which relates to questioning and cross-examination in a hearing) do not apply.
+(7) A direction under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 79 Form and status of directions under Legislation Act 2012
-(1) A direction under clause 78 is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(2) As soon as is reasonably practicable after a direction has been made in accordance with clause 78, the responsible Minister must notify it in the Gazette.
-(3) The relevant local authority must ensure that, as soon as is reasonably practicable after a direction has been notified in the Gazette, the public can access or download the direction free of charge at or from an Internet site maintained by the local authority or on its behalf.
+[Repealed]
 80 Amendment of direction
 (1) The responsible Minister may initiate an amendment of a direction.
 (2) A local authority may request in writing that the responsible Minister amend a direction that applies to that local authority, setting out the reasons for the request.

@@ -5,3 +5,4 @@
 (b) is satisfied that the increase is necessary or desirable in order to avoid harm or disruption to credit markets that would otherwise be caused by the rise in market interest rates (that is, because more credit contracts would be within the bracket than would be the case if the rise in market rates had not occurred); and
 (c) is satisfied that the increase is not inconsistent with the purpose of this subpart; and
 (d) has consulted the Reserve Bank of New Zealand and the Commission.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

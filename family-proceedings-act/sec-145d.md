@@ -8,3 +8,4 @@
 (f) he has, in any proceedings before the court, or in writing signed by him, acknowledged that he is the father of the child.
 (2) The Governor-General may from time to time, by Order in Council, declare that this section applies to orders made by a specific court or public authority in a specified country outside New Zealand.
 (3) For the purposes of this section, the Cook Islands, Niue, and Tokelau shall be deemed to be countries outside New Zealand.
+(4) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

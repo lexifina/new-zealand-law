@@ -1,10 +1,10 @@
-# 52W Publication of input methodologies
-(1) The Commission must publish every input methodology, and every amendment to an input methodology,—
-(a) within 10 working days after the Commission determines the input methodology or amendment; and
-(b) if the input methodology or an amendment is determined by the High Court on appeal, within 10 working days after the Commission receives a copy of the decision of the High Court.
-(2) The publication must be by way of a notice in the Gazette setting out—
-(a) a brief description of the nature of the methodology and the goods or services to which it applies; and
-(b) the reasons for determining that methodology; and
-(c) how it is publicly available.
-(3) The Commission must make every input methodology, and every amended input methodology, publicly available as soon as the input methodology or amendment is published.
-(4) A published input methodology is neither a legislative instrument nor a disallowable instrument for the purposes of the Legislation Act 2012 (and does not have to be presented to the House of Representatives under section 41 of that Act).
+# 52W Status of input methodologies, amendments, and revocations
+(1) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+(a) an input methodology:
+(b) an amendment to an input methodology:
+(c) the revocation by the Commission of an input methodology.
+(2) The secondary legislation must be published under the Legislation Act 2019,—
+(a) if it is made by the Commission, within 10 working days after the Commission makes its determination; or
+(b) if it is made by the High Court on appeal, within 10 working days after the Commission receives a copy of the High Court's decision.
+(3) If an input methodology or amendment is made by the High Court on appeal, the Legislation Act 2019 applies as if the Commission were the maker of the secondary legislation.
+(4) When a methodology or an amendment (but not a revocation) is published, the Commission must publish its reasons for determining the methodology, or for amending it, on an Internet site maintained by or on behalf of the Commission.

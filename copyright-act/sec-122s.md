@@ -7,3 +7,4 @@
 (c) amend subsection (2) by replacing the date specified in that subsection with any other date, whether that date is earlier or later than the one it replaces:
 (d) revoke or amend any Order in Council made under this section (the principal order), but only if the repeal, amendment, or revocation effected by the principal order has not taken effect.
 (4) The powers in subsection (3) may be exercised more than once.
+(5) An order under subsection (3) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

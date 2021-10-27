@@ -32,3 +32,4 @@ requests includes—
 (a) soliciting for donations for a charitable purpose; and
 (b) canvassing for subscriptions for a charitable purpose; and
 (c) requests, by suppliers of goods or services, for donations that are included as part of the price of goods or services.
+(6) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

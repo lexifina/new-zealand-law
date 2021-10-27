@@ -27,3 +27,4 @@
 (ii) the integrity of corporate insolvency law.
 (5) The Ministers may make a recommendation for regulations under subsection (1)(l) only if the Ministers are satisfied that the regulations are necessary or desirable for the orderly transition of an entity out of being an entity in BDH.
 (6) Different matters may be prescribed, provided for, or specified in respect of different kinds of entity or other circumstances.
+(7) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

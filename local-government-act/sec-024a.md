@@ -19,3 +19,4 @@
 specified period means the period—
 (a) beginning on the date on which public notice is given of the reorganisation plan under clause 13 of Schedule 3; and
 (b) ending on the close of the date that is 6 months after the date on which that public notice is given.
+(7) An order under subsection (3) must be published in the Gazette.

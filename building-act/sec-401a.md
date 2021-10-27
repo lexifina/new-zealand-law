@@ -1,5 +1,5 @@
 # 401A Regulations: building consents and consent completion certificates
-The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
 (a) define low-risk building work including by specifying any or all of the following: the nature of the building work, the circumstances in which it may be carried out, or the conditions for carrying it out:
 (b) define simple residential building work:
 (c) define commercial building work:
@@ -12,3 +12,4 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 (h) prescribe the criteria for determining the risk profile of a commercial building:
 (i) prescribe the matters that must be included in a quality assurance system, including prescribing different matters for different types or categories of commercial building work:
 (j) define safety system.
+(2) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
