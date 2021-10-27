@@ -22,3 +22,7 @@ Estimates—
 multi-year appropriation means an appropriation authorised to apply for more than 1 financial year (see section 10 of the Public Finance Act 1989).
 (3) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
 (4) The Minister must consult with the suppliers of regulated goods or services, or representatives of those suppliers, before making a recommendation for the purposes of subsection (2).
+(5) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(6) If regulations authorise a person to grant exemptions or waivers referred to in subsection (2)(i),—
+(a) an instrument granting an exemption or a waiver is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only in a particular case; and
+(b) the regulations must contain a statement to that effect.

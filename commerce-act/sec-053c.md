@@ -28,3 +28,6 @@
 (e) provide for transitional provisions:
 (f) impose any other requirements that the Commission considers necessary or desirable to promote the purpose of information disclosure regulation.
 (4) The section 52P determination may not require a supplier to publicly disclose any provision of an existing contract that, immediately before the goods or services became subject to information disclosure regulation, was not required by or under Part 4A (as defined in section 54B) or any other enactment to be publicly disclosed.
+(5) If a section 52P determination authorises a person to grant exemptions referred to in subsection (3)(d),—
+(a) an instrument granting or revoking an exemption is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named persons; and
+(b) the determination must contain a statement to that effect.
