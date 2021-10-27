@@ -129,7 +129,7 @@ Compare: 1989 No 80 s 360
 (4) Unless it is sooner cancelled or expires,—
 (a) a practising certificate issued to a teacher who already holds a current practising certificate expires—
 (i) on the third anniversary of the day on which the certificate already held expires; or
-(ii) at any earlier time that the Teaching Council specifies, by notice in the Gazette, in respect of any or all kinds of practising certificate:
+(ii) at any earlier time that the Teaching Council specifies, by notice, in respect of any or all kinds of practising certificate (see subclause (8A):
 (b) a practising certificate issued to a teacher who does not already hold a current practising certificate expires—
 (i) on the third anniversary of the day it is issued; or
 (ii) at any earlier time that the Teaching Council decides in accordance with the standards and criteria maintained under section 479(1)(j).
@@ -150,6 +150,7 @@ Compare: 1989 No 80 s 360
 (i) the practising certificate the person last held was suspended under section 498 when it expired; and
 (ii) the suspension was not due to expire until a time after the issue of the renewed certificate.
 (8) A renewed practising certificate to which subclause (7) applies must be treated as being suspended under section 498, and its suspension expires when the suspension of the previous practising certificate held by its holder would have expired.
+(8A) A notice under subclause (4)(a)(ii) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (9) In this clause, satisfactory recent teaching experience, in relation to any person at any time, means either of the following, satisfactorily completed by the person during the 5 years before that time:
 (a) an uninterrupted period of employment of 2 years (or some shorter period or periods approved by the Teaching Council for the person) in a teaching position or teaching positions; or
 (b) a period of employment of 2 years (or some shorter period or periods approved by the Teaching Council for the person) in a position (or positions) that (or each of which) in the Teaching Council's opinion was equivalent to a teaching position in an educational institution in New Zealand approved by the Teaching Council for the purposes of this schedule.

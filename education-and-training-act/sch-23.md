@@ -122,7 +122,7 @@ Compare: 1989 No 80 s 102
 Compare: 1989 No 80 s 103
 10 Financial interests that disqualify persons from being board members
 (1) A person is not capable of being a board member or a member of a committee of a board if the total of all payments made or to be made by or on behalf of the board in respect of all contracts made by it in which that person is concerned or interested exceeds in any financial year—
-(a) the amount determined for the purpose by the Secretary, in consultation with the Auditor-General, by notice in the Gazette; or
+(a) the amount determined for the purpose by the Secretary, in consultation with the Auditor-General, see subclause (4A); or
 (b) in the absence of an amount determined under paragraph (a), $25,000.
 (2) For the purposes of subclause (1), a board member or a member of a committee of a board is to be treated as being concerned or interested in a contract made by a board with a company if—
 (a) the board member owns, whether directly or through a nominee, 10% or more of the issued capital of the company or of any other company controlling that company; or
@@ -131,6 +131,7 @@ Compare: 1989 No 80 s 103
 (4) Despite anything in this clause,—
 (a) a person is not disqualified under this clause if the Secretary approves the contract at the request of the board, whether or not the contract is already entered into; and
 (b) the Secretary may, by notice in the Gazette, issue guidelines setting out the basis on which applications for approval under paragraph (a) are to be considered.
+(4A) A determination under subclause (1)(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 (5) In this clause,—
 contract, in relation to a board,—
 (a) means a contract made by any person directly with the board; and

@@ -156,6 +156,7 @@ These regulations are the Education (Board Elections) Regulations 2000.
 (c) provide for any other matter necessary for either or both of the purposes in subclause (1)(a) and (b).
 (4) No regulations may be made under this clause on or after 1 January 2023.
 (5) Any regulations made under this clause before 1 January 2023 are revoked on 1 January 2023.
+(6) Regulations under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 Schedule 1 cl 73; 2018 No 4 Schedule 1 cl 37; 2018 No 32 cl 68
 7 Saving provisions
 (1) Despite any other provision in this Act, the following provisions of the 1989 Act, as they read immediately before the commencement of this clause, continue to apply until 1 January 2023 as if they had not been repealed or replaced by this Act:
@@ -169,6 +170,10 @@ Compare: 1989 No 80 Schedule 1 cl 73; 2018 No 4 Schedule 1 cl 37; 2018 No 32 cl 
 (h) section 87 (annual reports).
 (2) Despite any other provision of this Act, a provision in any of sections 88 and 158 and clauses 3, 15, 17, 39, 40, and 41 of Schedule 6 of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations under section 638 are made that deal with the matter addressed in the provision.
 (3) Despite any other provision of this Act, a provision in any of sections 238H(1) to (4) and (9), 238I, 238J, and 238K of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations under section 648 are made that deal with the matter addressed in the provision.
+(4) The following instruments are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+(a) a curriculum statement under section 60A of the 1989 Act:
+(b) national performance measures under section 60A of the 1989 Act:
+(c) a notice under section 88 of the 1989 Act.
 Subpart 2—Provisions for Part 2 (early childhood education)
 8 Applications for licence to operate early childhood education and care centre
 (1) This clause applies to an application for a licence to operate as an early childhood education and care centre made before the date on which section 17 comes into force but not finally determined before that date.
@@ -206,8 +211,9 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
 (d) the requirements that the applicant must meet to maintain an approval.
 (7) NZQA may, in accordance with section 457, charge fees to any registered school for an application for approval under subclause (1).
 (8) Any rules made under subclause (6)—
-(a) must comply with the process set out in section 452(4) to (7); and
-(b) expire with the close of 31 December 2022.
+(a) must comply with the process set out in section 452(4) and (5); and
+(b) expire with the close of 31 December 2022; and
+(c) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Subpart 4—General provisions for Part 4 (tertiary education and vocational education and training)
 Tertiary education strategy
 13 Tertiary education strategy
@@ -274,6 +280,7 @@ Duration of corresponding Te Pūkenga—New Zealand Institute of Skills and Tech
 (4) The Minister must not recommend an extension under subclause (2) unless the Minister is satisfied on reasonable grounds that the extension is—
 (a) consistent with Te Pūkenga—New Zealand Institute of Skills and Technology's responsibilities under the charter set out in Schedule 13; and
 (b) in the interests of the tertiary education system and the nation as a whole.
+(5) An order under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 Schedule 1 cl 30
 22 Te Pūkenga—New Zealand Institute of Skills and Technology's council may dissolve corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary
 Te Pūkenga—New Zealand Institute of Skills and Technology's council may, by resolution, at any time before the date specified in clause 21(1) or by Order in Council under clause 21(2), dissolve a corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary and transfer some or all of the rights, assets, and liabilities of that subsidiary to Te Pūkenga—New Zealand Institute of Skills and Technology or another Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary (whether established under clause 20(1) or formed by Te Pūkenga—New Zealand Institute of Skills and Technology under section 340).
@@ -416,11 +423,11 @@ Work-based training
 (1) In clauses 44 to 58, unless the context otherwise requires,—
 1992 Act means the Industry Training and Apprenticeships Act 1992
 assets has the same meaning as in section 10(6)
-former ITO means an industry training organisation listed in clause 44(a) that was recognised under Part 2 of the 1992 Act and whose recognition was in force immediately before that date
+former ITO means an industry training organisation listed in clause 44(1)(a) that was recognised under Part 2 of the 1992 Act and whose recognition was in force immediately before that date
 transition period means the period beginning on 1 April 2020 and ending with the close of 31 December 2022
 transitional ITO means—
 (a) a former ITO:
-(b) a body corporate that is recognised by the Minister under clause 44(b)
+(b) a body corporate that is recognised by the Minister under clause 44(1)(b)
 workforce development council means a workforce development council established under section 363.
 (2) In clauses 44 to 58, unless the context otherwise requires, provider, specified industries, trainee, and work-based training have the same meanings as in section 10(1).
 Compare: 1989 No 80 Schedule 1 cl 52
@@ -428,7 +435,7 @@ Compare: 1989 No 80 Schedule 1 cl 52
 Clauses 44 to 58 apply during the transition period.
 Compare: 1989 No 80 Schedule 1 cl 53
 44 Recognition of transitional ITOs
-The following are recognised as transitional ITOs for the purposes of clauses 45 to 58:
+(1) The following are recognised as transitional ITOs for the purposes of clauses 45 to 58:
 (a) each of the following former ITOs:
 (i) Boating Industries Association of New Zealand Incorporated:
 (ii) Building and Construction Industry Training Organisation Incorporated:
@@ -441,13 +448,14 @@ The following are recognised as transitional ITOs for the purposes of clauses 45
 (ix) Service Skills Institute Incorporated:
 (x) Skills Active Aotearoa Limited:
 (xi) The Skills Organisation Incorporated:
-(b) any body corporate recognised by the Minister, by notice in the Gazette, as a transitional ITO for the purposes of clauses 45 to 58.
+(b) any body corporate recognised by the Minister, by notice, as a transitional ITO for the purposes of clauses 45 to 58.
+(2) A notice under subclause (1)(b) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 Schedule 1 cl 54
 45 Effect of recognition
-(1) A transitional ITO recognised under clause 44(a)—
+(1) A transitional ITO recognised under clause 44(1)(a)—
 (a) is recognised for the 1 or more specified industries for which it was recognised under Part 2 of the 1992 Act immediately before 1 April 2020; and
 (b) must carry out the 1 or more activities described in subclause (3) in relation to the specified industries for which it was previously recognised under the 1992 Act.
-(2) A transitional ITO recognised under clause 44(b)—
+(2) A transitional ITO recognised under clause 44(1)(b)—
 (a) is recognised for the 1 or more industries specified in the notice given by the Minister when recognising the transitional ITO; and
 (b) must carry out the 1 or more activities described in subclause (3) and specified in the notice.
 (3) For the purposes of this clause, the activities are—
@@ -463,9 +471,10 @@ Compare: 1989 No 80 Schedule 1 cl 55
 (3) However, no condition may be imposed under subclause (1) that requires the assets of a transitional ITO to be allocated to a workforce development council under clause 57.
 Compare: 1989 No 80 Schedule 1 cl 56
 47 Minister may change specified industries or activities of transitional ITO
-The Minister may, by notice in the Gazette, change—
+(1) The Minister may, by notice, change—
 (a) the specified industries covered by a transitional ITO; or
 (b) the activities that must be carried out by the transitional ITO in relation to those industries.
+(2) A notice under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 Schedule 1 cl 57
 48 Application of certain provisions of Industry Training and Apprenticeships Act 1992 to transitional ITO
 (1) Despite the repeal of the Industry Training and Apprenticeships Act 1992 (the 1992 Act) by section 75 of the Education (Vocational Education and Training Reform) Amendment Act 2020, the provisions of the 1992 Act listed in subclause (2) continue in force, with any necessary modifications, and apply to a transitional ITO during the period that the transitional ITO remains in existence as if—
@@ -485,6 +494,13 @@ Compare: 1989 No 80 Schedule 1 cl 57
 (k) Part 2A (apprenticeship training):
 (l) Part 5 and Schedule 4 (training levies).
 (3) Despite subclause (1), section 11E of the 1992 Act (as applied by subclause (2)(g)) applies to a transitional ITO only while the transitional ITO continues to exercise any standard-setting powers for the specified industries covered by the transitional ITO.
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+(a) an apprenticeship training code under section 13F of the 1992 Act:
+(b) a levy order under section 26 of the 1992 Act.
+(5) Despite the amendment of Schedule 2 of the Legislation Act 2012 and Schedule 4 of the Legislation Act 2019 by section 78(1) of the Education (Vocational Education and Training Reform) Amendment Act 2020,—
+(a) subpart 1A of Part 3 of the Legislation Act 2012 continues to apply to a levy order under section 26 of the 1992 Act that is made before the main commencement date (see also clause 34 of Schedule 1 of the Legislation Act 2019):
+(b) subpart 3 of Part 5 of the Legislation Act 2019 applies to a levy order under section 26 of the 1992 Act if it is made on or after the main commencement date.
+(6) For the purposes of subclause (5), main commencement date has the meaning given in clause 2 of Schedule 1 of the Legislation Act 2019.
 Compare: 1989 No 80 Schedule 1 cl 58
 49 Existing approvals and consents granted to former ITO
 (1) This clause applies to the following matters granted to a former ITO by NZQA under Part 20 of the 1989 Act before 1 April 2020 and in effect immediately before that date:
@@ -525,7 +541,7 @@ Compare: 1989 No 80 Schedule 1 cl 63
 Despite section 420(1), the Minister may direct that funding be provided to a provider to support work-based training on behalf of employers if the Minister believes it is reasonably necessary for facilitating or ensuring the successful transfer of responsibility for the activities referred to in clause 45(3)(b) and (c) of this schedule.
 Compare: 1989 No 80 Schedule 1 cl 64
 55 Cancellation of recognition of transitional ITO
-(1) The Minister may, by notice in the Gazette, cancel the recognition of a transitional ITO—
+(1) The Minister may, by notice, cancel the recognition of a transitional ITO—
 (a) if it asks the Minister to cancel its recognition; or
 (b) if the circumstances described in subclause (2) apply; or
 (c) if it has breached the requirement set out in section 11E of the 1992 Act (as applied by clause 48(2)(g)); or
@@ -546,6 +562,7 @@ Compare: 1989 No 80 Schedule 1 cl 64
 (d) the fact that the Minister may cancel the recognition of the transitional ITO under subclause (1) if it fails to improve its performance within that period.
 (4) If the recognition of a transitional ITO is cancelled under subclause (1), any approval or consent associated with that recognition is withdrawn on the date on which the recognition is cancelled.
 (5) No notice is required to be given to a transitional ITO for a withdrawal under subclause (4).
+(6) A notice under subclause (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 Schedule 1 cl 65
 56 Recognition lapses at end of transition period
 (1) This clause applies to any transitional ITO in existence at the close of the day immediately before the end of the transition period.

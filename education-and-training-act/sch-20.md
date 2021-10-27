@@ -53,12 +53,15 @@ Compare: 1989 No 80 s 11F
 (e) any other matter that the Secretary considers necessary for ensuring the fair, transparent, and efficient operation of enrolment schemes.
 (2) Instructions issued under subclause (1)—
 (a) must be complied with by schools; and
-(b) may apply to all or specified schools or classes of school; and
-(c) must be notified in the Gazette, either in full, or by a notice outlining the content of the instructions and stating where a copy can be obtained, along with the date on which the instructions take effect; and
-(d) may be amended or revoked, in which case notice of the amendment or revocation must be given in the Gazette, as described in paragraph (c).
+(b) may apply to all or specified schools or classes of school.
+(c) [Repealed]
+(d) [Repealed]
 (3) The Secretary may issue guidelines to State schools about either or both of the following matters:
 (a) the basis on which the Secretary's powers in relation to enrolment schemes may be exercised (including, in particular, the power in clause 14(2)(a) relating to the determination of whether an applicant lives within a home zone or outside it):
 (b) the manner in which schools must conduct reviews under clause 13 (which relates to the review of a student's enrolment).
+(4) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+(a) instructions under subclause (1):
+(b) guidelines under subclause (3).
 Compare: 1989 No 80 s 11G
 4 Process for establishing enrolment scheme
 (1) When developing a proposed enrolment scheme, the Secretary must—
@@ -187,7 +190,8 @@ Compare: 1989 No 80 s 11PA
 (d) in the case of a Kura Kaupapa Māori, the application of section 71 and clauses 2 to 15 must not result in inconsistency with section 204; and
 (e) in the case of a designated character school, the application of section 71 and clauses 2 to 15 must not result in inconsistency with its school charter or section 204; and
 (f) in the case of a State integrated school, the application of section 71 and clauses 2 to 15 must not result in inconsistency with the school's integration agreement or Schedule 6.
-(2) Clauses 1 to 15 do not apply to any State school of a type specified by the Secretary by notice in the Gazette.
+(2) Clauses 1 to 15 do not apply to any State school of a type specified by the Secretary by notice.
+(3) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 s 11PB
 17 Obligation to report to Parliament on enrolment schemes
 (1) The annual report on the schools sector that is presented to the House of Representatives by the Minister of Education in accordance with section 620 must include a statement signed by the Secretary that—

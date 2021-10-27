@@ -258,12 +258,14 @@ Enrolment, conditions of attendance, and instruction of students at State integr
 Compare: 1989 No 80 s 445
 30 Attendance dues
 (1) The proprietor of a State integrated school may, if the integration agreement for the school provides, enter into an agreement with the parents or other persons accepting responsibility for the education of a child that provides that the parents or other persons must pay attendance dues as a condition of the child's enrolment at the school.
-(2) The dues must be established for the State integrated school or group of State integrated schools at the rates, and subject to any conditions, approved by the Minister by notice in the Gazette.
+(2) The dues must be established for the State integrated school or group of State integrated schools at the rates, and subject to any conditions, approved by the Minister by notice.
 (3) Revenue received by the proprietor from attendance dues must be used solely for the following:
 (a) paying, in respect of the school or group of schools in respect of which it is received, for improvements to the State integrated school or schools' buildings and associated facilities that are required by any integration agreement or integration agreements under clause 39(2)(c):
 (b) any capital works that may be required by the Minister under clause 39(2)(d):
 (c) meeting debts, mortgages, liens, or other charges associated with the land and the buildings that constitute the premises of the State integrated school or schools.
 (4) No revenue received by the proprietor from attendance dues may be used to provide or improve the State integrated school buildings and associated facilities to a standard higher than that approved by the Secretary as appropriate for a comparable State school.
+(5) A notice approved by the Minister under subclause (2) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named State integrated schools.
+(6) If a notice is not secondary legislation, the Minister must publish it in the Gazette.
 Compare: 1989 No 80 s 447
 31 Withdrawal and reinstatement of right to charge attendance dues
 (1) Should any proprietor use any revenue from attendance dues for any purpose other than one permitted by clause 30, the Minister may, despite anything in the integration agreement, by notice in the Gazette, withdraw the right to charge attendance dues, and while the withdrawal continues, the board must permit the attendance of children without the payment of attendance dues.

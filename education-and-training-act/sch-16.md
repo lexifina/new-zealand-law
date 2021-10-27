@@ -45,7 +45,7 @@ Compare: 1989 No 80 s 505; 1992 No 55 s 30
 4 Expiry of levy orders
 (1) A levy order expires 5 years after the day on which it was made unless it is sooner—
 (a) revoked; or
-(b) disallowed under Part 3 of the Legislation Act 2012.
+(b) disallowed under subpart 2 of Part 5 of the Legislation Act 2019.
 (2) A levy order is revoked if the workforce development council responsible for administering the levy is disestablished under section 364.
 Compare: 1989 No 80 s 507; 1992 No 55 s 52
 5 Independent returning officer must conduct ballot

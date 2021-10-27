@@ -86,17 +86,15 @@ Compare: 1989 No 80 s 159P
 (f) any other matters TEC considers relevant.
 Compare: 1989 No 80 s 159Q
 6 Content of, and processes for submitting, proposed plans prescribed by TEC
-(1) TEC must prescribe and give public notice of—
+(1) TEC must prescribe—
 (a) the content of organisations' proposed plans (being the particular matters that proposed plans must address or include in order to meet the requirements in clause 4); and
 (b) the kinds of background or supplementary information that TEC requires an organisation to provide in relation to a proposed plan; and
 (c) the timetable and process for the submission of proposed plans to TEC.
 (2) When prescribing matters, TEC may include—
 (a) standard content, as well as different content applying to different organisations, groups of organisations, or types of organisation; and
 (b) different information, timetables, and processes for different organisations, groups of organisations, or types of organisation.
-(3) Notices given may be—
-(a) given at different times; and
-(b) amended by TEC.
-(4) TEC must give public notice of a significant amendment made under subclause (3)(b).
+(3) Instruments by which matters are prescribed under subclause (1) are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(4) [Repealed]
 Compare: 1989 No 80 s 159R
 7 TEC may exempt organisation from complying with certain matters
 TEC may, by notice in writing, exempt an organisation from complying with any of the matters it has prescribed under clause 6(1).
@@ -111,6 +109,7 @@ Compare: 1989 No 80 s 159T
 (2) TEC may not exercise the power in subclause (1) in relation to an institution.
 (3) TEC may exempt an organisation, a type of organisation, or a group of organisations under subclause (1) for a specified period that TEC thinks fit.
 (4) If TEC exempts an organisation under subclause (1), TEC may fund that organisation under section 428 as if it were an organisation for which a funding mechanism provides for funding other than via plans.
+(5) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named organisations.
 Compare: 1989 No 80 s 159U
 10 Frequency of submitting proposed plans
 An organisation that is required to submit a proposed plan must submit a proposed plan to TEC—
@@ -153,6 +152,7 @@ Funding via plans
 (c) the type and size of the organisation; and
 (d) any other matters that TEC considers relevant.
 (6) Section 305 sets out the accountability requirements for institutions.
+(7) An exemption under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named organisations.
 Compare: 1989 No 80 s 159YD
 Expiry of funding approval
 14 Expiry of funding approval
@@ -215,8 +215,8 @@ Amending or replacing plans
 (2) An organisation may ask TEC to approve a significant amendment to, or the replacement of, a plan if the organisation considers that the criteria for significant amendment to a plan or the criteria for replacement of a plan are satisfied.
 (3) TEC must—
 (a) set the criteria for significant amendment to a plan; and
-(b) set the criteria for replacement of a plan; and
-(c) publish those criteria in the Gazette.
+(b) set the criteria for replacement of a plan.
+(c) [Repealed]
 (4) An organisation that proposes to make a significant amendment to, or to replace, a plan must consult—
 (a) the persons or bodies that the organisation thinks fit to consult; and
 (b) any other person or group that TEC stipulates.
@@ -229,6 +229,9 @@ Amending or replacing plans
 (b) the impact of the significant amendment or replacement on the needs of the interested persons or bodies and any other persons consulted by the organisation under subclause (4).
 (8) TEC may require an organisation to review a plan with a view to amending or replacing it if TEC considers that the criteria for significant amendment to a plan or the criteria for replacement of a plan are satisfied.
 (9) Nothing in this clause prohibits an organisation from making an amendment to a plan that is not a significant amendment.
+(10) The following are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
+(a) an instrument setting criteria under subclause (3):
+(b) an instrument under subclause (6)(a) prescribing requirements for the content of a significant amendment or replacement.
 Compare: 1989 No 80 s 159YK
 21 Effect of significant amendment or replacement of plan under clause 20
 (1) If TEC approves a significant amendment to a plan, the significant amendment—
@@ -253,11 +256,12 @@ A significant amendment made to a plan under clause 22—
 Compare: 1989 No 80 s 159YN
 Plan summary
 24 Summary of plans
-(1) TEC must prescribe and give public notice of the matters that an organisation that has a plan must include in a plan summary.
+(1) TEC must prescribe the matters that an organisation that has a plan must include in a plan summary.
 (2) An organisation that has a plan must ensure that—
 (a) a plan summary is available for inspection by the public; and
 (b) copies of that plan summary may be obtained either at no cost or no more than a reasonable cost; and
 (c) the plan summary contains the matters prescribed.
+(3) Instruments by which matters are prescribed under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 1989 No 80 s 159YO
 Funding other than via plans
 25 Accountability for funding received under section 428
@@ -283,6 +287,7 @@ Funding other than via plans
 (c) the type and size of the organisation; and
 (d) any other matters that TEC considers relevant.
 (6) Section 305 sets out the accountability requirements for institutions.
+(7) An exemption under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named organisations.
 Compare: 1989 No 80 s 159ZE
 26 TEC may suspend, revoke, or withdraw funding given under section 428
 (1) TEC may suspend or revoke payment, or any or all further payments, of any funding given to an organisation under section 428 if TEC is satisfied on reasonable grounds that the organisation—

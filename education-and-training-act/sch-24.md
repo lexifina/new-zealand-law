@@ -28,11 +28,15 @@ Compare: 1989 No 80 s 343(1), (1A)
 (iv) statistical purposes:
 (v) research purposes:
 (vi) ensuring that student educational records are accurately maintained:
-(vii) establishing and maintaining student identities to support online learning; and
-(d) must give notice of each authorisation, requirement, condition, and restriction in the Gazette.
-(2) The notice must specify when an authorisation, requirement, condition, or restriction takes effect, which must be a date on or after the date the notice is gazetted.
+(vii) establishing and maintaining student identities to support online learning.
+(d) [Repealed]
+(2) [Repealed]
 (3) An authorisation, requirement, restriction, or condition may be made generally (by reference to a class of specified user) or specifically (by reference to a named specified user).
 (4) A specified user must use national student numbers in accordance with the restrictions and conditions that apply.
+(5) An authorisation, requirement, condition, or restriction under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements), unless it applies only to 1 or more named specified users.
+(6) If an authorisation, requirement, condition, or restriction is not secondary legislation,—
+(a) it must be made by notice in the Gazette; and
+(b) it must take effect on the date specified in the notice, which date must be on or after the date on which the notice is gazetted.
 Compare: 1989 No 80 s 344
 5 Person may use or disclose own national student number
 Despite anything in this schedule, a person may use or disclose their own national student number for any purpose.

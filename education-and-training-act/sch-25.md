@@ -21,17 +21,20 @@ educational body—
 governing body, in relation to an education entity, means the body that is primarily responsible for the governance of the education entity.
 Compare: 1989 No 80 s 476B
 3 Power for Secretary to direct education entities in relation to COVID-19 measures
-The Secretary may, for the purpose of this schedule, direct the governing body of an education entity (or the governing bodies of a class of education entities) to comply with any specified requirements—
+(1) The Secretary may, for the purpose of this schedule, direct the governing body of an education entity (or the governing bodies of a class of education entities) to comply with any specified requirements—
 (a) to close or open the education entity or any part of it (including in relation to all students or any specified category, class, or year group of students):
 (b) for the operation, control, or management of the education entity:
 (c) to provide education or instruction through the education entity in any specified ways (for example, through distance or online learning).
+(2) A direction under this clause—
+(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
+(b) comes into force when it is made or at a later date specified in it, even if it is not yet published.
 Compare: 1989 No 80 s 476C
 4 Effect of directions
 (1) Every education entity to which a direction applies must give effect to the direction on the date on which the direction is given or on any later date that is specified in the direction.
 (2) A direction overrides every other provision of this Act (apart from the provisions in this schedule).
 Compare: 1989 No 80 s 476D
-5 Publication and review of directions
-(1) As soon as practicable after a direction is given, the Secretary must ensure that it is published in the Gazette and on an Internet site maintained by or on behalf of the Ministry.
+5 Expiry of directions
+(1) [Repealed]
 (2) A direction expires on the earlier of—
 (a) its expiry date:
 (b) the end of the period for which the epidemic notice for COVID-19 is in force.
