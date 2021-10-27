@@ -11,3 +11,4 @@
 (2) The Minister must recommend that an Order in Council be made to remove the name of a company from Schedule 4A if the Minister is satisfied that—
 (a) the company has been removed from the register of companies kept under the Companies Act 1993; or
 (b) the company no longer meets the criteria set out in subsection (1)(a).
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

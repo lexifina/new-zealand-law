@@ -11,3 +11,4 @@
 (5) In subsection (2)(b)(iii),—
 multi-year appropriation means an appropriation authorised to apply for more than 1 financial year (see section 10)
 permanent appropriation means an appropriation authorised by a permanent legislative authority.
+(6) An exemption under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

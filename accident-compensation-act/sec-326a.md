@@ -6,3 +6,4 @@
 (a) simple, accessible, and predictable law:
 (b) realistic and fair compensation for claimants:
 (c) encouraging the Corporation to calculate and pay claims for weekly compensation as soon as practicable.
+(3) Regulations under this section are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

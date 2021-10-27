@@ -13,3 +13,4 @@
 (c) in the case of a trust,—
 (i) the trust has been wound up; or
 (ii) the Crown no longer has the power to appoint a majority of the trustees.
+(3) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

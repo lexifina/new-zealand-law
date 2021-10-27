@@ -8,3 +8,4 @@
 (4) In this section, output expense appropriation means—
 (a) an appropriation for 1 category of output expenses:
 (b) a multi-category appropriation that includes only categories of output expenses.
+(5) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
