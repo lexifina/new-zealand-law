@@ -915,7 +915,7 @@ Part 3 Lump sum compensation for permanent impairment
 (b) the date on which the person first received treatment for the personal injury as that personal injury:
 (c) the date on which the personal injury first resulted in the person's incapacity.
 (3) A person who suffers treatment injury or personal injury caused by medical misadventure is not entitled to lump sum compensation for permanent impairment under this schedule if the date of the treatment which caused the personal injury was before 1 April 2002.
-(4) If a person's eligibility for lump sum compensation for permanent impairment under this schedule is excluded by this clause and the person has suffered personal injury for which the person has cover because of section 36 or section 37 or section 38, Part 4 of the Accident Insurance Act 1998 applies to the person for the purpose of deciding whether the person has an entitlement to an independence allowance.
+(4) If a person's eligibility for lump sum compensation for permanent impairment under this schedule is excluded by this clause and the person has suffered personal injury for which the person has cover because of section 36 or section 37 or section 38, Part 4 of Schedule 1 of the Accident Insurance Act 1998 applies to the person for the purpose of deciding whether the person has an entitlement to an independence allowance.
 (5) This clause overrides sections 36 to 38.
 (6) Subclauses (2), (4), and (5) apply subject to clauses 55A to 55D.
 55A Certain persons may elect to receive either lump sum compensation or independence allowance: assessment, notification, and election
