@@ -146,3 +146,9 @@ The amendment made by section 43 of the 2020 Act does not apply to the abandonme
 Sections 126N to 126R of this Act (as inserted by section 70 of the 2020 Act) relate to any enforceable undertaking given on or after the commencement date, whether the contravention or alleged contravention to which the undertaking relates occurred or is alleged to have occurred on, before, or after that date.
 37 Only 1 penalty type for same conduct
 The amendment made by section 73 of the 2020 Act applies to conduct whether the conduct is engaged in before, on, or after the commencement date.
+Part 6 Provisions relating to COVID-19 Response (Management Measures) Legislation Act 2021
+38 Order may be prepared before enactment or commencement of COVID-19 Response (Management Measures) Legislation Act 2021
+Any action taken before the enactment or commencement of the COVID-19 Response (Management Measures) Legislation Act 2021 by or on behalf of a Minister of the Crown or the Government in relation to an order under clause 3 of Schedule 5 of this Act must be treated as having been taken by that Minister or the Government under and for the purposes of the COVID-19 Response (Management Measures) Legislation Act 2021 (as if that Act were already enacted and in force).
+39 Transitional provision relating to repeal of Schedule 5
+(1) Any order that is made under clause 3 of Schedule 5, and that is in force when Schedule 5 is repealed, is revoked on that repeal.
+(2) The repeal of Schedule 5 does not affect the application of clauses 6 to 13 of Schedule 5 in relation to any tenancy affected, before the repeal, by the operation of Schedule 5 or by anything done under Schedule 5.

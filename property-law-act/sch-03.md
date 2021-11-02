@@ -25,6 +25,43 @@ Part 2 Covenants, conditions, and powers implied in all leases of land
 (c) any other person under the lessee's direction or control.
 (5) Any dispute arising under this clause will be referred to arbitration under the Arbitration Act 1996.
 Compare: 1952 No 51 ss 106, 107
+4A COVID-19 outbreak further measures: payment of fair proportion of rent
+Leases to which this implied covenant applies
+(1) This clause applies to a lease of the kind specified in section 245F(1)—
+(a) only if, in a rental period all or any of which is in the affected period,—
+(i) there is an epidemic; and
+(ii) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations in all or any part of the leased premises, because of reasons of health or safety related to the epidemic; and
+(b) only to the extent that no pre-commencement rent variation agreement has been made that determines the rent that is payable by the lessee for that rental period.
+Fair proportion of rent otherwise payable will cease to be payable
+(2) A fair proportion of the rent otherwise payable by the lessee for that rental period will cease to be payable for the period—
+(a) that is, or is in, that rental period (to the extent only that all or any of that rental period is in the affected period); and
+(b) starting on the date when—
+(i) there is an epidemic; and
+(ii) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations from all or any part of the leased premises, because of reasons of health or safety related to the epidemic; and
+(c) ending when the inability ceases.
+(3) The fair proportion will be agreed by the lessor and lessee.
+(4) In determining the fair proportion, the matters that the lessor and lessee will consider must include any loss of income experienced by the lessee in respect of that rental period because, for all or any of that rental period,—
+(a) there is an epidemic; and
+(b) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations in all or any part of the leased premises, because of reasons of health or safety related to the epidemic.
+Definitions
+(5) In this clause,—
+affected period has the meaning given to it by section 245F(2)
+agreement includes a contract that does not comply with section 24
+epidemic has the meaning given to it by section 245F(2)
+leased premises and lessee have the meanings given to them by section 245F(2)
+pre-commencement rent variation agreement means an agreement that—
+(a) is about what rent is payable by the lessee for a rental period all or any of which is in the affected period; and
+(b) may, but need not, be also a variation of a lease about any other matter; and
+(c) is made before the commencement of this clause, and is made for reasons that are or include that—
+(i) there is an epidemic; and
+(ii) the lessee is unable to gain access to all or any part of the leased premises to conduct fully their operations in all or any part of the leased premises, because of reasons of health or safety related to the epidemic
+reasons of health or safety and rent have the meanings given to them by section 245F(2).
+Disputes will be referred to arbitration
+(6) The lessor or lessee will take all reasonable steps to respond to a communication from the other about the operation of this clause, or about a dispute arising under this clause, within 10 working days (as defined in section 4 of the Property Law Act 2007) after receiving the communication.
+(7) Any dispute arising under this clause (for example, a dispute about whether this clause applies to a lease) will be referred to arbitration under the Arbitration Act 1996.
+(8) Subclause (7) is subject to section 16 (contracting out prohibited) of the Disputes Tribunal Act 1988, and does not prevent the lessor or lessee, before a referral under that subclause, from—
+(a) agreeing with the other party to use non-binding mediation to try to resolve the dispute; or
+(b) using any other available non-binding or binding dispute-resolution procedure or jurisdiction to resolve the dispute (for example, expert determination).
 5 Alteration of buildings
 (1) The lessee will not, without the consent of the lessor, alter any building that comprises, or is part of, the leased premises.
 (2) The lessor will not unreasonably withhold consent under subclause (1).
