@@ -94,7 +94,7 @@ A long-term plan must, in relation to each group of activities of the local auth
 (c) how the funds are to be applied.
 6 Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans
 A long-term plan for a territorial authority must identify and explain any significant variation between the proposals outlined in the long-term plan and the territorial authority's—
-(a) assessment of water and other sanitary services under section 125:
+(a) assessment of drinking water, wastewater, and other sanitary services under sections 125 and 128:
 (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
 7 Council-controlled organisations
 A long-term plan must, in relation to each council-controlled organisation in which the local authority is a shareholder,—

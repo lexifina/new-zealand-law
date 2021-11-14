@@ -139,3 +139,6 @@ Part 4 Provisions relating to COVID-19 Response (Further Management Measures) Le
 [Repealed]
 24 Repeal of this Part
 [Repealed]
+Part 5 Provisions relating to Water Services Act 2021
+23 Requirements in subpart 1 of Part 7
+Despite section 125(3), every territorial authority must complete an assessment of drinking water services in accordance with section 125 by 1 July 2026.
