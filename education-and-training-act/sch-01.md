@@ -95,6 +95,12 @@ Subpart 7—Provisions for Part 6 (administration of education system)
 Part 2
 Provision relating to Education and Training (Grants—Budget Measures) Amendment Act 2021
 72 Application of section 548(5A) to (5C)
+Part 3
+Provisions relating to Education and Training (Teaching Council Fees, Levies, and Costs) Amendment Act 2021
+73 Interpretation
+74 Validation of specified fees
+75 Recovery of unpaid 2015 fees
+76 Payment of 2020 fees
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -679,3 +685,21 @@ Compare: 1989 No 80 s 343(2)
 Part 2 Provision relating to Education and Training (Grants—Budget Measures) Amendment Act 2021
 72 Application of section 548(5A) to (5C)
 Section 548(5A) to (5C) (as inserted by section 4 of the Education and Training (Grants—Budget Measures) Amendment Act 2021) applies to a grant paid under section 548, and to a condition or purpose specified under section 548(5)(a) or (b) for that grant, after the commencement of that Act (whether that grant was determined before or after that commencement).
+Part 3 Provisions relating to Education and Training (Teaching Council Fees, Levies, and Costs) Amendment Act 2021
+73 Interpretation
+In this Part,—
+2015 fees means fees fixed or purportedly fixed by the Education Council of Aotearoa New Zealand Fees for Registration, Practising Certificates and Limited Authorities to Teach notice published in the Gazette on 25 June 2015, 2015-gs3644
+2020 fee means a fee fixed or purportedly fixed by the Teaching Council of Aotearoa New Zealand Fees for Registration, Practising Certificates, and Limited Authorities to Teach notice published in the Gazette on 22 May 2020, 2020-gs2144
+commencement means the commencement of the Education and Training (Teaching Council Fees, Levies, and Costs) Amendment Act 2021
+former Council means any predecessor of the Teaching Council.
+74 Validation of specified fees
+(1) This clause applies to the 2015 fees and any previous fees fixed by a former Council for registration as a teacher, the issuing of a practising certificate, or the granting of a limited authority to teach (specified fees).
+(2) The specified fees, and all actions of a former Council in fixing the specified fees, are valid and declared to be and to always have been lawful.
+(3) All money received by the Teaching Council or a former Council in payment of the specified fees is to be treated as having been lawfully paid to, and received by, the Teaching Council or the former Council.
+75 Recovery of unpaid 2015 fees
+Any 2015 fee, or part of a 2015 fee, that applies to a person and that has not been paid before commencement—
+(a) is declared to be lawfully payable to the Teaching Council; and
+(b) may be recovered by the Teaching Council on and after commencement as if the 2015 fee had always been lawfully payable by the person.
+76 Payment of 2020 fees
+(1) This clause applies to a person who has paid a 2020 fee to the Teaching Council on or after 1 February 2021.
+(2) The payment must be treated on and after commencement as a part-payment of the appropriate 2015 fee payable by the person.

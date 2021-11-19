@@ -13,7 +13,7 @@ Contents
 10 Practising certificates
 11 Cancellation of practising certificate
 12 Determining whether employment satisfactorily completed
-13 Fees and costs for registration and practising certificates
+13 Fees and costs for registration and practising certificates [Repealed]
 Limited authority to teach
 14 Purpose of limited authority to teach
 15 Applications for limited authority to teach
@@ -23,7 +23,7 @@ Limited authority to teach
 19 Appeals against decisions
 20 Period of authorisation
 21 Teaching Council to keep list of persons who have limited authority to teach
-22 Fees and costs for granting limited authority to teach
+22 Fees and costs for granting limited authority to teach [Repealed]
 Miscellaneous provisions
 23 Teaching Council may disclose certain information
 1 Applications for registration as teachers
@@ -175,18 +175,7 @@ Compare: 1989 No 80 s 362
 (3) Subclause (2) does not limit subclause (1).
 Compare: 1989 No 80 s 363
 13 Fees and costs for registration and practising certificates
-(1) The Teaching Council may, by notice in the Gazette, fix fees for registration as a teacher or for the issue of practising certificates, and different fees may be fixed—
-(a) in respect of registration effected in different circumstances; and
-(b) for practising certificates of different kinds.
-(2) A notice under subclause (1)—
-(a) must be published on an Internet site maintained by or on behalf of the Teaching Council; and
-(b) must state where printed copies of it are available free; and
-(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Teaching Council must make printed copies of every notice under subclause (1) that is in force available free at the place stated in it.
-(4) Despite anything in this Act, the Teaching Council may refuse to register a person as a teacher or issue a practising certificate until the appropriate fee has been paid.
-(5) If the Teaching Council cancels a teacher's registration, it may, by written notice to the teacher, require the teacher to pay the Teaching Council any reasonable costs specified in the notice that were incurred by the Teaching Council in dealing with the proposal to cancel the registration or with the cancellation itself.
-(6) The Teaching Council may recover from a teacher as a debt due to it costs required under subclause (5) to be paid to the Teaching Council by the teacher.
-Compare: 1989 No 80 s 364
+[Repealed]
 Limited authority to teach
 14 Purpose of limited authority to teach
 The purpose of granting a limited authority to teach is to enable employers to have access to skills that are in short supply and to enable those with specialist skills but who may not have a teaching qualification to teach.
@@ -247,16 +236,7 @@ Compare: 1989 No 80 s 370
 (4) In the case where the list is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 499(6)).
 Compare: 1989 No 80 s 371
 22 Fees and costs for granting limited authority to teach
-(1) The Teaching Council may, by notice in the Gazette, fix fees for the granting of a limited authority to teach.
-(2) A notice under subclause (1)—
-(a) must be published on an Internet site maintained by or on behalf of the Teaching Council; and
-(b) must state where printed copies of it are available free; and
-(c) is a disallowable instrument, but not a legislative instrument, for the purposes of the Legislation Act 2012 and must be presented to the House of Representatives under section 41 of that Act.
-(3) The Teaching Council must make printed copies of every notice under subclause (1) that is in force available free at the place stated in it.
-(4) Despite anything in this Act, the Teaching Council may refuse to grant any person a limited authority to teach until the appropriate fee has been paid.
-(5) If the Teaching Council cancels a limited authority to teach, it may, by written notice to the person concerned, require the person to pay the Teaching Council any reasonable costs specified in the notice that were incurred by the Teaching Council in dealing with the proposal to cancel the authorisation or with the cancellation itself.
-(6) The Teaching Council may recover from any person as a debt due to it costs required under subclause (5) to be paid to the Teaching Council by that person.
-Compare: 1989 No 80 s 372
+[Repealed]
 Miscellaneous provisions
 23 Teaching Council may disclose certain information
 If the management of an early childhood service that is not an early childhood education and care service asks the Teaching Council for information about a person who is a prospective employee, the Teaching Council may—
