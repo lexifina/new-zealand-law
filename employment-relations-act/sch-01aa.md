@@ -108,3 +108,12 @@ Provision relating to remedy of reinstatement
 Part 3 Provision relating to Employment Relations (Triangular Employment) Amendment Act 2019
 16 Application of sections 103(4), 103B, 115A, and 123A
 Sections 103(4), 103B, 115A, and 123A apply if the date on which the action alleged to amount to a personal grievance occurred or came to the notice of the employee, whichever is later, after the commencement of the Employment Relations (Triangular Employment) Amendment Act 2019.
+Part 4 Provisions relating to COVID-19 Response (Vaccinations) Legislation Act 2021
+17 Transitional provision relating to termination of employment agreement for failure to comply with relevant duties or determination
+Clause 3 of Schedule 3A (as inserted by the COVID-19 Response (Vaccinations) Legislation Act 2021) applies only to an employee who receives a notice under that clause after the commencement of that clause.
+18 Repeal of provisions relating to COVID-19 vaccinations
+(1) Section 238A and Schedule 3A (as inserted by the COVID-19 Response (Vaccinations) Legislation Act 2021) are repealed on the date on which the COVID-19 Public Health Response Act 2020 is repealed.
+(2) The repeals in subclause (1) do not affect—
+(a) an existing right under the repealed legislation:
+(b) the completion of any process or proceedings started but not completed by the close of the day immediately before the repeal:
+(c) the previous operation of the repealed legislation or anything done or suffered under it.
