@@ -1,9 +1,16 @@
 # 9B Interpretation
 (1) In this Part, unless the context otherwise requires,—
+advertising means any form of communication—
+(a) that is to be, or has been, distributed to a person; and
+(b) that is reasonably likely to induce a person to inquire about or apply for an agreement; and
+(c) that is authorised or instigated by, or on behalf of, the lender or an associated person of the lender, or prepared with the co-operation of any of those persons
 agreement means—
 (a) a consumer credit contract:
 (b) a buy-back transaction
 borrower means any person who has entered into, or is seeking to enter into, an agreement with a lender
+distribute includes—
+(a) make available, publish, and circulate; and
+(b) communicate by letter, newspaper, an Internet site, broadcasting, an audio or visual service, sound recording, television, film, video, or any form of electronic or other means of communication
 finance means finance provided under a buy-back transaction
 lender means—
 (a) a creditor under a consumer credit contract:

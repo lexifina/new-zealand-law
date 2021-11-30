@@ -7,7 +7,7 @@
 (iii) in all subsequent dealings with a borrower in relation to an agreement or a relevant insurance contract or a guarantor in relation to a relevant guarantee; and
 (b) comply with all the lender responsibilities specified in subsections (3), (4), and (5).
 (3) The lender responsibilities are that a lender must, in relation to an agreement with a borrower,—
-(a) make reasonable inquiries, before entering into the agreement, so as to be satisfied that it is likely that—
+(a) make reasonable inquiries, before entering into the agreement, and before making a material change referred to in subsection (8), so as to be satisfied that it is likely that—
 (i) the credit or finance provided under the agreement will meet the borrower's requirements and objectives; and
 (ii) the borrower will make the payments under the agreement without suffering substantial hardship; and
 (b) assist the borrower to reach an informed decision as to whether or not to enter into the agreement and to be reasonably aware of the full implications of entering into the agreement, including by ensuring that—
@@ -16,6 +16,9 @@
 (B) is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
 (ii) the terms of the agreement are expressed in plain language in a clear, concise, and intelligible manner; and
 (iii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing; and
+(iv) reasonable steps are taken to offer to the borrower information about the agreement in another language (language A) if—
+(A) advertising that is wholly or significantly in language A is being, or within the preceding 6 months has been, distributed to the public or a section of the public; and
+(B) the steps are necessary to ensure that the borrower can reach an informed decision (for example, if the borrower may not have a good understanding of the language in which the lender is otherwise providing information to the borrower under this Act); and
 (c) assist the borrower to reach informed decisions in all subsequent dealings in relation to the agreement, including by ensuring that—
 (i) any variation to the agreement is expressed in plain language in a clear, concise, and intelligible manner; and
 (ii) any information provided by the lender to the borrower after the agreement has been entered into is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing; and
@@ -36,6 +39,9 @@
 (b) assist the guarantor to reach an informed decision as to whether or not to give the guarantee and to be reasonably aware of the full implications of giving the guarantee, including by ensuring that—
 (i) the terms of the guarantee are expressed in plain language in a clear, concise, and intelligible manner; and
 (ii) any information provided by the lender to the guarantor is not presented in a manner that is or is likely to be misleading, deceptive, or confusing; and
+(iii) reasonable steps are taken to offer to the guarantor information about the guarantee in another language (language A) if—
+(A) advertising about the agreement that is wholly or significantly in language A is being, or within the preceding 6 months has been, distributed to the public or a section of the public; and
+(B) the steps are necessary to ensure that the guarantor can reach an informed decision (for example, if the guarantor may not have a good understanding of the language in which the lender is otherwise providing information to the guarantor under this Act); and
 (c) treat the guarantor reasonably and in an ethical manner, including when breaches of a credit contract to which the guarantee applies have occurred or may occur or when other problems arise; and
 (d) ensure, in the case of a guarantee that is to be treated as forming part of a credit contract for the purposes of Part 5 under section 119, that—
 (i) the guarantee is not oppressive:
@@ -47,8 +53,12 @@
 (i) the insurance provided under the contract will meet the borrower's requirements and objectives; and
 (ii) the borrower will make the payments under the contract without suffering substantial hardship; and
 (b) assist the borrower to reach an informed decision as to whether or not to enter into the contract and to be reasonably aware of the full implications of entering into the contract, including by ensuring that—
-(i) any advertising distributed by the lender is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
+(i) any advertising is not, or is not likely to be, misleading, deceptive, or confusing to borrowers; and
 (ii) any information provided by the lender to the borrower is not presented in a manner that is, or is likely to be, misleading, deceptive, or confusing.
 (5A) In subsections (3)(a), (4)(a), and (5)(a), the requirement to make reasonable inquiries so as to be satisfied of a matter includes a requirement to comply with regulations made under section 138(1)(abd).
 (6) Subsections (3)(b)(iii) and (c)(ii), (4)(b)(ii), and (5)(b)(ii) do not apply to information that is subject to section 32(1).
-(7) For the purposes of the inquiries required under subsections (3)(a), (4)(a), and (5)(a), the lender may rely on information provided by the borrower or guarantor unless the lender has reasonable grounds to believe the information is not reliable.
+(7) [Repealed]
+(8) The material changes for the purposes of subsection (3)(a) are—
+(a) the parties to the agreement agree to change the agreement by increasing a credit limit under the agreement:
+(b) the lender exercises a power under the agreement to increase a credit limit under the agreement:
+(c) the lender makes an additional advance that the lender did not take into account when previously satisfying itself as to the matters in subsection (3)(a).

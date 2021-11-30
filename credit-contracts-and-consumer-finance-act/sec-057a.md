@@ -1,6 +1,6 @@
 # 57A Obligations of creditor in relation to application
 (1) On receipt of an application by a debtor under section 55, the creditor must do the following:
-(a) within 5 working days after receiving the application, acknowledge receipt of the application by giving a written notice to the debtor:
+(a) within 5 working days after receiving the application, acknowledge receipt of the application by giving a written notice to the debtor (see section 26B(1)(a) and (2)(b)):
 (b) within 10 working days after receiving the application, request any further information from the debtor (but only if that further information is necessary to decide the application) by giving a written notice to the debtor:
 (c) within 20 working days after receiving the application,—
 (i) in compliance with the lender responsibility principles (see section 9C), decide whether to agree to change the consumer credit contract in accordance with the application; and
