@@ -1,5 +1,10 @@
 # Schedule 4 Police vetting
 ss 25, 104
+Preliminary
+1AAA Application of certain provisions
+(1) The Police vetting requirements in clauses 1, 2, 9, and 10 apply in respect of a person who, in the course of their work for the service provider or school, does not fall within the definition of a children's worker in section 23(1) of the Children's Act 2014 and, as a result, is not required to be safety checked under Part 3 of that Act.
+(2) To avoid doubt, nothing in this schedule limits Part 3 of the Children's Act 2014 or regulations made under that Act in relation to the safety checking of children's workers.
+Police vetting in respect of licensed early childhood services
 1 Police vetting of non-teaching and unregistered employees at licensed early childhood services
 The service provider of a licensed early childhood service must obtain a Police vet of every person—
 (a) whom the service provider appoints, or intends to appoint, to a position at the early childhood service; and
@@ -42,7 +47,7 @@ The service provider of a licensed home-based education and care service that ap
 Compare: 1989 No 80 s 319FD
 8 Further Police vets to be obtained every 3 years
 (1) The service provider of a licensed early childhood service must obtain a further Police vet of every person—
-(a) on whom a Police vet has already been obtained under this schedule by that service provider; and
+(a) on whom a Police vet has already been obtained under clause 1, 2, or 5 by that service provider; and
 (b) who still works at the service or lives in the home.
 (2) A further Police vet required under subclause (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
 (3) The requirement for a further Police vet under this clause does not apply to a person on whom a Police vet under clause 1 or 2 would not be required if the person were about to be appointed to a position at the licensed early childhood service or to work at the service at the time that the further Police vet would otherwise be required.
@@ -67,13 +72,13 @@ Compare: 1989 No 80 s 78CB
 (2) A further Police vet required under subclause (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
 (3) The requirement for a further Police vet under this clause does not apply to a person on whom a Police vet under clause 9 or 10 would not be required if the person were about to be appointed to a position at the school or to work at the school at the time that the further Police vet would otherwise be required.
 Compare: 1989 No 80 s 78CC
-13 Procedures relating to Police vets
-The board of a State school or the managers of a private school that applies for a Police vet of a person—
+13 Procedures relating to Police vets under clause 9 or 10
+The board of a State school or the managers of a private school that applies for a Police vet of a person under clause 9 or 10—
 (a) must ensure that strict confidentiality is observed for Police vets; and
 (b) may not take adverse action in relation to a person who is the subject of a Police vet until—
 (i) the person has validated the information contained in the vet; or
 (ii) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
 Compare: 1989 No 80 s 78CD
-Relationship with Children's Act 2014
+Relationship with Children's Act 2014[Repealed]
 14 Relationship with Children's Act 2014
-Nothing in this schedule limits or affects Part 3 of the Children's Act 2014 or regulations made under that Act in relation to the safety checking of children's workers.
+[Repealed]

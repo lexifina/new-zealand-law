@@ -1,6 +1,6 @@
 # Schedule 26 Consequential amendments and revocations
 ss 668, 669(4)
-Part 1Amendments to Acts that come into force on Royal assent
+Part 1Amendments to Acts that come into force on day after date of Royal assent
 Accident Compensation Act 2001 (2001 No 49)
 In section 6(1), definition of place of education, replace paragraph (a) with:
 (a) means—
