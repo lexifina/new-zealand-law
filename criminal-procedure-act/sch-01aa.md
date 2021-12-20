@@ -24,3 +24,10 @@ proceeding—
 Part 2 Provision relating to Courts Matters Act 2018
 4 Declaration made under old law continues to be admissible
 A declaration containing the statement required by section 82(1)(b) of the principal Act (as it read before the amendments made by section 32 of the Courts Matters Act 2018) continues to be admissible in proceedings on and after the commencement of section 32 of the Courts Matters Act 2018.
+Part 3 Provision relating to Part 3 of Sexual Violence Legislation Act 2021
+5 Proceedings affected by Part
+(1) Amendments made by a provision of Part 3 of the Sexual Violence Legislation Act 2021 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
+(2) Proceedings commenced before that commencement, and not finally determined (including any rehearing, retrial, or appeal) before that commencement, continue as if those amendments had not been enacted.
+(3) However, the following provisions apply, after they (or, as the case requires, after the amendments made to them by that Part) come into force, to proceedings specified in subclause (2):
+(a) section 196(3) (court proceedings generally open to public):
+(b) section 199AA (court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature).
