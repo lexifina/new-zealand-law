@@ -175,3 +175,62 @@ Part 4 Provisions relating to Legislation Act 2019
 31 Local authority recognition of national planning standards
 (1) Section 58I(3)(b) and (7)(b), as in force immediately before the main commencement date, continues to apply in relation to a national planning standard that was notified in the Gazette before the main commencement date.
 (2) In this clause, main commencement date means the date on which section 10 of the Legislation (Repeals and Amendments) Act 2019 (which repeals the Legislation Act 2012) comes into force.
+Part 5 Provisions relating to Resource Management (Enabling Housing Supply and Other Matters) Amendment Act 2021
+32 Interpretation
+In this Part,—
+Amendment Act means the Resource Management (Enabling Housing Supply and Other Matters) Amendment Act 2021
+commencement date means the following:
+(a) in the case of a tier 2 or tier 3 territorial authority, the date on which the applicable regulations made under section 80I(1) or 80K(1), as the case may be, commence:
+(b) in the case of all other specified territorial authorities, the day after the date on which the Amendment Act receives the Royal assent
+tier 2 or tier 3 territorial authority means the following:
+(a) a tier 2 territorial authority required to prepare and notify an IPI by regulations made under section 80I(1):
+(b) a tier 3 territorial authority required to prepare and notify an IPI by regulations made under section 80K(1).
+33 Status of notified proposed district plan of specified territorial authority
+(1) This clause applies if a specified territorial authority has notified a proposed district plan before the commencement date and the proposed district plan is not operative at the commencement date.
+(2) The specified territorial authority—
+(a) is not required to notify a plan change to its district plan to incorporate the MDRS into any relevant residential zone or to give effect to policies 3 and 4, or policy 5, as the case requires, of the NPS-UD; but
+(b) must notify a single variation to its proposed district plan to incorporate the MDRS and give effect to policies 3 and 4, or policy 5, as the case requires, of the NPS-UD, by whichever of the following dates is applicable:
+(i) in the case of a tier 2 territorial authority required to notify an IPI by regulations made under section 80I(1), on or before the date specified in those regulations, if those regulations are required by section 80I(2) to specify a notification date:
+(ii) in the case of a tier 3 territorial authority required to notify an IPI, on or before the date specified in regulations made under section 80K(1):
+(iii) in the case of all other specified territorial authorities, on or before 20 August 2022.
+(3) The variation referred to in subclause (2)(b)—
+(a) is the specified territorial authority's IPI required to be notified in accordance with section 80F; and
+(b) must use the ISPP to incorporate the MDRS and give effect to policy 3 or 5, as the case requires, of the NPS-UD; and
+(c) must ensure that the specified territorial authority can carry out its functions under sections 77G(1) and 77N(1); and
+(d) may include—
+(i) any provision that is proposed to be included in a residential zone; and
+(ii) any other provision that is proposed to be included in a non-residential urban zone, where that zone is giving effect to the intensification policies in accordance with section 77N; and
+(iii) any changes consequential on, or necessary to give effect to, the variation.
+(4) A variation referred to in subsection (3)(a) must be treated as if it had been notified in accordance with section 80F, and the applicable provisions of this Act enacted by the Amendment Act apply to the variation accordingly.
+(5) To avoid doubt, section 86B applies to rules notified in the variation.
+34 Status of partly completed proposed plan changes modifying relevant residential zone
+(1) This clause applies to any plan change that is proposing or requesting changes to a relevant residential zone or a new residential zone if—
+(a) the plan change has been notified by a specified territorial authority before the commencement date, but decisions on submissions on that plan change have not been notified in accordance with clause 10 of Schedule 1 before that date; and
+(b) the plan change has not been withdrawn; and
+(c) the MDRS is not already being incorporated through any proposed rules.
+(2) The specified territorial authority must notify a variation to the plan change at the same time that it notifies the IPI to incorporate the MDRS as required by section 77G(3).
+(3) However, the variation does not merge with the specified territorial authority's IPI but must be processed at the same time as the IPI, using the ISPP.
+(4) The variation must incorporate the MDRS into all areas within the scope of the plan change that are a relevant residential zone or a new residential zone.
+(5) The variation may only include those uses referred to in section 80G(1)(b).
+(6) The variation may be declined or withdrawn only if it is no longer required for the plan change to meet the requirements of section 77G(1).
+(7) The variation must use the ISPP to incorporate the MDRS.
+(8) For the avoidance of doubt,—
+(a) section 86B does not apply to any rules notified in the variation:
+(b) this clause applies only in relation to the district of a specified territorial authority.
+35 Some private plan change requests may rely on IPI to incorporate MDRS
+(1) This clause applies to any plan change request to change a district plan—
+(a) that is made to a specified territorial authority under clause 21 of Schedule 1 before the specified territorial authority has notified its IPI in accordance with section 80F; and
+(b) to which clause 34 does not apply; and
+(c) that requests the creation of a new residential zone that proposes to adopt all the zone provisions of a relevant residential zone but does not amend the provisions in the relevant residential zone.
+(2) Despite clause 25(4A) of Schedule 1, a specified territorial authority may accept or adopt the request and incorporate the MDRS for the new residential zone through the IPI.
+(3) A specified territorial authority may decline the request under clause 25(4) of Schedule 1 or apply the rest of clause 25 of that schedule, as the case requires.
+36 Limits on appeals
+(1) To avoid doubt, clause 107 of Schedule 1 (which states that there is no right of appeal against decisions made under Part 6 of Schedule 1) only applies to—
+(a) the variation to the proposed district plan notified in accordance with clause 33(2)(b) and not the underlying proposed district plan:
+(b) the variation to the plan change notified in accordance with clause 34(2) and not the underlying plan change.
+(2) Subclause (1) does not affect any other right of appeal.
+37 Plan change or private plan change notified before commencement
+(1) Subclause (2) applies to a plan change or private plan change that, before the commencement date,—
+(a) was notified; and
+(b) was the subject of a decision under clause 10 of Schedule 1 that was publicly notified.
+(2) If this subclause applies, the plan change or private plan change may proceed as if the Amendment Act had not been enacted.

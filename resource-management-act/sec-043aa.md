@@ -1,7 +1,7 @@
 # 43AA Interpretation
 In this Act, unless the context requires another meaning,—
 change means—
-(a) a change proposed by a local authority to a policy statement or plan under clause 2 of Schedule 1; and
+(a) a change proposed by a local authority to a policy statement or plan under clause 2 of Schedule 1, including an IPI notified in accordance with section 80F(1) or (2); and
 (b) a change proposed by any person to a policy statement or plan by a request under clause 21 of Schedule 1
 district plan—
 (a) means an operative plan approved by a territorial authority under Schedule 1; and

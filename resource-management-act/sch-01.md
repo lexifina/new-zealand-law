@@ -159,6 +159,27 @@ Effect of decisions under this Part
 92 Appeals in relation to requirements, designations, and heritage orders
 93 Appeals on questions of law in relation to requirements, designations, and heritage orders
 94 Procedural matters
+Part 6
+Intensification streamlined planning process
+How specified territorial authority notifies intensification planning instrument
+95 How specified territorial authority notifies intensification planning instrument
+What specified territorial authority must do in respect of independent hearings panel
+96 Specified territorial authority must establish independent hearings panel and delegate necessary functions
+97 Specified territorial authority must submit intensification planning instrument documents to independent hearings panel
+Powers of independent hearings panel and process for recommendations
+98 Powers of independent hearings panel
+99 Independent hearings panel must make recommendations to territorial authority on intensification planning instrument
+100 How independent hearings panel must provide recommendations
+Decisions on independent panel's recommendations
+101 Specified territorial authority to consider recommendations
+102 Notification of specified territorial authority's decisions
+103 What happens if specified territorial authority accepts all recommendations of independent hearings panel
+104 What happens if specified territorial authority accepts some, or none, of recommendations of independent hearings panel
+105 Minister must decide on rejected and alternative recommendations
+106 Notification of Minister's decisions
+Appeals and judicial review
+107 Scope of appeal rights
+108 Judicial review
 Part 1 Preparation and change of policy statements and plans by local authorities
 1 Time limits
 (1) [Repealed]
@@ -554,6 +575,7 @@ whichever is the latest, decide under which of subclauses (2), (3), and (4), or 
 (c) the request or part of the request is not in accordance with sound resource management practice; or
 (d) the request or part of the request would make the policy statement or plan inconsistent with Part 5; or
 (e) in the case of a proposed change to a policy statement or plan, the policy statement or plan has been operative for less than 2 years.
+(4A) A specified territorial authority must not accept or adopt a request if it does not incorporate the MDRS as required by section 80F(1) or (2).
 (5) The local authority shall notify the person who made the request, within 10 working days, of its decision under this clause, and the reasons for that decision, including the decision on notification.
 26 Notification timeframes
 (1) Where a local authority accepts the request or part of the request under clause 25(2)(b)—
@@ -1191,3 +1213,188 @@ Effect of decisions under this Part
 (2) A notice of appeal must be lodged, as the case requires, not later than 30 working days—
 (a) after the decision of the local authority is given under clause 11(2); or
 (b) after the decision of the requiring authority or heritage protection authority is served under clause 13(4).
+Part 6 Intensification streamlined planning process
+How specified territorial authority notifies intensification planning instrument
+95 How specified territorial authority notifies intensification planning instrument
+What specified territorial authority must do to notify intensification planning instrument
+(1) A specified territorial authority must prepare, notify, and progress an IPI by following the relevant processes described in subclause (2).
+Application of Part 1 of this schedule
+(2) The following clauses of Part 1 of this schedule apply to the extent that they are relevant to a specified territorial authority:
+(a) clause 1A (which requires a proposed policy statement or plan to be prepared in accordance with any applicable Mana Whakahono a Rohe):
+(b) clause 1B (which relates to iwi participation legislation):
+(c) clause 2(1) (which requires a local authority to prepare a proposed policy statement or plan):
+(d) clause 3(1), (2), and (4) (which relates to consultation requirements):
+(e) clause 3B (which relates to consultation with iwi authorities):
+(f) clause 3C (which relates to previous consultation under other enactments):
+(g) clause 4A (which requires a local authority to fulfil certain pre-notification requirements concerning iwi authorities):
+(h) clause 5(1)(a) and (b)(i), (1A), (1B), (2), and (3) to (6) (which requires a local authority to publicly notify a proposed policy statement or plan that it has decided to proceed with):
+(i) clause 6 (which relates to who may make submissions on a publicly notified proposed policy statement or plan):
+(j) clause 7(1) and (2) (which requires a local authority to give public notice of certain matters relating to submissions):
+(k) clause 8(1) and (2) (which enables certain persons to make further submissions):
+(l) clause 8A (which relates to serving copies of further submissions made under clause 8):
+(m) clause 8AA (which enables a local authority to arrange a meeting with a person who has made a submission on a proposed policy statement or plan for the purpose of clarifying or facilitating the resolution of any matter relating to the statement or plan):
+(n) clause 8B (which requires a local authority to hold a hearing into submissions on its proposed policy statement or plan):
+(o) clause 16(2) (which enables a local authority to correct minor errors in a proposed policy statement or plan):
+(p) clause 16A (which enables a local authority to initiate variations to a proposed policy statement or plan):
+(q) clause 17 (which relates to when a local authority may approve a proposed policy statement or plan).
+(3) In the clauses referred to in subclause (2),—
+(a) references to a local authority are to be read as references to a specified territorial authority; and
+(b) references to a proposed policy statement or plan are to be read as references to an IPI.
+What specified territorial authority must do in respect of independent hearings panel
+96 Specified territorial authority must establish independent hearings panel and delegate necessary functions
+(1) A specified territorial authority must—
+(a) establish an independent hearings panel to—
+(i) conduct a hearing of submissions on the IPI once it has been notified by the specified territorial authority; and
+(ii) make recommendations, after the hearing of submissions is concluded, to the specified territorial authority; and
+(b) appoint 1 member of the panel to be the chairperson of the panel.
+(2) Before establishing an independent hearings panel, the specified territorial authority must—
+(a) consult tāngata whenua through relevant iwi authorities on whether it is appropriate to appoint a member of the panel with an understanding of tikanga Māori and of the perspectives of local iwi or hapū; and
+(b) if tāngata whenua consider it appropriate, appoint at least 1 member of the panel with an understanding of tikanga Māori and the perspectives of local iwi or hapū, in consultation with relevant iwi authorities.
+(3) The specified territorial authority must delegate the necessary functions to the independent hearings panel.
+(4) In this clause, necessary functions—
+(a) means the functions, powers, or duties that the independent hearings panel requires to carry out its role under subclause (1)(a); and
+(b) includes the functions, powers, or duties that a local authority requires in order to hold a hearing under clause 8B; but
+(c) does not include—
+(i) the approval of a proposed policy statement or plan under clause 17:
+(ii) this power of delegation.
+97 Specified territorial authority must submit intensification planning instrument documents to independent hearings panel
+A specified territorial authority must, as soon as is reasonably practicable, submit the following documents and information, as relevant, to the independent hearings panel that it has established under clause 96(1)(a):
+(a) the IPI that was publicly notified:
+(b) any variation made to the IPI under clause 16A:
+(c) the specified territorial authority's evaluation report prepared under section 32:
+(d) the submissions on the IPI received by the closing date for submissions:
+(e) the specified territorial authority's summary of the decisions requested by submitters:
+(f) further submissions on the IPI received by the closing date for further submissions:
+(g) submissions received after the closing date for submissions or further submissions:
+(h) information about when the submissions described in paragraph (g) were received:
+(i) the planning documents that are recognised by an iwi authority and lodged with the specified territorial authority:
+(j) documentation relevant to any obligations arising under any relevant iwi participation legislation, joint management agreement, or Mana Whakahono a Rohe:
+(k) any other relevant information.
+Powers of independent hearings panel and process for recommendations
+98 Powers of independent hearings panel
+(1) To the extent applicable, an independent hearings panel has the same duties and powers as a local authority under the following provisions:
+(a) section 39 (which provides for how hearings are to be conducted), except section 39(2)(c) and (d):
+(b) section 39AA (which enables a hearing to be conducted using remote access facilities):
+(c) section 40 (which provides for the persons who may be heard at a hearing):
+(d) section 41 (which provides for the application of certain provisions of the Commissions of Inquiry Act 1908):
+(e) section 41A (which relates to the control of hearings):
+(f) section 41B (which provides for the giving of directions as to the time for providing evidence in relation to a hearing):
+(g) section 41C (which sets out the directions and requests that may be given before or at a hearing), except section 41C(4):
+(h) section 41D (which provides for submissions to be struck out before or at a hearing):
+(i) section 42 (which provides for the protection of sensitive information).
+(2) If an independent hearings panel exercises a power under section 41D,—
+(a) a person whose submission is struck out has a right of objection under section 357(2) as if the references in that subsection to an authority were references to an independent hearings panel; and
+(b) sections 357C, 357D, and 358 apply to the independent hearings panel as the body to which an objection is made under section 357(2).
+(3) An independent hearings panel may decide to accept or reject any late submission.
+(4) At a hearing, an independent hearings panel may—
+(a) permit a party to question another party or a witness:
+(b) prohibit cross-examination:
+(c) permit cross-examination at the request of a party, but only if the panel is satisfied that it is in the interests of justice:
+(d) regulate the conduct of any cross-examination.
+99 Independent hearings panel must make recommendations to territorial authority on intensification planning instrument
+(1) An independent hearings panel must make recommendations to a specified territorial authority on the IPI.
+(2) The recommendations made by the independent hearings panel—
+(a) must be related to a matter identified by the panel or any other person during the hearing; but
+(b) are not limited to being within the scope of submissions made on the IPI.
+(3) An independent hearings panel, in formulating its recommendations, must be satisfied that, if the specified territorial authority were to accept the panel's recommendations, sections 85A and 85B(2) (which relate to the protection of protected customary rights) would be complied with.
+100 How independent hearings panel must provide recommendations
+(1) The independent hearings panel must provide its recommendations to a specified territorial authority in 1 or more written reports.
+(2) Each report must—
+(a) set out the panel's recommendations on the provisions of the IPI covered by the report; and
+(b) identify any recommendations that are outside the scope of the submissions made in respect of those provisions; and
+(c) set out the panel's recommendations on the matters raised in submissions made in respect of the provisions covered by the report; and
+(d) state the panel's reasons for accepting or rejecting submissions; and
+(e) include a further evaluation of the IPI undertaken in accordance with section 32AA (requirements for undertaking and publishing further evaluations).
+(3) Each report may also include—
+(a) matters relating to any alterations necessary to the IPI as a consequence of matters raised in submissions; and
+(b) any other matter that the panel considers relevant to the IPI that arises from submissions or otherwise.
+(4) In stating the panel's reasons for accepting or rejecting submissions in accordance with subclause (2)(d), each report may address the submissions by grouping them according to—
+(a) the provisions of the IPI to which they relate; or
+(b) the matters to which they relate.
+(5) To avoid doubt, a panel is not required to make recommendations in a report that deal with each submission individually.
+Decisions on independent panel's recommendations
+101 Specified territorial authority to consider recommendations
+(1) The specified territorial authority—
+(a) must decide whether to accept or reject each recommendation of the independent hearings panel; and
+(b) may provide an alternative recommendation for any recommendation that the authority rejects.
+(2) The specified territorial authority must refer to the Minister—
+(a) each rejected recommendation, together with the authority's reasons for rejecting the recommendation; and
+(b) any alternative recommendation that the authority has provided under subclause (1)(b).
+(3) The specified territorial authority must make decisions under subclause (1) in a manner that is consistent with any relevant iwi participation legislation, Mana Whakahono a Rohe, or joint management agreement.
+(4) When making decisions under subclause (1), the specified territorial authority—
+(a) is not, subject to subclause (2), required to consult any person or consider submissions or other evidence from any person; and
+(b) must not consider any submission or other evidence unless it was made available to the independent hearings panel before the panel made the recommendation that is the subject of the specified territorial authority's decision; and
+(c) may seek clarification from the independent hearings panel on a recommendation in order to assist the specified territorial authority to make a decision under subclause (1).
+(5) To avoid doubt, the specified territorial authority may accept recommendations of the independent hearings panel that are beyond the scope of the submissions made on the IPI.
+102 Notification of specified territorial authority's decisions
+(1) The specified territorial authority must publicly notify its decisions made under clause 101(1) in a way that sets out the following information:
+(a) each recommendation of the independent hearings panel that it accepts; and
+(b) each recommendation of the independent hearings panel that it rejects and the reasons for doing so; and
+(c) any alternative recommendation that it has provided for a rejected recommendation.
+(2) Subclause (3) applies if the specified territorial authority decides that it wishes to accept a recommendation but alter the recommendation in a way that has a minor effect or to correct a minor error.
+(3) The territorial authority may notify the recommendation as accepted, but only if, when complying with subclause (1)(a), it sets out the alterations to the recommendation.
+(4) A recommendation to which subclause (2) applies must, for all purposes, be treated as a recommendation of the independent hearings panel accepted by the territorial authority.
+(5) Not later than 5 working days after the specified territorial authority's decisions under subclause (1) are publicly notified, the authority must serve the public notice on every person who made a submission on the IPI.
+(6) The specified territorial authority must also—
+(a) make a copy of the public notice and the decisions under clause 101(1) publicly available—
+(i) on an Internet site maintained by or on behalf of the territorial authority; and
+(ii) in physical form at all of the territorial authority's offices and all public libraries in its district; and
+(b) include with the notice a statement of the places where a copy of the decision is available; and
+(c) send or provide, on request, a copy of the decision within 3 working days after the request is received.
+103 What happens if specified territorial authority accepts all recommendations of independent hearings panel
+(1) This clause applies if the specified territorial authority decides to accept all the recommendations of the independent hearings panel.
+(2) On the notification under clause 102(1) of the specified territorial authority's decisions,—
+(a) all the recommendations of the independent hearings panel are incorporated into the district plan that has been subject to the ISPP; and
+(b) the plan (as altered by those recommendations)—
+(i) is deemed to have been approved by the territorial authority under clause 17(1); and
+(ii) becomes operative in accordance with clause 20.
+104 What happens if specified territorial authority accepts some, or none, of recommendations of independent hearings panel
+(1) Clause 105 applies if the specified territorial authority—
+(a) decides to accept some, or none, of the recommendations of the independent hearings panel; and
+(b) refers, under clause 101(2), 1 or more recommendations to the Minister.
+(2) On the notification under clause 102(1) of the specified territorial authority's decisions,—
+(a) all the recommendations of the independent hearings panel that were accepted by the specified territorial authority are incorporated into the district plan that has been subject to the ISPP; and
+(b) the affected parts of the plan (as altered by those recommendations)—
+(i) are deemed to have been approved by the territorial authority under clause 17(1); and
+(ii) become operative in accordance with clause 20.
+105 Minister must decide on rejected and alternative recommendations
+(1) The Minister must decide—
+(a) to accept or reject any or all of the recommendations referred to the Minister under clause 101(2)(a); and
+(b) for any recommendation that the Minister rejects, whether to accept an alternative recommendation referred to the Minister under clause 101(2)(b).
+(2) In making a decision under subclause (1), the Minister—
+(a) may take into account only those considerations that the independent hearings panel could have taken into account when making its recommendation; but
+(b) may have regard to—
+(i) whether the specified territorial authority has complied with the procedural requirements, including time frames, required by the direction made under section 80L; and
+(ii) whether and, if so, how the independent hearings panel has had regard to that direction; and
+(iii) whether and, if so, how the specified territorial authority and the independent hearings panel have had regard to the statement of expectations (if any) included in that direction.
+(3) Once the Minister has made decisions under subclause (1), the Minister must, as soon as practicable, notify the specified territorial authority in writing of those decisions and the Minister's reasons for making them.
+(4) Subclause (5) applies if the Minister decides that they wish to accept a recommendation but alter the recommendation in a way that has a minor effect or to correct a minor error.
+(5) The Minister may notify the recommendation to the specified territorial authority as accepted, but only if, when complying with subclause (3), the Minister sets out the alterations to the recommendation.
+(6) A recommendation to which subclause (4) applies must, for all purposes, be treated as an accepted recommendation.
+(7) On the notification under clause 106(1) of the Minister's decisions,—
+(a) the recommendations of the independent hearings panel referred to the Minister under clause 101(2) (as accepted or altered by the Minister's decisions) are incorporated into the district plan that has been subject to the ISPP; and
+(b) the plan (as altered by those recommendations)—
+(i) is deemed to have been approved by the territorial authority under clause 17(1); and
+(ii) becomes operative in accordance with clause 20.
+106 Notification of Minister's decisions
+(1) Once the Minister has notified a specified territorial authority under clause 105(3) of decisions made under clause 105(1), the specified territorial authority must publicly notify those decisions.
+(2) The specified territorial authority must publicly notify the Minister's decisions made under clause 105(1) in a way that sets out the following information:
+(a) each recommendation referred to the Minister under clause 101(2)(a) that the Minister accepts; and
+(b) each recommendation referred to the Minister under clause 101(2)(a) that the Minister rejects and the reasons for doing so; and
+(c) any alternative recommendation referred to the Minister under clause 101(2)(b) that the Minister has accepted for a rejected recommendation.
+(3) Subclause (4) applies if the Minister has, in accordance with clause 105(4), accepted a recommendation but altered it.
+(4) The specified territorial authority must, when complying with subclause (2),—
+(a) notify the recommendation as accepted; and
+(b) set out the alterations to the recommendation.
+(5) Not later than 5 working days after the Minister's decisions under clause 105(1) are publicly notified, the specified territorial authority must serve the public notice on every person who made a submission on the IPI.
+(6) The specified territorial authority must also—
+(a) make a copy of the public notice and the decisions under clause 105(1) publicly available—
+(i) on an Internet site maintained by or on behalf of the territorial authority; and
+(ii) in physical form at all of the territorial authority's offices and all public libraries in its district; and
+(b) include with the notice a statement of the places where a copy of the decisions are available; and
+(c) send or provide, on request, a copy of the decisions within 3 working days after the request is received.
+Appeals and judicial review
+107 Scope of appeal rights
+There is no right of appeal under this Act against any decision or action of the Minister, a specified territorial authority, or any other person under this Part.
+108 Judicial review
+Nothing in this Part limits or affects any right of judicial review a person may have in respect of any matter to which this Part applies.
