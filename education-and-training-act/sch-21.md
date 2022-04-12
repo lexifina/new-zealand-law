@@ -29,7 +29,7 @@ Compare: 1989 No 80 s 65A
 Compare: 1989 No 80 s 65B
 3 Holidays
 (1) A board must ensure that each school it administers is closed on—
-(a) Saturdays, Sundays, New Year's Day, 2 January, Waitangi Day, Good Friday, Easter Monday, Easter Tuesday, Anzac Day, the Sovereign's birthday, Labour Day, Christmas Day, and Boxing Day; and
+(a) Saturdays, Sundays, New Year's Day, 2 January, Waitangi Day, Good Friday, Easter Monday, Easter Tuesday, Anzac Day, the Sovereign's birthday, Te Rā Aro ki a Matariki/Matariki Observance Day, Labour Day, Christmas Day, and Boxing Day; and
 (b) the day observed as anniversary day in the locality in which the school is situated; and
 (c) if 1 January falls on a Friday, the following Monday; and
 (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday; and
