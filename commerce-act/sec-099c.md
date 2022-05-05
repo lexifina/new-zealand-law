@@ -7,5 +7,4 @@ compulsorily acquired information means information that—
 (a) is acquired by the Commission, whether before or after this section comes into force, as a result of, or in relation to, the exercise by the Commission of any of its powers under section 98, 98A, or 98H, or any power incidental to those powers; and
 (b) is not in the public domain
 investigative assistance includes providing assistance by way of exercising any power of the Commission under, or in relation to, section 98, 98A, or 98H, and any powers incidental to those powers
-overseas regulator means an overseas body that has competition law functions corresponding to those of the Commission under this Act
 recognised overseas regulator means an overseas regulator that is the subject of a co-operation arrangement.
