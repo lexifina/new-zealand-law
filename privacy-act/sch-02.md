@@ -5,9 +5,10 @@ Public service(s) to be facilitated by agreement
 Internet address where copy of agreement can be accessed
 Lead agency for agreement
 Description of personal information or type of personal information to be shared under agreement
-Information sharing to support services for disengaged youth: information sharing agreement between the Ministry of Education and the Ministry of Social Development made on 8 August 2012
-To provide services to encourage and help young persons who have ceased to be enrolled at a registered school or a tertiary education organisation to move into, or remain in, education, training, and employment rather than receiving financial support under the Social Security Act 1964 (replaced by the Social Security Act 2018)
-http://www.youthservice.govt.nz/for-providers/provider-guide/neet-clients/information-sharing.html Ministry of Social Development
+Information sharing to support services for disengaged youth: information sharing agreement between Ministry of Education, Oranga Tamariki—Ministry for Children, and Ministry of Social Development made on 8 August 2012 and amended on 13 May 2020
+To provide services to encourage and help young persons who have ceased to be enrolled at a registered school or a tertiary education organisation to move into, or remain in, education, training, and employment rather than receiving financial support under the Social Security Act 2018
+http://www.youthservice.govt.nz Ministry of Social Development
+Information from Ministry of Education:
 (a) student name (and any alternative names):
 (b) gender:
 (c) ethnicity:
@@ -18,11 +19,21 @@ http://www.youthservice.govt.nz/for-providers/provider-guide/neet-clients/inform
 (h) email address:
 (i) schools attended (including geographical regions and deciles):
 (j) number of schools attended:
-(k) date left school and year level:
+(k) date of leaving school and year level:
 (l) leaving reason (for each school):
 (m) qualification information at time of leaving school:
 (n) details of any interventions that student may have participated in:
 (o) any information on student's participation in tertiary education
+Information from Oranga Tamariki—Ministry for Children:
+(a) name (including any alternative names if applicable):
+(b) birth date:
+(c) gender:
+(d) ethnicity:
+(e) intakes to Oranga Tamariki—Ministry for Children, including dates, whether the intake was for care and protection or youth justice concerns, and the outcome decision from the intake:
+(f) dates of any family group conferences and/or hui-a-whānau and whether they were for care and protection or for youth justice purposes:
+(g) dates of any findings of abuse:
+(h) placements and periods in youth justice custody, including type and duration of placement:
+(i) placements and periods in care and protection custody, including type and duration of placement
 Supply of adult passport information for the purpose of locating overseas-based student loan borrowers who are in default of their repayment obligations and child support liable parents living overseas who are in default of their repayment or contact obligations Information sharing agreement (made on 6 June 2014)
 (a) Inland Revenue collecting student loan debt (including core assessment, penalties, and interest):
 (b) Inland Revenue collecting child support liable parent debt (including core assessments and penalties):
@@ -39,20 +50,6 @@ http://www.ird.govt.nz Inland Revenue
 (h) home address:
 (i) passport delivery address:
 (j) email address
-Information sharing agreement made between Inland Revenue and the New Zealand Police on 2 July 2014 entitled "Information Sharing Agreement Between Inland Revenue and New Zealand Police relating to disclosure of personal information to New Zealand Police for the purpose of prevention, detection, investigation or providing evidence of serious crime pursuant to Part 9A of the Privacy Act 1993 and section 81A of the Tax Administration Act 1994, July 2014, as amended 16 March 2015"
-The maintenance of public safety.
-Law enforcement and crime prevention, in particular, the prevention, detection, and investigation of serious crime and the provision of evidence of serious crime
-http://www.ird.govt.nz Inland Revenue
-(a) tax information:
-(b) financial transaction information:
-(c) financial relationship information:
-(d) domestic relationship information:
-(e) information about assets:
-(f) employment information:
-(g) personal records:
-(h) social assistance information:
-(i) personal information about an identifiable individual's associates:
-(j) any other personal information Inland Revenue identifies in the course of performing its usual functions and duties
 Approved Information Sharing Agreement for Improving Public Services for At-risk Children dated 25 June 2015
 Improving the well-being of at-risk children
 http://www.msd.govt.nz
@@ -158,6 +155,49 @@ New Zealand Police
 (d) non-disclosure direction made, withdrawn, or expired in relation to an individual's birth information:
 (e) non-disclosure direction made, withdrawn, or expired in relation to an individual's name change information, if the individual's birth is registered in New Zealand:
 (f) non-disclosure direction made, withdrawn, or expired in relation to an individual's name change information, if the individual's birth is not registered in New Zealand.
+Information Sharing Agreement facilitating customer nominated services made on 4 May 2020
+(a) the accurate and efficient assessment of eligibility for and entitlement to receive public services that an individual applies for or decides to utilise:
+(b) the accurate and efficient delivery of public services that an individual applies for or decides to utilise:
+(c) the prevention, detection, investigation, and prosecution of offences, and the conduct of civil proceedings, including judicial review
+https://www.dia.govt.nz Department of Internal Affairs
+(1) identifying information:
+(2) citizenship information:
+(3) New Zealand passport information:
+(4) New Zealand certificate of identity information:
+(5) New Zealand refugee travel document information:
+(6) electronic identity credential application information:
+(7) birth information:
+(8) pre-sexual assignment or reassignment:
+(9) death information:
+(10) marriage information:
+(11) civil union information:
+(12) name change information:
+(13) name change lodgements:
+(14) overseas death information:
+(15) overseas name change information:
+(16) overseas marriage and civil union information:
+(17) non-disclosure directions information:
+(18) driver licence information:
+(19) driver licence images:
+(20) demerit points:
+(21) information relating to current debt to the Crown held by New Zealand Transport Agency, Ministry of Education, Ministry of Social Development, Registrar of Motor Vehicles, and RUC collector (as defined in section 5(1) of the Road User Charges Act 2012):
+(22) information relating to historic debt to the Crown held by New Zealand Transport Agency, Ministry of Education, Ministry of Social Development, Registrar of Motor Vehicles, and RUC collector (as defined in section 5(1) of the Road User Charges Act 2012):
+(23) information relating to current debt to the Accident Compensation Corporation:
+(24) information relating to historic debt to the Accident Compensation Corporation:
+(25) parents' or caregivers' contact details:
+(26) confirmation individual known to Ministry of Social Development:
+(27) current visa information:
+(28) historic visa information:
+(29) details of known or suspected offending relevant to consideration of an individual's liability for deportation:
+(30) English proficiency:
+(31) a notification from Ministry of Business, Innovation, and Employment that more information exists in relation to an individual's character that is potentially relevant to a good character test:
+(32) assessment of character:
+(33) travel movements:
+(34) overseas birth information:
+(35) overseas citizenship information:
+(36) overseas passport and certificate of identity information:
+(37) information in overseas police reports held by Ministry of Business, Innovation, and Employment:
+(38) confirmation individual known to Ministry of Education
 Information Sharing Agreement between Department of Internal Affairs and Registrar-General made on 18 October 2019
 (a) the efficient provision of identity services:
 (b) the prevention, detection, investigation, and prosecution of offences:
@@ -181,3 +221,61 @@ https://www.dia.govt.nz Department of Internal Affairs
 (p) customer alerts:
 (q) contact details:
 (r) name change lodgements.
+Information Sharing Agreement facilitating customer nominated services made on 4 May 2020
+(a) the accurate and efficient assessment of eligibility for and entitlement to receive public services that an individual applies for or decides to utilise:
+(b) the accurate and efficient delivery of public services that an individual applies for or decides to utilise:
+(c) the prevention, detection, investigation, and prosecution of offences, and the conduct of civil proceedings, including judicial review
+https://www.dia.govt.nz Department of Internal Affairs
+(1) identifying information:
+(2) citizenship information:
+(3) New Zealand passport information:
+(4) New Zealand certificate of identity information:
+(5) New Zealand refugee travel document information:
+(6) electronic identity credential application information:
+(7) birth information:
+(8) pre-sexual assignment or reassignment:
+(9) death information:
+(10) marriage information:
+(11) civil union information:
+(12) name change information:
+(13) name change lodgements:
+(14) overseas death information:
+(15) overseas name change information:
+(16) overseas marriage and civil union information:
+(17) non-disclosure directions information:
+(18) driver licence information:
+(19) driver licence images:
+(20) demerit points:
+(21) information relating to current debt to the Crown held by New Zealand Transport Agency, Ministry of Education, Ministry of Social Development, Registrar of Motor Vehicles, and RUC collector (as defined in section 5(1) of the Road User Charges Act 2012):
+(22) information relating to historic debt to the Crown held by New Zealand Transport Agency, Ministry of Education, Ministry of Social Development, Registrar of Motor Vehicles, and RUC collector (as defined in section 5(1) of the Road User Charges Act 2012):
+(23) information relating to current debt to the Accident Compensation Corporation:
+(24) information relating to historic debt to the Accident Compensation Corporation:
+(25) parents' or caregivers' contact details:
+(26) confirmation individual known to Ministry of Social Development:
+(27) current visa information:
+(28) historic visa information:
+(29) details of known or suspected offending relevant to consideration of an individual's liability for deportation:
+(30) English proficiency:
+(31) a notification from Ministry of Business, Innovation, and Employment that more information exists in relation to an individual's character that is potentially relevant to a good character test:
+(32) assessment of character:
+(33) travel movements:
+(34) overseas birth information:
+(35) overseas citizenship information:
+(36) overseas passport and certificate of identity information:
+(37) information in overseas police reports held by Ministry of Business, Innovation, and Employment:
+(38) confirmation individual known to Ministry of Education
+Information sharing agreement between Inland Revenue Department, New Zealand Police, New Zealand Customs Service, and Serious Fraud Office made on 27 July 2020
+The maintenance of public safety.
+Law enforcement and crime prevention, in particular, the prevention, detection, and investigation of serious crimes and the provision of evidence of serious crimes
+http://www.ird.govt.nz
+http://www.police.govt.nz
+http://www.customs.govt.nz
+http://www.sfo.govt.nz
+Inland Revenue
+(a) tax information:
+(b) financial transaction information:
+(c) information about assets:
+(d) employment information:
+(e) personal record information:
+(f) social assistance information:
+(g) other personal information that Inland Revenue Department discovers in the course of performing its usual functions and duties
