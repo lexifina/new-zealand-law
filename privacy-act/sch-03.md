@@ -7,7 +7,7 @@ To verify the identity of—
 (b) a person who, under section 30B of the Bail Act 2000, has been granted bail with an electronic monitoring condition
 Department of Internal Affairs
 MBIE (Immigration)
-Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)
+Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)
 Ministry of Justice
 New Zealand Police
 New Zealand Transport Agency
@@ -19,7 +19,7 @@ To verify the identity of a person who has applied for the issue of—
 (c) an electronic identity credential
 Department of Corrections
 MBIE (Immigration)
-Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)
+Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)
 New Zealand Police
 New Zealand Transport Agency
 MBIE (Immigration)
@@ -34,13 +34,13 @@ To verify the identity of a person—
 (iv) is unlawfully in New Zealand
 Department of Corrections
 Department of Internal Affairs
-Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)
+Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)
 Ministry of Justice
 New Zealand Customs Service
 New Zealand Police
 New Zealand Transport Agency
 Registrar-General
-Ministry of Health and District Health Boards
+Ministry of Health and Health New Zealand and Māori Health Authority
 To verify the identity of a person who—
 (a) is being admitted, or returned, to a hospital as a special patient or restricted patient; or
 (b) is being admitted, or returned, to a secure facility as a special care recipient
@@ -56,7 +56,7 @@ To verify the identity of a person who—
 Department of Corrections
 Department of Internal Affairs
 MBIE (Immigration)
-Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)
+Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)
 New Zealand Transport Agency
 Registrar-General
 New Zealand Police
@@ -67,14 +67,14 @@ To verify the identity of a person—
 Department of Corrections
 Department of Internal Affairs
 MBIE (Immigration)
-Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)
+Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)
 New Zealand Customs Service
 New Zealand Transport Agency
 Registrar-General
 Registrar-General
 To verify the identity of a person who has applied for the registration of a name change
 MBIE (Immigration)
-Ministry of Health and District Health Boards (only in relation to special patients, restricted patients, and special care recipients)
+Ministry of Health and Health New Zealand and Māori Health Authority (only in relation to special patients, restricted patients, and special care recipients)
 New Zealand Police
 New Zealand Transport Agency
 Note:

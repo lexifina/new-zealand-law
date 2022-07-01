@@ -2,17 +2,16 @@
 s 100D
 1 Application
 (1) This code applies to the following parties to an employment relationship in the public health sector:
-(a) district health boards:
-(b) employees of district health boards:
-(c) unions whose members are employees of district health boards:
-(d) other employers to the extent that they provide services to district health boards or the New Zealand Blood Service:
-(e) employees of the employers referred to in paragraph (d) to the extent that they are engaged in providing services to district health boards or the New Zealand Blood Service:
-(f) unions whose members are employees referred to in paragraph (e):
-(g) the New Zealand Blood Service:
-(h) employees of the New Zealand Blood Service:
-(i) unions whose members are employees of the New Zealand Blood Service.
-(2) However, to avoid doubt, subclause (1)(d) and (e) applies in relation to the provision of services only if the services are provided to a district health board or the New Zealand Blood Service in its role as a provider of services.
-(3) Before a district health board or the New Zealand Blood Service enters into an agreement or arrangement with another employer for the provision of services to the district health board or the New Zealand Blood Service, the district health board or the New Zealand Blood Service must notify the employer that this code will apply to the employer in relation to the provision of those services.
+(a) Health New Zealand and the Māori Health Authority:
+(b) employees of Health New Zealand or the Māori Health Authority:
+(c) unions whose members are employees of Health New Zealand or the Māori Health Authority:
+(d) other employers to the extent that they provide services to Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service:
+(e) employees of the employers referred to in paragraph (d) to the extent that they are engaged in providing services to Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service:
+(f) the New Zealand Blood and Organ Service:
+(g) employees of the New Zealand Blood and Organ Service:
+(h) unions whose members are employees of the New Zealand Blood and Organ Service.
+(2) However, to avoid doubt, subclause (1)(d) and (e) applies in relation to the provision of services only if the services are provided to Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service in its role as a provider of services.
+(3) Before Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service enters into an agreement or arrangement with another employer for the provision of services to it, it must notify the employer that this code will apply to the employer in relation to the provision of those services.
 (4) However, failure to comply with subclause (3) does not affect the validity of an agreement or arrangement referred to in that subclause.
 2 Purpose
 The purpose of this code is—
@@ -26,7 +25,7 @@ The purpose of this code is—
 (ii) the role of unions in the public health sector.
 3 Interpretation
 In this code, unless the context otherwise requires,—
-good employer has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000
+good employer has the same meaning as in section 118 of the Crown Entities Act 2004
 health professional means—
 (a) an employee who provides services to patients as a health practitioner (as defined in section 5 of the Health Practitioners Competence Assurance Act 2003); and
 (b) any other employee who works in a recognised clinical discipline providing services for the purpose of assessing, improving, protecting, or managing the physical or mental health of individuals or groups of individuals
@@ -39,7 +38,7 @@ life preserving services means—
 (e) care required for therapeutic services without which permanent disability would occur:
 (f) urgent diagnostic procedures required to obtain information on conditions that could potentially lead to permanent disability
 services—
-(a) has the same meaning as in section 6(1) of the New Zealand Public Health and Disability Act 2000; and
+(a) has the same meaning as in section 4 of the Pae Ora (Healthy Futures) Act 2022; and
 (b) to avoid doubt,—
 (i) includes cleaning services, food catering services, laundry services, and orderly services; but
 (ii) does not include building construction services.
@@ -65,8 +64,8 @@ Every employer must be a good employer.
 6 Collective bargaining and collective agreements
 (1) The parties must support collective bargaining, including multi-employer collective agreements, where it is practical and reasonable to do so.
 (2) The parties must, as far as practical and reasonable, support the definition of coverage that best recognises the parties' commitment to collective employment arrangements.
-7 Principles of the Treaty of Waitangi
-The parties must recognise and support Part 3 of the New Zealand Public Health and Disability Act 2000 which, in order to recognise the principles of the Treaty of Waitangi and with a view to improving health outcomes for Maori, provides mechanisms to enable Maori to contribute to decision-making on, and to participate in the delivery of, health and disability services.
+7 Health sector principles
+The parties must recognise and support the health sector principles in section 7(1) of the Pae Ora (Healthy Futures) Act 2022.
 Collective bargaining
 8 Agreement on clinical expert or other suitable person
 As part of the arrangement required under section 32(1)(a), the parties must make every endeavour to agree on a clinical expert or other suitable person for the purposes of clause 13(1).
@@ -132,7 +131,7 @@ To avoid doubt, clauses 14 to 16 do not prevent a union from making public comme
 Continuity of employment
 19 Outsourcing or direct provision of services
 (1) This clause applies if—
-(a) an employer is a district health board or the New Zealand Blood Service; and
+(a) an employer is Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service; and
 (b) the employer obtains services from its employees; and
 (c) the employer engages or arranges for another employer to provide some or all of those services—
 (i) to the employer (outsourcing); or
@@ -140,12 +139,12 @@ Continuity of employment
 (2) The employees referred to in subclause (1)(b) who are affected by the outsourcing or direct provision are entitled to be employed by the other employer on the same terms and conditions as applied to the employees immediately before the outsourcing or direct provision took effect.
 20 Change in provider of outsourced services
 (1) This clause applies if—
-(a) a district health board or the New Zealand Blood Service has outsourced (within the meaning of clause 19(1)(c)(i)) the provision of services to it by another employer; and
+(a) Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service has outsourced (within the meaning of clause 19(1)(c)(i)) the provision of services to it by another employer; and
 (b) the agreement or arrangement under which the other employer provides those services comes to an end; and
-(c) the district health board or the New Zealand Blood Service makes an agreement or arrangement with a new employer to provide some or all of those services to it.
+(c) Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service makes an agreement or arrangement with a new employer to provide some or all of those services to it.
 (2) The employees of the employer referred to in subclause (1)(b) who are affected by the outsourcing are entitled to be employed by the other employer on the same terms and conditions as applied to the employees immediately before the agreement or arrangement referred to in subclause (1)(b) came to an end.
 21 Obligation to notify provisions of clauses 19 and 20
-(1) Before a district health board or the New Zealand Blood Service enters into an agreement or arrangement with a new employer to which clause 19 or clause 20 applies, it must notify the employer of the provisions of clause 19 or clause 20, whichever applies in the circumstances.
+(1) Before Health New Zealand, the Māori Health Authority, or the New Zealand Blood and Organ Service enters into an agreement or arrangement with a new employer to which clause 19 or clause 20 applies, it must notify the employer of the provisions of clause 19 or clause 20, whichever applies in the circumstances.
 (2) However, failure to comply with subclause (1) does not affect the validity of an agreement or arrangement referred to in that subclause.
 (3) This clause is in addition to clause 1(3).
 Remedying breaches of good faith

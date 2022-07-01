@@ -34,7 +34,7 @@ The operation of—
 12
 The manufacture or supply of surgical and dialysis solutions.
 13
-The manufacture or supply of a pharmaceutical that is for the time being listed in the pharmaceutical schedule under the New Zealand Public Health and Disability Act 2000.
+The manufacture or supply of a pharmaceutical that is for the time being listed in the pharmaceutical schedule under the Pae Ora (Healthy Futures) Act 2022.
 14
 The operation of a residential welfare institution or prison.
 15
