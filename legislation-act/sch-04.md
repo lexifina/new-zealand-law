@@ -7,6 +7,7 @@ Agricultural Compounds and Veterinary Medicines Act 1997 81E
 Animal Products Act 1999 118
 Antarctica (Environmental Protection) Act 1994 55(2)
 Arms Act 1983 74A
+Banking (Prudential Supervision) Act 1989 152 and 173 Only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5
 Biosecurity Act 1993 100L
 Biosecurity Act 1993 100ZB
 Biosecurity Act 1993 137
@@ -46,7 +47,6 @@ Parental Leave and Employment Protection Act 1987 73(1)(ae)
 Petroleum Demand Restraint Act 1981 4(1)
 Policing Act 2008 27(1)
 Primary Products Marketing Act 1953 3(1)
-Reserve Bank of New Zealand Act 1989 152 and 173 Only if the regulations confer on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of Part 5
 Road User Charges Act 2012 85(1)
 Social Security Act 2018 423(1)(c)
 Social Security Act 2018 452(1) (apart from, or with, clause 55(6) of Schedule 1)

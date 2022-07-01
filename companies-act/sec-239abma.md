@@ -9,8 +9,8 @@
 (2) The persons are—
 (a) the secured creditor:
 (b) a receiver or person appointed as mentioned in paragraph (a), (b), or (d) of the definition of enforce in section 239ABK as that definition applies in relation to the security interest, or any of the security interests (even if appointed after the decision period).
-(3) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subsection (1) have in that subsection the same meanings as in that section.
-(4) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subsection (1)(b), and those modifications include—
+(3) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subsection (1) have in that subsection the same meanings as in that section.
+(4) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subsection (1)(b), and those modifications include—
 (a) treating references to section 122(9A)(b) of that Act as references to subsection (1)(b) of this section; and
 (b) treating references to the enforcing counterparty as references to the secured creditor; and
 (c) treating references to the grantor as references to the company that granted the security interest.

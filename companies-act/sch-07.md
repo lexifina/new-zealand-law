@@ -48,8 +48,8 @@ s 312
 (b) before enforcement of the interest, the collateral is transferred or otherwise dealt with so as to be in the possession or under the control of—
 (i) the enforcing counterparty; or
 (ii) another person (who is not the company that granted the security interest) on behalf of the enforcing counterparty, under the terms of an arrangement evidenced in writing.
-(3B) Terms and expressions defined in section 122A of the Reserve Bank of New Zealand Act 1989 and used in subclause (3A) have in that subclause the same meanings as in that section.
-(3C) Section 122B of the Reserve Bank of New Zealand Act 1989 applies with all necessary modifications for the purposes of subclause (3A)(b) (and those modifications include treating references to section 122(9A)(b) of that Act as references to subclause (3A)(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
+(3B) Terms and expressions defined in section 122A of the Banking (Prudential Supervision) Act 1989 and used in subclause (3A) have in that subclause the same meanings as in that section.
+(3C) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subclause (3A)(b) (and those modifications include treating references to section 122(9A)(b) of that Act as references to subclause (3A)(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
 (4) Clause 9 of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 3 Provisions concerning preferential payments to employees
 (1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $25,480 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
