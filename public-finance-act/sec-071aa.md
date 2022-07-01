@@ -6,6 +6,6 @@
 (3) The persons are—
 (a) the Reserve Bank of New Zealand; or
 (b) the Governor of the Reserve Bank of New Zealand; or
-(c) the Deputy Governor of the Reserve Bank of New Zealand.
+(c) [Repealed]
 (4) The Secretary's power to delegate under this section is in addition to the Secretary's powers under clause 2(1) of Schedule 6 of the Public Service Act 2020.
 (5) Clauses 2(3) to (15) and 3 of Schedule 6 of the Public Service Act 2020 apply to a delegation under this section as if it were a delegation made under clause 2(1) of Schedule 6 of that Act.
