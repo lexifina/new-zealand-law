@@ -13,7 +13,7 @@ Subpart 1—General transitional provisions
 7 Saving provisions
 Subpart 2—Provisions for Part 2 (early childhood education)
 8 Applications for licence to operate early childhood education and care centre
-9 Review of section 17(6)
+9 Review of section 17B
 Subpart 3—Provisions for Part 3 (primary and secondary education)
 10 Enrolment schemes
 11 Temporary power of Minister to approve provision of education outside New Zealand
@@ -86,7 +86,7 @@ Superannuation
 65 Superannuation relating to Teaching Council
 66 Superannuation relating to Education New Zealand
 Pastoral care
-67 Transitional provision relating to code in respect of domestic tertiary students
+67 Transitional provision relating to code in respect of domestic tertiary students [Repealed]
 68 Transitional provision relating to code in respect of international students
 69 Transitional provision relating to export education levy [Repealed]
 Subpart 7—Provisions for Part 6 (administration of education system)
@@ -101,6 +101,30 @@ Provisions relating to Education and Training (Teaching Council Fees, Levies, an
 74 Validation of specified fees
 75 Recovery of unpaid 2015 fees
 76 Payment of 2020 fees
+Part 4
+Provisions relating to Education and Training Amendment Act 2022
+General
+77 Interpretation
+Licensing of early childhood services
+78 Transitional provision relating to applications for licences to operate early childhood services
+Compulsory student services fees
+79 Ministerial direction relating to compulsory student services fees
+Training schemes
+80 Existing training scheme approval to become micro-credential approval and accreditation
+Notices published by NZQA
+81 Publication of saved notices by NZQA
+Disciplinary functions
+82 Transitional provision relating to Complaints Assessment Committee investigation and Disciplinary Tribunal review
+Dispute resolution
+83 Transitional provision relating to application of DRS to domestic tertiary students' contractual and financial disputes lodged before commencement date
+84 Transitional provision relating to application of DRS to domestic tertiary students' contractual and financial disputes lodged after commencement date
+85 Transitional provision relating to application of DRS to disputes about breach of code after commencement date
+Student accommodation
+86 Transitional provision relating to good character assessment of employees in student accommodation
+Regulations relating to early childhood services
+87 Notices recognising qualifications made under regulations relating to early childhood services validly issued
+Police vetting
+88 Transitional provision relating to Police vetting
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -175,7 +199,7 @@ Compare: 1989 No 80 Schedule 1 cl 73; 2018 No 4 Schedule 1 cl 37; 2018 No 32 cl 
 (g) section 78L (action plans):
 (h) section 87 (annual reports).
 (2) [Repealed]
-(3) Despite any other provision of this Act, a provision in any of sections 238H(1) to (4) and (9), 238I, 238J, and 238K of the 1989 Act, as the provision read immediately before the commencement of this clause, continues to apply until the date on which regulations made under section 648 that deal with the matter addressed in the provision come into force.
+(3) [Repealed]
 (4) The following instruments are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements):
 (a) a curriculum statement under section 60A of the 1989 Act:
 (b) national performance measures under section 60A of the 1989 Act:
@@ -184,13 +208,12 @@ Subpart 2—Provisions for Part 2 (early childhood education)
 8 Applications for licence to operate early childhood education and care centre
 (1) This clause applies to an application for a licence to operate as an early childhood education and care centre made before the date on which section 17 comes into force but not finally determined before that date.
 (2) The application must be determined as if sections 17 and 18 do not apply to it.
-9 Review of section 17(6)
-(1) The Minister must, by no later than 1 August 2025, review, or arrange for a review of, section 17(6).
+9 Review of section 17B
+(1) The Minister must, by no later than 1 August 2025, review, or arrange for a review of, section 17B.
 (2) The review must—
-(a) consider the purpose, operation, and effectiveness of section 17(6); and
-(b) assess whether any amendments to section 17(6) are necessary or desirable.
+(a) consider the purpose, operation, and effectiveness of section 17B; and
+(b) assess whether any amendments to section 17B are necessary or desirable.
 (3) The Minister must prepare a report of the review, which must be published on an Internet site maintained by or on behalf of the Ministry.
-Compare: 2020 No 4 s 10
 Subpart 3—Provisions for Part 3 (primary and secondary education)
 10 Enrolment schemes
 An enrolment scheme that complies with section 71 (regardless of whether that section has commenced) may be established, amended, or abandoned in accordance with the 1989 Act as if sections 11A to 11Q of that Act were still in force if the process of establishing, amending, or abandoning the enrolment scheme is initiated in the period beginning on the commencement of this clause and ending with the close of 31 December 2020.
@@ -204,10 +227,10 @@ An enrolment scheme that complies with section 71 (regardless of whether that se
 (a) as part of an approval granted under subclause (1); or
 (b) in a direction given to the school after approval is granted under subclause (1).
 (3) NZQA may impose conditions on an approval granted under subclause (1), and, for that purpose, section 442(2) to (5) applies as if—
-(a) each reference to accreditation were a reference to approval under subclause (1); and
+(a) each reference to accreditation or accreditation to provide an approved programme were a reference to approval under subclause (1); and
 (b) each reference to an institution were a reference to a registered school.
 (4) NZQA may withdraw an approval granted under subclause (1), and, for that purpose, section 444(1) to (4) applies as if—
-(a) each reference to accreditation were a reference to approval under subclause (1); and
+(a) each reference to accreditation or accreditation to provide an approved programme were a reference to approval under subclause (1); and
 (b) each reference to an institution were a reference to a registered school.
 (5) A registered school that is granted approval under subclause (1) may continue to provide assessment for an NCEA qualification in the 2021 and 2022 calendar years to students described in subclause (1).
 (6) NZQA may, for the purposes of subclause (1), make rules, in addition to any relevant requirements set out in rules made under section 452, prescribing—
@@ -362,7 +385,7 @@ Compare: 1989 No 80 Schedule 1 cl 41
 (a) an approval of a programme under section 439:
 (b) an accreditation to provide all or part of a programme under section 441:
 (c) an approval to provide a training scheme under section 445:
-(d) a consent to assess against the standards listed in the Directory of Assessment Standards under section 449:
+(d) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449:
 (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after 1 April 2020,—
 (a) except as provided in subclause (3), the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the existing polytechnic's corresponding Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary; and
@@ -465,7 +488,7 @@ Compare: 1989 No 80 Schedule 1 cl 54
 (a) is recognised for the 1 or more industries specified in the notice given by the Minister when recognising the transitional ITO; and
 (b) must carry out the 1 or more activities described in subclause (3) and specified in the notice.
 (3) For the purposes of this clause, the activities are—
-(a) developing, setting, and maintaining skill standards to be listed on the Directory of Assessment Standards; and
+(a) developing, setting, and maintaining skill standards to be listed on the Directory of Assessment and Skill Standards; and
 (b) developing and maintaining arrangements for the delivery of work-based training that enable trainees to achieve the relevant skill standards; and
 (c) the apprenticeship training activities described in section 376(2).
 Compare: 1989 No 80 Schedule 1 cl 55
@@ -511,8 +534,8 @@ Compare: 1989 No 80 Schedule 1 cl 58
 49 Existing approvals and consents granted to former ITO
 (1) This clause applies to the following matters granted to a former ITO by NZQA under Part 20 of the 1989 Act before 1 April 2020 and in effect immediately before that date:
 (a) an approval of a programme under section 439:
-(b) an approval to provide a training scheme under section 445:
-(c) a consent to assess against the standards listed in the Directory of Assessment Standards under section 449.
+(b) an approval to provide a micro-credential under section 445:
+(c) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449.
 (2) On and after 1 April 2020,—
 (a) an approval or a consent (including any conditions imposed on the approval or consent) must be treated as if it were granted to the former ITO's corresponding transitional ITO; and
 (b) unless the context otherwise requires, every reference in the approval or consent must be read as a reference to the corresponding transitional ITO.
@@ -656,13 +679,7 @@ Compare: 1989 No 80 s 391
 Compare: 1989 No 80 s 273B
 Pastoral care
 67 Transitional provision relating to code in respect of domestic tertiary students
-(1) This clause—
-(a) applies to providers that enrol domestic tertiary students; and
-(b) applies despite subpart 7 of Part 5 of this Act.
-(2) A code in respect of domestic tertiary students issued under Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, is to be treated as a code issued under subpart 7 of Part 5.
-(3) Despite anything in Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, or subpart 7 of Part 5, the Minister may make minor and technical amendments to an interim code, and doing so does not affect its status as the applicable code.
-(4) An interim code issued under Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, expires on 1 January 2022.
-(5) The DRS does not apply to an interim code in respect of domestic tertiary students issued under Part 18A of the 1989 Act, as it read immediately before the commencement of this clause, or as amended by the Minister under subclause (3).
+[Repealed]
 68 Transitional provision relating to code in respect of international students
 (1) This clause—
 (a) applies to signatory providers that enrol international students; and
@@ -699,3 +716,76 @@ Any 2015 fee, or part of a 2015 fee, that applies to a person and that has not b
 76 Payment of 2020 fees
 (1) This clause applies to a person who has paid a 2020 fee to the Teaching Council on or after 1 February 2021.
 (2) The payment must be treated on and after commencement as a part-payment of the appropriate 2015 fee payable by the person.
+Part 4 Provisions relating to Education and Training Amendment Act 2022
+General
+77 Interpretation
+In this Part—
+1989 Act means the Education Act 1989
+Amendment Act means the Education and Training Amendment Act 2022
+commencement date means the date on which the Amendment Act (other than sections 44 and 45) comes into force
+DRS means the student contract dispute resolution scheme established under section 536.
+Licensing of early childhood services
+78 Transitional provision relating to applications for licences to operate early childhood services
+Sections 17 to 18C do not apply to an application for a licence under the Education (Early Childhood Services) Regulations 2008 made before the date those sections come into force and to which the requirements for the provision of information and evidence relating to the application specified in regulations have been met.
+Compulsory student services fees
+79 Ministerial direction relating to compulsory student services fees
+(1) This clause applies to a direction relating to compulsory student services fees that was given by the Minister under section 227A of the 1989 Act, and that—
+(a) was continued in force under clause 15; and
+(b) is in force immediately before the commencement date.
+(2) Despite the repeal of sections 257 and 360 by sections 15 and 18 of the Amendment Act, the direction continues in force until 1 January 2024 (unless it is revoked earlier by the Minister).
+Training schemes
+80 Existing training scheme approval to become micro-credential approval and accreditation
+(1) This clause applies to an institution that was granted approval to provide a training scheme under section 445 before the commencement date.
+(2) On and after the commencement date,—
+(a) the training scheme is to be treated as a micro-credential for the purposes of the Act; and
+(b) the institution must be treated as if NZQA has—
+(i) granted approval of the content of a micro-credential under section 445; and
+(ii) granted accreditation to the institution to provide the micro-credential under section 446A.
+Notices published by NZQA
+81 Publication of saved notices by NZQA
+NZQA may publish the following under section 459A:
+(a) a quality assurance improvement notice (or summary of a notice) issued under section 11C of the Industry Training and Apprenticeships Act 1992 and continued in force under clause 48:
+(b) a compliance notice (or summary of a notice) issued under section 11D of the Industry Training and Apprenticeships Act 1992 and continued in force under clause 48.
+Disciplinary functions
+82 Transitional provision relating to Complaints Assessment Committee investigation and Disciplinary Tribunal review
+(1) The amendments made by sections 44 and 45 of the Amendment Act apply only to investigations commenced on or after the date on which those sections come into force.
+(2) Investigations commenced, and not finally determined before that date, continue as if those amendments had not been enacted.
+Dispute resolution
+83 Transitional provision relating to application of DRS to domestic tertiary students' contractual and financial disputes lodged before commencement date
+(1) Sections 536 to 538 as in force immediately before the Amendment Act apply to a relevant dispute but only if the dispute—
+(a) relates to circumstances, or an issue or event, that arose or occurred on or after 1 January 2022; and
+(b) is lodged on or after 1 January 2022 and before the commencement date.
+(2) In subclause (1), relevant dispute means a dispute between a domestic tertiary student (or a former or prospective domestic tertiary student) and a provider to which the DRS applied under section 536(2) prior to the commencement date.
+84 Transitional provision relating to application of DRS to domestic tertiary students' contractual and financial disputes lodged after commencement date
+(1) Sections 536 to 538 (as amended by the Amendment Act) apply to a relevant dispute that—
+(a) relates to circumstances, or an issue or event, that arose or occurred on or after 1 January 2022; and
+(b) is lodged on or after the commencement date.
+(2) In subclause (1), relevant dispute means a dispute between a domestic tertiary student (or a former or prospective domestic tertiary student) and a provider to which the DRS applies under section 536(2)(a) (as inserted by the Amendment Act).
+85 Transitional provision relating to application of DRS to disputes about breach of code after commencement date
+Sections 536 to 538 (as amended by the Amendment Act) apply to the dispute if—
+(a) it is a dispute to which the DRS applies under section 536(2)(b) (as inserted by the Amendment Act); and
+(b) it relates to circumstances, or an issue or event, that arose or occurred on or after the commencement date.
+Student accommodation
+86 Transitional provision relating to good character assessment of employees in student accommodation
+(1) This clause applies in respect of every person who at the commencement date was an employee in student accommodation.
+(2) The provider or signatory provider that operates that student accommodation must ensure, within 3 years of the commencement date, that the provider or signatory provider has made an assessment in accordance with section 540A(3) of whether the person is of good character if the provider or signatory provider continues to employ the person.
+Regulations relating to early childhood services
+87 Notices recognising qualifications made under regulations relating to early childhood services validly issued
+(1) This clause applies to a notice issued by the Secretary under—
+(a) regulations made under section 636(2)(h) made before the commencement date; or
+(b) regulations made under section 317 of the 1989 Act that are continued in force under clause 4(1).
+(2) A notice to which this clause applies is to be treated as being and having always been validly issued.
+Police vetting
+88 Transitional provision relating to Police vetting
+(1) Subclauses (2) and (3) apply in respect of any person—
+(a) for whom a Police vet must be obtained by the service provider of a licensed early childhood service under clause 1 of Schedule 4; and
+(b) who has been appointed to a position, or has begun working, at the service concerned; and
+(c) for whom, at the commencement date, no Police vet had yet been obtained by the service provider.
+(2) The Police vet must be obtained in respect of a person to whom this clause applies before the person has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(3) The service provider must apply for the Police vet no later than 2 weeks after the person begins work at the service.
+(4) Subclauses (5) and (6) apply in respect of any person—
+(a) for whom a Police vet must be obtained by the board of a State school or the managers of a private school under clause 9 of Schedule 4; and
+(b) who has been appointed to a position, or has begun working, at the school concerned; and
+(c) for whom, at the commencement date, no Police vet had yet been obtained by the board or the managers.
+(5) The Police vet must be obtained in respect of a person to whom this clause applies before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(6) The board or managers must apply for the Police vet no later than 2 weeks after the person begins work at the school.

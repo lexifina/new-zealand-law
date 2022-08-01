@@ -1,0 +1,3 @@
+# 446B Conditions on accreditation to provide approved micro-credentials
+(1) Every accreditation to provide an approved micro-credential is subject to the condition that the institution complies at all times with the relevant rules made under section 452, except to the extent that NZQA exempts the institution, by a condition on the accreditation, from compliance.
+(2) NZQA may impose conditions on an accreditation to provide an approved micro-credential, and, for that purpose, section 442(2) to (5) applies as if each reference to accreditation or accreditation to provide an approved programme included an accreditation to provide an approved micro-credential under this section.

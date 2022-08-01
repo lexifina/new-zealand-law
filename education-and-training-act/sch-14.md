@@ -74,8 +74,9 @@ Consequences of dissolution
 (1) This clause applies to the following matters granted to an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary or treated as having been granted to the subsidiary by NZQA under subpart 2 of Part 5 before the dissolution date and in effect immediately before that date:
 (a) an approval of a programme under section 439:
 (b) an accreditation to provide all or part of a programme under section 441:
-(c) an approval to provide a training scheme under section 445:
-(d) a consent to assess against the standards listed on the Directory of Assessment Standards under section 449:
+(c) an approval of the content of a micro-credential under section 445:
+(ca) an accreditation to provide a micro-credential under section 446A:
+(d) a consent to assess against the standards listed on the Directory of Assessment and Skill Standards under section 449:
 (e) a consent to award a degree or a postgraduate qualification under section 454.
 (2) On and after the dissolution date,—
 (a) the approval, accreditation, or consent (including any conditions imposed on an approval or accreditation) continues to apply and must be treated as if it were granted to Te Pūkenga—New Zealand Institute of Skills and Technology; and

@@ -4,7 +4,7 @@ Blind and Low Vision Education Network NZ
 Central Regional Health School
 Halswell Residential College
 Kimi Ora School
-Ko Tāku Reo
+Ko Taku Reo—Deaf Education New Zealand
 Northern Health School
 Salisbury School
 Southern Health School

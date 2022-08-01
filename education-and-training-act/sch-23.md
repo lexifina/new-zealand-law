@@ -151,7 +151,8 @@ Casual vacancies
 (a) dies; or
 (b) resigns by written notice to the board; or
 (c) is absent from 3 consecutive board meetings without the prior leave of the board; or
-(d) becomes a person who (in terms of clause 9(1)) may not become an elected, appointed, or co-opted board member.
+(d) becomes a person who (in terms of clause 9(1)) may not become an elected, appointed, or co-opted board member; or
+(e) is removed by the Minister under section 169(2).
 (2) If a property order is made in respect of a board member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
 (a) subclause (1)(d) does not apply to the board member owing only to the making of that order; but
 (b) while the order remains in force, the board member is to be treated as having been granted leave of absence by the board and is not capable of acting as a board member during that period.

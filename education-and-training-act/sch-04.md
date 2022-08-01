@@ -6,19 +6,21 @@ Preliminary
 (2) To avoid doubt, nothing in this schedule limits Part 3 of the Children's Act 2014 or regulations made under that Act in relation to the safety checking of children's workers.
 Police vetting in respect of licensed early childhood services
 1 Police vetting of non-teaching and unregistered employees at licensed early childhood services
-The service provider of a licensed early childhood service must obtain a Police vet of every person—
+(1) The service provider of a licensed early childhood service must obtain a Police vet of every person—
 (a) whom the service provider appoints, or intends to appoint, to a position at the early childhood service; and
 (b) who is to work at the service during normal opening hours; and
-(c) who is not a registered teacher or holder of a limited authority to teach.
+(c) who is not—
+(i) a registered teacher who holds a current practising certificate; or
+(ii) a holder of a limited authority to teach.
+(2) The Police vet must be obtained before a person's employment or engagement at the early childhood service begins.
 Compare: 1989 No 80 s 319D
 2 Police vetting of contractors and their employees who work at licensed early childhood services
 (1) The service provider of a licensed early childhood service must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(1A) The Police vet must be obtained before a contractor, or an employee of a contractor, has, or is likely to have, unsupervised access to children at the service during normal opening hours.
 (2) In this clause, contractor means a person who works at a licensed early childhood service under a contract for services.
 Compare: 1989 No 80 s 319E
 3 Police vet must be obtained before person has unsupervised access to children
-(1) A Police vet required under clause 1 or 2 must be obtained before the person has, or is likely to have, unsupervised access to children at the service during normal opening hours.
-(2) The service provider of a licensed early childhood service that is required under clause 1 to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the service.
-Compare: 1989 No 80 s 319F
+[Repealed]
 4 Procedures relating to Police vets under clause 1 or 2
 The service provider of a licensed early childhood service that applies for a Police vet of a person under clause 1 or 2—
 (a) must ensure that strict confidentiality is observed for Police vets; and
@@ -54,19 +56,21 @@ Compare: 1989 No 80 s 319FD
 Compare: 1989 No 80 s 319FE
 Police vetting in respect of primary and secondary schools
 9 Police vetting of non-teaching and unregistered employees at schools
-The board of a State school and the managers of a private school must obtain a Police vet of every person—
+(1) The board of a State school and the managers of a private school must obtain a Police vet of every person—
 (a) whom the board or the managers appoints, or intends to appoint, to a position at the school; and
 (b) who is to work at the school during normal school hours; and
-(c) who is not a registered teacher or holder of a limited authority to teach.
+(c) who is not—
+(i) a registered teacher who holds a current practising certificate; or
+(ii) a holder of a limited authority to teach.
+(2) The Police vet must be obtained before a person's employment or engagement at the school begins.
 Compare: 1989 No 80 s 78C
 10 Police vetting of contractors and their employees who work at schools
 (1) The board of a State school and the managers of a private school must obtain a Police vet of every contractor, or employee of a contractor, who has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(1A) A Police vet must be obtained before a contractor, or an employee of a contractor, has, or is likely to have, unsupervised access to students at the school during normal school hours.
 (2) In this clause, contractor means a person who works at a school under a contract for services.
 Compare: 1989 No 80 s 78CA
 11 Police vet must be obtained before person has unsupervised access to students
-(1) A Police vet required under clause 9 or 10 must be obtained before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
-(2) The board of a State school or the managers of a private school that is required under clause 9 to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the school.
-Compare: 1989 No 80 s 78CB
+[Repealed]
 12 Further Police vets to be obtained every 3 years
 (1) The board of a State school and the managers of a private school must obtain a further Police vet of every person on whom a Police vet has already been obtained under clause 9 or 10 by that board or management and who still works at the school.
 (2) A further Police vet required under subclause (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
