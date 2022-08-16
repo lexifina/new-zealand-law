@@ -1,5 +1,5 @@
 # 46M Examples of unfair contract terms
-Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract, may be unfair contract terms:
+Without limiting section 46I, the following are examples of the kind of terms that, if in a consumer contract or small trade contract, may be unfair contract terms:
 (a) a term that permits, or has the effect of permitting, one party (but not another party) to avoid or limit performance of the contract:
 (b) a term that permits, or has the effect of permitting, one party (but not another party) to terminate the contract:
 (c) a term that penalises, or has the effect of penalising, one party (but not another party) for a breach or termination of the contract:

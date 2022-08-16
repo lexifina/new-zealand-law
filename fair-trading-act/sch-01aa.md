@@ -1,0 +1,18 @@
+# Schedule 1AA Transitional, savings, and related provisions
+s 2A
+Part 1 Provision relating to Fair Trading Amendment Act 2021
+1 Unfair contract terms in standard form small trade contracts
+(1) Sections 26B to 26E do not apply to the following contracts (which, accordingly, are not small trade contracts and must be disregarded when determining which contracts form part of a trading relationship for the purposes of those sections):
+(a) a contract entered into before the commencement date and not varied or renewed on or after that date:
+(b) a relevant insurance agreement.
+(2) If a contract entered into before the commencement date is varied or renewed on or after that date and is not a relevant insurance agreement, the contract (as varied or renewed) must be treated for the purposes of sections 26B to 26E as a new contract entered into on the date of the variation or renewal.
+(3) In this clause,—
+commencement date means the date on which sections 26B to 26E come into force
+relevant insurance agreement means—
+(a) a contract of insurance (as defined in section 7 of the Insurance (Prudential Supervision) Act 2010) entered into before the specified date, including as varied or renewed at any time; or
+(b) a new contract that has the effect of operating as a renewal of a contract described in paragraph (a) or this paragraph, including as varied or renewed at any time
+specified date means—
+(a) 1 April 2025; or
+(b) if an earlier date is specified under subclause (4), that date.
+(4) The Governor-General may, by Order in Council, specify a date for the purposes of paragraph (b) of the definition of specified date in subclause (3).
+(5) An Order in Council made under subclause (4) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

@@ -23,9 +23,9 @@
 (a) the consumer's right to cancel the agreement within 5 working days after the date on which the consumer receives a copy of the agreement; and
 (b) how the consumer may cancel the agreement.
 (4) However, if an uninvited direct sale agreement is, or includes, a consumer credit contract (as defined in section 11 of the Credit Contracts and Consumer Finance Act 2003), in relation to that consumer credit contract only,—
-(a) Part 2 of that Act applies in place of this subpart; and
+(a) Part 2 of that Act applies in place of subsections (1) to (3) and sections 36M to 36R; and
 (b) the supplier must give the consumer oral notice, before the agreement is entered into, of—
 (i) the consumer's rights to cancel the agreement under that Act; and
 (ii) how the consumer may cancel the agreement under that Act.
 (5) For the purposes of subsection (4), a consumer credit contract is included in an uninvited direct sale agreement if that contract was entered into for the purpose of financing the purchase of the goods or services that are the subject of the uninvited direct sale agreement.
-(6) To avoid doubt, where an uninvited direct sale agreement includes a consumer credit contract, this subpart continues to apply to every part of the agreement that is not a consumer credit contract.
+(6) To avoid doubt, where an uninvited direct sale agreement includes a consumer credit contract, subsections (1) to (3) and sections 36M to 36R continue to apply to every part of the agreement that is not a consumer credit contract.
