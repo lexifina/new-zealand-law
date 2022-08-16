@@ -72,3 +72,24 @@ proceeding—
 (a) is commenced on or after the commencement date; and
 (b) is for an offence, or an alleged offence, that was committed before the commencement date when the defendant was 17 years of age.
 (2) The defendant must be dealt with by the court under this Act as amended by sections 54 and 55 of the 2019 Act.
+Part 4 Provisions relating to Three Strikes Legislation Repeal Act 2022
+13 Treatment of persons convicted and sentenced before enactment of Three Strikes Legislation Repeal Act 2022
+(1) This clause applies to a person who, before the commencement of the Three Strikes Legislation Repeal Act 2022, was convicted of and sentenced for a stage-2 or stage-3 offence.
+(2) If this clause applies, the person is not eligible for release or re-sentencing as a consequence of any provision brought into force under the Three Strikes Legislation Repeal Act 2022.
+14 Treatment of persons convicted or sentenced after enactment of Three Strikes Legislation Repeal Act 2022
+(1) This clause applies to a person who, on or after the commencement of the Three Strikes Legislation Repeal Act 2022, is convicted of or sentenced for an offence that would have been a stage-2 or stage-3 offence if the Three Strikes Legislation Repeal Act 2022 had not been brought into force.
+(2) If this clause applies, in the case of a conflict between section 34 of the Legislation Act 2019 and—
+(a) section 6 of the Sentencing Act 2002, section 6 prevails; or
+(b) section 25(g) of the New Zealand Bill of Rights Act 1990, section 25(g) prevails.
+15 No entitlement to compensation
+(1) A person is not entitled to compensation of any kind, on account of any alteration of sentencing rules as a consequence of any provision brought into force under the Sentencing and Parole Reform Act 2010, in respect of the fact that the person—
+(a) was charged with, or prosecuted for, the offence; or
+(b) admitted committing or pleaded guilty to, or was found to have committed, was convicted of, was sentenced for, or had an order or a direction made against the person for, the offence; or
+(c) served a sentence for, or complied with an order or a direction made against the person because of committing, the offence; or
+(d) was required to pay a fine or other money (including costs or any amount by way of restitution or compensation) on account of committing, or being convicted of, or sentenced for, the offence; or
+(e) incurred any loss, or suffered any consequence (including being sentenced, or otherwise dealt with, as an offender, or as a repeat offender, of any kind), as a result of any circumstance referred to in paragraph (a), (b), (c), or (d).
+(2) Nothing in subclause (1) prevents a person from—
+(a) being entitled to compensation in respect of anything that occurred while the person was serving a sentence or complying with an order or a direction:
+(b) bringing a claim for a breach of their rights under the New Zealand Bill of Rights Act 1990 in respect of being convicted of or sentenced for an offence specified in clause 13(1).
+(3) Nothing in subclause (2)(b) is, or implies, an acknowledgement or a denial that relief (monetary or otherwise) may be available for a breach of the New Zealand Bill of Rights Act 1990 in respect of being convicted of or sentenced for an offence specified in clause 13(1).
+Compare: 2010 No 24 s 90(1)(b); 2018 No 7 s 23

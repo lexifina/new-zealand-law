@@ -1,13 +1,2 @@
 # 86D Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment
-(1) Despite any other enactment,—
-(a) a proceeding against a defendant charged with a stage-3 offence must be transferred to the High Court when the proceeding is adjourned for trial or trial callover under section 57 of the Criminal Procedure Act 2011 or, as the case may be, in accordance with section 36 of that Act, and the proceeding from that point, including the trial, must be in the High Court; and
-(b) no court other than the High Court, or the Court of Appeal or the Supreme Court on an appeal, may sentence an offender for a stage-3 offence.
-(2) Despite any other enactment, if, on any occasion, an offender is convicted of 1 or more stage-3 offences other than murder, the High Court must sentence the offender to the maximum term of imprisonment prescribed for each offence.
-(3) When the court sentences the offender under subsection (2), the court must order that the offender serve the sentence without parole unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to make the order.
-(4) Despite subsection (3), if the court sentences the offender for manslaughter, the court must order that the offender serve a minimum period of imprisonment of not less than 20 years unless the court considers that, given the circumstances of the offence and the offender, a minimum period of that duration would be manifestly unjust, in which case the court must order that the offender serve a minimum period of imprisonment of not less than 10 years.
-(5) If the court does not make an order under subsection (3) or, where subsection (4) applies, does not order a minimum period of not less than 20 years under subsection (4), the court must give written reasons for not doing so.
-(6) If the court imposes a sentence under subsection (2), any other sentence of imprisonment imposed on the same occasion (whether for a stage-3 offence or for any other kind of offence) must be imposed concurrently.
-(7) Despite subsection (2), this section does not preclude the court from imposing, under section 87, a sentence of preventive detention on the offender, and if the court imposes such a sentence on the offender,—
-(a) subsections (2) to (5) do not apply; and
-(b) the minimum period of imprisonment that the court imposes on the offender under section 89(1) must not be less than the term of imprisonment that the court would have imposed under subsection (2), unless the court is satisfied that, given the circumstances of the offence and the offender, the imposition of that minimum period would be manifestly unjust.
-(8) If, in reliance on subsection (7)(b), the court imposes a minimum period of imprisonment that is less than the term of imprisonment that the court would have imposed under subsection (2), the court must give written reasons for doing so.
+[Repealed]
