@@ -19,6 +19,6 @@
 (6A) If in any year a regulated period for a general election or a by-election commences before 1 July and ends on or after that date,—
 (a) the adjustments to the amounts referred to in subsection (1) made by the Order in Council that commences on 1 July of that year do not apply in respect of that election or by-election; and
 (b) the adjustments to the amounts referred to in subsection (1) made by the Order in Council of the previous year apply to that election or by-election.
-(7) In this section CPI means the Consumers Price Index All Groups published by Statistics New Zealand.
+(7) In this section, CPI means the Consumers Price Index (all groups) published by Statistics New Zealand or, if that index ceases to be published, any measure certified by the Government Statistician as being equivalent to that index.
 (8) An order under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 Compare: 2007 No 111 s 134

@@ -43,7 +43,7 @@ If a person is adjudicated bankrupt before the commencement date,—
 (a) section 158 does not apply to the person; and
 (b) former sections 158(1) to (4), 159, 160, 161, and 162 continue to apply to the person.
 12 First Order in Council under section 158(4) after commencement date
-The first Order in Council made under section 158(4) after the commencement date may take into account any rise in the all groups index number of the New Zealand Consumers Price Index that occurred on or after 1 July 2019.
+The first Order in Council made under section 158(4) after the commencement date may take into account any rise in the all groups index number of the Consumers Price Index that occurred on or after 1 July 2019.
 13 Former section 164 applies if person adjudicated bankrupt before commencement date
 If a person is adjudicated bankrupt before the commencement date,—
 (a) section 164 does not apply to the person; and
