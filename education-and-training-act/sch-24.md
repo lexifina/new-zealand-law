@@ -44,3 +44,5 @@ Compare: 1989 No 80 s 344
 5 Person may use or disclose own national student number
 Despite anything in this schedule, a person may use or disclose their own national student number for any purpose.
 Compare: 1989 No 80 s 345
+6 National student numbers may be provided to Government Statistician
+Nothing in this schedule limits or prevents the provision of information (including national student numbers) to the Government Statistician for the production of official statistics or research under the Data and Statistics Act 2022.
