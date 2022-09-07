@@ -1,9 +1,10 @@
-# 207A Chief executive may require person to provide information or produce documents
-(1) If the chief executive considers it necessary or desirable for the purposes of taking enforcement action under this Act, the chief executive may, by written notice served on any person, require that person—
-(a) to provide to the chief executive, within the time and in the manner specified in the notice, any information or class of information specified in the notice; or
-(b) to produce to the chief executive, or to a person specified in the notice who is acting on behalf of the chief executive in accordance with the notice, any document or class of documents specified in the notice (within the time and in the manner specified in the notice); or
-(c) if necessary, to reproduce, or assist in reproducing, in usable form, information recorded or stored in any documents or classes of documents specified in the notice (within the time and in the manner specified in the notice).
-(2) Information provided in response to a notice under subsection (1)(a) must be provided in the manner specified in the notice.
-(3) If a document is produced in response to a notice under subsection (1), the chief executive, or the person to whom the document is produced, may—
-(a) inspect and make records of that document; and
-(b) take copies of the document or of extracts from the document.
+# 207A Power to require information or documents
+(1) The chief executive may require any person to provide any information or document that the chief executive reasonably considers it is necessary or desirable to obtain for any of the following purposes:
+(a) taking enforcement action referred to in section 11(m):
+(b) exercising the chief executive's powers under section 26.
+(2) The chief executive must give written notice to the person that specifies—
+(a) the information or document that must be provided; and
+(b) how the information or document must be provided; and
+(c) a reasonable deadline by which the information or document must be provided.
+(3) The person must provide the information or document as required by the notice.
+(4) The chief executive may copy or retain any information or document provided.

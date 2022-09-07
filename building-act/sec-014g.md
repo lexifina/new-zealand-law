@@ -1,3 +1,4 @@
 # 14G Responsibilities of product manufacturer or supplier
 (1) In subsection (2), product manufacturer or supplier means a person who manufactures or supplies a building product and who states that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the building code.
 (2) A product manufacturer or supplier is responsible for ensuring that the product will, if installed in accordance with the technical data, plans, specifications, and advice prescribed by the manufacturer, comply with the relevant provisions of the building code.
+(3) A person who supplies a building product is responsible for ensuring that the person complies with Part 4B (building product information requirements).

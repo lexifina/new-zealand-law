@@ -3,7 +3,7 @@
 (a) the application meets the requirements of section 30B; and
 (b) the applicant has paid the prescribed fee (if any); and
 (c) the application meets the prescribed eligibility criteria for a national multiple-use approval (if any); and
-(d) the application does not involve the use of a building method or product in relation to which the chief executive has publicly notified a ban under section 26; and
+(d) the application does not involve the use of a building product or building method in relation to which a ban under section 26(2) is in force; and
 (e) if building work were properly completed in accordance with the plans and specifications that accompanied the application, that building work would comply with the building code.
 (2) A national multiple-use approval may be issued subject to—
 (a) a waiver or modification of the building code; and

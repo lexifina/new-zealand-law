@@ -6,5 +6,5 @@
 (2) The chief executive may require further reasonable information in respect of the application.
 (3) The chief executive may refuse to accept for processing an application for a national multiple-use approval only if the chief executive is satisfied, on reasonable grounds, that the application—
 (a) does not meet the requirements of this Act; or
-(b) includes a building method or product in relation to which the chief executive has publicly notified a ban under section 26; or
+(b) includes a building product or building method in relation to which a ban under section 26(2) is in force; or
 (c) does not meet the prescribed eligibility criteria (if any) for a national multiple-use approval.

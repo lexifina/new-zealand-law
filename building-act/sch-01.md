@@ -8,14 +8,14 @@ Verification Method B1/VM1 means Verification Method B1/VM1 as set out in the Ve
 Part 1 Exempted building work
 General
 1 General repair, maintenance, and replacement
-(1) The repair and maintenance of any component or assembly incorporated in or associated with a building, provided that comparable materials are used.
-(2) Replacement of any component or assembly incorporated in or associated with a building, provided that—
-(a) a comparable component or assembly is used; and
+(1) The repair and maintenance of a building product or an assembly incorporated in or associated with a building, provided that a comparable building product or assembly is used.
+(2) Replacement of a building product or an assembly incorporated in or associated with a building, provided that—
+(a) a comparable building product or assembly is used; and
 (b) the replacement is in the same position.
 (3) However, subclauses (1) and (2) do not include the following building work:
 (a) complete or substantial replacement of a specified system; or
-(b) complete or substantial replacement of any component or assembly contributing to the building's structural behaviour or fire-safety properties; or
-(c) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+(b) complete or substantial replacement of a building product or an assembly contributing to the building's structural behaviour or fire-safety properties; or
+(c) repair or replacement (other than maintenance) of a building product or an assembly incorporated in or associated with a building that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
 (d) sanitary plumbing or drainlaying under the Plumbers, Gasfitters, and Drainlayers Act 2006.
 2 Territorial and regional authority discretionary exemptions
 Any building work in respect of which the territorial authority or regional authority considers that a building consent is not necessary for the purposes of this Act because the authority considers that—
@@ -28,11 +28,11 @@ Any building work in respect of which the territorial authority or regional auth
 (c) does not contain sanitary facilities or facilities for the storage of potable water; and
 (d) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities.
 (2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
-3A Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area and constructed of lightweight material
+3A Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area and constructed of lightweight building products
 (1) Building work in connection with any detached building that—
 (a) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
 (b) exceeds 10 square metres in floor area, but does not exceed 30 square metres; and
-(c) is built using lightweight wall and roof materials, and in accordance with Acceptable Solution B1/AS1 for timber or steel buildings; and
+(c) is built using lightweight building products for the walls and roof, and in accordance with Acceptable Solution B1/AS1 for timber or steel buildings; and
 (d) does not contain sanitary facilities or facilities for the storage of potable water; and
 (e) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
 (f) if it includes sleeping accommodation, has smoke alarms installed.
@@ -93,7 +93,7 @@ Building work in connection with the interior of any existing non-residential bu
 (b) does not modify or affect any specified system; and
 (c) does not relate to a wall that is—
 (i) a fire separation wall (also known as a firewall); or
-(ii) made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar; and
+(ii) made of units of a building product (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar; and
 (d) does not include sanitary plumbing or drainlaying under the Plumbers, Gasfitters, and Drainlayers Act 2006.
 11 Internal walls and doorways in existing building
 Building work in connection with an internal wall (including an internal doorway) in any existing building unless the wall is—
@@ -101,7 +101,7 @@ Building work in connection with an internal wall (including an internal doorway
 (b) a bracing element; or
 (c) a fire separation wall (also known as a firewall); or
 (d) part of a specified system; or
-(e) made of units of material (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar.
+(e) made of units of a building product (such as brick, burnt clay, concrete, or stone) laid to a bond in and joined together with mortar.
 12 Internal linings and finishes in existing dwelling
 Building work in connection with any internal linings or finishes of any wall, ceiling, or floor of an existing dwelling.
 13 Thermal insulation
@@ -246,13 +246,13 @@ The removal of a building element from a building that is not more than 3 storey
 Part 2 Sanitary plumbing and drainlaying carried out by person authorised under Plumbers, Gasfitters, and Drainlayers Act 2006
 Plumbing and drainage
 32 Repair, maintenance, and replacement
-(1) The repair and maintenance of any sanitary plumbing and drainage in or associated with a building, provided that comparable materials are used.
+(1) The repair and maintenance of any sanitary plumbing and drainage in or associated with a building, provided that comparable building products are used.
 (2) Replacement of sanitary plumbing and drainage in or associated with a building, provided that—
-(a) a comparable component or assembly is used; and
+(a) a comparable building product or assembly is used; and
 (b) the replacement is in the same position.
 (3) However, subclauses (1) and (2) do not include the following building work:
 (a) complete or substantial replacement of a specified system; or
-(b) repair or replacement (other than maintenance) of any component or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
+(b) repair or replacement (other than maintenance) of any building product or assembly that has failed to satisfy the provisions of the building code for durability, for example, through a failure to comply with the external moisture requirements of the building code; or
 (c) repair or replacement of any water heater (unless permitted under clauses 36 to 38).
 33 Drainage access points
 The opening and reinstatement of any purpose-made access point within a drainage system that is not a NUO system or part of a NUO system.
@@ -266,7 +266,7 @@ The opening and reinstatement of any purpose-made access point within a drainage
 (2) Subclause (1) does not include an alteration to a water heater.
 Water heaters
 36 Repair and maintenance of existing water heater
-The repair or maintenance of any existing water heater using comparable materials, comparable components, or a comparable assembly.
+The repair or maintenance of any existing water heater using comparable building products or a comparable assembly.
 37 Replacement of open-vented water storage heater connected to supplementary heat exchanger
 The replacement of any water-storage heater connected to a solid-fuel heater or other supplementary heat exchanger if the replacement—
 (a) is a comparable open-vented water storage heater; and

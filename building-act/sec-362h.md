@@ -11,3 +11,4 @@
 (a) builds the household unit by himself or herself or with the assistance of others:
 (b) in trade arranges for the household unit to be built or acquires the household unit from a person who built it or arranged for it to be built:
 (c) acquires the household unit in a transaction that is intended to defeat the purpose and effect of subsection (2).
+(4) However, subsection (3)(a) does not apply to the manufacture of a household unit by a registered MCM who is certified to manufacture the household unit.
