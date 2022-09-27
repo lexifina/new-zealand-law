@@ -5,6 +5,7 @@ Ahuriri Hapū Claims Settlement Act 2021
 Heretaunga Tamatea Claims Settlement Act 2018
 Hineuru Claims Settlement Act 2016
 Iwi and Hapū of Te Rohe o Te Wairoa Claims Settlement Act 2018
+Maniapoto Claims Settlement Act 2022
 Maraeroa A and B Blocks Claims Settlement Act 2012
 Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
 Moriori Claims Settlement Act 2021
