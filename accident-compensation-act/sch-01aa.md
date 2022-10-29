@@ -34,3 +34,20 @@ Section 17(4) (as amended by the 2019 Act) applies between 1 July 1999 and the c
 (3) For the limited purpose of completing all matters-in-process, the Authority is deemed to continue, and the Authority's powers and capacities continue in effect for that purpose.
 (4) A member of the Authority is entitled to be paid reasonable remuneration, fees, or salary for the member's work in completing a matter-in-process, and any related allowances and expenses.
 (5) The Ministry of Justice must continue to provide support services to the Authority to the extent that those services are required to complete the matters-in-process.
+Part 3 Provisions relating to Accident Compensation (Maternal Birth Injury and Other Matters) Amendment Act 2022
+8 Interpretation
+In this Part, amendment Act means the Accident Compensation (Maternal Birth Injury and Other Matters) Amendment Act 2022.
+9 Assessment of vocational independence
+An assessment of a claimant's vocational independence that has been commenced, but not determined, before the commencement of this clause must, on or after that commencement, be considered and determined as if sections 10 and 17(1) of the amendment Act had not been enacted.
+10 Claims for personal injury including hearing loss that have been lodged but not decided
+(1) This clause applies if, before the commencement of this clause,—
+(a) a person has suffered a personal injury that includes any degree of hearing loss caused by a personal injury described in section 20(2); and
+(b) the person has lodged a claim with the Corporation under section 48 in respect of the personal injury; and
+(c) the Corporation has not made a decision on the claim.
+(2) On or after the commencement of this clause, the Corporation must make a decision on the claim as if section 8 of the amendment Act had not been enacted.
+11 Claims for personal injury caused by work-related gradual process, disease, or infection that have been lodged but not decided
+(1) This clause applies if, before the commencement of this clause,—
+(a) a person has suffered a personal injury caused by work-related gradual process, disease, or infection described in section 30; and
+(b) the person has lodged a claim with the Corporation under section 48 in respect of the personal injury; and
+(c) the Corporation has not made a decision on the claim.
+(2) On or after the commencement of this clause, the Corporation must make a decision on the claim as if section 9 of the amendment Act had not been enacted.
