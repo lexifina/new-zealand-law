@@ -70,6 +70,15 @@ New Zealand Transport Agency (access is limited so as to exclude any particulars
 Ministry of Justice (access is limited to persons required to be located in connection with fines enforcement)
 Firearms licences Particulars of persons authorised to possess firearms in accordance with the Arms Act 1983
 Ministry of Justice (access is limited to identity details of persons who possess firearms, where that information is required for the purpose of serving orders made under the Family Violence Act 2018)
+Firearms prohibition order Details of firearms prohibition orders made under the Arms Act 1983
+Department of Corrections (access is limited to obtaining information about any offender who is subject to a firearms prohibition order while also subject to—
+(a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under section 93 of the Sentencing Act 2002); or
+(b) a sentence of supervision, intensive supervision, community work, or community detention; or
+(c) a non-association order; or
+(d) a sentence of home detention (including while subject to post-detention conditions); or
+(e) an extended supervision order; or
+(f) a public protection order, a prison detention order, or a protective supervision order under the Public Safety (Public Protection Orders) Act 2014
+Access is for the purpose of managing the offender's sentence, any post-sentence conditions, any post-sentence supervision, or any order under the Public Safety (Public Protection Orders) Act 2014 in a manner consistent with the conditions of any firearms prohibition order)
 Protection orders Details of protection orders made under the Domestic Violence Act 1995
 Department of Corrections (access is limited to obtaining information about any offender who is subject to a protection order while also subject to—
 (a) a full-time custodial sentence (including while released on parole or subject to conditions imposed under section 93 of the Sentencing Act 2002); or
