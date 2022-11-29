@@ -1,6 +1,6 @@
 # 46A Single process for preparing national directions
 (1) This section and sections 47 to 51 set out the requirements for preparing a national direction.
-(2) In this section and sections 47 to 51, national direction means both or either of the following documents:
+(2) In this section and sections 46B to 51, national direction means both or either of the following documents:
 (a) a national environmental standard:
 (b) a national policy statement.
 (3) If the Minister proposes to issue a national direction, the Minister must either—
