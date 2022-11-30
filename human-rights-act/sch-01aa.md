@@ -23,3 +23,9 @@ Part 2 Provision relating to Tribunals Powers and Procedures Legislation Act 201
 (2) Each of those Chairpersons may, in consultation with the other Chairperson, exercise the powers of the Chairperson of the Tribunal under the Human Rights Act 1993, as amended by subpart 7 of Part 1 of the Tribunals Powers and Procedures Legislation Act 2018.
 (3) While 2 Chairpersons are appointed, they must act together in issuing practice notes under section 121A.
 (4) For the purpose of this clause, commencement date means the date on which section 83 of the Tribunals Powers and Procedures Legislation Act 2018 comes into force.
+Part 3 Provision relating to Remuneration Authority Legislation Act 2022
+3 Remuneration of Chairperson and Deputy Chairpersons of Human Rights Review Tribunal
+(1) A person who immediately before the commencement date held office as the Chairperson or a Deputy Chairperson of the Human Rights Review Tribunal continues to be paid the same amount of remuneration that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 118A(1)(a).
+(2) In this clause,—
+Chairperson includes a temporary acting Chairperson appointed under section 102
+commencement date means the date on which the Remuneration Authority Legislation Act 2022 comes into force.

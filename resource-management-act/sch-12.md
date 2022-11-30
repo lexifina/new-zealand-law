@@ -234,3 +234,7 @@ tier 2 or tier 3 territorial authority means the following:
 (a) was notified; and
 (b) was the subject of a decision under clause 10 of Schedule 1 that was publicly notified.
 (2) If this subclause applies, the plan change or private plan change may proceed as if the Amendment Act had not been enacted.
+Part 6 Provision relating to Remuneration Authority Legislation Act 2022
+38 Remuneration of Environment Commissioners and Deputy Environment Commissioners
+(1) A person who immediately before the commencement date held office as an Environment Commissioner or a Deputy Environment Commissioner continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 263(1)(a).
+(2) In this clause, commencement date means the date on which the Remuneration Authority Legislation Act 2022 comes into force.
