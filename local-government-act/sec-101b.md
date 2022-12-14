@@ -25,6 +25,11 @@
 (d) if assumptions referred to in paragraph (c) involve a high level of uncertainty,—
 (i) identify the nature of that uncertainty; and
 (ii) include an outline of the potential effects of that uncertainty.
+(4A) A local authority must, for a long-term plan for or after 2027-2037, identify and explain, in the infrastructure strategy, any significant connections with, or interdependencies between,—
+(a) the matters included in that infrastructure strategy; and
+(b) the matters that are—
+(i) included in an infrastructure strategy prepared and adopted by a water services entity under section 157 (and see also clause 16 of Schedule 1) of the Water Services Entities Act 2022; and
+(ii) relevant to the local authority's district or region.
 (5) A local authority may meet the requirements of section 101A and this section by adopting a single financial and infrastructure strategy document as part of its long-term plan.
 (6) In this section, infrastructure assets includes—
 (a) existing or proposed assets to be used to provide services by or on behalf of the local authority in relation to the following groups of activities:
