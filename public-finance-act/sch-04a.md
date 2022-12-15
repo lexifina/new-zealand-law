@@ -9,6 +9,7 @@ Crown Infrastructure Partners Limited
 Crown Regional Holdings Limited ✓ ✓
 Education Payroll Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
+Kiwi Group Capital Limited
 New Zealand Green Investment Finance Limited ✓ ✓ ✓ ✓
 Ngāpuhi Investment Fund Limited ✓ ✓ ✓
 Ōtākaro Limited ✓ ✓ ✓ ✓
