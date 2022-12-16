@@ -1,5 +1,6 @@
 # 113A Special guardianship orders
-(1) The court may make an order under this section appointing a person referred to in section 110(4) as a special guardian of a child or young person only if—
+(1AA) If a person who is appointed as a sole or additional guardian of a child or young person under section 110 is a natural person, the court may make an order appointing the person as a special guardian of the child or young person (including when the order under section 110 is made at a hearing under section 127).
+(1) The court may make an order under this section appointing a person as a special guardian of a child or young person only if—
 (a) the appointment is made for the purpose of providing the child or young person with a long-term, safe, nurturing, stable, and secure environment that enhances their interests; and
 (b) either—
 (i) the child or young person has no other guardian; or

@@ -19,7 +19,7 @@ participating State means a State or Territory of Australia in which an intersta
 protection order has the meaning given to it by section 207C
 protection proceedings means—
 (a) proceedings in a court or a Children's Court under a child welfare law for the making, variation, discharge, or revocation of a protection order or interim order, or for the extension of any period of such an order; or
-(b) proceedings in a court or a Children's Court under a child welfare law (for example, proceedings for a declaration under section 67 that a child or young person is in need of care or protection) for a declaration or finding (by whatever name called)—
+(b) proceedings in a court or a Children's Court under a child welfare law (for example, proceedings for a care or protection order) for a declaration or finding (by whatever name called)—
 (i) that a child or young person is in need of care or protection; and
 (ii) that empowers the court or Children's Court to make a protection order
 review proceedings means proceedings—

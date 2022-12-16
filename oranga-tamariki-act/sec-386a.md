@@ -1,6 +1,8 @@
 # 386A Advice and assistance for young persons up to age of 25 years
 (1) This section applies to any young person (as defined in section 386AAA) who, after the age of 14 years and 9 months, is or has been, at any time for a continuous period of at least 3 months, in 1 or more of the following types of care or custody:
-(a) a residential placement under section 234(c)(ii) or (iii), 235, 238(1)(d), 307(4), or 311 or in Police custody under section 236 or 238(1)(e):
+(a) a residential placement under section 234(c)(ii) or (iii), 235, 238(1)(d), 307(4), or 311:
+(aa) Police custody under section 236 or 238(1)(e):
+(ab) detention in a youth unit of a prison under section 238(1)(f):
 (b) the care or custody of the chief executive, an iwi social service, a cultural social service, or the director of a child and family support service under any agreement or order referred to in section 361(a), (c), or (d):
 (c) the care of the chief executive as the agent of the court under section 33(1)(c)(ii) of the Care of Children Act 2004:
 (d) under remand or a prison sentence in the adult justice system (before turning 18).

@@ -1,3 +1,5 @@
 # 328A Payment of lay advocate
-(1) The fees and expenses of any lay advocate appointed under section 326 shall, in accordance with regulations made under this Act, be paid out of public money appropriated by Parliament for the purpose.
+(1) The fees and expenses of a lay advocate appointed under section 326 must—
+(a) be determined in accordance with regulations made under this Act or, if no such regulations are made, by the Registrar of the court; and
+(b) be paid out of a Crown Bank Account from money appropriated by Parliament for the purpose.
 (2) Notwithstanding subsection (1), the court may, if it thinks proper, order any party to the proceedings to refund to the Crown such amount as the court specifies in respect of any fees and expenses paid under that subsection, and the amount ordered to be refunded shall be a debt due to the Crown by that party and shall be recoverable accordingly in any court of competent jurisdiction.
