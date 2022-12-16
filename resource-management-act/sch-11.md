@@ -20,6 +20,7 @@ Ngāti Apa (North Island) Claims Settlement Act 2010
 Ngāti Awa Claims Settlement Act 2005
 Ngāti Hauā Claims Settlement Act 2014
 Ngāti Hinerangi Claims Settlement Act 2021
+Ngāti Kahungunu ki Wairarapa Tāmaki nui-a-Rua Claims Settlement Act 2022
 Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014
 Ngāti Koroki Kahukura Claims Settlement Act 2014
 Ngāti Kuri Claims Settlement Act 2015
