@@ -1,0 +1,11 @@
+# 106I Video record evidence: sexual case complainant's or propensity witness's cross-examination evidence given by video record made before trial
+(1) A sexual case complainant's or propensity witness's cross-examination evidence given by video record made before trial must comply with all applicable enactments in or made under this Act and any other relevant Act (and those enactments apply with all necessary modifications) as if that evidence were being given at trial.
+(2) A video record made before trial of the complainant's or propensity witness's cross-examination evidence must be recorded and dealt with in compliance with any regulations made under this Act.
+(3) All parties must be given secure access to the recording, including a version edited under subsection (5), subject to compliance with any conditions the Judge directs, unless a Judge directs otherwise.
+(4) All parties must be given the opportunity to make submissions about the admissibility of all or any part of the complainant's or propensity witness's cross-examination evidence that is given by a video record made before the trial.
+(5) The Judge may, on an application for the purpose made by any party or on the Judge's own initiative, order to be excised from a video record made before the trial of the complainant's or propensity witness's cross-examination evidence all or any of the following material:
+(a) any material that, if the evidence were given in the ordinary way, would or could be excluded in accordance with this Act:
+(b) procedural content that is irrelevant to the determination of the proceeding (for example, witness breaks):
+(c) any other material that the parties agree is not to form part of the evidence.
+(6) After edits to a video record are ordered under subsection (5), further edits to the video record may be made (on an application for the purpose made by any party or on the Judge's own initiative) only if any new relevant issues have arisen and the interests of justice require the edited version to be revisited.
+(7) The Judge may admit a video record made before the trial of evidence, and that is recorded and dealt with substantially in accordance with the terms of any direction under this subpart and the terms of regulations referred to in subsection (2), despite a failure to observe strictly all of those terms.
