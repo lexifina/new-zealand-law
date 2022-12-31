@@ -1,46 +1,15 @@
 # Schedule 25 Directions relating to COVID-19
+[Repealed]
 s 654(3)
 1 Application and purpose of schedule
-(1) This schedule applies while an epidemic notice is in force for COVID-19 under section 5 of the Epidemic Preparedness Act 2006.
-(2) The purpose of this schedule is to provide a response to the outbreak of COVID-19, and a recovery from it, that—
-(a) avoids, remedies, or mitigates the actual or potential adverse effects of the outbreak; and
-(b) facilitates co-ordinated processes and planning.
-Compare: 1989 No 80 s 476A
+[Repealed]
 2 Interpretation
-In this schedule, unless the context otherwise requires,—
-education entity means—
-(a) a registered school:
-(b) a service provider:
-(c) a hostel:
-(d) a private training establishment:
-(e) an institution:
-(f) an educational body
-educational body—
-(a) means a body corporate that is recognised by the Minister as a body that provides any educational or developmental service or facility; and
-(b) includes a tertiary education organisation
-governing body, in relation to an education entity, means the body that is primarily responsible for the governance of the education entity.
-Compare: 1989 No 80 s 476B
+[Repealed]
 3 Power for Secretary to direct education entities in relation to COVID-19 measures
-(1) The Secretary may, for the purpose of this schedule, direct the governing body of an education entity (or the governing bodies of a class of education entities) to comply with any specified requirements—
-(a) to close or open the education entity or any part of it (including in relation to all students or any specified category, class, or year group of students):
-(b) for the operation, control, or management of the education entity:
-(c) to provide education or instruction through the education entity in any specified ways (for example, through distance or online learning).
-(2) A direction under this clause—
-(a) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements); and
-(b) comes into force when it is made or at a later date specified in it, even if it is not yet published.
-Compare: 1989 No 80 s 476C
+[Repealed]
 4 Effect of directions
-(1) Every education entity to which a direction applies must give effect to the direction on the date on which the direction is given or on any later date that is specified in the direction.
-(2) A direction overrides every other provision of this Act (apart from the provisions in this schedule).
-Compare: 1989 No 80 s 476D
+[Repealed]
 5 Expiry of directions
-(1) [Repealed]
-(2) A direction expires on the earlier of—
-(a) its expiry date:
-(b) the end of the period for which the epidemic notice for COVID-19 is in force.
-Compare: 1989 No 80 s 476E
+[Repealed]
 6 Academic freedom unaffected
-Nothing in this schedule limits the academic freedom of—
-(a) an institution other than Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 267:
-(b) Te Pūkenga—New Zealand Institute of Skills and Technology as set out in section 318.
-Compare: 1989 No 80 s 476F
+[Repealed]

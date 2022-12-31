@@ -739,6 +739,11 @@ Replace section 14(2)(c) with:
 (c) sections 568 to 570 of the Education and Training Act 2020:
 Wanganui High School Act 1878 (1878 No 42 (L))
 In section 2, replace "The Education Act 1877" with "the Education and Training Act 2020".
+Part 2Amendments to Act that come into force on 1 January 2023
+Crown Entities Act 2004 (2004 No 115)
+In section 198(3)(a), replace "section 87(2)(ca)(iv) and (v) of the Education Act 1989" with "section 134(2)(d)(iv) and (v) of the Education and Training Act 2020".
+In Schedule 3, item relating to section 155, replace "section 87(4) of the Education Act 1989" with "section 134(5) of the Education and Training Act 2020".
+In Schedule 3, item relating to section 168(1) and (2), replace "section 87(3) of the Education Act 1989" with "section 134(3) of the Education and Training Act 2020".
 Part 3Amendments to legislative instruments
 Accident Compensation (Experience Rating) Regulations 2019 (LI 2019/38)
 In Schedule 1, item 801, replace "Special-school" with "Specialist school".
