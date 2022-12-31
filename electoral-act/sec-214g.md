@@ -13,4 +13,4 @@
 (i) he or she had no intention to misstate or conceal the facts; and
 (ii) he or she took all reasonable steps in the circumstances to ensure that the information in the return was accurate.
 (4) A party secretary charged with an offence against subsection (3)(a) may be convicted of an offence against subsection (3)(b).
-(5) In this section, late period, in relation to the filing of a return, means the period commencing on the day after the date on which the return is required to be filed and ending on the day that is 15 working days later.
+(5) [Repealed]

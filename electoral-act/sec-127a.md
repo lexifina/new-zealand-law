@@ -1,8 +1,6 @@
 # 127A Deposit by party secretary
 (1) If a secretary of a political party submits a list under section 127, he or she must pay to the Electoral Commission, no later than noon on the day before nomination day, a deposit of $1,000 (inclusive of goods and services tax).
-(2) The deposit must be paid by—
-(a) direct credit to a bank account nominated by the Electoral Commission; or
-(b) bank cheque.
+(2) The deposit must be paid by direct credit to a bank account nominated by the Electoral Commission.
 (3) The deposit is forfeit and must be paid into a Crown Bank Account if the party neither—
 (a) receives in total at least 0.5% of the total number of all party votes received by all the parties listed on the part of the ballot paper that relates to the party vote; nor
 (b) wins a constituency seat.

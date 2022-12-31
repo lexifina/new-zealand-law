@@ -2,7 +2,7 @@
 (1) This section applies to any New Zealand person who intends to make a donation in excess of $1,500 to a party while preventing the disclosure of the person's identity to—
 (a) the party concerned; and
 (b) the public generally.
-(2) A person to whom this section applies may send a donation in excess of $1,500 by way of a cheque, cash, or a bank draft to the Electoral Commission.
+(2) A person to whom this section applies may send a donation in excess of $1,500 to the Electoral Commission by paying the amount of the donation by direct credit to a bank account nominated by the Electoral Commission.
 (3) A donation under subsection (2) must be accompanied by a statement specifying—
 (a) the name of the party that is to receive the donation; and
 (b) the full name and address of the donor; and

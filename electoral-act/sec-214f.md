@@ -1,9 +1,9 @@
-# 214F Return of loan provided by same lender exceeding $30,000
-(1) A party secretary must file with the Electoral Commission a return in respect of every loan entered into that has a loan amount exceeding $30,000.
-(2) A party secretary must file with the Electoral Commission a return in respect of every loan entered into—
+# 214F Return of party loan provided by same lender exceeding $30,000
+(1) A party secretary must file with the Electoral Commission a return in respect of every loan entered into on behalf of the party that has a loan amount exceeding $30,000.
+(2) A party secretary must file with the Electoral Commission a return in respect of every loan entered into on behalf of the party—
 (a) that is provided by a lender who, in the 12 months immediately preceding the date on which the loan was entered into (the last 12 months), has provided 1 or more other loans to the party (previous loans); and
 (b) that exceeds $30,000 when the amount of the loan is aggregated with the loan amounts of all the previous loans.
-(3) If a return is made under subsection (2), the loans disclosed in that return must be disregarded when applying this section in relation to a loan that is entered into by the party after that return is filed.
+(3) If a return is made under subsection (2), the loans disclosed in that return must be disregarded when applying this section in relation to a loan that is entered into on behalf of the party after that return is filed.
 (4) A return filed under subsection (1) must be in the form required by the Electoral Commission and must set out—
 (a) the name of the lender; and
 (b) the address of the lender; and

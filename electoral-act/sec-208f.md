@@ -6,7 +6,7 @@
 (3) In this section, authorised person means—
 (a) a member or employee or other person engaged by the Electoral Commission:
 (b) a donor or contributor and any officer, employee, relative, adviser, or agent of the donor or contributor:
-(c) any other person to whom the identifying details must be supplied to enable the donation to be made (for example, an employee of a bank who processes a cheque by which the donation is made):
+(c) any other person to whom the identifying details must be supplied to enable the donation to be made:
 (d) any person to whom the identifying details must be supplied to comply with 1 or more of the Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994):
 (e) the Auditor-General:
 (f) any other person entitled to the information in question in accordance with any search warrant, summons, or any process under rules of court, or in the course of any proceedings.

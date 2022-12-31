@@ -1,5 +1,10 @@
 # 210A Auditor's report on annual return of party donations
-(1) A party secretary must, before the Electoral Commission receives the return required by section 210, obtain from the auditor appointed under section 206J a report on the return.
+(1) This section applies if—
+(a) an annual return of party donations required to be filed under section 210 shows that the total amount of donations received by the party secretary for the year exceeds $50,000; or
+(b) an annual return of party donations required to be filed under section 210 shows that the total amount of donations received by the party secretary for the year does not exceed $50,000, but the annual return of party loans filed by the party secretary under section 214C for the same year discloses that the party—
+(i) has entered into at least 1 loan during that year; or
+(ii) has an unpaid balance exceeding $15,000 on a loan entered into during any previous year.
+(1A) A party secretary must obtain from the auditor appointed under section 206J a report on the return of party donations.
 (2) The auditor must state in the report whether, in the auditor's opinion, the return fairly reflects the party donations received by the party secretary.
 (3) The auditor must make any examinations that the auditor considers necessary.
 (4) The auditor must specify in the report any case in which—

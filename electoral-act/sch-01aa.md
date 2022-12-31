@@ -14,3 +14,8 @@ specified prisoner means a prisoner who—
 (b) is not, after the commencement of the Act, disqualified under section 80(1)(d) for registration as an elector.
 4 Prison manager to assist specified prisoners to register as electors
 A prison manager must, as soon as is reasonably practicable after the commencement of the Act, comply with sections 86A and 86B in respect of a specified prisoner as if the specified prisoner were a prisoner referred to in section 86A being received into the prison.
+Part 3 Provisions relating to Electoral Amendment Act 2022
+5 Transitional provision relating to annual return of party donations for year ending 31 December 2022
+Despite sections 6 and 7 of the Electoral Amendment Act 2022, sections 210 and 210A as in force immediately before 1 January 2023 continue to apply in respect of an annual return of party donations required to be filed by a party secretary with the Electoral Commission for the year ending on 31 December 2022.
+6 Transitional provision relating to party donations received from same donor over $30,000
+Despite section 8 of the Electoral Amendment Act 2022, section 210C as in force immediately before 1 January 2023 continues to apply on and after that date in respect of all party donations received before the close of 31 December 2022.
