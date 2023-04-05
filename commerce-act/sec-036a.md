@@ -1,14 +1,18 @@
-# 36A Taking advantage of market power in trans-Tasman markets
-(1) Nothing in this section applies to any practice or conduct to which this Part applies that has been authorised under Part 5.
-(2) A person must not, for any of the purposes specified in subsection (3), take advantage of the person's substantial degree of power (if any)—
-(a) in a market; or
-(b) in a market in Australia; or
-(c) in a market in New Zealand and Australia.
-(3) The purposes are as follows:
-(a) restricting the entry of a person into a market that is not a market exclusively for services:
-(b) preventing or deterring a person from engaging in competitive conduct in a market that is not a market exclusively for services:
-(c) eliminating a person from a market that is not a market exclusively for services.
-(4) For the purposes of this section, a person does not take advantage of a substantial degree of power in a market by reason only that the person seeks to enforce—
-(a) a statutory intellectual property right, within the meaning of section 45(2), in New Zealand:
-(b) a statutory intellectual property right in Australia.
-(5) For the purposes of this section, a reference to a person includes 2 or more persons that are interconnected.
+# 36A Misuse of market power in trans-Tasman markets
+(1) Subsection (2) applies if 1 or more of the following applies to a person:
+(a) the person has a substantial degree of power in a market in New Zealand:
+(b) the person has a substantial degree of power in a market in Australia:
+(c) the person has a substantial degree of power in a market in New Zealand and Australia.
+(2) The person must not engage in conduct that has the purpose, or has or is likely to have the effect, of substantially lessening competition in—
+(a) a market in New Zealand in which the person has a substantial degree of power (if any) and that is not a market exclusively for services; or
+(b) any other market in New Zealand, not being a market exclusively for services, in which the person, or an interconnected person,—
+(i) supplies or acquires, or is likely to supply or acquire, goods or services; or
+(ii) supplies or acquires, or is likely to supply or acquire, goods or services indirectly through 1 or more other persons.
+(3) In this section, a person has a substantial degree of power in a market if—
+(a) the person has a substantial degree of power in the market; or
+(b) the person, together with 1 or more interconnected persons, has a substantial degree of power in the market; or
+(c) 1 or more interconnected persons of the person have a substantial degree of power in the market; or
+(d) 2 or more interconnected persons together have a substantial degree of power in the market.
+(4) In this section, market means a market for goods or services as well as other goods or services that, as a matter of fact and commercial common sense, are substitutable for them.
+(5) Section 36A does not limit section 36.
+Compare: Competition and Consumer Act 2010 s 46A (Aust)

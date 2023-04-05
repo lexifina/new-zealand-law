@@ -12,6 +12,7 @@
 (ii) an activity ancillary to a specified activity that is reasonably necessary for the purposes of the co-operation.
 (7) For the purposes of subsection (6)(a), parties to the contract, arrangement, or understanding excludes persons who are parties only because section 30B(a) applies.
 (8) In this section,—
+cartel provision means a cartel provision in a contract, arrangement, or understanding
 specified activity means any of the following:
 (a) the co-ordination of schedules and the determination of port calls:
 (b) the exchange, sale, hire, or lease (including the sublease) of space on a ship:

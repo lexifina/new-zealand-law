@@ -65,9 +65,10 @@ Former sections 74A to 74C remain in force for the purposes of allowing a Commis
 (b) despite section 94, must not refer any matter relating to the appeal back to the Commissioners to reconsider.
 Part 3 Provision relating to COVID-19 Response (Further Management Measures) Legislation Act 2020
 12 Application of provisions after repeal
-For the purposes of an application that is made during the epidemic period, sections 65AA to 65AD continue to apply as if they remained in force, despite their repeal by section 65AE, to the application including in relation to—
+(1) For the purposes of an application that is made during the epidemic period, sections 65AA to 65AD continue to apply as if they remained in force, despite their repeal by section 65AE, to the application including in relation to—
 (a) any authorisation or provisional authorisation granted on the application:
 (b) any appeal in relation to a determination of the Commission on the application.
+(2) Subclause (1) applies on and after section 65AE repeals sections 65AA to 65AD. If the epidemic period, as defined in section 65AA(1), ends on the date on which section 24 of the Commerce Amendment Act 2022 comes into force, see clause 20.
 Part 4 Provisions relating to Commerce (Grocery Sector Covenants) Amendment Act 2022
 13 Interpretation
 In this Part, unless the context otherwise requires,—
@@ -98,3 +99,41 @@ commencement date means the first anniversary of Royal assent for the Amendment 
 (3) The Commission may grant the authorisation.
 (4) Sections 58B, 59, 59A, and 61 apply in relation to an application made under this clause.
 (5) An authorisation granted under this clause may only take effect on or after the commencement date.
+18 Application of cartel prohibition to covenants in force before commencement date
+During the 1-year transitional period, nothing in section 30(1)(b) applies in relation to a covenant that is given, or required to be given, before the commencement date.
+19 Application of sections 36 and 36A to contracts, arrangements, understandings, and covenants in force before commencement date
+Sections 36 and 36A apply to conduct that gives effect to a contract, arrangement, understanding, or covenant whether—
+(a) the contract or arrangement was entered into before, on, or after the commencement date; or
+(b) the understanding was arrived at before, on, or after the commencement date; or
+(c) the covenant was given, or required to be given, before, on, or after the commencement date.
+20 Conduct authorised before sections 36 and 36A replaced continues to be authorised
+(1) Nothing in section 36 or 36A applies to any conduct—
+(a) to which former Part 2 applied; and
+(b) that, before the commencement date, was authorised under the former Part 5.
+(2) Nothing in section 36 or 36A applies to any conduct—
+(a) to which former Part 2 applied; and
+(b) in respect of which an application for an authorisation under the former Part 5 was—
+(i) made before the commencement date; and
+(ii) approved on or after the commencement date.
+(3) See former sections 36(1) and 36A(1).
+21 Application of former section 45 to existing statutory intellectual property rights
+Despite its repeal, former section 45(1)(b) continues to apply during the 1-year transitional period in relation to a contract, arrangement, or understanding that was—
+(a) described in former section 45(1)(a); and
+(b) entered into, or arrived at, before the commencement date.
+22 Sections 58A, 58B, and 59 apply to existing authorisations
+Sections 58A, 58B, and 59 apply to an authorisation granted by the Commission under former section 58 before the commencement date.
+23 Savings provisions if epidemic period under sections 65AA to 65AD ended by Amendment Act
+(1) This clause applies if the epidemic period, as defined in section 65AA(1), ends on the date on which section 24 of the Amendment Act comes into force (see section 65AA(1)(b)(ii).
+(2) If this clause applies, it applies in relation to the following applications for an authorisation that are made on or after the date on which the epidemic period ends but before the close of the 6-month period that starts on the date on which the Epidemic Preparedness (COVID-19) Notice 2020 expires or is revoked:
+(a) an application for an authorisation under section 58(1), (2), or (6B):
+(b) an application for an authorisation under section 58(6D) that relates to giving effect to a provision of a contract, arrangement, or understanding that is, or may be, a cartel provision.
+(3) Despite section 60(1), the Commission may, in its discretion, waive all or part of any fee payable for the application.
+(4) Despite section 61(5), the Commission may, in its discretion, determine the application without complying with section 62.
+24 Section 65B applies to existing clearances
+Section 65B applies to a clearance given by the Commission under former section 65A before the commencement date.
+25 Section 69 applies to existing clearances and authorisations
+Section 69 applies in relation to a clearance or an authorisation whether the clearance was given, or the authorisation was granted, before, on, or after the commencement date.
+26 Court may make order in relation to covenant only if given on or after commencement date
+Section 80C applies to a covenant only if the covenant is given, or required to be given, on or after the commencement date.
+27 Offence under section 82B(1)(b) does not apply in relation to covenants given before commencement date
+Section 82B(1)(b) does not apply to a person who gives effect to a cartel provision in a covenant given, or required to be given, before the commencement date.

@@ -7,3 +7,4 @@
 (c) the provision relates to the exchange, sale, hire, or lease (including the sublease) of space on a ship between the person and 1 or more parties to the contract, arrangement, or understanding; and
 (d) the exchange, sale, hire, or lease (including the sublease) is carried out for the purposes of the co-operation.
 (4) For the purposes of subsection (3)(a), parties to the contract, arrangement, or understanding excludes persons who are parties only because section 30B(a) applies.
+(5) In this section, cartel provision means a cartel provision in a contract, arrangement, or understanding.
