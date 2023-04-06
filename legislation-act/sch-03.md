@@ -46,7 +46,7 @@ Exemption applies
 Section 53ZG
 Exemption applies
 District Court Act 2016
-Section 60(1)(b), (2)
+Section 60(1)(b)
 Exemption applies
 Dog Control Act 1996
 Section 78A(1)
@@ -100,6 +100,15 @@ Ombudsmen Act 1975
 Section 15
 Exemption applies
 See s 115(a)
+Organic Products and Production Act 2023
+Section 143 (for the purpose of section 63)
+The relevant chief executive considers that compliance would result in 1 or more of the following:
+(a) disclosure of commercially sensitive information:
+(b) disclosure of a trade secret:
+(c) prejudice to New Zealand's position in current or future negotiations for overseas market access:
+(d) prejudice to the international relations of New Zealand.
+Exemption applies if exemption ground is met
+Exemption applies
 Parliamentary Service Act 2000
 Section 25
 Exemption applies
