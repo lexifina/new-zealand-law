@@ -279,3 +279,16 @@ Inland Revenue
 (e) personal record information:
 (f) social assistance information:
 (g) other personal information that Inland Revenue Department discovers in the course of performing its usual functions and duties
+Information Sharing Agreement Facilitating Access to Information about Deaths made on 22 November 2022
+(a) the accurate and efficient assessment of eligibility for and entitlement to receive public services:
+(b) the accurate and efficient delivery of public services by the Registrar-General and the other public sector agencies that are parties:
+(c) the provision by the Registrar-General of accurate death information and overseas death information to parties that are New Zealand private sector agencies for their use in accordance with the agreement and clause 10:
+(d) mortality reviews and advice on how to reduce preventable deaths:
+(e) the prevention, detection, investigation, and prosecution of offences, and the conduct of civil proceedings, including judicial review
+https://www.dia.govt.nz Department of Internal Affairs
+(a) identifying information:
+(b) death information:
+(c) overseas death notifications:
+(d) birth information:
+(e) marriage information:
+(f) civil union information
