@@ -117,3 +117,21 @@ Clause 3 of Schedule 3A (as inserted by the COVID-19 Response (Vaccinations) Leg
 (a) an existing right under the repealed legislation:
 (b) the completion of any process or proceedings started but not completed by the close of the day immediately before the repeal:
 (c) the previous operation of the repealed legislation or anything done or suffered under it.
+Part 5 Provisions relating to Employment Relations (Extended Time for Personal Grievance for Sexual Harassment) Amendment Act 2023
+19 Interpretation
+In this Part,—
+2023 amendment Act means the Employment Relations (Extended Time for Personal Grievance for Sexual Harassment) Amendment Act 2023
+commencement means commencement of the 2023 amendment Act.
+20 Application of requirement for employment agreement to explain new personal-grievance period for sexual harassment
+Collective agreements
+(1) Section 54 (as amended by section 4 of the 2023 amendment Act) applies to a collective agreement concluded on or after the date of commencement whether bargaining for the agreement was initiated before, on, or after the date of commencement.
+(2) Section 54 (as it read immediately before commencement) continues to apply to a collective agreement concluded before commencement.
+Individual employment agreements
+(3) Section 65 (as amended by section 5 of the 2023 amendment Act) applies to an individual employment agreement entered into on or after the date of commencement whether bargaining for the agreement was initiated before, on, or after the date of commencement.
+(4) Section 65 (as it read immediately before commencement) continues to apply to an individual employment agreement entered into before commencement.
+21 Application of new personal-grievance period for sexual harassment
+(1) This clause applies for the purposes of determining the period within which an employee who wishes to raise a personal grievance under section 103(1)(d) must—
+(a) raise the personal grievance; and
+(b) if applicable, notify a controlling third party that the employee considers that the actions of the controlling third party caused or contributed to the personal grievance.
+(2) Sections 114 to 115A (as amended by the 2023 amendment Act) apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred or came to the notice of the employee on or after the date of commencement.
+(3) Sections 114 to 115A (as they read immediately before commencement) continue to apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred and came to the notice of the employee before commencement.
