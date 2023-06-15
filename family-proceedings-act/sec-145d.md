@@ -3,7 +3,7 @@
 (a) a court has declared him to be the father of the child; or
 (b) a court has appointed him to be a guardian of the child, or has declared him to be a guardian of the child, by reason of being a parent of the child; or
 (c) a court has, before or at the time of making a maintenance order against him, made a paternity order against him; or
-(d) his name has at any time been entered pursuant to the Births, Deaths, Marriages, and Relationships Registration Act 1995 in the Register of Births as the father of the child; or
+(d) his name has at any time been entered in the registry under the Births, Deaths, Marriages, and Relationships Registration Act 2021 as the father of the child; or
 (e) he has been declared to be the father of the child by an order made in a country outside New Zealand (being an order to which this section applies pursuant to subsection (2)); or
 (f) he has, in any proceedings before the court, or in writing signed by him, acknowledged that he is the father of the child.
 (2) The Governor-General may from time to time, by Order in Council, declare that this section applies to orders made by a specific court or public authority in a specified country outside New Zealand.
