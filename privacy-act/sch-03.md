@@ -83,4 +83,4 @@ References in this schedule to the Department of Internal Affairs are references
 2
 References in this schedule to MBIE (Immigration) are references to the part of the Ministry of Business, Innovation, and Employment that administers the Immigration Act 2009.
 3
-References in this schedule to the Registrar-General are references to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995, and include a Deputy Registrar-General.
+References in this schedule to the Registrar-General are references to the Registrar-General appointed under section 124(1) of the Births, Deaths, Marriages, and Relationships Registration Act 2021, and include a Deputy Registrar-General.

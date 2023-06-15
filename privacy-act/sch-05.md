@@ -2,7 +2,7 @@
 ss 177, 188
 Enactment Information matching provision
 Accident Compensation Act 2001 Sections 246, 280, and 281
-Births, Deaths, Marriages, and Relationships Registration Act 1995 Section 78A
+Births, Deaths, Marriages, and Relationships Registration Act 2021 Section 112
 Citizenship Act 1977 Section 26A
 Corrections Act 2004 Sections 180 to 180D and 181
 Customs and Excise Act 2018 Sections 306 to 310
