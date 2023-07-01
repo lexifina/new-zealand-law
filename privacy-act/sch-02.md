@@ -80,6 +80,7 @@ The accurate and efficient assessment of eligibility for, and entitlement to, be
 The accurate and efficient assessment and enforcement of tax obligations, including recovering any associated debt
 The accurate and efficient assessment and enforcement of obligations relating to benefits and subsidies, including recovering any associated debt
 The development of public policy using personal information to assess the potential costs to the Crown and the impact on individuals, or groups of individuals, who may be affected
+Administration, research, and analysis for the purposes set out in the agreement for which information may be shared
 http://www.msd.govt.nz
 http://www.ird.govt.nz Inland Revenue
 (a) contact information:
