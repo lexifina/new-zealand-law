@@ -7,7 +7,7 @@ Appointments in general
 (a) state the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
 (b) in the case of the appointment of a member, state the term of the appointment.
 2 Membership of Board and criteria for appointment
-(1) The Board comprises 3 members (see section 8(1)).
+(1) The Board comprises 5 members (see section 8(1)).
 (2) The Minister may only appoint as a member a person who, in the Minister's opinion, has the appropriate knowledge, skills, and experience to assist the Board to perform its functions.
 3 Validity of members' acts
 The acts of a person as a member or chairperson of the Board are valid even though—
