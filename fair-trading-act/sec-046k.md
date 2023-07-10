@@ -1,5 +1,5 @@
 # 46K Terms that may not be declared to be unfair contract terms
-(1) A court may not declare a term in a standard form consumer contract or standard form small trade contract to be an unfair contract term to the extent that the term—
+(1) A court may not declare a term in a standard form consumer contract or standard form trade contract to be an unfair contract term to the extent that the term—
 (a) defines the main subject matter of the contract; or
 (b) sets the upfront price payable under the contract; or
 (c) is a term required or expressly permitted by any enactment.
