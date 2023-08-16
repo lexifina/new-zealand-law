@@ -8,6 +8,9 @@
 (b) 1 or both of the following kinds of orders made under section 79 of the Family Violence Act 2018 is or are, or at any time has or have been, in force against 1 or more parties to the application:
 (i) a temporary protection order:
 (ii) a final protection order.
+(1A) In taking into account the principle in section 5(a), the court must have regard to—
+(a) the purpose of the Family Violence Act 2018, under which an order specified in subsection (1)(b) was made; and
+(b) the principles set out in section 4 of that Act guiding the achievement of that purpose.
 (2) In taking into account the principle in section 5(a), the court must have regard in particular to the following matters:
 (a) whether a temporary protection order, or final protection order, is still in force:
 (b) the circumstances in which that order was made:
