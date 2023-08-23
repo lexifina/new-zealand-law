@@ -1,5 +1,5 @@
 # Schedule 11 Councils
-ss 271(5), 285(5)
+ss 271(8), 285(5)
 Contents
 1 Constitutions of councils of new institutions
 2 Amendment of constitution
@@ -22,13 +22,13 @@ Contents
 19 Personal liability of council members
 20 Trust property
 1 Constitutions of councils of new institutions
-(1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1).
-(2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee's opinion, appropriate for the institution and complies with the requirements of section 276.
+(1) The Minister must appoint a committee consisting of 3 persons (an establishment committee) for the purpose of advising the Minister regarding the constitution for the council of a body that is, or is to be, established under section 268(1) or under section 398E.
+(2) The establishment committee must recommend to the Minister a constitution for the council that is, in the committee's opinion, appropriate for the institution and complies with the requirements of section 276 or under section 398E.
 (3) When the establishment committee has recommended a constitution for the council in accordance with subclause (2), the Minister must, by notice published in the Gazette, determine the constitution of the council in accordance with the recommendation.
 (4) This section does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology's council.
 Compare: 1989 No 80 s 169
 2 Amendment of constitution
-(1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
+(1) If, after the constitution of a council has been determined, the council recommends to the Minister that the constitution be amended in a manner that complies with the requirements of section 276 or the requirements of an Order in Council made under section 398E in relation to the constitution of the council of a wānanga, the Minister must, by notice published in the Gazette, amend the constitution in accordance with the recommendation.
 (2) Subclause (1) does not apply to the membership of Te Pūkenga—New Zealand Institute of Skills and Technology's council (for which section 320 provides).
 Compare: 1989 No 80 s 170
 3 Limit on number of occasions on which people may be appointed as council members
@@ -124,6 +124,7 @@ Compare: 1989 No 80 s 176A
 11 Accountability for individual duties
 (1) The individual duties of a council member under clause 10 are owed to the Minister and the council.
 (2) A council member who does not comply with their individual duties may be removed from office under clause 12.
+(2A) Despite anything in subclause (2), a council member of a wānanga who does not comply with their individual duties may be removed from office under the provisions for removal of members set out in an Order in Council for the reconstitution or establishment of the wānanga.
 (3) An institution's council may bring an action against a council member for breach of any individual duty.
 (4) Except as provided in subclauses (2) and (3), a council member is not liable for a breach of an individual duty.
 (5) However, subclause (4) does not limit or affect—

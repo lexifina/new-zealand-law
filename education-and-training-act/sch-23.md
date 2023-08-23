@@ -22,12 +22,19 @@ Casual vacancies
 1 Criteria for selecting co-opted and appointed board members
 (1) For the purposes of subclause (2), it is desirable, as far as is reasonably practicable,—
 (a) that every board should reflect—
-(i) the ethnic and socio-economic diversity of the student body of the school or special institution; and
-(ii) the fact that approximately half the population of New Zealand is male and half female; and
-(iii) the character of the school or schools, or special institution, it administers; and
-(iv) the character of the community (whether geographical or otherwise) served by the school or schools, or special institution, it administers; and
+(i) the ethnic diversity of the student body and the community of the school or special institution; and
+(ii) the socio-economic diversity of the student body and the community of the school or special institution; and
+(iii) the genders, sexualities, and sexes of the student body and the community of the school or special institution; and
+(iv) the diversity of disabled students at the school and the school's or special institution's disability community; and
+(v) the character of the school, or special institution, it administers; and
+(vi) the character of the community of the school or special institution (whether geographical or otherwise) that the school or special institution serves; and
 (b) that every board should have available from within its membership expertise and experience in management.
 (2) A board or person, when co-opting or appointing board members, must have regard to subclause (1).
+(3) For the purposes of subclause (1)(a)(i) to (iii) and (vi), community of the school or special institution—
+(a) means—
+(i) the parents, families, and whānau of the students of the school or special institution; and
+(ii) the Māori community associated with the school or special institution; and
+(b) includes any other person, or group of persons, whom the board considers is part of its community.
 Compare: 1989 No 80 s 99
 2 Limits on co-optation and appointment of board members
 (1) A board may not co-opt a board member if the effect of the co-optation would be that the total number of board members co-opted by the board or appointed was equal to or greater than the total number of parent representatives.
@@ -167,8 +174,8 @@ Casual vacancies
 (b) the board is not then dissolved.
 Compare: 1989 No 80 s 104
 13 Filling casual vacancies of elected board members
-(1) A casual vacancy for an elected board member must be filled by the election of a board member, in the same manner as that in which the vacating board member was elected, for the remainder of the vacating board member's term.
-(2) If no nominations are received for the election of a board member by students, or no board member is elected at the election, the vacancy may not be filled until the next election required to be held by clause 3(2) or section 184.
+(1) Subject to subclauses (3) to (9), a casual vacancy for an elected board member must be filled by the election of a board member, in the same manner as that in which the vacating board member was elected, for the remainder of the vacating board member's term.
+(2) [Repealed]
 (3) Where a casual vacancy for an elected board member occurs during any period of 6 months commencing on 1 October in a year before an election year, a board may, not later than 28 days after it occurs, resolve not to fill it, and if it does so, the vacancy may not be filled.
 (4) If a casual vacancy for an elected board member occurs at any other time, the board must resolve, within 8 weeks of the vacancy occurring, whether to—
 (a) hold an election to fill the vacancy; or

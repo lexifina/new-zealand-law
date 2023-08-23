@@ -21,5 +21,5 @@
 (4) The Minister may set performance standards and priorities for code administrators, which code administrators must have regard to in the performance of their duties and functions.
 (5) A code administrator may allow an applicant to become a signatory provider unconditionally, or subject to any written conditions made known to the applicant at the time the code administrator informs the applicant that the applicant is allowed to become a signatory provider.
 (6) A code administrator may, with the Minister's prior written approval and subject to any conditions that the code administrator or the Minister thinks fit, delegate any or all of the functions, duties, and powers specified in this section to another person or agency (having regard to their knowledge, skills, or experience).
-(7) A notice made under subsection (1) is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+(7) [Repealed]
 Compare: 1989 No 80 s 238H(1)-(4), (9)

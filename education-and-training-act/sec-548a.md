@@ -1,0 +1,5 @@
+# 548A Data accessed by Ministry under Data and Statistics Act 2022
+(1) Despite section 54(1)(c) of the Data and Statistics Act 2022, the Ministry may publish or otherwise disclose, at the level of an early childhood service, data relating to the socio-economic status of children attending early childhood services and their families accessed under Part 5 of that Act in a form that may identify an individual or an organisation if—
+(a) the publication or other disclosure is for the purpose of assisting the Ministry to develop or use tools relating to the provision of funding to early childhood services under this Act; and
+(b) the data does not include personal information, as defined in section 7(1) of the Privacy Act 2020, unless the service provider of the early childhood service, who is an individual, has consented to the publication or disclosure of information regarding the service they operate.
+(2) In subsection (1), organisation has the same meaning as in section 6 of the Data and Statistics Act 2022.

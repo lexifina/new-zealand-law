@@ -1,0 +1,12 @@
+# 575A Taxes and duties where assets and liabilities of disestablished institution vested in iwi or Māori
+(1) For the purposes of the Acts specified in Schedule 1 of the Tax Administration Act 1994, and of any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge,—
+(a) a disestablished wānanga referred to in section 398ZC(4) and the iwi or Māori concerned must be treated as being the same person with effect on and from the date on which the real and personal property of the disestablished wānanga vests in the iwi or Māori under that section; and
+(b) in respect of the liability under 1 or more of those enactments for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished wānanga vests in the iwi or Māori concerned, all transactions entered into by, and acts of, the disestablished wānanga before the vesting under section 398ZC(4) must be treated as having been entered into by, or to be those of, the iwi or Māori concerned and to have been entered into or performed by those iwi or Māori at the time when they were entered into or performed by the disestablished wānanga.
+(2) For the purposes of determining a matter referred to in subsection (3), shares held by a disestablished wānanga in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting under section 398ZC(4) must be treated as having been acquired by the iwi or Māori concerned at the time when they were acquired by the disestablished wānanga.
+(3) The matters are whether—
+(a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007:
+(b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007:
+(c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007.
+(4) The vesting of all the real and personal property of a disestablished wānanga in the iwi or Māori concerned under section 398ZC(4) may not be treated as a supply of any goods or services for the purposes of the Goods and Services Tax Act 1985, or as a disposition of property for the purposes of the Estate and Gift Duties Act 1968.
+(5) Nothing in subsection (2) or (4) limits subsection (1).
+Compare: 1989 No 80 s 219

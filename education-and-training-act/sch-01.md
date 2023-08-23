@@ -125,6 +125,33 @@ Regulations relating to early childhood services
 87 Notices recognising qualifications made under regulations relating to early childhood services validly issued
 Police vetting
 88 Transitional provision relating to Police vetting
+Part 5
+Provisions relating to Education and Training Amendment Act 2023
+Subpart 1—Provisions for Part 4A (wānanga)
+89 Wānanga
+Reconstitution of wānanga council
+90 Wānanga council may be reconstituted
+91 Initial membership of council of reconstituted wānanga
+92 Members of existing council go out of office
+93 Reconstituted wānanga and council is same institution and council
+Conversion of wānanga
+94 Category A wānanga or category C wānanga may convert to category B wānanga
+95 Members of council cease to hold office on close of day before date of conversion
+96 Rights, assets, and liabilities of converted wānanga
+97 Same person for purposes of Inland Revenue Acts
+98 Employees of converted wānanga
+99 Superannuation schemes
+100 Students of converted wānanga
+101 Visas granted under Immigration Act 2009
+102 Existing NZQA approvals, accreditations, and consents
+103 Existing funding paid by TEC under funding mechanism
+104 Other references to converted wānanga that were category A wānanga or category C wānanga
+105 Existing proceedings and other matters
+106 Converted wānanga must provide final report to Minister
+107 Validation of pre-commencement actions and processes for appointments to councils of converted wānanga
+108 Membership of councils of category B wānanga reduced
+Subpart 2—Provision relating to election of board members who are parent representatives
+109 Timing of mid-term elections of board members who are parent representatives
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -789,3 +816,209 @@ Police vetting
 (c) for whom, at the commencement date, no Police vet had yet been obtained by the board or the managers.
 (5) The Police vet must be obtained in respect of a person to whom this clause applies before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
 (6) The board or managers must apply for the Police vet no later than 2 weeks after the person begins work at the school.
+Part 5 Provisions relating to Education and Training Amendment Act 2023
+Subpart 1—Provisions for Part 4A (wānanga)
+89 Wānanga
+(1) Wānanga established under section 268—
+(a) are Crown entities for the purposes of section 7 of the Crown Entities Act 2004 and their councils are boards for the purposes of that Act; and
+(b) are to be treated as if they were established as Crown entities under section 398E.
+(2) A wānanga that is reconstituted under clause 90(1) is to be treated as if it were established under section 398E as a category A wānanga.
+(3) A wānanga that is converted under clause 94(2) is to be treated as if it were established under section 398I as a category B wānanga.
+(4) The Crown Entities Act 2004—
+(a) applies to those wānanga except to the extent that this Act expressly provides otherwise; and
+(b) ceases to apply to those wānanga that are—
+(i) converted to category B wānanga under clause 94(2):
+(ii) established as category B wānanga under section 398I.
+(5) The Governor-General may, by Order in Council made on the recommendation of the Minister given after receiving a recommendation from Te Tauihu o Ngā Wānanga, amend this Act or any other enactment by—
+(a) omitting from it the term "category A wānanga" and substituting some other term:
+(b) omitting from it the term "category B wānanga" and substituting some other term:
+(c) omitting from it the term "category C wānanga" and substituting some other term.
+(6) To avoid doubt, a wānanga does not cease to be an institution merely because a term used to refer to it is changed under subsection (5).
+(7) An order made under this section is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Reconstitution of wānanga council
+90 Wānanga council may be reconstituted
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, reconstitute the council of a wānanga established under section 268.
+(2) Before making a recommendation to reconstitute the council of a wānanga under subclause (1), the Minister must—
+(a) consult the council of the wānanga being considered for reconstitution; and
+(b) consult iwi or Māori instrumental in the establishment of the wānanga; and
+(c) consult any other persons or bodies that the Minister thinks fit; and
+(d) be satisfied that any additional functions and purposes of the wānanga that are specified under subclause (4)(a) are consistent with the characteristics of a wānanga set out in section 398D.
+(3) An order made under subclause (1) must—
+(a) revoke and replace any previous order determining the constitution of the council of the wānanga; and
+(b) state the name of the wānanga as reconstituted; and
+(c) make provision for determining the people who are to constitute the wānanga; and
+(d) set out the governance arrangements for the council of the wānanga, including the constitution of the council and the arrangements for the appointment, suspension, and removal of its members; and
+(e) set out the arrangements for conducting meetings of the council; and
+(f) specify the manner in which the policies of the wānanga are to be determined; and
+(g) provide for the establishment and membership of an academic committee to advise the council on matters relating to courses of study or training, awards, and other academic matters; and
+(h) provide for any other matters that are necessary or desirable—
+(i) for good governance of the wānanga:
+(ii) to clarify the arrangements for the administration of the wānanga; and
+(i) specify how the council is to engage with the Public Service Commissioner on the conditions of employment of the chief executive.
+(4) An order made under subclause (1) may—
+(a) specify any functions and purposes of the wānanga and the council that are in addition to any functions and purposes of an institution or its council set out in this Act:
+(b) impose conditions on the performance or exercise of the powers of the wānanga.
+(5) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+91 Initial membership of council of reconstituted wānanga
+(1) Before the date of reconstitution of the council of a wānanga, each person or body responsible for appointing or electing members to the reconstituted wānanga council may appoint or elect the number of members of the reconstituted wānanga council required by its constitution to be appointed or elected by that person or body.
+(2) The appointment or election of a member to a reconstituted wānanga council under subclause (1) takes effect on the later of—
+(a) the date on which the appointment or election occurs; and
+(b) the date of reconstitution.
+(3) If on the date of reconstitution a vacancy in the council of the wānanga as reconstituted exists, the person or body responsible for appointing or electing a person to that vacancy—
+(a) may, by written notice to any person who was a member of the council immediately before that day, authorise that person to act as a member of the council until the vacancy is filled; and
+(b) must appoint or elect a person to the vacancy within 3 months after the date of reconstitution.
+(4) The person or body responsible for appointing or electing a person to the vacancy must give a copy of every notice under subclause (3)(a) to the council of the wānanga as reconstituted.
+(5) A person authorised under subclause (3)(a) must for all purposes be treated as a member of the council concerned until the vacancy concerned is filled.
+(6) A council may, before the date of reconstitution, make the statutes under section 398H for the purpose of making appointments or conducting elections of members to the council of the wānanga as reconstituted.
+Compare: 2009 No 70 s 19
+92 Members of existing council go out of office
+(1) On the date of reconstitution of the council of a wānanga,—
+(a) all members of the council of the wānanga immediately before that date go out of office; and
+(b) all the people appointed or elected as members of the council before that date under clause 91 take up office.
+(2) Neither the Crown, the wānanga, nor the council of the wānanga is liable to make a payment to, or otherwise compensate, a person in respect of the person's going out of office as a member of the council under this clause.
+Compare: 2009 No 70 s 20
+93 Reconstituted wānanga and council is same institution and council
+On and after the date of reconstitution of the council of a wānanga,—
+(a) the wānanga is the same institution and Crown entity that existed immediately before that date; and
+(b) the council of the wānanga as reconstituted—
+(i) is the same body as the council of the wānanga concerned that existed immediately before that date; and
+(ii) has the same rights, duties, and obligations it then had under this Act together with any rights, duties, and obligations conferred in the order reconstituting the wānanga.
+Compare: 2009 No 70 s 21
+Conversion of wānanga
+94 Category A wānanga or category C wānanga may convert to category B wānanga
+(1) This clause applies to an institution that is—
+(a) a category A wānanga; or
+(b) a category C wānanga.
+(2) If this clause applies, the Governor-General may, by Order in Council made on the recommendation of the Minister, convert the institution to a category B wānanga.
+(3) Before making a recommendation to convert an institution to a category B wānanga, the Minister must—
+(a) consult the council of the wānanga being considered for conversion; and
+(b) consult iwi or Māori instrumental in the establishment of the institution; and
+(c) consult other persons or bodies that the Minister thinks fit; and
+(d) be satisfied that the functions and purposes of the wānanga that are specified under subclause (4)(e) are consistent with the characteristics of a wānanga set out in section 398D; and
+(e) be satisfied that the accountability arrangements set out in subclause (4)(h) and (i) are sufficient for the effective governance and administration of the wānanga; and
+(f) be satisfied that iwi or Māori specified under subclause (4)(h) as the iwi or Māori to whom the wānanga is accountable—
+(i) accept responsibility for ensuring accountability of the wānanga and its council; and
+(ii) have access to the skills and resources reasonably necessary to ensure accountability of the wānanga and its council.
+(4) An order made under subclause (2) must—
+(a) revoke and replace any order establishing the wānanga; and
+(b) state the name of the wānanga; and
+(c) provide for determining the people who are to constitute the wānanga; and
+(d) set out the governance arrangements for the council of the wānanga, including the constitution of the council and the arrangements for the appointment, suspension, and removal of members; and
+(e) specify the functions, duties, and purposes of the wānanga and its council; and
+(f) set out the procedures for conducting the meetings of the council; and
+(g) specify the collective and individual duties of the members of the council and the manner in which members will be accountable for the performance of their duties; and
+(h) specify the iwi or Māori to whom the wānanga is accountable for the effective governance and administration of the wānanga, and the things for which the wānanga is accountable (for example, the progress made towards achieving the purposes of the wānanga); and
+(i) set out what the wānanga must do to ensure adequate accountability for the effective governance and administration of the wānanga, including—
+(i) requirements for the efficient and prudent financial management of the wānanga; and
+(ii) requirements for financial reporting and reporting on other matters, including (without limitation) requiring wānanga to prepare, in accordance with generally accepted accounting practice (within the meaning of section 8 of the Financial Reporting Act 2013),—
+(A) a statement of service performance; and
+(B) annual financial statements; and
+(iii) the means by which risk to the operation and long-term viability of the wānanga will be managed, including the range or type of interventions available to address risk; and
+(iv) requirements for planning the long-term strategic direction and objectives of the wānanga in the performance of its functions; and
+(j) provide for the appointment of a chief executive, including—
+(i) the functions and duties of the chief executive; and
+(ii) the delegation of any functions or duties of the chief executive; and
+(k) set out any requirements relating to the appointment of employees of the wānanga; and
+(l) set out the things that the wānanga must do to ensure the fair and proper treatment of employees in all aspects of their employment; and
+(m) require the wānanga to publish an annual report on an Internet site maintained by or on behalf of the wānanga; and
+(n) require the annual report of the wānanga to include (without limitation) a statement of—
+(i) the number of employees or former employees of the wānanga who, in their capacity as employees, received remuneration of $100,000 or more (including compensation or other benefits) in the year to which the report relates; and
+(ii) the number of those employees or former employees in each bracket of remuneration in $10,000 increments.
+(5) An order made under subclause (2) may—
+(a) set out, by way of preamble, the contextual background for the conversion of the institution to a category B wānanga, including any acknowledgements by the Crown:
+(b) specify the means by which the council of the wānanga is to engage with the people who constitute the wānanga, and the iwi or Māori that the wānanga is accountable to for its effective governance and administration:
+(c) impose conditions on the performance or exercise of the functions, duties, or powers of the wānanga or its council:
+(d) specify limits on the number of times that people may be appointed to the council:
+(e) specify the term of office of members of the council:
+(f) specify the manner in which policies of the wānanga are to be determined:
+(g) provide for the establishment and membership of an academic committee to advise the council on matters relating to courses of study or training, awards, and other academic matters:
+(h) provide for any other matters that are necessary or desirable to—
+(i) provide for good governance of the wānanga; or
+(ii) clarify the arrangements for the administration of the wānanga.
+(6) For the purposes of subclause (4)(n), employees includes the chief executive appointed by the council of the wānanga.
+(7) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+95 Members of council cease to hold office on close of day before date of conversion
+(1) If an order is made under clause 94(2), every member of the council of the relevant wānanga that is holding office immediately before the date of conversion ceases to hold office on the close of the day before that date.
+(2) Neither the Crown, the wānanga, nor the council of the wānanga is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+96 Rights, assets, and liabilities of converted wānanga
+(1) This clause applies to all rights, assets, and liabilities that belong to a wānanga immediately before its date of conversion.
+(2) On and after the date of conversion,—
+(a) the rights, assets, and liabilities of the wānanga that was a category A wānanga or category C wānanga vest in the category B wānanga; and
+(b) unless the context otherwise requires, every reference to the wānanga that was a category A wānanga or category C wānanga in any enactment (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to the category B wānanga.
+(3) In this clause, assets, liabilities, and rights have the same meanings as in section 10(6).
+97 Same person for purposes of Inland Revenue Acts
+For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a wānanga that is a category B wānanga must, on and from the date of conversion, be treated as the same person as the wānanga it replaces.
+98 Employees of converted wānanga
+(1) On and after the date of conversion, every employee of the wānanga that was a category A wānanga or category C wānanga becomes an employee of the category B wānanga on the same terms and conditions that applied to the person immediately before they became an employee of the category B wānanga.
+(2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of that employee,—
+(a) the employee's employment agreement is to be treated as unbroken; and
+(b) the employee's period of service with the wānanga that was a category A wānanga or category C wānanga, and every other period of service of the employee that is recognised by that wānanga as continuous service, is to be treated as a period of service with the category B wānanga.
+(3) To avoid doubt, the employment by a category B wānanga of an employee to whom this clause applies does not constitute new employment for the purposes of any service-related benefits, whether legislative or otherwise.
+(4) An employee to whom this clause applies is not entitled to receive any payment or benefit from the wānanga that was a category A wānanga or category C wānanga or the category B wānanga on the grounds that—
+(a) the person's position in the wānanga that was a category A wānanga or category C wānanga has ceased to exist; or
+(b) the person has ceased to be an employee of that wānanga because of the transfer to the category B wānanga.
+(5) This clause overrides—
+(a) Part 6A of the Employment Relations Act 2000; and
+(b) any employment protection provision in any relevant employment agreement.
+99 Superannuation schemes
+(1) This clause applies to a person who, immediately before becoming an employee of a category B wānanga, was—
+(a) an employee of a category A wānanga or category C wānanga; and
+(b) a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is to be treated as being employed in the Government service as long as the person continues to be an employee of the category B wānanga.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the category B wānanga were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the category B wānanga is the controlling authority.
+(6) On and after the date of conversion, every reference to the wānanga that was a category A wānanga or category C wānanga as the employer in relation to any superannuation scheme must, unless the context otherwise requires, be read as a reference to the category B wānanga.
+100 Students of converted wānanga
+(1) This clause applies to every student enrolled at a wānanga that was a category A wānanga or category C wānanga immediately before its date of conversion to a category B wānanga.
+(2) On and after the date of conversion, the student must be treated as having been enrolled at the category B wānanga.
+(3) A student who would, but for the conversion, have been entitled to be granted an award of the wānanga that was a category A wānanga or category C wānanga is entitled to be granted a like award of the category B wānanga.
+101 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
+(a) a student, for the purposes of enrolment at a wānanga that was a category A wānanga or category C wānanga; or
+(b) a staff member of a wānanga that was a category A wānanga or category C wānanga.
+(2) On and after the date of conversion, any reference to the wānanga that was a category A wānanga or category C wānanga in a condition imposed on the visa must be read as a reference to the category B wānanga.
+102 Existing NZQA approvals, accreditations, and consents
+(1) This clause applies to the following that were granted to a wānanga that was a category A wānanga or category C wānanga by NZQA under this Act and in effect immediately before its date of conversion to a category B wānanga:
+(a) an approval of a programme under section 439:
+(b) an accreditation to provide all or part of a programme under section 441:
+(c) an approval to provide a micro-credential under section 445:
+(d) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449:
+(e) a consent to award a degree or a postgraduate qualification under section 454.
+(2) On and after the date of conversion,—
+(a) the approval, accreditation, or consent (including any conditions imposed on an approval, an accreditation, or a consent) must be treated as if it were granted to the category B wānanga; and
+(b) unless the context otherwise requires, every reference to the wānanga that was a category A wānanga or category C wānanga in the approval, accreditation, or consent must be read as a reference to the category B wānanga.
+103 Existing funding paid by TEC under funding mechanism
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to a wānanga—
+(a) in accordance with an approval granted under section 425(2); or
+(b) other than via a plan under section 428.
+(2) On and after the date of conversion,—
+(a) TEC must treat the funding for a wānanga that was a category A wānanga or category C wānanga as if it were payable to the category B wānanga unless that funding is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18; and
+(b) for the purposes of paragraph (a), every reference to the wānanga that was a category A wānanga or category C wānanga in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the category B wānanga.
+104 Other references to converted wānanga that were category A wānanga or category C wānanga
+On and after the date of conversion, every reference to a wānanga that was a category A wānanga or category C wānanga in any enactment (other than this Act) or document must, unless the context otherwise requires, be read as a reference to the category B wānanga.
+105 Existing proceedings and other matters
+(1) On and after the date of conversion,—
+(a) any proceedings by or against the wānanga that was a category A wānanga or category C wānanga may be continued or enforced by or against the category B wānanga without amendment to the proceedings; and
+(b) a matter or thing that would, but for this clause, have been completed by the wānanga that was a category A wānanga or category C wānanga may be completed by the category B wānanga; and
+(c) anything done, omitted to be done, or to be done, by or in relation to the wānanga that was a category A wānanga or category C wānanga is to be treated as having been done, omitted to be done, or to be done by or in relation to the category B wānanga.
+(2) In this clause, proceedings—
+(a) means civil and criminal proceedings; and
+(b) includes any enforcement or compliance action by TEC or NZQA.
+106 Converted wānanga must provide final report to Minister
+(1) Despite section 45J of the Public Finance Act 1989,—
+(a) a wānanga that is a category B wānanga and that is converted from a wānanga that was a category A wānanga or category C wānanga must provide a final report to the Minister in relation to the wānanga that was a category A wānanga or category C wānanga in accordance with section 45J(1) of that Act; and
+(b) the Minister may specify the contents of the final report and the date or dates by which the contents of the report must be provided.
+(2) Section 45L of the Public Finance Act 1989 does not apply to a wānanga that was a category A wānanga or category C wānanga and that is converted into a category B wānanga under clause 94(2).
+(3) The Minister must present a copy of the final report to the House of Representatives as soon as practicable after receiving it.
+(4) In this clause, Minister means the Minister responsible for the time being for administering this Part of this schedule.
+107 Validation of pre-commencement actions and processes for appointments to councils of converted wānanga
+(1) This clause applies to any action or process undertaken by a wānanga that was a category A wānanga or category C wānanga before the date of conversion when appointing members to the council of the category B wānanga.
+(2) An appointment is valid if the action or process substantially complies with this Act and the provisions of the relevant Order in Council establishing the category B wānanga.
+108 Membership of councils of category B wānanga reduced
+(1) The number of members of the council of a category B wānanga is reduced until the date on which each member referred to in the membership provisions of the relevant Order in Council is appointed to the council.
+(2) No action of the council of a category B wānanga is invalid just because any member referred to in subclause (1) has not been appointed to that council on the date of conversion.
+Subpart 2—Provision relating to election of board members who are parent representatives
+109 Timing of mid-term elections of board members who are parent representatives
+(1) This clause applies to a board that has decided under clause 4 of Schedule 23 to adopt a staggered election cycle in relation to the election of board members who are parent representatives.
+(2) Despite clause 4(3) of Schedule 23, the board must hold the next mid-term election of those board members that falls due after the commencement of this clause in November 2023.
