@@ -16,5 +16,6 @@
 (g) in respect of the consent authority's decision on an application or review described in subsections (2) to (5), for an applicant or consent holder, if the application or review was not notified.
 (2) Subsection (1)(f) and (g) apply to an application made under section 88 for a resource consent. However, they do not apply if the consent authority refuses to grant the resource consent under sections 104B and 104C. They do apply if an officer of the consent authority exercising delegated authority under section 34A refuses to grant the resource consent under sections 104B and 104C.
 (3) Subsection (1)(f) and (g) apply to an application made under section 127 for a change or cancellation of a condition of a resource consent.
+(3A) Subsection (1)(f) and (g) applies to a determination by a consent authority under clause 40 of Schedule 12 that the application for a resource consent is not primarily for an activity described in clause 40(3) of that schedule.
 (4) Subsection (1)(f) and (g) apply to a review of the conditions of a resource consent under sections 128 to 132.
 (5) Subsection (1)(f) and (g) apply to an application made under section 221 to vary or cancel a condition specified in a consent notice.

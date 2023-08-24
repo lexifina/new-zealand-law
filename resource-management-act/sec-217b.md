@@ -8,11 +8,12 @@ arable land use means the use of land to grow any of the following crops for har
 (e) crops grown for seed multiplication:
 (f) a crop prescribed in regulations made under section 217M(1)(a)
 auditor means a person who—
-(a) is appointed under section 217K; and
+(a) is appointed under section 217K or by an approved industry organisation; and
 (b) meets the criteria prescribed in regulations made under section 217M(1)(h)
+certification and audit services means the services prescribed for the purposes of section 217KA in regulations (if any) prescribed under section 217M
 certified freshwater farm plan means a freshwater farm plan certified under section 217G, as amended from time to time in accordance with section 217E(2) or (3)
 certifier means a person who—
-(a) is appointed under section 217K; and
+(a) is appointed under section 217K or by an approved industry organisation; and
 (b) meets the criteria prescribed in regulations made under section 217M(1)(h)
 farm means a farm where all or part of the farm is—
 (a) arable land use; or
@@ -25,4 +26,7 @@ horticultural land use means the use of land to grow food or beverage crops for 
 pastoral land use means the use of land for the grazing of livestock
 regulations means regulations made under section 217M
 relevant regional council means the regional council (as defined in section 2) in whose jurisdiction the farm is located
-specified instrument means any designation, national environmental standard, national planning standard, regulations made under Part 14, resource consent, rule in a plan, or water conservation order.
+specified instrument means any designation, national environmental standard, national planning standard, regulations made under Part 14, resource consent, rule in a plan, or water conservation order
+statutory land use area threshold,—
+(a) in relation to a land use described in any of paragraphs (a), (b), (c), and (e) of section 217D(1), means the area specified in that section for that land use:
+(b) in relation to the land use described in section 217D(1)(d), means the area prescribed in regulations made under section 217M for that land use.

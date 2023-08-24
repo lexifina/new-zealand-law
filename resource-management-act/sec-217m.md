@@ -11,6 +11,7 @@
 (i) time frames that must be complied with by the farm operator and certifier; and
 (ii) any fees payable by the farm operator or the manner of calculating those fees:
 (f) prescribe the circumstances in which a certified freshwater farm plan must be amended and recertified:
+(fa) prescribe requirements for approval of industry organisations under section 217KA, including any further obligations for approved industry organisations:
 (g) for the purpose of audits of farms for compliance with certified freshwater farm plans, prescribe—
 (i) the time frame by which a farm must be audited; and
 (ii) the frequency at which those audits must be carried out; and

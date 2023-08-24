@@ -1,5 +1,5 @@
 # 165U Public notice of offer of authorisations by regional council
-(1) A notice given under section 165I or 165P(1) must—
+(1) A notice given under section 165I(1) or 165P(1) must—
 (a) specify the activities that the authorisation will apply to after it is issued; and
 (b) describe the space in the common marine and coastal area that offers for authorisations are invited for, including the size and location of the space; and
 (c) subject to sections 123 and 123A, specify the maximum term of the coastal permit; and

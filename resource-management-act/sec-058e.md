@@ -1,6 +1,7 @@
 # 58E Approval of national planning standard
 (1) Before approving a national planning standard, the Minister must—
 (a) consider the report and recommendations made under section 58D(3)(d)(ii); and
+(aa) consider the desirability of consistency with the Natural and Built Environment Act 2023; and
 (b) carry out a further evaluation of the draft national planning standard in accordance with section 32AA and have particular regard to that evaluation when deciding whether to approve the national planning standard.
 (2) The Minister may—
 (a) approve a national planning standard after changing the draft in the manner that the Minister thinks fit; or

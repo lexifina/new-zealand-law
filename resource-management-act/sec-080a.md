@@ -1,14 +1,13 @@
 # 80A Freshwater planning process
 (1) The purpose of this subpart is to require all freshwater planning instruments prepared by a regional council to undergo the freshwater planning process.
 (2) A freshwater planning instrument means—
-(a) a proposed regional plan or regional policy statement for the purpose of giving effect to any national policy statement for freshwater management:
-(b) a proposed regional plan or regional policy statement that relates to freshwater (other than for the purpose described in paragraph (a)):
-(c) a change or variation to a proposed regional plan or regional policy statement if the change or variation—
-(i) is for the purpose described in paragraph (a); or
-(ii) otherwise relates to freshwater.
-(3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1. However, if the council is satisfied that only part of the instrument relates to freshwater, the council must—
-(a) prepare that part in accordance with this subpart and Part 4 of Schedule 1; and
-(b) prepare the parts that do not relate to freshwater in accordance with Part 1 of Schedule 1 or, if applicable, subpart 5 of this Part.
+(a) any part of a proposed regional plan or regional policy statement that relates to objectives that give effect to the national policy statement for freshwater management:
+(b) any provisions of a proposed regional plan or regional policy statement in relation to which the regional council has decided to use the freshwater planning process under subsection (6B)(b):
+(c) any regional policy statement (including any change or variation to the statement) in relation to which the council has decided to use the freshwater planning process under subsection (6B)(c):
+(d) any change or variation to a proposed regional plan or regional policy statement if the change or variation—
+(i) relates to objectives that give effect to the national policy statement for freshwater management; or
+(ii) relates to a provision described in paragraph (b).
+(3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1.
 (4) A regional council must—
 (a) publicly notify the freshwater planning instrument; and
 (b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2024; and
@@ -27,6 +26,13 @@
 (a) clauses 1(3), 1A, 1B, 2(1), 3 to 3C, 4A, 5, 6, 7(1) and (2), 8, 8A, and 8D; and
 (b) clauses 16, 16A, 16B, 17, 20, and 20A; and
 (c) if a request is made by a person under clause 21(1) in relation to a freshwater planning instrument, Part 2 of Schedule 1 applies to the request.
+(6A) A proposed regional plan or regional policy statement (or any part of it) relates to freshwater if—
+(a) it relates (in whole or in part) to an objective of the regional plan or regional policy statement; and
+(b) the objective relates to the performance of a function in section 30(1)(c), (e), (f), (fa), (g), or (ga).
+(6B) A regional council—
+(a) must use the freshwater planning process when preparing any part of a regional plan or regional policy statement that relates to objectives that give effect to the national policy statement for freshwater management; and
+(b) may use the freshwater planning process when preparing other provisions of a regional plan or regional policy statement that relate to freshwater; and
+(c) may use the freshwater planning process when preparing a regional policy statement or change or variation to the statement if the council is satisfied that doing so is necessary to achieve integrated management of the natural and physical resources of the whole region.
 (7) This section does not affect the Minister's ability to call in a matter that the Minister considers is or is part of a proposal of national significance under section 142.
 (8) In subsection (2), a proposed regional plan does not include a proposed regional coastal plan or a change or variation to that plan.
 (9) Section 37(1)(a) does not apply to any time period specified in this subpart or Part 4 of Schedule 1.

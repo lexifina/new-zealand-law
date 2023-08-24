@@ -96,6 +96,9 @@ Exemption applies
 Misuse of Drugs Act 1975
 Section 4(1), (1B)
 Exemption applies
+Natural and Built Environment Act 2023
+Section 167
+Exemption applies
 Ombudsmen Act 1975
 Section 15
 Exemption applies
