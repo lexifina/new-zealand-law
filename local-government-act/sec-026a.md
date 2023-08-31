@@ -6,7 +6,7 @@
 (a) significantly prejudice the implementation of the reorganisation plan; or
 (b) significantly constrain the powers or capacity of any local authority to be established or changed under the final proposal, or any subsidiary of any such local authority, following the implementation of the final proposal; or
 (c) have a significant negative impact on the assets or liabilities that may be transferred to any local authority in the implementation of the final proposal.
-(5) A local authority that receives a report or recommendation from the Commission under clause 9 of Schedule 3 must—
+(5) A local authority that receives a report or recommendation from the Commission under clause 9 of Schedule 3 or clause 8 of Schedule 3A must—
 (a) make the report or recommendation publicly available; and
 (b) consider and respond to the Commission in relation to the report or recommendation; and
 (c) make the response publicly available.
