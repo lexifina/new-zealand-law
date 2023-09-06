@@ -744,8 +744,8 @@ Adjustments for low earners
 (i) in the category of earners liable to pay the minimum levy set in regulations made for the purposes of section 168B; or
 (ii) an earner in full-time employment; and
 (b) had weekly earnings calculated under clause 41 or, if that clause does not apply, under any of clauses 34, 36, 38, or 39 of less than the minimum weekly earnings as determined under subclause (3); and
-(c) is incapacitated for more than 5 weeks after the incapacity first commenced.
-(2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the 5-week period, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
+(c) is incapacitated for more than 1 week after the incapacity first commenced.
+(2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the first week of incapacity, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
 (3) The minimum weekly earnings are,—
 (a) for a person under the age of 18 years, the amount as at each assessment date that is the greatest of—
 (i) the minimum weekly adult rate prescribed under section 4 of the Minimum Wage Act 1983; and
