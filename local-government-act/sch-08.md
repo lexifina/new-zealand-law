@@ -13,9 +13,7 @@ The board must deliver the completed statement of intent to the shareholders bef
 4 Shareholding local authority may extend deadlines by up to 1 month
 The shareholders of a council-controlled organisation may, by written notice, extend a deadline specified in clause 1(2), 2, or 3 for a period or periods not exceeding in total 1 calendar month.
 4A 2023/2024 statement of intent
-(1) Clause 4 does not apply to a local authority in a severe weather events affected area.
-(2) The shareholders of a council-controlled organisation in a severe weather events affected area may, by written notice, extend a deadline specified in clause 1(2), 2, or 3 for a period or periods not exceeding in total 3 calendar months.
-(3) This clause is repealed on the close of 30 September 2023.
+[Repealed]
 5 Modifications of statements of intent
 The board may, by written notice, modify a statement of intent at any time if the board has first—
 (a) given written notice to the shareholders of the proposed modification; and
