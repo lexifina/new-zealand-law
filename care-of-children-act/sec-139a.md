@@ -1,8 +1,8 @@
 # 139A Leave required in certain cases to commence substantially similar proceedings
-(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56 without the leave of the court if that new proceeding—
+(1) A proceeding (a new proceeding) may not be commenced under section 46R, 48, or 56 without the leave of a Family Court Associate or Family Court Judge if that new proceeding—
 (a) is substantially similar to a proceeding previously filed in the Family Court by any person (a previous proceeding); and
 (b) is to be commenced less than 2 years after the final direction or order was given in the previous proceeding.
-(2) The leave of the court may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
+(2) Leave may only be given under subsection (1) if, since the final direction or order was given in the previous proceeding, there has been a material change in the circumstances of—
 (a) any party to the previous proceeding:
 (b) any child who was the subject of the previous proceeding.
 (3) In this section, a new proceeding is substantially similar to a previous proceeding if—
