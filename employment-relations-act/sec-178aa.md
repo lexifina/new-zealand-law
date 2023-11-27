@@ -1,0 +1,2 @@
+# 178AA Removal to court of proceeding involving national security information
+If the Attorney-General gives written notice to the Authority that the Crown intends to make an SI application (under section 32 of the Security Information in Proceedings Act 2022) in connection with proceedings before the Authority, section 44 of that Act applies as if a reference in that section to the District Court were a reference to the Authority and a reference to the High Court were a reference to the Employment Court.

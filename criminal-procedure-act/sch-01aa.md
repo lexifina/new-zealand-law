@@ -1,5 +1,5 @@
 # Schedule 1AA Transitional, savings, and related provisions
-ss 5A, 7A
+s 7A
 Part 1 Provisions relating to Oranga Tamariki Legislation Act 2019
 1 Interpretation
 In this Part,—
@@ -31,3 +31,11 @@ Part 3 Provision relating to Part 3 of Sexual Violence Legislation Act 2021
 (3) However, the following provisions apply, after they (or, as the case requires, after the amendments made to them by that Part) come into force, to proceedings specified in subclause (2):
 (a) section 196(3) (court proceedings generally open to public):
 (b) section 199AA (court may be cleared when victim impact statement read or otherwise presented to court in cases of sexual nature).
+Part 4 Provisions relating to Security Information in Proceedings (Repeals and Amendments) Act 2022
+6 Interpretation
+In this Part, unless the context otherwise requires,—
+2022 Act means sections 12 to 31 of the Security Information in Proceedings (Repeals and Amendments) Act 2022
+commencement date means the date on which the 2022 Act comes into force.
+7 Proceedings affected by amendments
+(1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to proceedings commenced on or after the commencement date.
+(2) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if those amendments had not been enacted.
