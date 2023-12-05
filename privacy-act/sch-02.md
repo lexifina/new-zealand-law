@@ -156,49 +156,6 @@ New Zealand Police
 (d) non-disclosure direction made, withdrawn, or expired in relation to an individual's birth information:
 (e) non-disclosure direction made, withdrawn, or expired in relation to an individual's name change information, if the individual's birth is registered in New Zealand:
 (f) non-disclosure direction made, withdrawn, or expired in relation to an individual's name change information, if the individual's birth is not registered in New Zealand.
-Information Sharing Agreement facilitating customer nominated services made on 4 May 2020
-(a) the accurate and efficient assessment of eligibility for and entitlement to receive public services that an individual applies for or decides to utilise:
-(b) the accurate and efficient delivery of public services that an individual applies for or decides to utilise:
-(c) the prevention, detection, investigation, and prosecution of offences, and the conduct of civil proceedings, including judicial review
-https://www.dia.govt.nz Department of Internal Affairs
-(1) identifying information:
-(2) citizenship information:
-(3) New Zealand passport information:
-(4) New Zealand certificate of identity information:
-(5) New Zealand refugee travel document information:
-(6) electronic identity credential application information:
-(7) birth information:
-(8) pre-sexual assignment or reassignment:
-(9) death information:
-(10) marriage information:
-(11) civil union information:
-(12) name change information:
-(13) name change lodgements:
-(14) overseas death information:
-(15) overseas name change information:
-(16) overseas marriage and civil union information:
-(17) non-disclosure directions information:
-(18) driver licence information:
-(19) driver licence images:
-(20) demerit points:
-(21) information relating to current debt to the Crown held by New Zealand Transport Agency, Ministry of Education, Ministry of Social Development, Registrar of Motor Vehicles, and RUC collector (as defined in section 5(1) of the Road User Charges Act 2012):
-(22) information relating to historic debt to the Crown held by New Zealand Transport Agency, Ministry of Education, Ministry of Social Development, Registrar of Motor Vehicles, and RUC collector (as defined in section 5(1) of the Road User Charges Act 2012):
-(23) information relating to current debt to the Accident Compensation Corporation:
-(24) information relating to historic debt to the Accident Compensation Corporation:
-(25) parents' or caregivers' contact details:
-(26) confirmation individual known to Ministry of Social Development:
-(27) current visa information:
-(28) historic visa information:
-(29) details of known or suspected offending relevant to consideration of an individual's liability for deportation:
-(30) English proficiency:
-(31) a notification from Ministry of Business, Innovation, and Employment that more information exists in relation to an individual's character that is potentially relevant to a good character test:
-(32) assessment of character:
-(33) travel movements:
-(34) overseas birth information:
-(35) overseas citizenship information:
-(36) overseas passport and certificate of identity information:
-(37) information in overseas police reports held by Ministry of Business, Innovation, and Employment:
-(38) confirmation individual known to Ministry of Education
 Information Sharing Agreement between Department of Internal Affairs and Registrar-General made on 18 October 2019
 (a) the efficient provision of identity services:
 (b) the prevention, detection, investigation, and prosecution of offences:
@@ -283,7 +240,7 @@ Inland Revenue
 Information Sharing Agreement Facilitating Access to Information about Deaths made on 22 November 2022
 (a) the accurate and efficient assessment of eligibility for and entitlement to receive public services:
 (b) the accurate and efficient delivery of public services by the Registrar-General and the other public sector agencies that are parties:
-(c) the provision by the Registrar-General of accurate death information and overseas death information to parties that are New Zealand private sector agencies for their use in accordance with the agreement and clause 10:
+(c) the provision by the Registrar-General of accurate death information and overseas death information to parties that are New Zealand private sector agencies for their use in accordance with the agreement and clause 10 of the Privacy (Information Sharing Agreement Facilitating Access to Information about Deaths) Order 2023:
 (d) mortality reviews and advice on how to reduce preventable deaths:
 (e) the prevention, detection, investigation, and prosecution of offences, and the conduct of civil proceedings, including judicial review
 https://www.dia.govt.nz Department of Internal Affairs
