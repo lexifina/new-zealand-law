@@ -64,7 +64,7 @@ Provisions of enactments relating to the practice or procedure of any of the fol
 (p) the social security appeal authority, benefits review committees, and medical board established by or under the Social Security Act 2018:
 (q) the Student Allowance Appeal Authority appointed under the Education and Training Act 2020:
 (r) the Tenancy Tribunal constituted under the Residential Tenancies Act 1986:
-(s) the Environment Court continued by the Natural and Built Environment Act 2023:
+(s) the Environment Court continued by the Resource Management Act 1991:
 (t) the Waitangi Tribunal established under the Treaty of Waitangi Act 1975:
 (u) Review Tribunals established under the Mental Health (Compulsory Assessment and Treatment) Act 1992:
 (v) the Plumbers, Gasfitters, and Drainlayers Board continued by the Plumbers, Gasfitters, and Drainlayers Act 2006.

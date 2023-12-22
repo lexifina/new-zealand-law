@@ -13,4 +13,5 @@
 (3) The policy adopted under subsection (1) must list the assets considered by the local authority to be strategic assets.
 (4) A policy adopted under subsection (1) may be amended from time to time.
 (5) When adopting or amending a policy under this section, the local authority must consult in accordance with section 82 unless it considers on reasonable grounds that it has sufficient information about community interests and preferences to enable the purpose of the policy to be achieved.
+(5A) [Repealed]
 (6) To avoid doubt, section 80 applies when a local authority deviates from this policy.

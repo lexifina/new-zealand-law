@@ -26,11 +26,9 @@ A removal order does not take effect unless—
 (ii) if an objection is made, the court, after considering the objection, confirms the order under section 218(1) with or without variation.
 Compare: 1974 No 66 s 692ZD(5)
 4 Circumstances when certain other Acts do not apply
-A removal order may be made under section 216 even if the fence, structure, or vegetation—
-(a) does not contravene a rule in a plan or in a proposed plan to which section 19 of the Resource Management Act 1991 applies; or
-(b) has been constructed or is otherwise in accordance with—
-(i) a resource consent granted under the Resource Management Act 1991; or
-(ii) a building consent granted under the Building Act 2004.
+A removal order may be made under section 216 even if the fence, structure, or vegetation has been constructed or is otherwise in accordance with—
+(a) a resource consent granted under the Resource Management Act 1991; or
+(b) a building consent granted under the Building Act 2004.
 Compare: 1974 No 66 s 692ZD(7)
 5 Evidence of conviction
 (1) For the purposes of proceedings under subpart 4 of Part 9, proof that a respondent or any other person has been convicted of an offence by any court in New Zealand is conclusive evidence that that person committed the offence, and the conviction is admissible in evidence.

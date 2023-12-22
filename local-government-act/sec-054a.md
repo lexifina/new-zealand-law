@@ -3,6 +3,7 @@
 (a) members of the local authority; and
 (b) members who have been elected under the Local Electoral Act 2001 to a community board that is part of the local authority; and
 (c) members who have been elected under the Local Electoral Act 2001 to a local board that is part of the local authority.
+(1A) [Repealed]
 (2) The register must comprise the pecuniary interest returns that—
 (a) are made by members under section 54C; and
 (b) contain all information in any pecuniary interest return that is required to be disclosed under sections 54E and 54F, and include any notifications made under section 54D of errors or omissions in those returns.

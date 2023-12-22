@@ -10,7 +10,7 @@
 (3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1.
 (4) A regional council must—
 (a) publicly notify the freshwater planning instrument; and
-(b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2024; and
+(b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2027; and
 (c) no later than 6 months after it has publicly notified the freshwater planning instrument, submit the documents required by clause 37(1) of Schedule 1 (the required documents) to the Chief Freshwater Commissioner; and
 (d) at least 20 working days before submitting the required documents, provide to the Chief Freshwater Commissioner in writing—
 (i) its notice of intention to submit those documents; and

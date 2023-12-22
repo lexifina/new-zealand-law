@@ -15,6 +15,7 @@
 (c) appointing, in accordance with clause 30 of Schedule 7, 1 or more committees in addition to any established by the mayor under subsection (3)(b); or
 (d) discharging, in accordance with clause 31 of Schedule 7, a chairperson appointed by the mayor under subsection (3)(c).
 (5) A mayor is a member of each committee of a territorial authority.
+(5A) [Repealed]
 (6) To avoid doubt, a mayor must not delegate any of his or her powers under subsection (3).
 (7) To avoid doubt,—
 (a) clause 17(1) of Schedule 7 does not apply to the election of a deputy mayor of a territorial authority unless the mayor of the territorial authority declines to exercise the power in subsection (3)(a):

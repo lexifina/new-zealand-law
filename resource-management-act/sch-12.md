@@ -239,63 +239,14 @@ Part 6 Provision relating to Remuneration Authority Legislation Act 2022
 (1) A person who immediately before the commencement date held office as an Environment Commissioner or a Deputy Environment Commissioner continues to be paid the same amount of remuneration and allowances that applied to that office immediately before that date, until new remuneration and allowances are determined by the Remuneration Authority under section 263(1)(a).
 (2) In this clause, commencement date means the date on which the Remuneration Authority Legislation Act 2022 comes into force.
 Part 6 Provisions relating to Natural and Built Environment Act 2023
+[Repealed]
 38 Interpretation
-In this Part, unless the context otherwise requires,—
-affected resource consent means any of the following resource consents for the following activities under this Act:
-(a) a water permit for an activity that takes, uses, dams, or diverts freshwater:
-(b) a discharge permit for an activity that—
-(i) discharges any contaminant or water into freshwater; or
-(ii) discharges any contaminant onto or into land in circumstances that may result in that contaminant (or any other contaminant emanating as a result of natural processes from that contaminant) entering freshwater:
-(c) a land use consent for an activity that would otherwise contravene section 15(1)(b) by discharging a contaminant onto or into land in circumstances that may result in the contaminant entering freshwater
-applicable interim period, in relation to an application for an affected resource consent, means the period—
-(a) commencing on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent; and
-(b) ending on the date that the relevant rules for the region (in which the application is lodged) have legal effect in accordance with clause 6(4) of Schedule 1 of the Natural and Built Environment Act 2023
-relevant rules means rules in the first natural and built environment plan for a region that provide for allocation methods.
+[Repealed]
 39 Duration of affected resource consent
-(1) The duration of an affected resource consent must be determined in accordance with this clause if, during the applicable interim period,—
-(a) an application for an affected resource consent is lodged with a consent authority; and
-(b) the consent authority grants the application.
-(2) The consent authority may grant the affected resource consent for a fixed period or require that it expire by a fixed date but, in either case, the duration of the consent must not exceed 5 years after the date that the relevant rules have legal effect in accordance with clause 6(4) of Schedule 1 of the Natural and Built Environment Act 2023.
-(3) A consent authority must, no later than 10 working days after receiving an application for an affected resource consent, notify the applicant whether clauses 38 to 40 are relevant to their application.
-(4) Subclause (3) does not apply if the consent authority determines under section 88(3) that the application is incomplete and returns it to the applicant in accordance with section 88(3A).
+[Repealed]
 40 When clause 39 does not affect duration of resource consent
-(1) Clause 39 does not affect the duration of an affected resource consent if—
-(a) a person (regardless of whether they are a holder of an affected resource consent)—
-(i) applies, during the applicable interim period, for an affected resource consent (or an affected resource consent for the same activity applied for in accordance with section 124); and
-(ii) seeks, as part of their resource consent application, a determination from the consent authority that clause 39 does not affect the duration of the consent; and
-(iii) demonstrates that the application is primarily for an activity described in subclause (3); and
-(b) the consent authority determines that clause 39 does not affect the duration of the consent after being satisfied that the application is primarily for an activity described in subclause (3).
-(2) If subclause (1)(b) applies, the consent authority must determine the duration of the affected resource consent in accordance with sections 104 and 123.
-(3) The activities referred to in subclause (1)(a)(iii) and (b) are as follows:
-(a) the construction, operation, upgrading, or maintenance of local authority or community reticulated water supply networks:
-(b) the construction, operation, upgrading, and maintenance of infrastructure that forms part of a public wastewater or stormwater network:
-(c) the operation, upgrading, or maintenance of any hydro-electricity generation scheme that exists on the day after the date that the Natural and Built Environment Act 2023 receives the Royal assent:
-(d) the construction, operation, upgrading, or maintenance of any of the following infrastructure activities:
-(i) State highways:
-(ii) the high-pressure gas transmission pipeline network operating in the North Island:
-(iii) the national grid electricity transmission network or local distribution network:
-(iv) the New Zealand rail network (including light rail):
-(v) renewable electricity generation facilities, excluding any hydro-electricity generation facility, that connect directly to the national grid electricity transmission network or that connect to a local distribution network:
-(vi) any airport used for regular air transport services by aeroplanes capable of carrying more than 30 passengers:
-(vii) port facilities of each port company referred to in item 6 of Part A of Schedule 1 of the Civil Defence Emergency Management Act 2002:
-(viii) infrastructure that forms part of a public telecommunications network:
-(e) replacement, repair, or removal activities for the purpose of an activity described in paragraphs (a) to (d):
-(f) an activity specified in an Order in Council made under this clause.
-(4) The activities described in subclause (3)(d)(vi) and (vii) do not include any ancillary commercial activity or facilities for that activity.
-(5) The Governor-General may, on the recommendation of the Minister, make regulations specifying further infrastructure activities that are not affected by clause 39.
-(6) Before making a recommendation under subclause (5), the Minister must be satisfied that the activity is—
-(a) an infrastructure activity that has regional or national significance; or
-(b) an activity that is associated with an activity described in paragraph (a); or
-(c) the construction, operation, upgrading, and maintenance of water storage facilities for the purpose of improving outcomes related to resilience to environmental change or climate change.
-(7) Regulations made under this clause are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+[Repealed]
 41 Public notification of applications for affected resource consent for same activity precluded
-(1) During the applicable interim period, a consent authority must not give public notification of an application for an affected resource consent if—
-(a) clause 39 would affect the duration of the consent if the application were granted; and
-(b) the application is for the same activity to which an application under section 124 relates.
-(2) To avoid doubt, subclause (1)—
-(a) applies despite any provision of this Act or any rule in a national environmental standard or regional plan; and
-(b) does not prevent a consent authority from giving limited notification of the affected resource consent.
-(3) However, this clause does not apply if an applicant for an affected resource consent requests that the consent authority give public notification of the application.
+[Repealed]
 42 Submitters' appeal rights restricted for limited notified affected resource consent application
-(1) This section applies to a person who made a submission on a limited notified application for an affected resource consent the duration of which has been determined in accordance with clause 39(2).
-(2) The person may not, despite section 120(1)(b), appeal against the whole or any part of a decision of a consent authority on the application, unless the Environment Court is satisfied that the person has an interest in the application that is greater than the interest that the general public has.
+[Repealed]
