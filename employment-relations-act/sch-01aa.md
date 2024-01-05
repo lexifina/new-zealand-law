@@ -135,3 +135,6 @@ Individual employment agreements
 (b) if applicable, notify a controlling third party that the employee considers that the actions of the controlling third party caused or contributed to the personal grievance.
 (2) Sections 114 to 115A (as amended by the 2023 amendment Act) apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred or came to the notice of the employee on or after the date of commencement.
 (3) Sections 114 to 115A (as they read immediately before commencement) continue to apply in respect of a personal grievance if the action alleged to amount to the personal grievance occurred and came to the notice of the employee before commencement.
+Part 6 Provision relating to Worker Protection (Migrant and Other Employees) Act 2023
+22 Transitional provision relating to section 229 of this Act
+Section 229 (as amended by the Worker Protection (Migrant and Other Employees) Act 2023) applies to documents and employment information created before or after that amendment.
