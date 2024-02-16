@@ -4,7 +4,8 @@
 (b) the condition is directly connected to 1 or more of the following:
 (i) an adverse effect of the activity on the environment:
 (ii) an applicable district or regional rule, or a national environmental standard:
-(iii) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021; or
+(iii) a wastewater environmental performance standard made under section 138 of the Water Services Act 2021:
+(iv) a stormwater environmental performance standard made under section 139A of the Water Services Act 2021; or
 (c) the condition relates to administrative matters that are essential for the efficient implementation of the relevant resource consent.
 (2) Subsection (1) does not limit this Act or regulations made under it.
 (3) This section does not limit section 77A (power to make rules to apply to classes of activities and specify conditions), 106 (consent authority may refuse subdivision consent in certain circumstances), or 220 (condition of subdivision consents).

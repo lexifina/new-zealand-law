@@ -197,7 +197,7 @@ When deciding whether to undertake a reorganisation investigation under clause 5
 7 Commission must adopt reorganisation investigation process
 (1) As soon as practicable after it makes a decision under clause 5(1)(b) to undertake a reorganisation investigation, the Commission must determine and adopt a process for the investigation and record that process in writing.
 (2) The process document must set out how the Commission intends to undertake the investigation, including—
-(a) the matters to be investigated (which must include any connections with, and any potential implications for, a relevant water services entity and the application of the Water Services Entities Act 2022); and
+(a) the matters to be investigated; and
 (b) the affected area and the local authorities affected by the investigation; and
 (c) the procedure and timetable for the investigation; and
 (d) each affected iwi or hapū, and how and when they will be given an opportunity to engage with the investigation; and
@@ -218,9 +218,7 @@ When deciding whether to undertake a reorganisation investigation under clause 5
 (C) public acceptance of the process and the potential outcome; and
 (iii) appropriately balance the costs and benefits of different processes.
 (4) Before adopting a process document under subclause (1), the Commission must—
-(a) consult the following on the proposed process or amendment:
-(i) affected local authorities; and
-(ii) the relevant water services entities, their territorial authority owners, regional representative groups, mana whenua, and the responsible Minister and monitor under the Water Services Entities Act 2022; and
+(a) consult affected local authorities on the proposed process or amendment; and
 (b) consult all affected iwi or hapū about whether, and how, the proposed reorganisation investigation, or any reorganisation plan that may result from the investigation, may affect their relationship with their ancestral land, water, sites, wāhi tapu, valued flora and fauna, and other taonga, or affect their relationships with local authorities.
 (5) The Commission may adopt an amendment to a process document under subclause (1) at any time and must do so if there is a significant departure from the process.
 (6) The Commission must, as soon as practicable after adopting or amending a process document,—
@@ -229,7 +227,7 @@ When deciding whether to undertake a reorganisation investigation under clause 5
 (c) notify the following of the publication and location of the process document:
 (i) all affected local authorities; and
 (ii) affected iwi or hapū; and
-(iii) the relevant water services entities, their territorial authority owners, regional representative groups, mana whenua, and the responsible Minister and monitor under the Water Services Entities Act 2022; and
+(iii) [Repealed]
 (iv) key stakeholders identified by the Commission.
 8 Commission may require assistance and undertake inquiries when conducting investigations and preparing reorganisation plan
 (1) In conducting an investigation or preparing a reorganisation plan, the Commission may require a local authority that is affected by the investigation or the plan to provide information to assist the Commission.
@@ -247,10 +245,8 @@ In assessing the desirability of options for the reorganisation of local governm
 (f) enhanced effectiveness, efficiency, and sustainability of local government services; and
 (g) better support for the ability of local and regional economies to develop and prosper; and
 (h) enhanced ability of local government to meet the changing needs of communities for governance and services into the future; and
-(i) effective provision for any co-governance and co-management arrangements that are established by legislation (including Treaty of Waitangi claim settlement legislation) and that are between local authorities and iwi or Māori organisations; and
-(j) effective provision for any arrangements that are—
-(i) established by the Water Services Entities Act 2022; and
-(ii) between local authorities and iwi or Māori organisations.
+(i) effective provision for any co-governance and co-management arrangements that are established by legislation (including Treaty of Waitangi claim settlement legislation) and that are between local authorities and iwi or Māori organisations.
+(j) [Repealed]
 11 Completion of investigation
 As soon as practicable after completing an investigation, the Commission must—
 (a) give public notice of the completion of the investigation; and
@@ -272,14 +268,12 @@ Subpart 1—Adoption and notification of reorganisation plan
 (c) the risks and consequences of not implementing the proposed changes at the proposed time; and
 (d) existing communities of interest and the extent to which the proposed changes will maintain linkages between communities (including iwi and hapū) and sites and resources of significance to them; and
 (e) the degree and distribution of demonstrable public support for the proposed changes within communities in the affected area; and
-(f) the degree and distribution of any public opposition to the proposed changes within communities in the affected area; and
-(g) the implications of the proposed changes for the arrangements in or established under the Water Services Entities Act 2022.
+(f) the degree and distribution of any public opposition to the proposed changes within communities in the affected area.
+(g) [Repealed]
 (3) The Commission must not adopt a reorganisation plan under this clause that affects the application of any Act that establishes co-governance or co-management arrangements between local authorities and iwi or Māori organisations (including Treaty of Waitangi claim settlement legislation), without first consulting all iwi or Māori organisations to whom that Act applies, the Attorney-General, and the Minister for Treaty of Waitangi Negotiations.
 (4) A reorganisation plan to which subclause (3) applies must provide for the same level and scope of participation in decision making by iwi or Māori organisations as the arrangement specified in the Act referred to in that subclause.
-(5) The Commission must not adopt a reorganisation plan under this clause that affects the arrangements in or established under the Water Services Entities Act 2022 without first consulting—
-(a) the relevant water services entities, regional representative groups, territorial authority owners, and mana whenua under the Act; and
-(b) the responsible Minister and monitor under the Act.
-(6) A reorganisation plan to which subclause (5) applies must provide for the same level and scope of participation in decision making by iwi or Māori organisations as the arrangement specified in the Act referred to in that subclause.
+(5) [Repealed]
+(6) [Repealed]
 13 Notification of reorganisation plan
 (1) As soon as practicable after adopting a reorganisation plan, the Commission must—
 (a) give public notice of the plan and, in the notice, specify where copies of the plan may be inspected; and
@@ -306,9 +300,7 @@ Subpart 1A—Content of reorganisation plans
 (vi) the committees of the local authority; and
 (vii) the statutory obligations of the local authority; and
 (viii) any constraints imposed on the local authority's exercise of the discretion conferred by section 12(2); and
-(ix) any arrangements relating to water services entities under the Water Services Entities Act 2022, including (but not limited to)—
-(A) any proposed changes to the arrangements for the ownership of those entities by territorial authorities; and
-(B) the composition of regional representative groups; and
+(ix) [Repealed]
 (d) any other matters the Commission considers necessary or desirable.
 (3) The reorganisation plan must describe, for each local authority proposed to be established,—
 (a) the type of local authority; and
@@ -318,12 +310,10 @@ Subpart 1A—Content of reorganisation plans
 (e) the names and areas of interest of all affected iwi or hapū; and
 (f) any local board areas and any local boards of the local authority; and
 (g) any communities and any community boards of the local authority; and
-(ga) any arrangements relating to water services entities under the Water Services Entities Act 2022, including (but not limited to)—
-(i) any proposed changes to the arrangements for the ownership of those entities by territorial authorities; and
-(ii) the composition of regional representative groups; and
+(ga) [Repealed]
 (h) any other matters the Commission considers necessary or desirable.
 (4) However, the Commission may, if it considers it more appropriate to do so, defer including in a reorganisation plan the representation arrangements or community board arrangements, or both, and include them in the reorganisation implementation scheme.
-(4A) However, a reorganisation plan must include, and the Commission cannot defer and include in the reorganisation implementation scheme, the matters in subclause (3)(ga).
+(4A) [Repealed]
 (5) The reorganisation plan must also—
 (a) contain information about the role, powers, and composition of the transition body, including—
 (i) whether the transition body will include a transition board; and
