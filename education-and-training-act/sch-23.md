@@ -119,6 +119,7 @@ Compare: 1989 No 80 s 102
 (i) competence to manage their own affairs in relation to their property; or
 (ii) capacity to make or to communicate decisions relating to any particular aspect or aspects of their personal care and welfare:
 (f) a person who has been convicted of an offence punishable by imprisonment for a term of 2 years or more, or who has been sentenced to imprisonment for any other offence, unless that person has obtained a pardon, served the sentence, or otherwise suffered the penalty imposed on the person:
+(fa) a person who has been convicted of a specified offence identified in Schedule 2 of the Children's Act 2014, unless that person has obtained a pardon or been granted an exemption under subclause (5):
 (g) a person who is not a New Zealand citizen and—
 (i) to whom section 15 or 16 of the Immigration Act 2009 applies; or
 (ii) who is obliged by or under that Act or any other enactment to leave New Zealand immediately by or within a specified time (being a time that, when specified, was less than 12 months); or
@@ -126,6 +127,9 @@ Compare: 1989 No 80 s 102
 (2) Any permanently appointed member of the board staff may, if otherwise eligible for election, be elected as a staff representative, but no permanently appointed member of the board staff may be otherwise elected to the board or be appointed or co-opted onto the board.
 (3) A non-permanently appointed member of the board staff may, if otherwise eligible, be elected, appointed, or co-opted onto the board.
 (4) A person who has been appointed returning officer for an election of board members is not eligible to be nominated as a candidate in the election.
+(5) The Secretary may, on application, grant an exemption under this subclause to a person described in subclause (1)(fa) that allows the person to serve as a board member if the Secretary is satisfied that the person would not pose an undue risk to the safety of children.
+(6) The Secretary may, from time to time, audit an elected, appointed, or co-opted board member's continuing eligibility under subclause (1) to be a board member.
+(7) For the purposes of subclause (6), the board member must permit the Secretary to obtain any relevant information to enable the Secretary to conduct the audit.
 Compare: 1989 No 80 s 103
 10 Financial interests that disqualify persons from being board members
 (1) A person is not capable of being a board member or a member of a committee of a board if the total of all payments made or to be made by or on behalf of the board in respect of all contracts made by it in which that person is concerned or interested exceeds in any financial year—
@@ -159,7 +163,8 @@ Casual vacancies
 (b) resigns by written notice to the board; or
 (c) is absent from 3 consecutive board meetings without the prior leave of the board; or
 (d) becomes a person who (in terms of clause 9(1)) may not become an elected, appointed, or co-opted board member; or
-(e) is removed by the Minister under section 169(2).
+(e) is removed by the Minister under section 169(2); or
+(f) fails to provide permission under clause 9(7) to enable the Secretary to obtain relevant information for the purpose of auditing the board member's continuing eligibility to be a board member.
 (2) If a property order is made in respect of a board member under section 30 of the Protection of Personal and Property Rights Act 1988 (which relates to temporary orders),—
 (a) subclause (1)(d) does not apply to the board member owing only to the making of that order; but
 (b) while the order remains in force, the board member is to be treated as having been granted leave of absence by the board and is not capable of acting as a board member during that period.
