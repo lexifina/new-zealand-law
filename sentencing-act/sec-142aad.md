@@ -1,0 +1,2 @@
+# 142AAD Offence to remove forfeited vehicle
+A person who removes or attempts to remove a motor vehicle surrendered to or seized by a bailiff or constable under section 132 (as modified by section 142AAF) from the custody of that bailiff or constable, or from the custody of the Registrar of the court (without the approval of the Registrar), commits an offence and is liable on conviction to a fine not exceeding $200.
