@@ -62,3 +62,4 @@ Te Rarawa Claims Settlement Act 2015
 Te Roroa Claims Settlement Act 2008
 Te Uri o Hau Claims Settlement Act 2002
 Waitaha Claims Settlement Act 2013
+Whakatōhea Claims Settlement Act 2024
