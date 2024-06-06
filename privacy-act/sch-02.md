@@ -250,3 +250,32 @@ https://www.dia.govt.nz Department of Internal Affairs
 (d) birth information:
 (e) marriage information:
 (f) civil union information
+Information Sharing Agreement facilitating services for veterans and other claimants made on 18 April 2024
+(a) the accurate and efficient assessment of eligibility for and entitlement to receive services that a veteran or other claimant applies for or elects to utilise; and
+(b) the accurate and efficient delivery of services that a veteran or other claimant applies for or elects to utilise
+https://www.veteransaffairs.mil.nz Veterans' Affairs New Zealand
+(a) identifying information:
+(b) passport details:
+(c) veteran status:
+(d) service date:
+(e) Veterans' Affairs New Zealand rehabilitation information:
+(f) entitlement information:
+(g) ACC entitlement information:
+(h) ACC status:
+(i) prison admission and release information:
+(j) release conditions:
+(k) Corrections rehabilitation and treatment plan:
+(l) Corrections reintegration plan:
+(m) travel movements:
+(n) passport information:
+(o) enrolment information:
+(p) working status:
+(q) benefit or subsidy information:
+(r) spouse or partner information:
+(s) child and dependant information:
+(t) service records:
+(u) birth information:
+(v) marriage information:
+(w) civil union information:
+(x) death information:
+(y) name change information
