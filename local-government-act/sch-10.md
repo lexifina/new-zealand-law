@@ -51,7 +51,7 @@ Information to be included in annual reports
 33 Severance payments
 34 Statement of compliance
 34A Additional information to be included in annual report of unitary authority with local boards
-34B Additional information: RFT schemes
+34B Additional information: RFT schemes [Repealed]
 35 General
 Part 4
 Information to be included in pre-election report
@@ -344,13 +344,7 @@ An annual report must state, as at the end of the financial year,—
 (2) Each local board must comment on the matters included in the annual report under subclause (1) in respect of its local board area, and the unitary authority must include those comments in the annual report.
 (3) In this clause, local activities or activities means the non-regulatory activities of the unitary authority in respect of which a local board is allocated decision-making responsibility under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009.
 34B Additional information: RFT schemes
-(1) The regional council of an RFT region, in its annual report, must report on—
-(a) the revenue from an RFT scheme paid to the council by the Agency; and
-(b) how that revenue was applied by the council, including to which projects and for what purposes (for example, capital expenditures, debt repayment, operational expenditures); and
-(c) progress with respect to the programme of capital projects supported by the RFT scheme.
-(2) In this clause,—
-(a) regional council, RFT region, and RFT scheme have the same meanings as in section 65A of the Land Transport Management Act 2003; and
-(b) Agency has the same meaning as in section 5(1) of that Act.
+[Repealed]
 35 General
 An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority.
 Part 4 Information to be included in pre-election report

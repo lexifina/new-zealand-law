@@ -36,7 +36,6 @@ KiwiSaver Act 2006 65(1)
 Land Transport Act 1998 167(1)(j) Only if the regulations prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003
 Land Transport Act 1998 167AAA(1)
 Land Transport Act 1998 269 or 269A Only if the regulations prescribe fees or charges that are identified, or are to be treated, as land transport revenue for the purposes of the Land Transport Management Act 2003
-Land Transport Management Act 2003 65ZJ(1)
 Maritime Security Act 2004 78(4)(b)
 National Animal Identification and Tracing Act 2012 62
 National Animal Identification and Tracing Act 2012 67(2)

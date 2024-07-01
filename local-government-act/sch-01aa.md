@@ -302,3 +302,15 @@ water services bylaw means a bylaw that relates to all or any of the following:
 (a) water supply:
 (b) wastewater:
 (c) stormwater.
+Part 9 Provisions relating to Land Transport Management (Repeal of Regional Fuel Tax) Amendment Act 2024
+55 Interpretation
+In this Part,—
+amendment Act means the Land Transport Management (Repeal of Regional Fuel Tax) Amendment Act 2024
+Auckland RFT reserve fund means the regional fuel tax reserve fund operated by the Auckland Council under section 65ZA of the Land Transport Management Act 2003 in relation to the Auckland RFT scheme
+Auckland RFT scheme means the regional fuel tax scheme established by the Land Transport Management (Regional Fuel Tax Scheme—Auckland) Order 2018.
+56 Transitional provision relating to revenue and financial policy
+Section 103(2)(ia) continues to apply, as if it had not been repealed by the amendment Act, until the Auckland RFT reserve fund is spent.
+57 Transitional provision relating to development contributions
+Section 200(3)(a)(vi) continues to apply, as if it had not been repealed by the amendment Act, until the Auckland RFT reserve fund is spent.
+58 Transitional provision relating to information to be included in annual reports
+In Schedule 10, clause 34B continues to apply, as if it had not been repealed by the amendment Act, in relation to the annual report of the Auckland Council for any year in which the Auckland RFT reserve fund still contained revenue from the Auckland RFT scheme.
