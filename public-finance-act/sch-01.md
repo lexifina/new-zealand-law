@@ -51,3 +51,21 @@ Part 3 Provision relating to Child Poverty Reduction Act 2018
 (a) the financial year commencing on 1 July 2019; or
 (b) a later financial year.
 (2) Despite subclause (1), the report on child poverty required by section 15EA for the main Appropriation Bill for the financial year commencing on 1 July 2019 is required to comply with section 15EA(2)(a) only if, and after, the first targets are set under the Child Poverty Reduction Act 2018.
+Part 4 Provision relating to Public Finance (Fines Collection Costs—Budget Measures) Amendment Act 2024
+11 Application of amendment about deductions from fines
+Amendment applies only for fines imposed on or after 1 July 2024
+(1) The amendment applies only to an amount of a fine recovered—
+(a) on or after 1 July 2024; and
+(b) in respect of a fine imposed on or after 1 July 2024.
+Old section continues to apply for fines imposed before 1 July 2024
+(2) The old section continues to apply to an amount of a fine recovered—
+(a) on or after 1 July 2024; and
+(b) in respect of a fine imposed before 1 July 2024.
+Definitions
+(3) In this clause,—
+amendment means the amendment made to section 73(2) on 1 July 2024 by the amendment Act
+amendment Act means the Public Finance (Fines Collection Costs—Budget Measures) Amendment Act 2024
+amount of a fine includes, without limitation, an instalment—
+(a) of the fine; and
+(b) paid under a court order, or an arrangement, allowing payment to be made by instalments
+old section means section 73(2) as in force immediately before the amendment was made on 1 July 2024 by the amendment Act.
