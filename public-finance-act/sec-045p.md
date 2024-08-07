@@ -2,7 +2,7 @@
 (1) In this Act, mixed ownership model company means a company listed in Schedule 5.
 (2) In this Part,—
 10% limit has the meaning set out in section 45S
-Crown means Her Majesty the Queen in right of New Zealand
+Crown means the Sovereign in right of New Zealand
 excess securities means those shares or voting securities in which a person has a relevant interest in excess of the 10% limit
 FMA means the Financial Markets Authority established under section 6 of the Financial Markets Authority Act 2011
 relevant interest has the meaning given to it by sections 235 to 238 of the Financial Markets Conduct Act 2013
