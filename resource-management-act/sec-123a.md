@@ -6,3 +6,4 @@
 (c) a national environmental standard expressly allows a shorter period.
 (3) The period specified under subsection (1) must be not more than 35 years from the date of commencement of the consent under section 116A.
 (4) This section applies subject to section 125.
+(5) The duration of a coastal permit to which this section applies is subject to any extension that may apply under subpart 1A of Part 7A.
