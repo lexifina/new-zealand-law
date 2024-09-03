@@ -1,10 +1,7 @@
 # Schedule 1AB Temporary provisions in respect of COVID-19
 s 410A
 1 Hearing may be conducted by audiovisual link or audio link
-(1) Nothing in sections 196 to 198 limits or affects the ability of a court to conduct a hearing wholly or partly by audiovisual link (AVL) or audio link (AL) and to require some or all members of the media or the public who wish to observe the hearing to attend by AVL or AL.
-(2) For the purposes of subclause (1),—
-audio link or AL, in relation to a proceeding, means facilities that enable audio communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding
-audiovisual link or AVL, in relation to a proceeding, means facilities that enable both audio and visual communication between, or to be received by, participants when some or all of them are not physically present at the place of hearing for all or part of the proceeding.
+[Repealed]
 2 Powers relating to right of public to enter and remain in areas of court
 (1) Nothing in sections 196 to 198 limits or affects—
 (a) any inherent or implied powers of a judicial officer to give directions or impose requirements that must be met by persons entering and remaining in a court:
