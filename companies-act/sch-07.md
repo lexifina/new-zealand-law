@@ -53,7 +53,7 @@ s 312
 (3C) Section 122B of the Banking (Prudential Supervision) Act 1989 applies with all necessary modifications for the purposes of subclause (3A)(b) (and those modifications include treating references to section 122(9A)(b) of that Act as references to subclause (3A)(b) of this clause and treating references to the grantor as references to the company that granted the security interest).
 (4) Clause 9 of this schedule, as was in force immediately before the commencement of the Personal Property Securities Act 1999, continues to apply in respect of a company whose property was subject to a floating charge that, before the commencement of that Act, became a fixed or specific charge.
 3 Provisions concerning preferential payments to employees
-(1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $25,480 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
+(1) The total sum to which priority is to be given under any, or all, of paragraphs (a) to (e) of clause 1(2) must not, in the case of any one employee, exceed $31,820 or any greater amount that is prescribed under subclause (2) at the commencement of the liquidation.
 (2) The sum stated in subclause (1) must be adjusted as follows:
 (a) subject to paragraph (d), an adjustment must be made, by the Governor-General by Order in Council, after the 3-year period starting on 1 July 2006 and ending on 30 June 2009 and after every 3-year period following that (an adjustment period) (see subclause (5)):
 (b) subject to paragraph (d), the Order in Council must be made within 4 months of the end of an adjustment period:
