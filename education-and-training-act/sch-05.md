@@ -5,7 +5,8 @@ ss 116, 127(2)(d)
 (2) A community of learning must consist of a group of 2 or more State schools but may also include 1 or more of the following:
 (a) licensed early childhood services:
 (b) certified playgroups:
-(c) tertiary education organisations.
+(c) tertiary education organisations:
+(d) charter schools.
 (3) The Minister may approve a community of learning only if the Minister is satisfied that—
 (a) the purpose of the group is to come together for the purpose of raising achievement of children and young people; and
 (b) the membership of the group that is to form the community is appropriate, having regard to that purpose.

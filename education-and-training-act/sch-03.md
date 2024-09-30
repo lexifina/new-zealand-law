@@ -178,7 +178,8 @@ Compare: 1989 No 80 s 363
 [Repealed]
 Limited authority to teach
 14 Purpose of limited authority to teach
-The purpose of granting a limited authority to teach is to enable employers to have access to skills that are in short supply and to enable those with specialist skills but who may not have a teaching qualification to teach.
+(1) The purpose of granting a limited authority to teach is to enable employers to have access to skills that are in short supply and to enable those with specialist skills but who may not have a teaching qualification to teach.
+(2) Despite subclause (1), a sponsor may employ a person in a charter school who has been granted a limited authority to teach under clause 16(1A).
 Compare: 1989 No 80 s 365
 15 Applications for limited authority to teach
 Any person may apply to the Teaching Council for a limited authority to teach.
@@ -187,6 +188,11 @@ Compare: 1989 No 80 s 366(1)
 (1) The Teaching Council must grant a limited authority to teach if it considers that the applicant is of a suitable disposition and—
 (a) the applicant has the skills and experience appropriate to advance the learning of a student or group of students; or
 (b) the applicant has skills that are in short supply.
+(1A) Despite subclause (1), the Teaching Council must grant a limited authority to teach if—
+(a) the application relates to teaching in 1 or more charter schools; and
+(b) the Teaching Council considers that the applicant—
+(i) is of a suitable disposition: and
+(ii) has the skills and experience appropriate to advance the learning of a student or group of students.
 (2) A person who has previously been authorised may be authorised again, whether before or after the expiry or cancellation of the previous authorisation.
 (3) In this clause, suitable disposition, in relation to an applicant, means the applicant—
 (a) is of good character and fit to hold a limited authority to teach; and
@@ -196,7 +202,7 @@ Compare: 1989 No 80 s 366(1)
 Compare: 1989 No 80 s 366
 17 Cancellation of limited authority to teach
 (1) The Teaching Council must cancel a person's limited authority to teach if—
-(a) the Teaching Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a limited authority to teach (as set out in clause 16(1)); or
+(a) the Teaching Council is satisfied on reasonable grounds that the person no longer satisfies the requirements for holding a limited authority to teach (as set out in clause 16(1) or (1A)); or
 (b) the Teaching Council is satisfied on reasonable grounds that the authorisation was granted by mistake or obtained by fraud; or
 (c) the Disciplinary Tribunal has ordered, under section 500(1)(g), that the limited authority to teach be cancelled; or
 (d) the Competence Authority has ordered, under section 508, that the limited authority to teach be cancelled.

@@ -12,8 +12,9 @@ Subpart 1—General transitional provisions
 6 Regulations for transitional and savings purposes
 7 Saving provisions
 Subpart 2—Provisions for Part 2 (early childhood education)
-8 Applications for licence to operate early childhood education and care centre
-9 Review of section 17B
+[Repealed]
+8 Applications for licence to operate early childhood education and care centre [Repealed]
+9 Review of section 17B [Repealed]
 Subpart 3—Provisions for Part 3 (primary and secondary education)
 10 Enrolment schemes
 11 Temporary power of Minister to approve provision of education outside New Zealand
@@ -152,6 +153,30 @@ Conversion of wānanga
 108 Membership of councils of category B wānanga reduced
 Subpart 2—Provision relating to election of board members who are parent representatives
 109 Timing of mid-term elections of board members who are parent representatives
+Part 6
+Provisions relating to Education and Training Amendment Act 2024
+Subpart 1—Transitional provisions relating to repeal of network approval requirements
+110 Interpretation
+111 Approval conditions need not be met
+112 Licence no longer subject to certain special conditions
+113 Pending applications for approval
+Subpart 2—Transitional provisions relating to converted schools
+114 Interpretation
+115 Board dissolved
+116 Integration agreement for State integrated school cancelled
+Rights, assets, and liabilities of converted school
+117 Rights, assets, and liabilities of converted school
+118 Property held in trust
+Transfer of employees of converted school
+119 Transfer of employees of converted school to charter school
+120 Transfer of employment information
+121 Transfer of rights, duties, and obligations relating to existing pay equity claims and settlements
+122 Transfer of liabilities for holidays and leave taken before conversion date
+123 Transfer of other rights, duties, liabilities, or obligations of board relating to transferred employees
+Superannuation
+124 Government Superannuation Fund
+Shared education services
+125 Arrangements between State schools for shared education services
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -232,15 +257,11 @@ Compare: 1989 No 80 Schedule 1 cl 73; 2018 No 4 Schedule 1 cl 37; 2018 No 32 cl 
 (b) national performance measures under section 60A of the 1989 Act:
 (c) a notice under section 88 of the 1989 Act.
 Subpart 2—Provisions for Part 2 (early childhood education)
+[Repealed]
 8 Applications for licence to operate early childhood education and care centre
-(1) This clause applies to an application for a licence to operate as an early childhood education and care centre made before the date on which section 17 comes into force but not finally determined before that date.
-(2) The application must be determined as if sections 17 and 18 do not apply to it.
+[Repealed]
 9 Review of section 17B
-(1) The Minister must, by no later than 1 August 2025, review, or arrange for a review of, section 17B.
-(2) The review must—
-(a) consider the purpose, operation, and effectiveness of section 17B; and
-(b) assess whether any amendments to section 17B are necessary or desirable.
-(3) The Minister must prepare a report of the review, which must be published on an Internet site maintained by or on behalf of the Ministry.
+[Repealed]
 Subpart 3—Provisions for Part 3 (primary and secondary education)
 10 Enrolment schemes
 An enrolment scheme that complies with section 71 (regardless of whether that section has commenced) may be established, amended, or abandoned in accordance with the 1989 Act as if sections 11A to 11Q of that Act were still in force if the process of establishing, amending, or abandoning the enrolment scheme is initiated in the period beginning on the commencement of this clause and ending with the close of 31 December 2020.
@@ -1022,3 +1043,128 @@ Subpart 2—Provision relating to election of board members who are parent repre
 109 Timing of mid-term elections of board members who are parent representatives
 (1) This clause applies to a board that has decided under clause 4 of Schedule 23 to adopt a staggered election cycle in relation to the election of board members who are parent representatives.
 (2) Despite clause 4(3) of Schedule 23, the board must hold the next mid-term election of those board members that falls due after the commencement of this clause in November 2023.
+Part 6 Provisions relating to Education and Training Amendment Act 2024
+Subpart 1—Transitional provisions relating to repeal of network approval requirements
+110 Interpretation
+In this subpart,—
+amendment Act means the Education and Training Amendment Act 2024
+commencement means the date on which the amendment Act comes into force.
+111 Approval conditions need not be met
+(1) This clause applies to an approval to apply for a licence granted under section 17 to which conditions imposed under section 17A apply (as those provisions read immediately before commencement).
+(2) The conditions no longer apply in relation to the approval on and after commencement.
+112 Licence no longer subject to certain special conditions
+(1) This clause applies to a licence for an early childhood service to which 1 or more of the following special conditions imposed by the Secretary under regulation 22(5) of the Education (Early Childhood Services) Regulations 2008 apply (as it read immediately before commencement):
+(a) conditions that are a continuation of any conditions on the approval to apply for a licence imposed under section 17A:
+(b) conditions that are consistent with the approval to apply for a licence granted under section 17:
+(c) conditions imposed on an excluded early childhood service that relate to the type of excluded early childhood service.
+(2) The special conditions are treated as revoked on and after commencement.
+113 Pending applications for approval
+(1) This clause applies to an application for approval to apply for a licence under section 17 made, but not determined, before commencement.
+(2) The Secretary must—
+(a) treat the application as if it had been withdrawn; and
+(b) refund to the applicant the prescribed fee paid in respect of the application.
+Subpart 2—Transitional provisions relating to converted schools
+114 Interpretation
+In this subpart,—
+conversion date, in relation to a converted school, means the date on which the State school became a charter school
+converted school means a former State school that has become a charter school in accordance with an approval granted to a sponsor under section 212I
+sponsor has the meaning given in section 10(1).
+115 Board dissolved
+(1) On the conversion date, the board of the converted school is dissolved.
+(2) Every member of the board of the converted school that is holding office immediately before the conversion date goes out of office on the close of the day before that date.
+116 Integration agreement for State integrated school cancelled
+(1) This clause applies if a converted school was a State integrated school immediately before its conversion date.
+(2) On the conversion date, the integration agreement between the proprietor and the Crown relating to the State integrated school must be treated as if it were cancelled under clause 11 of Schedule 6.
+Rights, assets, and liabilities of converted school
+117 Rights, assets, and liabilities of converted school
+(1) This clause applies to all rights, assets, and liabilities that belong to a converted school immediately before its conversion date.
+(2) On the conversion date, all rights, assets, and liabilities of the converted school vest in the Minister on behalf of the Crown.
+(3) Subclause (2) is subject to clauses 121 to 123.
+(4) In this clause, assets, liabilities, and rights have the same meanings as in section 10(6).
+118 Property held in trust
+(1) This section applies to any property of a converted school that, immediately before the conversion date, was held in trust—
+(a) by the board of the State school; or
+(b) by any other person or body for the benefit of—
+(i) the converted school; or
+(ii) the students or former students of the converted school.
+(2) The property continues to be subject to the trust concerned, but the person or body in whom it is vested may apply to Public Trust to devise a scheme to modify the trust in light of the conversion of the State school concerned.
+(3) If satisfied that adequate arrangements have been made to meet the costs of doing so, Public Trust must, in consultation with the sponsor concerned, devise a scheme to modify any trust in respect of which Public Trust has received an application under this clause and notify the Solicitor-General of the scheme.
+(4) If Public Trust notifies the Solicitor-General of a scheme, the Solicitor-General may, by written notice to Public Trust,—
+(a) approve the scheme (as originally notified or with any amendments agreed by Public Trust after consultation with the board concerned); or
+(b) suggest amendments to it; or
+(c) direct that it should not proceed.
+(5) If the Solicitor-General directs that it should not proceed, the matter may be dealt with under the Charitable Trusts Act 1957.
+(6) If, within 90 days of being notified of a scheme, the Solicitor-General does not suggest amendments to it or direct that it should not proceed, the Solicitor-General is to be treated as having approved the scheme.
+(7) If the Solicitor-General approves a scheme notified under this clause, the trust concerned has effect accordingly.
+(8) The Solicitor-General may not approve a scheme under this clause unless satisfied that—
+(a) it modifies the trust concerned so as best to give effect to the intentions of the testator, settlor, or other person or body by whom or which the trust was established; and
+(b) subject to paragraph (a), it effects the minimum change necessary to enable the trust to operate successfully in light of conversion of the school concerned.
+Compare: 1989 No 80 s 156C
+Transfer of employees of converted school
+119 Transfer of employees of converted school to charter school
+(1) On the conversion date, every employee of a converted school becomes an employee of the sponsor (a transferred employee)—
+(a) on terms and conditions of employment that are no less favourable overall to those that applied to the person immediately before they became an employee of the sponsor; and
+(b) as if those terms and conditions of employment were contained in an individual employment agreement agreed between the transferred employee and the sponsor.
+(2) The terms and conditions of employment referred to in subclause (1)(a) continue to apply in relation to the transferred employee until—
+(a) they are varied by agreement between the transferred employee and the sponsor; or
+(b) the transferred employee becomes bound by a collective agreement agreed between the sponsor and the union of which the transferred employee is a member.
+(3) A transferred employee is not entitled to receive any contractual notice or any payment, benefit, or compensation from the board of the converted school on the grounds that—
+(a) the person's position in the converted school has ceased to exist; or
+(b) the person has ceased to be an employee of the board as a result of the person's transfer to the charter school.
+(4) To avoid doubt, the employment of a transferred employee by the sponsor does not—
+(a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+(b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(5) In this clause, terms and conditions of employment that are no less favourable overall, in relation to the transferred employee's employment at the converted school, is employment at a charter school that—
+(a) is in substantially the same position; and
+(b) is in the same general locality; and
+(c) is on terms that treat the period of service with the converted school (and any other period of service recognised by the converted school as continuous service) as if it were continuous service with the charter school; and
+(d) is on terms and conditions of employment that are no less favourable overall than those that applied to the transferred employee immediately before the person became an employee of the sponsor, including (without limitation) in relation to the employee's overall remuneration and any service-related, redundancy, or superannuation conditions; and
+(e) is subject to any other modifications that are necessary to reflect—
+(i) the transferred employee's terms and conditions of employment being treated as if they were contained in an individual employment agreement; and
+(ii) the transfer of employment from a State school to a charter school, for example, in relation to—
+(A) funding and payment of the transferred employee's remuneration:
+(B) the eligibility of a transferred employee who holds a teaching position for any awards, grants, or associated leave:
+(C) a sponsor not being required to advertise any vacancy at the charter school in the Education Gazette.
+(6) This clause overrides—
+(a) Part 6A of the Employment Relations Act 2000; and
+(b) any employment protection provision in any relevant employment agreement.
+120 Transfer of employment information
+(1) This clause applies to information held by the board of a converted school, the Ministry, or Education Payroll Limited relating to a transferred employee's employment with the converted school.
+(2) The information is to be treated as if it were held by the sponsor on and from the later of the following dates:
+(a) the date on which the charter school contract is entered into under section 212L; and
+(b) the date that is 3 months before the conversion date.
+(3) The transfer of information under subclause (2) does not constitute an action that is an interference with the privacy of an individual under section 69 of the Privacy Act 2020.
+121 Transfer of rights, duties, and obligations relating to existing pay equity claims and settlements
+(1) This clause applies to any rights, duties, or obligations of the Secretary (acting under delegation from the Public Service Commissioner) or the board of a converted school in relation to—
+(a) any pay equity claims relating to the work of a transferred employee raised before the conversion date but not settled before that date:
+(b) any existing pay equity claim settlements entered into before the conversion date.
+(2) On and after the conversion date,—
+(a) the rights, duties, and obligations referred to in subclause (1) vest in the sponsor; and
+(b) the existing pay equity claim settlement in respect of teacher aides recorded in the Teacher Aide Pay Equity Settlement Agreement dated 12 February 2020 is to be treated as binding on the sponsor as if—
+(i) the sponsor were a party to the agreement; and
+(ii) all references in the agreement to the Secretary were references to the sponsor; and
+(c) every other existing pay equity claim settlement to which the board of the converted school was a party before the conversion date is to be treated as binding on the sponsor as if—
+(i) the sponsor were a party to the agreement; and
+(ii) all references in the agreement to the board were references to the sponsor.
+(3) In this clause, pay equity claim and pay equity claim settlement have the same meanings as in section 2(1) of the Equal Pay Act 1972.
+122 Transfer of liabilities for holidays and leave taken before conversion date
+(1) This clause applies in relation to any holiday, sick leave, bereavement leave, or family violence leave—
+(a) provided under the Holidays Act 2003; and
+(b) taken by a transferred employee before the conversion date.
+(2) On and after the conversion date, any liabilities of the board of the converted school for holiday pay or leave pay in relation to the holidays and leave referred to in subclause (1) vest in the Minister on behalf of the Crown.
+(3) In this clause, holiday, holiday pay, and leave pay have the same meanings as in section 5(1) of the Holidays Act 2003.
+123 Transfer of other rights, duties, liabilities, or obligations of board relating to transferred employees
+(1) This clause applies to any other rights, duties, liabilities, or obligations of the board of a converted school relating to a transferred employee that were in existence immediately before the conversion date.
+(2) On the conversion date, those rights, duties, liabilities, and obligations vest in the sponsor.
+Superannuation
+124 Government Superannuation Fund
+(1) Any person who, immediately before becoming an employee of a sponsor, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956 is deemed, for the purpose of that Act, to be employed in the Government service as long as the person continues to be employed at a charter school.
+(2) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the sponsor were Government service.
+(3) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(4) For the purpose of applying the Government Superannuation Fund Act 1956, the sponsor is the controlling authority.
+Shared education services
+125 Arrangements between State schools for shared education services
+(1) This clause applies if the board of a converted school was, before its conversion, a party to a written arrangement (for example, a memorandum of understanding), whether legally binding or not, with the boards of 1 or more other State schools regarding the sharing of education services, employees, or students.
+(2) On and after the conversion date,—
+(a) the sponsor is to be treated as if it were a party to the arrangement; and
+(b) all references in the arrangement to the board of the converted school must be treated as if they were references to the sponsor.

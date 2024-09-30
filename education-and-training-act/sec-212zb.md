@@ -1,0 +1,2 @@
+# 212ZB Religious instruction: appointments to special positions relating to character of charter school
+If religious instruction forms part of the special character of a charter school, advertisements for the position of the chief executive and the person responsible for teaching and learning at the school may state that a willingness and an ability to take part in religious instruction appropriate to that school are conditions of appointment.

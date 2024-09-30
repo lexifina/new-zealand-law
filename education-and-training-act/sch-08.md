@@ -4,6 +4,7 @@ ss 10(1), 43(1), 49(6)(a), 215
 (1) The Minister may, by notice in the Gazette, recognise as a provider group of secondary-tertiary programmes a group of organisations that consists of—
 (a) any 1 or more of the following:
 (i) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+(ia) a sponsor of a secondary school or a composite school:
 (ii) a body corporate that is the manager of a private school, other than a school registered only as a primary school; and
 (b) any 1 or more of the following:
 (i) a government training establishment:
@@ -38,6 +39,7 @@ Compare: 1989 No 80 s 31E
 5 Recognition as lead provider of secondary-tertiary programme
 The Minister may, by notice in the Gazette, recognise as a lead provider of secondary-tertiary programmes any of the following:
 (a) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+(aa) a sponsor of a secondary school or a composite school:
 (b) a body corporate that is the manager of a private school, other than a school registered only as a primary school:
 (c) a government training establishment:
 (d) an institution:
@@ -49,6 +51,7 @@ Compare: 1989 No 80 s 31F
 (b) in a form approved by the Secretary.
 (2) Any of the following may provide a secondary component or a tertiary component of a secondary-tertiary programme, after making an arrangement as specified in subclause (1) with the lead provider of the programme:
 (a) a board of a secondary school, a composite school, or a specialist school that is a relevant school:
+(aa) a sponsor of a secondary school or a composite school:
 (b) the managers of a private school, other than a school registered only as a primary school:
 (c) a government training establishment:
 (d) an institution:
