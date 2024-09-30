@@ -7,7 +7,7 @@
 (ii) Part 4 of the Intelligence and Security Act 2017; or
 (iii) the International Terrorism (Emergency Powers) Act 1987.
 (3) [Repealed]
-(4) Subsection (1) does not apply to any monitoring of a prisoner call under section 113 of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under section 189B of that Act.
+(4) Subsection (1) does not apply to any monitoring of a prisoner call under section 127I or 127J of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under section 189B of that Act.
 (5) Subsection (1) does not apply to the interception of private communications by any interception device operated by a person engaged in providing an Internet or other communication service to the public if—
 (a) the interception is carried out by an employee of the person providing that Internet or other communication service to the public in the course of that person's duties; and
 (b) the interception is carried out for the purpose of maintaining that Internet or other communication service; and
