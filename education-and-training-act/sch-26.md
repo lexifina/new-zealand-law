@@ -900,7 +900,7 @@ Replace rule 3 with:
 In these rules, board means a board constituted under subpart 5 of Part 3 of the Act.
 In rule 5(1), replace "sections 14 to 18" with "sections 80 to 88".
 Revoke rule 5(2) and the box below rule 5(2).
-In rule 6(1), replace "sections 14 to 18" with "sections 80 to 88 ".
+In rule 6(1), replace "sections 14 to 18" with "sections 80 to 88".
 In rule 6(1)(a), replace "sections 14, 17A(1), and 18(1)" with "sections 80, 84(1), and 88(1)".
 In rule 6(1)(b), replace "sections 14(1) and (3), 15(1) to (4), 17(1)(a) and (b), 17(2) to (4), 17A, 17B, 17C, and 18(2) and (3)" with "sections 80(1) and (3), 81(1) to (5), 83(1)(a) and (b), 83(2) to (5), 84, 85, 86, and 88(2) and (3)".
 In rule 6(1)(c), replace "sections 15(1)(c), (5) and (6), 16, 17C, 17D(1) and (2), and 18(3)" with "sections 81(1)(c), (6) and (7), 82, 86, 87(1) and (2), and 88(3)".
@@ -980,7 +980,7 @@ In rule 3(1), replace the definition of code administrator with:
 code administrator means a person or agency appointed under regulations made under section 648 of the Act
 In rule 3(1), definition of DRS operator, replace "section 238J(4)(a)" with "section 536(4)(a)".
 In rule 3(1), definition of international student, replace "section 238D" with "section 10(1)".
-In rule 3(1), definition of Minister, replace "for Tertiary Education, Skills and Employment" with " of Education".
+In rule 3(1), definition of Minister, replace "for Tertiary Education, Skills and Employment" with "of Education".
 In rule 3(1), definition of provider, replace "section 238D" with "section 10(1)".
 In rule 3(1), replace the definition of scheme with:
 scheme means the student contract dispute resolution scheme established by section 536 of the Act
