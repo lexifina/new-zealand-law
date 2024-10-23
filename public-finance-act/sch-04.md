@@ -13,6 +13,5 @@ New Zealand Game Bird Habitat Trust Board
 New Zealand Government Property Corporation
 New Zealand Lottery Grants Board
 Ngai Tahu Ancillary Claims Trust
-Pacific Co-operation Foundation
 Pacific Island Business Development Trust
 Reserves Boards as defined in section 2 of the Reserves Act 1977
