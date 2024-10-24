@@ -250,3 +250,71 @@ Part 6 Provisions relating to Natural and Built Environment Act 2023
 [Repealed]
 42 Submitters' appeal rights restricted for limited notified affected resource consent application
 [Repealed]
+Part 7 Provisions relating to Resource Management (Freshwater and Other Matters) Amendment Act 2024
+39 Interpretation
+In this Part, unless the context otherwise requires,—
+amendment Act means the Resource Management (Freshwater and Other Matters) Amendment Act 2024
+commencement means the date on which the amendment Act comes into force
+specified provisions relating to the NPSFM 2020 means—
+(a) section 92(2A); and
+(b) section 104(2F) and (2G); and
+(c) clause 2(2A) and (2B) of Schedule 4.
+40 Effect of certain amendments on significant natural areas before commencement
+(1) The NPSIB 2023, as it was immediately before commencement but subject to the specified amendments, continues to apply in respect of an NPSIB SNA described in section 78(6)(a) or any matter described in section 78(6)(b).
+(2) In this clause, specified amendments means the amendments made by section 30 and Schedule 2 of the amendment Act to—
+(a) clause 3.8(5) of the NPSIB 2023:
+(b) clause 3.11(1)(a)(ii) and (iv) of the NPSIB 2023:
+(c) clause 4.2 of the NPSIB 2023.
+41 Retrospective application of clause 42 and amendments to section 80A
+Clause 42 of this schedule and the amendments to section 80A made by section 21 of the amendment Act apply on and from 22 October 2024 as if they were in force on and from that date.
+42 Exemption from requirement to notify freshwater planning instrument no earlier than specified date
+(1) The Minister may, on written application by a regional council, exempt the council from the requirement to comply with section 80A(4A) in relation to all or part of the council's draft freshwater planning instrument if the Minister is satisfied that the instrument or any part of the instrument—
+(a) is required to—
+(i) progress flood protection or flood remediation work; or
+(ii) prevent or mitigate risks from natural hazards; or
+(iii) progress housing development; or
+(b) relates to the provision, operation, or maintenance of—
+(i) regionally or nationally significant infrastructure, including large hydroelectric power schemes; or
+(ii) municipal drinking water, stormwater, or wastewater; or
+(c) is required to give effect to Treaty settlement obligations; or
+(d) is required, during the relevant period, to address any provisions in a plan or policy statement that—
+(i) have unintended consequences; or
+(ii) are unworkable or lead to inefficient outcomes; or
+(e) is required because of changes in a national direction or to this Act that occur during the relevant period; or
+(f) is required for any other reason the Minister considers appropriate.
+(2) When applying for an exemption, a regional council must—
+(a) include an up-to-date copy of the draft freshwater planning instrument that it intends to publicly notify; and
+(b) if applicable, identify the parts of the draft freshwater planning instrument for which the exemption is sought.
+(3) If the Minister decides to grant an exemption, they must give written notice of the decision to the regional council and, if applicable, specify the relevant parts of the draft freshwater planning instrument that are exempted.
+(4) If the Minister decides not to grant an exemption, they must give written notice to the regional council of the decision and include reasons.
+(5) In this clause,—
+national direction has the meaning given in section 80B(3)
+relevant period means the period starting on 22 October 2024 and ending on the sooner of the following dates:
+(a) the date on which a new national policy statement for freshwater management (replacing the National Policy Statement for Freshwater Management 2020) is published under section 54:
+(b) 31 December 2025
+Treaty settlement obligations has the meaning given in section 9 of the Urban Development Act 2020.
+43 Specified provisions relating to NPSFM 2020
+The specified provisions relating to the NPSFM 2020 apply to an application for a resource consent that is lodged with a consent authority—
+(a) on or after commencement; or
+(b) before commencement if the consent authority has not, before commencement, served notice of its decision on the application.
+44 Repeal of specified provisions relating to NPSFM 2020 by Order in Council
+(1) The Governor-General in Council may, on the recommendation of the Minister, repeal the specified provisions relating to the NPSFM 2020.
+(2) The Minister must make a recommendation under this clause when recommending the approval of a new national policy statement under section 52 to replace the NPSFM 2020.
+(3) An Order in Council under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+45 Effect of certain amendments on applications for resource consents
+(1) The amendments affecting coal mining apply to an application for a resource consent that is lodged with a consent authority—
+(a) on or after commencement; or
+(b) before commencement if the consent authority has not, before commencement, served notice of its decision on the application.
+(2) In this clause, amendments affecting coal mining means the amendments made by section 30 and Schedule 2 of the amendment Act to—
+(a) regulation 45D(7) and (8) of the Resource Management (National Environment Standards for Freshwater) Regulations 2020:
+(b) clause 3.22(1)(e)(i) of the NPSFM 2020:
+(c) clause 3.11(1)(a)(ii) and (iv) of the NPSIB 2023.
+46 Effect of amendments to section 107 on applications for discharge or coastal permits
+The amendments made to section 107 by section 24 of the amendment Act apply to an application for a discharge permit or coastal permit that is lodged with a consent authority—
+(a) on or after commencement; or
+(b) before commencement if—
+(i) the consent authority has not, before commencement, served notice of its decision on the application; or
+(ii) the consent authority's decision on the application was the subject of judicial review proceedings and was referred back to the consent authority for reconsideration, as long as the consent authority has not, before commencement, served notice of that decision.
+47 Part 9A ceases to apply to specified districts, regions, and parts of New Zealand
+(1) Part 9A ceases, on commencement, to apply to any district, region, or part of New Zealand specified in the Resource Management (Application of Part 9A—Freshwater Farm Plans) Order 2023.
+(2) Any freshwater farm plans that, before commencement, have been certified or audited under Part 9A cease to have effect.

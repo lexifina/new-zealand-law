@@ -8,7 +8,7 @@
 (e) any other matter that is relevant to the purpose of the national planning standard.
 (3) Before approving a national planning standard, the Minister must—
 (a) prepare a draft national planning standard; and
-(b) prepare an evaluation report in accordance with section 32 and have particular regard to that report before deciding whether to publicly notify the draft; and
+(b) [Repealed]
 (c) publicly notify the draft; and
 (d) establish a process that—
 (i) the Minister considers gives the public, local authorities, and iwi authorities adequate time and opportunity to make a submission on the draft; and

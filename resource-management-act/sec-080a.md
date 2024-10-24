@@ -10,11 +10,15 @@
 (3) A regional council must prepare a freshwater planning instrument in accordance with this subpart and Part 4 of Schedule 1.
 (4) A regional council must—
 (a) publicly notify the freshwater planning instrument; and
-(b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2027; and
+(b) if the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, publicly notify the freshwater planning instrument by 31 December 2027 and comply with subsection (4A); and
 (c) no later than 6 months after it has publicly notified the freshwater planning instrument, submit the documents required by clause 37(1) of Schedule 1 (the required documents) to the Chief Freshwater Commissioner; and
 (d) at least 20 working days before submitting the required documents, provide to the Chief Freshwater Commissioner in writing—
 (i) its notice of intention to submit those documents; and
 (ii) the regional council and local tangata whenua nominations for appointment to the freshwater hearings panel required by clause 59(1)(b) and (c) of Schedule 1.
+(4A) If the purpose of the freshwater planning instrument is to give effect to the National Policy Statement for Freshwater Management 2020, a regional council must not publicly notify the freshwater planning instrument earlier than the sooner of the following dates:
+(a) the date on which a new national policy statement for freshwater management (replacing the National Policy Statement for Freshwater Management 2020) is published under section 54:
+(b) 31 December 2025.
+(4B) However, see clause 42 of Schedule 12, which allows for an exemption from subsection (4A).
 (5) The following is an outline of the rest of the freshwater planning process set out in Part 4 of Schedule 1:
 (a) the Chief Freshwater Commissioner must convene a freshwater hearings panel to conduct the public hearing of submissions on the freshwater planning instrument:
 (b) the freshwater hearings panel must conduct the public hearing of submissions in accordance with its powers and the procedures set out in Part 4 of Schedule 1:

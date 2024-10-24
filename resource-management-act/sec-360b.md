@@ -18,7 +18,7 @@
 (BA) a national planning standard; and
 (C) any regional policy statement; and
 (iv) the regional coastal plan as amended by the proposed regulations will not duplicate or conflict with any national environmental standard; and
-(d) has prepared an evaluation report for the proposed regulations in accordance with section 32 and had particular regard to that report when deciding whether to recommend the making of the regulations; and
+(d) [Repealed]
 (e) has considered any content in a relevant planning document—
 (i) that has been lodged under section 91A of the Marine and Coastal Area (Takutai Moana) Act 2011 or lodged with the regional council under section 86 of that Act; and
 (ii) that the Minister considers relevant to their decision whether to recommend the making of the regulations; and

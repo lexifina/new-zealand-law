@@ -19,6 +19,8 @@ Any information required by this schedule, including an assessment under clause 
 (a) any relevant objectives, policies, or rules in a document; and
 (b) any relevant requirements, conditions, or permissions in any rules in a document; and
 (c) any other relevant requirements in a document (for example, in a national environmental standard or other regulations).
+(2A) An assessment required by subclauses (1)(g) and (2) must not include an assessment of the activity against clause 1.3(5) or 2.1 of the NPSFM 2020 (which relates to the hierarchy of obligations in the NPSFM 2020).
+(2B) Subclause (2A) applies despite subclauses (1)(g) and (2) and any other provision of this Act.
 (3) An application must also include an assessment of the activity's effects on the environment that—
 (a) includes the information required by clause 6; and
 (b) addresses the matters specified in clause 7; and
