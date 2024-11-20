@@ -93,3 +93,10 @@ Part 4 Provisions relating to Three Strikes Legislation Repeal Act 2022
 (b) bringing a claim for a breach of their rights under the New Zealand Bill of Rights Act 1990 in respect of being convicted of or sentenced for an offence specified in clause 13(1).
 (3) Nothing in subclause (2)(b) is, or implies, an acknowledgement or a denial that relief (monetary or otherwise) may be available for a breach of the New Zealand Bill of Rights Act 1990 in respect of being convicted of or sentenced for an offence specified in clause 13(1).
 Compare: 2010 No 24 s 90(1)(b); 2018 No 7 s 23
+Part 5 Provisions relating to Sentencing Amendment Act 2024
+16 Interpretation
+In this Part,—
+amendment Act means the Sentencing Amendment Act 2024
+commencement date means the date on which section 4 of the amendment Act comes into force.
+17 Application to proceedings on or after commencement date
+Section 9(1)(hb) of this Act (as replaced by the amendment Act) applies only to proceedings commenced on or after the commencement date.
