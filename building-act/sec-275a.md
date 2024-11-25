@@ -5,7 +5,7 @@
 (c) whether the building is a priority building:
 (d) the date of the EPB notice issued for the building or part:
 (e) the earthquake rating of the building or part, as determined by the territorial authority:
-(f) the deadline for completing seismic work that applies under section 133AM (unless an exemption from the requirement to carry out seismic work is in force under section 133AN):
+(f) the deadline for completing seismic work that applies under section 133AM, 133AMA, 133AMB, or 133AMC (unless an exemption from the requirement to carry out seismic work is in force under section 133AN):
 (g) the details of any exemption from the requirement to carry out seismic work that is in force under section 133AN:
 (h) the details of any extension of time for completing seismic work that is in force under section 133AO, including a summary of any conditions imposed by the territorial authority for the purpose of section 133AO(5)(b):
 (i) any information prescribed under section 401C(e).

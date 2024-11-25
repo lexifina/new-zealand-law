@@ -95,3 +95,18 @@ certificate provisions means the provisions of this Act relating to product cert
 continued certificate means a current certificate that becomes a registered product certificate under clause 11.
 13 Time limit for filing charging document
 Section 378, as in force before the commencement of section 91 of the Building (Building Products and Methods, Modular Components, and Other Matters) Amendment Act 2021, continues to apply in relation to offences committed before that commencement.
+Part 5 Provisions relating to Building (Earthquake-prone Building Deadlines and Other Matters) Amendment Act 2024
+14 Provisions of amendment Act to apply only to new levies
+(1) The provisions of this Act, as amended by the amendment Act, apply only in respect of levies imposed on or after the commencement of the amendment Act.
+(2) In this clause and clauses 15 to 17, amendment Act means the Building (Earthquake-prone Building Deadlines and Other Matters) Amendment Act 2024.
+15 EPB notices for earthquake-prone buildings
+A territorial authority must not impose a fee for issuing any notice under section 133AL(2), or any other provision of this Act, notifying building owners of changes to deadlines for completing seismic work made by the amendment Act or an Order in Council made under that Act.
+16 Clause 2 of this schedule
+(1) On the commencement of the amendment Act, clause 2 of this schedule continues to apply and—
+(a) applications may continue to be made under clause 2(5)(a); and
+(b) a territorial authority may take further action under clause 2(5) and (6), irrespective of whether an application was made under clause 2(5)(a) before, on, or after the commencement of the amendment Act.
+(2) If an extension of a deadline granted under clause 2 of this schedule is for a latter date than the extended deadline that would otherwise apply under any of sections 133AM to 133AMC, the extension granted under clause 2 applies.
+17 Offences
+(1) If, before the commencement of the amendment Act, a person has been charged under this Act with an offence relating to the failure to complete seismic work on or before 1 April 2024, the proceedings in respect of the charge continue as if the amendment Act had not been enacted.
+(2) If a person is at any time alleged to have failed to complete required seismic work on or before 1 April 2024, the person may be charged under this Act after the commencement of the amendment Act and the proceedings may be completed as if the amendment Act had not been enacted.
+(3) However, if an owner fails to comply with a deadline that expires on or after 2 April 2024 but before the commencement of the amendment Act, that person is deemed not to have committed an offence under section 133AU(1) of this Act.

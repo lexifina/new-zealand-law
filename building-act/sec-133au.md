@@ -1,6 +1,6 @@
 # 133AU Offences in relation to earthquake-prone buildings
 Failure to complete seismic work
-(1) The owner of a building or a part of a building that is subject to an EPB notice who fails to complete seismic work on the building or part by the deadline that applies under section 133AM—
+(1) The owner of a building or a part of a building that is subject to an EPB notice who fails to complete seismic work on the building or part by the deadline that applies under section 133AM, 133AMA, 133AMB, or 133AMC—
 (a) commits an offence; and
 (b) is liable on conviction,—
 (i) in the case of an individual, to a fine not exceeding $300,000:

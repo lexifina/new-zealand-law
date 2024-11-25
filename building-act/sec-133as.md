@@ -1,5 +1,5 @@
 # 133AS Territorial authority may carry out seismic work
-(1) This section applies if seismic work on a building or a part of a building that is subject to an EPB notice is not completed by the deadline that applies under section 133AM, or is not proceeding with reasonable speed in the light of that deadline.
+(1) This section applies if seismic work on a building or a part of a building that is subject to an EPB notice is not completed by the deadline that applies under section 133AM, 133AMA, 133AMB, or 133AMC, or is not proceeding with reasonable speed in the light of that deadline.
 (2) The territorial authority may apply to the District Court for an order authorising the territorial authority to carry out seismic work on the building or the part of the building.
 (3) Before the territorial authority applies to the District Court under subsection (2), the territorial authority must give the owner of the building or the part of the building not less than 10 days' written notice of its intention to do so.
 (4) If a territorial authority carries out seismic work on a building or a part of a building under the authority of an order made under subsection (2),—

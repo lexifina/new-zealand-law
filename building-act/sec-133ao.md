@@ -6,7 +6,7 @@
 (ii) included on the National Historic Landmarks/Ngā Manawhenua o Aotearoa me ōna Kōrero Tūturu list maintained under section 81 of the Heritage New Zealand Pouhere Taonga Act 2014.
 (2) The owner of the building or the part of the building (the owner) may apply to the territorial authority for an extension of time to complete seismic work on the building or part.
 (3) An application must be in writing and must be accompanied by any fee imposed by the territorial authority under section 219.
-(4) The territorial authority may, by notice in writing to the owner, extend by up to 10 years the deadline for completing seismic work that applies under section 133AM(2) or (3)(a).
+(4) The territorial authority may, by notice in writing to the owner, extend by up to 10 years the deadline for completing seismic work that applies under section 133AM, 133AMA, 133AMB, or 133AMC.
 (5) If the territorial authority grants an extension, the owner must—
 (a) take all reasonably practicable steps to manage or reduce the risks associated with the building or the part of the building being earthquake prone; and
 (b) comply with any conditions imposed by the territorial authority for the purpose of managing or reducing the risks referred to in paragraph (a).

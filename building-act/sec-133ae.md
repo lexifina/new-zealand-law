@@ -20,4 +20,4 @@
 (3) If only part of a building meets the criteria set out in subsection (1), only that part of the building is a priority building.
 (4) Whether a building is a priority building affects—
 (a) the deadline by which a territorial authority must identify whether the building or a part of the building is potentially earthquake prone (see section 133AG); and
-(b) the deadline for completing seismic work on the building or a part of the building, if it is subject to an EPB notice (see section 133AM).
+(b) the deadline for completing seismic work on the building or a part of the building, if it is subject to an EPB notice (see sections 133AM, 133AMA, 133AMB, and 133AMC).

@@ -1,7 +1,9 @@
 # 162D Periodic inspections of residential pools
 (1) Every territorial authority must ensure that the following residential pools within its jurisdiction are inspected at least once every 3 years, within 6 months before or after the pool's anniversary date, to determine whether the pool has barriers that comply with the requirements of section 162C:
 (a) residential pools other than small heated pools:
-(b) small heated pools that have barriers that are not exempt, in terms of Schedule 1, from the requirement to have a building consent.
+(b) small heated pools, except for small heated pools with a safety cover that—
+(i) complied with the building code when the cover was installed; or
+(ii) complies with the building code, as it currently provides.
 (2) A territorial authority may accept a certificate of periodic inspection from an independently qualified pool inspector for the purpose of subsection (1) in lieu of carrying out an inspection under section 222.
 (3) If a territorial authority decides not to accept a certificate of periodic inspection from an independently qualified pool inspector under subsection (2), the territorial authority must, within 7 working days of making that decision, give notice to the chief executive of the decision and the reasons for the decision.
 (4) If an independently qualified pool inspector inspects a pool for the purpose of this section and decides that the pool does not have barriers that comply with the requirements of section 162C (subject to any waiver or modification granted under section 67A or 188), the inspector must, within 3 working days of the date of inspection, give written notice to the relevant territorial authority of the decision, attaching any information that the chief executive requires to accompany the notice.

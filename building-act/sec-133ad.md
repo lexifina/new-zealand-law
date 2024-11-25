@@ -11,4 +11,4 @@
 (a) the time frame within which a territorial authority must—
 (i) apply the EPB methodology to identify buildings or parts of buildings in the area that are potentially earthquake prone (see section 133AG); and
 (ii) report to the chief executive on its progress towards that objective; and
-(b) the deadline for completing seismic work on a building or a part of a building in the area, if it is subject to an EPB notice (see section 133AM).
+(b) the deadline for completing seismic work on a building or a part of a building in the area, if it is subject to an EPB notice (see sections 133AM, 133AMA, 133AMB, and 133AMC).

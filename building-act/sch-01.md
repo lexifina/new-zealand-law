@@ -175,7 +175,7 @@ Installation of a safety cover as a means of restricting access to a small heate
 22 Dams (excluding large dams)
 Building work in connection with a dam that is not a large dam.
 23 Tanks and pools
-Building work in connection with a tank or pool and any structure in support of the tank or pool, including any tank or pool that is part of any other building for which a building consent is required, that—
+(1) Building work in connection with a tank or pool and any structure in support of the tank or pool, including any tank or pool that is part of any other building for which a building consent is required, that—
 (a) does not exceed 500 litres capacity and is supported not more than 4 metres above the supporting ground; or
 (b) does not exceed 1 000 litres capacity and is supported not more than 3 metres above the supporting ground; or
 (c) does not exceed 2 000 litres capacity and is supported not more than 2 metres above the supporting ground; or
@@ -183,6 +183,7 @@ Building work in connection with a tank or pool and any structure in support of 
 (e) does not exceed 8 000 litres capacity and is supported not more than 0.5 metres above the supporting ground; or
 (f) does not exceed 16 000 litres capacity and is supported not more than 0.25 metres above the supporting ground; or
 (g) does not exceed 35 000 litres capacity and is supported directly by ground.
+(2) Subclause (1) does not include a fence or hoarding to restrict access to a tank or pool.
 23A Flexible water storage bladders
 Building work in connection with a flexible water storage bladder that—
 (a) is on the ground; and

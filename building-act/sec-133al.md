@@ -1,9 +1,12 @@
 # 133AL Territorial authority must issue EPB notice for earthquake-prone buildings
-(1) This section applies if a territorial authority makes any of the following decisions:
-(a) determining under section 133AK or 133AY or clause 2 of Schedule 1AA that a building or a part of a building is earthquake prone; or
-(b) revoking an exemption under section 133AN; or
-(c) revoking an extension under section 133AO; or
-(d) determining under section 133AQ or 133AY that the earthquake rating of a building or a part of a building that is subject to an EPB notice is different from the earthquake rating (if any) of the building or part that is stated in the notice or the EPB register.
+(1) This section applies if—
+(a) a territorial authority makes any of the following decisions:
+(i) determining under section 133AK or 133AY or clause 2 of Schedule 1AA that a building or part of a building is earthquake-prone; or
+(ii) revoking an exemption under section 133AN; or
+(iii) revoking an extension under section 133AO; or
+(iv) determining under section 133AQ or 133AY that the earthquake rating of a building or part of a building that is subject to an EPB notice is different from the earthquake rating (if any) for the whole or part of the building that is stated in the notice or the EPB register; or
+(b) the deadline for completing seismic work on a building or part of a building is altered by section 133AMA; or
+(c) the deadline for completing seismic work on a building or part of a building is altered by an Order in Council referred to in section 133AMC.
 (2) The territorial authority must promptly issue an EPB notice for the building or the part of the building, which must—
 (a) be dated; and
 (b) be in the prescribed form; and
@@ -11,7 +14,7 @@
 (d) specify whether the building or part is a priority building; and
 (e) specify the earthquake rating of the building or part (unless this has not been determined: see section 133AK(4) and clause 2 of Schedule 1AA); and
 (f) state that the owner of the building or part is required to carry out building work to ensure that the building or part is no longer earthquake prone (seismic work); and
-(g) state the deadline for completing seismic work (see section 133AM); and
+(g) state the deadline for completing seismic work (see sections 133AM, 133AMA, 133AMB, and 133AMC); and
 (h) state that the owner of the building or part may apply under section 133AN for an exemption from the requirement to carry out seismic work; and
 (i) if the building is a heritage building to which section 133AO applies, state that the owner of the building or part may apply under that section for an extension of time to complete seismic work; and
 (j) state that the owner is not required to complete seismic work if the territorial authority determines or is satisfied, in accordance with section 133AQ, that the building or part is not earthquake prone.
