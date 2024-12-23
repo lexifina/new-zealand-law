@@ -41,6 +41,7 @@ New Zealand Post Limited
 New Zealand Security Intelligence Service
 New Zealand Standards Approval Board
 New Zealand Symphony Orchestra and any subsidiary of the New Zealand Symphony Orchestra
+Panel convener and panels appointed under the Fast-track Approvals Act 2024
 Parliamentary Commissioner for the Environment
 Privacy Commissioner
 Provincial Patriotic Councils
