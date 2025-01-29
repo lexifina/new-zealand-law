@@ -48,7 +48,7 @@ Section Description of unlawful act Amount
 48(4)(b) Tenant failing to allow landlord to enter upon premises in circumstances where landlord entitled to enter 1,500
 48(4)(c) Landlord failing to notify tenant of results of contamination test 1,000
 49D Unlawful acts of landlord related to tenant's liability under section 49B 1,800
-54(3) Landlord giving retaliatory notice of termination 6,500
+54(6) Landlord giving retaliatory notice of termination 6,500
 56E(3) Disclosing notice of withdrawal or accompanying qualifying evidence of family violence 3,000
 60AA Landlord acting to terminate tenancy without grounds 6,500
 61(5) Tenant abandoning premises without reasonable excuse 1,500
