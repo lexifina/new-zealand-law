@@ -58,6 +58,7 @@ Te Arawa Lakes Settlement Act 2006
 Te Atiawa Claims Settlement Act 2016
 Te Aupouri Claims Settlement Act 2015
 Te Kawerau ā Maki Claims Settlement Act 2015
+Te Korowai o Wainuiārua Claims Settlement Act 2025
 Te Rarawa Claims Settlement Act 2015
 Te Roroa Claims Settlement Act 2008
 Te Uri o Hau Claims Settlement Act 2002
