@@ -1,6 +1,8 @@
 # 56B Withdrawal from tenancy following family violence
 (1) A tenant under a fixed-term or periodic tenancy may withdraw from the tenancy by giving at least 2 days' notice to the landlord if—
-(a) the notice is accompanied by qualifying evidence that the tenant has been a victim of family violence while a tenant of the premises; and
+(a) the notice is accompanied by qualifying evidence that either or both of the following apply:
+(i) the tenant has been a victim of family violence while a tenant of the premises:
+(ii) the tenant's dependant has been a victim of family violence while residing at the premises with the tenant; and
 (b) the notice is in the approved form and includes the prescribed information.
 (2) If there are no other tenants under the tenancy at the time of the withdrawal, the tenancy terminates.
 (3) If there are other tenants (remaining tenants) under the tenancy at the time of the withdrawal,—

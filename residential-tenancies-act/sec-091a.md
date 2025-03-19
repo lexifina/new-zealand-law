@@ -9,5 +9,7 @@
 (a) personally; or
 (b) by posting it to a contact address that the tenant has supplied to the landlord in writing within the 2 months before the application; or
 (c) by delivering it to the place where the tenant now lives and giving it to any person appearing to be aged 16 years or older who appears to be residing at that place and who confirms that the tenant resides there; or
-(d) by giving it to any solicitor or other agent of the tenant duly authorised by the tenant to receive service on his or her behalf.
+(d) by giving it to any solicitor or other agent of the tenant duly authorised by the tenant to receive service on his or her behalf; or
+(e) if the landlord files the application no later than 2 years after the termination of the tenancy to which it relates, by transmission to an email address given by the tenant as an address for service; or
+(f) if the landlord files the application more than 2 years after the termination of the tenancy to which it relates, by transmission to an email address that the tenant has used to communicate with the landlord, or otherwise supplied to the landlord in writing, within the 2 years before the application.
 (3) This section overrides section 136(1) and (2).
