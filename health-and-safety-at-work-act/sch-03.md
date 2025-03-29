@@ -31,10 +31,13 @@ peat means combustible, soft, porous, or compressed sedimentary deposit of plant
 permit operator has the same meaning as in section 2(1) of the Crown Minerals Act 1991
 quarrying operation has the meaning given to it in clause 3
 site senior executive means a worker appointed as the site senior executive by the mine operator
-tourist mining operation means an operation that has the purpose of—
-(a) mine education; or
-(b) mine research; or
-(c) mine tourism
+tourist mining operation means an operation—
+(a) that is at a place where the extraction of coal or minerals has been carried out but is not currently being carried out and is not likely or intended to be carried out in the future; and
+(b) where there are 1 or more principal hazards in relation to a mining operation, within the meaning prescribed by regulations; and
+(c) that has 1 or more of the following purposes:
+(i) mine education:
+(ii) mine research:
+(iii) mine tourism
 tunnelling operation has the meaning given to it in clause 4.
 2 Meaning of mining operation
 In this schedule, mining operation—
@@ -42,7 +45,7 @@ In this schedule, mining operation—
 (b) includes any of the following activities and the place at which they are carried out:
 (i) exploring for coal:
 (ii) mining for coal or minerals:
-(iii) processing coal or minerals associated with a mine:
+(iii) processing coal or minerals where the processing occurs at a place adjacent to, or in the vicinity of, the site at which the coal or minerals are extracted:
 (iv) producing or maintaining tailings, spoil heaps, and waste dumps:
 (v) the excavation, removal, handling, transport, and storage of coal, minerals, substances, contaminants, and wastes at the place where the activities described in subparagraphs (i) to (iv) are carried out:
 (vi) the construction, operation, maintenance, and removal of plant and buildings at the place where the activities described in subparagraphs (i) to (iv) are carried out:
@@ -60,14 +63,16 @@ Compare: 1992 No 96 s 19M
 (1) In this schedule, quarrying operation—
 (a) means an activity carried out above ground for the purpose of—
 (i) extracting any material, other than coal or any mineral, from the earth; or
-(ii) processing any material, other than coal or any mineral, at the place where the material is extracted; and
-(b) includes the place where an activity described in paragraph (a) is carried out; and
-(c) includes any place in which any material extracted or processed in a quarry is crushed or screened.
-(2) Subclause (1) applies whether or not the material is to be extracted or processed for commercial gain and whether or not the material is extracted or processed by the use of explosives.
+(ii) processing any material, other than coal or any mineral, at the place where the material is extracted or at a place adjacent to, or in the vicinity of, that place; and
+(b) includes the place where an activity described in paragraph (a) is carried out; but
+(c) does not include either of the following, or the place where they are carried out:
+(i) an activity carried out above ground on a farm for the purpose of extracting or processing any material, other than coal or any mineral, from the earth for the use of that farm; or
+(ii) an activity carried out above ground for the purpose of extracting, processing, or moving any material, other than coal or any mineral, from the earth for use on a roading or other civil, commercial, or residential construction project that is at the place of the extraction.
+(2) To avoid doubt in relation to an activity described in subclause (1)(a) and (b), subclause (1) applies whether or not the material is to be extracted or processed for commercial gain and whether or not the material is extracted or processed by the use of explosives.
 Compare: 1992 No 96 s 19N
 4 Meaning of tunnelling operation
 In this schedule, tunnelling operation—
-(a) means an operation involving extraction of fill with the purpose of creating a tunnel or shaft or enlarging or extending any tunnel or shaft; and
+(a) means an operation involving extraction of material with the purpose of creating a tunnel or shaft or enlarging or extending any tunnel or shaft; and
 (b) includes the place where an operation described in paragraph (a) is carried out; but
 (c) excludes any tunnelling operation of a kind declared under clause 5 not to be a tunnelling operation.
 Compare: 1992 No 96 s 19O
@@ -217,7 +222,7 @@ WorkSafe must establish a board to be known as the New Zealand Mining Board of E
 Compare: 1992 No 96 s 20D
 28 Functions of Board
 The functions of the Board are—
-(a) to advise WorkSafe on competency requirements for mine workers:
+(a) to advise WorkSafe on competency requirements for mine workers, quarry workers, and alluvial mine workers:
 (b) to examine applicants, or have applicants examined, for certificates of competence:
 (c) to issue, renew, cancel, and suspend certificates of competence:
 (d) any other function relating to training and competency requirements for participants in the extractives industry conferred on the Board by regulations made under this Act.
@@ -227,10 +232,10 @@ Compare: 1992 No 96 s 20E
 (2) The appointment of a member of the Board must be for a specified period.
 (3) WorkSafe must appoint one of the members of the Board as the chairperson of the Board.
 (4) When appointing a member of the Board, WorkSafe must have regard to the need to ensure that the Board has among its members knowledge and experience of—
-(a) mining operations:
-(b) health and safety inspection in the mining industry:
-(c) mining education:
-(d) mining industry training.
+(a) mining operations, quarrying operations, and alluvial mining operations:
+(b) health and safety inspection in the mining industry, quarrying industry, and alluvial mining industry:
+(c) mining education, quarrying education, and alluvial mining education:
+(d) mining industry training, quarrying industry training, and alluvial mining industry training.
 (5) Without limiting subclause (4), the Board may include 1 or more employees of WorkSafe.
 (6) A member of the Board may resign by notice in writing to WorkSafe.
 (7) Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies to the members of the Board as if they were members of a committee appointed under clause 14 of Schedule 5 by the board of a Crown entity.
@@ -239,11 +244,15 @@ Compare: 1992 No 96 s 20F
 The Board may determine its own procedure.
 Compare: 1992 No 96 s 20G
 31 Board levy
-(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing a levy on mine operators to fund the direct and indirect costs incurred by the Board in performing the Board's functions to the extent that they relate to mining operations.
+(1) The Governor-General may, by Order in Council, in accordance with a recommendation of the Minister, make regulations imposing a levy on mine operators, quarry operators, and alluvial mine operators to fund the direct and indirect costs incurred by the Board in performing the Board's functions to the extent that they relate to mining operations, quarrying operations, and alluvial mining operations.
 (2) The regulations must—
 (a) specify how the levy rate or rates are calculated:
-(b) specify the mine operators or classes of mine operators responsible for paying the levy:
-(c) specify, if the levy is to be paid at different rates, the mine operators, mining operations, thing being extracted, or other things or the classes of mine operators, mining operations, thing being extracted, or other things to which the different rates apply:
+(b) specify the mine operators, quarry operators, alluvial mine operators, or classes of mine operators, quarry operators, or alluvial mine operators, responsible for paying the levy:
+(c) specify, if the levy is to be paid at different rates, what the different rates apply to, which may include—
+(i) mine operators, quarry operators, alluvial mine operators, or classes of those operators:
+(ii) mining operations, quarrying operations, alluvial mining operations, or classes of those operations:
+(iii) the thing being extracted:
+(iv) other things.
 (d) specify when and how the levy is to be paid:
 (e) specify the persons or classes of persons (if any) exempt from paying the levy.
 (3) Without limiting subclauses (1) and (2), regulations may—

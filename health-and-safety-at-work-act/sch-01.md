@@ -1,7 +1,8 @@
 # Schedule 1 Transitional and savings provisions
 s 4
+Part 1 Provisions relating to this Act as enacted
 1 Interpretation
-In this schedule, former Acts means—
+In this Part, former Acts means—
 (a) the Health and Safety in Employment Act 1992; and
 (b) the Machinery Act 1950.
 Legislative instruments
@@ -158,3 +159,11 @@ Notices, offences, and contraventions under former Acts
 (a) investigating an offence or a contravention to which this clause applies:
 (b) commencing or completing proceedings for an offence or a contravention to which this clause applies:
 (c) imposing a penalty or other remedy, or making an order, in relation to an offence or a contravention to which this clause applies.
+Part 2 Provision relating to Regulatory Systems (Immigration and Workforce) Amendment Act 2025
+27 Transitional provision relating to definition of notifiable incident
+Despite the repeal of section 24(1)(m) by section 16(1) of the Regulatory Systems (Immigration and Workforce) Amendment Act 2025, the following regulations continue in force (and may be amended and revoked) as if they had been made for the purposes of section 24(3) of this Act:
+(a) Health and Safety at Work (Adventure Activities) Regulations 2016:
+(b) Health and Safety at Work (Asbestos) Regulations 2016:
+(c) Health and Safety at Work (Major Hazard Facilities) Regulations 2016:
+(d) Health and Safety at Work (Mining Operations and Quarrying Operations) Regulations 2016:
+(e) Health and Safety at Work (Petroleum Exploration and Extraction) Regulations 2016.
