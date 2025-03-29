@@ -35,7 +35,7 @@ Provisions of enactments that relate to the following:
 (b) information that is required to be given in writing either in person or by registered post:
 (c) notices that are required to be attached to any thing or left or displayed in any place:
 (d) affidavits, statutory declarations, or other documents given on oath or affirmation:
-(e) powers of attorney or enduring powers of attorney:
+(e) powers of attorney or enduring powers of attorney (other than powers of attorney referred to in section 218(3)):
 (f) wills, codicils, or other testamentary instruments:
 (g) negotiable instruments:
 (h) bills of lading:
