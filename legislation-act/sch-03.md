@@ -12,28 +12,44 @@ Exemption applies
 Child Poverty Reduction Act 2018
 Section 6 (in combination with section 34)
 Exemption applies
-Civil Aviation Act 1990
-Section 28
+Civil Aviation Act 2023
+Section 52
 Exemption ground
 Compliance is inappropriate for reasons of security.
 Exemption applies if exemption ground is met
-Section 31
+Section 63
 Exemption ground
 Compliance is inappropriate for reasons of security.
 Exemption applies if exemption ground is met
-Section 34A
+Section 64
 Exemption ground
 Compliance is inappropriate for reasons of security.
 Exemption applies if exemption ground is met
-Section 77A
+Section 67
+Exemption ground
+Compliance is inappropriate for reasons of security.
+Exemption applies if exemption ground is met
+Section 70
+Exemption ground
+Compliance is inappropriate for reasons of security.
+Exemption applies if exemption ground is met
+Section 152
 Exemption ground
 Compliance would prejudice the national security interests of New Zealand.
 Exemption applies if exemption ground is met
-Section 77B
+Section 154
 Exemption ground
 Compliance would prejudice the national security interests of New Zealand.
 Exemption applies if exemption ground is met
-Section 107(1)
+Section 322(1)(b)
+Exemption ground
+Compliance would prejudice the national security interests of New Zealand.
+Exemption applies if exemption ground is met
+Section 430 (where transport instrument provided for by rule made under s 52, 63, 67, or 70)
+Exemption ground
+Compliance would prejudice the national security interests of New Zealand.
+Exemption applies if exemption ground is met
+Section 436
 Exemption applies
 Civil Defence Emergency Management Act 2002
 Section 39

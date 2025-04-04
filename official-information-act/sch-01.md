@@ -2,6 +2,7 @@
 s 2(1)
 Accreditation Council
 Airport companies (as defined in section 2 of the Airport Authorities Act 1966) in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 2 of that Act), or any council-controlled organisation (as defined in section 6 of the Local Government Act 2002)
+Airport operators (as defined in section 5 of the Civil Aviation Act 2023) that are companies in which more than 50% of the ordinary shares are owned by, or by any combination of, the Crown, any local authority (as defined in section 5(1) of the Local Government Act 2002), or any council-controlled organisation (as defined in section 6(1) of the Local Government Act 2002)
 Airways Corporation of New Zealand Limited
 Animal Control Products Limited
 Armed Forces Canteen Council
