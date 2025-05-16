@@ -7,6 +7,7 @@ City Rail Link Limited ✓ ✓ ✓ ✓
 Crown Infrastructure Delivery Limited ✓ ✓ ✓ ✓
 Crown Regional Holdings Limited ✓ ✓
 Education Payroll Limited ✓ ✓ ✓ ✓
+Ferry Holdings Limited ✓ ✓ ✓ ✓
 Health Benefits Limited ✓ ✓ ✓ ✓
 Kiwi Group Capital Limited
 National Infrastructure Funding and Financing Limited ✓ ✓ ✓ ✓
