@@ -1,0 +1,5 @@
+# 86O Stage-2 offences: loss of parole eligibility when determinate sentence of imprisonment of more than 24 months imposed for offence other than murder
+(1) This section applies if a court imposes a determinate sentence of imprisonment of more than 24 months on an offender for a stage-2 offence other than murder.
+(2) The court must order that the offender serve the sentence without parole unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to make the order (see section 86T).
+(3) If, but for the application of this section, the court would have ordered under section 86 that the offender serve a minimum period of imprisonment in relation to the sentence imposed for the stage-2 offence, the court must state, with reasons, the minimum period of imprisonment that it would have imposed.
+(4) If, but for the application of this section, the court would not have made an order under section 86, the court must state that it would not have made such an order.
