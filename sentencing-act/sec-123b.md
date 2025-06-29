@@ -1,6 +1,10 @@
 # 123B Protection order
 (1) This section applies if—
-(a) an offender is convicted of a family violence offence; and
+(a) an offender is convicted of, or is under section 106 discharged without conviction for, a family violence offence; and
+Examples
+Convicted of family violence offence
+The offender is convicted of a family violence offence and is discharged, under section 108.
+The offender is convicted of a family violence offence and is ordered to appear for sentence if called on, under section 110.
 (b) there is not currently in force a protection order against the offender made under the Family Violence Act 2018 for the protection of the victim of the offence.
 (2) The court may make a protection order against the offender if—
 (a) it is satisfied that the making of the order is necessary for the protection of the victim of the offence; and

@@ -1,5 +1,5 @@
-# 9A Cases involving violence against, or neglect of, child under 14 years
-(1) This section applies if the court is sentencing or otherwise dealing with an offender in a case involving violence against, or neglect of, a child under the age of 14 years.
+# 9A Cases involving violence against, or neglect of, child under 14 years, or young person of or over age of 14 years but under 18 years
+(1) This section applies if the court is sentencing or otherwise dealing with an offender in a case involving violence against, or neglect of, a child under the age of 14 years, or a young person of or over the age of 14 years but under 18 years.
 (2) The court must take into account the following aggravating factors to the extent that they are applicable in the case:
 (a) the defencelessness of the victim:
 (b) in relation to any harm resulting from the offence, any serious or long-term physical or psychological effect on the victim:
