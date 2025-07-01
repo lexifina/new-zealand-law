@@ -89,6 +89,13 @@ Section 7(5)
 Exemption applies
 Section 8(2)
 Exemption applies
+Local Government (Water Services Preliminary Arrangements) Act 2024
+Section 42
+Exemption applies
+Exemption applies
+Section 46
+Exemption applies
+Exemption applies
 Members of Parliament (Remuneration and Services) Act 2013
 Section 8(1)
 Exemption applies
