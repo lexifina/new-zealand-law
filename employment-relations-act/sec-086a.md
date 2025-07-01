@@ -7,7 +7,9 @@
 (a) be in writing; and
 (b) specify the following information:
 (i) the period of notice given; and
-(ii) the nature of the proposed strike, including whether or not it will be continuous; and
+(ii) the nature of the proposed strike, including—
+(A) whether or not the proposed action will be continuous; and
+(B) whether or not the employees will continue to perform some work for their employer while undertaking the proposed action; and
 (iii) the place or places where the proposed strike will occur; and
 (iv) the date and time on which the strike will begin; and
 (v) the date and time on which, or an event on the occurrence of which, the strike will end.
