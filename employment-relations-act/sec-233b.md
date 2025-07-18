@@ -17,5 +17,5 @@
 (d) the Ministry for Primary Industries:
 (e) the New Zealand Police:
 (f) the Registrar of Companies:
-(g) WorkSafe New Zealand and any agency designated under section 28B of the Health and Safety in Employment Act 1992:
+(g) WorkSafe New Zealand and any agency designated under section 191 of the Health and Safety at Work Act 2015:
 (h) any other department of State, person, or organisation defined in regulations as a regulatory agency for the purposes of this section.
