@@ -20,7 +20,7 @@
 (b) include exceptions to standards.
 (5) The Governor-General may, by Order in Council, make regulations—
 (a) prescribing information relating to the healthy homes standards that must be included in a landlord's statement for the purposes of section 13A(1CA)(b) or (1CB)(b):
-(b) prescribing the records or other documents that must be retained by a landlord for the purposes of section 123A(1)(ca) (which may include records or other documents relating to work or other things done before the commencement of the tenancy).
+(b) prescribing the records or other documents that must be retained by a landlord for the purposes of section 123A(1)(e) (which may include records or other documents relating to work or other things done before the commencement of the tenancy).
 (6) Regulations under this section may—
 (a) make different provisions for different descriptions of landlords, premises, areas in New Zealand, or other circumstances:
 (b) make provisions applying to all landlords or provisions that apply only to particular descriptions of landlords, premises, areas in New Zealand, or other circumstances.
