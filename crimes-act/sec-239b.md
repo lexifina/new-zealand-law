@@ -1,0 +1,2 @@
+# 239B Possessing, selling, disposing of, or procuring goods designed, manufactured, or adapted with intent to facilitate commission of crimes involving dishonesty
+Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses, sells, disposes of, or procures any goods designed, manufactured, or adapted to facilitate the commission of a crime involving dishonesty, with intent to use, or to enable another person to use, the goods to facilitate the commission of a crime involving dishonesty.
