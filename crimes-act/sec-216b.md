@@ -14,6 +14,4 @@
 (c) the interception is necessary for the purpose of maintaining the Internet or other communication service; and
 (d) the interception is only used for the purpose of maintaining the Internet or other communication service.
 (6) Information obtained under subsection (5) must be destroyed immediately if it is no longer needed for the purpose of maintaining the Internet or other communication service.
-(7) Any information held by any person that was obtained while assisting with the execution of a surveillance device warrant issued under the Search and Surveillance Act 2012 must, upon expiry of the warrant, be—
-(a) destroyed immediately; or
-(b) given to the agency executing the warrant.
+(7) [Repealed]
