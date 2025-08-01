@@ -1,7 +1,7 @@
 # 66M Consultation on draft Code by Minister
 (1) As soon as practicable after the commencement of this section but before the Minister issues a draft Code, the Minister must consult the following persons about the content and form of the Code:
 (a) the Privacy Commissioner:
-(b) the Children and Young People's Commission:
+(b) the Children's Commissioner:
 (c) any organisations or individuals who the Minister is satisfied represent the interests of—
 (i) child welfare and protection agencies; and
 (ii) independent persons; and
