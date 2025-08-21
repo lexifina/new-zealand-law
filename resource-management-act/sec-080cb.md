@@ -1,0 +1,2 @@
+# 80CB Local authority may apply to use same streamlined planning process to progress matters in different instruments
+A local authority that notifies the responsible Minister for a direction to prepare a listed planning instrument using the streamlined planning process (under section 80CA or clause 5(1) of Schedule 3C) may also apply to the Minister (under section 80C) for a direction to prepare another planning instrument using that same streamlined planning process.

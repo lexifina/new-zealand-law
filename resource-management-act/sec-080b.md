@@ -2,12 +2,18 @@
 (1) This subpart and Part 5 of Schedule 1 provide a process, through a direction of the responsible Minister, for the preparation of a planning instrument in order to achieve an expeditious planning process that is proportionate to the complexity and significance of the planning issues being considered.
 (2) Under this subpart, Schedule 1 applies as follows:
 (a) clauses 1A to 3C, 6, 6A, 16, and 20A apply; and
-(b) clauses 4, 9, 13, 21 to 27 (other than clauses 25(2)(a)(i) and (ii) and 26(b)), and 28(2) to (6) apply; but
+(b) clauses 4, 9, 13, 17 to 20, and 21 to 27 (other than clauses 25(2)(a)(i) and (ii) and 26(b)), and 28(2) to (6) apply; and
+(ba) clauses 16A and 16B apply, but only in relation to an Auckland housing planning instrument (see clause 10 of Schedule 3C); but
 (c) the rest of Part 1 does not apply unless it is expressly applied by—
 (i) this subpart; or
 (ii) Part 5 of Schedule 1; or
 (iii) a direction given under clause 78 of Schedule 1.
 (3) In this subpart and Part 5 of Schedule 1,—
+Auckland housing planning instrument has the meaning given in clause 1 of Schedule 3C
+independent commissioner means a person who is accredited under section 39A
+listed planning instrument means—
+(a) an Auckland housing planning instrument; or
+(b) a plan change that a local authority is required, by direction from the Minister under section 25A(5), to prepare using the streamlined planning process
 national direction means a direction made by—
 (a) a national planning standard; or
 (b) a national environmental standard; or
@@ -19,4 +25,6 @@ planning instrument—
 responsible Minister means the Minister or Ministers who give a direction in accordance with this subpart and Part 5 of Schedule 1, namely,—
 (a) the Minister of Conservation, in the case of a regional coastal plan:
 (b) both the Minister and the Minister of Conservation, in the case of a proposed planning instrument that is to encompass matters within the jurisdiction of both those Ministers:
-(c) the Minister, in every other case.
+(c) the Minister, in every other case
+SPP panel means an independent hearings panel of 1 or more independent commissioners established under clause 83 of Schedule 1.
+(4) See also Part 1 of Schedule 3C, which provides a process for Auckland Council to prepare an Auckland housing planning instrument using the streamlined planning process.

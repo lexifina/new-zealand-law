@@ -17,6 +17,7 @@
 (i) protects or relates to water, air, or soil (for soil conservation); or
 (ii) protects areas of significant indigenous vegetation; or
 (iii) protects areas of significant habitats of indigenous fauna; or
-(iv) protects historic heritage:
+(iv) protects historic heritage; or
+(v) relates to natural hazards:
 (b) the proposed plan under section 149O if the rule provides for or relates to aquaculture activities.
 (9) [Repealed]

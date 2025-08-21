@@ -1,5 +1,6 @@
 # 217B Interpretation
 In this Part, unless the context otherwise requires,—
+approved industry organisation means an industry organisation approved under section 217KA
 arable land use means the use of land to grow any of the following crops for harvest:
 (a) grain cereal, legumes, or pulse grain:
 (b) herbage seed:
@@ -22,6 +23,7 @@ farm means a farm where all or part of the farm is—
 (d) other agricultural land use prescribed in regulations made under section 217M(1)(b); or
 (e) any combination of the above
 farm operator means the person with ultimate responsibility for the operation of a farm
+freshwater farm plan means a freshwater farm plan required under section 217D
 horticultural land use means the use of land to grow food or beverage crops for human consumption (other than arable crops), or flowers for commercial supply
 pastoral land use means the use of land for the grazing of livestock
 regulations means regulations made under section 217M

@@ -12,9 +12,11 @@
 (b) protects areas of significant indigenous vegetation; or
 (c) protects areas of significant habitats of indigenous fauna; or
 (d) protects historic heritage; or
-(e) provides for or relates to aquaculture activities.
+(e) provides for or relates to aquaculture activities; or
+(f) relates to natural hazards.
 (4) For the purposes of subsection (2)(c), a decision is rescinded if—
 (a) the local authority publicly notifies that the decision is rescinded; and
 (b) the public notice includes a statement of the decision to which it relates and the date on which the recision was made.
+(4A) However, a rule described in subsection (3)(a), (b), or (c) does not have immediate legal effect if, and to the extent that, it is a rule that controls fishing in a coastal marine area.
 (5) For the purposes of subsection (3) and section 86BA, immediate legal effect means legal effect on and from the date on which the proposed plan containing the rule is publicly notified under clause 5 of Schedule 1.
 (6) [Repealed]

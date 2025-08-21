@@ -34,6 +34,10 @@
 (b) may state the matters over which—
 (i) control is reserved; or
 (ii) discretion is restricted.
+(6A) A national environmental standard may, in relation to an aquaculture activity,—
+(a) state that an application by a consent holder to change or cancel conditions must be treated as an application for a resource consent for a controlled or restricted discretionary activity; and
+(b) for that purpose, state the matters over which control is reserved or discretion is restricted.
+(6B) However, if a national environmental standard has the same effect as a rule that controls fishing in the coastal marine area, section 71(4)(a) to (c) applies to the standard as if each reference to a rule in that section were a reference to the standard.
 (7) A national environmental standard may specify the activities for which the consent authority—
 (a) must give public notification of an application for a resource consent:
 (b) is precluded from giving public notification of an application for a resource consent:

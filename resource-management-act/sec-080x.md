@@ -1,0 +1,3 @@
+# 80X Obligation on local authority arising from Minister's decision
+(1) If the Minister declines an application for an exemption under section 80V, the local authority must, within 10 working days after receiving the Minister's decision, withdraw the proposed planning instrument and comply with section 80R (public notice of withdrawal).
+(2) If the Minister grants the application in part and declines it in part, the local authority must, within 10 working days after receiving the Minister's decision, withdraw those parts of the proposed planning instrument for which an exemption is declined and comply with section 80R.
