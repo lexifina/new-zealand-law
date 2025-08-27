@@ -15,3 +15,8 @@
 (5) When adopting or amending a policy under this section, the local authority must consult in accordance with section 82 unless it considers on reasonable grounds that it has sufficient information about community interests and preferences to enable the purpose of the policy to be achieved.
 (5A) [Repealed]
 (6) To avoid doubt, section 80 applies when a local authority deviates from this policy.
+Water services
+(7) Consultation under subsection (5) is not required to amend a policy to the extent that the amendment is made when a territorial authority—
+(a) has established a water organisation under the Local Government (Water Services) Act 2025; and
+(b) is working with that organisation in relation to the organisation's significance and engagement policy under section 37(4) of that Act.
+(8) This section applies subject to sections 34 and 37(4) of that Act.

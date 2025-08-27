@@ -1,5 +1,5 @@
 # 53ZG Power to exempt disclosure of commercially sensitive information
-(1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation.
+(1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation, or revenue threshold regulation, quality regulation, performance requirement regulation, or price-quality regulation under subpart 12.
 (2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
 (3) [Repealed]
 (4) The Commission may, in like manner, vary or revoke any exemption.

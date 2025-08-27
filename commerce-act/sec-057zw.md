@@ -1,0 +1,2 @@
+# 57ZW Commission must take into account duties owed by suppliers of water services
+The Commission must take into account the duties owed by suppliers of water services under other legislation or instruments or under Treaty settlement obligations (for example, under water quality standards and requirements to support and enable planning processes, growth, and housing and urban development) when applying this Part in relation to water services.

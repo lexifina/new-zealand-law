@@ -71,12 +71,15 @@ A long-term plan must, to the extent determined appropriate by the local authori
 (i) in detail in relation to each of the first 3 financial years covered by the plan; and
 (ii) in outline in relation to each of the subsequent financial years covered by the plan.
 (2) In this schedule, each of the following activities is a group of activities:
-(a) water supply:
-(b) sewerage and the treatment and disposal of sewage:
-(c) stormwater drainage:
+(a) [Repealed]
+(b) [Repealed]
+(c) [Repealed]
 (d) flood protection and control works:
 (e) the provision of roads and footpaths.
-(3) Despite subclause (2), a local authority may treat any other activities as a group of activities.
+(3) Despite subclause (2), a local authority may treat any other activities as a group of activities, other than activities related to providing water services under the Local Government (Water Services) Act 2025.
+(4) To avoid doubt, a territorial authority may include information about targeted rates for activities, or a group of activities, relating to water services in a funding impact statement that is included in—
+(a) a long-term plan under clause 15; or
+(b) an annual plan under clause 20.
 3 Capital expenditure for groups of activities
 (1) A long-term plan must, in relation to each group of activities of the local authority and for each financial year covered by the plan, include a statement of the amount of capital expenditure that the authority has budgeted to—
 (a) meet additional demand for an activity; and
@@ -98,7 +101,7 @@ A long-term plan must, in relation to each group of activities of the local auth
 (c) how the funds are to be applied.
 6 Variation between territorial authority's long-term plan and assessment of water and sanitary services and waste management plans
 A long-term plan for a territorial authority must identify and explain any significant variation between the proposals outlined in the long-term plan and the territorial authority's—
-(a) assessment of drinking water, wastewater, and other sanitary services under sections 125 and 128:
+(a) assessment of certain sanitary services under section 128:
 (b) waste management and minimisation plans adopted under section 43 of the Waste Minimisation Act 2008.
 7 Council-controlled organisations
 A long-term plan must, in relation to each council-controlled organisation in which the local authority is a shareholder,—
@@ -148,11 +151,15 @@ If the local authority has resolved, under section 100(2), not to balance its op
 (i) how liability for the targeted rate is to be calculated; and
 (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on that basis; and
 (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
+(da) specify whether the targeted rate is set to collect revenue that—
+(i) relates to 1 or more groups of water services activities; and
+(ii) is being collected as an agent of a water organisation, as provided in a transfer agreement under clause 6 of Schedule 2 of the Local Government (Water Services) Act 2025; and
 (e) state whether lump sum contributions will be invited in respect of the targeted rate.
 (5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must, for the first year covered by the long-term plan, include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
 (6) If the same source of funding is to be used in more than 1 of the years covered by the long-term plan, in order to comply with subclauses (2)(a), (3), and (4) with respect to that source, it is sufficient—
 (a) to comply with those subclauses in relation to 1 of those years; and
 (b) for the funding impact statement to specify the other years in respect of which that source is to be used.
+(7) In subclause (4)(da), group of water services activities and transfer agreement have the meanings given in section 4 of the Local Government (Water Services) Act 2025.
 15A Rating base information
 A long-term plan must state, for each year covered by the plan, the projected number of rating units within the district or region of the local authority at the end of the preceding financial year.
 16 Reserve funds
@@ -207,8 +214,12 @@ Part 2 Information to be included in annual plan
 (i) how liability for the targeted rate is to be calculated; and
 (ii) the local authority's definition of a separately used or inhabited part of a rating unit, if the rate is to be calculated on that basis; and
 (d) if the targeted rate is set differentially, state the total revenue sought from each category of rateable land or the relationship between the rates set on rateable land in each category; and
+(da) specify whether the targeted rate is set to collect revenue that—
+(i) relates to 1 or more groups of water services activities; and
+(ii) is being collected as an agent of a water organisation, as provided in a transfer agreement under clause 6 of Schedule 2 of the Local Government (Water Services) Act 2025; and
 (e) state whether lump sum contributions will be invited in respect of the targeted rate.
 (5) If the sources of funding include a general rate or a targeted rate, the funding impact statement must include examples of the impact of the rating proposals in subclauses (3) and (4) on the rates assessed on different categories of rateable land with a range of property values.
+(6) In subclause (4)(da), group of water services activities, water organisation, and transfer agreement have the meanings given in section 4 of the Local Government (Water Services) Act 2025.
 20A Rating base information
 An annual plan must state—
 (a) the projected number of rating units within the district or region of the local authority at the end of the preceding financial year:

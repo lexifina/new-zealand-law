@@ -1,5 +1,5 @@
 # 258S Notification of appointment of Ministerial body
-(1) A notice of appointment of a Ministerial body under section 258(1), 258B(1), 258D(1), or 258F(1) must state the following:
+(1) A notice of appointment of a Ministerial body under section 258(1), 258B(1), 258D(1), 258F(1), 258MA(1), or 258MC(1) must state the following:
 (a) that the Minister has appointed a Ministerial body; and
 (b) the terms of reference of the Ministerial body; and
 (c) the start and end dates of the Ministerial body's appointment; and

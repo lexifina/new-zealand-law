@@ -140,8 +140,9 @@ Part 4 Provisions relating to COVID-19 Response (Further Management Measures) Le
 24 Repeal of this Part
 [Repealed]
 Part 5 Provisions relating to Water Services Act 2021
+[Repealed]
 23 Requirements in subpart 1 of Part 7
-Despite section 125(3), every territorial authority must complete an assessment of drinking water services in accordance with section 125 by 1 July 2026.
+[Repealed]
 Part 6 Provisions relating to Water Services Entities Act 2022
 [Repealed]
 Definitions[Repealed]
@@ -314,3 +315,38 @@ Section 103(2)(ia) continues to apply, as if it had not been repealed by the ame
 Section 200(3)(a)(vi) continues to apply, as if it had not been repealed by the amendment Act, until the Auckland RFT reserve fund is spent.
 58 Transitional provision relating to information to be included in annual reports
 In Schedule 10, clause 34B continues to apply, as if it had not been repealed by the amendment Act, in relation to the annual report of the Auckland Council for any year in which the Auckland RFT reserve fund still contained revenue from the Auckland RFT scheme.
+Part 10 Provisions relating to Local Government (Water Services) Act 2025
+59 Interpretation
+In this Part,—
+(a) 2025 Act means the Local Government (Water Services) Act 2025; and
+(b) the following terms have the same meanings as in section 4 of the 2025 Act:
+(i) group of water services activities:
+(ii) water organisation:
+(iii) water service provider:
+(iv) water services:
+(v) water services annual report:
+(vi) water services strategy.
+60 Transitional provision relating to financial statements
+(1) This clause applies to a territorial authority's annual report adopted under section 98 for the financial year ending on 30 June 2027.
+(2) In addition to the information required by Part 3 of Schedule 10, the annual report must include—
+(a) a statement of comprehensive revenue and expense; and
+(b) a statement of cash flows; and
+(c) a statement of financial position.
+(3) The statements required under subclause (2) must be included—
+(a) separately for each group of water services activities provided by the territorial authority; and
+(b) aggregated for all water services provided by the territorial authority.
+(4) However, this clause does not apply if a territorial authority prepares a water services annual report for the period ending on 30 June 2027 under clause 6(2) of Schedule 1 of the 2025 Act.
+61 Information to be included in planning documents
+(1) The amendments made by the Local Government (Water Services) (Repeals and Amendments) Act 2025 to sections 93 and 101B and clause 2 of Schedule 10 of this Act do not apply to a territorial authority that is a water service provider until the territorial authority is preparing its first water services strategy under the 2025 Act.
+(2) The amendments made by the Local Government (Water Services) (Repeals and Amendments) Act 2025 to section 95 of this Act do not apply to a territorial authority that is a water service provider until the territorial authority adopts its first water services strategy under the 2025 Act.
+62 Planning and reporting documents of council-controlled organisations
+(1) This clause applies to a council-controlled organisation (CCO) that—
+(a) is—
+(i) a CCO to which clause 8 of Schedule 1 of the 2025 Act applies; or
+(ii) an Auckland water organisation under the Local Government (Auckland Council) Act 2009; and
+(b) becomes a water organisation under the 2025 Act when that Act comes into force.
+(2) Despite section 71B(2),—
+(a) the most recent statement of intent prepared under section 64 of this Act in relation to the CCO continues in force until the first water services strategy adopted by the water organisation comes into force under section 230 of the 2025 Act:
+(b) a statement of expectations prepared under section 64B of this Act in relation to the CCO continues in force until the first statement of expectations is provided to the water organisation under section 224 of the 2025 Act:
+(c) the requirements for a half-yearly report under section 66 of this Act continue to apply until the water organisation adopts its first half-yearly report under section 248 of the 2025 Act:
+(d) the requirements for an annual report under section 67 of this Act continue to apply until the water organisation adopts its first water services annual report under section 243 of the 2025 Act.

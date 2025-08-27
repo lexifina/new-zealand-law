@@ -3,7 +3,8 @@
 (2) Determinations must be made,—
 (a) in the case of goods or services declared to be regulated by an Order in Council under section 52N, as soon as practicable after the Order in Council is made; and
 (b) in the case of goods or services declared to be regulated under subparts 9 and 10, in accordance with sections 54I, 54J, 54K, and 55E; and
-(c) in the case of regulation being imposed on specified airport services under section 56K, in accordance with section 56L.
+(c) in the case of regulation being imposed on specified airport services under section 56K, in accordance with section 56L; and
+(d) in the case of regulation being imposed on water services under subpart 12, in accordance with section 57N.
 (3) Determinations must—
 (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and
 (b) set out any time frames (including the regulatory periods) that must be met or that apply; and
@@ -14,4 +15,5 @@
 (6) A determination under this section may require a supplier to comply with the requirements set out in any other determination that has been made under this section in respect of regulated goods or services of the same type.
 (7) The Commission must, as soon as practicable after making a determination under this section, give to each supplier to whom the determination relates notice of the determination and where it is available.
 (8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
+(8A) See sections 57N to 57Q and Schedule 7, which provide for additional matters relating to determinations under this section that specify how regulation applies to suppliers of water services.
 (9) A determination under this section and an amendment to a determination are secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).

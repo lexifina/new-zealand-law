@@ -1,6 +1,8 @@
-# 258W Recovery of expenses from local authority
-(1) A local authority owes as a debt to the Crown any expenses that the Crown incurs for the appointment of a Crown Manager or a Commission to the local authority, including the payment of remuneration and expenses to the Crown Manager or a member of the Commission.
-(2) Any expenses that the Crown incurs for the appointment of a Crown Observer or a Crown Review Team to a local authority, including the payment of remuneration and expenses to the Crown Observer or a member of the Crown Review Team, may be recovered by the Crown from the local authority if—
+# 258W Recovery of expenses
+(1) A local authority, group of local authorities, water organisation, or trustees of a consumer trust owe as a debt to the Crown any expenses that the Crown incurs for the appointment of a Crown Manager, Crown Commission, Crown facilitator—water services, or Crown commissioner—water services to the local authority, group of local authorities, water organisation, or consumer trust, including the payment of remuneration and expenses to the Crown Manager, a member of the Commission, the Crown facilitator—water services, or the Crown commissioner—water services.
+(1A) A water organisation or the trustees of a consumer trust owe as a debt to the Crown any expenses that the Crown incurs for the appointment of a Crown Observer or a Crown Review Team to the water organisation or consumer trust, including the payment of remuneration and expenses to the Crown Observer or a member of the Crown Review Team.
+(2) Any expenses that the Crown incurs for the appointment of a Crown Observer or a Crown Review Team to a local authority or group of local authorities, including the payment of remuneration and expenses to the Crown Observer or a member of the Crown Review Team, may be recovered by the Crown from the local authority or group of local authorities if—
 (a) the Minister decides that to do so is reasonable in the circumstances; and
 (b) the terms of reference authorise the recovery.
 (3) The Crown may recover expenses under subsection (2) as a debt to the Crown.
+(4) If the Minister appoints a Ministerial appointee to a group of local authorities, each local authority owes an equal share of the expenses incurred as a debt to the Crown.

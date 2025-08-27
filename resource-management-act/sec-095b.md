@@ -13,7 +13,12 @@ Step 2: if not required by step 1, limited notification precluded in certain cir
 (a) if the answer is yes, go to step 4 (step 3 does not apply); and
 (b) if the answer is no, go to step 3.
 (6) The criteria for step 2 are as follows:
-(a) the application is for a resource consent for 1 or more activities, and each activity is subject to a rule or national environmental standard that precludes limited notification:
+(a) the application is for a resource consent for 1 or more activities and public notification is precluded for each activity by 1 or more of the following:
+(i) a rule:
+(ii) a national environmental standard:
+(iii) an infrastructure design solution:
+(iv) a stormwater environmental performance standard:
+(v) a wastewater environmental performance standard:
 (b) the application is for a controlled activity (but no other activities) that requires a resource consent under a district plan (other than a subdivision of land).
 Step 3: if not precluded by step 2, certain other affected persons must be notified
 (7) In the case of a boundary activity, determine in accordance with section 95E whether an owner of an allotment with an infringed boundary is an affected person.

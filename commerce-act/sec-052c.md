@@ -1,9 +1,9 @@
 # 52C Interpretation
 In this Part, unless the context otherwise requires,—
 claw-back has the meaning given to it by section 52D
-consumer (other than in sections 54C, 54D, and 55A) means a person that consumes or acquires regulated goods or services
+consumer (other than in sections 54C, 54D, and 55A, subpart 12, and Schedule 7) means a person that consumes or acquires regulated goods or services
 information disclosure requirement means a requirement that applies to a supplier of goods or services that are subject to information disclosure regulation, and is specified in a section 52P determination
-input methodology means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published as referred to in section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
+input methodology means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T (or clause 31 of Schedule 7) and that is published as referred to in section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
 inquiry means,—
 (a) for the purposes of subpart 11, an inquiry by the Commission into the regulation of specified airport services that is carried out in accordance with sections 56F to 56H; and
 (b) for all other purposes, an inquiry by the Commission that is carried out in accordance with sections 52H to 52J
@@ -14,7 +14,13 @@ pricing methodologies means methodologies for setting the prices of individual g
 publicly disclose, in relation to information required to be disclosed under information disclosure regulation, means to disclose information to the public in the manner required by a section 52P determination
 regulated means regulated under this Part
 regulated goods or services means goods or services that are declared to be regulated—
-(a) by Order in Council made under section 52N; or
-(b) by any of subparts 9 to 11
-regulated supplier means a person to whom a section 52P determination applies in relation to particular goods or services
-section 52P determination means a determination by the Commission under section 52P that sets out how each type of regulation that applies to particular regulated goods or services applies to a supplier of those goods or services; and, in relation to particular goods or services, means every section 52P determination relevant to the regulation of those goods or services.
+(a) by Order in Council made under section 52N or 57L; or
+(b) by any of subparts 9 to 12
+regulated supplier—
+(a) means a person to whom a section 52P determination applies in relation to particular goods or services; or
+(b) in relation to water services, has the meaning set out in clause 2(1) of Schedule 7
+section 52P determination means a determination by the Commission under section 52P that sets out how each type of regulation that applies to particular regulated goods or services applies to a supplier of those goods or services; and, in relation to particular goods or services, means every section 52P determination relevant to the regulation of those goods or services
+water services means any of the following (as defined in section 57A(1)):
+(a) water supply services:
+(b) wastewater services:
+(c) stormwater services.

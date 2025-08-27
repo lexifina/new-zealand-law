@@ -137,3 +137,39 @@ Section 69 applies in relation to a clearance or an authorisation whether the cl
 Section 80C applies to a covenant only if the covenant is given, or required to be given, on or after the commencement date.
 27 Offence under section 82B(1)(b) does not apply in relation to covenants given before commencement date
 Section 82B(1)(b) does not apply to a person who gives effect to a cartel provision in a covenant given, or required to be given, before the commencement date.
+Part 6 Provisions relating to Local Government (Water Services) Act 2025
+28 Interpretation in this Part
+In this Part, unless the context otherwise requires,—
+Preliminary Arrangements Act 2024 means the Local Government (Water Services Preliminary Arrangements) Act 2024
+section 52P determination has the same meaning as in section 52C.
+29 Transition in respect of information disclosure requirements for purpose of economic regulation
+(1) The Commission must, before 1 July 2026, make 1 or more section 52P determinations specifying how information disclosure regulation imposed under subpart 12 of Part 4 of this Act will apply to any entities that are specified under section 39 of the Preliminary Arrangements Act 2024 as being subject to foundational information disclosure.
+(2) On and after 1 July 2026,—
+(a) that or those section 52P determinations apply to those entities; but
+(b) any foundational information disclosure requirements imposed under the Preliminary Arrangements Act 2024 continue to apply in relation to the financial year ending on 30 June 2026 if the disclosure date under section 44(1)(g) of that Act is on or before 31 December 2026 (and those requirements may be enforced under that Act, despite the commencement of the provisions in the Local Government (Water Services) (Repeals and Amendments) Act 2025 that amend this Act); and
+(c) no foundational information disclosure requirements under the Preliminary Arrangements Act 2024 apply in relation to the financial year ending on 30 June 2027 or any later years.
+(3) An entity may not be declared to be a specified entity under section 39 of the Preliminary Arrangements Act 2024 after the commencement of the Local Government (Water Services) Act 2025.
+(4) Any consultation undertaken under section 40 of the Preliminary Arrangements Act 2024 is treated as also having been undertaken for the purposes of clause 35 of Schedule 7 of this Act.
+30 Transition in respect of economic regulation of Watercare Services Limited
+(1) In this clause, unless the context otherwise requires,—
+end-date of the first regulatory period means the end-date of the first time period in respect of economic regulation of Watercare Services Limited under the Watercare charter made under Part 4 of the Preliminary Arrangements Act 2024, being—
+(a) the date specified under section 78(b)(ii) of that Act; or
+(b) any earlier or later date determined by the Minister under clause 31.
+(2) The Commission must, before the end-date of the first regulatory period, make a section 52P determination specifying how price-quality regulation imposed under subpart 12 of Part 4 of this Act will apply to Watercare Services Limited and any subsidiary of Watercare Services Limited under section 57F of this Act.
+(3) On and after that end-date,—
+(a) that section 52P determination applies to those entities; and
+(b) any price-quality path set under the Watercare charter under the Preliminary Arrangements Act 2024 no longer applies to those entities.
+(4) Subject to this clause, Part 4 of the Preliminary Arrangements Act 2024 continues in force, and may be enforced under that Act, despite the commencement of the provisions in the Local Government (Water Services) (Repeals and Amendments) Act 2025 that amend this Act.
+31 Commission may recommend alteration of first regulatory period that applies under Preliminary Arrangements Act 2024
+(1) The Commission may recommend to the Minister responsible for the Preliminary Arrangements Act 2024 and the Minister responsible for this Act that the end-date of the first regulatory period that applies under the Preliminary Arrangements Act 2024 be—
+(a) extended; or
+(b) brought forward to an earlier date.
+(2) The Commission may make that recommendation only if it considers that the recommendation would better promote the purpose of Part 4 of this Act.
+(3) The Minister responsible for the Preliminary Arrangements Act 2024 may take that recommendation into account if acting under section 77 of that Act and may recommend to the Governor-General that the time period during which the charter applies for the purpose of section 78(b)(ii) of that Act be amended.
+32 Transition for recovery of costs of Commission
+(1) Levy regulations made under section 53ZE may provide for the recovery of the costs of the Commission in respect of the Commission's functions, powers, and duties under the Preliminary Arrangements Act 2024.
+(2) However, subclause (1) does not apply to expenses incurred by the Crown monitor in relation to monitoring Watercare that are referred to in section 89(1)(a) of the Preliminary Arrangements Act 2024 (which costs continue to be recoverable from Watercare under that section 89).
+(3) Any consultation referred to in subclause (4) must be treated as having been undertaken for the purposes of section 53ZE(4).
+(4) The consultation is any consultation undertaken by the Minister with suppliers of water services, or representatives of those suppliers, that—
+(a) occurred at any time between 1 November 2024 and 28 February 2025; and
+(b) related to levies to meet the costs of performing the Commission's functions, powers, and duties in connection with subpart 12 of Part 4 and Schedule 7 of this Act (and the costs of collecting the levy money).

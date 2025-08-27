@@ -10,3 +10,9 @@ s 197
 (b) the total cost of capital expenditure does not exceed that which relates to the period over which development has been assessed for the purpose of setting development contributions.
 2 Attribution of units of demand to developments
 For the purpose of determining in accordance with section 203(2) the maximum development contribution that may be required for a particular development or type of development, a territorial authority must demonstrate in its methodology that it has attributed units of demand to particular developments or types of development on a consistent and equitable basis.
+3 Calculations when water organisation being established
+(1) This clause applies in the period when—
+(a) a territorial authority is establishing a water organisation under the Local Government (Water Services) Act 2025; but
+(b) before the territorial authority amends its policy on development contributions or financial contributions under section 117(2) of that Act.
+(2) When calculating development contributions under this Act, the territorial authority may base its calculation on the capital expenditure that the authority expects the water organisation to incur after the transfer agreement takes effect.
+(3) In this clause, transfer agreement has the meaning set out in section 4 of the Local Government (Water Services) Act 2025.

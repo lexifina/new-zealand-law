@@ -16,7 +16,7 @@
 (4) Section 274 applies to the notice of motion, and any person who has made a submission to the territorial authority on the requirement and wishes to be heard on the matter by the Environment Court must give notice to the court in accordance with that section.
 (5) Parts 11 and 11A apply to proceedings under this section.
 (6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
-(a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
+(a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) and (2AAA) as if it were a territorial authority; and
 (b) may—
 (i) cancel the requirement; or
 (ii) confirm the requirement; or

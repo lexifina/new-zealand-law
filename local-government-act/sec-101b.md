@@ -27,11 +27,15 @@
 (ii) include an outline of the potential effects of that uncertainty.
 (4A) [Repealed]
 (5) A local authority may meet the requirements of section 101A and this section by adopting a single financial and infrastructure strategy document as part of its long-term plan.
+(5A) Despite subsection (6)(b), an infrastructure strategy—
+(a) may include information on water services infrastructure under the Local Government (Water Services) Act 2025 if that information is part of, or desirable to support, an integrated approach to infrastructure planning in the local authority's district; but
+(b) must not include the detailed information on water services infrastructure that is required to be included in a water services strategy adopted by a water service provider under section 230 of the Local Government (Water Services) Act 2025.
+(5B) In subsections (5A) and (6), water service provider and water services infrastructure have the same meanings as in section 4 of the Local Government (Water Services) Act 2025.
 (6) In this section, infrastructure assets includes—
 (a) existing or proposed assets to be used to provide services by or on behalf of the local authority in relation to the following groups of activities:
-(i) water supply:
-(ii) sewerage and the treatment and disposal of sewage:
-(iii) stormwater drainage:
+(i) [Repealed]
+(ii) [Repealed]
+(iii) [Repealed]
 (iv) flood protection and control works:
 (v) the provision of roads and footpaths; and
-(b) any other assets that the local authority, in its discretion, wishes to include in the strategy.
+(b) any other assets that the local authority, in its discretion, wishes to include in the strategy, other than water services infrastructure that relates to providing water services under the Local Government (Water Services) Act 2025.
