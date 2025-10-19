@@ -1,7 +1,8 @@
 # Schedule 4 Information required in application for resource consent
 s 88, Schedule 1
 1 Information must be specified in sufficient detail
-Any information required by this schedule, including an assessment under clause 2(1)(f) or (g), must be specified in sufficient detail to satisfy the purpose for which it is required.
+(1) Any information required by this schedule, including an assessment under clause 2(1)(f) or (g), must be specified in sufficient detail to satisfy the purpose for which it is required.
+(2) However, the requirements in this schedule are subject to section 88(2), (2AA), and (2AB).
 1AA
 [Repealed]
 1A Matters to be included in assessment of effects on environment

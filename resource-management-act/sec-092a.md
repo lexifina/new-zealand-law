@@ -6,7 +6,7 @@
 (2) A consent authority that receives a written notice under subsection (1)(b) must—
 (a) set a reasonable time within which the applicant must provide the information; and
 (b) tell the applicant in a written notice the date by which the applicant must provide the information.
-(3) The consent authority must consider the application under section 104 even if the applicant—
+(3) The consent authority may consider the application under section 104 even if the applicant—
 (a) does not respond to the request; or
 (b) agrees to provide the information under subsection (1)(b) but does not do so; or
 (c) refuses to provide the information under subsection (1)(c).
