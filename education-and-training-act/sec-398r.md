@@ -1,5 +1,5 @@
 # 398R Application of Public Audit Act 2001
-(1) An institution that is a category B wānanga is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
+(1) An institution that is a category B wānanga is a public entity as defined in section 5 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
 (2) The wānanga must forward to the Auditor-General,—
 (a) within 3 months after the end of each financial year,—
 (i) the annual financial statements of the wānanga; and

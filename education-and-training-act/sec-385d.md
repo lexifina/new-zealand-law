@@ -1,0 +1,3 @@
+# 385D Minister must indicate whether levy order to continue in force
+(1) The Minister on whose recommendation a levy order is made must indicate the Minister's intentions with regard to the levy order continuing in force by publishing a notice in the Gazette at least 6 months before the deadline that applies under subpart 3 of Part 5 of the Legislation Act 2019 (the 6-month date).
+(2) However, this section does not apply if the levy order has already been revoked, disallowed under subpart 2 of Part 5 of the Legislation Act 2019, or confirmed by an Act before the 6-month date.

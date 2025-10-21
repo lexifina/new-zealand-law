@@ -23,7 +23,7 @@ Subpart 4—General provisions for Part 4 (tertiary education and vocational edu
 Tertiary education strategy
 13 Tertiary education strategy
 Institutions
-14 Institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary)
+14 Institutions
 Ministerial directions
 15 Ministerial direction relating to compulsory student services fees
 16 Ministerial direction relating to programmes
@@ -177,6 +177,95 @@ Superannuation
 124 Government Superannuation Fund
 Shared education services
 125 Arrangements between State schools for shared education services
+Part 7
+Provisions relating to Education and Training (Vocational Education and Training System) Amendment Act 2025
+126 Interpretation
+Subpart 1—Transitional provisions relating to Te Pūkenga
+127 Definitions for this subpart
+Continuation, and renaming, of Te Pūkenga
+128 Continuation, and renaming, of Te Pūkenga during transition period
+129 Application of this Act to NZIST during transition period
+Transfer of NZIST's operations
+130 Requirement to develop transition plan for programmes and micro-credentials
+131 Requirement to develop transition plan for training activities
+132 Minister may exercise temporary power of direction in relation to NZIST
+133 Transfer of programmes, micro-credentials, and training activities provided by NZIST
+134 Existing approvals, accreditations, and consents
+135 Existing funding paid by TEC under funding mechanism
+136 Transfers do not give rise to claims
+137 Existing proceedings and other matters
+Transfer of NZIST employees to successor organisation
+138 Duties to identify employees and provide employee information
+139 Employment of NZIST employees by successor organisation
+140 Transfer of other employment rights, duties, liabilities, or obligations of NZIST on change of employer
+141 Government Superannuation Fund
+Students and trainees of NZIST
+142 Students and trainees of NZIST
+143 Existing training agreements
+Other matters relating to transfers
+144 Visas granted under Immigration Act 2009
+145 Consequences of transfers for purposes of Inland Revenue Acts
+146 Transfer of contract for services to more than 1 successor organisation
+Disestablishment of NZIST
+147 Disestablishment of NZIST
+Consequences of disestablishment
+148 Section 573 applies to NZIST
+149 Council members cease to hold office
+150 Taxes and duties of NZIST
+151 Previous actions or decisions of NZIST not affected
+Subpart 2—Provision of work-based training by industry skills boards for temporary period
+152 Application of clauses 153 to 162
+153 Provision of training activities by industry skills boards
+154 Application of well-being and safety code of practice to industry skills board that provides training activities
+155 Industry skills board to be treated as institution for purposes of certain provisions
+156 Industry skills board may charge fees for providing training activities
+157 Industry skills board's use of fee income for training activities
+158 Enrolment of new trainees in training activities
+159 Requirement to develop transition plan for transfer of training activities to tertiary education providers
+160 Transfer of training activities
+161 Trainees of industry skills board
+162 Transfer of training agreements
+163 Transfers do not give rise to claims
+164 Consequences of transfers for purposes of Inland Revenue Acts
+Transfer of industry skills board's employees to tertiary education providers
+165 Duties to identify employees and provide employee information
+166 Employment of industry skills board employees by tertiary education provider
+167 Transfer of other employment rights, duties, liabilities, or obligations of industry skills board on change of employer
+168 Government Superannuation Fund
+Subpart 3—Transitional provisions relating to WDCs
+169 Interpretation
+Continuation of WDCs
+170 Continuation of WDCs
+171 Application of legislation to WDC during transition period
+Transfer of functions
+172 Requirement to develop transition plan relating to WDC's functions
+173 Minister may exercise temporary power of direction in relation to WDC
+174 Transfer of rights, assets, and liabilities of WDC
+175 Consequences of transfer for purposes of Inland Revenue Acts
+176 Transfers do not give rise to claims
+177 Existing proceedings and other matters
+Transfer of WDC employees
+178 Duties to identify employees and provide employee information
+179 Employment of WDC employees by industry skills board or NZQA
+180 Transfer of employment rights, duties, liabilities, or obligations of WDC on change of employer
+181 Government Superannuation Fund
+182 Visas granted under Immigration Act 2009
+Disestablishment of WDCs
+183 Disestablishment of WDCs
+Consequences of disestablishment
+184 Council members cease to hold office
+185 Previous actions or decisions of WDC not affected
+186 Final report of WDC
+Subpart 4—Transitional provisions relating to establishment of council of polytechnic
+187 Validation of pre-commencement actions and processes
+188 Membership of first council of polytechnic reduced
+Subpart 5—Transitional provisions relating to establishment of industry skills boards
+189 Members of first industry skills board
+190 Validation of pre-commencement actions and processes regarding appointments to industry skills board
+191 Membership of industry skills board reduced until all appointments made
+192 First annual report for industry skills board
+Subpart 6—Miscellaneous
+193 Apprenticeship training code
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -297,8 +386,8 @@ Tertiary education strategy
 (1) This clause applies to the tertiary education strategy issued by the Minister under section 159AA of the 1989 Act and in force immediately before the commencement of this clause.
 (2) The strategy continues in force as if it were issued under section 7.
 Institutions
-14 Institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary)
-(1) This clause applies to an institution (other than Te Pūkenga—New Zealand Institute of Skills and Technology or an Te Pūkenga—New Zealand Institute of Skills and Technology subsidiary) in existence immediately before the commencement of this clause.
+14 Institutions
+(1) This clause applies to an institution in existence immediately before the commencement of this clause.
 (2) The institution must be treated as having been established under section 268.
 (3) A reference in any other Act to an institution established under this Act must be read as including a reference to a body specified in the definition of institution in section 10(1).
 Compare: 1989 No 80 s 162(1)
@@ -1168,3 +1257,506 @@ Shared education services
 (2) On and after the conversion date,—
 (a) the sponsor is to be treated as if it were a party to the arrangement; and
 (b) all references in the arrangement to the board of the converted school must be treated as if they were references to the sponsor.
+Part 7 Provisions relating to Education and Training (Vocational Education and Training System) Amendment Act 2025
+126 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+amendment Act means the Education and Training (Vocational Education and Training System) Amendment Act 2025
+commencement means the date on which the amendment Act (except Parts 3 to 6 of Schedule 6) comes into force
+NZIST means New Zealand Institute of Skills and Technology continued as an institution under clause 128
+Te Pūkenga—New Zealand Institute of Skills and Technology or Te Pūkenga means the institution continued under section 314 (as in force immediately before commencement) and in existence immediately before commencement
+training activity means a programme, micro-credential, assessment against standards, or other activity provided or carried out by Te Pūkenga before commencement relating to the provision of any work-based training (as defined in section 10(1)).
+(2) A term used in this Part that is defined in section 10(1) or (6), but not in this Part, has the meaning given in section 10(1) or (6).
+Subpart 1—Transitional provisions relating to Te Pūkenga
+127 Definitions for this subpart
+(1) In this subpart, unless the context otherwise requires,—
+disestablishment date, in relation to NZIST, means the date specified in clause 147(1)(b) or specified by an order made under clause 147(2)
+successor organisation,—
+(a) in relation to a programme, micro-credential, assessment against standards, or other activity provided by NZIST on or before the transfer date, means a tertiary education provider that on and after the transfer date is responsible for continuing the programme, micro-credential, assessment against standards, or other activity (or any part of the programme, micro-credential, assessment against standards, or other activity):
+(b) in relation to a training activity provided by NZIST on or before the transfer date, means an industry skills board that on and after the transfer date is responsible for continuing the training activity or any part of the training activity
+transfer date,—
+(a) in relation to a programme, micro-credential, or other activity provided by NZIST, means the date (or dates) specified in the transition plan approved under clause 130 on which the programme or micro-credential transfers to the relevant successor organisation:
+(b) in relation to a training activity provided by NZIST, means the date (or dates) specified in the transition plan approved under clause 131 on which the training activity transfers to the relevant successor organisation
+transition period, for NZIST, means the period starting on commencement and ending on the close of the day before the disestablishment date
+transition plan, for NZIST, means a plan developed and approved under clause 130 or 131.
+(2) The modification of this Act by clause 129 does not affect the text of this Act, but requires it to be read as if amended in the manner indicated by that clause.
+Continuation, and renaming, of Te Pūkenga
+128 Continuation, and renaming, of Te Pūkenga during transition period
+(1) Despite the amendments made by the amendment Act, Te Pūkenga continues in existence during the transition period and is renamed the New Zealand Institute of Skills and Technology (NZIST).
+(2) During the transition period,—
+(a) Te Pūkenga's council continues in existence as the council of NZIST; and
+(b) NZIST's council may continue to operate even if the membership of the council no longer meets any 1 or more of the membership requirements specified in section 320(1)(a) to (d) (as in force before commencement); and
+(c) an elected member of NZIST's council may continue to serve on the council even if the advisory committee that elected the member ceases to operate.
+129 Application of this Act to NZIST during transition period
+(1) This Act (as in force immediately before commencement) continues to apply to NZIST during the transition period—
+(a) as modified by this clause; and
+(b) with any other necessary modifications.
+Functions of NZIST
+(2) Section 315 (as in force immediately before commencement) does not apply to NZIST.
+(3) Instead, NZIST's functions during the transition period are as follows:
+(a) to maintain the delivery of programmes, micro-credentials, training activities, and other activities pending the transfer of those programmes, micro-credentials, training activities, or other activities to successor organisations:
+(b) to do all things necessary to transfer the programmes, micro-credentials, training activities, and other activities that have been allocated to successor organisations under a transition plan:
+(c) to do all other things that are necessary to prepare for NZIST's disestablishment, including (without limitation)—
+(i) disposing of surplus assets and discharging the liabilities of NZIST:
+(ii) cancelling or closing down any programmes, micro-credentials, training activities, or other activities provided by NZIST that have not been allocated to a successor organisation under a transition plan or for which there is no successor organisation:
+(d) to carry out any other functions that are conferred by the Minister for the purpose of giving effect to this Part.
+Duties of NZIST's council
+(4) NZIST's council has—
+(a) all the duties of a polytechnic's council under section 281 (as amended by the amendment Act); and
+(b) the additional duties of a polytechnic set out in section 321 (as replaced by the amendment Act).
+Duty to give effect to charter
+(5) Section 316 and Schedule 13 (as in force immediately before commencement) do not apply to NZIST.
+Schedules
+(6) Schedules 14 and 15 (as in force immediately before commencement) do not apply to NZIST.
+Transfer of NZIST's operations
+130 Requirement to develop transition plan for programmes and micro-credentials
+(1) As soon as practicable after commencement, NZIST's council must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the transfer of NZIST's operations, including (without limitation)—
+(a) programmes, micro-credentials, or other activities provided by NZIST to 1 or more tertiary education providers; and
+(b) any specified rights, assets, liabilities, or agreements of NZIST relating to those programmes, micro-credentials, or other activities to 1 or more tertiary education providers.
+(2) The chief executive of TEC—
+(a) may issue guidance to NZIST on what must be contained in the transition plan; and
+(b) must consult NZIST when developing the guidance.
+(3) When approving a transition plan under this clause, TEC may, by giving written notice to NZIST, make any amendments to the plan that TEC considers reasonably necessary.
+(4) As soon as practicable after TEC has approved a transition plan, NZIST's council must do all things necessary to give effect to the plan.
+(5) If NZIST fails or refuses to develop a transition plan, TEC may develop the transition plan and NZIST must give effect to that plan.
+131 Requirement to develop transition plan for training activities
+(1) As soon as practicable after commencement, NZIST's council must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the transfer of NZIST's operations, including (without limitation)—
+(a) training activities provided by NZIST to 1 or more industry skills boards; and
+(b) any specified rights, assets, liabilities, or agreements of NZIST relating to those training activities to 1 or more industry skills boards.
+(2) A transition plan developed under subclause (1) may specify that the assets of NZIST to be transferred to an industry skills board for the purposes of providing training activities under clause 153—
+(a) may only be used by the industry skills board for those training activities; and
+(b) must be managed by the industry skills board in a way that ensures the assets are available for transfer to a tertiary education provider under clause 160.
+(3) The chief executive of TEC—
+(a) may issue guidance to NZIST on what must be contained in the transition plan; and
+(b) must consult NZIST when developing the guidance.
+(4) When approving a transition plan under this clause, TEC may, by giving written notice to NZIST, make any amendments to the plan that TEC considers reasonably necessary.
+(5) As soon as practicable after TEC has approved a transition plan, NZIST's council must do all things necessary to give effect to the plan.
+(6) If NZIST fails or refuses to develop a transition plan, TEC may develop the transition plan and NZIST's council must give effect to that plan.
+132 Minister may exercise temporary power of direction in relation to NZIST
+(1) During the transition period, the Minister may, by written notice to NZIST's council, give any directions that the Minister thinks are reasonably necessary to ensure that NZIST can deal effectively with matters relating to the allocation and transfer of programmes, micro-credentials, training activities, or other activities to a successor organisation as provided for in a transition plan.
+(2) The Minister must consult TEC, NZQA, and NZIST before giving a direction.
+(3) NZIST must comply with the direction.
+(4) A direction expires on the earlier of—
+(a) the expiry date specified in the direction; and
+(b) the end of the transition period.
+Compare: 1989 No 80 Schedule 1 cl 24
+133 Transfer of programmes, micro-credentials, and training activities provided by NZIST
+(1) This clause applies to—
+(a) a programme, micro-credential, training activity, or other activity provided by NZIST that is allocated to a successor organisation in accordance with a transition plan approved under clause 130 or 131; and
+(b) any specified rights, assets, liabilities, or agreements of NZIST relating to those programmes, micro-credentials, training activities, and other activities of NZIST that are allocated to the successor organisation under the transition plan.
+(2) On and after the transfer date,—
+(a) the matters specified in subclause (1) vest in the successor organisation concerned; and
+(b) any reference to NZIST in any legislation (other than this Act), instrument, agreement, deed, lease, application, notice, or other document relating to the matters specified in subclause (1) must be read as a reference to the successor organisation concerned; and
+(c) any information or document held by NZIST relating to the matters specified in subclause (1) is held by the successor organisation concerned; and
+(d) all money payable to, or by, NZIST (including funding payable under this Act) in relation to the matters specified in subclause (1) becomes payable to, or by, the successor organisation concerned.
+(3) The transfer of information from NZIST to a successor organisation under this clause does not constitute an action that is a breach of information privacy principle 8 or 11 within the meaning of the Privacy Act 2020.
+134 Existing approvals, accreditations, and consents
+(1) This clause applies to the following matters granted to, or treated as having been granted to, NZIST under subpart 2 of Part 5 before the transfer date of a programme, micro-credential, or training activity and in effect immediately before that date:
+(a) an approval of a programme under section 439:
+(b) an accreditation to provide all or part of a programme under section 441:
+(c) an approval of the content of a micro-credential under section 445:
+(d) an accreditation to provide a micro-credential under section 446A:
+(e) a consent to assess against the standards listed in the Directory of Assessment and Skill Standards under section 449:
+(f) a consent to award a degree or a postgraduate qualification under section 454.
+(2) On and after the transfer date,—
+(a) the approval, accreditation, or consent (including any conditions imposed on an approval, accreditation, or consent) continues to apply and must be treated as if it were granted to the successor organisation to which the relevant programme or micro-credential or consent is transferred; and
+(b) unless the context otherwise requires, every reference in the approval, accreditation, or consent must be read as a reference to the successor organisation concerned.
+135 Existing funding paid by TEC under funding mechanism
+(1) This clause applies to funding (including any conditions imposed on the funding) payable by TEC to NZIST in respect of a programme, micro-credential, training activity, other activity, or group of students or trainees—
+(a) in accordance with an approval granted under section 425(2); or
+(b) other than via a plan under section 428.
+(2) On and after the transfer date,—
+(a) TEC must treat the funding, unless it is earlier suspended, revoked, or withdrawn under clause 16 or 26 of Schedule 18, as if it were payable to the successor organisation to which the programme, micro-credential, training activity, or other activity, or group of students or trainees is transferred; and
+(b) for the purposes of paragraph (a), every reference to NZIST in an approval granted under section 425(2) must, unless the context otherwise requires, be read as a reference to the successor organisation concerned.
+136 Transfers do not give rise to claims
+Nothing effected or authorised by this subpart—
+(a) places NZIST, a successor organisation, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or
+(b) places NZIST, a successor organisation, or any other person in breach of any legislation, rule of law, or contractual provision that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or
+(c) entitles a person to terminate or cancel a contract or an arrangement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge; or
+(d) releases a surety from an obligation; or
+(e) invalidates or discharges a contract or surety.
+Compare: 2022 No 30 Schedule 1 cl 28
+137 Existing proceedings and other matters
+(1) This clause applies in relation to a programme, micro-credential, training activity, or other activity provided by NZIST or an approval, accreditation, or consent held by NZIST that is transferred to a successor organisation.
+(2) On and after the transfer date,—
+(a) proceedings continued or enforced by or against NZIST in relation to a matter referred to in subclause (1) may instead be continued or enforced by or against the successor organisation without amendment to the proceedings; and
+(b) a matter or thing that would, but for this clause, have been completed by NZIST may instead be completed by the successor organisation concerned; and
+(c) anything done, or omitted to be done, or that is to be done, by or in relation to NZIST is to be treated as having been done, or having been omitted to be done, or having to be done, by or in relation to the successor organisation concerned.
+(3) In subclause (2)(a), proceedings—
+(a) means civil and criminal proceedings; and
+(b) includes any enforcement or compliance activities by TEC or NZQA.
+Transfer of NZIST employees to successor organisation
+138 Duties to identify employees and provide employee information
+(1) NZIST's council must—
+(a) identify the employees of NZIST whose positions may be required by a successor organisation to carry out the functions of the successor organisation; and
+(b) provide to the successor organisation the employee information about those employees that is reasonably necessary for the purpose of making offers of employment under clause 139(3).
+(2) In this clause, employee information, in relation to an employee of NZIST, includes (without limitation) information about—
+(a) the employee's employment agreement, remuneration, accrued leave entitlements, superannuation scheme benefits, and any service-related benefits and entitlements:
+(b) any employment policies that are part of the employee's conditions of employment.
+139 Employment of NZIST employees by successor organisation
+(1) This clause applies if any programmes, micro-credentials, training activities, or other activities provided by NZIST are transferred to a successor organisation in accordance with a transition plan approved under clause 130 or 131.
+(2) The successor organisation concerned must identify the employees of NZIST—
+(a) whose duties overall are required by the successor organisation to carry out the organisation's functions; and
+(b) whose positions will cease to exist as a result of the transfer of the programmes, micro-credentials, training activities, or other activities to the successor organisation.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the successor organisation, being employment that is—
+(a) in substantially the same position; and
+(b) in the same general locality; and
+(c) on terms and conditions (including, without limitation, in relation to the employee's overall remuneration and any service-related, redundancy, or superannuation conditions) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+(d) on terms that treat the period of service with NZIST (and every other period of service recognised by NZIST as continuous service) as if it were continuous service with the successor organisation.
+(4) If the employee accepts an offer of employment under subclause (3), the employee's employment by the successor organisation concerned is to be treated as continuous employment, including for the purposes of service-related entitlements, whether legislative or otherwise.
+(5) An employee of NZIST who is offered employment under subclause (3) by a successor organisation is not entitled to receive any contractual notice or any payment, benefit, or compensation from NZIST or the successor organisation on the grounds that—
+(a) the employee's position in NZIST has ceased to exist, whether or not the employee accepts the offer; or
+(b) the person has ceased to be an employee of NZIST as a result of the person's employment by the successor organisation.
+(6) To avoid doubt, the employment of an employee by the successor organisation concerned does not—
+(a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+(b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(7) This clause overrides—
+(a) Part 6A of the Employment Relations Act 2000; and
+(b) any employee protection provision in any relevant employment agreement.
+140 Transfer of other employment rights, duties, liabilities, or obligations of NZIST on change of employer
+(1) This clause applies to any other rights, duties, liabilities, or obligations of NZIST (including in relation to any holiday and leave entitlements under the Holidays Act 2003)—
+(a) relating to an employee who has become an employee of a successor organisation under clause 139; and
+(b) that were in existence immediately before the date on which the employee became an employee of the successor organisation.
+(2) The rights, duties, liabilities, and obligations referred to in subclause (1) vest in the successor organisation on the date on which the employee becomes an employee of the successor organisation.
+141 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of a successor organisation, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the successor organisation.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the successor organisation were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the successor organisation is the controlling authority.
+Students and trainees of NZIST
+142 Students and trainees of NZIST
+(1) This clause applies to every student or trainee enrolled at NZIST in a programme, micro-credential, or training activity immediately before the transfer date of the programme, micro-credential, or training activity to a successor organisation.
+(2) The student or trainee must be treated as having been enrolled at the successor organisation that is responsible for continuing the programme, micro-credential, or training activity on and after the transfer date.
+(3) A student or trainee who would, but for the transfer of a programme, micro-credential, or training activity to a successor organisation, have been entitled to be granted an award by NZIST is entitled to be granted the same or equivalent award of the successor organisation.
+143 Existing training agreements
+(1) This clause applies to a training agreement and an apprenticeship training agreement that was in force immediately before the date on which responsibility for delivery or co-ordination of training activities under the agreement is transferred to a successor organisation.
+(2) On and after the transfer date,—
+(a) the training agreement and apprenticeship training agreement continues in force; and
+(b) unless the context otherwise requires, every reference to NZIST in the training agreement and apprenticeship training agreement must be read as a reference to the successor organisation where the trainee is enrolled on and after that date.
+(3) Subclause (4) applies if the activities and responsibilities of the successor organisation in respect of the delivery or co-ordination of the training under the training agreement are to be changed.
+(4) As soon as is reasonably practicable after the transfer date, the successor organisation must—
+(a) consult the parties to the training agreement before amending the training agreement; and
+(b) if the parties agree, amend the training agreement and apprenticeship training agreement.
+Other matters relating to transfers
+144 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of—
+(a) a student or trainee for the purposes of enrolment at NZIST; or
+(b) an employee of NZIST for the purposes of being employed by NZIST.
+(2) On and after the transfer date, any reference to NZIST in a condition imposed on the visa must be read as a reference to the successor organisation where the student or trainee is taken to be enrolled or where the employee's employment is continued (as applicable).
+145 Consequences of transfers for purposes of Inland Revenue Acts
+(1) This clause applies in relation to a matter that is transferred to a successor organisation in accordance with a transition plan approved under clause 130 or 131.
+(2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), NZIST and the successor organisation are treated as the same person to the extent to which the matter is transferred to the successor organisation.
+146 Transfer of contract for services to more than 1 successor organisation
+(1) This clause applies if a contract for services entered into by Te Pūkenga before commencement or by NZIST during the transition period is transferred to more than 1 successor organisation.
+(2) On and after the transfer date, the contract of service must be treated as if it had been entered into by each relevant successor organisation on terms that reflect that successor organisation's use of the services.
+Disestablishment of NZIST
+147 Disestablishment of NZIST
+(1) NZIST is disestablished on the earlier of the following dates:
+(a) the date specified by Order in Council made under subclause (2); and
+(b) the close of 31 March 2027.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+(a) specify the date on which NZIST is disestablished; and
+(b) provide for the distribution of residual assets and liabilities (including any liabilities for tax or redundancy payments) of NZIST.
+(3) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Consequences of disestablishment
+148 Section 573 applies to NZIST
+Section 573 (which sets out the effects of disestablishment of an institution) applies, with any necessary modifications, in relation to NZIST on its disestablishment date.
+149 Council members cease to hold office
+(1) Every member of NZIST's council holding office immediately before the disestablishment date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown nor NZIST is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+150 Taxes and duties of NZIST
+Section 575 (which provides for the taxes and duties of a disestablished institution) applies, with any necessary modifications, in relation to any outstanding taxes or duties of NZIST on the disestablishment date.
+151 Previous actions or decisions of NZIST not affected
+The disestablishment of NZIST does not, by itself, affect any of the following matters:
+(a) any decision made, or anything done or omitted to be done, by NZIST in relation to the performance or exercise of its functions, powers, or duties under any legislation:
+(b) any proceedings commenced by or against NZIST:
+(c) any other matter or thing arising out of NZIST's performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any legislation.
+Compare: 2022 No 30 Schedule 1 cl 10
+Subpart 2—Provision of work-based training by industry skills boards for temporary period
+152 Application of clauses 153 to 162
+(1) Clauses 153 to 162 apply during the period beginning on commencement and ending on the close of 31 December 2027.
+(2) The modification of this Act by clause 153 does not affect the text of this Act, but requires it to be read as if amended in the manner indicated by that clause.
+153 Provision of training activities by industry skills boards
+(1) Section 367 (as replaced by the amendment Act) applies to an industry skills board as if the following paragraph and heading were inserted before the heading above paragraph (a):
+Providing training activities
+(aaa) to provide the training activities allocated to the industry skills board in accordance with a transition plan approved under clause 131 of Schedule 1 pending the transfer of those activities to a tertiary education provider:
+(2) Subclause (1) applies despite section 372 (as replaced by the amendment Act).
+154 Application of well-being and safety code of practice to industry skills board that provides training activities
+A code of well-being and safety issued under section 534(1) applies to an industry skills board that provides training activities in accordance with clause 153 as if—
+(a) the industry skills board were a signatory provider to which the code applies; and
+(b) the students or trainees enrolled in the training activity were domestic tertiary students or international students in respect of whom the code applies.
+155 Industry skills board to be treated as institution for purposes of certain provisions
+Despite section 10(5)(a), an industry skills board that provides training activities is to be treated as an institution for the purposes of the sections specified in section 10(5)(a)(i) to (iii) during the period referred to in clause 152(1).
+156 Industry skills board may charge fees for providing training activities
+(1) An industry skills board may, by notice, fix fees payable by trainees for training activities provided by the industry skills board.
+(2) A notice under subclause (1) may fix different fees payable by trainees, or a group or category of trainees, in relation to the training activities provided by the industry skills board.
+(3) However, a fee fixed under subclause (1) must not exceed the corresponding amount that was being charged by Te Pūkenga as at 31 December 2025 for providing the relevant training activity.
+(4) Fees fixed under this clause are payable in the manner prescribed in the notice and are recoverable as a debt due to the industry skills board.
+(5) A fee payable by a trainee may be refunded or waived in accordance with any criteria set out in the notice.
+(6) A notice made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+157 Industry skills board's use of fee income for training activities
+(1) Before the transfer of training activities under clause 160, any income from fees paid by trainees to an industry skills board in accordance with a fee notice issued under clause 156 may only be used to provide the training activities to those trainees.
+(2) To avoid doubt, the income from fees paid to the industry skills board may be used for payment of actual and reasonable costs incurred—
+(a) for the governance and management of the training activities; or
+(b) as a direct result of compliance obligations, reporting requirements, or other legal obligations relating to the provision of the training activities.
+158 Enrolment of new trainees in training activities
+(1) An industry skills board may enrol new trainees in a training activity unless TEC determines by notice in writing to the industry skills board that new trainees may not be enrolled in the training activity.
+(2) A determination under subclause (1) may relate to any 1 or more trainees or class of trainees specified in the notice.
+(3) In making a determination, TEC must take into account the availability of the training activity to the trainee or trainees to whom the proposed determination relates.
+159 Requirement to develop transition plan for transfer of training activities to tertiary education providers
+(1) An industry skills board must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the transfer of—
+(a) training activities provided by the industry skills board and trainees enrolled in those training activities to 1 or more tertiary education providers; and
+(b) any specified rights, assets, liabilities, or agreements of the industry skills board relating to those training activities to 1 or more tertiary education providers.
+(2) The chief executive of TEC—
+(a) may issue guidance to an industry skills board on what must be contained in a transition plan; and
+(b) must consult the industry skills board when developing the guidance.
+(3) When approving a transition plan, TEC may, by giving written notice to the industry skills board, make any amendments to the plan that TEC considers reasonably necessary.
+(4) As soon as practicable after TEC has approved a transition plan, the industry skills board must do all things necessary to give effect to the plan.
+(5) If the industry skills board fails or refuses to develop a transition plan, TEC may develop the transition plan and the industry skills board must give effect to that plan.
+160 Transfer of training activities
+(1) During the period beginning on 1 July 2027 and ending with the close of 31 December 2027, an industry skills board must give effect to a transition plan approved under clause 159 for the transfer of training activities to a tertiary education provider.
+(2) However, an industry skills board may develop and give effect to a transition plan approved under clause 159 before 1 July 2027 with the written approval of TEC.
+(3) On and after the date of transfer specified in the transition plan approved under clause 159,—
+(a) the training activities, rights, assets, liabilities, and agreements specified in the transition plan vest in the tertiary education provider concerned; and
+(b) any reference to the industry skills board in any legislation (other than this Act), instrument, agreement, deed, lease, application, notice, or other document relating to the training activities, rights, assets, liabilities, and agreements must be read as a reference to the tertiary education provider concerned; and
+(c) any information or document held by the industry skills board relating to the training activities, rights, assets, liabilities, and agreements is held by the tertiary education provider concerned; and
+(d) all money payable to, or by, the industry skills board (including funding payable under this Act) in relation to the training activities, rights, assets, liabilities, and agreements becomes payable to, or by, the tertiary education provider concerned.
+(4) To the extent that any training activity provided by an industry skills board has not been transferred in accordance with a transition plan approved under clause 159 by the close of 31 December 2027, the industry skills board must cease to provide the training activity.
+161 Trainees of industry skills board
+(1) This clause applies to every trainee enrolled at an industry skills board in a training activity immediately before the date on which that training activity is transferred to a tertiary education provider.
+(2) The trainee must be treated as being enrolled at the tertiary education provider that is responsible for continuing the training activity on and after the transfer date.
+(3) A trainee who would, but for the transfer of the training activity to a tertiary education provider, have been entitled to be granted an award by the industry skills board is entitled to be granted the same or equivalent award of the tertiary education provider.
+162 Transfer of training agreements
+(1) This clause applies to a training agreement and an apprenticeship training agreement that were in force immediately before the date on which responsibility for delivery or co-ordination of training activities under the agreements is transferred to a tertiary education provider.
+(2) On and after the transfer date,—
+(a) the training agreement and apprenticeship training agreement continue in force; and
+(b) unless the context otherwise requires, every reference to the industry skills board in the training agreement and apprenticeship training agreement must be read as a reference to the tertiary education provider where the trainee is enrolled on and after that date.
+(3) As soon as is reasonably practicable after the transfer date, the tertiary education provider must—
+(a) consult the parties to the training agreement before amending the training agreement; and
+(b) if the parties agree, amend the training agreement and apprenticeship training agreement.
+163 Transfers do not give rise to claims
+Nothing effected or authorised by this subpart—
+(a) places an industry skills board, tertiary education provider, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or
+(b) places an industry skills board, tertiary education provider, or any other person in breach of any legislation, rule of law, or contractual provision that prohibits, restricts, or regulates the assignment or transfer of property or the disclosure of information; or
+(c) entitles a person to terminate or cancel a contract or an arrangement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge; or
+(d) releases a surety from an obligation; or
+(e) invalidates or discharges a contract or surety.
+Compare: 2022 No 30 Schedule 1 cl 28
+164 Consequences of transfers for purposes of Inland Revenue Acts
+(1) This clause applies in relation to a matter that is transferred to a tertiary education provider in accordance with a transition plan approved under clause 159.
+(2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), the relevant industry skills board and the tertiary education provider are treated as the same person to the extent to which the matter is transferred to that tertiary education provider.
+Transfer of industry skills board's employees to tertiary education providers
+165 Duties to identify employees and provide employee information
+(1) An industry skills board must—
+(a) identify the employees of the industry skills board whose positions may be required by a tertiary education provider to carry out its function in providing training activities; and
+(b) provide to the tertiary education provider the employee information about those employees that is reasonably necessary for the purpose of making offers of employment under clause 166(3).
+(2) In this clause, employee information, in relation to an employee of an industry skills board, includes (without limitation) information about—
+(a) the employee's employment agreement, remuneration, accrued leave entitlements, superannuation scheme benefits, and any service-related benefits and entitlements:
+(b) any employment policies that are part of the employee's conditions of employment.
+166 Employment of industry skills board employees by tertiary education provider
+(1) This clause applies if training activities provided by an industry skills board are transferred to a tertiary education provider.
+(2) The tertiary education provider concerned must identify the employees of the industry skills board—
+(a) whose duties overall are required by the provider to carry out its function in providing the training activities; and
+(b) whose positions will cease to exist as a result of the transfer of the training activities to the tertiary education provider.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the tertiary education provider, being employment that is—
+(a) in substantially the same position; and
+(b) in the same general locality; and
+(c) on terms and conditions (including, without limitation, in relation to the employee's overall remuneration and any service-related, redundancy, or superannuation conditions) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+(d) on terms that treat the period of service with the industry skills board (and every other period of service recognised by the industry skills board as continuous service) as if it were continuous service with the tertiary education provider.
+(4) If the employee accepts an offer of employment under subclause (3), the employee's employment by the provider concerned is to be treated as continuous employment, including for the purposes of service-related entitlements, whether legislative or otherwise.
+(5) An employee of an industry skills board who is offered employment under subclause (3) by a tertiary education provider is not entitled to receive any contractual notice or any payment, benefit, or compensation from the industry skills board or the tertiary education provider on the grounds that—
+(a) the employee's position in the industry skills board has ceased to exist, whether or not the employee accepts the offer; or
+(b) the person has ceased to be an employee of the industry skills board as a result of the person's employment by the tertiary education provider.
+(6) To avoid doubt, the employment of an employee by the tertiary education provider concerned does not—
+(a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+(b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(7) This clause overrides—
+(a) Part 6A of the Employment Relations Act 2000; and
+(b) any employee protection provision in any relevant employment agreement.
+167 Transfer of other employment rights, duties, liabilities, or obligations of industry skills board on change of employer
+(1) This clause applies to any other rights, duties, liabilities, or obligations of an industry skills board (including in relation to any holiday and leave entitlements under the Holidays Act 2003)—
+(a) relating to an employee who has become an employee of a tertiary education provider under clause 166; and
+(b) that were in existence immediately before the date on which the employee became an employee of the tertiary education provider.
+(2) The rights, duties, liabilities, and obligations referred to in subclause (1) vest in the provider on the date on which the employee becomes an employee of the tertiary education provider.
+168 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of a tertiary education provider, was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the tertiary education provider.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the tertiary education provider were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the tertiary education provider is the controlling authority.
+Subpart 3—Transitional provisions relating to WDCs
+169 Interpretation
+In this subpart,—
+disestablishment date, in relation to a WDC, means the date specified in clause 183(1)(b) or specified for the WDC by an order made under clause 183(2)
+transfer date, in relation to a function of a WDC, means the date (or dates) specified in the WDC's transition plan on which its functions in relation to the specified industries covered by the WDC are transferred to 1 or more industry skills boards
+transition period, in relation to a WDC, means the period starting on commencement and ending on the close of the day before the WDC's disestablishment date
+transition plan, for a WDC, means a plan developed and approved under clause 172
+workforce development council or WDC means a workforce development council established under section 363 (as in force immediately before commencement) and in existence immediately before commencement.
+Continuation of WDCs
+170 Continuation of WDCs
+Despite the amendments made by the amendment Act, a WDC continues in existence during the relevant transition period for the WDC.
+171 Application of legislation to WDC during transition period
+(1) During the transition period, subpart 6 of Part 4, Schedules 16 and 17, and any other provision of this Act or secondary legislation made under this Act or any other legislation relating to WDCs (as in force immediately before commencement) continue to apply to or in respect of a WDC as if the amendment Act had not been enacted.
+(2) Without limiting subclause (1), the following secondary legislation continues in force in respect of the relevant WDC until the WDC's disestablishment date and is then revoked:
+(a) Education (Community, Health, Education, and Social Services Workforce Development Council) Order 2021:
+(b) Education (Hanga-Aro-Rau Manufacturing, Engineering, and Logistics Workforce Development Council) Order 2021:
+(c) Education (Muka Tangata—People, Food, and Fibre Workforce Development Council) Order 2021:
+(d) Education (Services Workforce Development Council) Order 2021:
+(e) Education (Toi Mai Workforce Development Council) Order 2021:
+(f) Education (Waihanga Ara Rau Construction and Infrastructure Workforce Development Council) Order 2021.
+Transfer of functions
+172 Requirement to develop transition plan relating to WDC's functions
+(1) As soon as practicable after commencement, a WDC must, in consultation with NZQA, develop a transition plan for approval by TEC that provides for the allocation and transfer of the WDC's functions in relation to—
+(a) any of the specified industries covered by the WDC to an industry skills board or NZQA that, on and after the transfer date, is to be responsible for carrying out those functions; and
+(b) any specified rights, assets, liabilities, and agreements of the WDC.
+(2) For the purposes of this clause, the functions that may be transferred to an industry skills board are—
+(a) skills and workforce leadership for the specified industries:
+(b) developing, setting, and maintaining skill standards:
+(c) developing, setting, and maintaining capstone assessments for specified industries:
+(d) developing and maintaining industry qualifications:
+(e) developing and maintaining micro-credentials:
+(f) developing and maintaining national curricula for national qualifications for which it is the standard-setting body:
+(g) endorsing programmes and moderating standards and capstone assessments offered by providers for which it is the standard-setting body.
+(3) The chief executive of TEC—
+(a) may issue guidance to a WDC on what must be contained in the transition plan; and
+(b) must consult WDCs when developing the guidance.
+(4) When approving a transition plan, TEC may, by giving written notice to the WDC, make any amendments to the plan that it considers reasonably necessary.
+(5) As soon as practicable after TEC has approved a transition plan, the WDC must do all things necessary to give effect to the plan.
+(6) If a WDC fails or refuses to develop a transition plan, TEC may, after consulting NZQA, develop the transition plan for the WDC and the WDC must implement and maintain that plan.
+173 Minister may exercise temporary power of direction in relation to WDC
+(1) During the transition period, the Minister may, by written notice to a WDC, give any directions the Minister thinks reasonably necessary to ensure that the WDC can deal effectively with matters relating to the allocation and transfer of functions to an industry skills board or NZQA.
+(2) The Minister must consult TEC, NZQA, and the WDC concerned before giving a direction.
+(3) The WDC must comply with the direction.
+(4) A direction expires on the earlier of—
+(a) the expiry date specified in the direction; and
+(b) the end of the transition period relating to the WDC.
+Compare: 1989 No 80 Schedule 1 cl 24
+174 Transfer of rights, assets, and liabilities of WDC
+(1) This clause applies to all rights, assets, and liabilities of a WDC that are allocated to an industry skills board or NZQA in accordance with the WDC's transition plan.
+(2) On and after the transfer date,—
+(a) the rights, assets, and liabilities vest (as the case requires) in the industry skills board concerned or NZQA; and
+(b) any information or document held by a WDC that relates to the functions or activities allocated in the WDC's transition plan to an industry skills board or NZQA is held by the industry skills board or NZQA (as the case may be); and
+(c) all money payable to, or by, a WDC (including funding payable under this Act) in relation to the functions or activities allocated in the WDC's transition plan to an industry skills board or NZQA becomes payable to, or by, the industry skills board or NZQA (as the case may be); and
+(d) unless the context otherwise requires, every reference to the WDC in any legislation (other than this Act), instrument, agreement, deed, lease, application, notice, or other document before that date must be read as a reference to that industry skills board or NZQA.
+175 Consequences of transfer for purposes of Inland Revenue Acts
+(1) This clause applies in relation to a function of a WDC that is transferred to an industry skills board in accordance with the WDC's transition plan.
+(2) For the purposes of the Inland Revenue Acts (as defined in section 3(1) of the Tax Administration Act 1994), a WDC and the industry skills board must be treated as the same person to the extent that the function is transferred to the industry skills board.
+176 Transfers do not give rise to claims
+Nothing effected by this Part or any other provision of this Act—
+(a) places the Crown, a WDC, an industry skills board, NZQA, or any other person in breach of contract or confidence, or makes any of them liable for a civil wrong; or
+(b) places any of those persons or any other person in breach of any legislation, rule of law, or contractual provision prohibiting, restricting, or regulating the assignment or transfer of property or the disclosure of information; or
+(c) entitles a person to terminate or cancel a contract or an arrangement, or to accelerate the performance of an obligation, or to impose a penalty or an increased charge; or
+(d) releases a surety from an obligation; or
+(e) invalidates or discharges a contract or surety.
+177 Existing proceedings and other matters
+(1) This clause applies in respect of any functions or activities allocated to an industry skills board or NZQA in accordance with a WDC's transition plan.
+(2) On and after the transfer date,—
+(a) proceedings continued or enforced by or against the WDC may instead be continued or enforced by or against the industry skills board concerned or NZQA without amendment to the proceedings; and
+(b) a matter or thing that would, but for this clause, have been completed by the WDC may instead be completed by that industry skills board or NZQA; and
+(c) anything done, or omitted to be done, or that is to be done, by or in relation to the WDC is to be treated as having been done, or having been omitted to be done, or having to be done, by or in relation to that industry skills board or NZQA.
+(3) In subclause (2)(a), proceedings—
+(a) means civil and criminal proceedings; and
+(b) includes any enforcement or compliance activities by TEC or NZQA.
+Transfer of WDC employees
+178 Duties to identify employees and provide employee information
+(1) A WDC must—
+(a) identify the employees of the WDC whose positions may be required by an industry skills board or NZQA to carry out its functions; and
+(b) provide to the industry skills board and NZQA the employee information about those employees that is reasonably necessary for the purpose of making offers of employment under clause 179(3).
+(2) In this clause, employee information, in relation to an employee of a WDC, includes (without limitation) information about—
+(a) the employee's employment agreement, remuneration, accrued leave entitlements, superannuation scheme benefits, and any service-related benefits and entitlements:
+(b) any employment policies that are part of the employee's conditions of employment.
+179 Employment of WDC employees by industry skills board or NZQA
+(1) This clause applies if the functions or activities of a WDC are transferred, in accordance with the WDC's transition plan, to—
+(a) an industry skills board that is to be responsible for carrying out those functions or providing the activities on and after the transfer date; or
+(b) NZQA, in the case of any standards-setting function for a specified industry that is currently performed by the WDC and that will, on and after the transfer date, be performed by NZQA.
+(2) The industry skills board concerned or the chief executive of NZQA (as the case may be) must identify the employees of the WDC—
+(a) whose duties overall are required by the industry skills board or NZQA to carry out those functions or provide those activities; and
+(b) whose positions will cease to exist as a result of the transfer of the WDC's functions and activities to the industry skills board or NZQA.
+(3) An employee who is identified under subclause (2) may be offered equivalent employment by the corresponding industry skills board or NZQA, being employment that is—
+(a) in substantially the same position; and
+(b) in the same general locality; and
+(c) on terms and conditions (including, without limitation, in relation to the employee's overall remuneration and any service-related, redundancy, or superannuation conditions) that are no less favourable than those applying to the employee immediately before the date on which the offer of employment is made to the employee; and
+(d) on terms that treat the period of service with the WDC (and every other period of service recognised by the WDC as continuous service) as if it were continuous service with the industry skills board or NZQA.
+(4) If the employee accepts an offer of employment under subclause (3), the employee's employment by the industry skills board or NZQA is to be treated as continuous employment, including for the purposes of service-related entitlements, whether legislative or otherwise.
+(5) An employee of a WDC who is offered employment by an industry skills board or NZQA is not entitled to receive any payment or other benefit on the grounds that—
+(a) the employee's position in the WDC has ceased to exist, whether or not the employee accepts the offer; or
+(b) the person has ceased to be an employee of the WDC as a result of the person's employment by the industry skills board or NZQA.
+(6) The employment of an employee by the industry skills board or NZQA does not—
+(a) constitute new employment, including for the purposes of the Holidays Act 2003 or the KiwiSaver Act 2006 or any service-related entitlements or benefits (whether legislative or otherwise); or
+(b) treat that employee as a new employee for the purposes of the Employment Relations Act 2000.
+(7) This clause overrides—
+(a) Part 6A of the Employment Relations Act 2000; and
+(b) any employee protection provision in any relevant employment agreement.
+180 Transfer of employment rights, duties, liabilities, or obligations of WDC on change of employer
+(1) This clause applies in relation to any rights, duties, liabilities, or obligations of a WDC (including in relation to any holiday and leave entitlements under the Holidays Act 2003)—
+(a) relating to an employee who has become an employee of an industry skills board or NZQA under clause 179; and
+(b) that were in existence immediately before the date on which the employee became an employee of the industry skills board or NZQA.
+(2) The rights, duties, liabilities, and obligations referred to in subclause (1) vest in the industry skills board or NZQA (as the case may be) on the date on which the employee becomes an employee of the industry skills board or NZQA.
+181 Government Superannuation Fund
+(1) This clause applies to a person who, immediately before becoming an employee of an industry skills board or NZQA (as the case may be) was a contributor to the Government Superannuation Fund under Part 2 or 2A of the Government Superannuation Fund Act 1956.
+(2) For the purposes of the Government Superannuation Fund Act 1956, the person is treated as being employed in the Government service as long as the person continues to be an employee of the industry skills board or NZQA.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the industry skills board or NZQA were Government service.
+(4) Subclause (1) does not entitle a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
+(5) For the purpose of applying the Government Superannuation Fund Act 1956, the chief executive of the industry skills board or NZQA (as the case may be) is the controlling authority.
+182 Visas granted under Immigration Act 2009
+(1) This clause applies to a visa granted under the Immigration Act 2009 in respect of a person who—
+(a) was an employee of a WDC; and
+(b) has accepted an offer of employment from the chief executive of an industry skills board or NZQA under clause 179(3).
+(2) Any reference to the WDC in a condition imposed on the visa must be read as a reference to the industry skills board or NZQA (as the case may be) on and after the date on which the person becomes an employee of the industry skills board or NZQA.
+Disestablishment of WDCs
+183 Disestablishment of WDCs
+(1) A WDC is disestablished on the earlier of the following dates:
+(a) the date specified by Order in Council made under subclause (2); and
+(b) the close of 31 December 2026.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
+(a) specify the date on which a WDC is disestablished; and
+(b) provide for the distribution of residual assets and liabilities (including any liabilities for tax or redundancy payments) of the WDC.
+(3) An order made under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
+Consequences of disestablishment
+184 Council members cease to hold office
+(1) Every member of a WDC's council holding office immediately before the disestablishment date ceases to hold office on the close of the day before that date.
+(2) Neither the Crown nor the WDC is liable to make a payment to, or otherwise compensate, a person referred to in subclause (1) in respect of the loss of office.
+185 Previous actions or decisions of WDC not affected
+The disestablishment of a WDC does not, by itself, affect any of the following matters:
+(a) any decision made, or anything done or omitted to be done, by the WDC in relation to the performance or exercise of its functions, powers, or duties under any legislation:
+(b) any proceedings commenced by or against the WDC:
+(c) any other matter or thing arising out of the WDC's performance or exercise, or purported performance or exercise, of its functions, powers, or duties under any legislation.
+Compare: 2022 No 30 Schedule 1 cl 10
+186 Final report of WDC
+(1) A WDC must provide the Minister with a final report in respect of its operations for the period—
+(a) commencing at the start of the financial year in which the WDC is disestablished; and
+(b) ending on the WDC's disestablishment date.
+(2) The final report must—
+(a) be prepared in accordance with the annual reporting requirements set out in the Order in Council that established the WDC; and
+(b) be provided not later than 3 months after the disestablishment date.
+(3) The Minister may transfer some or all of the responsibility for providing the final report to another party if satisfied that it is necessary or expedient to do so.
+Subpart 4—Transitional provisions relating to establishment of council of polytechnic
+187 Validation of pre-commencement actions and processes
+(1) This clause applies to any action or process undertaken by the Minister before commencement when appointing members to the first council of a polytechnic.
+(2) An appointment is valid if the action or process substantially complies with this Act.
+188 Membership of first council of polytechnic reduced
+(1) The number of first council members of a polytechnic is proportionately reduced until the date on which each member referred to in section 317 (as replaced by the amendment Act) is appointed to the council.
+(2) No action of a polytechnic's council is invalid merely because any member referred to in subclause (1) has not been appointed to the polytechnic's council on its establishment date.
+Subpart 5—Transitional provisions relating to establishment of industry skills boards
+189 Members of first industry skills board
+(1) The members of a first industry skills board are as follows:
+(a) 2 members appointed by the Minister; and
+(b) 6 members subsequently appointed by the members referred to in paragraph (a).
+(2) For the purpose of appointing members under subclause (1)(b), the chief executive of TEC must—
+(a) invite nominations and expressions of interest for appointment to the board (including, where appropriate, from industry bodies, employers, employees, and iwi partners from the specified industries covered by the board); and
+(b) recommend to the members appointed by the Minister under subclause (1)(a) from the list of nominations and expressions of interest received by the chief executive those persons that the chief executive considers are suitable for appointment, having regard to the matters set out in section 365 (as replaced by the amendment Act).
+(3) The members appointed under subclause (1)(a) must consider the recommendations received from the chief executive of TEC and appoint as members of the board those persons who are best suited for appointment as a member, having regard to the matters set out in section 365 (as replaced by the amendment Act).
+(4) Members appointed under subclause (1)(b) must be appointed as soon as practicable, but no later than 31 March 2026.
+190 Validation of pre-commencement actions and processes regarding appointments to industry skills board
+An appointment of a member to an industry skills board by the Minister is valid if the action or process for appointment undertaken before the commencement date substantially complies with the membership requirements of this Act.
+191 Membership of industry skills board reduced until all appointments made
+(1) The number of members and the quorum required for a meeting under clause 13(3) of Schedule 13 are proportionately reduced until the date on which each member referred to in section 363 (as replaced by the amendment Act) is appointed to the industry skills board.
+(2) No action of an industry skills board is invalid merely because a member has not been appointed to the board on its establishment date.
+192 First annual report for industry skills board
+(1) The Minister may exempt an industry skills board that is established during the last 4 months of a financial year from the obligation to provide an annual report for that financial year.
+(2) An industry skills board that is exempted under subclause (1) must, after the end of the industry skills board's first full financial year, provide an annual report that covers the period from the date on which it is established until the end of its first full financial year.
+(3) To avoid doubt, the annual report referred to in subclause (2) must contain the information that is required to be included in the industry skills board's annual report, except that the information must be in respect of the period referred to in that subclause.
+Subpart 6—Miscellaneous
+193 Apprenticeship training code
+(1) This clause applies to an apprenticeship training code issued under section 378 (as it read immediately before commencement) and in force immediately before commencement.
+(2) The apprenticeship training code continues in force on and after commencement and must be treated as if it were issued under section 384 (as replaced by the amendment Act).

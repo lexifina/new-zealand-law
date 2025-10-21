@@ -36,7 +36,7 @@ Provisions that do not apply to category B wānanga
 (iii) section 280 (functions of councils):
 (iv) section 281 (duties of councils):
 (v) section 282(4) to (7) (powers of institutions):
-(vi) section 287 (criteria for risk assessment of institutions (other than Te Pūkenga—New Zealand Institute of Skills and Technology)):
+(vi) section 287 (criteria for risk assessment of institutions):
 (vii) section 288 (institutions to provide information to TEC if required):
 (viii) section 289 (ministerial appointment of Crown observers for institutions):
 (ix) sections 290 to 293 (ministerial dissolution of councils and appointments and processes to appoint commissioners):
