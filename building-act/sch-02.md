@@ -13,7 +13,7 @@ The buildings in respect of which the requirement for the provision of access an
 (j) hotels, motels, hostels, halls of residence, holiday cabins, groups of pensioner flats, boarding houses, guest houses, and other premises providing accommodation for the public:
 (k) hospitals, whether public or private, and rest homes:
 (l) medical and dental surgeries, and medical and paramedical and other primary health care centres:
-(m) educational institutions, including public and private primary, intermediate, and secondary schools, universities, Te Pūkenga—New Zealand Institute of Skills and Technology and its Crown entity subsidiaries, and other tertiary institutions:
+(m) educational institutions, including public and private primary, intermediate, and secondary schools, universities, polytechnics, Te Pūkenga—New Zealand Institute of Skills and Technology and its Crown entity subsidiaries, and other tertiary institutions:
 (n) libraries, museums, art galleries, and other cultural institutions:
 (o) churches, chapels, and other places of public worship:
 (p) places of assembly, including auditoriums, theatres, cinemas, halls, sports stadiums, conference facilities, clubrooms, recreation centres, and swimming baths:
