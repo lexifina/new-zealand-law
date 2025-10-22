@@ -27,7 +27,7 @@ Any building work in respect of which the territorial authority or regional auth
 (b) does not exceed 10 square metres in floor area; and
 (c) does not contain sanitary facilities or facilities for the storage of potable water; and
 (d) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities.
-(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+(2) [Repealed]
 3A Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area and constructed of lightweight building products
 (1) Building work in connection with any detached building that—
 (a) is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 3.5 metres above the floor level); and
@@ -36,7 +36,7 @@ Any building work in respect of which the territorial authority or regional auth
 (d) does not contain sanitary facilities or facilities for the storage of potable water; and
 (e) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
 (f) if it includes sleeping accommodation, has smoke alarms installed.
-(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than 1 metre to any residential building or to any legal boundary.
 3B Single-storey detached buildings exceeding 10, but not exceeding 30, square metres in floor area if work carried out or supervised by licensed building practitioner
 (1) Building work in connection with any detached building if—
 (a) any design or construction work is carried out or supervised by a licensed building practitioner; and
@@ -46,7 +46,7 @@ Any building work in respect of which the territorial authority or regional auth
 (iii) does not contain sanitary facilities or facilities for the storage of potable water; and
 (iv) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
 (v) if it includes sleeping accommodation, has smoke alarms installed.
-(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than 1 metre to any residential building or to any legal boundary.
 4 Unoccupied detached buildings
 (1) Building work in connection with any detached building that—
 (a) houses fixed plant or machinery and under normal circumstances is entered only on intermittent occasions for the routine inspection and maintenance of that plant or machinery; or
@@ -231,6 +231,14 @@ Building work in connection with a ground-mounted solar panel array if—
 (f) either—
 (i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
 (ii) the array is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
+28D Roof-mounted solar panel arrays of less than 40 square metres
+Building work in connection with 1 or more solar panel arrays mounted on a roof if—
+(a) the array does not, or, if there is more than 1 array mounted on the roof, the arrays in total area do not, exceed 40 square metres; and
+(b) the array is, or, if there is more than 1 array mounted on the roof, the arrays are each, supported by a frame or structure; and
+(c) the frame or structure is attached to the roof with structural fixings; and
+(d) either—
+(i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
+(ii) the array is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
 Network utility operators or other similar organisations
 29 Certain structures owned or controlled by network utility operators or other similar organisations
 Building work in connection with a motorway sign, stopbank, culvert for carrying water under or in association with a road, or other similar structure that is—
@@ -296,7 +304,7 @@ Building work in connection with playground equipment if the work is for a gover
 (iii) does not contain sanitary facilities or facilities for the storage of potable water; and
 (iv) does not include sleeping accommodation, unless the building is used in connection with a dwelling and does not contain any cooking facilities; and
 (v) if it includes sleeping accommodation, has smoke alarms installed.
-(2) However, subclause (1) does not include building work in connection with a building that is closer than the measure of its own height to any residential building or to any legal boundary.
+(2) However, subclause (1) does not include building work in connection with a building that is closer than 1 metre to any residential building or to any legal boundary.
 (3) The product manufacturer or supplier (as defined in section 14G) must have had the design of the building carried out or reviewed by a chartered professional engineer.
 44 Carports exceeding 20, but not exceeding 40, square metres in floor area
 Building work in connection with a carport that—
@@ -331,6 +339,13 @@ Building work in connection with a ground-mounted solar panel array outside a ru
 (f) either—
 (i) the design wind speeds do not exceed 44 metres per second (calculated using Verification Method B1/VM1); or
 (ii) the array is located in a wind zone no greater than high (as defined in Acceptable Solution B1/AS1).
+48A Roof-mounted solar panel arrays of more than 40 square metres or where design wind speeds exceed 44 metres per second
+Building work in connection with 1 or more solar panel arrays mounted on a roof if—
+(a) the array is, or, if there is more than 1 array mounted on the roof, the arrays are each, supported by a frame or structure; and
+(b) the frame or structure is attached to the roof with structural fixings; and
+(c) either—
+(i) the array exceeds, or, if there is more than 1 array mounted on the roof, the arrays in total area exceed, 40 square metres; or
+(ii) the design wind speeds exceed 44 metres per second (calculated using Verification Method B1/VM1).
 49 Single-storey pole sheds and hay barns
 (1) Building work in connection with a pole shed or hay barn in a rural zone if—
 (a) the building is not more than 1 storey (being a floor level of up to 1 metre above the supporting ground and a height of up to 4 metres above the floor level); and
