@@ -22,9 +22,6 @@ pat down search means a search of a clothed child or young person in a residence
 regulations means regulations made under section 447 relating to search and seizure
 residence means a residence established under section 364
 scanner search means a search of a child or young person by means of an electronic device passed over the clothed body of the person being searched and that does not include any touching (except any accidental touching) of the person being searched
-strip search means a search where the person conducting the search may require the child or young person being searched—
-(a) to undress, or to remove any specified items of clothing and underclothing, and be visually examined; and
-(b) to have the child's or young person's clothing searched
 unauthorised item means any article, drug, or substance—
 (a) that is a harmful item; or
 (b) that may not be lawfully possessed by any child or young person in the residence.
