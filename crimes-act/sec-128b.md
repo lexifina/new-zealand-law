@@ -4,3 +4,6 @@
 (3) The matters are—
 (a) the particular circumstances of the person convicted; and
 (b) the particular circumstances of the offence, including the nature of the conduct constituting it.
+(4) This section does not apply if—
+(a) person B (as described in section 128) is under the age of 12 years; or
+(b) it cannot be established whether person B was under or over the age of 12 years.
