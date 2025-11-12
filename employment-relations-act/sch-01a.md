@@ -25,4 +25,5 @@ Employees who provide the following services in the specified sectors, facilitie
 (iii) excluding services carried out by any of the following persons:
 (A) an appointed court security officer (as defined in section 2 of the Courts Security Act 1999):
 (B) an officer (as defined in section 3(1) of the Corrections Act 2004) other than a person appointed or engaged under section 17(2) of that Act to undertake escort duties or courtroom custodial duties:
-(C) a Police employee (as defined in section 4 of the Policing Act 2008).
+(C) a Police employee (as defined in section 4 of the Policing Act 2008):
+(D) a parliamentary security officer (as defined in section 5 of the Parliament Act 2025).

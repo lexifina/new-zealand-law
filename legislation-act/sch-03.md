@@ -96,26 +96,6 @@ Exemption applies
 Section 46
 Exemption applies
 Exemption applies
-Members of Parliament (Remuneration and Services) Act 2013
-Section 8(1)
-Exemption applies
-Exemption applies
-Section 17(1)
-Exemption applies
-Exemption applies
-Section 23
-Exemption applies
-Section 27
-Exemption applies
-Section 32(4), (6)
-Exemption applies
-Exemption applies
-Section 43
-Exemption applies
-Exemption applies
-Section 44
-Exemption applies
-Exemption applies
 Misuse of Drugs Act 1975
 Section 4(1), (1B)
 Exemption applies
@@ -132,10 +112,30 @@ The relevant chief executive considers that compliance would result in 1 or more
 (d) prejudice to the international relations of New Zealand.
 Exemption applies if exemption ground is met
 Exemption applies
-Parliamentary Service Act 2000
-Section 25
+Parliament Act 2025
+Section 53
 Exemption applies
 See s 115(a)
+Section 71
+Exemption applies
+Exemption applies
+Section 72
+Exemption applies
+Exemption applies
+Section 73
+Exemption applies
+Exemption applies
+Section 74
+Exemption applies
+Exemption applies
+Section 85
+Exemption applies
+Section 86
+Exemption applies
+Section 87
+Exemption applies
+Section 94
+Exemption applies
 Remuneration Authority Act 1977
 Section 12B(1), (2)
 Exemption applies
