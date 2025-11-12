@@ -30,6 +30,7 @@ Ngāti Manuhiri Claims Settlement Act 2012
 Ngāti Maru (Taranaki) Claims Settlement Act 2022
 Ngāti Mutunga Claims Settlement Act 2006
 Ngāti Pāhauwera Treaty Claims Settlement Act 2012
+Ngāti Pāoa Claims Settlement Act 2025
 Ngati Porou Claims Settlement Act 2012
 Ngāti Pūkenga Claims Settlement Act 2017
 Ngāti Rangi Claims Settlement Act 2019
