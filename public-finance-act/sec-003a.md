@@ -1,7 +1,7 @@
 # 3A Power to amend Schedule 4
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 4—
 (a) to add the name or description of—
-(i) any body, office (except an Office of Parliament), or officer established by or under an Act; or
+(i) any body, office (except an Office of Parliament or a parliamentary agency), or officer established by or under an Act; or
 (ii) any trust that is created by the Crown by deed of trust or in respect of which the Crown has appointed, or has the power to appoint, a majority of the trustees:
 (b) to apply to an organisation any provision of the Crown Entities Act 2004 that appears in Schedule 4 (other than section 165 of that Act):
 (c) to disapply to an organisation any provision of the Crown Entities Act 2004 that appears in Schedule 4:

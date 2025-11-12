@@ -69,3 +69,40 @@ amount of a fine includes, without limitation, an instalment—
 (a) of the fine; and
 (b) paid under a court order, or an arrangement, allowing payment to be made by instalments
 old section means section 73(2) as in force immediately before the amendment was made on 1 July 2024 by the amendment Act.
+Part 5 Provisions relating to Parliament (Repeals and Amendments) Act 2025
+12 Interpretation
+In this Part,—
+2025/26 financial year means the financial year commencing on 1 July 2025 and ending with 30 June 2026
+2026/27 financial year means the financial year commencing on 1 July 2026 and ending with 30 June 2027
+amendment Act means the Parliament (Repeals and Amendments) Act 2025
+multi-year appropriation has the meaning given to it by section 15D(5)
+specified person means—
+(a) the House of Representatives:
+(b) the Speaker:
+(c) the Minister:
+(d) the chief executive of a parliamentary agency:
+(e) the Secretary.
+13 Application of amendment Act until end of 2025/26 financial year
+(1) This clause applies until the end of the 2025/26 financial year.
+(2) The amendments made to this Act by the amendment Act apply only to the extent that is necessary or desirable to enable a specified person to perform a function or duty or exercise a power for the purpose of ensuring that, in the 2026/27 financial year, the following comply with the requirements of this Act as amended by the amendment Act:
+(a) an appropriation in a Vote administered by a parliamentary agency:
+(b) a capital injection to a parliamentary agency:
+(c) a supplementary Appropriation Bill for the 2025/26 financial year, to the extent that it relates to a multi-year appropriation that lapses after 30 June 2026:
+(d) an Imprest Supply Bill for the 2026/27 financial year:
+(e) the main Appropriation Bill for the 2026/27 financial year:
+(f) the Estimates and supporting information that the Minister, in accordance with section 13, presents to the House of Representatives in connection with that main Appropriation Bill:
+(g) the Supplementary Estimates and supporting information that the Minister, in accordance with section 16, presents to the House of Representatives in connection with a supplementary Appropriation Bill.
+(3) Except to the extent provided in subclause (2), this Act continues to apply as if it had not been amended by the amendment Act.
+14 Transitional arrangements for multi-year appropriations administered by Parliamentary Service
+How to treat multi-year appropriation to which section 26EA would apply
+(1) Subclause (2) applies to a multi-year appropriation—
+(a) that is made to the Crown and included in Vote Parliamentary Service in an Appropriation Act that comes into force before 1 July 2026; and
+(b) that lapses on or after 1 July 2026; and
+(c) to which section 26EA would apply if the multi-year appropriation were made after 1 July 2026.
+(2) On and after 1 July 2026, the Parliamentary Service must, in relation to that multi-year appropriation, be treated as if it were part of the Crown.
+How to treat multi-year appropriation to which section 26EB would apply
+(3) Subclause (4) applies to a multi-year appropriation—
+(a) that is made to the Crown and included in Vote Parliamentary Service in an Appropriation Act that comes into force before 1 July 2026; and
+(b) that lapses on or after 1 July 2026; and
+(c) to which section 26EB would apply if the multi-year appropriation were made after 1 July 2026.
+(4) On and after 1 July 2026, the multi-year appropriation must be treated as if it were made to the Parliamentary Service.
