@@ -7,7 +7,7 @@ Contents
 4 Additional and substituted premises to be approved
 5 Tuition standards
 6 Managers to be fit and proper persons
-7 Manager must have regard to statement of national education and learning priorities
+7 Manager must have regard to statement of national education and learning priorities [Repealed]
 Managers to advise Secretary of private school ceasing operation
 8 Managers must advise Secretary of school ceasing operation
 Review of private schools
@@ -78,10 +78,7 @@ Compare: 1989 No 80 s 35F
 (3) If the management of a private school changes in its entirety or is transferred to a new entity, the new managers must give notice to the Secretary and an assessment under subclause (1) must be made of the new managers of the school.
 Compare: 1989 No 80 s 35G
 7 Manager must have regard to statement of national education and learning priorities
-The manager of a private school must,—
-(a) in operating the school, have regard to any statement of national education and learning priorities; and
-(b) ensure that, in developing and delivering the curriculum, the school's principal and staff have regard to any statement of national education and learning priorities.
-Compare: 1989 No 80 s 35GA
+[Repealed]
 Managers to advise Secretary of private school ceasing operation
 8 Managers must advise Secretary of school ceasing operation
 The managers of a private school that is about to cease to operate as a school must inform the Secretary of—

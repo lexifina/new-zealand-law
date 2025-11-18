@@ -266,6 +266,18 @@ Subpart 5—Transitional provisions relating to establishment of industry skills
 192 First annual report for industry skills board
 Subpart 6—Miscellaneous
 193 Apprenticeship training code
+Part 8
+Provisions relating to Education and Training Amendment Act 2025
+194 Interpretation
+Attendance management plans
+195 Requirement to have attendance management plan
+Statement on freedom of expression
+196 Requirement to adopt statement on freedom of expression
+National student numbers
+197 Validation of national student numbers assigned to or used in relation to researchers
+Teaching Council membership
+198 End of teacher educator's term of office
+199 Initial appointment of additional member under section 475(1)(a)
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -1760,3 +1772,27 @@ Subpart 6—Miscellaneous
 193 Apprenticeship training code
 (1) This clause applies to an apprenticeship training code issued under section 378 (as it read immediately before commencement) and in force immediately before commencement.
 (2) The apprenticeship training code continues in force on and after commencement and must be treated as if it were issued under section 384 (as replaced by the amendment Act).
+Part 8 Provisions relating to Education and Training Amendment Act 2025
+194 Interpretation
+In this Part,—
+amendment Act means the Education and Training Amendment Act 2025
+commencement date means the date on which the amendment Act comes into force.
+Attendance management plans
+195 Requirement to have attendance management plan
+(1) A board (other than the board of a distance school) is not required to have an attendance management plan under section 137A for its school until the first day after 25 January 2026 on which the school is open for instruction.
+(2) The board of a distance school is not required to have an attendance management plan until 20 July 2026.
+Statement on freedom of expression
+196 Requirement to adopt statement on freedom of expression
+The council of a university is not required to adopt a statement on freedom of expression under section 281A for the university until 6 months after the commencement date.
+National student numbers
+197 Validation of national student numbers assigned to or used in relation to researchers
+(1) This clause applies to a national student number assigned to, or used in relation to, a researcher before the commencement date.
+(2) The assignment or use of the national student number is valid and declared to be, and to always have been, lawful.
+(3) In this clause, researcher means an individual who is, or was, employed or engaged by a tertiary education organisation and carries out, or carried out, research or research-led teaching.
+Teaching Council membership
+198 End of teacher educator's term of office
+(1) This clause applies to the member of the Teaching Council holding office under section 475(1)(b)(iv) immediately before the commencement date.
+(2) The member's term of office ends on the commencement date.
+199 Initial appointment of additional member under section 475(1)(a)
+(1) This clause applies to the first appointment by the Minister of the additional member of the Teaching Council under section 475(1)(a) (as amended by the amendment Act).
+(2) The Minister need not comply with section 476(3) when appointing the member.

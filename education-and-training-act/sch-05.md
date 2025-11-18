@@ -1,5 +1,5 @@
 # Schedule 5 Communities of learning for State schools
-ss 116, 127(2)(d)
+ss 116, 127(2)(h)
 1 Community of learning approved by Minister
 (1) The Minister may approve a community of learning for the purpose of the community entering into an agreement under clause 2.
 (2) A community of learning must consist of a group of 2 or more State schools but may also include 1 or more of the following:
@@ -27,7 +27,7 @@ Compare: 1989 No 80 s 72
 (1) A community of learning that has a community of learning agreement with the Secretary must—
 (a) prepare and maintain a plan to cover a period agreed to by the Secretary; and
 (b) provide the Secretary with a copy of the plan.
-(2) The plan must have particular regard to any statement of national education and learning priorities issued under section 5.
+(2) [Repealed]
 (3) A community of learning that changes a plan provided to the Secretary must provide the Secretary with a copy of the changed plan as soon as practicable.
 Compare: 1989 No 80 s 73
 4 Report to Secretary by community of learning

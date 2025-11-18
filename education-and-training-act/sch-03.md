@@ -73,7 +73,11 @@ Compare: 1989 No 80 s 357
 7 Voluntary deregistration
 The Teaching Council must deregister a person if—
 (a) the Teaching Council receives a written request from the person seeking deregistration; and
-(b) the Teaching Council is satisfied that the person is not the subject of an investigation under subpart 4 of Part 5.
+(b) the Teaching Council is satisfied that the person is not the subject of any of the following:
+(i) a mandatory report under any of sections 489 to 493:
+(ii) a complaint made under section 495(2) or section 506(2):
+(iii) a matter referred to the Complaints Assessment Committee under section 496(2):
+(iv) a matter referred to the Disciplinary Tribunal under section 497(5).
 Compare: 1989 No 80 s 358
 8 Teaching Council to keep register of people registered as teachers
 (1) The Teaching Council must keep a register of people who are registered as teachers.
@@ -81,8 +85,15 @@ Compare: 1989 No 80 s 358
 (3) The Teaching Council may annotate the register following—
 (a) an interim suspension under section 498; or
 (b) an action by a disciplinary body under section 497 or 500; or
-(c) an action by the Competence Authority under section 508.
-(4) In the case where the register is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 499(6)).
+(c) an action by the Competence Authority under section 508; or
+(d) a cancellation of a person's registration under clause 6(1)(a) or (b); or
+(e) a voluntary deregistration under clause 7; or
+(f) a conviction of a teacher in the circumstances described in subclause (5); or
+(g) an agreement between a teacher and the Teaching Council (due to a report or complaint that is about or involves the teacher's possible serious misconduct) that the teacher will not teach until the agreement is ended.
+(4) If the register is annotated following an agreement not to teach in accordance with subclause (3)(g) or an interim suspension, the annotation must be removed or corrected as soon as practicable after the agreement is ended or the matter is concluded (as specified in section 499(6)).
+(5) For the purposes of subclause (3)(f), the circumstances are that the teacher—
+(a) has been convicted of a specified offence as defined in section 23(1) of the Children's Act 2014; and
+(b) has not been granted an exemption under section 35 of that Act in respect of that conviction.
 Compare: 1989 No 80 s 359
 9 Matching of register information and information about payment of teacher salaries at payrolled schools
 (1) The purpose of this clause is to facilitate the exchange of information between the Ministry and the Teaching Council for the purposes of enabling—
@@ -238,8 +249,14 @@ Compare: 1989 No 80 s 370
 (3) The Teaching Council may annotate the list following—
 (a) an interim suspension under section 498(2); or
 (b) an action by a disciplinary body under section 497 or 500; or
-(c) an action by the Competence Authority under section 508.
-(4) In the case where the list is annotated following an interim suspension, the annotation must be removed or corrected as soon as practicable after the matter is concluded (as specified in section 499(6)).
+(c) an action by the Competence Authority under section 508; or
+(d) a cancellation of a person's limited authority to teach under clause 17(1)(a) or (b); or
+(e) a conviction of a holder of a limited authority to teach in the circumstances described in subclause (5); or
+(f) an agreement between a holder of a limited authority to teach and the Teaching Council (due to a report or complaint that is about or involves the person's possible serious misconduct) that the person will not teach until the agreement is ended.
+(4) If the list is annotated following an agreement not to teach in accordance with subclause (3)(f) or an interim suspension, the annotation must be removed or corrected as soon as practicable after the agreement is ended or the matter is concluded (as specified in section 499(6)).
+(5) For the purposes of subclause (3)(e), the circumstances are that the person—
+(a) has been convicted of a specified offence as defined in section 23(1) of the Children's Act 2014; and
+(b) has not been granted an exemption under section 35 of that Act in respect of that conviction.
 Compare: 1989 No 80 s 371
 22 Fees and costs for granting limited authority to teach
 [Repealed]
