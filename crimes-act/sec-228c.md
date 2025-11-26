@@ -1,2 +1,0 @@
-# 228C Possessing goods capable of being used to facilitate crimes involving dishonesty with intent to facilitate commission of those offences
-Every person is liable to imprisonment for a term not exceeding 3 years who, without lawful authority or excuse, possesses any goods capable of being used to facilitate the commission of a crime involving dishonesty (other than those specified in sections 227, 233, and 264) with intent to use the goods to facilitate the commission of that offence.
