@@ -95,7 +95,7 @@ Department of Corrections (access is limited to obtaining information about any 
 (c) a non-association order; or
 (d) a sentence of home detention (including while subject to post-detention conditions); or
 (e) an extended supervision order; or
-(f) a public protection order, a prison detention order, or a protective supervision order under the Public Safety (Public Protection) Orders Act 2014
+(f) a public protection order, a prison detention order, or a protective supervision order under the Public Safety (Public Protection Orders) Act 2014
 Access is for the purpose of managing the offender's sentence, any post-sentence conditions, any post-sentence supervision, or any order under the Public Safety (Public Protection Orders) Act 2014 in a manner consistent with any restraining order)
 Non-contact orders Details of non-contact orders made under the Victims' Orders Against Violent Offenders Act 2014
 Department of Corrections (access is limited to obtaining information about any offender who is subject to a non-contact order while also subject to—
@@ -104,7 +104,7 @@ Department of Corrections (access is limited to obtaining information about any 
 (c) a non-association order; or
 (d) a sentence of home detention (including while subject to post-detention conditions); or
 (e) an extended supervision order; or
-(f) a public protection order, a prison detention order, or a protective supervision order under the Public Safety (Public Protection) Orders Act 2014
+(f) a public protection order, a prison detention order, or a protective supervision order under the Public Safety (Public Protection Orders) Act 2014
 Access is for the purpose of managing the offender's sentence, any post-sentence conditions, any post-sentence supervision, or any order under the Public Safety (Public Protection Orders) Act 2014 in a manner consistent with any non-contact order)
 New Zealand Transport Agency records
 Subject Description Access available to
