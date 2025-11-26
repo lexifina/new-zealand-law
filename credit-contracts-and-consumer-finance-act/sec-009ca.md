@@ -8,3 +8,4 @@
 (7) The lender must provide the records within 20 working days of the date on which the request is received by the lender or, in the case of records being provided to the Commission, within any longer period of time specified by the Commission.
 (8) The Commission does not need to use its powers under section 98 of the Commerce Act 1986 to make a request under subsection (3).
 (9) The lender must keep the records for a period of at least 7 years after the date on which the inquiry was made.
+(10) To avoid doubt, the lender is not required to keep records about inquiries when an application is declined or withdrawn.
