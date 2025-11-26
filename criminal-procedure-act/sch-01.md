@@ -5,12 +5,20 @@ Section Offence
 Section 68(1) Party to murder outside New Zealand
 Section 68(2) Inciting murder outside New Zealand (not committed)
 Section 69(1) Party to crime of treason, inciting to mutiny, or espionage outside New Zealand
+Section 69(1A) Person owing allegiance being party to crime of treason, inciting to mutiny, or espionage outside New Zealand
 Section 69(2) Inciting treason, mutiny, or espionage outside New Zealand (not committed)
+Section 69(2A) Person owing allegiance inciting treason, mutiny, or espionage outside New Zealand (not committed)
+Section 69A(1) Person owing allegiance being party to crime of treason, inciting to mutiny, or espionage in New Zealand
+Section 69A(3) Person owing allegiance inciting treason, mutiny, or espionage in New Zealand (not committed)
 Section 73 Treason (or conspiracy to commit treason)
 Section 74(3) Attempted treason
 Section 76 Accessory to, or failure to prevent, treason
 Section 77 Inciting to mutiny
 Section 78 Espionage
+Section 78AAA(1) Improper conduct for or on behalf of foreign power to compromise protected New Zealand interest (with intent)
+Section 78AAA(3) Improper conduct for or on behalf of foreign power to compromise protected New Zealand interest (with recklessness)
+Section 78AAB(1) Commission of imprisonable offence for or on behalf of foreign power to provide relevant benefit (with intent)
+Section 78AAB(3) Commission of imprisonable offence for or on behalf of foreign power to provide relevant benefit (with recklessness)
 Section 79(1) Sabotage
 Section 92(1) Piracy
 Section 95 Attempts to commit piracy
