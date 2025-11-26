@@ -11,10 +11,10 @@
 (3) In this section,—
 classified information means—
 (a) information that—
-(i) is, or was, official information; and
+(i) is, or was, relevant information; and
 (ii) is classified under the New Zealand Government Security Classification System as being accessible only to persons who have a national security clearance:
 (b) foreign government information that is—
 (i) classified in a foreign country; and
 (ii) accessible only to persons having a government-sponsored national security clearance
-New Zealand Government Security Classification System means the security classification system applying to official information that is published (and from time to time amended) on an Internet site maintained by or on behalf of the New Zealand Security Intelligence Service
-official information has the meaning given to it by section 78A(2).
+New Zealand Government Security Classification System means the security classification system applying to relevant information that is published (and from time to time amended) on an Internet site maintained by or on behalf of the New Zealand Security Intelligence Service
+relevant information has the meaning given to it by section 78A(2).
