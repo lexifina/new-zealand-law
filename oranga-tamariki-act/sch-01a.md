@@ -9,6 +9,7 @@ Offences relating to chemical weapons Chemical Weapons (Prohibition) Act 1996, s
 Using riot control agents as a method of warfare Chemical Weapons (Prohibition) Act 1996, section 8
 Treason Crimes Act 1961, section 74
 Espionage Crimes Act 1961, section 78
+Improper conduct for or on behalf of foreign power to compromise protected New Zealand interest Crimes Act 1961, section 78AAA
 Piracy Crimes Act 1961, section 92
 Dealing in slaves Crimes Act 1961, section 98
 Dealing in people under 18 for sexual exploitation, removal of body parts, or engagement in forced labour Crimes Act 1961, section 98AA
