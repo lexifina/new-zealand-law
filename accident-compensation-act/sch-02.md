@@ -3,7 +3,7 @@ ss 30(3), 60
 1
 Pneumoconioses caused by sclerogenetic mineral dust (silicosis, anthraco-silicosis, asbestosis) and silico-tuberculosis, provided that silicosis is an essential factor in causing the resultant incapacity or death.
 2
-Lung cancer or mesothelioma diagnosed as caused by asbestos.
+Lung cancer, mesothelioma, laryngeal cancer, or ovarian cancer diagnosed as caused by asbestos.
 3
 Diseases of a type generally accepted by the medical profession as caused by beryllium or its toxic compounds.
 4
@@ -41,7 +41,7 @@ Orf diagnosed as caused by working with animals or their carcasses.
 20
 Streptococcus suis diagnosed as caused by working with animals or their carcasses.
 21
-Angiosarcoma of the liver diagnosed as caused by vinyl chloride monomer.
+Angiosarcoma of the liver or hepatocellular carcinoma diagnosed as caused by vinyl chloride monomer.
 22
 Byssinosis diagnosed as caused by working with cotton, flax, hemp, or sisal dust.
 23
@@ -82,3 +82,21 @@ Chronic renal failure diagnosed as caused by metals such as cadmium or copper, i
 Occupational allergic contact dermatitis diagnosed as caused by recognised sensitising agents inherent in the work process such as, but not limited to, nickel and other metals, rubber additives, resins, petroleum distillates, solvents, soaps, detergents, and plant allergens.
 41
 Vitiligo diagnosed as caused by para-tertiary-butylphenol, para-tertiary-butylcatechol, para-amylphenol, hydroquinone, or the monobenzyl or monobutyl ether of hydroquinone.
+42
+Malignant mesothelioma diagnosed as caused by erionite.
+43
+Heat-induced cataracts diagnosed as caused by infrared radiation.
+44
+Nasal cancer diagnosed as caused by nickel.
+45
+Chronic corneal ulcer diagnosed as caused by ammonia.
+46
+Cholangiocarcinoma diagnosed as caused by 1,2-dichloropropane.
+47
+Leukaemia diagnosed as caused by butadiene.
+48
+Kidney cancer diagnosed as caused by trichloroethylene.
+49
+Ocular melanoma diagnosed as caused by ultraviolet radiation (UVR) exposure from work involving welding.
+50
+Asthma diagnosed as caused by potroom emissions.
