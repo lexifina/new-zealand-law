@@ -1,7 +1,8 @@
 # 49B When tenant liable
 (1) A tenant is not excused from liability or obligation by section 49A(1) if, and to the extent that,—
 (a) the destruction or damage was intentionally done or caused by the tenant or by a person for whose actions the tenant is responsible under section 41 or 66L; or
-(b) the destruction or damage was the result of an act or omission by the tenant or by a person for whose actions the tenant is responsible under section 41 or 66L and the act or omission occurred on or about the premises and constitutes an imprisonable offence.
+(b) the destruction or damage was the result of an act or omission by the tenant or by a person for whose actions the tenant is responsible under section 41 or 66L and the act or omission occurred on or about the premises and constitutes an imprisonable offence; or
+(c) the destruction or damage was the result of the tenant, or a person for whose actions the tenant is responsible under section 41 or 66L, keeping a pet on the premises.
 (2) To the extent provided in subsection (3), the tenant is liable to the landlord for destruction of, or damage to, the premises that is caused by a careless act or omission of the tenant or of a person for whose actions the tenant is responsible under section 41 or 66L, other than an act or omission described in subsection (1).
 (3) The tenant's liability under subsection (2) is limited,—
 (a) if the property is insured against the destruction or damage, to the lesser of the applicable excess under the insurance and whichever of the following is applicable:
@@ -23,4 +24,5 @@
 (iii) that any insurance moneys are irrecoverable for the reasons described in subsection (4)(a); and
 (b) it is for the tenant to prove—
 (i) that any destruction or damage was not intentionally done or caused as described in subsection (1)(a); and
-(ii) that any destruction or damage was not caused by a careless act or omission described in subsection (2).
+(ii) that any destruction or damage was not caused by a careless act or omission described in subsection (2); and
+(iii) that any destruction or damage was not caused in circumstances described in subsection (1)(c).

@@ -1,5 +1,8 @@
 # 22A Applications to chief executive for payment of bond without agreement of other party
-(1) This section applies to an application in the approved form for payment of a bond, or part of a bond, made by a party (party A) without the agreement of the other party (party B).
+(1) This section applies to an application for payment of a bond, or part of a bond, made by a party (party A) without the agreement of the other party (party B).
+(1A) The application must—
+(a) be made in the approved form; and
+(b) identify the type or types of bond to which the application relates and the amount requested for each type.
 (2) The application may be made at any time after the termination of the tenancy if party A is the tenant, but must be made within 2 months of the termination of the tenancy if party A is the landlord.
 (3) On receiving the application, the chief executive must notify party B of the application and invite party B to indicate, within 10 working days after being notified, whether or not party B wishes to contest the application.
 (4) An indication by party B must be in writing, unless the chief executive waives that requirement.

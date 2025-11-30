@@ -8,7 +8,7 @@
 (e) observe the house rules.
 (f) [Repealed]
 (2) The tenant of a boarding house must not—
-(a) intentionally or carelessly damage, or permit any other person to damage, the premises; or
+(a) intentionally or carelessly damage, or permit any other person to damage, the premises, or damage the premises as a result of keeping a pet; or
 (b) cause or permit any interference with, or render inoperative, any means of escape from fire within the meaning of the Building Act 2004; or
 (c) use the tenant's boarding room, or permit the room to be used, for an unlawful purpose; or
 (d) cause or permit any interference with the reasonable peace, comfort, or privacy of any person residing in the neighbourhood; or

@@ -12,7 +12,7 @@
 (f) the landlord's address for service; and
 (g) the tenant's address for service; and
 (h) whether the tenant is under the age of 18; and
-(i) the amount of any bond; and
+(i) the amount of any general bond and the amount of any pet bond; and
 (j) the rent payable; and
 (k) the frequency of the rent payments; and
 (l) the place or bank account number where the rent is to be paid; and

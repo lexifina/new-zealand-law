@@ -8,5 +8,5 @@
 (i) any interest in real or personal property; or
 (ii) the power to exercise a right of the tenant, including the authority to cause an account to be debited (for example, without limitation, by reference to a card, such as the imprint of a credit card or a PIN number) or the means to obtain money from a third party; but
 (b) does not include—
-(i) a payment by way of bond that is permitted under section 18; or
+(i) a payment by way of bond that is permitted under section 18 or 18AA; or
 (ii) any guarantee.

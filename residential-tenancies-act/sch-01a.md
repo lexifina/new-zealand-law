@@ -13,7 +13,8 @@ Section Description of unlawful act Amount
 16A(6) Landlord failing to appoint agent when outside New Zealand for longer than 21 consecutive days 1,500
 17(3) Requiring key money 1,500
 17A(3) Requiring letting fee 1,500
-18(4)(a) Landlord requiring bond greater than amount permitted 1,500
+18(4)(a) Landlord requiring general bond greater than amount permitted 1,500
+18AA(5) Landlord requiring pet bond greater than amount permitted or from tenant who is not keeping, or does not intend to keep, a pet 1,500
 18A(2)(a) Landlord requiring unauthorised form of security 1,500
 19(2) Breaching duties on receipt of bond 1,500
 22F(3)(a) Landlord failing to state amount of rent when offering tenancy 1,500
@@ -32,6 +33,10 @@ Section Description of unlawful act Amount
 42A(7) Landlord failing to respond to written request seeking consent for fixtures, etc 1,500
 42B(3) Landlord failing to consent to request for minor change 1,500
 42B(6) Tenant failing to reinstate premises at end of tenancy following minor change 1,500
+42C(2) Tenant keeping pet without provision in tenancy agreement or landlord's consent to keep pet 750
+42D(3) Landlord including prohibition on tenant keeping pet in tenancy agreement without providing reasonable grounds in agreement for prohibition 1,500
+42E(5) Landlord failing, without reasonable excuse, to provide written notice in response to tenant's request for consent to keep pet within 21 days of receiving request 1,500
+42E(6) Landlord refusing consent without reasonable grounds 1,500
 43B(3) Tenant assigning tenancy without the landlord's written consent or when prohibited to do so 750
 43B(5) Landlord failing to respond to written request for consent to assignment 1,500
 44(2A) Tenant subletting or parting with possession when prohibited to do so or without the landlord's written consent 1,500
