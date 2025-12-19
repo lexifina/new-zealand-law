@@ -7,6 +7,6 @@
 (a) must inform the elector that they are currently registered in a Māori electoral district or a General electoral district (whichever applies); and
 (b) must inform the elector that they are entitled to—
 (i) exercise the Māori option under section 76 at any time other than as provided in sections 78A to 78C; and
-(ii) change the type of district in which they are registered; and
+(ii) change the type of electoral district in which they are registered; and
 (c) must include a form or information about an approved electronic medium to use to exercise the Māori option; and
 (d) may give information about the differences between the 2 types of electoral districts that the Electoral Commission considers would be useful.

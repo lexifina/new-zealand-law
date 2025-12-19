@@ -1,7 +1,5 @@
 # 174C Preliminary count of early votes
-(1) In this section and in sections 174D to 174G, early votes means special votes that—
-(a) are delivered or sent to the Returning Officer on or before polling day; and
-(b) were, in accordance with regulations made under this Act, issued in substantially the same manner as ordinary ballot papers are issued under section 167.
+(1) In this section and in sections 174D to 174G, early votes means votes cast by advance voters who have been issued with ordinary ballot papers under section 167.
 (2) The Returning Officer must, in the presence of any scrutineers appointed under section 174F and any of the Returning Officer's assistants, but of no other person, conduct (either manually or by electronic means), in accordance with this section, a preliminary count of early votes.
 (3) The Returning Officer must take the early votes and ascertain, as the case may require,—
 (a) the number of votes received by each party listed in the part of the ballot paper that relates to the party vote; or

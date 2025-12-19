@@ -8,7 +8,7 @@
 (b) the person's date of birth:
 (c) the person's address of residence (if known):
 (d) the person's postal address (if known and if different from the address of residence in paragraph (c)):
-(e) the person's preferred honorific (if known):
+(e) the person's email address or phone numbers (if known):
 (f) the date at which the information in paragraphs (a) to (e) held by the agency was last provided to the agency.
 (3) For the purposes of this section, a specified agency means—
 (a) the department for the time being responsible for the administration of the Social Security Act 2018; and

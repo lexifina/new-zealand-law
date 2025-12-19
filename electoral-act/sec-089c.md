@@ -21,5 +21,7 @@
 (14) An elector who knowingly or wilfully fails to comply with subsection (2) commits an offence and is liable on conviction to a fine—
 (a) not exceeding $100 on a first conviction; and
 (b) not exceeding $200 on any subsequent conviction.
-(15) Despite subsection (14), an elector who gives notice of the matters specified in subsection (2) after the expiry of the period referred to in that subsection but before the commencement of a prosecution is not liable for prosecution for his or her earlier failure to give notice.
+(15) However, a person is not liable for prosecution for an offence under subsection (14) if, before the commencement of the prosecution,—
+(a) the person gives notice, in accordance with subsection (3), of the matters specified in subsection (2)(a), (b), and (c); or
+(b) the Electoral Commission has, under section 89CA, removed the person's name from the electoral roll for the district in which the elector is registered and entered the person's name and particulars on the electoral roll for new electoral district.
 (16) [Repealed]

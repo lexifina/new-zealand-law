@@ -6,5 +6,5 @@
 (i) an express statement on the form on which the withdrawal is made that the party intends to lodge another bulk nomination schedule; or
 (ii) another bulk nomination schedule in accordance with section 146D.
 (2) While a notification of a party's intention under section 146B remains in force for the purposes of a general election,—
-(a) no Returning Officer may accept a nomination made under section 143 in respect of a candidate for that political party; and
-(b) if a Returning Officer has already accepted a nomination made under section 143 in respect of a candidate for that political party, that nomination is of no effect and is to be treated as if it had been withdrawn under section 146.
+(a) the Electoral Commission may not accept a nomination made under section 143 in respect of a candidate for that political party; and
+(b) if the Electoral Commission has already accepted a nomination made under section 143 in respect of a candidate for that political party, that nomination is of no effect and is to be treated as if it had been withdrawn under section 146.

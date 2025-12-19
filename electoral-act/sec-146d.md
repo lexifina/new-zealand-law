@@ -3,5 +3,5 @@
 (2) The secretary of a party may nominate its candidates under this section by lodging, with the Electoral Commission, a single bulk nomination schedule on a form provided by the Electoral Commission.
 (3) A bulk nomination schedule—
 (a) may be lodged by hand, post, or electronically; and
-(b) must be lodged with the Electoral Commission not later than noon on the day before nomination day.
+(b) must be lodged with the Electoral Commission not later than noon on nomination day.
 (4) The Electoral Commission must give a written receipt for every bulk nomination schedule that the Electoral Commission accepts.

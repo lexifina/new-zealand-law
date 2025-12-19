@@ -1,15 +1,15 @@
 # 89D Inquiry to be made to update electoral rolls
-(1) The Electoral Commission must, at the times required by or under this section, direct an inquiry to be made in relation to the particulars on the roll for every person registered as an elector of a district.
-(2) An inquiry must be made,—
-(a) where practicable, within the period of 12 months ending with the day on which a Parliament is due to expire; and
+(1) The Electoral Commission must make an inquiry into the particulars on the roll for every person registered as an elector of a district at the following times:
+(a) if practicable, within the period of 12 months ending with the day on which a Parliament is due to expire; and
 (b) at any other time determined by the Electoral Commission.
-(3) In any year in which a triennial general election of members of any local authority must be held under the Local Electoral Act 2001, the Electoral Commission must direct an inquiry to be made concerning the particulars on the roll of every person who—
+(2) Additionally, in any year in which a triennial general election of members of any local authority is due to be held in accordance with section 10(2) of the Local Electoral Act 2001, the Electoral Commission must make an inquiry into the particulars on the roll for every person who—
 (a) is registered as an elector of a district; and
 (b) appears from those particulars to reside within a particular local government area.
-(4) If a roll that is not yet in force has been compiled under section 101(1), the inquiry directed to be made under this section must be in respect of that roll.
-(5) An inquiry made under subsection (1)—
+(3) [Repealed]
+(4) If a roll that is not yet in force has been compiled under section 101(1), the inquiry to be made under this section must be in respect of that roll.
+(5) An inquiry may be made by giving to every elector in respect of whom an inquiry is made a written notice that—
 (a) must—
-(i) contain the particulars on the roll for the elector to whom it is addressed; or
+(i) contain some or all of the particulars on the roll for the elector to whom it is addressed; or
 (ii) contain information about how the elector can access his or her particulars electronically; and
 (b) must require the elector, if any of those particulars have changed or are incorrect, to notify the Electoral Commission by—
 (i) sending the corrected particulars to the Electoral Commission in a form that the Electoral Commission has approved; or

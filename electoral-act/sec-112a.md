@@ -5,7 +5,7 @@
 (c) a list of electors whose birthdays fall within a period of 12 months:
 (d) a list of electors as at a date specified by the Statistician:
 (e) a list of electors on the dormant roll:
-(f) in relation to each elector on a list described in paragraphs (a) to (e), the elector's name, date of birth, postal address, residential address, occupation (if any), preferred honorific (if any), and meshblock:
+(f) in relation to each elector on a list described in paragraphs (a) to (e), the elector's name, date of birth, postal address, residential address, and meshblock:
 (g) information about any elector appearing to be entitled to vote in—
 (i) 1 or more named electoral districts; or
 (ii) all electoral districts; or

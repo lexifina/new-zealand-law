@@ -1,10 +1,8 @@
-# 86A Registration of prisoners serving sentence of imprisonment of less than 3 years
-(1) This section applies when—
-(a) a prisoner who is 18 years or older—
-(i) is received into a prison to serve a sentence of imprisonment for a term of less than 3 years; or
-(ii) has their sentence of imprisonment reduced or altered on appeal, or following a retrial, to a term of less than 3 years; or
-(b) a prisoner turns 18 years while serving a sentence of imprisonment for a term of less than 3 years.
-(2) If this section applies, the prison manager must, as soon as is reasonably practicable,—
-(a) advise the prisoner that if they are a New Zealand citizen or a permanent resident of New Zealand (as defined in section 73) and have at some time resided continuously in New Zealand for a period of not less than 1 year they are qualified to be registered as an elector of an electoral district, and are required by section 82 to apply to the Electoral Commission for registration; and
-(b) ask the prisoner whether they want their enrolment details sent to the Electoral Commission to facilitate their registration as an elector.
-(3) If the prisoner wants their enrolment details sent to the Electoral Commission to facilitate their registration as an elector, section 86B applies.
+# 86A Prison manager to send to Electoral Commission information about prisoners disqualified for registration
+(1) This section applies in respect of a prisoner who—
+(a) is of or over the age of 17 years; and
+(b) is a person who is described in section 80(1)(d) and who has been received into a prison to serve the whole or part of their sentence.
+(2) No later than 7 days after a prisoner is received into a prison, the prison manager must forward to the Electoral Commission a notice stating—
+(a) the name and date of birth of the prisoner; and
+(b) the prisoner's previous residential address or, if the prisoner has been transferred to the prison after previously being detained in a hospital or secure facility, the name and address of the hospital or secure facility in which the prisoner was detained; and
+(c) the name and address of the prison.

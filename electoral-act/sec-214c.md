@@ -31,4 +31,8 @@
 (b) be in a form required by the Electoral Commission; and
 (c) be accompanied by an auditor's report obtained under section 214D.
 (6) In this section, year means the period of 12 months starting on 1 January and ending with the close of 31 December.
-(7) Despite anything in subsection (1), if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending with 31 December of that year.
+(7) Despite anything in subsection (1),—
+(a) if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered, that return is to relate to the period beginning with the date of registration of the party and ending on 31 December of that year:
+(b) if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party's registration was cancelled, that return is to relate to the period beginning on 1 January of that year and ending on the date of cancellation of the party's registration:
+(c) if a party secretary is required to file under that subsection a return of party loans that relates to the year in which the party became registered and the party's registration was cancelled, that return is to relate to the period beginning with the date of registration of the party and ending on the date of cancellation of the party's registration.
+(8) The cancellation of a party's registration before the close of 30 April in any year does not release the party secretary, or the person who most recently held that position, from the requirement under this section to file a return of party loans for the preceding year.

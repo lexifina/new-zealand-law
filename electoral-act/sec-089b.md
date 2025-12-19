@@ -15,4 +15,6 @@
 (i) not exceeding $50 on a first conviction; and
 (ii) not exceeding $100 on any subsequent conviction; but
 (b) is not, by reason only of that failure, disqualified from voting at an election in the electoral district in which he or she is registered.
-(7) Despite subsection (6), an elector who gives notice of the matters specified in subsection (2) after the expiry of the period referred to in that subsection but before the commencement of a prosecution is not liable for prosecution for his or her earlier failure to give notice.
+(7) However, a person is not liable for prosecution for an offence under subsection (6) if, before the commencement of the prosecution,—
+(a) the person gives notice, in accordance with subsection (3), of the matters specified in subsection (2)(a) and (b); or
+(b) the Electoral Commission has, under section 89CA, amended the electoral roll to record the change in the person's place of residence.

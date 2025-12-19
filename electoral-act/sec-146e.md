@@ -11,4 +11,4 @@
 (4) If the secretary of a political party lodges a bulk nomination schedule and the political party has a logo registered under section 71F, but the political party is not submitting a party list under section 127, then a copy of the logo may be lodged with the Electoral Commission for inclusion on the ballot paper in accordance with section 150(13).
 (5) Every logo lodged under subsection (4)—
 (a) may be lodged by hand, post, or electronically; and
-(b) must be lodged with the Electoral Commission not later than noon on nomination day.
+(b) must be lodged with the head office of the Electoral Commission not later than noon on nomination day.

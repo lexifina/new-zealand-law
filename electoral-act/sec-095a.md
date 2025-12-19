@@ -11,4 +11,4 @@ notice in writing of the objection, which notice must include both the name of t
 (c) that if he or she fails to forward a statement to the Electoral Commission within 14 days after the day on which that notice is served on the person objected to, the Electoral Commission will, under section 95B, remove from the roll the name of the person objected to.
 (4) If, after making the inquiries it thinks fit, the Electoral Commission is unable to serve the notice of objection on a person personally after making at least 2 attempts, the Electoral Commission must—
 (a) remove the name of the person from the roll; and
-(b) include the name in the dormant roll maintained under section 109.
+(b) include the name on the dormant roll maintained under section 109.
