@@ -7,10 +7,12 @@ address means—
 (b) in relation to a body corporate or unincorporated,—
 (i) the full street address of the body's principal place of business; or
 (ii) the full street address of the body's head office
-contact details for a person means that person's—
-(a) address; and
-(b) telephone numbers; and
-(c) email address (if any)
+contact details, in relation to a person, means 1 or more of the following:
+(a) the person's address:
+(b) the person's email address:
+(c) the person's post office box number:
+(d) the person's phone number:
+(e) a link to a page on an internet site that contains 1 or more of the person's contact details specified in paragraphs (a) to (d)
 election advertisement has the meaning given to it by section 3A
 promoter means a person who initiates or instigates an election advertisement that—
 (a) is published; or

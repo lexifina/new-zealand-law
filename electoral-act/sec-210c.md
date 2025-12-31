@@ -28,6 +28,6 @@
 (d) the amounts of all previous donations; and
 (e) the date the donation was received; and
 (f) the dates all previous donations were received.
-(6) A return must be filed under subsection (1)(a) or (b) within 10 working days of the donation being received by the party secretary.
+(6) A return must be filed under subsection (1)(a) or (b) within 20 working days of the donation being received by the party secretary.
 (7) In this section, give public notice means issue a media statement.
 Compare: 2007 No 111 s 54
