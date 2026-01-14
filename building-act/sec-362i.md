@@ -2,7 +2,7 @@
 (1) In every contract to which this section applies, the following warranties about building work to be carried out under the contract are implied and are taken to form part of the contract:
 (a) that the building work will be carried out—
 (i) in a proper and competent manner; and
-(ii) in accordance with the plans and specifications set out in the contract; and
+(ii) in accordance with the plans and specifications set out in the contract or, in the case of a non-consented small stand-alone dwelling, in accordance with the final design plans; and
 (iii) in accordance with the relevant building consent (if any):
 (b) that all building products to be supplied for use in the building work—
 (i) will be suitable for the purpose for which they will be used; and

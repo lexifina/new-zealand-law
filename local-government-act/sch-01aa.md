@@ -350,3 +350,8 @@ In this Part,—
 (b) a statement of expectations prepared under section 64B of this Act in relation to the CCO continues in force until the first statement of expectations is provided to the water organisation under section 224 of the 2025 Act:
 (c) the requirements for a half-yearly report under section 66 of this Act continue to apply until the water organisation adopts its first half-yearly report under section 248 of the 2025 Act:
 (d) the requirements for an annual report under section 67 of this Act continue to apply until the water organisation adopts its first water services annual report under section 243 of the 2025 Act.
+Part 11 Provisions relating to Building and Construction (Small Stand-alone Dwellings) Amendment Act 2025
+63 Territorial authorities may require development contributions for small stand-alone dwellings even where not authorised by policy
+(1) This clause applies during the period beginning with the commencement of this Part of Schedule 1AA and expiring 3 years after that date.
+(2) A territorial authority may require a development contribution to be paid in respect of a non-consented small stand-alone dwelling, even if this is not authorised by, or is contrary to, the relevant policies of the territorial authority.
+(3) Subpart 5 of Part 8 applies, subject to this clause and with any necessary modifications.

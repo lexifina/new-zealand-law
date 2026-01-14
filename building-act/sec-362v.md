@@ -20,3 +20,4 @@
 (i) the heading to this section is amended by omitting "code compliance certificate" and substituting "consent completion certificate"; and
 (ii) subsections (1) and (2) are amended by omitting "code compliance certificate" and substituting "consent completion certificate"; and
 (b) second, this subsection is repealed.
+(7) This section does not apply to a non-consented small stand-alone dwelling.
