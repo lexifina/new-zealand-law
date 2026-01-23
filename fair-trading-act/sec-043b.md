@@ -1,7 +1,7 @@
 # 43B Limits on jurisdiction of District Court and Disputes Tribunal to make orders under section 43
 (1) The District Court must not make an order under section 43 if a value or amount described in subsection (3) exceeds $350,000 or, if greater, the amount specified in section 74 of the District Court Act 2016.
 (2) The Disputes Tribunal must not make an order under section 43 if a value or amount described in subsection (3) exceeds whichever is the greatest of the following:
-(a) $30,000:
+(a) $60,000:
 (b) the amount specified in section 10(1A)(b) of the Disputes Tribunal Act 1988.
 (c) [Repealed]
 (3) The values and amounts are as follows:

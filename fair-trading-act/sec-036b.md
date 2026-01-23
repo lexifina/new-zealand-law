@@ -4,7 +4,7 @@
 (b) the price of the goods is to be paid by—
 (i) 3 or more instalments; or
 (ii) if the agreement specifies that it is a layby sale agreement, 2 or more instalments.
-(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $30,000 or, if greater, the amount specified in section 10(1A)(b) of the Disputes Tribunal Act 1988.
+(2) However, a layby sale agreement does not include an agreement for the supply of goods that have a purchase price that is more than $60,000 or, if greater, the amount specified in section 10(1A)(b) of the Disputes Tribunal Act 1988.
 (3) For the purposes of subsection (1)(b), a deposit paid by the consumer for the goods is an instalment.
 (4) [Repealed]
 (5) [Repealed]
