@@ -85,3 +85,7 @@ Proceedings and other matters
 (b) rule 7 of the High Court (Access to Court Documents) Amendment Rules 2009; or
 (c) rule 5 of the High Court Amendment Rules 2010.
 (2) So far as the enactments referred to in subclause (1)(a) to (c) may be applicable, they continue to have effect as if the Judicature Act 1908 had not been repealed.
+Part 3 Provision relating to Judicature (Timeliness) Legislation Amendment Act 2025
+13 Section 164A not to apply to existing proceedings
+(1) Section 164A does not apply to civil proceedings tendered for filing before the commencement date.
+(2) In this clause, commencement date means the date on which the Judicature (Timeliness) Legislation Amendment Act 2025 comes into force.

@@ -39,3 +39,11 @@ commencement date means the date on which the 2022 Act comes into force.
 7 Proceedings affected by amendments
 (1) The amendments made to this Act by the 2022 Act (except for this clause) apply only to proceedings commenced on or after the commencement date.
 (2) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if those amendments had not been enacted.
+Part 5 Provisions relating to Judicature (Timeliness) Legislation Amendment Act 2025
+8 Interpretation
+In this Part, unless the context otherwise requires,—
+amendment Act means the Judicature (Timeliness) Legislation Amendment Act 2025
+commencement date means the date on which the amendment Act comes into force.
+9 Amendment Act not to apply to existing proceedings
+(1) A direction under section 156A may not be made in respect of proceedings commenced before the commencement date.
+(2) Section 319A does not apply to appeals or applications for leave to appeal made to the Court of Appeal before the commencement date.
