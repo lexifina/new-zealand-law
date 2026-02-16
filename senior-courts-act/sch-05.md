@@ -89,3 +89,10 @@ Part 3 Provision relating to Judicature (Timeliness) Legislation Amendment Act 2
 13 Section 164A not to apply to existing proceedings
 (1) Section 164A does not apply to civil proceedings tendered for filing before the commencement date.
 (2) In this clause, commencement date means the date on which the Judicature (Timeliness) Legislation Amendment Act 2025 comes into force.
+Part 4 Provision relating to Victims of Family Violence (Strengthening Legal Protections) Legislation Act 2025
+14 Application of section 169A
+(1) This clause applies to section 169A (as inserted by the Victims of Family Violence (Strengthening Legal Protections) Legislation Act 2025).
+(2) That section applies, on and after its commencement (the commencement), to—
+(a) proceedings commenced on or after the commencement; and
+(b) proceedings commenced before the commencement and not finally determined (including any rehearing, retrial, or appeal) before the commencement.
+(3) However, in determining whether to make an order under section 169A(2), the Judge must only have regard to a party's conduct that occurred after the commencement.
