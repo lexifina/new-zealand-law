@@ -4,9 +4,9 @@
 (b) under section 61(2), in relation to—
 (i) additional terms and conditions to the collective agreement on which the individual employment agreement is based; and
 (ii) variations to the individual employment agreement in subparagraph (i):
-(c) under section 62(3), in relation to additional terms and conditions for the first 30 days of an employee's employment:
 (c) [Repealed]
-(d) under section 63(2), in relation to variations to terms and conditions of an individual employment agreement after the 30-day period:
+(c) [Repealed]
+(d) [Repealed]
 (d) [Repealed]
 (e) in relation to the terms and conditions of an individual employment agreement (including any variations to that agreement) for an employee if no collective agreement covers the work done, or to be done, by the employee:
 (f) where a fixed term of employment, or probationary or trial period of employment, is proposed:
