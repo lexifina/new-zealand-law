@@ -278,6 +278,12 @@ National student numbers
 Teaching Council membership
 198 End of teacher educator's term of office
 199 Initial appointment of additional member under section 475(1)(a)
+Part 9
+Provisions relating to Education and Training (Early Childhood Education Reform) Amendment Act 2025
+200 Interpretation
+201 Effect of transfer of functions to Director of Regulation on matters, documents, and decisions
+202 Personal information
+203 References to Secretary
 Part 1 Provisions relating to Act as enacted
 Subpart 1—General transitional provisions
 1 Interpretation
@@ -1796,3 +1802,30 @@ Teaching Council membership
 199 Initial appointment of additional member under section 475(1)(a)
 (1) This clause applies to the first appointment by the Minister of the additional member of the Teaching Council under section 475(1)(a) (as amended by the amendment Act).
 (2) The Minister need not comply with section 476(3) when appointing the member.
+Part 9 Provisions relating to Education and Training (Early Childhood Education Reform) Amendment Act 2025
+200 Interpretation
+In this Part,—
+amendment Act means the Education and Training (Early Childhood Education Reform) Amendment Act 2025
+commencement date means the date on which the amendment Act comes into force
+Director of Regulation function means a function, duty, or power of the Secretary under this Act that becomes a function, duty, or power of the Director of Regulation on and after the commencement date.
+201 Effect of transfer of functions to Director of Regulation on matters, documents, and decisions
+(1) This clause applies if, before the commencement date,—
+(a) a person has applied to the Secretary and the application relates to a Director of Regulation function, for example, a licence to operate an early childhood service, but the application has not been considered; or
+(b) the Secretary has commenced a matter or process in relation to a Director of Regulation function, for example, an investigation into a service provider's non-compliance with their licence, but the investigation has not been completed; or
+(c) a person has appealed to the District Court against, or applied for judicial review of, a decision or direction of the Secretary in relation to early childhood education.
+(2) The Director of Regulation, in place of the Secretary, must consider the application or complete the matter or process on or after the commencement date.
+(3) If subclause (1)(c) applies, the Director, in place of the Secretary, is treated as a respondent to the appeal or application for judicial review on and after the commencement date.
+(4) A document or notice given by the Secretary under this Act is treated as a document or notice given by the Director of Regulation if—
+(a) it relates to a Director of Regulation function; and
+(b) it was given before the commencement date.
+(5) The transfer of a Director of Regulation function to the Director of Regulation does not, of itself, affect—
+(a) a decision made, or anything done or omitted to be done, by the Secretary in relation to the Director of Regulation function before the commencement date; or
+(b) any other matter or thing arising out of the Secretary performing the Director of Regulation function before the commencement date.
+(6) In this section, applied for judicial review means—
+(a) to have applied for review of the decision or direction under the Judicial Review Procedure Act 2016; or
+(b) to have instituted proceedings seeking any writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in respect of that decision or direction.
+202 Personal information
+Personal information that was held by the Secretary before the commencement date when performing a Director of Regulation function is to be treated on and after the commencement date as having been held by the Director of Regulation.
+203 References to Secretary
+(1) On and after the commencement date, a reference to the Secretary in any legislation (other than this Act), notice, instrument, contract, or other document must, in relation to a Director of Regulation function, be read as a reference to the Director of Regulation.
+(2) This clause applies unless the context otherwise requires.
