@@ -13,3 +13,7 @@ commencement date means the date on which the 2022 Act comes into force.
 (1) The amendments made to this Act by the 2022 Act (except for this clause) apply to proceedings commenced on or after the commencement date.
 (2) To avoid doubt, subclause (1) applies to proceedings that commence on or after the commencement date, but that relate to circumstances, events, or decisions that occurred before, on, or after the commencement date.
 (3) Proceedings commenced before the commencement date, and not finally determined before the commencement date (including any rehearing, retrial, or appeal), continue as if the amendments made to this Act by the 2022 Act had not been enacted.
+Part 3 Provision relating to Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025
+4 Proceedings affected by Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025
+(1) Amendments made by a provision of the Evidence (Giving Family Violence Evidence in Family Court Proceedings) Amendment Act 2025 (except for this clause) apply only to proceedings commenced on or after the commencement of that provision.
+(2) Proceedings commenced before that commencement, and not finally determined (including any rehearing or appeal) before that commencement, continue as if those amendments had not been enacted.
