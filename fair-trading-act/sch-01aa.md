@@ -28,3 +28,6 @@ commencement date means the date on which sections 202 to 215 of the Grocery Ind
 new, in relation to a provision of this Act, means the provision as in force on and after the commencement date
 old, in relation to a provision of this Act, means the provision as in force immediately before the commencement date
 relevant insurance agreement has the same meaning as in clause 1 of this schedule.
+Part 3 Provision relating to Fair Trading (Gift Card Expiry) Amendment Act 2024
+3 Amendments do not apply to existing gift cards
+The amendments made by the Fair Trading (Gift Card Expiry) Amendment Act 2024 do not apply to a gift card sold before the commencement of that Act.

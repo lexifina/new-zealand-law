@@ -10,4 +10,6 @@ infringement offence means any of the following:
 (i) section 36C (layby disclosure requirements):
 (ii) section 36D (further layby disclosure requirements):
 (iii) section 36L (uninvited direct sale disclosure requirements):
-(iv) section 36U (extended warranty disclosure requirements).
+(iv) section 36U (extended warranty disclosure requirements):
+(v) section 36WB (gift card expiry date must not be less than 3 years):
+(vi) section 36WC (expiry date must appear prominently on gift card).
