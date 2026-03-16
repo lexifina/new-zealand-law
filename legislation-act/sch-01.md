@@ -39,13 +39,15 @@ Official versions
 26 How legal status of previous official versions applies
 27 Previous printed official versions continue until new official version issued
 27A Annual report on exemptions from presentation and other drafting and publication matters
+27B Publication statement taken not to have been required
 Correcting errors and making other editorial changes
 28 How power to make editorial changes applies to legislation published under old publication requirements
 Revision Bill provisions
 29 Provisions on revision Bills apply also to previous revision Bills
 Subpart 4—Disclosure requirements for Government-initiated legislation
-30 Disclosure requirements apply only to Bills introduced after Part 4 commencement date
-31 Ministers may perform duties before Part 4 commencement date
+[Repealed]
+30 Disclosure requirements apply only to Bills introduced after Part 4 commencement date [Repealed]
+31 Ministers may perform duties before Part 4 commencement date [Repealed]
 Subpart 5—Parliament's oversight of secondary legislation
 Presentation to House of Representatives
 32 Limited application of presentation requirements to secondary legislation made before publication deadline
@@ -63,7 +65,7 @@ This Part contains transitional and savings provisions as follows:
 (b) subpart 1 relates to the interpretation principles and rules in Part 2 of this Act:
 (c) subpart 2 relates to new and existing secondary legislation and when it and its minimum legislative information must be published under Part 3 of this Act:
 (d) subpart 3 relates to general drafting and publication matters in Part 3 of this Act:
-(e) subpart 4 relates to disclosure statement matters in Part 4 of this Act:
+(e) [Repealed]
 (f) subpart 5 relates to Parliament's oversight of secondary legislation under Part 5 of this Act:
 (g) subpart 6 relates to the PCO under Part 6 of this Act.
 2 Definitions for this Part
@@ -238,7 +240,7 @@ Other transitional matters
 (a) consulting the committee of the House of Representatives that is responsible for the review of secondary legislation; and
 (b) having regard to the purpose of this clause.
 (4) Regulations made under this clause are secondary legislation (see Part 3 for publication requirements).
-(5) This clause is repealed on the publication commencement date.
+(5) This clause is repealed on the fifth anniversary of the publication commencement date.
 20 Transitional application of publication responsibilities
 (1) Section 69, and other publication or notification responsibilities for the PCO under Part 3 (as in force on the main commencement date), do not apply to—
 (a) Bills that were introduced before 5 August 2013 (or amendments to those Bills):
@@ -284,6 +286,8 @@ Section 18(3) of the Legislation Act 2012 continues to apply to regulations or a
 The first annual report required under section 83A must—
 (a) be provided to the Attorney-General as soon as practicable after the end of the financial year ending on 30 June 2022; and
 (b) cover the period from the main commencement date to 30 June 2022.
+27B Publication statement taken not to have been required
+Copies or reprints of legislation published under the Legislation Act 2012 must be taken never to have been required to include a statement that they are published under the authority of the New Zealand Government (despite section 6(6) of that Act).
 Correcting errors and making other editorial changes
 28 How power to make editorial changes applies to legislation published under old publication requirements
 Subpart 2 of Part 3 of this Act applies to legislation whether published by the PCO under this Act or any corresponding previous Acts.
@@ -292,13 +296,11 @@ Revision Bill provisions
 (1) References in this Act to a revision Bill or a revision Act (or a revision programme) include a Bill or an Act that is prepared (or a revision programme) under subpart 3 of Part 2 of the Legislation Act 2012.
 (2) References in this Act to sections 59 to 62 or subpart 3 of Part 3 of this Act include subpart 3 of Part 2 of the Legislation Act 2012.
 Subpart 4—Disclosure requirements for Government-initiated legislation
+[Repealed]
 30 Disclosure requirements apply only to Bills introduced after Part 4 commencement date
-Part 4 of this Act does not apply to—
-(a) a Government Bill introduced before the date on which Part 4 comes into force:
-(b) a Government amendment for a Bill referred to in paragraph (a) (regardless of whether the Government amendment is released before or after the date on which Part 4 comes into force).
+[Repealed]
 31 Ministers may perform duties before Part 4 commencement date
-(1) The responsible Minister or the Attorney-General may perform a duty under section 107 or 110 before the date on which Part 4 comes into force.
-(2) This clause does not limit section 43.
+[Repealed]
 Subpart 5—Parliament's oversight of secondary legislation
 Presentation to House of Representatives
 32 Limited application of presentation requirements to secondary legislation made before publication deadline
