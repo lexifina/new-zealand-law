@@ -1134,7 +1134,7 @@ An application to a Minister for a direction under section 80C to use the stream
 (a) must provide for the matters set out in subclause (4); and
 (b) must include the Minister's statement of expectations for the local authority; and
 (c) may include any matters provided for in subclause (5).
-(3A) If the direction relates to an Auckland housing planning instrument, the Minister's statement of expectations may include expectations about how the instrument will comply with clause 4 of Schedule 3C.
+(3A) If the direction relates to an Auckland housing planning instrument, the Minister's statement of expectations may include expectations about how the instrument will comply with clause 4 of Schedule 3C (as amended by section 6 of the Resource Management (Auckland Housing) Amendment Act 2026).
 (3B) If the direction relates to the removal, or enabling the removal, of heritage protection from buildings (within the meaning of section 80C(5)) or structures that are listed in a heritage list (within the meaning of section 80C(5)), the Minister's statement of expectations must include the following criteria:
 (a) heritage significance:
 (b) physical condition, including degree of seismic risk:
@@ -1169,8 +1169,9 @@ An application to a Minister for a direction under section 80C to use the stream
 80 Amendment of direction
 (1) The responsible Minister may initiate an amendment of a direction.
 (2) A local authority may request in writing that the responsible Minister amend a direction that applies to that local authority, setting out the reasons for the request.
-(2A) If the reason for the request is to enable or support a variation to an Auckland housing planning instrument, the request must also contain information on how that instrument, as it is proposed to be varied, would comply with clause 4 of Schedule 3C.
+(2A) If the reason for the request is to enable or support a variation to an Auckland housing planning instrument, the request must also contain information on how that instrument, as it is proposed to be varied, would comply with clause 4 of Schedule 3C (as amended by section 6 of the Resource Management (Auckland Housing) Amendment Act 2026).
 (3) The responsible Minister may amend his or her direction as the Minister thinks appropriate.
+(3A) The Minister may amend the Resource Management (Direction to Auckland Council to use the Streamlined Planning Process to Prepare Proposed Plan Change 120: Housing Intensification and Resilience) Notice 2025 (Gazette 2025-sl6084) in accordance with this clause at any time, except that the requirements in clause 76(4)(b) to (d) of this schedule do not apply to an amendment made under this subclause.
 (4) Unless an amendment made under this clause has no more than a minor effect or is made to correct a technical error, the following clauses apply:
 (a) clause 76(2) to (6); and
 (b) clause 77(2) or 77A(2) (as the case requires); and
