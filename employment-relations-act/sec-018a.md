@@ -1,6 +1,6 @@
 # 18A Union delegates entitled to reasonable paid time to represent employees
 (1) An employee is entitled to spend reasonable paid time undertaking union activities during the employee's normal hours of work if—
-(a) the employee has been appointed or elected as a union delegate, in accordance with the rules or procedures of the union, to represent other employees of the employee's employer who are members of the union on matters relating to their employment; and
+(a) the employee has been appointed or elected as a union delegate, in accordance with the constitution or procedures of the union, to represent other employees of the employee's employer who are members of the union on matters relating to their employment; and
 (b) the activities relate to representation of employees of the employer; and
 (c) the activities would not unreasonably disrupt the employer's business or the union delegate's performance of employment duties.
 (2) Before undertaking activities under subsection (1), an employee must—
