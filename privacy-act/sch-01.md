@@ -53,3 +53,19 @@ A transfer prohibition notice that was given by the Commissioner under section 1
 (b) the sentencing referred to in subclause (1)(a) is completed:
 (c) the outcome of the proceedings and sentencing referred to in subclause (1)(a) has been recorded by the Police.
 (3) Subclause (2) does not limit the application of section 34 of the Legislation Act 2019.
+Part 2 Provisions relating to Privacy Amendment Act 2025
+16 Interpretation
+In this Part,—
+approved information sharing agreement means an information sharing agreement—
+(a) entered into under—
+(i) Part 9A of the Privacy Act 1993; or
+(ii) subpart 1 of Part 7 of this Act; and
+(b) approved by an Order in Council
+commencement date means the date on which this Part comes into force
+information matching agreement means an information matching agreement entered into under—
+(a) Part 10 of the Privacy Act 1993; or
+(b) subpart 4 of Part 7 of this Act.
+17 Approved information sharing agreements
+IPP 3A does not apply to any personal information collected before, on, or after the commencement date under an approved information sharing agreement that was in force immediately before the commencement date.
+18 Information matching agreements
+IPP 3A does not apply to any personal information collected before, on, or after the commencement date under an information matching agreement that was in force immediately before the commencement date.
