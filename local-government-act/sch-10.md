@@ -186,7 +186,8 @@ In the case of a unitary authority for a district that includes 1 or more local 
 (a) identify the non-regulatory activities of the unitary authority for which decision-making responsibility is allocated to 1 or more local boards under section 48L or under section 17 of the Local Government (Auckland Council) Act 2009:
 (b) group the activities to which paragraph (a) relates separately from any other activity or group of activities of the unitary authority (there may be 1 or more groups, but each group of activities specified in clause 2(2) must be separately identified):
 (c) include the estimated local board funding allocation for each local board for each year to which the long-term plan relates:
-(d) include the local board agreement for each local board area for the first year to which the long-term plan relates.
+(d) include the local board agreement for each local board area for the first year to which the long-term plan relates:
+(e) in the case of the Auckland Council, specify the activities that the transport CCO must undertake in accordance with section 46 of the Local Government (Auckland Council) Act 2009.
 Part 2 Information to be included in annual plan
 18 Forecast financial statements
 (1) An annual plan must include, for the financial year to which the plan relates, forecast financial statements for the local authority.
