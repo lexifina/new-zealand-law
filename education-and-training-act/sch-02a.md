@@ -3,7 +3,8 @@ s 10(1), (10A)
 Ashburton Kindergarten Association Incorporated
 Auckland Kindergarten Association
 Canterbury Westland Kindergarten Association Incorporated
-Central North Island Kindergarten Trust
+Canterbury Westland Kindergartens Charitable Trust
+Central Kids Trust
 Counties Manukau Kindergarten Association Incorporated
 Dannevirke Kindergarten Association Incorporated
 Dunedin Kindergartens Incorporated
