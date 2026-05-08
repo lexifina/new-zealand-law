@@ -8,7 +8,7 @@ where—
 ar
 is the employee's annual remuneration
 r
-is the total remuneration that the employer has paid to the employee in the period that consists of the pay periods that start and end within the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissal
+is the total remuneration that the employer has paid to the employee in a position in the period that consists of the pay periods that start and end within the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissal
 d
 is the number of part or full days for which the employee has held the position with the employer in the 364 days immediately before the first day of the pay period within which the employer notifies the employee of the dismissal.
 (5) For the purposes of the definition of annual remuneration (see subsection (4)), remuneration includes—
