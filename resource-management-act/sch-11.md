@@ -20,6 +20,7 @@ Ngāti Apa (North Island) Claims Settlement Act 2010
 Ngāti Awa Claims Settlement Act 2005
 Ngāti Hauā Claims Settlement Act 2014
 Ngāti Hāua Claims Settlement Act 2026
+Ngāti Hei Claims Settlement Act 2026
 Ngāti Hinerangi Claims Settlement Act 2021
 Ngāti Kahungunu ki Wairarapa Tāmaki nui-a-Rua Claims Settlement Act 2022
 Ngāti Kōata, Ngāti Rārua, Ngāti Tama ki Te Tau Ihu, and Te Ātiawa o Te Waka-a-Māui Claims Settlement Act 2014
@@ -34,6 +35,7 @@ Ngāti Pāhauwera Treaty Claims Settlement Act 2012
 Ngāti Pāoa Claims Settlement Act 2025
 Ngati Porou Claims Settlement Act 2012
 Ngāti Pūkenga Claims Settlement Act 2017
+Ngāti Rāhiri Tumutumu Claims Settlement Act 2026
 Ngāti Rangi Claims Settlement Act 2019
 Ngāti Rangiteaorere Claims Settlement Act 2014
 Ngāti Rangitihi Claims Settlement Act 2022
@@ -41,6 +43,7 @@ Ngāti Rangiwewehi Claims Settlement Act 2014
 Ngati Ruanui Claims Settlement Act 2003
 Ngati Tama Claims Settlement Act 2003
 Ngāti Tamaoho Claims Settlement Act 2018
+Ngāti Tara Tokanui Claims Settlement Act 2026
 Ngati Toa Rangatira Claims Settlement Act 2014
 Ngāti Tuwharetoa (Bay of Plenty) Claims Settlement Act 2005
 Ngāti Tūwharetoa Claims Settlement Act 2018
