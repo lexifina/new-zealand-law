@@ -123,3 +123,6 @@ Other application
 (5) Section 131B does not apply to that person before the earlier of the following:
 (a) the close of the 20th working day after the person has failed to provide to the Commission any information that the Commission has required under section 131F(3) to assist it in determining the application:
 (b) the date on which the Commission gives a written notice of decision to the person under section 131I.
+Annual return requirement ceases to apply
+12A Annual return requirement does not apply to periods starting on or after 1 April 2025
+The requirement in section 116AAA ceases to apply to 12-month periods starting on or after 1 April 2025.

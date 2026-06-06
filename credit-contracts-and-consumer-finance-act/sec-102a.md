@@ -17,7 +17,7 @@
 (b) the creditor breaches section 83G by failing to include any information in the repossession warning notice for the purposes of that paragraph.
 (6) Every creditor or creditor's agent who is subject to Part 3A commits an offence if the creditor or creditor's agent breaches section 83O(1) by failing to produce a document or information referred to in a paragraph of that subsection.
 (7) Subsections (5) and (6) do not apply to a complete failure to serve a repossession warning notice on a debtor in accordance with section 83G or a complete failure to comply with section 83O(1) (but such a breach is an offence under section 103).
-(7A) Every person commits an offence if the person is subject to section 116AAA (requirement for annual return) and the person breaches the requirement.
+(7A) [Repealed]
 (8) A person who commits an offence under this section is liable on conviction,—
 (a) in the case of an individual, to a fine not exceeding $10,000; and
 (b) in the case of a body corporate, to a fine not exceeding $30,000.
