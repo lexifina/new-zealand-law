@@ -110,3 +110,10 @@ A territorial authority must not impose a fee for issuing any notice under secti
 (1) If, before the commencement of the amendment Act, a person has been charged under this Act with an offence relating to the failure to complete seismic work on or before 1 April 2024, the proceedings in respect of the charge continue as if the amendment Act had not been enacted.
 (2) If a person is at any time alleged to have failed to complete required seismic work on or before 1 April 2024, the person may be charged under this Act after the commencement of the amendment Act and the proceedings may be completed as if the amendment Act had not been enacted.
 (3) However, if an owner fails to comply with a deadline that expires on or after 2 April 2024 but before the commencement of the amendment Act, that person is deemed not to have committed an offence under section 133AU(1) of this Act.
+Part 6 Provisions relating to Building and Construction Sector (Self-certification by Plumbers and Drainlayers) Amendment Act 2026
+18 Interpretation
+In this Part,—
+2026 amendment Act means the Building and Construction Sector (Self-certification by Plumbers and Drainlayers) Amendment Act 2026
+commencement date means the commencement date under section 2(1) of the 2026 amendment Act.
+19 Application of sections 49(1A) and 89A
+Sections 49(1A) and 89A (as inserted by the 2026 amendment Act) only apply to building consents applied for after the commencement date.

@@ -26,6 +26,7 @@
 (ii) records of work and certificates of work provided by licensed building practitioners under section 45(2) or 88(1)(a):
 (iii) energy work certificates:
 (iv) the compliance schedules (where relevant):
+(v) certificates of compliance (where relevant):
 (d) any additional relevant information received by the building consent authority between the decision to issue a building consent and the decision to issue a code compliance certificate.
 (4) The information required to be provided to the territorial authority for the relevant district under section 238(1)(c)(iv) within the time set out in that subparagraph is—
 (a) records of any information on any land or building received by the building consent authority from a statutory authority:
