@@ -20,5 +20,5 @@ financial product—
 (ii) any security of a kind referred to in section 6(6)(c) of that Act (being a security that is used to generate a financial benchmark)
 financial service—
 (a) has the same meaning as in section 5 of the Financial Service Providers (Registration and Dispute Resolution) Act 2008; and
-(b) includes a market service within the meaning of section 6(1) of the Financial Markets Conduct Act 2013; but
+(b) includes a financial service within the meaning of section 6(1) of the Financial Markets Conduct Act 2013; but
 (c) does not include, in relation to any provision of sections 9 to 13, any class or classes of services declared by regulations made under section 548(1)(d)(ii) of the Financial Markets Conduct Act 2013 not to be financial services for the purposes of the provision of Part 2 of that Act that corresponds to that provision of this Act.
