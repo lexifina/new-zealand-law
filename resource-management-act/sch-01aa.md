@@ -20,7 +20,7 @@ s 46B
 (4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 3 Proof of material incorporated by reference
 (1) A copy of material incorporated by reference in a national environmental standard, national policy statement, or New Zealand coastal policy statement including any amendment to, or replacement of, the material (material), must be—
-(a) certified as a correct copy of the material by the chief executive of the Ministry for the Environment; and
+(a) certified as a correct copy of the material by the chief executive of the Ministry; and
 (b) retained by the Ministry.
 (2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material in the national environmental standard, national policy statement, or New Zealand coastal policy statement.
 4 Effect of expiry of material incorporated by reference
@@ -31,7 +31,7 @@ s 46B
 (3) Subclause (1) does not apply if the national environmental standard, national policy statement, or New Zealand coastal policy statement expressly says that it does not apply.
 (4) A notice under this clause is secondary legislation (see Part 3 of the Legislation Act 2019 for publication requirements).
 5 Access to material incorporated by reference
-(1) The Ministry for the Environment—
+(1) The Ministry—
 (a) must make the material referred to in subclause (2) (material) available for inspection during working hours at the offices of the Ministry; and
 (b) must make copies of the material available for purchase at the offices of the Ministry; and
 (c) may make copies of the material available in any other way that the chief executive of the Ministry considers appropriate in the circumstances (for example, on an Internet website maintained by the Ministry); and
