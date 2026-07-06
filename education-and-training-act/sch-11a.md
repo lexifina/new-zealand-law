@@ -66,7 +66,8 @@ s 341G
 7 Staff and expenses
 The federation polytechnics and anchor polytechnics are responsible for—
 (a) providing the Federation Committee with a secretariat and other staff to assist the Committee in the performance of its functions and for paying the remuneration and allowances of those staff; and
-(b) meeting the office overheads and other costs and expenses reasonably incurred by the Committee in performing its functions.
+(b) meeting the office overheads and other costs and expenses reasonably incurred by the Committee in performing its functions; and
+(c) paying remuneration to the chairperson of the Federation Committee at a rate determined by the Minister in accordance with the fees framework referred to in clause 17(3) of Schedule 11.
 8 Personal liability of members or staff
 A member of the Federation Committee or staff member of the Federation Committee is not personally liable for any act done or omitted by the person—
 (a) in good faith; and

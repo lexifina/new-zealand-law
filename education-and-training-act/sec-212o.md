@@ -1,5 +1,5 @@
 # 212O Duties of sponsors
-A sponsor must—
+(1) A sponsor must, in relation to each charter school covered by the contract,—
 (a) govern the school so as to ensure that every student is able to attain the highest possible standard of educational achievement; and
 (b) ensure that every governing member of the sponsor remains a fit and proper person to operate the school; and
 (c) ensure that a safe physical and emotional environment is provided for students and staff; and
@@ -16,3 +16,4 @@ A sponsor must—
 (i) internal disputes management:
 (ii) engagement with the school community; and
 (l) ensure that any complaints against the school are responded to promptly.
+(2) However, in the case of a multi-school contract, the sponsor may appoint a chief executive to be responsible for the day-to-day management of all the schools covered by the contract.

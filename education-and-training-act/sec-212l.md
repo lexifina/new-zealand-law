@@ -1,5 +1,5 @@
 # 212L Charter school contracts
-(1) The Agency may, in the name and on behalf of the Crown, enter into a contract with a sponsor that allows the sponsor to operate a charter school.
+(1) The Agency may, in the name and on behalf of the Crown, enter into a contract with a sponsor that allows the sponsor to operate 1 or more charter schools.
 (2) If the Agency is unable to conclude a contract with the sponsor within a reasonable time, it must refer the matter back to the Authorisation Board for further consideration.
 (3) When negotiating a charter school contract, the Agency must have regard to the available budget for charter schools.
 (4) The charter school contract must be for a fixed term.
@@ -25,6 +25,16 @@
 (n) the grounds for the Authorisation Board to apply an intervention under section 212ZF(1)(a), (b), or (c):
 (o) the process that the Authorisation Board must follow in applying an intervention under section 212ZF:
 (p) in the case of a converting school, the conversion date for the school.
+(5A) In the case of a multi-school contract, the contract must set out the matters referred to in the following provisions in relation to each school covered by the contract:
+(a) subsection (5)(a):
+(b) subsection (5)(d) and (e):
+(c) subsection (5)(g):
+(d) subsection (5)(h) to (j):
+(e) if applicable, subsection (6).
+(5B) Despite subsection (5A), the contract may, in relation to the matters referred to in subsection (5)(g), provide for a single self-audit report for all the schools covered by the contract with school-specific sections.
+(5C) The Agency and a sponsor may, by agreement, vary a multi-school contract to—
+(a) add 1 or more charter schools; or
+(b) remove 1 or more charter schools.
 Additional requirements for charter schools that offer or provide distance learning
 (6) The charter school contract for a charter school that offers or provides distance learning must also set out, or provide for, the following matters:
 (a) how student engagement and attendance will be measured and ensured:

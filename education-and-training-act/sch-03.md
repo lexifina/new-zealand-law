@@ -34,7 +34,7 @@ The Teaching Council must register an applicant under clause 1 if satisfied that
 (a) is of good character; and
 (b) is fit to be a teacher; and
 (c) is satisfactorily trained to teach; and
-(d) meets the criteria for teacher registration established under section 479(1)(e); and
+(d) meets the criteria for teacher registration established under section 480A(1)(a); and
 (e) either—
 (i) has not been convicted of a specified offence as defined in section 23(1) of the Children's Act 2014; or
 (ii) has been granted an exemption under section 35 of the Children's Act 2014 in respect of every conviction for a specified offence as defined in section 23(1) of that Act.
@@ -135,7 +135,7 @@ Compare: 1989 No 80 s 360
 (2) The Teaching Council must issue a practising certificate to every applicant who—
 (a) is registered as a teacher; and
 (b) has had a satisfactory Police vet within the past 3 years; and
-(c) meets the standards and criteria for the issue of practising certificates maintained by the Teaching Council under section 479(1)(j).
+(c) meets the standards and criteria for the issue of practising certificates maintained by the Secretary under section 480A(1)(c).
 (3) A teacher's practising certificate must show clearly that the teacher is registered.
 (4) Unless it is sooner cancelled or expires,—
 (a) a practising certificate issued to a teacher who already holds a current practising certificate expires—
@@ -143,18 +143,18 @@ Compare: 1989 No 80 s 360
 (ii) at any earlier time that the Teaching Council specifies, by notice, in respect of any or all kinds of practising certificate (see subclause (8A):
 (b) a practising certificate issued to a teacher who does not already hold a current practising certificate expires—
 (i) on the third anniversary of the day it is issued; or
-(ii) at any earlier time that the Teaching Council decides in accordance with the standards and criteria maintained under section 479(1)(j).
+(ii) at any earlier time that the Teaching Council decides in accordance with the standards and criteria maintained under section 480A(1)(c).
 (5) A practising certificate expires when its holder's registration is cancelled.
 (6) If a teacher applies to renew their practising certificate, the Teaching Council may issue a renewed practising certificate—
 (a) if it is satisfied that the teacher—
 (i) has satisfactory recent teaching experience; and
 (ii) has had a satisfactory Police vet within the past 3 years; and
 (iii) has completed satisfactory professional development during the past 3 years; and
-(iv) meets the standards and criteria maintained under section 479(1)(j); or
+(iv) meets the standards and criteria maintained under section 480A(1)(c); or
 (b) if it is satisfied that the teacher—
 (i) has met the requirements for a refresh process specified under rules made under section 486; and
 (ii) has had a satisfactory Police vet within the past 3 years; and
-(iii) meets the standards and criteria maintained under section 479(1)(j).
+(iii) meets the standards and criteria maintained under section 480A(1)(c).
 (7) This subclause applies to a renewed practising certificate issued to a person if—
 (a) the practising certificate the person already holds when the renewed certificate is issued is suspended under section 498; or
 (b) the person does not already hold a practising certificate when the renewed certificate is issued, but—

@@ -2,7 +2,7 @@
 ss 474(3), 614(3)
 Contents
 1 Term of office
-2 Removal of members
+2 Removal of members [Repealed]
 3 Removal from office
 4 Continuation in office
 5 Extraordinary vacancies
@@ -16,37 +16,23 @@ Contents
 Police vetting
 13 Teaching Council must co-ordinate Police vetting
 1 Term of office
-(1) The term of office of every member of the Teaching Council is 3 years and—
-(a) an appointed member may be reappointed for 2 more terms; and
-(b) an elected member may be re-elected for 2 more terms.
-(2) The term of office of all members of the Teaching Council—
-(a) begins at the same time (when the term of office of their immediate predecessors expires); and
-(b) ends at the same time (when their term of office expires).
+(1) The term of office of an appointed member of the Teaching Council is 3 years or a shorter period as specified by the Minister in the member's notice of appointment.
+(2) An appointed member may be reappointed for 2 more terms.
 Compare: 1989 No 80 s 380A
 2 Removal of members
-(1) The Minister may remove an appointed member of the Teaching Council under clause 1(1).
-(2) The Minister may remove an elected member of the Teaching Council under clause 1(2).
-Compare: 1989 No 80 s 380B
+[Repealed]
 3 Removal from office
-(1) The Minister may revoke the appointment of a member of the Teaching Council for just cause.
-(2) The Minister may, after consulting the Teaching Council, remove an elected member of the Teaching Council for just cause.
-(3) The revocation or removal must be made by written notice to the member with a copy to the Teaching Council.
-(4) The written notice must state—
-(a) the date on which the removal takes effect, which must be no earlier than the date on which the notice is received; and
-(b) the reasons for the removal.
-(5) In this clause, just cause—
-(a) includes misconduct, inability to perform the functions of office, neglect of duty, and breach of any of the collective duties of the Teaching Council or the individual duties of members (depending on the seriousness of the breach); and
-(b) in the case of a member who held a practising certificate under clause 10 of Schedule 3 when appointed, includes—
-(i) ceasing to hold the certificate; and
-(ii) the suspension of the certificate.
-(6) The Minister may remove a member with as little formality and technicality, and as much expedition, as is permitted by—
-(a) the principles of natural justice; and
-(b) a proper consideration of the matter.
+(1) The Minister may, at any time and entirely at the Minister's discretion, remove a member of the Teaching Council from office.
+(2) The removal must be made by written notice to the member.
+(3) The notice must state the date on which the removal takes effect, which must not be earlier than the date on which the notice is received.
+(4) A copy of the notice must be given to the Teaching Council.
+(5) The Minister must notify the removal in the Gazette as soon as practicable after giving the notice.
+(6) [Repealed]
 (7) A Judge may be removed as a member in accordance with the removal provisions of this Act for a breach of the Teaching Council's collective duties, but only if all of the other members are being removed for the same breach at the same time (and the removal does not affect the Judge's tenure as a Judge).
 (8) A member of the Teaching Council is not entitled to any compensation or other payment or benefit relating to the member ceasing, for any reason, to hold office as a member.
 Compare: 1989 No 80 Schedule 21 cl 3
 4 Continuation in office
-(1) Each member of the Teaching Council continues in office (unless the member ceases to hold office under subclause (4)) until a successor is appointed or elected.
+(1) Each member of the Teaching Council continues in office (unless the member ceases to hold office under subclause (4)) until a successor is appointed.
 (2) A member may resign from office by written notice to the Minister (with a copy to the Teaching Council) signed by the member.
 (3) The resignation is effective on receipt by the Minister of the notice or at any later time specified in the notice.
 (4) A member of the Teaching Council ceases to hold office if the member—
@@ -56,19 +42,9 @@ Compare: 1989 No 80 Schedule 21 cl 3
 Compare: 1989 No 80 Schedule 21 cl 4
 5 Extraordinary vacancies
 (1) An extraordinary vacancy occurs when a member dies or ceases to hold office.
-(2) If an extraordinary vacancy occurs within 6 months of the expiry of the vacating member's term,—
-(a) the Minister, in the case of an appointed member, may—
-(i) appoint a replacement; or
-(ii) leave the vacancy open:
-(b) the Teaching Council, in the case of an elected member, may—
-(i) appoint a replacement; or
-(ii) leave the vacancy open.
-(3) If an extraordinary vacancy occurs more than 6 months before the expiry of the vacating member's term,—
-(a) the Minister, in the case of an appointed member, must appoint a replacement:
-(b) the Teaching Council, in the case of an elected member, must—
-(i) appoint a replacement; or
-(ii) hold an election for a replacement.
-(4) A person appointed or elected to fill an extraordinary vacancy holds office only for the remainder of the vacating member's term.
+(2) If an extraordinary vacancy occurs, the Minister may appoint a replacement or leave the vacancy open.
+(3) A person appointed to fill an extraordinary vacancy holds office only for the remainder of the vacating member's term.
+(4) [Repealed]
 Compare: 1989 No 80 Schedule 21 cl 4A
 6 Chairperson
 (1) The Minister must appoint one of the members as chairperson by notice in writing stating the date on which the appointment takes effect.

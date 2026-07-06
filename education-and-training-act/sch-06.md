@@ -82,6 +82,7 @@ Procedure for establishing, disestablishing, merging, and closing State integrat
 (4) The Minister may, in the Minister's absolute discretion,—
 (a) accept applications to enter into negotiations for integration under this schedule; and
 (b) after giving any notice to the public that the Minister thinks fit, decide not to consider applications from particular areas.
+(4A) Despite subclause (4), the Minister must accept an application to enter into negotiations for integration if required to do so under section 212ZEB.
 Compare: 1989 No 80 s 418
 3 Applications relating to proposed schools
 If a person who proposes to establish a school with the intention that it become a State integrated school makes an application under clause 2, this schedule applies to the application and to any subsequent negotiations and agreements before integration as if—

@@ -1,6 +1,6 @@
 # 212I Authorisation Board may approve sponsor
 General criteria
-(1) The Authorisation Board may approve a sponsor to operate a charter school if satisfied that the proposed sponsor and every governing member of the proposed sponsor are fit and proper persons (after considering the criteria set out in section 212J).
+(1) The Authorisation Board may approve a sponsor to operate 1 or more charter schools if satisfied that the proposed sponsor and every governing member of the proposed sponsor are fit and proper persons (after considering the criteria set out in section 212J).
 (2) When deciding whether to approve a proposed sponsor, the Authorisation Board must take into account the following matters:
 (a) the focus of the proposed charter school:
 (b) the capability of the proposed sponsor, including—
@@ -22,3 +22,11 @@ Additional criteria for converting schools
 (5) For the purpose of ascertaining the matters in subsection (4), the Authorisation Board—
 (a) must consult the school board, school community, school staff, and students; and
 (b) may consult any other person it thinks fit.
+Additional criteria for multi-school contracts
+(6) In the case of a sponsor proposing to enter into a multi-school contract, the Authorisation Board must also take into account the following matters:
+(a) the overall operating model of the schools the sponsor proposes to operate, including how the sponsor intends to allocate resources between them:
+(b) if applicable, how each school that the sponsor is currently operating is performing.
+Amendment of approval
+(7) The Authorisation Board may, with the agreement of the sponsor, amend an existing approval to—
+(a) add 1 or more charter schools; or
+(b) remove 1 or more charter schools.
