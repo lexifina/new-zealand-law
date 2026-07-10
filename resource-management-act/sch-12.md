@@ -418,3 +418,7 @@ Plan Change 78 has the same meaning as set out in clause 1 of Schedule 3C.
 (2) The exemption from compliance with those requirements granted by subclause (1) expires on the sooner of the following:
 (a) the date on which a new or updated national policy statement directs those requirements to recommence:
 (b) in time to inform Auckland Council's 2030-2040 long-term plan, but no later than the close of the third consecutive year to which its next long-term plan (2027-2037) relates.
+Part 11 Provision relating to Offshore Renewable Energy Act 2026
+67 Stay on applications made before permit granted under Offshore Renewable Energy Act 2026
+(1) This clause applies to an application for a resource consent in respect of any offshore renewable energy generation infrastructure activities, within the meaning of the Offshore Renewable Energy Act 2026, that is made before the commencement of that Act.
+(2) The application is stayed, and cannot be granted, until the applicant is the holder of a current feasibility permit or commercial permit that has been granted under that Act in respect of those activities.

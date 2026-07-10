@@ -1,0 +1,3 @@
+# 88AB Resource consents related to ORE generation infrastructure activities cancelled if commercial permit under Offshore Renewable Energy Act 2026 expires or is revoked or surrendered in full
+(1) This section applies to a resource consent for any ORE generation infrastructure activities (excluding decommissioning activities) within the meaning of the Offshore Renewable Energy Act 2026.
+(2) The consent is automatically cancelled if and when the holder of the consent ceases to be the permit holder of a current commercial permit granted under the Offshore Renewable Energy Act 2026 that relates to the area subject to the consent by reason of the expiry or revocation or surrender in full of the commercial permit.
