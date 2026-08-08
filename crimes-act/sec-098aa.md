@@ -1,5 +1,5 @@
 # 98AA Dealing in people under 18 for sexual exploitation, removal of body parts, or engagement in forced labour
-(1) Every one is liable to imprisonment for a term not exceeding 14 years who—
+(1) Every one is liable to imprisonment for a term not exceeding 20 years or a fine not exceeding $500,000 (or both) who—
 (a) sells, buys, transfers, barters, rents, hires, or in any other way enters into a dealing involving a person under the age of 18 years for the purpose of—
 (i) the sexual exploitation of the person; or
 (ii) the removal of body parts from the person; or
@@ -41,4 +41,9 @@
 (b) to provide information relating to medical or health matters; or
 (c) to advertise a product, instrument, or service intended to be used for medical or health purposes.
 (7) The person under the age of 18 years in respect of whom an offence against this section was committed cannot be charged as a party to the offence.
+(7A) Proceedings under this section must not be brought or continued against any constable in respect of any act committed by them at a time or during a period when they are acting as an undercover officer, except with the leave of the Attorney-General.
+(7B) In subsection (7A), undercover officer—
+(a) means a constable whose identity is for the time being concealed for the purposes of a particular investigation or operation in connection with this section; and
+(b) includes any other constable who is for the time being directing or assisting that constable in the course of that investigation or operation.
+(7C) A certificate signed by the Commissioner of Police to the effect that, at any specified time or during any specified period, the constable named in the certificate was acting as an undercover officer is, for the purposes of subsection (7A), conclusive evidence of that fact.
 (8) This section does not limit or affect the generality of section 98.
