@@ -8,12 +8,12 @@ Contents
 5 Tuition standards
 6 Managers to be fit and proper persons
 7 Manager must have regard to statement of national education and learning priorities [Repealed]
-Managers to advise Secretary of private school ceasing operation
-8 Managers must advise Secretary of school ceasing operation
-Review of private schools
-9 Review of private schools
-Actions by Secretary in relation to private schools
-10 Secretary's actions in relation to private schools
+Managers to advise Director of private school ceasing operation
+8 Managers must advise Director of school ceasing operation
+Assessment and review of private schools
+9 Assessment and review of private schools
+Actions by Director in relation to private schools
+10 Director's actions in relation to private schools
 11 Duration of suspension
 12 Process for cancellation of registration
 Grants for private schools
@@ -23,15 +23,15 @@ Grants for private schools
 Suspensions and expulsions from private schools
 16 Suspensions and expulsions from private schools to be notified to Secretary
 1 Provisional and full registration of private schools
-(1) If the Secretary is satisfied that a school meets or is likely to meet the criteria for registration as a private school, the Secretary must provisionally register the school as a private school of the description or descriptions concerned.
+(1) If the Director of Regulation is satisfied that a school meets or is likely to meet the criteria for registration as a private school, the Director of Regulation must provisionally register the school as a private school of the description or descriptions concerned.
 (2) Provisional registration of the school continues—
 (a) for 12 months (unless it is revoked earlier); or
-(b) until the expiry of any period specified by the Secretary under subclause (3).
-(3) The Secretary may renew the provisional registration of the school only once, for a period specified by the Secretary, if satisfied that—
+(b) until the expiry of any period specified by the Director of Regulation under subclause (3).
+(3) The Director of Regulation may renew the provisional registration of the school only once, for a period specified by the Director of Regulation, if satisfied that—
 (a) exceptional circumstances exist in relation to the school; and
 (b) the school is likely to meet the criteria for registration as a private school in that period.
-(4) The Secretary may request a further review, in addition to the review under clause 9(2), of a school that has its provisional registration renewed under subclause (3).
-(5) The Secretary must fully register a school as a private school of the description or descriptions concerned if the Secretary is satisfied, having considered any report under clause 9(4) in relation to a review under clause 9(2) or (3), that a provisionally registered school meets the criteria for registration as a private school.
+(4) The Director of Regulation may require a further assessment, in addition to the assessment under clause 9(2), of a school that has its provisional registration renewed under subclause (3).
+(5) The Director of Regulation must fully register a school as a private school of the description or descriptions concerned if the Director of Regulation is satisfied, having considered any report under clause 9(4) in relation to an assessment under clause 9(2) or (3), that a provisionally registered school meets the criteria for registration as a private school.
 Compare: 1989 No 80 s 35A(2)-(6)
 2 Criteria for registration as private school
 The criteria for registration as a private school are that the school—
@@ -49,18 +49,18 @@ Compare: 1989 No 80 s 35C
 (2) Subclause (1) applies to all premises used by the private school for the regular delivery of courses, whether the managers of the school own or lease the premises for the school.
 Compare: 1989 No 80 s 35D
 4 Additional and substituted premises to be approved
-(1) The managers of a private school must, in the circumstances set out in subclause (2), notify the Secretary and obtain the Secretary's approval before using new premises for the regular delivery of courses.
+(1) The managers of a private school must, in the circumstances set out in subclause (2), notify the Director of Regulation and obtain the approval of the Director of Regulation before using new premises for the regular delivery of courses.
 (2) The circumstances are that the managers of the private school propose that the school is to occupy—
 (a) premises that are in addition to its current premises; or
 (b) different premises that are to replace the premises currently occupied by the school.
-(3) When considering whether to grant approval of premises under subclause (1), the Secretary must consider whether the premises are suitable, as described in clause 3.
+(3) When considering whether to grant approval of premises under subclause (1), the Director of Regulation must consider whether the premises are suitable, as described in clause 3.
 Compare: 1989 No 80 s 35E
 5 Tuition standards
 (1) Tuition of a suitable standard at a private school must include giving students tuition of a standard no lower than that of the tuition given to students enrolled at State schools of the same year levels.
 (2) In assessing the standard of tuition, the mode of curriculum delivery and the regularity of instruction must be considered.
 Compare: 1989 No 80 s 35F
 6 Managers to be fit and proper persons
-(1) In assessing whether a person who is a manager of a private school is a fit and proper person to be a manager of the school, the Secretary must take the following matters into account:
+(1) In assessing whether a person who is a manager of a private school is a fit and proper person to be a manager of the school, the Director of Regulation must take the following matters into account:
 (a) whether the person has been convicted of serious criminal activity:
 (b) whether the person has any health problems that may affect their ability to comply with their obligations towards the school and its students:
 (c) whether the person has been—
@@ -75,65 +75,69 @@ Compare: 1989 No 80 s 35F
 (2) If the manager of a private school is—
 (a) a company, the assessment under subclause (1) applies to its directors:
 (b) an incorporated society or an incorporated trust board, the assessment under subclause (1) applies to its members.
-(3) If the management of a private school changes in its entirety or is transferred to a new entity, the new managers must give notice to the Secretary and an assessment under subclause (1) must be made of the new managers of the school.
+(3) If the management of a private school changes in its entirety or is transferred to a new entity, the new managers must give notice to the Director of Regulation and an assessment under subclause (1) must be made of the new managers of the school.
 Compare: 1989 No 80 s 35G
 7 Manager must have regard to statement of national education and learning priorities
 [Repealed]
-Managers to advise Secretary of private school ceasing operation
-8 Managers must advise Secretary of school ceasing operation
-The managers of a private school that is about to cease to operate as a school must inform the Secretary of—
+Managers to advise Director of private school ceasing operation
+8 Managers must advise Director of school ceasing operation
+The managers of a private school that is about to cease to operate as a school must inform the Director of Regulation of—
 (a) the fact that the school is to cease to operate as a school; and
 (b) the date on which the school is to cease to operate.
 Compare: 1989 No 80 s 35H
-Review of private schools
-9 Review of private schools
-(1) As soon as practicable after provisionally registering an existing school or a proposed school under clause 1(2), the Secretary must inform the Chief Review Officer of the provisional registration.
-(2) The Chief Review Officer must ensure that a review officer reviews a school that is provisionally registered under clause 1(2)—
+Assessment and review of private schools
+9 Assessment and review of private schools
+(1) As soon as practicable after provisionally registering an existing school or a proposed school under clause 1(1), the Director of Regulation must inform the Chief Review Officer and the Secretary of the provisional registration.
+(2) The Director of Regulation must ensure that a regulatory officer assesses a school that is provisionally registered under clause 1(1)—
 (a) between 6 and 12 months after the provisional registration of the school; or
 (b) earlier, by agreement with its managers.
-(3) The Chief Review Officer must ensure that a review officer conducts a further review of a school that has had its provisional registration renewed under clause 1(3), if the further review is requested by the Secretary under clause 1(4).
-(4) The Chief Review Officer must ensure that a review officer who conducts a review under subclause (2) or (3) prepares a written report in relation to the review and gives copies of it to the Secretary and the school's manager.
+(3) The Director of Regulation must ensure that a regulatory officer conducts a further assessment of a school that has had its provisional registration renewed under clause 1(3).
+(3A) The Director of Regulation must ensure that a regulatory officer periodically conducts an assessment of a fully registered private school.
+(4) The Director of Regulation must ensure that a regulatory officer who conducts an assessment under subclause (2), (3), or (3A)—
+(a) prepares a written report on the assessment that includes information about—
+(i) whether the school meets the criteria for registration as a private school; and
+(ii) the areas in which improvement is required, if the school does not meet the criteria; and
+(b) gives a copy of the report to the school's manager.
 (5) The Chief Review Officer must ensure that a school, while registered under clause 1(5), is reviewed in accordance with subpart 3 of Part 5.
 (6) The Chief Review Officer must also ensure that the review officer who conducts a review under subclause (5)—
 (a) prepares a written report on the review; and
-(b) gives copies of it to the Secretary and the school's principal (or other chief executive) and managers.
-(7) A review officer's written report on a review under this clause must also include—
-(a) information about whether the school meets the criteria for registration as a private school; and
-(b) information about the areas in which improvement is required, if the school does not meet the criteria.
+(b) gives copies of it to the Director of Regulation and the school's principal (or other chief executive) and managers.
+(7) [Repealed]
 Compare: 1989 No 80 s 35I
-Actions by Secretary in relation to private schools
-10 Secretary's actions in relation to private schools
-(1) The Secretary may take action in relation to a private school if—
-(a) the Secretary considers that the school is not meeting any or all of the criteria for registration as a private school; or
-(b) a review conducted under clause 9 indicates that the school does not, or is not likely to, meet any or all of the criteria for registration as a private school; or
+Actions by Director in relation to private schools
+10 Director's actions in relation to private schools
+(1) The Director of Regulation may take action in relation to a private school if—
+(a) the Director of Regulation considers that the school is not meeting any or all of the criteria for registration as a private school; or
+(b) an assessment conducted under clause 9 indicates that the school does not, or is not likely to, meet any or all of the criteria for registration as a private school; or
 (c) the managers of the school have breached or are breaching their statutory duties in relation to the school under this or any other enactment; or
-(d) the Secretary has reasonable grounds to believe that serious criminal activity is occurring in the school.
-(2) If the Secretary is satisfied that any 1 or more of the grounds set out in subclause (1) exist in relation to a private school, the Secretary may do any 1 or more of the following:
+(d) the Director of Regulation has reasonable grounds to believe that serious criminal activity is occurring in the school.
+(2) If the Director of Regulation is satisfied that any 1 or more of the grounds set out in subclause (1) exist in relation to a private school, the Director of Regulation may do any 1 or more of the following:
 (a) issue the school's managers with a notice to comply:
 (b) require the managers of the school to inform parents of the students at the school that the school is not meeting the criteria for registration as a private school:
 (c) impose conditions on the school's registration:
 (d) impose a requirement or requirements under any 1 or more of paragraphs (a) to (c) and suspend the school's registration:
 (e) cancel the school's registration under clause 12.
-(3) Any action taken by the Secretary under subclause (2)—
+(3) Any action taken by the Director of Regulation under subclause (2)—
 (a) must be proportionate to the seriousness of the private school's situation; and
 (b) is in addition to any fine incurred or other penalty imposed under section 249 or under any other enactment.
 Compare: 1989 No 80 s 35J
 11 Duration of suspension
-Suspension under clause 10(2)(d) continues until the Secretary—
-(a) is satisfied that the managers of the private school have complied with all requirements imposed by the Secretary under any of clause 10(2)(a) to (c); or
+Suspension under clause 10(2)(d) continues until the Director of Regulation—
+(a) is satisfied that the managers of the private school have complied with all requirements imposed by the Director of Regulation under any of clause 10(2)(a) to (c); or
 (b) cancels the private school's registration under clause 12.
 Compare: 1989 No 80 s 35L
 12 Process for cancellation of registration
-(1) The Secretary may cancel the registration of a private school if, following an action by the Secretary taken under clause 10(2)(a) to (d),—
+(1) The Director of Regulation may cancel the registration of a private school if, following an action by the Director of Regulation taken under clause 10(2)(a) to (d),—
 (a) the school—
 (i) does not improve sufficiently to meet the criteria for registration as a private school; and
 (ii) is not likely to do so, in the Secretary's opinion, within a further reasonable time; or
 (b) the managers of the school are continuing in breach of their statutory duties in relation to the school; or
 (c) serious criminal activity continues to occur in the school.
-(2) Before cancelling a school's registration under subclause (1), the Secretary must—
+(2) Before cancelling a school's registration under subclause (1), the Director of Regulation must—
 (a) take reasonable steps to obtain and consider any relevant information, including any report by a review officer; and
-(b) give written notice to the managers of the school that the Secretary is considering cancelling the school's registration, and give reasons; and
+(b) give written notice to the managers of the school that the Director of Regulation is considering cancelling the school's registration, and give reasons; and
 (c) give the managers of the school a reasonable opportunity to respond to the notice.
+(3) As soon as practicable after cancelling the registration of a private school, the Director of Regulation must notify the Secretary of the cancellation.
 Compare: 1989 No 80 s 35M
 Grants for private schools
 13 Grants for private schools

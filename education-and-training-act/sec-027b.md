@@ -1,4 +1,4 @@
-# 27B Functions of Director of Regulation
+# 27B Early childhood education functions of Director of Regulation
 The functions of the Director of Regulation are to—
 Statutorily independent functions
 (a) issue licences to early childhood services and certify playgroups:
@@ -14,5 +14,5 @@ Other functions
 (iii) incidents at licensed early childhood services and certified playgroups:
 (h) collect and provide information to the Secretary that is necessary for the Secretary to perform and exercise their functions, duties, and powers under this Act and other legislation, including in relation to system stewardship, monitoring, funding, and child protection:
 (i) publish and regularly update information about the Director's general regulatory approach, including a regulatory strategy:
-(j) collaborate with other agencies involved in regulating early childhood services and playgroups, including by sharing information with those agencies if permitted or authorised by or under law:
-(k) carry out any other functions conferred or imposed on the Director under this Act or any other legislation.
+(j) collaborate with other agencies involved in regulating early childhood services and playgroups, including by sharing information with those agencies if permitted or authorised by or under law.
+(k) [Repealed]
