@@ -23,9 +23,9 @@
 (4) Comments referred to in subsection (2)(i) or written comments provided in response to an invitation from the Minister under subsection (3) must be provided within 5 working days after the draft is provided to the committee or the invitation is received, respectively, unless the Minister extends that period.
 (5) Written comments provided in response to an invitation from the Minister under subsection (2)(f) must be provided within 10 working days after the invitation is received, unless the Minister extends that period.
 (6) Emergency response regulations—
-(a) may apply only to an area where, under the Civil Defence Emergency Management Act 2002, a state of national or local emergency has been declared or notice given of a local or national transition period; and
-(b) may be made, or continue to apply to that area, after the declaration ceases to have effect or the transition period ends; and
-(c) expire on the date that is 3 years after the first declaration is made or notice is given, or any earlier date specified in the regulations.
+(a) may apply only to a location where, under the Emergency Management Act 2026, a state of emergency or transition period has been declared; and
+(b) may be made, or continue to apply to that location, after the state of emergency or transition period ends; and
+(c) are revoked on the date that is 3 years after the first state of emergency or transition period is declared, or any earlier date specified in the regulations.
 (7) Emergency response regulations may—
 (a) permit, authorise, or prohibit specific activities, while noting that this will not give long-term existing use rights to those activities:
 (b) modify or alter the unitary, regional, and district plan development processes:
