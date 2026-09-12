@@ -9,6 +9,7 @@ Maniapoto Claims Settlement Act 2022
 Maraeroa A and B Blocks Claims Settlement Act 2012
 Maungaharuru-Tangitū Hapū Claims Settlement Act 2014
 Moriori Claims Settlement Act 2021
+Ngā Hapū o Te Iwi o Whanganui Claims Settlement Act 2026
 Ngaa Rauru Kiitahi Claims Settlement Act 2005
 Ngāi Tahu Claims Settlement Act 1998
 Ngāi Tai ki Tāmaki Claims Settlement Act 2018
