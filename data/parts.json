@@ -1,0 +1,281 @@
+{
+ "parts": {
+  "30-official-information-act.json": {
+   "acts": [
+    "official-information-act"
+   ],
+   "sha256": "05dd6f6c7f60ddfdb34201fae957dfbd5ecee355a727dfcadf9bb5deeba62d05"
+  },
+  "31-employment-relations-act.json": {
+   "acts": [
+    "employment-relations-act"
+   ],
+   "sha256": "96ba26431e11aeae542acae42c3dc990817450350bee387acdfa5c1d85ce79b0"
+  },
+  "32-companies-act.json": {
+   "acts": [
+    "companies-act"
+   ],
+   "sha256": "76f4ecc54e0d1f173d8188b2930367f7d414eb2c110e0a834b609d61d4513753"
+  },
+  "33-resource-management-act.json": {
+   "acts": [
+    "resource-management-act"
+   ],
+   "sha256": "092f068c7c2458f784b68dffc8f28930ff4dbcdd43239abd55d4f56f66af706f"
+  },
+  "34-local-government-act.json": {
+   "acts": [
+    "local-government-act"
+   ],
+   "sha256": "fda56b5ec438d022243a760786a0f948debbdd40d101d81713101d13bc3d4148"
+  },
+  "35-human-rights-act.json": {
+   "acts": [
+    "human-rights-act"
+   ],
+   "sha256": "c60b5731856d3c1fecef37ddf546ed35bf7f58b502fd0ffff67562e3212e22e5"
+  },
+  "36-fair-trading-act.json": {
+   "acts": [
+    "fair-trading-act"
+   ],
+   "sha256": "5c0171102897c2f6ab122dc278df400c37f38847c47a687c360093bee14939cd"
+  },
+  "37-evidence-act.json": {
+   "acts": [
+    "evidence-act"
+   ],
+   "sha256": "b5eb407286ab4ef992195d7f9ed67767ee5f3dc88d4ce36776dca78606c1f1c8"
+  },
+  "38-criminal-procedure-act.json": {
+   "acts": [
+    "criminal-procedure-act"
+   ],
+   "sha256": "bf7807ecde7b510e804cdbf059f810d24a59b0d7b66fb4c212226d5679ac3872"
+  },
+  "39-sentencing-act.json": {
+   "acts": [
+    "sentencing-act"
+   ],
+   "sha256": "8fb3aa10cef660e9da3d0d716aa2af2f4284b51e88e3cff484d619ab7dd8c41c"
+  },
+  "40-property-law-act.json": {
+   "acts": [
+    "property-law-act"
+   ],
+   "sha256": "802299ff0613568e0897e3e455ed30a67afd11e64b9ed77c50c6253964a77759"
+  },
+  "41-contract-and-commercial-law-act.json": {
+   "acts": [
+    "contract-and-commercial-law-act"
+   ],
+   "sha256": "01cf21730d672c62a1bbfe165b20a75baad139d9debc088ecca0f5809a29a0d1"
+  },
+  "42-health-and-safety-at-work-act.json": {
+   "acts": [
+    "health-and-safety-at-work-act"
+   ],
+   "sha256": "1ea019deb73f6f063dff445202c3e86fe874569348cf03823ceb01f319628936"
+  },
+  "43-electoral-act.json": {
+   "acts": [
+    "electoral-act"
+   ],
+   "sha256": "5f722bbaa8302bd8da007e22334e86f7f560aff695c7ec69e7498e448016585b"
+  },
+  "44-residential-tenancies-act.json": {
+   "acts": [
+    "residential-tenancies-act"
+   ],
+   "sha256": "c1653ce8da3a304770e33a5de6f90b86890e956a817f495837bde713c9968da1"
+  },
+  "45-property-relationships-act.json": {
+   "acts": [
+    "property-relationships-act"
+   ],
+   "sha256": "19e98a74bc8644bdbbac47b994c2a03610ea8b51776f8fa54826f2aafc92e886"
+  },
+  "46-consumer-guarantees-act.json": {
+   "acts": [
+    "consumer-guarantees-act"
+   ],
+   "sha256": "c6c70c8621546f47ba0e34d3285d9acb369236432799893bc6b631b433ed8a12"
+  },
+  "47-holidays-act.json": {
+   "acts": [
+    "holidays-act"
+   ],
+   "sha256": "e0557228e5761f9dac0f78546f711c48669ee58311b195f56bfa25f2926ab6d6"
+  },
+  "48-care-of-children-act.json": {
+   "acts": [
+    "care-of-children-act"
+   ],
+   "sha256": "5532690e54608c0f99de4dc3e8dd3381dded18fd61e445255061ce534ee7895b"
+  },
+  "49-land-transfer-act.json": {
+   "acts": [
+    "land-transfer-act"
+   ],
+   "sha256": "9c7988b444b717d652f8cff76cad6b6efa2a85e1094af34c24c338d115440ff7"
+  },
+  "50-insolvency-act.json": {
+   "acts": [
+    "insolvency-act"
+   ],
+   "sha256": "880430ecafccf2f4c4d95ff6c7c533c0b0ec788418910d7a0bbf94ab0cc2ecd1"
+  },
+  "51-family-proceedings-act.json": {
+   "acts": [
+    "family-proceedings-act"
+   ],
+   "sha256": "aea469b3c540b637bbdd7c8bc467e134104a9d4ab230268e41563316df89bf30"
+  },
+  "52-building-act.json": {
+   "acts": [
+    "building-act"
+   ],
+   "sha256": "8b6b7261ecba0f2ff76797b4c278ded301eb06bf89f33bb6389ff84736a62c8e"
+  },
+  "53-legislation-act.json": {
+   "acts": [
+    "legislation-act"
+   ],
+   "sha256": "4fafb8bfa86915d013b09ce1abe566d6b981466a246686b4d84b9a7be1e92ac3"
+  },
+  "54-arbitration-act.json": {
+   "acts": [
+    "arbitration-act"
+   ],
+   "sha256": "03bae2b678a1201f7a69faa1a51611b1fdb2c2d1b02fd36bc019025070ed24c8"
+  },
+  "55-limitation-act.json": {
+   "acts": [
+    "limitation-act"
+   ],
+   "sha256": "45e4e631adb420a90f627cec7dc56180d666c8d8d9704bddf783686cbc62ded0"
+  },
+  "56-credit-contracts-and-consumer-finance-act.json": {
+   "acts": [
+    "credit-contracts-and-consumer-finance-act"
+   ],
+   "sha256": "b81917a3f978193b85508b812fa944c7b00e2634f60ebcdaf0cb803b0dc0eb0b"
+  },
+  "57-family-violence-act.json": {
+   "acts": [
+    "family-violence-act"
+   ],
+   "sha256": "92109e6ce9860c3ba81bd33bf9a83413772529ee5ee6729dd0ab10800af75a3e"
+  },
+  "58-wills-act.json": {
+   "acts": [
+    "wills-act"
+   ],
+   "sha256": "ed7a93d5fdcceba9d905871ab34456216b07d93b335cec47f0012bad4ece0a3b"
+  },
+  "59-domestic-violence-act.json": {
+   "acts": [
+    "domestic-violence-act"
+   ],
+   "sha256": "5f299ddd32326bc9911120bb5a39e0ca5d450450b65775c030f7406945a601db"
+  },
+  "60-interpretation-act.json": {
+   "acts": [
+    "interpretation-act"
+   ],
+   "sha256": "c953b715b83d3a9660804777619b4ca6c36e0eea2c0e769e53e77f4364d0d6ce"
+  },
+  "61-senior-courts-act.json": {
+   "acts": [
+    "senior-courts-act"
+   ],
+   "sha256": "76fd13e16fa7d488559b1c3163b3f39e5522170520f7c00998fd33d4684cbbaf"
+  },
+  "62-district-court-act.json": {
+   "acts": [
+    "district-court-act"
+   ],
+   "sha256": "c715ee4e0fe6caa9ea267e4df9ab4ff18ad686395bd1cc789a87e133cd9f7a49"
+  },
+  "63-commerce-act.json": {
+   "acts": [
+    "commerce-act"
+   ],
+   "sha256": "b26c9c7f0317e768c2066c7b1db0ba8e3dc8033753cb409766e552b3606481d4"
+  },
+  "64-judicature-act.json": {
+   "acts": [
+    "judicature-act"
+   ],
+   "sha256": "c14ad439095289f75e9ea1d5ebff76fddfb4a7da6b59c87f8a89b20e6d79920f"
+  },
+  "65-district-courts-act.json": {
+   "acts": [
+    "district-courts-act"
+   ],
+   "sha256": "30ebad3f5aa3c1753603fa94e06fed3af3cea356d5cd4c976577cd5c67cbfb1b"
+  },
+  "66-land-transfer-act-1952.json": {
+   "acts": [
+    "land-transfer-act-1952"
+   ],
+   "sha256": "89e1690511b2810a7ec56188c99490d4daad1888aa1ccef5e08bd47961a23f9a"
+  },
+  "67-unsolicited-electronic-messages-act.json": {
+   "acts": [
+    "unsolicited-electronic-messages-act"
+   ],
+   "sha256": "8a6055a99f061fb98a3e400d017d13b50b57a346e6b4e630279782516349fdb7"
+  },
+  "68-copyright-act.json": {
+   "acts": [
+    "copyright-act"
+   ],
+   "sha256": "62940baddb8b674a20934f23f62cc5309c165375eed80e5ca0d5c76522dc071e"
+  },
+  "69-charities-act.json": {
+   "acts": [
+    "charities-act"
+   ],
+   "sha256": "dbe83cc29f17416ec57151ff611f045ab367b572aeabfb223ee52f8ff37725fc"
+  },
+  "70-trade-marks-act.json": {
+   "acts": [
+    "trade-marks-act"
+   ],
+   "sha256": "8ef0561230323e33dfd73c9e1e01a16df7faa326f272a7b7f73eece0da7298a2"
+  },
+  "71-patents-act.json": {
+   "acts": [
+    "patents-act"
+   ],
+   "sha256": "ba4ae4426477d83a3d2d54db05f2160e2d97d4b2a8937eda810ac16ea3e8e294"
+  },
+  "72-public-finance-act.json": {
+   "acts": [
+    "public-finance-act"
+   ],
+   "sha256": "45f4c899a11d4b4990763bbe6933348d14749c0985055cfe5b6d126584ccfafd"
+  },
+  "73-accident-compensation-act.json": {
+   "acts": [
+    "accident-compensation-act"
+   ],
+   "sha256": "6de12f40d8c1806779e167a625e7b420c6e7f672a8f99efe73e2cb1fc509d946"
+  },
+  "74-oranga-tamariki-act.json": {
+   "acts": [
+    "oranga-tamariki-act"
+   ],
+   "sha256": "ebe3bff7c04517b287e1f9cdb0b43ca4278a46c0f283b9342a16aeea133c72f4"
+  },
+  "75-education-and-training-act.json": {
+   "acts": [
+    "education-and-training-act"
+   ],
+   "sha256": "424fca9a9925220bf782024e84bb4bfb6be2f390e183f94b6d706eeabde48bc6"
+  }
+ },
+ "schema": 1
+}
