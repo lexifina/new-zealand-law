@@ -933,3 +933,243 @@ day,kind,law,acts,files,branch
 2026-08-25,law,act-2026-052,resource-management-act,1,main
 2026-09-04,law,act-2026-053,constitution-act resource-management-act,6,main
 2026-09-12,law,act-2026-058,resource-management-act,1,main
+2005-12-15,start,,trade-marks-act,211,main
+2008-07-01,start,,charities-act,77,main
+2008-10-01,start,,accident-compensation-act,423,main
+2008-10-01,start,,oranga-tamariki-act,545,main
+2008-12-01,law,act-2006-019,accident-compensation-act,1,main
+2009-05-18,law,act-2008-076,oranga-tamariki-act,6,main
+2009-06-29,law,act-2008-038,oranga-tamariki-act,2,main
+2009-06-29,law,act-2008-041,oranga-tamariki-act,3,main
+2009-06-29,law,act-2008-072,oranga-tamariki-act,8,main
+2009-06-29,unexplained,,oranga-tamariki-act,463,main
+2009-07-01,start,,public-finance-act,208,main
+2009-09-13,law,act-2009-030,public-finance-act,2,main
+2009-10-06,law,act-2007-097,accident-compensation-act,1,main
+2009-12-24,law,sr-2009-0355,public-finance-act,1,main
+2010-01-01,law,act-2009-061,accident-compensation-act,1,main
+2010-01-14,law,sr-2009-0400,public-finance-act,1,main
+2010-03-03,law,act-2010-001,accident-compensation-act,45,main
+2010-03-03,unexplained,,accident-compensation-act,47,main
+2010-07-01,law,act-2010-001,accident-compensation-act,10,main
+2010-07-01,law,sr-2010-0133,public-finance-act,1,main
+2010-07-07,law,act-2010-078,public-finance-act,1,main
+2010-07-30,law,sr-2010-0212,public-finance-act,1,main
+2010-07-30,unexplained,,public-finance-act,19,main
+2010-08-24,law,act-2010-102,oranga-tamariki-act,1,main
+2010-09-27,law,act-2010-102,oranga-tamariki-act,1,main
+2010-10-01,law,act-2010-002,oranga-tamariki-act,73,main
+2010-11-01,law,act-2009-013,public-finance-act,1,main
+2010-11-29,law,act-2009-051,accident-compensation-act oranga-tamariki-act,4,main
+2011-02-01,law,act-2010-111,accident-compensation-act,1,main
+2011-05-01,law,act-2009-017,accident-compensation-act,4,main
+2011-07-01,law,act-2011-022,public-finance-act,1,main
+2011-07-23,law,act-2011-033,oranga-tamariki-act,1,main
+2011-07-23,law,act-2011-050,public-finance-act,1,main
+2011-08-01,law,sr-2011-0227,accident-compensation-act,1,main
+2011-09-16,law,act-2011-071,trade-marks-act,29,main
+2011-10-07,law,act-2011-071,trade-marks-act,43,main
+2012-02-13,law,act-2011-032,accident-compensation-act,1,main
+2012-02-25,law,act-2012-004,charities-act,12,main
+2012-02-25,law,act-2012-017,public-finance-act,4,main
+2012-02-25,law,act-2012-020,trade-marks-act,1,main
+2012-02-29,law,sr-2012-0015,public-finance-act,1,main
+2012-02-29,unexplained,,public-finance-act,48,main
+2012-04-01,law,act-2011-062,accident-compensation-act,1,main
+2012-04-18,law,sr-2012-0070,public-finance-act,1,main
+2012-06-30,law,act-2012-045,public-finance-act,15,main
+2012-07-01,law,act-2012-043,charities-act,53,main
+2012-07-01,unexplained,,charities-act,2,main
+2012-08-01,law,act-2011-033,oranga-tamariki-act,1,main
+2012-08-01,law,act-2012-001,oranga-tamariki-act,1,main
+2012-10-01,law,act-2012-024,oranga-tamariki-act,6,main
+2012-10-24,law,act-2012-078,oranga-tamariki-act,1,main
+2012-12-12,law,act-2012-099,oranga-tamariki-act,8,main
+2013-03-30,law,act-2013-010,accident-compensation-act,1,main
+2013-04-29,law,act-2011-071,trade-marks-act,1,main
+2013-05-01,law,act-2013-008,accident-compensation-act,1,main
+2013-06-13,law,act-2013-034,accident-compensation-act,1,main
+2013-07-01,law,act-2011-081,charities-act trade-marks-act public-finance-act accident-compensation-act,9,main
+2013-07-01,law,act-2011-083,oranga-tamariki-act,56,main
+2013-07-01,unexplained,,accident-compensation-act,2,main
+2013-07-15,law,act-2013-013,accident-compensation-act,2,main
+2013-07-18,law,act-2013-050,public-finance-act,58,main
+2013-07-18,law,act-2013-051,accident-compensation-act,4,main
+2013-07-18,law,act-2013-053,oranga-tamariki-act,1,main
+2013-08-05,law,act-2012-119,charities-act public-finance-act accident-compensation-act,5,main
+2013-09-02,law,act-2013-011,accident-compensation-act,1,main
+2013-09-02,law,act-2013-044,accident-compensation-act,1,main
+2013-09-04,law,act-2013-066,oranga-tamariki-act,4,main
+2013-09-04,law,act-2013-067,public-finance-act,10,main
+2013-09-04,unexplained,,oranga-tamariki-act,1,main
+2013-10-04,law,sr-2013-0409,trade-marks-act,3,main
+2013-12-05,law,act-2013-105,accident-compensation-act,4,main
+2013-12-05,law,act-2013-110,oranga-tamariki-act,6,main
+2013-12-16,law,act-2013-094,accident-compensation-act,3,main
+2013-12-16,unexplained,,accident-compensation-act,1,main
+2013-12-18,law,act-2012-120,oranga-tamariki-act,1,main
+2014-01-01,law,act-2013-019,trade-marks-act oranga-tamariki-act,3,main
+2014-03-07,law,act-2012-044,public-finance-act,1,main
+2014-03-31,law,act-1980-161,oranga-tamariki-act,1,main
+2014-03-31,law,act-2013-076,oranga-tamariki-act,8,main
+2014-06-24,law,act-2014-010,trade-marks-act,2,main
+2014-07-01,law,act-2013-050,public-finance-act,61,main
+2014-07-01,law,act-2013-051,accident-compensation-act,2,main
+2014-07-01,law,act-2014-041,oranga-tamariki-act,4,main
+2014-07-01,law,act-2014-042,oranga-tamariki-act,2,main
+2014-07-01,unexplained,,oranga-tamariki-act,6,main
+2014-07-28,law,act-2014-051,public-finance-act,3,main
+2014-09-05,law,li-2014-0290,public-finance-act,1,main
+2014-09-13,law,act-2013-068,trade-marks-act,9,main
+2014-09-13,unexplained,,trade-marks-act,11,main
+2014-12-01,law,act-2013-070,charities-act public-finance-act accident-compensation-act,9,main
+2014-12-01,law,act-2014-051,public-finance-act,1,main
+2014-12-06,law,act-2014-036,oranga-tamariki-act,9,main
+2015-04-01,law,act-2013-102,charities-act,3,main
+2015-04-01,law,act-2014-063,charities-act,7,main
+2015-05-07,law,act-2015-045,accident-compensation-act,1,main
+2015-07-23,law,sr-2012-0250,public-finance-act,1,main
+2015-07-23,unexplained,,public-finance-act,3,main
+2015-09-24,law,act-2015-085,accident-compensation-act,8,main
+2015-09-26,law,act-2001-049,accident-compensation-act,9,main
+2015-09-26,law,li-2015-0221,accident-compensation-act,3,main
+2015-09-26,unexplained,,accident-compensation-act,9,main
+2016-03-04,law,li-2016-0037,public-finance-act,1,main
+2016-04-04,law,act-2015-071,accident-compensation-act,13,main
+2016-04-30,law,act-2016-017,oranga-tamariki-act,1,main
+2016-05-13,start,,patents-act,269,main
+2016-05-13,law,act-2016-016,trade-marks-act,2,main
+2016-05-31,law,act-2016-025,oranga-tamariki-act,1,main
+2016-05-31,unexplained,,oranga-tamariki-act,1,main
+2016-06-30,law,act-2014-041,oranga-tamariki-act,42,main
+2016-07-04,law,act-2015-071,accident-compensation-act,2,main
+2016-10-13,law,li-2016-0204,public-finance-act,1,main
+2016-10-18,law,act-2016-048,accident-compensation-act oranga-tamariki-act,2,main
+2016-11-21,law,act-2016-089,patents-act,1,main
+2016-11-29,law,act-2016-088,public-finance-act,1,main
+2016-12-09,law,li-2016-0291,public-finance-act,1,main
+2016-12-17,law,act-2016-104,public-finance-act accident-compensation-act oranga-tamariki-act,5,main
+2017-02-14,law,act-2017-001,charities-act,3,main
+2017-02-14,unexplained,,charities-act,2,main
+2017-02-24,law,act-2016-089,patents-act,32,main
+2017-03-01,law,act-2016-048,patents-act,1,main
+2017-03-01,law,act-2016-049,trade-marks-act accident-compensation-act oranga-tamariki-act,91,main
+2017-03-01,law,act-2016-050,oranga-tamariki-act,1,main
+2017-03-01,law,act-2016-056,oranga-tamariki-act,1,main
+2017-03-01,unexplained,,trade-marks-act,2,main
+2017-04-01,law,act-2015-071,accident-compensation-act,3,main
+2017-04-01,law,act-2016-027,accident-compensation-act,2,main
+2017-04-01,law,act-2016-098,oranga-tamariki-act,103,main
+2017-04-01,unexplained,,accident-compensation-act,1,main
+2017-06-01,law,li-2017-0109,public-finance-act,1,main
+2017-06-03,law,act-2017-023,public-finance-act,1,main
+2017-06-30,law,li-2017-0129,public-finance-act,1,main
+2017-07-14,law,act-2017-031,accident-compensation-act oranga-tamariki-act,106,main
+2017-07-27,law,act-2006-060,trade-marks-act,6,main
+2017-08-11,law,li-2017-0183,public-finance-act,1,main
+2017-09-04,law,act-1989-044,public-finance-act,1,main
+2017-09-14,law,act-2013-068,patents-act,2,main
+2017-09-28,law,act-2017-010,public-finance-act,6,main
+2017-12-05,law,act-2016-096,accident-compensation-act,6,main
+2017-12-16,law,act-2017-050,trade-marks-act patents-act,6,main
+2018-01-01,law,act-2016-051,accident-compensation-act,3,main
+2018-01-31,law,act-2016-073,accident-compensation-act,1,main
+2018-01-31,law,act-2016-075,oranga-tamariki-act,10,main
+2018-03-29,law,act-2018-005,accident-compensation-act,3,main
+2018-03-29,unexplained,,accident-compensation-act,3,main
+2018-08-14,law,act-2018-022,oranga-tamariki-act,1,main
+2018-09-08,law,act-2018-027,public-finance-act oranga-tamariki-act,5,main
+2018-09-28,law,li-2018-0170,public-finance-act,1,main
+2018-09-28,law,li-2018-0171,public-finance-act,1,main
+2018-10-01,law,act-2018-004,trade-marks-act accident-compensation-act,5,main
+2018-10-24,law,act-2018-040,accident-compensation-act,1,main
+2018-11-14,law,act-2018-051,accident-compensation-act,1,main
+2018-11-26,law,act-2018-032,accident-compensation-act,6,main
+2018-12-21,law,act-2018-057,public-finance-act,5,main
+2018-12-30,law,act-2016-090,trade-marks-act patents-act,15,main
+2019-04-01,law,act-2019-005,accident-compensation-act,1,main
+2019-04-12,law,act-2019-010,accident-compensation-act,6,main
+2019-05-31,law,li-2019-0106,public-finance-act,1,main
+2019-06-30,law,act-2001-049,accident-compensation-act,1,main
+2019-07-01,law,act-2017-031,oranga-tamariki-act,141,main
+2019-07-01,law,act-2018-046,oranga-tamariki-act,5,main
+2019-07-01,law,act-2019-010,accident-compensation-act,1,main
+2019-07-01,law,act-2019-030,oranga-tamariki-act,15,main
+2019-07-01,unexplained,,oranga-tamariki-act,1,main
+2019-10-01,law,act-2005-045,accident-compensation-act,1,main
+2019-10-01,law,act-2008-046,accident-compensation-act,1,main
+2019-10-04,law,li-2019-0239,public-finance-act,1,main
+2019-10-04,unexplained,,public-finance-act,1,main
+2019-10-24,law,act-2019-056,public-finance-act,4,main
+2020-01-13,law,act-2019-062,trade-marks-act,15,main
+2020-01-13,unexplained,,trade-marks-act,3,main
+2020-03-23,law,act-2020-005,accident-compensation-act,1,main
+2020-04-01,law,act-2020-001,accident-compensation-act,1,main
+2020-05-13,law,act-2020-012,oranga-tamariki-act,1,main
+2020-07-01,law,act-2020-029,public-finance-act,6,main
+2020-08-01,law,act-2020-038,accident-compensation-act oranga-tamariki-act,6,main
+2020-08-07,law,act-2020-040,charities-act trade-marks-act patents-act public-finance-act oranga-tamariki-act,20,main
+2020-08-07,law,act-2020-041,public-finance-act,36,main
+2020-08-07,law,act-2020-058,public-finance-act,4,main
+2020-10-01,law,act-1989-044,public-finance-act,1,main
+2020-11-11,law,act-2020-062,trade-marks-act,1,main
+2020-12-01,law,act-2020-031,charities-act accident-compensation-act oranga-tamariki-act,10,main
+2020-12-01,unexplained,,charities-act,1,main
+2020-12-18,law,li-2020-0304,public-finance-act,1,main
+2020-12-18,unexplained,,public-finance-act,2,main
+2021-01-14,law,act-2002-049,trade-marks-act,1,main
+2021-03-30,law,act-2021-008,accident-compensation-act,1,main
+2021-04-01,law,act-2020-048,oranga-tamariki-act,1,main
+2021-04-01,unexplained,,oranga-tamariki-act,3,main
+2021-07-01,law,act-1989-044,public-finance-act,4,main
+2021-08-05,law,li-2021-0177,public-finance-act,1,main
+2021-10-01,law,act-1989-044,public-finance-act,1,main
+2021-10-05,law,act-2021-037,charities-act oranga-tamariki-act,2,main
+2021-10-28,law,act-2021-007,charities-act trade-marks-act patents-act public-finance-act accident-compensation-act oranga-tamariki-act,63,main
+2021-10-28,unexplained,,accident-compensation-act,1,main
+2022-01-01,law,li-2021-0307,charities-act,1,main
+2022-03-19,law,act-2022-007,public-finance-act,1,main
+2022-04-12,law,act-2022-014,trade-marks-act public-finance-act oranga-tamariki-act,5,main
+2022-07-01,law,act-2021-031,public-finance-act,2,main
+2022-07-01,law,act-2022-030,accident-compensation-act oranga-tamariki-act,9,main
+2022-09-01,law,act-2022-039,accident-compensation-act oranga-tamariki-act,5,main
+2022-10-01,law,act-2022-051,accident-compensation-act,2,main
+2022-10-30,law,act-2022-051,accident-compensation-act,12,main
+2022-11-30,law,act-2022-075,public-finance-act,1,main
+2022-12-16,law,sl-2022-0333,public-finance-act,1,main
+2022-12-17,law,act-2022-081,oranga-tamariki-act,44,main
+2023-01-24,law,act-2022-061,patents-act,1,main
+2023-05-01,law,act-2022-043,oranga-tamariki-act,7,main
+2023-06-07,law,act-2023-026,accident-compensation-act,5,main
+2023-07-01,law,act-2022-044,oranga-tamariki-act,3,main
+2023-07-01,law,act-2022-051,accident-compensation-act,1,main
+2023-07-06,law,act-2023-034,charities-act,13,main
+2023-07-27,law,sl-2023-0153,public-finance-act,1,main
+2023-09-06,law,act-2023-026,accident-compensation-act,1,main
+2023-10-05,law,act-2023-034,charities-act,14,main
+2023-10-06,law,act-2023-025,oranga-tamariki-act,2,main
+2024-05-01,law,act-2024-010,trade-marks-act,6,main
+2024-06-30,law,act-2024-005,accident-compensation-act oranga-tamariki-act,6,main
+2024-06-30,law,act-2024-024,accident-compensation-act,3,main
+2024-06-30,unexplained,,oranga-tamariki-act,1,main
+2024-07-01,law,act-2024-020,public-finance-act,2,main
+2024-07-05,law,act-2023-034,charities-act,38,main
+2024-08-07,law,pco-editorial,public-finance-act,1,main
+2024-10-24,law,sl-2024-0195,public-finance-act,1,main
+2025-02-02,law,act-2025-001,public-finance-act,1,main
+2025-02-21,law,sl-2025-0007,public-finance-act,1,main
+2025-03-29,law,act-2025-009,accident-compensation-act,2,main
+2025-03-30,law,act-2025-011,trade-marks-act,1,main
+2025-04-08,law,act-2025-020,oranga-tamariki-act,3,main
+2025-05-16,law,sl-2025-0077,public-finance-act,1,main
+2025-07-01,law,act-2023-035,public-finance-act,4,main
+2025-08-01,law,act-2025-034,oranga-tamariki-act,3,main
+2025-10-25,law,act-2025-057,oranga-tamariki-act,10,main
+2025-11-13,law,act-2025-063,public-finance-act,25,main
+2025-11-27,law,act-2025-071,oranga-tamariki-act,1,main
+2025-11-27,law,act-2025-074,accident-compensation-act,3,main
+2025-11-27,law,sl-2025-0238,accident-compensation-act,1,main
+2026-03-31,law,act-2026-008,accident-compensation-act,1,main
+2026-04-24,law,pco-editorial,accident-compensation-act,1,main
+2026-04-29,law,pco-editorial,accident-compensation-act,1,main
+2026-06-06,law,act-2026-031,patents-act,4,main

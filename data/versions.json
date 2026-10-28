@@ -8192,6 +8192,1446 @@
      "sha256": "0b67c42bf3ff1402bd7052f7e76ed32a9f7935c8aea7939442d81fe255b7a2eb"
     }
    ]
+  },
+  {
+   "slug": "charities-act",
+   "short": "Charities Act",
+   "title": "Charities Act 2005",
+   "url": "https://www.legislation.govt.nz/act/public/2005/39/en/latest/",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 77,
+     "source_url": "https://web.archive.org/web/20100506180122id_/http://legislation.govt.nz:80/act/public/2005/0039/latest/whole.html",
+     "sha256": "690eae44be091b5f6804797348ccf87e30542024c82e16ec4468db64fb599e7a"
+    },
+    {
+     "from": "2012-02-25",
+     "units": 78,
+     "source_url": "https://web.archive.org/web/20130512051905id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "4ca57f2b638395098a99756799f06c7f5538fbcb8d042745a192e2257e9cdb39"
+    },
+    {
+     "from": "2012-07-01",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20130512051905id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "4ca57f2b638395098a99756799f06c7f5538fbcb8d042745a192e2257e9cdb39"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20140802024736id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "2b03b136b58cc8855be732edb6ab447d8ede91e544e2036dde4b253217d3e133"
+    },
+    {
+     "from": "2013-08-05",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20140802024736id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "2b03b136b58cc8855be732edb6ab447d8ede91e544e2036dde4b253217d3e133"
+    },
+    {
+     "from": "2014-12-01",
+     "units": 79,
+     "source_url": "https://web.archive.org/web/20150114190322id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "dddcb177713de663ee3f83d833d932fcfba7b6708a06d56d7f08f0b761bbdfb6"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20160817221656id_/http://www.legislation.govt.nz:80/act/public/2005/0039/latest/whole.html",
+     "sha256": "9809544f672a13f159ee79e4f53f3e18816e2b70a6218f0f0be98526c4a3ed64"
+    },
+    {
+     "from": "2017-02-14",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20200807214930id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "648312132c1ba047ae7ce2d76c688758c3559e0ccbcf6c66d3c3f4531f4787e2"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20201031170056id_/http://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "9ad8c8aa172ae7ed45f38559526a3c33ae8b3fd1c04ed8103ea4ad9d2dcc777a"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20210623222241id_/https://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "99436c15f6fb4667c4a66865347a798c66aef003b5ee52f27b02ec8f02a37c16"
+    },
+    {
+     "from": "2021-10-05",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20220121055406id_/https://www.legislation.govt.nz/act/public/2005/0039/latest/whole.html",
+     "sha256": "87f88faac4092d8d2845d6b3400b808f8ec9d4fb93e01e6d50fe833c23842186"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20230308160930id_/https://legislation.govt.nz/act/public/2005/0039/latest/whole.html?search=qs_act%40bill%40regulation%40deemedreg_charities+act_resel_25_h&p=1",
+     "sha256": "67c8883a8674d309735d73eb243a279aa5dac9e6b40e259154f4f7dcf6d129e9"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 87,
+     "source_url": "https://web.archive.org/web/20230308160930id_/https://legislation.govt.nz/act/public/2005/0039/latest/whole.html?search=qs_act%40bill%40regulation%40deemedreg_charities+act_resel_25_h&p=1",
+     "sha256": "67c8883a8674d309735d73eb243a279aa5dac9e6b40e259154f4f7dcf6d129e9"
+    },
+    {
+     "from": "2023-07-06",
+     "units": 89,
+     "source_url": "https://web.archive.org/web/20251025060459id_/https://www.legislation.govt.nz/act/public/2005/0039/74.0/whole.html",
+     "sha256": "86a4480fad7d1c5646ec785c6e1be75dd83ec0c4c65d7519825b9f12da2a0d8a"
+    },
+    {
+     "from": "2023-10-05",
+     "units": 96,
+     "source_url": "https://web.archive.org/web/20251025060459id_/https://www.legislation.govt.nz/act/public/2005/0039/74.0/whole.html",
+     "sha256": "86a4480fad7d1c5646ec785c6e1be75dd83ec0c4c65d7519825b9f12da2a0d8a"
+    },
+    {
+     "from": "2024-07-05",
+     "units": 125,
+     "source_url": "https://web.archive.org/web/20260321231527id_/https://www.legislation.govt.nz/act/public/2005/39/en/latest/",
+     "sha256": "aba98d5819e3b3be82e1386cc606e7b5a5583de6cc4d4ae755ffc88d410ecf1a"
+    }
+   ]
+  },
+  {
+   "slug": "trade-marks-act",
+   "short": "Trade Marks Act",
+   "title": "Trade Marks Act 2002",
+   "url": "https://www.legislation.govt.nz/act/public/2002/49/en/latest/",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 211,
+     "source_url": "https://web.archive.org/web/20110720002848id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "6f651e5b33e698e772d201088e25cb029decd145d406c0704c5c64d443747df0"
+    },
+    {
+     "from": "2011-09-16",
+     "units": 218,
+     "source_url": "https://web.archive.org/web/20120928035325id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "335ce164deb7599fdccd165bf5c937e02fb3de15036f145422376c30ad2ff0c6"
+    },
+    {
+     "from": "2011-10-07",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20120928035325id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "335ce164deb7599fdccd165bf5c937e02fb3de15036f145422376c30ad2ff0c6"
+    },
+    {
+     "from": "2012-02-25",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20120928035325id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "335ce164deb7599fdccd165bf5c937e02fb3de15036f145422376c30ad2ff0c6"
+    },
+    {
+     "from": "2013-04-29",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20140114013400id_/http://legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "8a0a2a00927fc18ac7f6d57cb7d0f080a263e3fd97ced371a14efdb4640a4caf"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20140114013400id_/http://legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "8a0a2a00927fc18ac7f6d57cb7d0f080a263e3fd97ced371a14efdb4640a4caf"
+    },
+    {
+     "from": "2013-10-04",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20140114013400id_/http://legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "8a0a2a00927fc18ac7f6d57cb7d0f080a263e3fd97ced371a14efdb4640a4caf"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20140316152850id_/http://legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "5e779fa30266c55e7f36df7b84508f7b8a335b39e76b16b45aeddb3a84addc1d"
+    },
+    {
+     "from": "2014-06-24",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20160303045826id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "eb77f823a08eaee99b404b8a1dd490e585110d45cef0a2a46cfc59853179a25c"
+    },
+    {
+     "from": "2014-09-13",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20160303045826id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "eb77f823a08eaee99b404b8a1dd490e585110d45cef0a2a46cfc59853179a25c"
+    },
+    {
+     "from": "2016-05-13",
+     "units": 263,
+     "source_url": "https://web.archive.org/web/20161210180821id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "69459f3873d4e133ff9fc530b5091339c0f87ceb1dde657a9486d027ab2309ee"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 263,
+     "source_url": "https://web.archive.org/web/20170611142606id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "937896aa61a809bc76014080af5c478c48249f701a7d5d7b536356d09ec8a4d9"
+    },
+    {
+     "from": "2017-07-27",
+     "units": 265,
+     "source_url": "https://web.archive.org/web/20171212080543id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "caa5d56b2d9f4c5e7576dac7551091d3e4440cfcd1b12b58a9d2ca9a16f690af"
+    },
+    {
+     "from": "2017-12-16",
+     "units": 265,
+     "source_url": "https://web.archive.org/web/20180926073836id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "5408f8fff88493d1d56d556f81bd9e661e3cd19a9aeda78ea4416ea477570acc"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 265,
+     "source_url": "https://web.archive.org/web/20190123012732id_/http://legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "8abef1be631926a9b1585de32c00c0a6fbc8449c9c5dcfc9b7be65264410d22c"
+    },
+    {
+     "from": "2018-12-30",
+     "units": 267,
+     "source_url": "https://web.archive.org/web/20191103050638id_/http://legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "eb02b39c8e24dd145ac29ad11d6d735552e81e7d48f510e63551d2f146bbf4cf"
+    },
+    {
+     "from": "2020-01-13",
+     "units": 270,
+     "source_url": "https://web.archive.org/web/20200812062717id_/http://www.legislation.govt.nz:80/act/public/2002/0049/latest/whole.html",
+     "sha256": "463ec97c1302176cfb9fe0e181d8eee277ff851824609bf6ca5e9404adf336a3"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 270,
+     "source_url": "https://web.archive.org/web/20201030075951id_/http://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html",
+     "sha256": "17660bee9f1e6e0f4efc51ca30d9e6ccb3fe93c49244ed018439db066e211ccd"
+    },
+    {
+     "from": "2020-11-11",
+     "units": 270,
+     "source_url": "https://web.archive.org/web/20211128033458id_/https://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html",
+     "sha256": "45fe1388b62110109f98491070fc632b35453cbce0ccba18e8ef3cb845f2eb9f"
+    },
+    {
+     "from": "2021-01-14",
+     "units": 270,
+     "source_url": "https://web.archive.org/web/20211128033458id_/https://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html",
+     "sha256": "45fe1388b62110109f98491070fc632b35453cbce0ccba18e8ef3cb845f2eb9f"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 270,
+     "source_url": "https://web.archive.org/web/20220305114013id_/https://www.legislation.govt.nz/act/public/2002/0049/latest/whole.html",
+     "sha256": "d4993400295d51ea7b24ea361d395778137da634714b9aeda6d8744a2985f87f"
+    },
+    {
+     "from": "2022-04-12",
+     "units": 270,
+     "source_url": "https://web.archive.org/web/20220525060544id_/https://legislation.govt.nz/act/public/2002/0049/latest/whole.html",
+     "sha256": "adcd555378554bd1c01dc6d26d29582920cb8b65ad23b27e2a874bc0e282a37f"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 272,
+     "source_url": "https://web.archive.org/web/20260714095237id_/https://www.legislation.govt.nz/act/public/2002/49/en/latest/",
+     "sha256": "9f0e0ec08d7235b02671aa088cb9a27112404e4f14ebadc9fb0a4081f160c0d6"
+    },
+    {
+     "from": "2025-03-30",
+     "units": 272,
+     "source_url": "https://web.archive.org/web/20260714095237id_/https://www.legislation.govt.nz/act/public/2002/49/en/latest/",
+     "sha256": "9f0e0ec08d7235b02671aa088cb9a27112404e4f14ebadc9fb0a4081f160c0d6"
+    }
+   ]
+  },
+  {
+   "slug": "patents-act",
+   "short": "Patents Act",
+   "title": "Patents Act 2013",
+   "url": "https://www.legislation.govt.nz/act/public/2013/68/en/latest/",
+   "versions": [
+    {
+     "from": "2016-05-13",
+     "units": 269,
+     "source_url": "https://web.archive.org/web/20160819043350id_/http://www.legislation.govt.nz:80/act/public/2013/0068/latest/whole.html",
+     "sha256": "0b9a3e7d49f231d93af263aa323ee29ba8e8645129b2cd7b1a457a13c2202e85"
+    },
+    {
+     "from": "2016-11-21",
+     "units": 269,
+     "source_url": "https://web.archive.org/web/20170226081719id_/http://www.legislation.govt.nz:80/act/public/2013/0068/latest/whole.html",
+     "sha256": "902aa9ac04368702c39c708f6bf45ceb41f86a787bc687c41174e60159f4adf4"
+    },
+    {
+     "from": "2017-02-24",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20180224232746id_/http://legislation.govt.nz/act/public/2013/0068/40.0/whole.html",
+     "sha256": "319505c4843cd5f157acc3979f25b56527af9357de317ceff209621e862e9794"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20170919062704id_/http://www.legislation.govt.nz:80/act/public/2013/0068/latest/whole.html",
+     "sha256": "ef806deec36a806879148b103c71a69c2f2360b0226fc60143b1433d356001c8"
+    },
+    {
+     "from": "2017-09-14",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20171222115650id_/http://www.legislation.govt.nz:80/act/public/2013/0068/latest/whole.html",
+     "sha256": "e024f84b1008ea7c64f2dcee49a443b3fdae7a56e337595759c2fecdb9350dc1"
+    },
+    {
+     "from": "2017-12-16",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20190121135707id_/http://www.legislation.govt.nz:80/act/public/2013/0068/latest/whole.html",
+     "sha256": "05c21070f552b7e1a87c7f93783118ebc33f07c3bce6bf251a65606b6948a233"
+    },
+    {
+     "from": "2018-12-30",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20200811094648id_/http://legislation.govt.nz/act/public/2013/0068/latest/whole.html",
+     "sha256": "a929839f8b341e21400121b84e9c0d7c076f0fdfdf180d7ec5431d477c05eca0"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20220305114237id_/https://www.legislation.govt.nz/act/public/2013/0068/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=2",
+     "sha256": "37c49f0bf8dc7720546d3e737a37bf88f288d013bb93ae8235c14ebe54677d60"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20230128093013id_/https://www.legislation.govt.nz/act/public/2013/0068/latest/whole.html",
+     "sha256": "ce05348e962a07280fe5bd20d786356b07b6603b81f79ced3b22ecbb3a16b766"
+    },
+    {
+     "from": "2023-01-24",
+     "units": 294,
+     "source_url": "https://web.archive.org/web/20260323042120id_/https://legislation.govt.nz/act/public/2013/68/en/latest/",
+     "sha256": "08eac64331f7bb172684ebc5ab0999a38c25edb49623c01b1ad4b7834ecbc5ed"
+    },
+    {
+     "from": "2026-06-06",
+     "units": 295,
+     "source_url": "https://web.archive.org/web/20260714105658id_/https://www.legislation.govt.nz/act/public/2013/68/en/latest/",
+     "sha256": "f3fe4ed70281a946402f0bcfed57d1014ed85d65e5f8132cc8ec47ab6494c3fd"
+    }
+   ]
+  },
+  {
+   "slug": "public-finance-act",
+   "short": "PFA",
+   "title": "Public Finance Act 1989",
+   "url": "https://www.legislation.govt.nz/act/public/1989/44/en/latest/",
+   "versions": [
+    {
+     "from": "2009-07-01",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20090708191648id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "238829f8ef55780e499fddb12f4645681736b74486f5370653b186dba27e166c"
+    },
+    {
+     "from": "2009-09-13",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20091119223006id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "8834ae627aac9f377c0bdd8014e2b438539ee02e64d87f7b1de289871d1370e8"
+    },
+    {
+     "from": "2009-12-24",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20100524072620id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ts_act_building+act_resel",
+     "sha256": "d7b22c2cb97ba0cd445a99b5ca7f3ee2714ec37f5193f669f3bf65a9cb9b9de0"
+    },
+    {
+     "from": "2010-01-14",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20100524072620id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ts_act_building+act_resel",
+     "sha256": "d7b22c2cb97ba0cd445a99b5ca7f3ee2714ec37f5193f669f3bf65a9cb9b9de0"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20100901075208id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "9cc0293ce922fbe6dc7f9feb596516feabcd147373fed0a70c25d60788a396ed"
+    },
+    {
+     "from": "2010-07-07",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20100901075208id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "9cc0293ce922fbe6dc7f9feb596516feabcd147373fed0a70c25d60788a396ed"
+    },
+    {
+     "from": "2010-07-30",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20100901075208id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "9cc0293ce922fbe6dc7f9feb596516feabcd147373fed0a70c25d60788a396ed"
+    },
+    {
+     "from": "2010-11-01",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20120413122244id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "4cdb62d97156872cc4000d73a3c5aa7787bf2a374a7b7e562941d0acdc5e0c63"
+    },
+    {
+     "from": "2011-07-01",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20120413122244id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "4cdb62d97156872cc4000d73a3c5aa7787bf2a374a7b7e562941d0acdc5e0c63"
+    },
+    {
+     "from": "2011-07-23",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20120413122244id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "4cdb62d97156872cc4000d73a3c5aa7787bf2a374a7b7e562941d0acdc5e0c63"
+    },
+    {
+     "from": "2012-02-25",
+     "units": 208,
+     "source_url": "https://web.archive.org/web/20120413122244id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "4cdb62d97156872cc4000d73a3c5aa7787bf2a374a7b7e562941d0acdc5e0c63"
+    },
+    {
+     "from": "2012-02-29",
+     "units": 209,
+     "source_url": "https://web.archive.org/web/20120413122244id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "4cdb62d97156872cc4000d73a3c5aa7787bf2a374a7b7e562941d0acdc5e0c63"
+    },
+    {
+     "from": "2012-04-18",
+     "units": 209,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2012-06-30",
+     "units": 219,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 219,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2013-07-18",
+     "units": 227,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2013-08-05",
+     "units": 227,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2013-09-04",
+     "units": 229,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2014-03-07",
+     "units": 229,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 249,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2014-07-28",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2014-09-05",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2014-12-01",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2015-07-23",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20151012231534id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e00430b2119607b523b301ef121a9eef6a8a95a96301cee88954247e68d16372"
+    },
+    {
+     "from": "2016-03-04",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20161013014357id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "593a4a527aec0f5dc81fc0466ecd952b1acc7528a9ffe3dcd2c8d37ee995972a"
+    },
+    {
+     "from": "2016-10-13",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170517205002id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "b97aa3552cd90629220b3f3d9cc339581308b393bca2e00b7bb9a1c17622d967"
+    },
+    {
+     "from": "2016-11-29",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170517205002id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "b97aa3552cd90629220b3f3d9cc339581308b393bca2e00b7bb9a1c17622d967"
+    },
+    {
+     "from": "2016-12-09",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170517205002id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "b97aa3552cd90629220b3f3d9cc339581308b393bca2e00b7bb9a1c17622d967"
+    },
+    {
+     "from": "2016-12-17",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170517205002id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "b97aa3552cd90629220b3f3d9cc339581308b393bca2e00b7bb9a1c17622d967"
+    },
+    {
+     "from": "2017-06-01",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170810145131id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "393ec0f572ace8c7057681d8c0ce102d3e02af8833fddc460e5ab701ef410f9c"
+    },
+    {
+     "from": "2017-06-03",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170810145131id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "393ec0f572ace8c7057681d8c0ce102d3e02af8833fddc460e5ab701ef410f9c"
+    },
+    {
+     "from": "2017-06-30",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170810145131id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "393ec0f572ace8c7057681d8c0ce102d3e02af8833fddc460e5ab701ef410f9c"
+    },
+    {
+     "from": "2017-08-11",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20170910135725id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "20fadc4d97391620a3592fa980ce314aa21fcabebfc402ee0a5cfb11447d2578"
+    },
+    {
+     "from": "2017-09-04",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20180912173305id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "fe793330dcf42fa6e8c64b6d9a536aaac51c7d88a03f38f82aa6f27bb19001dd"
+    },
+    {
+     "from": "2017-09-28",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20180912173305id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "fe793330dcf42fa6e8c64b6d9a536aaac51c7d88a03f38f82aa6f27bb19001dd"
+    },
+    {
+     "from": "2018-09-08",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20190115053714id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "211a0f3fe6891845bfac49469d5569e721eb809a9b50b26b8a2c7665ca4c4a54"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 250,
+     "source_url": "https://web.archive.org/web/20190115053714id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "211a0f3fe6891845bfac49469d5569e721eb809a9b50b26b8a2c7665ca4c4a54"
+    },
+    {
+     "from": "2018-12-21",
+     "units": 251,
+     "source_url": "https://web.archive.org/web/20190521023039id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=4%20-%20DLM160809",
+     "sha256": "d763fe461191871ea62fd0a997d0327b7e1e18fc16c448284b30a699e1c9551c"
+    },
+    {
+     "from": "2019-05-31",
+     "units": 251,
+     "source_url": "https://web.archive.org/web/20190718204604id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "153e01ec50d34bd02dd413bcac18bda71d2c73c36965653f7ec98f622a05ab7d"
+    },
+    {
+     "from": "2019-10-04",
+     "units": 251,
+     "source_url": "https://web.archive.org/web/20191102225740id_/http://www.legislation.govt.nz:80/act/public/1989/0044/latest/whole.html",
+     "sha256": "f9d136e68b0ea0e3d909c81712d67ca012b398dc1001997535801e4d024a19b3"
+    },
+    {
+     "from": "2019-10-24",
+     "units": 252,
+     "source_url": "https://web.archive.org/web/20191115162921id_/http://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "6d46b5d7cc2a882b471a77e57338feaaf81f99810f3bbe9e7980b5ef816b1307"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 254,
+     "source_url": "https://web.archive.org/web/20210510182521id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_public+finance_resel_25_a&p=1",
+     "sha256": "b6480cd251747408dd0081bdeb6600625c6f63fd546f6902ab81bfb632eacb4c"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 261,
+     "source_url": "https://web.archive.org/web/20210510182521id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_public+finance_resel_25_a&p=1",
+     "sha256": "b6480cd251747408dd0081bdeb6600625c6f63fd546f6902ab81bfb632eacb4c"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20210510182521id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_public+finance_resel_25_a&p=1",
+     "sha256": "b6480cd251747408dd0081bdeb6600625c6f63fd546f6902ab81bfb632eacb4c"
+    },
+    {
+     "from": "2020-12-18",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20210510182521id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_public+finance_resel_25_a&p=1",
+     "sha256": "b6480cd251747408dd0081bdeb6600625c6f63fd546f6902ab81bfb632eacb4c"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20210710104521id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "1a88f730d5416d6ce34ea0ab83f3c2cbef02538ea84a4f68644fdeed741925f6"
+    },
+    {
+     "from": "2021-08-05",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20220131194533id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "b94f138845084aaf6f770be0d8e7c288f35570ddc0de9a5fbb5b6b9aecac3db4"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20220131194533id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "b94f138845084aaf6f770be0d8e7c288f35570ddc0de9a5fbb5b6b9aecac3db4"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20220305150113id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=4%20-%20DLM160809",
+     "sha256": "1f5d0a5f6883f252593e340374a6daf1530e1e8c7a207114517a61800a1a3c62"
+    },
+    {
+     "from": "2022-03-19",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20221008010222id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=4%20-%20DLM160809",
+     "sha256": "0581438255640c571569f57db28cc4aac5ceaf859189a5fc8f66e08e4d7c5a88"
+    },
+    {
+     "from": "2022-04-12",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20221008010222id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=4%20-%20DLM160809",
+     "sha256": "0581438255640c571569f57db28cc4aac5ceaf859189a5fc8f66e08e4d7c5a88"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20221008010222id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=4%20-%20DLM160809",
+     "sha256": "0581438255640c571569f57db28cc4aac5ceaf859189a5fc8f66e08e4d7c5a88"
+    },
+    {
+     "from": "2022-11-30",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20230511123327id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "2b761027281a8668f83e2b1f726d2875cabf2026fbcbd9ce3de71c4357c11611"
+    },
+    {
+     "from": "2022-12-16",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20230511123327id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "2b761027281a8668f83e2b1f726d2875cabf2026fbcbd9ce3de71c4357c11611"
+    },
+    {
+     "from": "2023-07-27",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20240713042433id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html?search=sw_096be8ed81d9596a_%22servicing+department%22_25_se&p=1",
+     "sha256": "0a4998b77ee77154b8c94a2bb2cfe7ba57eff69a10528b498da60cddccd9f2f2"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20241219000816id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "9978813d87188b38d521f451ff2fb60bc583bee38255ea7bdf07d29d26f224cd"
+    },
+    {
+     "from": "2024-08-07",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20241219000816id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "9978813d87188b38d521f451ff2fb60bc583bee38255ea7bdf07d29d26f224cd"
+    },
+    {
+     "from": "2024-10-24",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20241219000816id_/https://www.legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "9978813d87188b38d521f451ff2fb60bc583bee38255ea7bdf07d29d26f224cd"
+    },
+    {
+     "from": "2025-02-02",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20250418015740id_/https://legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e6cd54a2df5e4818fe0f778e3565bd22c1c029d2f0f9e39dea17d55f172c6f95"
+    },
+    {
+     "from": "2025-02-21",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20250418015740id_/https://legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "e6cd54a2df5e4818fe0f778e3565bd22c1c029d2f0f9e39dea17d55f172c6f95"
+    },
+    {
+     "from": "2025-05-16",
+     "units": 262,
+     "source_url": "https://web.archive.org/web/20251119000651id_/https://legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "a939752da56eb1fc4f29d9ed56ccb8a6bfdf63841f5fecd267df7e0acddf8c22"
+    },
+    {
+     "from": "2025-07-01",
+     "units": 264,
+     "source_url": "https://web.archive.org/web/20251119000651id_/https://legislation.govt.nz/act/public/1989/0044/latest/whole.html",
+     "sha256": "a939752da56eb1fc4f29d9ed56ccb8a6bfdf63841f5fecd267df7e0acddf8c22"
+    },
+    {
+     "from": "2025-11-13",
+     "units": 267,
+     "source_url": "https://web.archive.org/web/20260712062728id_/https://legislation.govt.nz/act/public/1989/44/en/latest/",
+     "sha256": "6e8972203c07c44e9223f481034379ebd54696f1b23091a39a753d4bd2d76d4d"
+    }
+   ]
+  },
+  {
+   "slug": "accident-compensation-act",
+   "short": "AC Act",
+   "title": "Accident Compensation Act 2001",
+   "url": "https://www.legislation.govt.nz/act/public/2001/49/en/latest/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 423,
+     "source_url": "https://web.archive.org/web/20081021044953id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "ad78eb62c00df7215d9ccae1e254d246b4ffb123ecc8062dd681e494702c2875"
+    },
+    {
+     "from": "2008-12-01",
+     "units": 423,
+     "source_url": "https://web.archive.org/web/20091007121617id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "d2097096dd1e5afe5dbe2d9352267ea7a7062c7e1fc7af59de4353e2cd1a4f1e"
+    },
+    {
+     "from": "2009-10-06",
+     "units": 423,
+     "source_url": "https://web.archive.org/web/20100618063224id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f65f1ee7f41abcc4179c0b638dd83eac848336b68aeaf46fb6160dd6e9fdcfe8"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 423,
+     "source_url": "https://web.archive.org/web/20100618063224id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f65f1ee7f41abcc4179c0b638dd83eac848336b68aeaf46fb6160dd6e9fdcfe8"
+    },
+    {
+     "from": "2010-03-03",
+     "units": 426,
+     "source_url": "https://web.archive.org/web/20100618063224id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f65f1ee7f41abcc4179c0b638dd83eac848336b68aeaf46fb6160dd6e9fdcfe8"
+    },
+    {
+     "from": "2010-07-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120401125237id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f674ab53955b89ec7bbc5e5950957a6576c56f42e6feb8b1dce49b95f3ce33b7"
+    },
+    {
+     "from": "2010-11-29",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120401125237id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f674ab53955b89ec7bbc5e5950957a6576c56f42e6feb8b1dce49b95f3ce33b7"
+    },
+    {
+     "from": "2011-02-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120401125237id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f674ab53955b89ec7bbc5e5950957a6576c56f42e6feb8b1dce49b95f3ce33b7"
+    },
+    {
+     "from": "2011-05-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120401125237id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f674ab53955b89ec7bbc5e5950957a6576c56f42e6feb8b1dce49b95f3ce33b7"
+    },
+    {
+     "from": "2011-08-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120401125237id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f674ab53955b89ec7bbc5e5950957a6576c56f42e6feb8b1dce49b95f3ce33b7"
+    },
+    {
+     "from": "2012-02-13",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120401125237id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "f674ab53955b89ec7bbc5e5950957a6576c56f42e6feb8b1dce49b95f3ce33b7"
+    },
+    {
+     "from": "2012-04-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20120531223003id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "e291924a2cf0101f0c7dd1e8b1f3c179f297339c9044ac3ea9006fa7cf2b28c9"
+    },
+    {
+     "from": "2013-03-30",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20130803074202id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "bd2950e6dfe5b30fc308ff00ff50929cf94b0dec0e2280eefac646d2203526b5"
+    },
+    {
+     "from": "2013-05-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20130803074202id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "bd2950e6dfe5b30fc308ff00ff50929cf94b0dec0e2280eefac646d2203526b5"
+    },
+    {
+     "from": "2013-06-13",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20130803074202id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "bd2950e6dfe5b30fc308ff00ff50929cf94b0dec0e2280eefac646d2203526b5"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20130803074202id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "bd2950e6dfe5b30fc308ff00ff50929cf94b0dec0e2280eefac646d2203526b5"
+    },
+    {
+     "from": "2013-07-15",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20131015190442id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "a9965d47674b302a847367363acf1d00c44821e0d9e115780fe9cef8e302ba25"
+    },
+    {
+     "from": "2013-07-18",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20131015190442id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "a9965d47674b302a847367363acf1d00c44821e0d9e115780fe9cef8e302ba25"
+    },
+    {
+     "from": "2013-08-05",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20131015190442id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "a9965d47674b302a847367363acf1d00c44821e0d9e115780fe9cef8e302ba25"
+    },
+    {
+     "from": "2013-09-02",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20131015190442id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "a9965d47674b302a847367363acf1d00c44821e0d9e115780fe9cef8e302ba25"
+    },
+    {
+     "from": "2013-12-05",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20140616094545id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "bab8413112e7381cc7050ba56393933c620023c19267f905e81d6e37a5158a85"
+    },
+    {
+     "from": "2013-12-16",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20140616094545id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "bab8413112e7381cc7050ba56393933c620023c19267f905e81d6e37a5158a85"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20150504011641id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "fd89b8f8f039d724f1f71d00a2887913594d94ffb84eeaad87ca5def7ecb4796"
+    },
+    {
+     "from": "2014-12-01",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20150504011641id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "fd89b8f8f039d724f1f71d00a2887913594d94ffb84eeaad87ca5def7ecb4796"
+    },
+    {
+     "from": "2015-05-07",
+     "units": 427,
+     "source_url": "https://web.archive.org/web/20160316225438id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "3ef37c29d5b52823f1e2922ed2caf5cc2f349e00ad66f42ac342b9726ab9126c"
+    },
+    {
+     "from": "2015-09-24",
+     "units": 433,
+     "source_url": "https://web.archive.org/web/20160316225438id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "3ef37c29d5b52823f1e2922ed2caf5cc2f349e00ad66f42ac342b9726ab9126c"
+    },
+    {
+     "from": "2015-09-26",
+     "units": 433,
+     "source_url": "https://web.archive.org/web/20160316225438id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "3ef37c29d5b52823f1e2922ed2caf5cc2f349e00ad66f42ac342b9726ab9126c"
+    },
+    {
+     "from": "2016-04-04",
+     "units": 439,
+     "source_url": "https://web.archive.org/web/20160620104640id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "74c3a5c817e2d8248e6b58bad9ee9eb2921c6b6053b43f0c9e994ae7f77e7ffb"
+    },
+    {
+     "from": "2016-07-04",
+     "units": 441,
+     "source_url": "https://web.archive.org/web/20161024232855id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "a9a7b303820e628e5d8425f995c9d3e4b9470d2c30b35340d3b666bf1017ccf2"
+    },
+    {
+     "from": "2016-10-18",
+     "units": 441,
+     "source_url": "https://web.archive.org/web/20170105073624id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "a5f9a63879ab967e4b4cbe3eda8fc028d36453ea6877d30f22dd846cbe6f1533"
+    },
+    {
+     "from": "2016-12-17",
+     "units": 441,
+     "source_url": "https://web.archive.org/web/20170105073624id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "a5f9a63879ab967e4b4cbe3eda8fc028d36453ea6877d30f22dd846cbe6f1533"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 441,
+     "source_url": "https://web.archive.org/web/20170312051654id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "df9159543d9c727a58b8714976da2eb96a965eba7e3a0c697a9fb7b185185388"
+    },
+    {
+     "from": "2017-04-01",
+     "units": 443,
+     "source_url": "https://web.archive.org/web/20170722161311id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "cc1fa3a99ea67d3862302ec972ef60b9e61ba06fdbafc34e074b40d2644e422d"
+    },
+    {
+     "from": "2017-07-14",
+     "units": 443,
+     "source_url": "https://web.archive.org/web/20171222121557id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "fb3f96fb893ab0fd4c55385930ada954315c58a42ee0e0c74f30fce3ecb02218"
+    },
+    {
+     "from": "2017-12-05",
+     "units": 443,
+     "source_url": "https://web.archive.org/web/20171222121557id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "fb3f96fb893ab0fd4c55385930ada954315c58a42ee0e0c74f30fce3ecb02218"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20180130174456id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "4fe3008e5058d4c579c0ed76b124751893d9ee63d7106ed3644c39a7c78b5e13"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20180328022748id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "3a794fa14a2fb54a43681f3d8204edb66f4c0fc3c0d3bc9d181f71f1e393b296"
+    },
+    {
+     "from": "2018-03-29",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20181005201628id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "2fea0c65002a025400a3294830957fd16791bf764a1113d6ec7d4cf93fc0741d"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20181107130511id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "01891f60c1f414e8f6a2ebb9fbc1b050830d8104b83f6b49893b30560c551bfe"
+    },
+    {
+     "from": "2018-10-24",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20181107130511id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "01891f60c1f414e8f6a2ebb9fbc1b050830d8104b83f6b49893b30560c551bfe"
+    },
+    {
+     "from": "2018-11-14",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20190318215831id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "da85646163878edf603a394555d06d2895e51932e7b24e266c25b2debf6d9b9a"
+    },
+    {
+     "from": "2018-11-26",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20190318215831id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "da85646163878edf603a394555d06d2895e51932e7b24e266c25b2debf6d9b9a"
+    },
+    {
+     "from": "2019-04-01",
+     "units": 445,
+     "source_url": "https://web.archive.org/web/20190419061749id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "e30bfcc4bdac90fb61ed57936dc96c34cf5ba06672705b39d10507575c8e868d"
+    },
+    {
+     "from": "2019-04-12",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20190628215215id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "6d75ca4eaa2579cc76d412428702405ebcb7f523e32d4a05959f39890ec3a435"
+    },
+    {
+     "from": "2019-06-30",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20191002185539id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "cf8b21f69cd9b79741d277517488a73fb0cb7961a8d3679f305abe514c796ad7"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20191002185539id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "cf8b21f69cd9b79741d277517488a73fb0cb7961a8d3679f305abe514c796ad7"
+    },
+    {
+     "from": "2019-10-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20200128181412id_/http://www.legislation.govt.nz:80/act/public/2001/0049/latest/whole.html",
+     "sha256": "3d6ec4ea37cf13c448912c4e7a0ef57f29b5badd4726ce8d00a689fe99aeb492"
+    },
+    {
+     "from": "2020-03-23",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20200529193657id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html?search=sw_096be8ed81968840_Prevention_25_se&p=1",
+     "sha256": "cd573ce2273eb2d6098e3108db5dd28d11a62f4a20a9e7c387831f3fff745322"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20200529193657id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html?search=sw_096be8ed81968840_Prevention_25_se&p=1",
+     "sha256": "cd573ce2273eb2d6098e3108db5dd28d11a62f4a20a9e7c387831f3fff745322"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20201111202050id_/http://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "e8e7d471622c2700f805467f8b004843906e947734bed057e8bc5808a9ef505c"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20220708055554id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "f55c0c0fa4d2893f4c393baae337f6f99f69239c11d6f70c9f9419726b717435"
+    },
+    {
+     "from": "2021-03-30",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20220708055554id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "f55c0c0fa4d2893f4c393baae337f6f99f69239c11d6f70c9f9419726b717435"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20220708055554id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "f55c0c0fa4d2893f4c393baae337f6f99f69239c11d6f70c9f9419726b717435"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20230419062924id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "a3196e0675d314ae6d77dade52169450a9736475b306dd41aee52162b6820435"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 446,
+     "source_url": "https://web.archive.org/web/20230419062924id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "a3196e0675d314ae6d77dade52169450a9736475b306dd41aee52162b6820435"
+    },
+    {
+     "from": "2022-10-01",
+     "units": 447,
+     "source_url": "https://web.archive.org/web/20230419062924id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "a3196e0675d314ae6d77dade52169450a9736475b306dd41aee52162b6820435"
+    },
+    {
+     "from": "2022-10-30",
+     "units": 448,
+     "source_url": "https://web.archive.org/web/20230419062924id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "a3196e0675d314ae6d77dade52169450a9736475b306dd41aee52162b6820435"
+    },
+    {
+     "from": "2023-06-07",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20250126133327id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html?search=sw_096be8ed81ef1da0_mental+injury_25_se&p=1",
+     "sha256": "1663cca6a20d0d55ef4051f47b8c8fb676ca02916a40b682ede1e5c08ccdcdbb"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20250126133327id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html?search=sw_096be8ed81ef1da0_mental+injury_25_se&p=1",
+     "sha256": "1663cca6a20d0d55ef4051f47b8c8fb676ca02916a40b682ede1e5c08ccdcdbb"
+    },
+    {
+     "from": "2023-09-06",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20250126133327id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html?search=sw_096be8ed81ef1da0_mental+injury_25_se&p=1",
+     "sha256": "1663cca6a20d0d55ef4051f47b8c8fb676ca02916a40b682ede1e5c08ccdcdbb"
+    },
+    {
+     "from": "2024-06-30",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20250126133327id_/https://www.legislation.govt.nz/act/public/2001/0049/latest/whole.html?search=sw_096be8ed81ef1da0_mental+injury_25_se&p=1",
+     "sha256": "1663cca6a20d0d55ef4051f47b8c8fb676ca02916a40b682ede1e5c08ccdcdbb"
+    },
+    {
+     "from": "2025-03-29",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20251119001043id_/https://legislation.govt.nz/act/public/2001/0049/latest/whole.html",
+     "sha256": "1ce9e568b5ad4e939c70d568bbf08664548fa9784f038b1405b1e9982e15a8df"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20260324104301id_/https://www.legislation.govt.nz/act/public/2001/49/en/latest/",
+     "sha256": "09376f147f348bc88e1c43b6c3cf58a8ee8e1cd107a86854fdf8cbbaaec38bcc"
+    },
+    {
+     "from": "2026-03-31",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20260714093348id_/https://www.legislation.govt.nz/act/public/2001/49/en/latest/",
+     "sha256": "8c39eb727e765c0ae83155024e27a800cd9d16e88a56a20a9da257153fb8f868"
+    },
+    {
+     "from": "2026-04-24",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20260714093348id_/https://www.legislation.govt.nz/act/public/2001/49/en/latest/",
+     "sha256": "8c39eb727e765c0ae83155024e27a800cd9d16e88a56a20a9da257153fb8f868"
+    },
+    {
+     "from": "2026-04-29",
+     "units": 449,
+     "source_url": "https://web.archive.org/web/20260714093348id_/https://www.legislation.govt.nz/act/public/2001/49/en/latest/",
+     "sha256": "8c39eb727e765c0ae83155024e27a800cd9d16e88a56a20a9da257153fb8f868"
+    }
+   ]
+  },
+  {
+   "slug": "oranga-tamariki-act",
+   "short": "Oranga Tamariki Act",
+   "title": "Oranga Tamariki Act 1989",
+   "url": "https://www.legislation.govt.nz/act/public/1989/24/en/latest/",
+   "versions": [
+    {
+     "from": "2008-10-01",
+     "units": 545,
+     "source_url": "https://web.archive.org/web/20081021045654id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "4e028814a544b27ab1a769ea36b1b65abb63c3e7ad84bc3cb06520d6aeb9872a"
+    },
+    {
+     "from": "2009-05-18",
+     "units": 546,
+     "source_url": "https://web.archive.org/web/20100524140335id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=ts_act_building+act_resel",
+     "sha256": "465c008f7d64f9b55c19165f88f1099f1c39502351655c81320487db035ad4d1"
+    },
+    {
+     "from": "2009-06-29",
+     "units": 546,
+     "source_url": "https://web.archive.org/web/20100524140335id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=ts_act_building+act_resel",
+     "sha256": "465c008f7d64f9b55c19165f88f1099f1c39502351655c81320487db035ad4d1"
+    },
+    {
+     "from": "2010-08-24",
+     "units": 546,
+     "source_url": "https://web.archive.org/web/20110311093017id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "7ceec12211c4d5d6019480a84ade230c64094d43b043493241277d3f35c573db"
+    },
+    {
+     "from": "2010-09-27",
+     "units": 546,
+     "source_url": "https://web.archive.org/web/20110311093017id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "7ceec12211c4d5d6019480a84ade230c64094d43b043493241277d3f35c573db"
+    },
+    {
+     "from": "2010-10-01",
+     "units": 572,
+     "source_url": "https://web.archive.org/web/20110311093017id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "7ceec12211c4d5d6019480a84ade230c64094d43b043493241277d3f35c573db"
+    },
+    {
+     "from": "2010-11-29",
+     "units": 572,
+     "source_url": "https://web.archive.org/web/20110311093017id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "7ceec12211c4d5d6019480a84ade230c64094d43b043493241277d3f35c573db"
+    },
+    {
+     "from": "2011-07-23",
+     "units": 572,
+     "source_url": "https://web.archive.org/web/20120616075259id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html?",
+     "sha256": "4e2fc27e2ecc4066d58a956a5b6161bc002f71944778d442f1f35c7e3eb76be9"
+    },
+    {
+     "from": "2012-08-01",
+     "units": 572,
+     "source_url": "https://web.archive.org/web/20121025152311id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "217e034674dd0b6ad95bcf96debb5ba8e9d42db9573be96097a66d5bc91918b4"
+    },
+    {
+     "from": "2012-10-01",
+     "units": 573,
+     "source_url": "https://web.archive.org/web/20130118093729id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "9c398831c6c1a14f954d5c0a23a57d2a5391aa5a1bd33fe82c2b8c2c94754e47"
+    },
+    {
+     "from": "2012-10-24",
+     "units": 573,
+     "source_url": "https://web.archive.org/web/20130118093729id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "9c398831c6c1a14f954d5c0a23a57d2a5391aa5a1bd33fe82c2b8c2c94754e47"
+    },
+    {
+     "from": "2012-12-12",
+     "units": 573,
+     "source_url": "https://web.archive.org/web/20130520052007id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "dd59a75918967efcf79d925788fa3b54ab65d9833afe7dc76922f87b2330a98f"
+    },
+    {
+     "from": "2013-07-01",
+     "units": 574,
+     "source_url": "https://web.archive.org/web/20130924231331id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "05b0e7f9d39cc40b02fbffa8340330e3a3cdfbc07ef6320962ed96fb6bf540a3"
+    },
+    {
+     "from": "2013-07-18",
+     "units": 574,
+     "source_url": "https://web.archive.org/web/20130924231331id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "05b0e7f9d39cc40b02fbffa8340330e3a3cdfbc07ef6320962ed96fb6bf540a3"
+    },
+    {
+     "from": "2013-09-04",
+     "units": 575,
+     "source_url": "https://web.archive.org/web/20130924231331id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "05b0e7f9d39cc40b02fbffa8340330e3a3cdfbc07ef6320962ed96fb6bf540a3"
+    },
+    {
+     "from": "2013-12-05",
+     "units": 577,
+     "source_url": "https://web.archive.org/web/20141031060310id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=qs_act_murder+manslaughter+10+years_resel&p=1",
+     "sha256": "0c836707b33d435b20406a36f06dcb58d4c06d0af0d97239e09b18f74f712829"
+    },
+    {
+     "from": "2013-12-18",
+     "units": 577,
+     "source_url": "https://web.archive.org/web/20141031060310id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=qs_act_murder+manslaughter+10+years_resel&p=1",
+     "sha256": "0c836707b33d435b20406a36f06dcb58d4c06d0af0d97239e09b18f74f712829"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 577,
+     "source_url": "https://web.archive.org/web/20141031060310id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=qs_act_murder+manslaughter+10+years_resel&p=1",
+     "sha256": "0c836707b33d435b20406a36f06dcb58d4c06d0af0d97239e09b18f74f712829"
+    },
+    {
+     "from": "2014-03-31",
+     "units": 579,
+     "source_url": "https://web.archive.org/web/20141031060310id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=qs_act_murder+manslaughter+10+years_resel&p=1",
+     "sha256": "0c836707b33d435b20406a36f06dcb58d4c06d0af0d97239e09b18f74f712829"
+    },
+    {
+     "from": "2014-07-01",
+     "units": 579,
+     "source_url": "https://web.archive.org/web/20141031060310id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=qs_act_murder+manslaughter+10+years_resel&p=1",
+     "sha256": "0c836707b33d435b20406a36f06dcb58d4c06d0af0d97239e09b18f74f712829"
+    },
+    {
+     "from": "2014-12-06",
+     "units": 581,
+     "source_url": "https://web.archive.org/web/20160508022747id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "b2e300e230242f2c1c44cfd897b2e9259ebe3ac079852a557ba481fcedfb05dd"
+    },
+    {
+     "from": "2016-04-30",
+     "units": 581,
+     "source_url": "https://web.archive.org/web/20160703042238id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "bbe749bb6aba9cd1dc363991ae98592a61b4b0192483cc58d47707e794bb7e2b"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 581,
+     "source_url": "https://web.archive.org/web/20160703042238id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "bbe749bb6aba9cd1dc363991ae98592a61b4b0192483cc58d47707e794bb7e2b"
+    },
+    {
+     "from": "2016-06-30",
+     "units": 595,
+     "source_url": "https://web.archive.org/web/20161006114712id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "a88e2be4bb25485cc40b66158e60a4d509bfdedb398582acb85beec86a6f6041"
+    },
+    {
+     "from": "2016-10-18",
+     "units": 595,
+     "source_url": "https://web.archive.org/web/20161107082312id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "05bf014ddad597cb47832c1992131dbf609338820bed550cedebf99e58211c0e"
+    },
+    {
+     "from": "2016-12-17",
+     "units": 595,
+     "source_url": "https://web.archive.org/web/20170226081545id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "b3d097f1309505bfd7f1ab0b43aa939d081338ab0f39292d128381d1723d38f0"
+    },
+    {
+     "from": "2017-03-01",
+     "units": 595,
+     "source_url": "https://web.archive.org/web/20170406183004id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "d1490f45eab035267fbe0350e4e4a4d714375e25f9c6a9a539342181eb90ea97"
+    },
+    {
+     "from": "2017-04-01",
+     "units": 602,
+     "source_url": "https://web.archive.org/web/20170716092241id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "4ab1f2f8a23d468a5bdb9aed2b468a88f5b756dc0edfa7ee956ca4c57d569670"
+    },
+    {
+     "from": "2017-07-14",
+     "units": 603,
+     "source_url": "https://web.archive.org/web/20180130223608id_/http://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "087c7cb8ebf3a87fd9945363907b463231338444621d1bd86b75bb9ed8a9814e"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 603,
+     "source_url": "https://web.archive.org/web/20180723015813id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "69a387cbfa8cc4558aabf65a2605c9f0da704d5c33eefb23ab31702940b91524"
+    },
+    {
+     "from": "2018-08-14",
+     "units": 603,
+     "source_url": "https://web.archive.org/web/20180825224734id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "d1bb3049c15b3632c978bf507e33135c818a9ecea7fd884928227b14c4deec13"
+    },
+    {
+     "from": "2018-09-08",
+     "units": 603,
+     "source_url": "https://web.archive.org/web/20190629160626id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "fd7cc024df252a184b2b50645c9824a54dadd571f1f7d8a45aa42dd6cfb832ad"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20200429112538id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "b0ab3fcdb7b5c9c398ece98f9221b06527fde4cefdb3f686690b574d7eadb635"
+    },
+    {
+     "from": "2020-05-13",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20200729051815id_/http://www.legislation.govt.nz:80/act/public/1989/0024/latest/whole.html",
+     "sha256": "11587eb189324eda5deaa98f370a10b55f350298672573fa5a72a2df4530f3be"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20210315181859id_/https://legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_oranga+tamariki_resel_25_a&amp;p=1",
+     "sha256": "2685a25cdcb98f762337425c22f3eb14ce7bf3f8fda4367954201ce62fb321b8"
+    },
+    {
+     "from": "2020-08-07",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20210315181859id_/https://legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_oranga+tamariki_resel_25_a&amp;p=1",
+     "sha256": "2685a25cdcb98f762337425c22f3eb14ce7bf3f8fda4367954201ce62fb321b8"
+    },
+    {
+     "from": "2020-12-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20210315181859id_/https://legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_oranga+tamariki_resel_25_a&amp;p=1",
+     "sha256": "2685a25cdcb98f762337425c22f3eb14ce7bf3f8fda4367954201ce62fb321b8"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20210830155704id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "49ae9a08594d5ef9d156bb8dfa4f2107bc80bc549c38e8ed44058d32caa9afb4"
+    },
+    {
+     "from": "2021-10-05",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20220119184443id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "8afa4ed305d2344bd94e82deef13db5dd9f069d6eccbf132c64d192f4f99375c"
+    },
+    {
+     "from": "2021-10-28",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20220320080133id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=sw_096be8ed81bb45a1_18_25_se&p=1",
+     "sha256": "5205f75383f9b23ee007ee3ad669815811cd5686038ed11d1d7986a2475dd9b6"
+    },
+    {
+     "from": "2022-04-12",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20220706011007id_/https://legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "54502985ac29e1982f0cbdc6008ac0d61a14738376471845ea21e6a8b68c146c"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20220908032104id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "18388c9f4e99aa33ca061e5a8b9eea493198e8af7dd8a9ee7ad3c9984e5122fb"
+    },
+    {
+     "from": "2022-09-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20230705011122id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=sw_096be8ed81d3d9e5_18_25_se&p=1",
+     "sha256": "cb2d4638b0809fc6bb79491fa3809a3f5a66c0be6d9870196308da0487df8fc4"
+    },
+    {
+     "from": "2022-12-17",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20230705011122id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=sw_096be8ed81d3d9e5_18_25_se&p=1",
+     "sha256": "cb2d4638b0809fc6bb79491fa3809a3f5a66c0be6d9870196308da0487df8fc4"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20230705011122id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=sw_096be8ed81d3d9e5_18_25_se&p=1",
+     "sha256": "cb2d4638b0809fc6bb79491fa3809a3f5a66c0be6d9870196308da0487df8fc4"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20240613173525id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "022925843f56019e7a92b477c035a17f77b0621cb1bed1c65091eccc89070e58"
+    },
+    {
+     "from": "2023-10-06",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20240613173525id_/https://www.legislation.govt.nz/act/public/1989/0024/latest/whole.html",
+     "sha256": "022925843f56019e7a92b477c035a17f77b0621cb1bed1c65091eccc89070e58"
+    },
+    {
+     "from": "2024-06-30",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20250402122607id_/https://legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_Oranga+Tamariki+Act+1989_resel_25_a&p=1%2f",
+     "sha256": "79bc74bce7e876397a08cafeb5bbea841d6a3bf7dcc629c757f8eecb974c8aa0"
+    },
+    {
+     "from": "2025-04-08",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20250508051210id_/https://legislation.govt.nz/act/public/1989/0024/latest/whole.html?search=y_act_2018_1989_ac%40ainf%40anif_an%40bn%40rn_25_a&p=1",
+     "sha256": "7a20265e9c87cd96a10f070b1099959b59ac8ca46c531abd15649e7a197be521"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20260714173029id_/https://www.legislation.govt.nz/act/public/1989/24/en/latest/",
+     "sha256": "0c390e29058c820373ffe4ecb55f5b2f5783d8ac8f866856be633b4d662be9c3"
+    },
+    {
+     "from": "2025-10-25",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20260714173029id_/https://www.legislation.govt.nz/act/public/1989/24/en/latest/",
+     "sha256": "0c390e29058c820373ffe4ecb55f5b2f5783d8ac8f866856be633b4d662be9c3"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 647,
+     "source_url": "https://web.archive.org/web/20260714173029id_/https://www.legislation.govt.nz/act/public/1989/24/en/latest/",
+     "sha256": "0c390e29058c820373ffe4ecb55f5b2f5783d8ac8f866856be633b4d662be9c3"
+    }
+   ]
   }
  ]
 }
