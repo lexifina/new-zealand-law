@@ -1,0 +1,935 @@
+day,kind,law,acts,files,branch
+1994-02-01,start,,bill-of-rights-act,30,main
+2005-05-17,start,,constitution-act,37,main
+2007-09-03,start,,arbitration-act,26,main
+2007-09-03,start,,consumer-guarantees-act,58,main
+2007-09-03,start,,crimes-act,562,main
+2007-09-03,start,,electoral-act,391,main
+2007-09-03,start,,family-proceedings-act,224,main
+2007-09-03,start,,holidays-act,95,main
+2007-09-03,start,,interpretation-act,43,main
+2007-09-03,start,,official-information-act,66,main
+2007-09-03,start,,resource-management-act,641,main
+2007-09-20,start,,care-of-children-act,170,main
+2007-09-20,law,act-2007-077,resource-management-act,1,main
+2007-10-01,law,act-2007-027,crimes-act,2,main
+2007-10-18,law,act-2007-094,arbitration-act,15,main
+2007-11-01,law,act-2007-025,official-information-act,1,main
+2007-11-20,law,act-2007-102,crimes-act,1,main
+2007-12-03,start,,copyright-act,244,main
+2007-12-19,law,act-2007-110,holidays-act,2,main
+2007-12-20,law,act-2007-113,electoral-act,52,main
+2008-01-01,start,,residential-tenancies-act,158,main
+2008-01-01,law,act-2007-091,resource-management-act,1,main
+2008-01-01,law,act-2007-096,crimes-act,5,main
+2008-02-29,start,,companies-act,609,main
+2008-03-27,start,,district-courts-act,185,main
+2008-03-27,law,act-2008-008,crimes-act,1,main
+2008-04-01,start,,insolvency-act,459,main
+2008-04-01,law,act-2007-097,consumer-guarantees-act,1,main
+2008-04-12,law,act-2008-027,copyright-act,1,main
+2008-04-23,start,act-2007-007,unsolicited-electronic-messages-act,59,main
+2008-04-24,start,act-2007-036,wills-act,42,main
+2008-05-02,law,act-2008-001,companies-act,1,main
+2008-06-26,law,act-2008-037,crimes-act,20,main
+2008-06-26,law,act-2008-039,district-courts-act,5,main
+2008-07-01,law,sr-2008-0144,district-courts-act,1,main
+2008-07-18,law,sr-2008-0211,district-courts-act,1,main
+2008-07-24,law,act-2006-057,companies-act,2,main
+2008-08-01,start,,credit-contracts-and-consumer-finance-act,148,main
+2008-08-01,start,,judicature-act,201,main
+2008-08-01,start,,land-transfer-act-1952,305,main
+2008-08-01,start,,property-relationships-act,190,main
+2008-08-01,start,,sentencing-act,271,main
+2008-08-01,law,act-2006-001,companies-act care-of-children-act copyright-act,3,main
+2008-08-01,law,act-2008-047,resource-management-act electoral-act,2,main
+2008-08-01,unexplained,,resource-management-act,1,main
+2008-08-09,law,act-2005-087,resource-management-act,3,main
+2008-09-17,law,act-2008-069,companies-act,10,main
+2008-09-25,start,,property-law-act,378,main
+2008-09-28,law,act-2008-095,resource-management-act,11,main
+2008-09-30,law,act-2008-100,resource-management-act,1,main
+2008-09-30,law,act-2008-103,holidays-act,2,main
+2008-10-01,start,,building-act,472,main
+2008-10-01,start,,domestic-violence-act,134,main
+2008-10-01,start,,employment-relations-act,347,main
+2008-10-01,start,,evidence-act,219,main
+2008-10-01,start,,fair-trading-act,69,main
+2008-10-01,start,,human-rights-act,219,main
+2008-10-01,law,act-2008-060,resource-management-act,1,main
+2008-10-01,law,act-2008-072,crimes-act resource-management-act sentencing-act electoral-act care-of-children-act interpretation-act district-courts-act copyright-act,27,main
+2008-10-01,unexplained,,interpretation-act,15,main
+2008-10-16,law,sr-2008-0318,building-act,1,main
+2008-10-16,unexplained,,building-act,27,main
+2008-10-31,law,act-2008-027,copyright-act,114,main
+2008-11-01,start,,local-government-act,339,main
+2008-11-01,law,act-2008-030,official-information-act,1,main
+2008-12-01,law,act-2006-019,copyright-act,1,main
+2008-12-16,law,act-2008-106,employment-relations-act,2,main
+2008-12-17,law,act-2008-109,sentencing-act,1,main
+2008-12-25,law,act-2008-037,crimes-act district-courts-act,5,main
+2008-12-25,law,act-2008-040,crimes-act judicature-act,2,main
+2009-01-01,law,act-2008-087,sentencing-act,1,main
+2009-01-01,unexplained,,sentencing-act,45,main
+2009-01-24,law,act-2008-048,electoral-act care-of-children-act family-proceedings-act,8,main
+2009-02-01,law,act-2008-090,judicature-act district-courts-act,6,main
+2009-03-01,law,act-2008-106,employment-relations-act,3,main
+2009-03-01,law,act-2009-001,electoral-act,99,main
+2009-03-01,unexplained,,electoral-act,204,main
+2009-04-01,start,,commerce-act,341,main
+2009-04-01,law,act-2008-058,employment-relations-act,12,main
+2009-04-01,unexplained,,employment-relations-act,123,main
+2009-04-03,law,act-2009-003,crimes-act,1,main
+2009-05-15,law,sr-2009-0075,judicature-act,1,main
+2009-05-18,law,act-2008-074,care-of-children-act,6,main
+2009-05-18,law,act-2008-077,domestic-violence-act,7,main
+2009-05-18,law,act-2008-079,family-proceedings-act,8,main
+2009-05-18,law,act-2008-083,property-relationships-act,4,main
+2009-05-18,unexplained,,care-of-children-act,95,main
+2009-05-18,unexplained,,family-proceedings-act,144,main
+2009-05-18,unexplained,,property-relationships-act,129,main
+2009-06-04,law,act-2008-098,resource-management-act,1,main
+2009-06-04,unexplained,,resource-management-act,325,main
+2009-06-12,law,sr-2009-0133,judicature-act,1,main
+2009-06-29,law,act-2008-038,crimes-act official-information-act,2,main
+2009-06-29,law,act-2008-040,crimes-act judicature-act,2,main
+2009-06-29,law,act-2008-041,crimes-act evidence-act district-courts-act,17,main
+2009-06-29,unexplained,,evidence-act,20,main
+2009-07-01,law,act-2007-098,crimes-act,1,main
+2009-07-01,law,act-2007-101,crimes-act judicature-act,2,main
+2009-07-01,law,act-2008-089,local-government-act,2,main
+2009-07-01,law,act-2009-012,official-information-act insolvency-act,2,main
+2009-07-01,unexplained,,local-government-act,61,main
+2009-07-01,unexplained,,official-information-act,60,main
+2009-08-01,law,act-2009-022,fair-trading-act consumer-guarantees-act credit-contracts-and-consumer-finance-act,4,main
+2009-08-01,law,act-2009-025,building-act,2,main
+2009-08-01,unexplained,,consumer-guarantees-act,52,main
+2009-08-01,unexplained,,credit-contracts-and-consumer-finance-act,67,main
+2009-08-05,law,act-2009-026,resource-management-act,1,main
+2009-09-23,law,act-2009-032,local-government-act,1,main
+2009-09-30,law,sr-2009-0227,companies-act,1,main
+2009-09-30,law,sr-2009-0228,insolvency-act,1,main
+2009-10-01,law,act-2009-031,resource-management-act sentencing-act,319,main
+2009-10-01,unexplained,,resource-management-act,2,main
+2009-10-17,law,act-2009-035,crimes-act,1,main
+2009-10-28,law,act-2009-043,domestic-violence-act,6,main
+2009-11-01,law,sr-2009-0257,local-government-act domestic-violence-act,5,main
+2009-11-16,law,act-2008-066,employment-relations-act,1,main
+2009-11-17,law,act-2009-052,insolvency-act,15,main
+2009-11-24,law,act-2009-053,companies-act,4,main
+2009-11-24,law,act-2009-054,companies-act,1,main
+2009-12-01,law,act-2009-008,crimes-act evidence-act,4,main
+2009-12-01,law,act-2009-010,sentencing-act,21,main
+2009-12-01,law,act-2009-037,sentencing-act,26,main
+2009-12-01,law,act-2009-047,crimes-act,6,main
+2009-12-01,law,act-2009-048,local-government-act,1,main
+2009-12-01,law,act-2009-049,sentencing-act,1,main
+2009-12-01,law,sr-2009-0334,judicature-act,1,main
+2009-12-01,unexplained,,evidence-act,10,main
+2009-12-01,unexplained,,judicature-act,5,main
+2009-12-08,law,act-2008-072,resource-management-act,2,main
+2009-12-08,law,act-2009-059,district-courts-act,1,main
+2009-12-08,law,act-2009-060,resource-management-act,1,main
+2009-12-08,law,act-2009-064,crimes-act,2,main
+2009-12-08,unexplained,,crimes-act,260,main
+2009-12-08,unexplained,,resource-management-act,174,main
+2010-01-07,law,act-2009-034,companies-act insolvency-act,2,main
+2010-01-07,unexplained,,companies-act,307,main
+2010-02-01,law,act-2009-025,building-act,33,main
+2010-03-03,law,act-2010-001,employment-relations-act human-rights-act fair-trading-act sentencing-act,9,main
+2010-03-23,law,act-2010-005,official-information-act,1,main
+2010-03-23,law,act-2010-006,district-courts-act,1,main
+2010-03-23,law,act-2010-007,judicature-act,4,main
+2010-03-23,unexplained,,judicature-act,129,main
+2010-04-01,law,act-2006-074,building-act,2,main
+2010-04-01,law,act-2009-034,insolvency-act,1,main
+2010-04-20,law,act-2010-013,companies-act,1,main
+2010-05-22,law,act-2010-026,electoral-act,9,main
+2010-05-24,law,sr-2010-0088,judicature-act,1,main
+2010-06-01,law,act-2010-033,crimes-act evidence-act sentencing-act district-courts-act,18,main
+2010-06-01,unexplained,,crimes-act,9,main
+2010-06-01,unexplained,,district-courts-act,139,main
+2010-07-01,law,act-2009-042,sentencing-act,15,main
+2010-07-01,law,act-2009-043,domestic-violence-act,19,main
+2010-07-01,law,act-2009-044,sentencing-act,7,main
+2010-07-01,unexplained,,domestic-violence-act,115,main
+2010-07-07,law,act-2010-050,building-act,8,main
+2010-07-07,law,act-2010-053,companies-act,3,main
+2010-07-07,law,act-2010-055,copyright-act,1,main
+2010-07-07,law,act-2010-063,electoral-act,1,main
+2010-07-07,law,act-2010-069,insolvency-act,1,main
+2010-07-07,law,act-2010-074,companies-act,2,main
+2010-07-07,law,act-2010-076,property-law-act,1,main
+2010-07-07,law,act-2010-084,sentencing-act,1,main
+2010-07-07,law,act-2010-088,companies-act,1,main
+2010-07-07,law,act-2010-094,evidence-act,1,main
+2010-07-07,unexplained,,companies-act,1,main
+2010-07-07,unexplained,,copyright-act,214,main
+2010-08-06,law,act-2010-101,local-government-act property-law-act building-act,3,main
+2010-09-07,law,act-2010-109,local-government-act,1,main
+2010-10-01,law,act-2010-026,electoral-act,130,main
+2010-10-01,law,act-2010-095,residential-tenancies-act,134,main
+2010-10-30,law,act-2010-120,employment-relations-act,1,main
+2010-11-01,law,act-2010-037,resource-management-act local-government-act,8,main
+2010-11-01,law,act-2010-042,companies-act property-law-act insolvency-act,3,main
+2010-11-01,law,act-2010-116,local-government-act commerce-act,15,main
+2010-11-01,unexplained,,companies-act,323,main
+2010-11-23,law,act-2010-123,official-information-act,1,main
+2010-11-27,law,act-2010-124,local-government-act,69,main
+2010-11-27,law,act-2010-126,holidays-act,2,main
+2010-11-29,law,act-2009-051,official-information-act electoral-act care-of-children-act judicature-act,5,main
+2010-12-16,law,act-2010-128,electoral-act,2,main
+2010-12-16,law,act-2010-129,resource-management-act,1,main
+2010-12-23,law,sr-2010-0431,building-act,1,main
+2011-01-01,law,act-2010-110,property-law-act building-act arbitration-act land-transfer-act-1952,9,main
+2011-01-01,law,act-2010-137,electoral-act,85,main
+2011-01-01,unexplained,,arbitration-act,17,main
+2011-01-01,unexplained,,land-transfer-act-1952,166,main
+2011-02-01,law,act-2010-111,companies-act,10,main
+2011-02-01,law,act-2010-132,official-information-act,2,main
+2011-04-01,law,act-2010-125,employment-relations-act holidays-act,44,main
+2011-04-01,law,act-2010-126,employment-relations-act holidays-act,35,main
+2011-04-01,law,act-2011-003,resource-management-act,56,main
+2011-04-01,unexplained,,holidays-act,4,main
+2011-04-19,law,act-2010-015,copyright-act,1,main
+2011-05-01,law,act-2009-017,sentencing-act domestic-violence-act,2,main
+2011-05-01,law,act-2011-005,official-information-act companies-act human-rights-act fair-trading-act judicature-act,24,main
+2011-05-01,unexplained,,companies-act,296,main
+2011-05-01,unexplained,,fair-trading-act,56,main
+2011-05-01,unexplained,,human-rights-act,103,main
+2011-05-10,law,act-2008-072,sentencing-act,1,main
+2011-05-10,law,act-2011-013,sentencing-act,1,main
+2011-05-10,unexplained,,sentencing-act,1,main
+2011-06-20,law,act-2010-022,resource-management-act property-law-act residential-tenancies-act,6,main
+2011-06-20,law,sr-2010-0394,judicature-act,1,main
+2011-06-20,unexplained,,judicature-act,19,main
+2011-06-20,unexplained,,residential-tenancies-act,62,main
+2011-07-01,law,act-2010-124,local-government-act,1,main
+2011-07-01,law,act-2010-125,employment-relations-act,1,main
+2011-07-01,law,act-2011-004,crimes-act,1,main
+2011-07-01,law,act-2011-019,resource-management-act,10,main
+2011-07-01,law,act-2011-022,official-information-act local-government-act,2,main
+2011-07-01,law,sr-2011-0142,electoral-act,1,main
+2011-07-13,law,act-2011-029,crimes-act,4,main
+2011-07-23,law,act-2011-030,district-courts-act,4,main
+2011-07-23,law,act-2011-052,copyright-act,1,main
+2011-08-17,law,act-2011-057,electoral-act,28,main
+2011-08-30,law,act-2011-062,credit-contracts-and-consumer-finance-act,1,main
+2011-09-01,law,act-2011-011,copyright-act,27,main
+2011-09-15,law,sr-2011-0274,commerce-act,1,main
+2011-09-15,unexplained,,commerce-act,123,main
+2011-09-16,law,act-2011-072,copyright-act,13,main
+2011-10-01,law,act-2011-070,resource-management-act,114,main
+2011-10-07,law,act-2011-072,copyright-act,44,main
+2011-10-21,law,sr-2011-0326,unsolicited-electronic-messages-act,1,main
+2011-10-21,unexplained,,unsolicited-electronic-messages-act,4,main
+2011-11-03,law,sr-2011-0350,judicature-act,1,main
+2011-11-16,law,act-2011-058,domestic-violence-act,14,main
+2011-11-16,law,act-2011-059,care-of-children-act,13,main
+2012-02-01,law,sr-2011-0351,judicature-act,1,main
+2012-02-13,law,act-2011-030,district-courts-act,3,main
+2012-02-13,law,act-2011-034,crimes-act,7,main
+2012-02-13,law,act-2011-047,sentencing-act,15,main
+2012-02-25,law,act-2012-007,companies-act,3,main
+2012-02-25,law,act-2012-010,domestic-violence-act,4,main
+2012-02-25,law,act-2012-011,judicature-act,1,main
+2012-02-25,law,act-2012-022,wills-act,3,main
+2012-03-05,law,act-2011-081,crimes-act evidence-act sentencing-act district-courts-act,6,main
+2012-03-05,law,act-2011-085,crimes-act,1,main
+2012-03-13,law,act-2012-023,local-government-act building-act,67,main
+2012-03-19,law,act-2011-079,crimes-act,8,main
+2012-04-01,law,act-2011-062,companies-act electoral-act insolvency-act credit-contracts-and-consumer-finance-act judicature-act district-courts-act,7,main
+2012-04-06,law,act-2012-031,resource-management-act,1,main
+2012-04-18,law,act-2012-024,crimes-act,26,main
+2012-05-15,law,act-2012-037,employment-relations-act,1,main
+2012-06-14,law,sr-2012-0093,judicature-act,1,main
+2012-06-30,law,act-2012-045,employment-relations-act,1,main
+2012-06-30,law,act-2012-048,fair-trading-act,1,main
+2012-07-01,law,act-2010-037,local-government-act,1,main
+2012-07-01,law,act-2011-021,companies-act,2,main
+2012-07-01,law,act-2011-057,electoral-act,48,main
+2012-07-01,law,act-2012-042,official-information-act,1,main
+2012-07-01,law,sr-2012-0086,electoral-act,4,main
+2012-07-31,law,act-2012-052,resource-management-act,1,main
+2012-08-01,law,act-2011-047,sentencing-act,25,main
+2012-08-01,law,act-2012-055,resource-management-act,1,main
+2012-08-31,law,act-2012-060,companies-act,8,main
+2012-08-31,law,act-2012-068,companies-act,1,main
+2012-09-10,law,act-2011-013,sentencing-act,3,main
+2012-09-18,law,act-2012-074,sentencing-act,2,main
+2012-09-28,law,sr-2012-0252,companies-act,1,main
+2012-10-01,law,act-2012-024,crimes-act resource-management-act local-government-act fair-trading-act credit-contracts-and-consumer-finance-act commerce-act district-courts-act unsolicited-electronic-messages-act,46,main
+2012-10-24,law,act-2012-084,commerce-act,17,main
+2012-10-24,law,act-2012-085,credit-contracts-and-consumer-finance-act,1,main
+2012-10-24,law,act-2012-086,fair-trading-act,15,main
+2012-11-20,law,act-2012-090,resource-management-act,1,main
+2012-12-05,law,act-2012-093,local-government-act,76,main
+2012-12-12,law,act-2012-107,local-government-act,1,main
+2012-12-12,law,act-2012-113,residential-tenancies-act,6,main
+2013-02-01,law,act-2012-091,resource-management-act,1,main
+2013-02-04,law,sr-2012-0409,judicature-act,1,main
+2013-05-14,law,act-2012-037,employment-relations-act,5,main
+2013-05-14,unexplained,,employment-relations-act,1,main
+2013-05-24,law,act-2013-014,resource-management-act property-law-act,4,main
+2013-06-04,law,sr-2013-0128,judicature-act,1,main
+2013-06-13,law,act-2013-034,official-information-act,1,main
+2013-06-13,law,act-2013-038,resource-management-act,1,main
+2013-06-13,law,sr-2013-0145,commerce-act,1,main
+2013-06-13,unexplained,,official-information-act,2,main
+2013-06-28,law,act-2012-072,resource-management-act,2,main
+2013-07-01,start,,criminal-procedure-act,419,main
+2013-07-01,law,act-2011-081,employment-relations-act companies-act resource-management-act local-government-act human-rights-act fair-trading-act property-law-act electoral-act residential-tenancies-act property-relationships-act care-of-children-act insolvency-act family-proceedings-act building-act credit-contracts-and-consumer-finance-act domestic-violence-act interpretation-act commerce-act judicature-act land-transfer-act-1952 unsolicited-electronic-messages-act copyright-act,219,main
+2013-07-01,law,act-2011-085,crimes-act,129,main
+2013-07-01,law,act-2011-088,district-courts-act,34,main
+2013-07-01,law,act-2011-089,evidence-act,13,main
+2013-07-01,law,act-2011-092,bill-of-rights-act,1,main
+2013-07-01,law,act-2011-093,sentencing-act,41,main
+2013-07-01,law,act-2013-027,crimes-act,10,main
+2013-07-01,law,act-2013-029,evidence-act,2,main
+2013-07-01,law,act-2013-032,sentencing-act,2,main
+2013-07-01,law,sr-2013-0136,electoral-act,4,main
+2013-07-01,law,sr-2013-0214,judicature-act,1,main
+2013-07-01,unexplained,,crimes-act,1,main
+2013-07-01,unexplained,,electoral-act,1,main
+2013-08-05,law,act-2012-119,crimes-act official-information-act resource-management-act local-government-act electoral-act building-act interpretation-act commerce-act judicature-act district-courts-act copyright-act,22,main
+2013-08-05,unexplained,,commerce-act,2,main
+2013-08-19,law,act-2003-039,crimes-act,1,main
+2013-08-19,law,act-2013-020,crimes-act property-relationships-act family-proceedings-act judicature-act land-transfer-act-1952,22,main
+2013-08-19,unexplained,,crimes-act,155,main
+2013-08-27,law,act-2013-060,official-information-act copyright-act,2,main
+2013-08-27,unexplained,,copyright-act,2,main
+2013-09-04,law,act-2013-063,resource-management-act,77,main
+2013-09-04,law,act-2013-066,sentencing-act,1,main
+2013-09-25,law,act-2013-074,care-of-children-act,4,main
+2013-09-25,law,act-2013-077,domestic-violence-act,4,main
+2013-09-30,law,sr-2013-0336,copyright-act,1,main
+2013-10-04,law,sr-2013-0409,copyright-act,3,main
+2013-10-11,law,act-2010-108,evidence-act judicature-act,29,main
+2013-10-11,law,sr-2013-0351,judicature-act,1,main
+2013-10-11,unexplained,,evidence-act,21,main
+2013-10-12,law,act-2012-093,local-government-act,1,main
+2013-10-23,law,act-2013-084,local-government-act,5,main
+2013-10-23,law,act-2013-088,criminal-procedure-act sentencing-act,3,main
+2013-10-23,unexplained,,local-government-act,2,main
+2013-10-31,law,act-2013-086,copyright-act,1,main
+2013-11-11,law,sr-2013-0425,judicature-act,1,main
+2013-11-28,law,act-2013-098,official-information-act,1,main
+2013-11-28,law,act-2013-100,building-act,74,main
+2013-12-05,law,act-2013-111,official-information-act companies-act fair-trading-act commerce-act judicature-act land-transfer-act-1952,19,main
+2013-12-05,law,act-2013-114,district-courts-act,1,main
+2013-12-05,law,act-2013-115,electoral-act,2,main
+2013-12-05,law,act-2013-121,insolvency-act,1,main
+2013-12-05,law,act-2013-124,local-government-act,1,main
+2013-12-05,law,act-2013-137,unsolicited-electronic-messages-act,1,main
+2013-12-05,law,act-2013-138,wills-act,1,main
+2013-12-05,unexplained,,electoral-act,1,main
+2013-12-10,law,act-2013-103,companies-act,2,main
+2013-12-16,law,act-2013-093,electoral-act,1,main
+2013-12-16,law,act-2013-096,employment-relations-act,1,main
+2013-12-18,law,act-2012-120,electoral-act residential-tenancies-act,3,main
+2013-12-18,law,act-2012-121,local-government-act,12,main
+2013-12-18,law,act-2013-143,fair-trading-act,37,main
+2013-12-18,law,act-2013-144,consumer-guarantees-act,5,main
+2013-12-18,law,act-2013-148,sentencing-act property-law-act,2,main
+2014-01-01,law,act-2013-019,official-information-act resource-management-act local-government-act criminal-procedure-act property-law-act electoral-act residential-tenancies-act holidays-act building-act credit-contracts-and-consumer-finance-act interpretation-act copyright-act,12,main
+2014-01-01,unexplained,,building-act,2,main
+2014-01-22,law,act-2013-088,sentencing-act,35,main
+2014-01-22,unexplained,,sentencing-act,4,main
+2014-02-21,law,li-2014-0019,commerce-act,1,main
+2014-03-20,law,act-2014-007,resource-management-act,1,main
+2014-03-25,law,act-2014-008,electoral-act,97,main
+2014-03-31,law,act-1980-161,property-relationships-act care-of-children-act family-proceedings-act domestic-violence-act,4,main
+2014-03-31,law,act-2013-074,care-of-children-act,71,main
+2014-03-31,law,act-2013-077,domestic-violence-act,3,main
+2014-03-31,law,act-2013-080,family-proceedings-act,30,main
+2014-03-31,law,act-2013-082,property-relationships-act,4,main
+2014-03-31,unexplained,,care-of-children-act,1,main
+2014-03-31,unexplained,,family-proceedings-act,9,main
+2014-04-01,law,act-2013-070,companies-act fair-trading-act,7,main
+2014-04-01,law,act-2013-102,companies-act local-government-act property-law-act electoral-act commerce-act,74,main
+2014-04-01,unexplained,,companies-act,2,main
+2014-04-01,unexplained,,property-law-act,5,main
+2014-04-14,law,act-2011-030,district-courts-act,40,main
+2014-04-14,law,act-2011-046,residential-tenancies-act,3,main
+2014-04-14,law,act-2013-097,residential-tenancies-act,1,main
+2014-04-14,law,act-2013-114,district-courts-act,1,main
+2014-04-14,unexplained,,district-courts-act,7,main
+2014-04-14,unexplained,,residential-tenancies-act,1,main
+2014-04-17,law,act-2014-015,resource-management-act,1,main
+2014-04-23,law,act-2014-020,resource-management-act,1,main
+2014-05-11,law,act-2013-091,crimes-act,1,main
+2014-05-20,law,act-2014-026,resource-management-act building-act,11,main
+2014-06-03,law,li-2014-0127,judicature-act,1,main
+2014-06-07,law,act-2014-033,credit-contracts-and-consumer-finance-act,3,main
+2014-06-17,law,act-2013-143,companies-act fair-trading-act insolvency-act,55,main
+2014-06-17,law,act-2013-144,consumer-guarantees-act,8,main
+2014-06-17,law,act-2014-033,fair-trading-act,1,main
+2014-06-17,unexplained,,companies-act,9,main
+2014-06-24,law,act-2014-010,copyright-act,2,main
+2014-07-01,law,li-2014-0152,electoral-act,4,main
+2014-07-01,unexplained,,electoral-act,6,main
+2014-07-03,law,act-2014-046,companies-act,9,main
+2014-07-15,law,act-2013-048,property-relationships-act,1,main
+2014-07-28,law,act-2014-051,property-law-act,1,main
+2014-08-07,law,act-2014-055,local-government-act,8,main
+2014-08-08,law,act-2014-055,resource-management-act local-government-act building-act,126,main
+2014-09-01,law,act-2014-046,companies-act,2,main
+2014-09-11,law,act-2014-046,companies-act,4,main
+2014-09-12,law,act-2011-070,resource-management-act,1,main
+2014-09-13,start,,limitation-act,63,main
+2014-09-13,law,act-2013-068,employment-relations-act commerce-act copyright-act,3,main
+2014-09-13,law,li-2014-0127,judicature-act,1,main
+2014-10-01,law,act-2013-077,domestic-violence-act,50,main
+2014-10-01,unexplained,,domestic-violence-act,1,main
+2014-11-12,law,act-2014-066,official-information-act,1,main
+2014-12-01,law,act-2013-070,crimes-act companies-act local-government-act human-rights-act property-law-act electoral-act property-relationships-act insolvency-act building-act commerce-act judicature-act,42,main
+2014-12-01,law,act-2014-046,companies-act,1,main
+2014-12-01,unexplained,,commerce-act,2,main
+2014-12-01,unexplained,,property-relationships-act,15,main
+2014-12-06,law,act-2014-035,official-information-act,1,main
+2014-12-06,law,act-2014-038,sentencing-act,7,main
+2014-12-07,law,act-2014-056,official-information-act district-courts-act,2,main
+2014-12-12,law,act-2014-068,crimes-act,1,main
+2014-12-15,law,act-2014-067,crimes-act,1,main
+2014-12-16,law,act-2014-075,resource-management-act,1,main
+2014-12-30,law,act-2014-045,criminal-procedure-act,1,main
+2015-01-01,law,act-2013-100,building-act,35,main
+2015-01-01,law,li-2014-0348,judicature-act,1,main
+2015-03-03,law,act-2013-063,resource-management-act,44,main
+2015-03-06,law,act-2014-061,employment-relations-act,98,main
+2015-03-17,law,act-2013-143,fair-trading-act,7,main
+2015-03-26,law,act-2015-011,copyright-act,1,main
+2015-03-26,law,act-2015-021,local-government-act,2,main
+2015-03-26,law,act-2015-029,official-information-act,6,main
+2015-03-26,law,act-2015-034,sentencing-act,1,main
+2015-03-26,unexplained,,official-information-act,3,main
+2015-05-01,law,act-2014-046,companies-act,52,main
+2015-05-07,law,act-2015-044,crimes-act,3,main
+2015-05-07,unexplained,,crimes-act,2,main
+2015-06-06,law,act-2014-033,property-law-act insolvency-act credit-contracts-and-consumer-finance-act,145,main
+2015-06-06,unexplained,,property-law-act,5,main
+2015-07-01,law,act-2011-081,criminal-procedure-act,2,main
+2015-07-01,law,act-2014-040,sentencing-act,1,main
+2015-07-01,law,act-2014-064,companies-act electoral-act,6,main
+2015-07-01,law,li-2015-0101,electoral-act,1,main
+2015-07-01,law,li-2015-0102,judicature-act,1,main
+2015-07-01,law,li-2015-0104,fair-trading-act district-courts-act,2,main
+2015-07-01,unexplained,,criminal-procedure-act,3,main
+2015-07-01,unexplained,,district-courts-act,2,main
+2015-07-01,unexplained,,electoral-act,7,main
+2015-07-01,unexplained,,fair-trading-act,1,main
+2015-07-01,unexplained,,judicature-act,1,main
+2015-07-03,law,act-2015-063,crimes-act human-rights-act,4,main
+2015-07-03,unexplained,,human-rights-act,7,main
+2015-09-15,law,act-2015-075,resource-management-act,1,main
+2015-09-15,unexplained,,resource-management-act,6,main
+2015-09-23,law,act-2015-079,resource-management-act,1,main
+2015-09-30,law,li-2015-0201,companies-act,1,main
+2015-09-30,law,li-2015-0202,insolvency-act,1,main
+2015-09-30,law,li-2015-0208,copyright-act,1,main
+2015-09-30,unexplained,,copyright-act,5,main
+2015-09-30,unexplained,,insolvency-act,1,main
+2015-10-01,law,act-2015-082,land-transfer-act-1952,14,main
+2015-10-01,unexplained,,land-transfer-act-1952,11,main
+2015-10-21,law,act-2015-091,official-information-act,1,main
+2015-10-21,unexplained,,official-information-act,2,main
+2015-11-07,law,act-2015-095,crimes-act,18,main
+2015-11-07,law,act-2015-097,companies-act,2,main
+2015-11-07,unexplained,,companies-act,3,main
+2015-11-07,unexplained,,crimes-act,21,main
+2015-11-19,law,li-2015-0266,electoral-act,3,main
+2015-11-19,unexplained,,electoral-act,6,main
+2015-12-01,law,act-1991-093,official-information-act,1,main
+2015-12-01,law,li-2015-0275,local-government-act,1,main
+2015-12-01,unexplained,,local-government-act,8,main
+2016-01-01,law,act-2015-120,criminal-procedure-act,2,main
+2016-02-25,law,act-2016-002,employment-relations-act holidays-act,5,main
+2016-02-25,unexplained,,employment-relations-act,2,main
+2016-02-25,unexplained,,holidays-act,2,main
+2016-03-01,law,act-2014-032,local-government-act,1,main
+2016-03-01,law,act-2015-091,official-information-act fair-trading-act building-act commerce-act copyright-act,6,main
+2016-03-01,unexplained,,building-act,3,main
+2016-03-01,unexplained,,local-government-act,1,main
+2016-03-24,law,li-2016-0033,insolvency-act,4,main
+2016-03-24,unexplained,,insolvency-act,2,main
+2016-04-01,law,act-2016-008,employment-relations-act,2,main
+2016-04-01,law,act-2016-009,employment-relations-act companies-act,77,main
+2016-04-01,law,act-2016-010,holidays-act,8,main
+2016-04-01,unexplained,,holidays-act,2,main
+2016-04-04,law,act-2015-070,sentencing-act building-act,2,main
+2016-04-04,law,act-2015-073,employment-relations-act,8,main
+2016-04-04,law,act-2016-009,employment-relations-act,1,main
+2016-04-30,law,act-2016-017,resource-management-act judicature-act,3,main
+2016-04-30,unexplained,,judicature-act,2,main
+2016-05-13,law,act-2016-016,companies-act,1,main
+2016-06-03,law,act-2016-026,residential-tenancies-act,6,main
+2016-06-15,law,act-2016-028,human-rights-act,15,main
+2016-06-30,law,act-2014-041,care-of-children-act,1,main
+2016-06-30,law,li-2016-0108,building-act,1,main
+2016-07-01,law,act-2016-026,residential-tenancies-act,43,main
+2016-07-01,law,li-2016-0103,electoral-act,3,main
+2016-07-05,law,act-2016-033,resource-management-act,1,main
+2016-07-05,law,act-2016-034,official-information-act,1,main
+2016-10-14,law,act-2016-042,criminal-procedure-act,2,main
+2016-10-18,law,act-2016-048,employment-relations-act companies-act resource-management-act sentencing-act residential-tenancies-act property-relationships-act care-of-children-act insolvency-act family-proceedings-act domestic-violence-act judicature-act,27,main
+2016-10-18,unexplained,,judicature-act,1,main
+2016-10-18,unexplained,,property-relationships-act,3,main
+2016-10-29,law,act-2016-072,official-information-act,1,main
+2016-10-31,law,act-1994-143,copyright-act,1,main
+2016-11-29,law,act-2016-088,resource-management-act,1,main
+2016-12-06,law,act-2016-095,resource-management-act,1,main
+2016-12-13,law,act-2016-100,resource-management-act,1,main
+2016-12-13,unexplained,,resource-management-act,5,main
+2016-12-17,law,act-2016-104,employment-relations-act companies-act sentencing-act,12,main
+2016-12-22,law,act-2016-047,sentencing-act,7,main
+2016-12-22,unexplained,,sentencing-act,1,main
+2017-01-01,law,act-2016-071,building-act,20,main
+2017-01-08,law,act-2016-044,evidence-act criminal-procedure-act,36,main
+2017-02-24,law,act-2016-089,evidence-act,1,main
+2017-03-01,start,,health-and-safety-at-work-act,237,main
+2017-03-01,law,act-2016-048,crimes-act official-information-act employment-relations-act resource-management-act evidence-act criminal-procedure-act electoral-act property-relationships-act care-of-children-act insolvency-act limitation-act commerce-act judicature-act land-transfer-act-1952,163,main
+2017-03-01,law,act-2016-049,crimes-act employment-relations-act companies-act resource-management-act local-government-act human-rights-act fair-trading-act evidence-act criminal-procedure-act sentencing-act property-law-act electoral-act residential-tenancies-act property-relationships-act consumer-guarantees-act holidays-act care-of-children-act insolvency-act family-proceedings-act building-act arbitration-act limitation-act credit-contracts-and-consumer-finance-act wills-act domestic-violence-act district-courts-act unsolicited-electronic-messages-act copyright-act,492,main
+2017-03-01,law,act-2016-050,official-information-act employment-relations-act resource-management-act,7,main
+2017-03-01,law,act-2016-052,resource-management-act,1,main
+2017-03-01,law,act-2016-053,arbitration-act,3,main
+2017-03-01,law,act-2016-057,companies-act,5,main
+2017-03-01,law,act-2016-061,criminal-procedure-act,5,main
+2017-03-01,law,act-2016-062,employment-relations-act,21,main
+2017-03-01,law,act-2016-064,insolvency-act,1,main
+2017-03-01,law,act-2016-066,property-law-act,7,main
+2017-03-01,law,act-2016-068,resource-management-act,11,main
+2017-03-01,law,act-2016-070,evidence-act,1,main
+2017-03-01,unexplained,,arbitration-act,1,main
+2017-03-01,unexplained,,district-courts-act,1,main
+2017-03-01,unexplained,,limitation-act,3,main
+2017-03-01,unexplained,,local-government-act,1,main
+2017-03-01,unexplained,,wills-act,2,main
+2017-03-07,law,act-2016-006,official-information-act,1,main
+2017-03-21,law,act-2017-008,electoral-act,1,main
+2017-03-21,law,act-2017-009,electoral-act,108,main
+2017-03-31,law,act-2017-012,companies-act insolvency-act,6,main
+2017-03-31,law,act-2017-013,employment-relations-act,3,main
+2017-03-31,unexplained,,companies-act,1,main
+2017-04-19,law,act-2017-015,resource-management-act health-and-safety-at-work-act,146,main
+2017-05-01,law,act-2017-009,electoral-act,2,main
+2017-05-15,law,act-2016-085,sentencing-act,20,main
+2017-05-19,law,act-2017-020,human-rights-act,1,main
+2017-05-30,law,act-2017-011,building-act,3,main
+2017-05-30,law,act-2017-012,companies-act fair-trading-act insolvency-act commerce-act,37,main
+2017-06-03,law,act-2017-023,official-information-act sentencing-act,2,main
+2017-07-01,law,act-2016-022,building-act,58,main
+2017-07-01,law,act-2017-017,employment-relations-act resource-management-act local-government-act sentencing-act health-and-safety-at-work-act building-act,18,main
+2017-07-01,law,act-2017-024,employment-relations-act,4,main
+2017-07-01,law,li-2017-0093,electoral-act,4,main
+2017-07-14,start,,district-court-act,265,main
+2017-07-14,law,act-2017-031,crimes-act evidence-act criminal-procedure-act care-of-children-act family-proceedings-act domestic-violence-act,21,main
+2017-08-11,law,act-2017-034,sentencing-act,2,main
+2017-08-15,law,act-2017-039,resource-management-act,1,main
+2017-08-15,law,act-2017-040,commerce-act,59,main
+2017-08-22,law,act-2017-041,resource-management-act,1,main
+2017-08-22,law,act-2017-042,sentencing-act,9,main
+2017-08-22,unexplained,,sentencing-act,2,main
+2017-09-01,law,act-2017-005,employment-relations-act companies-act human-rights-act fair-trading-act criminal-procedure-act property-law-act health-and-safety-at-work-act electoral-act residential-tenancies-act consumer-guarantees-act holidays-act building-act limitation-act credit-contracts-and-consumer-finance-act commerce-act,31,main
+2017-09-28,law,act-2017-010,crimes-act employment-relations-act companies-act human-rights-act health-and-safety-at-work-act,10,main
+2017-10-18,law,act-2017-015,resource-management-act,62,main
+2017-12-01,law,act-2015-072,building-act,1,main
+2017-12-05,law,act-2017-046,residential-tenancies-act,1,main
+2017-12-16,law,act-2017-050,companies-act fair-trading-act insolvency-act commerce-act copyright-act,17,main
+2017-12-21,law,act-2017-029,health-and-safety-at-work-act,1,main
+2017-12-21,unexplained,,health-and-safety-at-work-act,1,main
+2018-01-01,law,act-2016-048,judicature-act,202,main
+2018-01-01,law,act-2016-049,district-courts-act,187,main
+2018-01-01,law,act-2016-051,employment-relations-act companies-act holidays-act insolvency-act arbitration-act district-court-act land-transfer-act-1952,13,main
+2018-01-01,law,act-2016-059,copyright-act,1,main
+2018-01-31,law,act-2016-076,holidays-act,1,main
+2018-03-29,law,act-2018-005,health-and-safety-at-work-act,1,main
+2018-05-27,law,act-2017-049,criminal-procedure-act,1,main
+2018-06-27,law,act-2018-014,resource-management-act,1,main
+2018-06-27,law,act-2018-015,local-government-act,3,main
+2018-07-01,law,act-2017-017,local-government-act,2,main
+2018-07-01,law,act-2017-034,criminal-procedure-act sentencing-act,3,main
+2018-07-01,law,li-2018-0077,electoral-act,4,main
+2018-07-05,law,act-2018-018,resource-management-act,1,main
+2018-07-11,law,act-2018-019,resource-management-act,1,main
+2018-08-14,law,act-2018-022,care-of-children-act family-proceedings-act,8,main
+2018-09-08,law,act-2018-027,companies-act fair-trading-act electoral-act care-of-children-act family-proceedings-act domestic-violence-act district-court-act,8,main
+2018-09-14,law,act-2018-028,resource-management-act,1,main
+2018-09-30,law,li-2018-0146,companies-act,1,main
+2018-09-30,law,li-2018-0147,insolvency-act,1,main
+2018-10-01,law,act-2018-004,companies-act fair-trading-act sentencing-act health-and-safety-at-work-act insolvency-act copyright-act,9,main
+2018-10-04,law,act-2018-039,electoral-act,8,main
+2018-10-24,law,act-2018-040,official-information-act,1,main
+2018-10-26,law,act-2018-042,commerce-act,43,main
+2018-11-12,start,,land-transfer-act,252,main
+2018-11-12,law,act-2017-030,companies-act resource-management-act local-government-act property-law-act property-relationships-act insolvency-act building-act limitation-act credit-contracts-and-consumer-finance-act domestic-violence-act district-court-act land-transfer-act-1952,434,main
+2018-11-13,start,,contract-and-commercial-law-act,353,main
+2018-11-13,law,act-2018-048,crimes-act unsolicited-electronic-messages-act,2,main
+2018-11-14,start,,senior-courts-act,191,main
+2018-11-14,law,act-2018-050,criminal-procedure-act sentencing-act care-of-children-act family-proceedings-act,24,main
+2018-11-14,law,act-2018-051,human-rights-act residential-tenancies-act copyright-act,44,main
+2018-11-26,law,act-2018-032,human-rights-act sentencing-act contract-and-commercial-law-act electoral-act residential-tenancies-act family-proceedings-act district-court-act,13,main
+2018-11-26,unexplained,,human-rights-act,1,main
+2018-12-03,law,act-2018-047,crimes-act evidence-act,12,main
+2018-12-03,law,act-2018-048,evidence-act,2,main
+2018-12-12,law,act-2018-044,residential-tenancies-act,7,main
+2018-12-12,law,act-2018-053,employment-relations-act,28,main
+2018-12-12,unexplained,,residential-tenancies-act,1,main
+2018-12-19,law,act-2018-055,resource-management-act,1,main
+2018-12-19,unexplained,,resource-management-act,1,main
+2018-12-21,law,act-2018-058,sentencing-act,1,main
+2018-12-30,law,act-2016-090,copyright-act,73,main
+2019-03-12,law,act-2019-004,crimes-act,10,main
+2019-03-21,law,act-2019-006,local-government-act,14,main
+2019-04-01,law,act-2018-005,companies-act insolvency-act,2,main
+2019-04-01,law,act-2018-017,property-law-act,1,main
+2019-04-01,law,act-2018-021,employment-relations-act human-rights-act holidays-act,55,main
+2019-04-09,law,act-2019-007,electoral-act,2,main
+2019-04-12,law,act-2019-012,local-government-act,1,main
+2019-05-06,law,act-2018-053,employment-relations-act,36,main
+2019-05-08,law,act-2019-014,arbitration-act,2,main
+2019-05-14,law,act-2019-017,local-government-act,11,main
+2019-06-06,law,act-2019-025,companies-act,2,main
+2019-06-06,law,act-2019-026,district-court-act,1,main
+2019-06-11,law,act-2018-053,employment-relations-act,4,main
+2019-06-18,law,act-2019-028,companies-act,1,main
+2019-07-01,law,act-2017-012,commerce-act,1,main
+2019-07-01,law,act-2017-031,criminal-procedure-act,1,main
+2019-07-01,law,act-2017-046,residential-tenancies-act,14,main
+2019-07-01,law,act-2018-046,employment-relations-act human-rights-act electoral-act property-relationships-act holidays-act land-transfer-act domestic-violence-act senior-courts-act district-court-act,236,main
+2019-07-01,law,act-2018-047,crimes-act evidence-act criminal-procedure-act sentencing-act care-of-children-act,25,main
+2019-07-01,law,act-2019-030,criminal-procedure-act sentencing-act,7,main
+2019-07-01,law,act-2019-032,official-information-act,1,main
+2019-07-01,law,li-2019-0114,electoral-act,4,main
+2019-07-01,law,li-2019-0133,building-act,1,main
+2019-07-31,law,act-2019-037,residential-tenancies-act,4,main
+2019-08-01,law,act-2019-040,resource-management-act,1,main
+2019-08-14,law,act-1986-005,commerce-act,1,main
+2019-08-14,law,act-2017-040,commerce-act,3,main
+2019-08-27,law,act-2019-037,residential-tenancies-act,26,main
+2019-08-31,law,act-2019-046,companies-act property-law-act,6,main
+2019-10-01,start,,family-violence-act,261,main
+2019-10-01,law,act-2019-050,official-information-act property-law-act residential-tenancies-act,3,main
+2019-10-18,law,li-2019-0221,local-government-act,1,main
+2019-10-22,law,act-2019-054,local-government-act,36,main
+2019-10-22,unexplained,,local-government-act,1,main
+2019-10-24,law,act-2019-056,official-information-act companies-act resource-management-act criminal-procedure-act contract-and-commercial-law-act building-act district-court-act,19,main
+2019-10-29,law,act-2018-050,criminal-procedure-act,7,main
+2019-10-29,law,act-2018-051,human-rights-act fair-trading-act contract-and-commercial-law-act residential-tenancies-act consumer-guarantees-act credit-contracts-and-consumer-finance-act copyright-act,18,main
+2019-10-29,law,act-2019-059,resource-management-act,1,main
+2019-10-29,unexplained,,human-rights-act,1,main
+2019-10-29,unexplained,,residential-tenancies-act,2,main
+2019-10-29,unexplained,,resource-management-act,1,main
+2019-11-17,law,act-2019-068,companies-act,1,main
+2019-12-17,law,act-2019-027,building-act,67,main
+2019-12-20,law,act-2012-044,official-information-act,1,main
+2019-12-20,law,act-2019-081,credit-contracts-and-consumer-finance-act,27,main
+2020-01-01,law,act-2019-033,land-transfer-act,3,main
+2020-01-01,law,act-2019-072,electoral-act,12,main
+2020-01-04,law,act-2019-043,copyright-act,9,main
+2020-01-13,law,act-2019-062,companies-act fair-trading-act insolvency-act credit-contracts-and-consumer-finance-act,76,main
+2020-01-13,law,act-2019-063,employment-relations-act holidays-act,7,main
+2020-01-17,law,li-2019-0331,local-government-act,1,main
+2020-03-11,law,act-2020-002,electoral-act,19,main
+2020-03-24,law,act-2020-006,crimes-act official-information-act,7,main
+2020-03-24,unexplained,,crimes-act,1,main
+2020-03-26,law,act-2020-009,local-government-act residential-tenancies-act,3,main
+2020-04-01,law,act-2019-072,electoral-act,2,main
+2020-04-01,law,act-2020-001,electoral-act residential-tenancies-act building-act,3,main
+2020-04-03,law,act-2019-066,official-information-act,1,main
+2020-04-30,law,act-2020-010,credit-contracts-and-consumer-finance-act,1,main
+2020-05-01,law,act-2019-081,credit-contracts-and-consumer-finance-act,17,main
+2020-05-16,law,act-2020-013,companies-act resource-management-act local-government-act property-law-act contract-and-commercial-law-act insolvency-act credit-contracts-and-consumer-finance-act commerce-act,53,main
+2020-05-16,unexplained,,companies-act,1,main
+2020-06-01,law,act-2019-081,fair-trading-act credit-contracts-and-consumer-finance-act,19,main
+2020-06-27,law,act-2019-036,employment-relations-act,8,main
+2020-06-30,law,act-2020-026,electoral-act,10,main
+2020-07-01,law,act-2019-056,senior-courts-act district-court-act,6,main
+2020-07-01,law,act-2019-066,crimes-act,2,main
+2020-07-01,law,act-2020-017,care-of-children-act,3,main
+2020-07-01,law,act-2020-030,resource-management-act district-court-act,111,main
+2020-07-01,law,li-2020-0092,electoral-act,4,main
+2020-07-01,unexplained,,care-of-children-act,1,main
+2020-07-02,law,act-2020-034,electoral-act,7,main
+2020-08-01,law,act-2002-084,local-government-act,2,main
+2020-08-01,law,act-2020-038,crimes-act official-information-act employment-relations-act local-government-act human-rights-act contract-and-commercial-law-act health-and-safety-at-work-act electoral-act residential-tenancies-act building-act family-violence-act copyright-act,20,main
+2020-08-07,law,act-2020-040,crimes-act official-information-act employment-relations-act companies-act resource-management-act local-government-act human-rights-act health-and-safety-at-work-act electoral-act residential-tenancies-act care-of-children-act land-transfer-act insolvency-act family-proceedings-act building-act family-violence-act senior-courts-act district-court-act commerce-act copyright-act,72,main
+2020-08-07,law,act-2020-042,resource-management-act local-government-act,8,main
+2020-08-07,law,act-2020-047,companies-act resource-management-act local-government-act property-law-act,17,main
+2020-08-07,law,act-2020-050,employment-relations-act,4,main
+2020-08-07,law,act-2020-053,crimes-act,1,main
+2020-08-07,law,act-2020-058,local-government-act,2,main
+2020-08-12,law,act-2020-059,residential-tenancies-act,9,main
+2020-08-12,unexplained,,residential-tenancies-act,1,main
+2020-08-26,law,act-2019-044,crimes-act employment-relations-act resource-management-act human-rights-act criminal-procedure-act electoral-act senior-courts-act district-court-act,25,main
+2020-08-31,law,li-2020-0171,building-act,1,main
+2020-09-01,law,act-2019-028,companies-act,71,main
+2020-09-25,law,li-2020-0260,building-act,1,main
+2020-09-30,law,act-2020-030,resource-management-act,14,main
+2020-09-30,unexplained,,resource-management-act,1,main
+2020-10-01,law,act-2002-084,local-government-act,4,main
+2020-10-01,law,act-2019-081,credit-contracts-and-consumer-finance-act,1,main
+2020-11-01,law,act-2002-084,local-government-act,1,main
+2020-11-06,law,act-2020-045,employment-relations-act,9,main
+2020-12-01,law,act-2020-031,official-information-act employment-relations-act companies-act local-government-act human-rights-act fair-trading-act sentencing-act health-and-safety-at-work-act electoral-act residential-tenancies-act insolvency-act building-act family-violence-act senior-courts-act district-court-act,39,main
+2020-12-09,start,,privacy-act,228,main
+2021-01-30,law,act-2019-037,residential-tenancies-act,20,main
+2021-01-30,law,act-2019-038,official-information-act companies-act property-law-act contract-and-commercial-law-act care-of-children-act insolvency-act arbitration-act limitation-act,19,main
+2021-02-01,law,act-2002-084,local-government-act,2,main
+2021-02-09,law,act-2020-032,official-information-act,1,main
+2021-02-11,law,act-2020-059,residential-tenancies-act,93,main
+2021-03-14,law,act-2019-046,fair-trading-act,1,main
+2021-03-15,law,act-2019-008,credit-contracts-and-consumer-finance-act,1,main
+2021-03-30,law,act-2021-008,companies-act land-transfer-act,9,main
+2021-03-31,law,act-2021-010,holidays-act,2,main
+2021-04-01,law,act-2020-048,privacy-act criminal-procedure-act sentencing-act,3,main
+2021-04-08,law,act-2019-009,commerce-act,13,main
+2021-04-13,law,act-2021-011,resource-management-act,1,main
+2021-04-13,law,act-2021-012,local-government-act,1,main
+2021-06-01,law,act-2019-081,credit-contracts-and-consumer-finance-act,22,main
+2021-06-08,law,act-2021-021,building-act,42,main
+2021-07-01,law,act-2002-084,local-government-act,1,main
+2021-07-01,law,act-2017-005,contract-and-commercial-law-act,4,main
+2021-07-01,law,act-2020-004,electoral-act,2,main
+2021-07-01,law,act-2021-012,local-government-act,1,main
+2021-07-01,law,li-2021-0058,employment-relations-act,1,main
+2021-07-01,law,li-2021-0125,electoral-act,4,main
+2021-07-01,unexplained,,employment-relations-act,2,main
+2021-07-06,law,act-2021-027,district-court-act,2,main
+2021-07-13,law,act-2021-029,local-government-act,2,main
+2021-07-13,unexplained,,local-government-act,1,main
+2021-07-24,law,act-2021-018,holidays-act,3,main
+2021-08-11,law,act-2020-059,residential-tenancies-act,12,main
+2021-08-11,unexplained,,residential-tenancies-act,1,main
+2021-08-17,law,act-2021-032,fair-trading-act,5,main
+2021-09-30,law,li-2021-0256,companies-act,1,main
+2021-09-30,law,li-2021-0257,insolvency-act,1,main
+2021-10-01,law,act-2019-081,credit-contracts-and-consumer-finance-act,3,main
+2021-10-05,law,act-2021-037,crimes-act criminal-procedure-act sentencing-act,4,main
+2021-10-08,law,li-2021-0300,privacy-act,1,main
+2021-10-28,start,,legislation-act,143,main
+2021-10-28,law,act-2019-059,interpretation-act,43,main
+2021-10-28,law,act-2021-007,privacy-act crimes-act official-information-act employment-relations-act companies-act resource-management-act local-government-act human-rights-act fair-trading-act evidence-act criminal-procedure-act sentencing-act property-law-act contract-and-commercial-law-act health-and-safety-at-work-act electoral-act residential-tenancies-act property-relationships-act holidays-act care-of-children-act land-transfer-act insolvency-act family-proceedings-act building-act credit-contracts-and-consumer-finance-act family-violence-act wills-act senior-courts-act district-court-act commerce-act unsolicited-electronic-messages-act copyright-act,266,main
+2021-10-28,law,li-2021-0247,local-government-act commerce-act,5,main
+2021-10-28,law,sl-2021-0247,privacy-act,3,main
+2021-11-03,law,act-2021-042,resource-management-act criminal-procedure-act property-law-act residential-tenancies-act credit-contracts-and-consumer-finance-act,15,main
+2021-11-06,law,act-2019-067,crimes-act,3,main
+2021-11-12,law,act-2017-030,land-transfer-act,1,main
+2021-11-15,law,act-2021-036,resource-management-act local-government-act building-act,14,main
+2021-11-26,law,act-2021-049,resource-management-act,1,main
+2021-11-26,law,act-2021-051,employment-relations-act,3,main
+2021-12-01,law,act-2019-081,credit-contracts-and-consumer-finance-act,14,main
+2021-12-14,law,act-2021-054,resource-management-act,1,main
+2021-12-21,law,act-2021-059,resource-management-act,39,main
+2021-12-21,law,act-2021-060,evidence-act criminal-procedure-act,13,main
+2022-01-01,law,act-2003-052,credit-contracts-and-consumer-finance-act,1,main
+2022-01-01,law,li-2021-0307,companies-act,1,main
+2022-03-12,law,act-2022-006,companies-act,1,main
+2022-03-19,law,act-2022-007,resource-management-act,1,main
+2022-03-31,law,act-2022-009,resource-management-act,1,main
+2022-04-06,law,act-2022-011,commerce-act,1,main
+2022-04-12,law,act-2022-014,privacy-act official-information-act companies-act resource-management-act local-government-act criminal-procedure-act sentencing-act property-law-act electoral-act residential-tenancies-act holidays-act land-transfer-act building-act legislation-act credit-contracts-and-consumer-finance-act senior-courts-act district-court-act commerce-act copyright-act,20,main
+2022-04-12,unexplained,,legislation-act,1,main
+2022-04-12,unexplained,,resource-management-act,1,main
+2022-04-21,law,act-2022-016,criminal-procedure-act,2,main
+2022-05-05,law,act-2022-011,fair-trading-act commerce-act,12,main
+2022-05-10,law,act-2022-018,human-rights-act,2,main
+2022-05-25,law,act-2022-027,companies-act,1,main
+2022-06-01,law,act-1993-105,companies-act,5,main
+2022-06-17,law,sl-2022-0142,privacy-act,1,main
+2022-06-30,law,act-2022-035,commerce-act,5,main
+2022-07-01,law,act-2021-031,companies-act evidence-act property-law-act electoral-act insolvency-act legislation-act limitation-act,14,main
+2022-07-01,law,act-2022-020,employment-relations-act human-rights-act,5,main
+2022-07-01,law,act-2022-030,privacy-act employment-relations-act family-violence-act,6,main
+2022-07-01,law,sl-2022-0153,electoral-act,4,main
+2022-07-01,unexplained,,legislation-act,1,main
+2022-08-16,law,act-2021-032,fair-trading-act,17,main
+2022-08-16,law,act-2022-040,evidence-act criminal-procedure-act sentencing-act,17,main
+2022-08-18,law,act-2022-001,human-rights-act,1,main
+2022-08-30,law,act-2022-045,bill-of-rights-act human-rights-act,5,main
+2022-09-01,law,act-2022-039,privacy-act official-information-act companies-act local-government-act electoral-act land-transfer-act insolvency-act legislation-act senior-courts-act district-court-act commerce-act,25,main
+2022-09-01,law,act-2022-046,commerce-act,1,main
+2022-09-07,law,act-2021-021,building-act,117,main
+2022-09-28,law,act-2022-050,resource-management-act,1,main
+2022-10-05,law,act-2022-011,commerce-act,1,main
+2022-10-20,law,act-2002-084,local-government-act,1,main
+2022-10-20,law,act-2007-091,property-law-act,5,main
+2022-10-27,law,act-2021-039,companies-act,1,main
+2022-11-15,law,act-2022-041,privacy-act evidence-act sentencing-act,3,main
+2022-11-20,law,act-2022-024,local-government-act,11,main
+2022-11-26,law,act-2022-066,residential-tenancies-act,3,main
+2022-11-29,law,act-1993-105,legislation-act,1,main
+2022-11-29,law,act-2022-070,companies-act,8,main
+2022-11-30,law,act-2020-030,resource-management-act,7,main
+2022-11-30,law,act-2022-075,privacy-act resource-management-act evidence-act residential-tenancies-act care-of-children-act legislation-act family-violence-act senior-courts-act,21,main
+2022-12-01,law,act-2017-005,contract-and-commercial-law-act,5,main
+2022-12-01,law,act-2022-058,employment-relations-act holidays-act,14,main
+2022-12-01,law,act-2022-074,resource-management-act human-rights-act residential-tenancies-act district-court-act,14,main
+2022-12-13,law,act-2021-055,criminal-procedure-act,1,main
+2022-12-15,law,act-2022-077,local-government-act,4,main
+2022-12-17,law,act-2022-078,resource-management-act,1,main
+2022-12-21,law,act-2021-060,evidence-act criminal-procedure-act,30,main
+2022-12-30,law,act-2022-052,employment-relations-act,5,main
+2023-01-01,law,act-2002-084,local-government-act,1,main
+2023-01-01,law,act-2022-080,electoral-act,39,main
+2023-02-01,law,act-2002-084,local-government-act,1,main
+2023-03-11,law,act-2022-005,sentencing-act legislation-act,2,main
+2023-03-21,law,act-2023-004,resource-management-act local-government-act,12,main
+2023-03-31,law,act-2022-062,electoral-act,15,main
+2023-03-31,law,act-2022-080,electoral-act,1,main
+2023-03-31,law,act-2023-005,residential-tenancies-act,3,main
+2023-04-01,law,act-2023-005,companies-act insolvency-act,2,main
+2023-04-05,law,act-2022-011,commerce-act,30,main
+2023-04-05,law,act-2023-007,crimes-act sentencing-act,3,main
+2023-04-05,law,act-2023-008,crimes-act health-and-safety-at-work-act,2,main
+2023-04-06,law,act-2023-014,legislation-act,1,main
+2023-04-06,unexplained,,legislation-act,1,main
+2023-04-13,law,act-2023-016,crimes-act,1,main
+2023-04-13,law,act-2023-017,resource-management-act local-government-act,8,main
+2023-04-20,law,act-1986-005,commerce-act,5,main
+2023-04-20,law,act-2020-013,property-law-act,15,main
+2023-04-20,law,sl-2023-0043,privacy-act,1,main
+2023-05-01,law,act-2022-043,official-information-act,1,main
+2023-05-31,law,act-2022-059,copyright-act,1,main
+2023-06-13,law,act-2023-028,employment-relations-act,6,main
+2023-06-13,law,act-2023-030,health-and-safety-at-work-act,3,main
+2023-06-15,law,act-2021-057,privacy-act electoral-act holidays-act care-of-children-act family-proceedings-act,13,main
+2023-07-01,law,act-1993-105,companies-act,1,main
+2023-07-01,law,sl-2023-0080,privacy-act,1,main
+2023-07-01,law,sl-2023-0096,electoral-act,4,main
+2023-07-10,law,act-2023-031,fair-trading-act commerce-act,15,main
+2023-07-27,law,act-2023-006,sentencing-act,1,main
+2023-08-04,law,act-2023-043,companies-act,1,main
+2023-08-16,law,act-2021-033,care-of-children-act,6,main
+2023-08-23,law,act-2023-044,local-government-act,1,main
+2023-08-24,law,act-2023-046,resource-management-act contract-and-commercial-law-act health-and-safety-at-work-act legislation-act,37,main
+2023-08-31,law,act-2023-052,local-government-act,1,main
+2023-08-31,law,act-2023-057,local-government-act,11,main
+2023-10-01,law,act-2002-084,local-government-act,6,main
+2023-10-06,law,act-2023-025,property-relationships-act care-of-children-act family-proceedings-act family-violence-act,47,main
+2023-11-01,law,act-2023-062,privacy-act,1,main
+2023-11-28,law,act-2022-072,employment-relations-act evidence-act criminal-procedure-act health-and-safety-at-work-act,31,main
+2023-12-06,law,act-2023-024,privacy-act,1,main
+2023-12-06,unexplained,,privacy-act,1,main
+2023-12-09,law,act-2022-080,electoral-act,1,main
+2023-12-20,law,act-2023-065,employment-relations-act holidays-act,14,main
+2023-12-23,law,act-2023-068,resource-management-act local-government-act contract-and-commercial-law-act health-and-safety-at-work-act legislation-act,27,main
+2023-12-23,law,act-2023-069,employment-relations-act,2,main
+2024-01-06,law,act-2023-036,employment-relations-act companies-act,13,main
+2024-02-17,law,act-2024-002,resource-management-act local-government-act commerce-act,9,main
+2024-03-01,law,act-2021-013,companies-act,4,main
+2024-03-01,law,act-2023-062,sentencing-act,8,main
+2024-04-02,law,act-1991-069,resource-management-act,6,main
+2024-06-05,law,act-2024-015,resource-management-act,1,main
+2024-06-06,law,sl-2024-0059,privacy-act,1,main
+2024-06-30,law,act-1986-005,commerce-act,1,main
+2024-06-30,law,act-2024-005,privacy-act employment-relations-act family-violence-act,4,main
+2024-06-30,law,act-2024-025,legislation-act,1,main
+2024-07-01,law,act-2023-001,privacy-act,1,main
+2024-07-01,law,act-2023-048,human-rights-act,1,main
+2024-07-01,law,act-2024-009,local-government-act legislation-act,5,main
+2024-07-01,law,sl-2024-0077,electoral-act,4,main
+2024-08-01,law,pco-editorial,property-law-act,1,main
+2024-08-08,law,pco-editorial,resource-management-act,1,main
+2024-08-16,law,pco-editorial,commerce-act,1,main
+2024-09-03,law,act-2024-032,resource-management-act,16,main
+2024-09-03,law,act-2024-033,criminal-procedure-act,2,main
+2024-09-30,law,sl-2024-0170,insolvency-act,1,main
+2024-09-30,law,sl-2024-0176,companies-act,1,main
+2024-10-01,law,act-1991-069,resource-management-act,1,main
+2024-10-01,law,act-2023-057,local-government-act,1,main
+2024-10-01,law,act-2024-041,crimes-act criminal-procedure-act,2,main
+2024-10-02,law,act-1991-069,resource-management-act,4,main
+2024-10-25,law,act-2024-043,resource-management-act,31,main
+2024-11-01,law,pco-editorial,family-violence-act,1,main
+2024-11-05,law,pco-editorial,electoral-act district-court-act,3,main
+2024-11-16,law,act-2024-047,fair-trading-act,1,main
+2024-11-21,law,act-2024-037,sentencing-act,2,main
+2024-11-26,law,act-2000-024,employment-relations-act,2,main
+2024-11-26,law,act-2011-081,criminal-procedure-act,2,main
+2024-11-26,law,act-2024-049,building-act,32,main
+2024-12-18,law,act-2024-052,residential-tenancies-act,4,main
+2024-12-24,law,act-2024-056,official-information-act,1,main
+2025-01-26,law,act-2023-042,privacy-act official-information-act,3,main
+2025-01-30,law,act-2024-052,residential-tenancies-act,15,main
+2025-03-02,law,act-2024-034,sentencing-act,1,main
+2025-03-13,law,act-2025-005,resource-management-act,1,main
+2025-03-13,law,act-2025-006,district-court-act,1,main
+2025-03-14,law,act-2025-008,crimes-act,2,main
+2025-03-20,law,act-2024-052,residential-tenancies-act,12,main
+2025-03-30,law,act-2025-009,local-government-act,1,main
+2025-03-30,law,act-2025-010,employment-relations-act health-and-safety-at-work-act,10,main
+2025-03-30,law,act-2025-011,contract-and-commercial-law-act,3,main
+2025-03-30,law,act-2025-014,privacy-act,2,main
+2025-04-01,law,act-2025-010,health-and-safety-at-work-act,1,main
+2025-04-05,law,act-2023-010,crimes-act official-information-act companies-act resource-management-act local-government-act property-law-act health-and-safety-at-work-act insolvency-act legislation-act commerce-act,15,main
+2025-04-08,law,act-2025-019,building-act,12,main
+2025-05-08,law,pco-editorial,privacy-act,1,main
+2025-05-09,law,pco-editorial,commerce-act,1,main
+2025-05-13,law,pco-editorial,privacy-act,1,main
+2025-05-14,law,act-2025-021,employment-relations-act,2,main
+2025-06-17,law,act-2024-054,evidence-act criminal-procedure-act sentencing-act,26,main
+2025-06-29,law,act-2025-013,sentencing-act,34,main
+2025-07-01,law,act-2023-035,companies-act,1,main
+2025-07-01,law,act-2024-031,local-government-act legislation-act,10,main
+2025-07-01,law,act-2025-035,employment-relations-act,15,main
+2025-07-01,law,sl-2025-0119,electoral-act,4,main
+2025-07-18,law,pco-editorial,employment-relations-act,1,main
+2025-07-29,law,pco-editorial,residential-tenancies-act,1,main
+2025-07-31,law,act-2025-039,crimes-act,8,main
+2025-08-08,law,act-2025-019,building-act,9,main
+2025-08-21,law,act-2025-041,resource-management-act,108,main
+2025-08-21,law,act-2025-043,commerce-act,1,main
+2025-08-27,law,act-2025-043,resource-management-act local-government-act commerce-act,171,main
+2025-08-27,law,act-2025-045,employment-relations-act,3,main
+2025-08-27,law,act-2025-046,resource-management-act,2,main
+2025-09-24,law,act-2025-053,privacy-act,5,main
+2025-10-17,law,act-2024-042,family-proceedings-act,8,main
+2025-10-20,law,act-2025-041,resource-management-act,8,main
+2025-10-22,law,act-2025-056,building-act,1,main
+2025-10-23,law,sl-2025-0216,building-act,1,main
+2025-10-25,law,act-2025-057,crimes-act,1,main
+2025-10-25,law,act-2025-059,building-act,3,main
+2025-10-30,law,act-2025-036,crimes-act criminal-procedure-act,5,main
+2025-11-13,law,act-2025-061,resource-management-act,1,main
+2025-11-13,law,act-2025-063,constitution-act privacy-act employment-relations-act electoral-act legislation-act copyright-act,9,main
+2025-11-13,unexplained,,constitution-act,1,main
+2025-11-27,law,act-2025-071,privacy-act crimes-act human-rights-act fair-trading-act criminal-procedure-act commerce-act,19,main
+2025-11-27,law,act-2025-074,privacy-act local-government-act electoral-act land-transfer-act building-act credit-contracts-and-consumer-finance-act,26,main
+2025-11-27,law,pco-editorial,privacy-act,1,main
+2025-11-27,unexplained,,crimes-act,6,main
+2025-12-01,law,act-2024-052,residential-tenancies-act,23,main
+2025-12-15,law,act-2025-012,criminal-procedure-act,1,main
+2025-12-17,law,act-2025-077,resource-management-act,2,main
+2025-12-20,law,act-2025-082,electoral-act,133,main
+2026-01-01,law,act-2025-082,electoral-act,12,main
+2026-01-15,law,act-2025-059,local-government-act building-act,29,main
+2026-01-24,law,act-2025-060,fair-trading-act contract-and-commercial-law-act consumer-guarantees-act credit-contracts-and-consumer-finance-act,5,main
+2026-02-01,law,act-2025-085,criminal-procedure-act senior-courts-act,11,main
+2026-02-10,law,act-2026-002,resource-management-act,1,main
+2026-02-17,law,act-2025-002,care-of-children-act family-proceedings-act senior-courts-act district-court-act,6,main
+2026-02-21,law,act-2026-004,employment-relations-act,20,main
+2026-02-26,law,act-2025-044,evidence-act,6,main
+2026-03-11,law,pco-editorial,human-rights-act consumer-guarantees-act,2,main
+2026-03-12,law,pco-editorial,local-government-act,1,main
+2026-03-16,law,act-2024-035,fair-trading-act,8,main
+2026-03-17,law,act-2026-007,legislation-act,16,main
+2026-03-17,law,pco-editorial,employment-relations-act,1,main
+2026-04-02,law,act-2026-010,resource-management-act,1,main
+2026-04-03,law,act-2026-010,resource-management-act,3,main
+2026-04-05,law,act-2022-012,employment-relations-act property-law-act insolvency-act,9,main
+2026-05-01,law,act-2025-053,privacy-act,6,main
+2026-05-07,law,act-2026-015,local-government-act,1,main
+2026-05-08,law,pco-editorial,employment-relations-act,1,main
+2026-05-19,law,act-2026-020,resource-management-act,1,main
+2026-05-26,law,act-2025-072,crimes-act sentencing-act family-violence-act,10,main
+2026-06-03,law,act-2026-023,employment-relations-act,1,main
+2026-06-06,law,act-2026-029,credit-contracts-and-consumer-finance-act,4,main
+2026-06-30,law,act-2026-024,building-act,10,main
+2026-07-01,law,act-2026-022,resource-management-act,3,main
+2026-07-01,law,act-2026-029,fair-trading-act,1,main
+2026-07-10,law,act-2026-039,resource-management-act,3,main
+2026-07-10,law,act-2026-045,constitution-act,2,main
+2026-08-08,law,act-2026-050,crimes-act,26,main
+2026-08-25,law,act-2026-052,resource-management-act,1,main
+2026-09-04,law,act-2026-053,constitution-act resource-management-act,6,main
+2026-09-12,law,act-2026-058,resource-management-act,1,main
