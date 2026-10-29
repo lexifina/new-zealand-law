@@ -145,17 +145,6 @@
    "restores": null,
    "note": null
   },
-  "act-2019-058": {
-   "label": "under sections 86(1) and 87(l)(i), (ii), and (iii) of the Legislation Act 2019",
-   "title": "under sections 86(1) and 87(l)(i), (ii), and (iii) of the Legislation Act 2019",
-   "kind": "law",
-   "enacted": null,
-   "published": null,
-   "url": "https://www.legislation.govt.nz/act/public/2019/58/en/latest/",
-   "temporary_until": null,
-   "restores": null,
-   "note": null
-  },
   "act-2020-031": {
    "label": "Privacy Act 2020",
    "title": "Privacy Act 2020",
@@ -223,8 +212,8 @@
    "note": null
   },
   "act-2022-014": {
-   "label": "wehenga 7 o Te Ture mō te Hararei Tūmatanui o te Kāhui o Matariki 2022/section 7 of the Te Kāhui o Matariki Public Holiday Act 2022",
-   "title": "wehenga 7 o Te Ture mō te Hararei Tūmatanui o te Kāhui o Matariki 2022/section 7 of the Te Kāhui o Matariki Public Holiday Act 2022",
+   "label": "Te Kāhui o Matariki Public Holiday Act 2022",
+   "title": "Te Kāhui o Matariki Public Holiday Act 2022",
    "kind": "law",
    "enacted": null,
    "published": null,
@@ -427,6 +416,17 @@
    "enacted": null,
    "published": null,
    "url": null,
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "pco-editorial": {
+   "label": "Editorial change by the Parliamentary Counsel Office (Legislation Act 2019, subpart 2 of Part 3)",
+   "title": "Editorial change by the Parliamentary Counsel Office (Legislation Act 2019, subpart 2 of Part 3)",
+   "kind": "publisher",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2019/58/en/latest/",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -2763,7 +2763,7 @@
      },
      "credits": {
       "sec-029": [
-       "act-2019-058"
+       "pco-editorial"
       ]
      },
      "note": "Words from the official consolidation as at 2025-11-27, dated by its history notes (no consolidation as at 2025-05-08 is archived)."
@@ -2781,7 +2781,7 @@
      },
      "credits": {
       "sec-208": [
-       "act-2019-058"
+       "pco-editorial"
       ]
      },
      "note": "Words from the official consolidation as at 2025-11-27, dated by its history notes (no consolidation as at 2025-05-13 is archived)."
@@ -2927,7 +2927,7 @@
      },
      "credits": {
       "sch-04": [
-       "act-2019-058"
+       "pco-editorial"
       ],
       "sec-022": [
        "act-2025-074"

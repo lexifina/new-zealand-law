@@ -227,6 +227,9 @@ def note_events(note: str) -> list[tuple[str, str, str, str]]:
     if not dm:
         return []
     d = iso(dm.group(1))
+    if 'editorial change' in note.lower():
+        return [(d, 'pco-editorial', 'Editorial change by the Parliamentary Counsel Office (Legislation Act 2019, '
+                 'subpart 2 of Part 3)', 'publisher')]
     rest = note[dm.end():]
     out = []
     def clean(s):
@@ -236,8 +239,8 @@ def note_events(note: str) -> list[tuple[str, str, str, str]]:
                    r'paragraphs?)\s+[\w().]+(?:(?:,| and| to)\s+[\w().]+)*\s+of\s+)?(?:the\s+)?', '', s.strip())
         if '/' in s:  # bilingual citation, "wehenga 7 o Te Ture ... 2022/section 7 of the ... Act 2022": English half
             s = s.rsplit('/', 1)[1]
-        if s[:1].islower() and re.search(r'of (?:the )?(?=[A-Z])', s):
-            s = re.split(r'of (?:the )?(?=[A-Z])', s, maxsplit=1)[1] if False else re.split(r'of (?:the )?(?=[A-Z])', s)[-1]
+        if s[:1].islower() and re.search(r'\bof (?:the )?(?=[A-Z])', s):
+            s = re.split(r'\bof (?:the )?(?=[A-Z])', s)[-1]
         return s.strip(' ,.')
     for m in LAW_RE.finditer(rest):
         name = clean(m.group(1))
@@ -315,7 +318,8 @@ def build_act(spec: dict, caps: list[dict], laws: dict, decisions: list, log: li
         d, key, label, kind = ev
         if key not in laws:
             y = key.split('-')[1]
-            url = f'{SITE}/act/public/{y}/{int(key.split("-")[2])}/en/latest/' if kind == 'law' else None
+            url = (f'{SITE}/act/public/{y}/{int(key.split("-")[2])}/en/latest/' if kind == 'law' else
+                   f'{SITE}/act/public/2019/58/en/latest/' if kind == 'publisher' else None)
             laws[key] = {'label': label, 'title': label, 'kind': kind, 'enacted': None, 'published': None,
                          'url': url, 'temporary_until': None, 'restores': None, 'note': None}
         return key
