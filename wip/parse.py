@@ -43,7 +43,8 @@ ACTS = [
     {'slug': 'constitution-act', 'short': 'Constitution Act', 'title': 'Constitution Act 1986', 'year': 1986, 'no': 114},
     {'slug': 'bill-of-rights-act', 'short': 'NZBORA', 'title': 'New Zealand Bill of Rights Act 1990', 'year': 1990,
      'no': 109},
-    {'slug': 'privacy-act', 'short': 'Privacy Act', 'title': 'Privacy Act 2020', 'year': 2020, 'no': 31},
+    {'slug': 'privacy-act', 'short': 'Privacy Act', 'title': 'Privacy Act 2020', 'year': 2020, 'no': 31,
+     'in_force': '2020-12-01'},
     {'slug': 'crimes-act', 'short': 'Crimes Act', 'title': 'Crimes Act 1961', 'year': 1961, 'no': 43},
 ]
 
@@ -147,8 +148,12 @@ def notes_of(el: Tag) -> list[str]:
 
 def parse_page(raw: bytes) -> dict:
     soup = BeautifulSoup(raw, 'lxml')
-    for t in soup.find_all(['script', 'style', 'noscript']):
+    for t in soup.find_all(['script', 'style', 'noscript', 'button']):
         t.decompose()
+    # site furniture and PCO editorial notes inside provisions: not law text
+    for cls in ('slInfoAlert', 'editorial-note', 'link-to-sl-button'):
+        for t in soup.find_all(class_=cls):
+            t.decompose()
     units, notes = {}, {}
 
     def add(key, label, kind, text, ns):
@@ -213,7 +218,7 @@ def parse_page(raw: bytes) -> dict:
 # ------------------------------------------------------------------ history notes -> (date, law)
 
 LAW_RE = re.compile(r"([^;]{1,200}?\d{4}) \((\d{4}) No (\d+)\)")
-SEC_RE = re.compile(r"([^;]{1,200}?) \((SR|LI) (\d{4})/(\d+)\)")
+SEC_RE = re.compile(r"([^;]{1,200}?) \((SR|LI|SL) (\d{4})/(\d+)\)")
 
 
 def note_events(note: str) -> list[tuple[str, str, str, str]]:
@@ -229,6 +234,10 @@ def note_events(note: str) -> list[tuple[str, str, str, str]]:
             s = (' ' + s)[(' ' + s).rfind(' by ') + 4:]
         s = re.sub(r'^(?:the )?(?:(?:sections?|ss?|clauses?|[Ss]chedules?|Parts?|subparts?|regulations?|rules?|items?|'
                    r'paragraphs?)\s+[\w().]+(?:(?:,| and| to)\s+[\w().]+)*\s+of\s+)?(?:the\s+)?', '', s.strip())
+        if '/' in s:  # bilingual citation, "wehenga 7 o Te Ture ... 2022/section 7 of the ... Act 2022": English half
+            s = s.rsplit('/', 1)[1]
+        if s[:1].islower() and re.search(r'of (?:the )?(?=[A-Z])', s):
+            s = re.split(r'of (?:the )?(?=[A-Z])', s, maxsplit=1)[1] if False else re.split(r'of (?:the )?(?=[A-Z])', s)[-1]
         return s.strip(' ,.')
     for m in LAW_RE.finditer(rest):
         name = clean(m.group(1))
@@ -259,6 +268,14 @@ def build_act(spec: dict, caps: list[dict], laws: dict, decisions: list, log: li
             by_date[c['as_at']] = c
     if not by_date:
         return None
+    floor = spec.get('in_force')
+    if floor:
+        early = sorted(d for d in by_date if d < floor)
+        if early:
+            decisions.append(f'{spec["title"]} came into force on {floor} (s 2); the PCO consolidations archived for '
+                             f'earlier dates ({", ".join(early)}) and the as-enacted pages show text not yet in force, '
+                             f'so the history starts with the first archived consolidation on or after {floor}.')
+        by_date = {d: c for d, c in by_date.items() if d >= floor}
     pages = []
     for d in sorted(by_date):
         c = by_date[d]

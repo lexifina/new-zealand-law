@@ -458,5 +458,487 @@
    "timestamp": "20261005094648",
    "url": "https://legislation.govt.nz/act/public/1986/114/en/latest/"
   }
+ ],
+ "privacy-act": [
+  {
+   "as_at": null,
+   "bytes": 1086268,
+   "kind": "old-latest",
+   "sha256": "c92829c3c3003c0a684ec2652dded2968b59f95cd8a637bd5a9c4e8c205ecb02",
+   "timestamp": "20200713020910",
+   "url": "http://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": null,
+   "bytes": 1048576,
+   "kind": "old-latest",
+   "sha256": "ab0adc02003b2e1c757b2d2571616c854407678c16ed96cc32f80fae5286375b",
+   "timestamp": "20200809045607",
+   "url": "http://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-08-07",
+   "bytes": 1048576,
+   "kind": "old-latest",
+   "sha256": "6eaa1218d4f537681ad283489f6f5d1bca7d69b39d9ed8601406526bc0a58c7c",
+   "timestamp": "20201021040818",
+   "url": "http://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-08-07",
+   "bytes": 1088699,
+   "kind": "old-latest",
+   "sha256": "502ab924b1f4100a206f5789d2177f5accb8af91be4a8b0bc3e2bc3ae8748c51",
+   "timestamp": "20201207153056",
+   "url": "http://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-08-07",
+   "bytes": 1088868,
+   "kind": "old-latest",
+   "sha256": "1a22e608aba1745fd9c9e1e227f5490848170d21b11ba8584689ff2513841477",
+   "timestamp": "20201212095240",
+   "url": "http://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-12-09",
+   "bytes": 874522,
+   "kind": "old-latest",
+   "sha256": "6b065d61a05136f8df12b3c153dbe798cbe6e5a03f8b5700c883fbdaddf08f7b",
+   "timestamp": "20210127220243",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-12-09",
+   "bytes": 875499,
+   "kind": "old-latest",
+   "sha256": "d3c2f5471ecb54e0e75d1207d261403226693398762bb28d8227fd8f1192626d",
+   "timestamp": "20210204235650",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-12-09",
+   "bytes": 875495,
+   "kind": "old-latest",
+   "sha256": "f3a8727230fb3d6cab3f60984676e35ab0aebeedfcccc96a8b010d1b3828c418",
+   "timestamp": "20210217051553",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-12-09",
+   "bytes": 915413,
+   "kind": "old-latest",
+   "sha256": "898680f526c1bb8496ff975b293bdbd40cb2e1b6cbe7422fb6bc4797326c1a6f",
+   "timestamp": "20210227064807",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_privacy+act+2020_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2021-04-01",
+   "bytes": 877951,
+   "kind": "old-latest",
+   "sha256": "24218bf7be6860a54a99688be83cb896288b2a6715d0e332d46125ae5caa670b",
+   "timestamp": "20210413224505",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2020-12-09",
+   "bytes": 873921,
+   "kind": "old-numbered",
+   "sha256": "9a5b5e5d46934e6a9b9e0dbf34f84d98a6b553191024eac2091e1f318a587d09",
+   "timestamp": "20210614091217",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/88.0/whole.html"
+  },
+  {
+   "as_at": "2020-08-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "e44b52a41e1e6eafb9cdd5d0cd561cc2a55229c182cc9372e47e7401a8cc998e",
+   "timestamp": "20210616085802",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/75.0/whole.html"
+  },
+  {
+   "as_at": null,
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "4d50cc96bb56603e887dfc3a76e18865b0af5d067d6f3afa7e8f3fbfced68888",
+   "timestamp": "20210619001622",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/72.0/whole.html"
+  },
+  {
+   "as_at": "2020-08-07",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "5e00ee8f236204267b99fad9d5d09d40312d462e52e58e3b298393a2f58e7e55",
+   "timestamp": "20210621203709",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/84.0/whole.html"
+  },
+  {
+   "as_at": "2021-04-01",
+   "bytes": 879344,
+   "kind": "old-latest",
+   "sha256": "0f7c3bcfc704133ac5a714ef77ad70a17820e5de214e9fcaf684b531e1d6564b",
+   "timestamp": "20210703041625",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2021-04-01",
+   "bytes": 879424,
+   "kind": "old-latest",
+   "sha256": "cd8710d64695549413b6ea0be31a34d931b63585393deb59d51a20afccf61c14",
+   "timestamp": "20210806181120",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2021-10-08",
+   "bytes": 879027,
+   "kind": "old-latest",
+   "sha256": "735ad2d641bb985155911c429290828920ace5deddd1cfb500456241ce5c6758",
+   "timestamp": "20211018042157",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2021-10-08",
+   "bytes": 880069,
+   "kind": "old-latest",
+   "sha256": "3620b86d60ef487c6b601785df159ce88c66dd8de1c19411708c9ef0af40f3ae",
+   "timestamp": "20211215213819",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2021-10-28",
+   "bytes": 932046,
+   "kind": "old-latest",
+   "sha256": "ee7cb70a6ddd253a29e146b3f9658b6300294e62ecd2b1e7ed2abd50fb566b13",
+   "timestamp": "20220121131323",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2021-10-28",
+   "bytes": 931077,
+   "kind": "old-latest",
+   "sha256": "5d1aaf872729da3a94062aa372eb09a056f1e2f33499f4b494271eabee9d7cd1",
+   "timestamp": "20220123130421",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2021-10-28",
+   "bytes": 931970,
+   "kind": "old-latest",
+   "sha256": "422905339958e95318ec786772b6179882d2d5c1980d3c2a062e7fbfb6722045",
+   "timestamp": "20220211170818",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-04-12",
+   "bytes": 932792,
+   "kind": "old-latest",
+   "sha256": "206cdda96819237a79fd6f78a8fbf5f4189559d971bd49f715ded5cd0eaec98c",
+   "timestamp": "20220517101308",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-06-17",
+   "bytes": 1027051,
+   "kind": "old-latest",
+   "sha256": "3c993fdc87c43c8eb8c204cef5eedadd5514f5d834d20442f76c9b895d1abde6",
+   "timestamp": "20220707104712",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=qs_act%40bill%40regulation%40deemedreg_privacy+act+2020_resel_25_h&p=1"
+  },
+  {
+   "as_at": "2022-09-01",
+   "bytes": 962522,
+   "kind": "old-latest",
+   "sha256": "45312bb08b1a070f24a9bc6cbbd193b28ea79b562ca039c6a767157b6402b6dc",
+   "timestamp": "20221001071922",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-09-01",
+   "bytes": 963499,
+   "kind": "old-latest",
+   "sha256": "109e2006e38416f384b5beb1011113c6410c02b910685980f015c648dd0e6a7b",
+   "timestamp": "20221014191815",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-09-01",
+   "bytes": 962526,
+   "kind": "old-latest",
+   "sha256": "9fab4df8b3c3a1febf00559b3330edc07b4bf04c591485234f4fe06acfcc2d8a",
+   "timestamp": "20221104232129",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-11-15",
+   "bytes": 1003430,
+   "kind": "old-latest",
+   "sha256": "14dc694708397a44176a22096d18dc88c3d1196dcd3ef34e6dead90671f34a6e",
+   "timestamp": "20221123220350",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=sw_096be8ed81cc7093_consent_25_se&p=1"
+  },
+  {
+   "as_at": "2022-11-15",
+   "bytes": 1003501,
+   "kind": "old-latest",
+   "sha256": "2cd09d57fbcaf4369b3d30d3905059c3c0baab0ecd28db230d00057373f635d8",
+   "timestamp": "20221123220354",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?path=act%2Fpublic%2F2020%2F0031%2Flatest&col=act&fid=whole&search=sw_096be8ed81cc7093_consent_25_se&p=1"
+  },
+  {
+   "as_at": "2022-11-15",
+   "bytes": 967457,
+   "kind": "old-latest",
+   "sha256": "1832f83cdc2e98c41c10b143ea77ff4b9c86e9cf1a484d07791fbeb0fcac9b35",
+   "timestamp": "20221123220427",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-11-30",
+   "bytes": 1026230,
+   "kind": "old-latest",
+   "sha256": "864c4f08db2877fd3518d9c83c09c10b1525d6d4cb593705340d1bf5a7c4c044",
+   "timestamp": "20230126213448",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_privacy+ACt_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2022-11-30",
+   "bytes": 1023730,
+   "kind": "old-latest",
+   "sha256": "3d5961a8cf3e23d382d8c70328680b1874bae210581b38741968f8d05dc00df3",
+   "timestamp": "20230216154242",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_privacy_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2022-11-30",
+   "bytes": 975516,
+   "kind": "old-latest",
+   "sha256": "eedfcdacf882b013db3d5b4c234d54684354dca1eaae32b692df7ed61863410d",
+   "timestamp": "20230407015612",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2022-06-17",
+   "bytes": 957552,
+   "kind": "old-numbered",
+   "sha256": "63520dc57a56b57a0aacc3d3200c8e1b7bc8ebc85bd9afe4471b628348028ed9",
+   "timestamp": "20230604094632",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/103.0/whole.html"
+  },
+  {
+   "as_at": "2023-04-20",
+   "bytes": 980349,
+   "kind": "old-latest",
+   "sha256": "21daf8a8afc3a6e5e63235053dc6acdff82b21b468d2f6bc331f3c98b1f5d25d",
+   "timestamp": "20230626191620",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": null,
+   "bytes": 1088224,
+   "kind": "old-numbered",
+   "sha256": "70f2c9338c7e59f04f45eb8a739daef61fd5390faf2d1a760b29c7e5206e2757",
+   "timestamp": "20230701071325",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/69.0/whole.html"
+  },
+  {
+   "as_at": null,
+   "bytes": 1088954,
+   "kind": "old-numbered",
+   "sha256": "0622a210f2849b0f20efae94dc176a461bd8d11283ec46919735d5f15be79127",
+   "timestamp": "20230707101655",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/72.0/whole.html"
+  },
+  {
+   "as_at": "2023-07-01",
+   "bytes": 983292,
+   "kind": "old-latest",
+   "sha256": "74dbbb627f71efbe6f405179bd97e7394f2e72edca7ccec5b42fa67241f91a2c",
+   "timestamp": "20230918193807",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2023-12-06",
+   "bytes": 1016403,
+   "kind": "old-latest",
+   "sha256": "8663b2dea2ea3fd3308bf08d27e80ef4fe0f200ccf6e3ea1348b24dff2ba8d7f",
+   "timestamp": "20240313072107",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=sw_096be8ed81e0475e_defendant_25_se&p=1"
+  },
+  {
+   "as_at": "2024-06-06",
+   "bytes": 1038281,
+   "kind": "old-latest",
+   "sha256": "f906c915acbfa6583c669b061409a652afab6ae218767908c90cf37a56bebf2c",
+   "timestamp": "20240615040238",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_privacy+act+2020_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2024-06-06",
+   "bytes": 983060,
+   "kind": "old-latest",
+   "sha256": "795eea70ffb6b4fabb82eece881be7e9edea1caa59d72877447930995ecc33ec",
+   "timestamp": "20240624234257",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2024-07-01",
+   "bytes": 1025786,
+   "kind": "old-latest",
+   "sha256": "fcb5576fb292e1fa31932d19a879dc32a5eb665dbc10e2106f5921bb72097be2",
+   "timestamp": "20240810232029",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_privacy+ACt_"
+  },
+  {
+   "as_at": null,
+   "bytes": 1087257,
+   "kind": "old-numbered",
+   "sha256": "a8252231ea4528b56e52a542b0748d5ce445e02f87559d843d57a8c3993a075e",
+   "timestamp": "20240811130117",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/69.0/whole.html"
+  },
+  {
+   "as_at": "2024-07-01",
+   "bytes": 984999,
+   "kind": "old-latest",
+   "sha256": "1a6e150c313aab54062b38f09ba0e115ed1897c29daa2cdf9d56721d367906c5",
+   "timestamp": "20241108212031",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html"
+  },
+  {
+   "as_at": "2025-01-26",
+   "bytes": 1042573,
+   "kind": "old-latest",
+   "sha256": "93772b3ae7530e27465be6cfb237f4aac64f7c8c133c3a6cd94fc7bda5cc494b",
+   "timestamp": "20250218114626",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_privacy+act+2020_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2025-01-26",
+   "bytes": 1045260,
+   "kind": "old-latest",
+   "sha256": "da744f83dcfb64123dcd6294a8f975b36297a2f6e07fe322d0567c1246107bbe",
+   "timestamp": "20250405053304",
+   "url": "https://legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_Privacy+Act+2020_resel_25_a&p=1%2f"
+  },
+  {
+   "as_at": "2025-03-30",
+   "bytes": 1030029,
+   "kind": "old-latest",
+   "sha256": "933e1e8ef641709d278e532b05642288ff303c87510c5084906b1407bc760e21",
+   "timestamp": "20250502075814",
+   "url": "https://www.legislation.govt.nz/act/public/2020/0031/latest/whole.html?search=ta_act_P_ac%40ainf%40anif_an%40bn%40rn_25_a&p=3"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1213402,
+   "kind": "new-latest",
+   "sha256": "cedd0a1d9c5e2845db5d7eeb69e29b6d78e5a4a362a91530791c55e0f80004a2",
+   "timestamp": "20260309013407",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1213526,
+   "kind": "new-latest",
+   "sha256": "7f967991074c70c39370ea97b76fced8eb2957dca91f632ce59bcaa18e6a9252",
+   "timestamp": "20260312063450",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1213520,
+   "kind": "new-latest",
+   "sha256": "0cfd890f4365bd9a5a4f8a2338d211a2998f4cc332372b0febff94a2412bcf88",
+   "timestamp": "20260323071817",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/?active_tab=legislation_content"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1213347,
+   "kind": "new-latest",
+   "sha256": "ce0276bc3aa38496bf3e54302b640145bb56ff68329b20ae7e8a0d77b53466e5",
+   "timestamp": "20260327145751",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2026-05-01",
+   "bytes": 1248520,
+   "kind": "new-latest",
+   "sha256": "cab405e76e6e59c1fc01f6d8f9037a691bcdb2dc3b5bc4397402d2690b48ffd9",
+   "timestamp": "20260514232710",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2026-05-01",
+   "bytes": 1280476,
+   "kind": "new-latest",
+   "sha256": "11ca5469f5de193b281ac94e8b58d7954dfd3b982025a79a925186a91140df6e",
+   "timestamp": "20260525052133",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": null,
+   "bytes": 0,
+   "kind": "new-latest",
+   "sha256": null,
+   "timestamp": "20260602083626",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": null,
+   "bytes": 0,
+   "kind": "new-latest",
+   "sha256": null,
+   "timestamp": "20260605192858",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": null,
+   "bytes": 0,
+   "kind": "new-latest",
+   "sha256": null,
+   "timestamp": "20260605214836",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": null,
+   "bytes": 0,
+   "kind": "new-latest",
+   "sha256": null,
+   "timestamp": "20260710231437",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2024-07-01",
+   "bytes": 1234763,
+   "kind": "new-dated",
+   "sha256": "33158e64440b9f153e10f4cef8f39a09b5a6ea5cc18774e1692786100dfae5df",
+   "timestamp": "20260711212343",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/2024-07-01/"
+  },
+  {
+   "as_at": null,
+   "bytes": 0,
+   "kind": "new-latest",
+   "sha256": null,
+   "timestamp": "20260712004155",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2026-05-01",
+   "bytes": 1280459,
+   "kind": "new-latest",
+   "sha256": "5a728af06a0ca9ae2e50476ba0b06d1ab0c3a9ec2cb5a040fe0a6bacd44c0494",
+   "timestamp": "20260712054525",
+   "url": "https://legislation.govt.nz/act/public/2020/31/en/latest/"
+  },
+  {
+   "as_at": "2026-05-01",
+   "bytes": 1292431,
+   "kind": "new-latest",
+   "sha256": "26d9a0dd61fa3ab75bccdd69ab9cd85fc848d73c8d66a056f20b4882b0ac636c",
+   "timestamp": "20260926101200",
+   "url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/"
+  }
  ]
 }
