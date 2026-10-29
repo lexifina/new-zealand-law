@@ -1,0 +1,462 @@
+{
+ "bill-of-rights-act": [
+  {
+   "as_at": "2007-09-03",
+   "bytes": 42442,
+   "kind": "old-latest",
+   "sha256": "a02e7606586a3c7876f90e577553021f12547912060a89e9df70cbdc970f8895",
+   "timestamp": "20081021031807",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2007-09-03",
+   "bytes": 41803,
+   "kind": "old-latest",
+   "sha256": "3a30d5c3e7caf1a9b2eddfe3e86e6401057b7ada7bdfe5a9bda2437954c5ebb4",
+   "timestamp": "20101015080156",
+   "url": "http://www.legislation.govt.nz:80/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2007-09-03",
+   "bytes": 42419,
+   "kind": "old-latest",
+   "sha256": "f9f19d4f880a12d678c2970102f737263621148df5764de4af744bae2cea241f",
+   "timestamp": "20110410152824",
+   "url": "http://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 50309,
+   "kind": "old-latest",
+   "sha256": "e37540aa05e3b3f5a64631ef9123be1cb3bf09587a0a7d56d14205af63b1efe1",
+   "timestamp": "20110716074608",
+   "url": "http://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 50313,
+   "kind": "old-latest",
+   "sha256": "566a24ba04ddeb460c564b31db6cf6f39d49ba6784e0c01ec26f6e6b54a1ca64",
+   "timestamp": "20110808162321",
+   "url": "http://www.legislation.govt.nz:80/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 52575,
+   "kind": "old-latest",
+   "sha256": "4f172a492e4148c15f824b01847913f7be014e6876494c7cedccff5921a60bbc",
+   "timestamp": "20120404204721",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html?search=ts_act_new+zealand+bill+of+rights_resel&p=1"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 59153,
+   "kind": "old-latest",
+   "sha256": "d32181af29558a915932e87c23700ce47e6c7f0de9c3593bb9ef4eb2ed751c33",
+   "timestamp": "20121005185848",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html?search=ts_act_new+zealand+bill+of+rights_resel&p=1"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 58009,
+   "kind": "old-latest",
+   "sha256": "bf851a838bbb065772cc073cda7a8072c9e7970cca96b8d6137bb064e3abdcb2",
+   "timestamp": "20121122150452",
+   "url": "http://legislation.govt.nz:80/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 58038,
+   "kind": "old-latest",
+   "sha256": "a80f04ccaed67c95164501e332a4f3626af4e0910ade3f4522dba3d93f033186",
+   "timestamp": "20130219155429",
+   "url": "http://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 58719,
+   "kind": "old-latest",
+   "sha256": "5cb1d5d6a8faf438f4639c5d33e7ad515a2cf6d5c255ac21c3b2f46d1b0545de",
+   "timestamp": "20130506161514",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 59740,
+   "kind": "old-latest",
+   "sha256": "96ea8fa5257e67bf28e2ad350093b7bf35cdb0004fa9eeb0a5d9cb1a0adeb59e",
+   "timestamp": "20130723065403",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html?search=ts_act_bill+of+rights+act_resel&p=1"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 58767,
+   "kind": "old-latest",
+   "sha256": "495c55ce48a0384cdbec125250bf01ee2d333b8f0df88e6700416395564b825e",
+   "timestamp": "20130812022319",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 59894,
+   "kind": "old-latest",
+   "sha256": "f415b05154a54279a648e51a4200788c625efd45f8fe55cfc293a12f5eec75aa",
+   "timestamp": "20150210225644",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 58889,
+   "kind": "old-latest",
+   "sha256": "7f8cfddcc3e468aacb4fdb8991397b7287333555e02c2ea9d307b83b8f2bae18",
+   "timestamp": "20160613091229",
+   "url": "http://www.legislation.govt.nz:80/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 59686,
+   "kind": "old-numbered",
+   "sha256": "f093049b7f2a3d0f8e370971bd32e0e2aad52355c567e10a772548dcace53c3c",
+   "timestamp": "20190214142601",
+   "url": "http://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 59678,
+   "kind": "old-numbered",
+   "sha256": "ab7a301e51a828725ca252f7c2f229921b002102c050a842c4552897786195c6",
+   "timestamp": "20200130194215",
+   "url": "http://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 59678,
+   "kind": "old-numbered",
+   "sha256": "a24b75ccfcf427faf2e3c1e6c21ca19bab65b4229d61d7f7f488796e0efd49bc",
+   "timestamp": "20200130194216",
+   "url": "http://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 59873,
+   "kind": "old-latest",
+   "sha256": "f1a721d2437a25913b25867382d597249fa294517eed7dc8ce0bcb5674ddb488",
+   "timestamp": "20200411180750",
+   "url": "http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 59678,
+   "kind": "old-numbered",
+   "sha256": "468a4c4ba375ce76fb8ddee1067454d37eec0bc6ab7fe94433fc55d29320c9dd",
+   "timestamp": "20210208070633",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 59678,
+   "kind": "old-numbered",
+   "sha256": "7538810add0a340d433e4f823103e3c19156045922d98f6fd94a4c43e23d6870",
+   "timestamp": "20210208070634",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 60261,
+   "kind": "old-latest",
+   "sha256": "e6214dec59990ad9136819f5346f1f2aad60b5ca45c344b03c9ecda53e1164c5",
+   "timestamp": "20220126194302",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 60078,
+   "kind": "old-numbered",
+   "sha256": "8b7b3a74a1ab7504cc29030566d6e6f44fe4ab8ef3c5d4d5cc478c84109c22ff",
+   "timestamp": "20220206030509",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 60078,
+   "kind": "old-numbered",
+   "sha256": "230f1899844bd87ec134fbee8c68db9d4be485787d8640387256d563f8a4f793",
+   "timestamp": "20220206030510",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 60261,
+   "kind": "old-latest",
+   "sha256": "a1df2182c300439ebc7357912e981009b578d0a194162468e270cfb36d8f496f",
+   "timestamp": "20220401125029",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 70160,
+   "kind": "old-latest",
+   "sha256": "389c50654c59fafc735dc4c3209dcb29e4bbd4d65b31aae58c3534a6964358ba",
+   "timestamp": "20220911023029",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 70164,
+   "kind": "old-latest",
+   "sha256": "e42a9f0f5d410616e2aa8ed68d0712739a76890610460e7ab6f2fb0fe74e7f00",
+   "timestamp": "20220911064208",
+   "url": "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2022-08-30",
+   "bytes": 68420,
+   "kind": "old-latest",
+   "sha256": "e25cd11a83671d0bc022643b62882dc5cc956c929873284e0f0d1a7f17f843bc",
+   "timestamp": "20220919032957",
+   "url": "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2022-08-30",
+   "bytes": 67443,
+   "kind": "old-latest",
+   "sha256": "40437468b20af72dbf33bef066962f2d805a9c442786b3c6f6b6609c5e9aa77b",
+   "timestamp": "20220926082946",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2022-08-30",
+   "bytes": 68420,
+   "kind": "old-latest",
+   "sha256": "4da3cb0bb36aff901df663cb0365646fa7dc9d5965a4dc502ce99bbc46abc9c8",
+   "timestamp": "20221122154816",
+   "url": "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 61128,
+   "kind": "old-numbered",
+   "sha256": "d5226e69a2dcab6cd941cea4b5de4a7368470e5ad6e0c57b86d9c1ede89d89ab",
+   "timestamp": "20230201224317",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 61128,
+   "kind": "old-numbered",
+   "sha256": "92c8167539c4b341c1373cc6bafa7d941041cf20d812f3c02c67c97066ad16fc",
+   "timestamp": "20230201224318",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 69778,
+   "kind": "old-numbered",
+   "sha256": "f4c1673fded408f694fbda68caa0b37a9e85dc57ea07a87d0469f6a3e18da112",
+   "timestamp": "20230202032920",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/13.0/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 69778,
+   "kind": "old-numbered",
+   "sha256": "33d5fbd3d2b399824e4b59bf60beadabe351a51cdbee1bbf10bde090d4ead049",
+   "timestamp": "20230202032949",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/13.0/whole.html"
+  },
+  {
+   "as_at": "2022-08-30",
+   "bytes": 68336,
+   "kind": "old-latest",
+   "sha256": "f3c9df8ae30128cdf2075c96b22edba28adf0ca63f280a17b6647c59160aabcb",
+   "timestamp": "20230405225147",
+   "url": "https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 68731,
+   "kind": "old-numbered",
+   "sha256": "ee206483ab18af0be006dc396e57bd50ebe4cbe48304e2bebd2e9b9287308896",
+   "timestamp": "20250217151238",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/13.0/whole.html"
+  },
+  {
+   "as_at": "1994-02-01",
+   "bytes": 60081,
+   "kind": "old-numbered",
+   "sha256": "c05d187f03b725b4c06791b495fe40d8c862cf754aa6a26cfc3bc3fa366731c3",
+   "timestamp": "20250218140953",
+   "url": "https://legislation.govt.nz/act/public/1990/0109/7.0/whole.html"
+  },
+  {
+   "as_at": "2022-08-30",
+   "bytes": 190930,
+   "kind": "new-latest",
+   "sha256": "5ad1cd29d91ccdf158432808ed1d219e3868acf3bcfccd1ef01450797a647037",
+   "timestamp": "20261005094754",
+   "url": "https://legislation.govt.nz/act/public/1990/109/en/latest/"
+  }
+ ],
+ "constitution-act": [
+  {
+   "as_at": "2007-09-03",
+   "bytes": 84088,
+   "kind": "old-latest",
+   "sha256": "f994d56713f84ef6802a5f054ead3524674f42c987b5daa8cc5d03b8364e5aa3",
+   "timestamp": "20090214202208",
+   "url": "http://legislation.govt.nz:80/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2007-09-03",
+   "bytes": 83502,
+   "kind": "old-latest",
+   "sha256": "097b1495ce7903605b4fc1340976e2c7efa922298b02d1f6bc9bdd0797e5589e",
+   "timestamp": "20100718143930",
+   "url": "http://www.legislation.govt.nz:80/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2007-09-03",
+   "bytes": 84118,
+   "kind": "old-latest",
+   "sha256": "856fba58d8695f212487f9faa35124c2dd4001e315e738568b73b64d5b5021d4",
+   "timestamp": "20110724195311",
+   "url": "http://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 78113,
+   "kind": "old-latest",
+   "sha256": "c9c1777e4112b1bda48a2ebc32739b59ef2e5e9be72600defed3d48cc4213266",
+   "timestamp": "20110808011716",
+   "url": "http://www.legislation.govt.nz:80/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 78381,
+   "kind": "old-latest",
+   "sha256": "531cb72b861399fde4890b43a273e4a87e0f764472851b9427fe95de2893c16d",
+   "timestamp": "20111116010044",
+   "url": "http://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 85354,
+   "kind": "old-latest",
+   "sha256": "f247fc7b1bd786ebcf6a84d9474fd6cbe60762699ab796b905dc42eadee05829",
+   "timestamp": "20130912104928",
+   "url": "http://www.legislation.govt.nz:80/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 86649,
+   "kind": "old-latest",
+   "sha256": "3030a882ad4a950ff3997375c17d26fcad5dc205d493f14ca9fdc8b04b1eada9",
+   "timestamp": "20160303201456",
+   "url": "http://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 86650,
+   "kind": "old-latest",
+   "sha256": "fb541891fc46e464119d1e1254298923b1350518db95bcbeb608c33a238da3d6",
+   "timestamp": "20180730234929",
+   "url": "http://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 86656,
+   "kind": "old-latest",
+   "sha256": "ae13c88512c215a9cd0d3e316dbae245f42e6a805115481f2b4b877164131242",
+   "timestamp": "20210514085646",
+   "url": "https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 88101,
+   "kind": "old-latest",
+   "sha256": "c76b49ae3ea2064b5418d5aa102337cca8e2730001d049b7b57f669efe24a0c1",
+   "timestamp": "20230605044126",
+   "url": "https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 87054,
+   "kind": "old-latest",
+   "sha256": "e0f7184fc2343f85fcdc618b41f818500fea37143c5959bf41fa7ab30495c236",
+   "timestamp": "20241202090418",
+   "url": "https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 93049,
+   "kind": "old-latest",
+   "sha256": "187c959f231f1d9e897ab2724126e5795773aa479f38a1cb68c1c29bb835dc7f",
+   "timestamp": "20250123164935",
+   "url": "https://legislation.govt.nz/act/public/1986/0114/latest/whole.html?search=qs_act%40bill%40regulation%40deemedreg_%22Constitution+Act%22_resel_25_h&p=1"
+  },
+  {
+   "as_at": "2005-05-17",
+   "bytes": 87054,
+   "kind": "old-latest",
+   "sha256": "6139ad5061c1003bd78fa0df3aa1a991c9db94e55bf3fd5e0e74cdee6f45b28f",
+   "timestamp": "20250216094023",
+   "url": "https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html"
+  },
+  {
+   "as_at": "2025-11-13",
+   "bytes": 93764,
+   "kind": "old-latest",
+   "sha256": "3154773c0a43df0980d5943fe2f90947a76f27d3a45052da25c6b8f86cf484f4",
+   "timestamp": "20260106194452",
+   "url": "https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html?ref=goodoil.news"
+  },
+  {
+   "as_at": "2025-11-13",
+   "bytes": 174030,
+   "kind": "new-latest",
+   "sha256": "342022d20929c806f5e2c590f47d0b17311a9babccf7629eaba8cdbaba914043",
+   "timestamp": "20260307211536",
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/"
+  },
+  {
+   "as_at": "2025-11-13",
+   "bytes": 174144,
+   "kind": "new-latest",
+   "sha256": "1506dd2205d04a38373745f0fde8ad10ad1cd5a4da313d0872c0b3a1a3715832",
+   "timestamp": "20260320040627",
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/"
+  },
+  {
+   "as_at": "2025-11-13",
+   "bytes": 182662,
+   "kind": "new-latest",
+   "sha256": "8259a33686b6be52075ca43838f868b840b1af640f1fa21005c1553ed0a5ddb6",
+   "timestamp": "20260711000119",
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/"
+  },
+  {
+   "as_at": "2025-11-13",
+   "bytes": 182665,
+   "kind": "new-latest",
+   "sha256": "991f28fc4d6261e9628c1d1d40efaa3aa8966783df1d90cc2dd0e1ec4cea1f76",
+   "timestamp": "20260713170858",
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/"
+  },
+  {
+   "as_at": "2025-11-13",
+   "bytes": 182665,
+   "kind": "new-latest",
+   "sha256": "71ac63341b7bea6a29571310d85fb3ef81279c444dff9ceaea03b35eeb25502a",
+   "timestamp": "20260714164843",
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/"
+  },
+  {
+   "as_at": "2026-09-04",
+   "bytes": 226049,
+   "kind": "new-latest",
+   "sha256": "728f3769dc46e6ca8304244b2b7a0d32caac36f1dc21f802f822cf9d92c7c474",
+   "timestamp": "20261005094648",
+   "url": "https://legislation.govt.nz/act/public/1986/114/en/latest/"
+  }
+ ]
+}

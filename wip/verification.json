@@ -1,0 +1,20 @@
+{
+ "constitution-act": {
+  "last_version": "2026-09-04",
+  "newest_capture": "20261005094648",
+  "newest_url": "https://legislation.govt.nz/act/public/1986/114/en/latest/",
+  "newest_states": "2026-09-04",
+  "units": 38,
+  "unit_mismatches": [],
+  "ok": true
+ },
+ "bill-of-rights-act": {
+  "last_version": "2022-08-30",
+  "newest_capture": "20261005094754",
+  "newest_url": "https://legislation.govt.nz/act/public/1990/109/en/latest/",
+  "newest_states": "2022-08-30",
+  "units": 32,
+  "unit_mismatches": [],
+  "ok": true
+ }
+}

@@ -1,0 +1,712 @@
+{
+ "country": {
+  "code": "NZ",
+  "name": "New Zealand",
+  "slug": "new-zealand",
+  "lang": "en",
+  "tz": "Pacific/Auckland",
+  "future_branch": "future",
+  "publisher": {
+   "name": "Parliamentary Counsel Office (New Zealand Legislation)",
+   "email": "pco@legislation.govt.nz.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Each change is dated by the in-force date the Parliamentary Counsel Office history note for the provision states (\"Section 25: repealed, on 13 November 2025, by section 51 of the Parliament (Repeals and Amendments) Act 2025\"); each version is the official consolidation as at its stated date (Legislation Act 2019, s 78).",
+   "source": "https://www.legislation.govt.nz"
+  },
+  "licence_note": "Sourced from the New Zealand Legislation website (www.legislation.govt.nz), Parliamentary Counsel Office. \"Under section 27 of the Copyright Act 1994, there is no copyright in New Zealand legislation, including in legislation published by the PCO on this website\"; all other content on the site is Crown copyright, licensed under a Creative Commons Attribution licence (CC BY) (legislation.govt.nz/copyright/, archived 2026-07-12)."
+ },
+ "sources": [
+  {
+   "name": "New Zealand Legislation (legislation.govt.nz), Parliamentary Counsel Office",
+   "url": "https://www.legislation.govt.nz",
+   "retrieved": "2026-10-29",
+   "requests": 0,
+   "licence": "no copyright in legislation (Copyright Act 1994 s 27); other site content Crown copyright, CC BY",
+   "notes": "Official consolidations (\"as at\" versions). Not fetched directly: the site answers automated readers with an AWS WAF bot challenge and its API needs a key. Read through Internet Archive captures."
+  },
+  {
+   "name": "Internet Archive Wayback Machine (id_ raw captures)",
+   "url": "https://web.archive.org/",
+   "retrieved": "2026-10-29",
+   "requests": 137,
+   "licence": "Internet Archive terms of use; the legislation itself has no copyright (s 27)",
+   "notes": "Each version pins its capture timestamp in source_url; captures.json lists every capture read."
+  }
+ ],
+ "laws": {
+  "act-1986-114": {
+   "label": "Constitution Act 1986",
+   "title": "Constitution Act 1986",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1987-134": {
+   "label": "Constitution Amendment Act 1987",
+   "title": "Constitution Amendment Act 1987",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/1987/134/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1990-109": {
+   "label": "New Zealand Bill of Rights Act 1990",
+   "title": "New Zealand Bill of Rights Act 1990",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/1990/109/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1993-082": {
+   "label": "Human Rights Act 1993",
+   "title": "Human Rights Act 1993",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/1993/82/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1993-087": {
+   "label": "Electoral Act 1993",
+   "title": "Electoral Act 1993",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/1993/87/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-1999-086": {
+   "label": "Constitution Amendment Act 1999",
+   "title": "Constitution Amendment Act 1999",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/1999/86/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2002-033": {
+   "label": "Civil Defence Emergency Management Act 2002",
+   "title": "Civil Defence Emergency Management Act 2002",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2002/33/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2004-113": {
+   "label": "Public Finance Amendment Act 2004",
+   "title": "Public Finance Amendment Act 2004",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2004/113/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2005-048": {
+   "label": "Constitution Amendment Act 2005",
+   "title": "Constitution Amendment Act 2005",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2005/48/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2011-092": {
+   "label": "New Zealand Bill of Rights Amendment Act 2011",
+   "title": "New Zealand Bill of Rights Amendment Act 2011",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2011/92/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2022-045": {
+   "label": "New Zealand Bill of Rights (Declarations of Inconsistency) Amendment Act 2022",
+   "title": "New Zealand Bill of Rights (Declarations of Inconsistency) Amendment Act 2022",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2022/45/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2025-063": {
+   "label": "Parliament (Repeals and Amendments) Act 2025",
+   "title": "Parliament (Repeals and Amendments) Act 2025",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2025/63/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2026-045": {
+   "label": "Constitution Amendment Act 2026",
+   "title": "Constitution Amendment Act 2026",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2026/45/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "act-2026-053": {
+   "label": "Emergency Management Act 2026",
+   "title": "Emergency Management Act 2026",
+   "kind": "law",
+   "enacted": null,
+   "published": null,
+   "url": "https://www.legislation.govt.nz/act/public/2026/53/en/latest/",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "constitution-act",
+   "short": "Constitution Act",
+   "title": "Constitution Act 1986",
+   "url": "https://www.legislation.govt.nz/act/public/1986/114/en/latest/",
+   "first_law": null,
+   "earlier_laws": [
+    "act-1986-114",
+    "act-1987-134",
+    "act-1993-087",
+    "act-1999-086",
+    "act-2002-033",
+    "act-2004-113",
+    "act-2005-048"
+   ],
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "source_url": "https://web.archive.org/web/20250216094023id_/https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html",
+     "sha256": "6139ad5061c1003bd78fa0df3aa1a991c9db94e55bf3fd5e0e74cdee6f45b28f",
+     "units": {
+      "long-title": {
+       "label": "Long title",
+       "kind": "title",
+       "text": "An Act to reform the constitutional law of New Zealand, to bring together into one enactment certain provisions of constitutional significance, and to provide that the New Zealand Constitution Act 1852 of the Parliament of the United Kingdom shall cease to have effect as part of the law of New Zealand\n"
+      },
+      "sec-001": {
+       "label": "s 1",
+       "kind": "section",
+       "text": "# 1 Short Title and commencement\n(1) This Act may be cited as the Constitution Act 1986.\n(2) This Act shall come into force on 1 January 1987.\n"
+      },
+      "sec-002": {
+       "label": "s 2",
+       "kind": "section",
+       "text": "# 2 Head of State\n(1) The Sovereign in right of New Zealand is the head of State of New Zealand, and shall be known by the royal style and titles proclaimed from time to time.\n(2) The Governor-General appointed by the Sovereign is the Sovereign's representative in New Zealand.\n"
+      },
+      "sec-003": {
+       "label": "s 3",
+       "kind": "section",
+       "text": "# 3 Exercise of royal powers by the Sovereign or the Governor-General\n(1) Every power conferred on the Governor-General by or under any Act is a royal power which is exercisable by the Governor-General on behalf of the Sovereign, and may accordingly be exercised either by the Sovereign in person or by the Governor-General.\n(2) Every reference in any Act to the Governor-General in Council or any other like expression includes a reference to the Sovereign acting by and with the advice and consent of the Executive Council.\nCompare: 1983 No 20 s 3\n"
+      },
+      "sec-003a": {
+       "label": "s 3A",
+       "kind": "section",
+       "text": "# 3A Advice and consent of Executive Council\n(1) The Sovereign or the Governor-General may perform a function or duty, or exercise a power, on the advice and with the consent of the Executive Council if that advice and consent are given at a meeting of the Executive Council at which neither the Sovereign nor the Governor-General is present if the Sovereign or the Governor-General is prevented from attending the meeting by some necessary or reasonable cause.\n(2) The performance of the function or duty, or the exercise of the power takes effect from the date of the meeting unless another time is specified for the performance of the function or duty, or for the exercise of the power, to take effect.\n(3) Neither the validity of the performance of the function or duty, nor the validity of the exercise of the power, can be challenged in any legal proceedings on the ground that the Sovereign or the Governor-General was not prevented from attending the meeting of the Executive Council by some necessary or reasonable cause.\nCompare: 1924 No 11 s 23; 1983 No 22 s 3\n"
+      },
+      "sec-003b": {
+       "label": "s 3B",
+       "kind": "section",
+       "text": "# 3B Exercise of powers and duties by Administrator\n(1) The Administrator of the Government may perform a function or duty imposed on the Governor-General, or exercise a power conferred on the Governor-General, if—\n(a) the office of Governor-General is vacant; or\n(b) the Governor-General is unable to perform the function or duty or exercise the power.\n(2) The performance or exercise by the Administrator of the Government of a function or duty imposed, or a power conferred, on the Governor-General is conclusive evidence of the authority of the Administrator to perform the function or duty or exercise the power.\nCompare: 1924 No 11 s 25E; 1986 No 115 s 9\n"
+      },
+      "sec-004": {
+       "label": "s 4",
+       "kind": "section",
+       "text": "# 4 Regency\n(1) Where, under the law of the United Kingdom, the royal functions are being performed in the name and on behalf of the Sovereign by a Regent, the royal functions of the Sovereign in right of New Zealand shall be performed in the name and on behalf of the Sovereign by that Regent.\n(2) Nothing in subsection (1) limits, in relation to any power of the Sovereign in right of New Zealand, the authority of the Governor-General to exercise that power.\nCompare: 1983 No 20 s 4\n"
+      },
+      "sec-005": {
+       "label": "s 5",
+       "kind": "section",
+       "text": "# 5 Demise of the Crown\n(1) The death of the Sovereign shall have the effect of transferring all the functions, duties, powers, authorities, rights, privileges, and dignities belonging to the Crown to the Sovereign's successor, as determined in accordance with the enactment of the Parliament of England intituled The Act of Settlement (12 & 13 Will 3, c 2) and any other law relating to the succession to the Throne, but shall otherwise have no effect in law for any purpose.\n(2) Every reference to the Sovereign in any document or instrument in force on or after the commencement of this Act shall, unless the context otherwise requires, be deemed to include a reference to the Sovereign's heirs and successors.\nCompare: 1908 No 42\n"
+      },
+      "sec-006": {
+       "label": "s 6",
+       "kind": "section",
+       "text": "# 6 Ministers of Crown to be members of Parliament\n(1) A person may be appointed and may hold office as a member of the Executive Council or as a Minister of the Crown only if that person is a member of Parliament.\n(2) Notwithstanding subsection (1),—\n(a) a person who is not a member of Parliament may be appointed and may hold office as a member of the Executive Council or as a Minister of the Crown if that person was a candidate for election at the general election of members of the House of Representatives held immediately preceding that person's appointment as a member of the Executive Council or as a Minister of the Crown but shall vacate office at the expiration of the period of 40 days beginning with the date of the appointment unless, within that period, that person becomes a member of Parliament; and\n(b) where a person who holds office both as a member of Parliament and as a member of the Executive Council or as a Minister of the Crown ceases to be a member of Parliament, that person may continue to hold office as a member of the Executive Council or as a Minister of the Crown until the expiration of the 28th day after the day on which that person ceases to be a member of Parliament.\nCompare: 1979 No 33 s 9\n"
+      },
+      "sec-007": {
+       "label": "s 7",
+       "kind": "section",
+       "text": "# 7 Power of member of Executive Council to exercise Minister's powers\nAny function, duty, or power exercisable by or conferred on any Minister of the Crown (by whatever designation that Minister is known) may, unless the context otherwise requires, be exercised or performed by any member of the Executive Council.\nCompare: 1924 No 11 s 25(e)\n"
+      },
+      "sec-008": {
+       "label": "s 8",
+       "kind": "section",
+       "text": "# 8 Appointment of Parliamentary Under-Secretaries\n(1) The Governor-General may from time to time, by warrant under the Governor-General's hand, appoint any member of Parliament to be a Parliamentary Under-Secretary in relation to such Ministerial office or offices as are specified in that behalf in the warrant of appointment.\n(2) A Parliamentary Under-Secretary shall hold office as such during the pleasure of the Governor-General, but shall in every case vacate that office within 28 days of ceasing to be a member of Parliament.\nCompare: 1979 No 33 ss 11, 12; 1985 No 48 s 5\n"
+      },
+      "sec-009": {
+       "label": "s 9",
+       "kind": "section",
+       "text": "# 9 Functions of Parliamentary Under-Secretaries\n(1) A Parliamentary Under-Secretary holding office as such in respect of any Ministerial office shall have and may exercise or perform under the direction of the Minister concerned such of the functions, duties, and powers of the Minister of the Crown for the time being holding that office as may from time to time be assigned to the Parliamentary Under-Secretary by that Minister.\n(2) Nothing in subsection (1) limits the authority of any Minister of the Crown to exercise or perform personally any function, duty, or power.\n(3) The fact that any person holding office as a Parliamentary Under-Secretary in respect of any Ministerial office purports to exercise or perform any function, duty, or power of the Minister concerned shall be conclusive evidence of that person's authority to do so.\nCompare: 1979 No 33 s 14\n"
+      },
+      "sec-009a": {
+       "label": "s 9A",
+       "kind": "section",
+       "text": "# 9A Solicitor-General may perform functions of Attorney-General\nThe Solicitor-General may perform a function or duty imposed, or exercise a power conferred, on the Attorney-General.\nCompare: 1924 No 11 s 4; 1952 No 81 s 27\n"
+      },
+      "sec-009b": {
+       "label": "s 9B",
+       "kind": "section",
+       "text": "# 9B Appointment of person to act in place of Solicitor-General\n(1) The Governor-General may appoint a barrister or solicitor of at least 7 years' practice to act—\n(a) in place of, or for, the Solicitor-General during the absence from office of the Solicitor-General or if the Solicitor-General is incapacitated in a way that affects the performance of his or her duties; or\n(b) during a vacancy in the office of Solicitor-General.\n(2) The performance of a function or duty or the exercise of a power by a person appointed under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the authority of that person to do so.\nCompare: 1924 No 11 s 25B(1), (2); 1979 No 71 s 2\n"
+      },
+      "sec-009c": {
+       "label": "s 9C",
+       "kind": "section",
+       "text": "# 9C Delegation of powers of Attorney-General and Solicitor-General\n(1) The Solicitor-General may, with the written consent of the Attorney-General, in writing delegate to a Deputy Solicitor-General, any of the functions or duties imposed, or powers conferred, on the Attorney-General.\n(2) The Solicitor-General may in writing delegate to a Deputy Solicitor-General any of the functions or duties imposed, or powers conferred, on the Solicitor-General, except for the power to delegate conferred by this subsection.\n(3) A delegation is revocable and does not prevent the Attorney-General or the Solicitor-General from performing the function or duty or exercising the power.\n(4) A delegation may be made on conditions specified in the instrument of delegation.\n(5) The fact that a Deputy Solicitor-General performs a function or duty or exercises a power is, in the absence of proof to the contrary, sufficient evidence of his or her authority to do so.\n"
+      },
+      "sec-010": {
+       "label": "s 10",
+       "kind": "section",
+       "text": "# 10 House of Representatives\n(1) There shall continue to be a House of Representatives for New Zealand.\n(2) The House of Representatives is the same body as the House of Representatives referred to in section 32 of the New Zealand Constitution Act 1852 of the Parliament of the United Kingdom.\n(3) The House of Representatives shall be regarded as always in existence, notwithstanding that Parliament has been dissolved or has expired.\n(4) The House of Representatives shall have as its members those persons who are elected from time to time in accordance with the provisions of the Electoral Act 1993, and who shall be known as members of Parliament.\nCompare: 1956 No 107 ss 11, 13; 1975 No 28 s 4\n"
+      },
+      "sec-011": {
+       "label": "s 11",
+       "kind": "section",
+       "text": "# 11 Oath of allegiance to be taken by members of Parliament\n(1) A member of Parliament shall not be permitted to sit or vote in the House of Representatives until that member has taken the Oath of Allegiance in the form prescribed in section 17 of the Oaths and Declarations Act 1957.\n(2) The oath to be taken under this section shall be administered by the Governor-General or a person authorised by the Governor-General to administer that oath.\nCompare: 1950 No 3 s 2(4); New Zealand Constitution Act 1852 s 46 (UK)\n"
+      },
+      "sec-012": {
+       "label": "s 12",
+       "kind": "section",
+       "text": "# 12 Election of Speaker\nThe House of Representatives shall, at its first meeting after any general election of its members, and immediately on its first meeting after any vacancy occurs in the office of Speaker, choose one of its members as its Speaker, and every such choice shall be effective on being confirmed by the Governor-General.\nCompare: 1956 No 107 s 14\n"
+      },
+      "sec-013": {
+       "label": "s 13",
+       "kind": "section",
+       "text": "# 13 Speaker to continue in office notwithstanding dissolution or expiration of Parliament\nA person who is in office as Speaker immediately before the dissolution or expiration of Parliament shall, notwithstanding that dissolution or expiration, continue in office until the close of polling day at the next general election unless that person sooner vacates office as Speaker.\n"
+      },
+      "sec-014": {
+       "label": "s 14",
+       "kind": "section",
+       "text": "# 14 Parliament\n(1) There shall be a Parliament of New Zealand, which shall consist of the Sovereign in right of New Zealand and the House of Representatives.\n(2) The Parliament of New Zealand is the same body as that which before the commencement of this Act was called the General Assembly (as established by section 32 of the New Zealand Constitution Act 1852 of the Parliament of the United Kingdom) and which consisted of the Governor-General and the House of Representatives.\nCompare: 1950 No 3 s 2(2); New Zealand Constitution Act 1852 s 32 (UK)\n"
+      },
+      "sec-015": {
+       "label": "s 15",
+       "kind": "section",
+       "text": "# 15 Power of Parliament to make laws\n(1) The Parliament of New Zealand continues to have full power to make laws.\n(2) No Act of the Parliament of the United Kingdom passed after the commencement of this Act shall extend to New Zealand as part of its law.\nCompare: 1973 No 114 s 2; New Zealand Constitution Act 1852 s 53 (UK); Canada Act 1982 s 2 (UK); Australia Act 1986 s 1 (Commonwealth)\n"
+      },
+      "sec-016": {
+       "label": "s 16",
+       "kind": "section",
+       "text": "# 16 Royal assent to Bills\nA Bill passed by the House of Representatives shall become law when the Sovereign or the Governor-General assents to it and signs it in token of such assent.\nCompare: New Zealand Constitution Act 1852 s 56 (UK)\n"
+      },
+      "sec-017": {
+       "label": "s 17",
+       "kind": "section",
+       "text": "# 17 Term of Parliament\n(1) The term of Parliament shall, unless Parliament is sooner dissolved, be 3 years from the day fixed for the return of the writs issued for the last preceding general election of members of the House of Representatives, and no longer.\n(2) Section 268 of the Electoral Act 1993 shall apply in respect of subsection (1).\nCompare: 1956 No 107 s 12\n"
+      },
+      "sec-018": {
+       "label": "s 18",
+       "kind": "section",
+       "text": "# 18 Summoning, proroguing, and dissolution of Parliament\n(1) The Governor-General may by Proclamation summon Parliament to meet at such place and time as may be appointed therein, notwithstanding that when the Proclamation is signed or when it takes effect Parliament stands prorogued to a particular date.\n(1A) The Governor-General may, by Proclamation, change the place of meeting of Parliament set out in the Proclamation summoning Parliament if that place is unsafe or uninhabitable.\n(2) The Governor-General may by Proclamation prorogue or dissolve Parliament.\n(3) A Proclamation summoning, proroguing, or dissolving Parliament shall be effective—\n(a) on being gazetted; or\n(b) on being publicly read, by some person authorised to do so by the Governor-General, in the presence of the Clerk of the House of Representatives and 2 other persons,—\nwhichever occurs first.\n(4) Every Proclamation that takes effect pursuant to subsection (3)(b) shall be gazetted as soon as practicable after it is publicly read.\nCompare: New Zealand Constitution Act 1852 ss 44, 82 (UK)\n"
+      },
+      "sec-019": {
+       "label": "s 19",
+       "kind": "section",
+       "text": "# 19 First meeting of Parliament after general election\nAfter any general election of members of the House of Representatives, Parliament shall meet not later than 6 weeks after the day fixed for the return of the writs for that election.\nCompare: Bill of Rights art 13 (UK); Constitution of Australia (1900) s 5\n"
+      },
+      "sec-020": {
+       "label": "s 20",
+       "kind": "section",
+       "text": "# 20 Lapse or reinstatement of parliamentary business\n(1) Any Bill, petition, or other business before the House of Representatives or any of its committees during a session of a Parliament (any parliamentary business)—\n(a) does not lapse on the prorogation of that Parliament and may be resumed in the next session of Parliament (a session of that Parliament):\n(b) lapses on the dissolution or expiration of that Parliament, but may be reinstated in the next session of Parliament (a session of the next Parliament).\n(2) Parliamentary business is reinstated in that next session if, after that dissolution or expiration, the House of Representatives resolves that the parliamentary business be reinstated in that next session.\nCompare: 1977 No 22 s 2(1)\n"
+      },
+      "sec-021": {
+       "label": "s 21",
+       "kind": "section",
+       "text": "# 21 Bills appropriating public money\n[Repealed]\n"
+      },
+      "sec-022": {
+       "label": "s 22",
+       "kind": "section",
+       "text": "# 22 Parliamentary control of public finance\nIt shall not be lawful for the Crown, except by or under an Act of Parliament,—\n(a) to levy a tax; or\n(b) to borrow money or to receive money borrowed from any person; or.\n(c) to spend any public money.\nCompare: 1977 No 65 ss 53(1), 70; Bill of Rights art 4 (UK)\n"
+      },
+      "sec-023": {
+       "label": "s 23",
+       "kind": "section",
+       "text": "# 23 Protection of Judges against removal from office\nA Judge of the High Court shall not be removed from office except by the Sovereign or the Governor-General, acting upon an address of the House of Representatives, which address may be moved only on the grounds of that Judge's misbehaviour or of that Judge's incapacity to discharge the functions of that Judge's office.\nCompare: 1908 No 89 ss 7, 8, 9\n"
+      },
+      "sec-024": {
+       "label": "s 24",
+       "kind": "section",
+       "text": "# 24 Salaries of Judges not to be reduced\nThe salary of a Judge of the High Court shall not be reduced during the continuance of the Judge's commission.\nCompare: 1908 No 89 s 10\n"
+      },
+      "sec-025": {
+       "label": "s 25",
+       "kind": "section",
+       "text": "# 25 General Assembly Library to be known as the Parliamentary Library\n(1) The library heretofore known as the General Assembly Library shall, as from the commencement of this Act, be known as the Parliamentary Library.\n(2) The officer heretofore known as the Chief Librarian of the General Assembly Library shall be known, as from the commencement of this Act, as the Parliamentary Librarian.\n(3) Subject to section 27, all references to the General Assembly Library or to the Chief Librarian of the General Assembly Library in any other enactment or in any document whatsoever shall hereafter, unless the context otherwise requires, be read as references to the Parliamentary Library and to the Parliamentary Librarian respectively.\n"
+      },
+      "sec-026": {
+       "label": "s 26",
+       "kind": "section",
+       "text": "# 26 United Kingdom enactments ceasing to have effect as part of the law of New Zealand\n(1) As from the commencement of this Act the following enactments of the Parliament of the United Kingdom, namely,—\n(a) the New Zealand Constitution Act 1852 (15 and 16 Vict, c 72); and\n(b) the Statute of Westminster 1931 (22 Geo V, c 4); and\n(c) the New Zealand Constitution (Amendment) Act 1947 (11 Geo VI, c 4),—\nshall cease to have effect as part of the law of New Zealand.\n(2) The provisions of sections 20, 20A, and 21 of the Acts Interpretation Act 1924 shall apply with respect to the enactments specified in subsection (1) as if they were Acts of the Parliament of New Zealand that had been repealed by that subsection.\n(3) Without limiting the provisions of subsection (2), it is hereby declared that the effect of section 11 of the Statute of Westminster 1931 (22 Geo V, c 4) (which section declared that the expression Colony shall not, in any Act of the Parliament of the United Kingdom passed after the commencement of the Statute of Westminster 1931, include a Dominion or any Province or State forming part of a Dominion) shall not be affected by virtue of the Statute of Westminster 1931 ceasing, by virtue of subsection (1), to have effect as part of the law of New Zealand.\n"
+      },
+      "sec-027": {
+       "label": "s 27",
+       "kind": "section",
+       "text": "# 27 Consequential amendments to other enactments\nThe enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.\n"
+      },
+      "sec-028": {
+       "label": "s 28",
+       "kind": "section",
+       "text": "# 28 Repeals\n(1) The enactments specified in Schedule 2 are hereby repealed.\n(2) The Regulations Amendment Act 1962 is hereby consequentially repealed.\n(3), (4) Amendment(s) incorporated in the Act(s).\n"
+      },
+      "sec-029": {
+       "label": "s 29",
+       "kind": "section",
+       "text": "# 29 Transitional and consequential provisions relating to Parliament\n(1) The Parliament in being at the commencement of this Act (before the commencement of this Act called the General Assembly) shall continue in accordance with and subject to the provisions of this Act.\n(2) As from the commencement of this Act, every reference to the General Assembly or to the General Assembly of New Zealand in any enactment passed before the date of commencement of this Act and in any document executed before that date shall, unless the context otherwise requires, be read as a reference to the Parliament of New Zealand.\n(3) Subsection (2) shall not apply in respect of the Acts Interpretation Act 1924.\n"
+      },
+      "sch-01": {
+       "label": "Schedule 1",
+       "kind": "schedule",
+       "text": "# Schedule 1 Consequential amendments\ns 27\nAgriculture (Emergency Powers) Act 1934 (1934 No 34) (RS Vol 1, p 87)\nAmendment(s) incorporated in the Act(s).\nCivil Defence Act 1983 (1983 No 46)\nAmendment(s) incorporated in the Act(s).\nCivil List Act 1979 (1979 No 33)\nAmendment(s) incorporated in the Act(s).\nCustoms Act 1966 (1966 No 19) (RS Vol 2, p 57)\nAmendment(s) incorporated in the Act(s).\nEconomic Stabilisation Act 1948 (1948 No 38) (RS Vol 6, p 227)\nAmendment(s) incorporated in the Act(s).\nForeign Affairs and Overseas Service Act 1983 (1983 No 128)\nAmendment(s) incorporated in the Act(s).\nGovernment Superannuation Fund Act 1956 (1956 No 47) (RS Vol 13, p 97)\nAmendment(s) incorporated in the Act(s).\nJudicature Act 1908 (1908 No 89) (1957 Reprint, Vol 6, p 699)\nAmendment(s) incorporated in the Act(s).\nOaths and Declarations Act 1957 (1957 No 88) (RS Vol 4, p 1)\nAmendment(s) incorporated in the Act(s).\nOfficial Information Act 1982 (1982 No 156)\nAmendment(s) incorporated in the Act(s).\nOmbudsmen Act 1975 (1975 No 9)\nAmendment(s) incorporated in the Act(s).\nParliamentary Service Act 1985 (1985 No 128)\nAmendment(s) incorporated in the Act(s).\nPetroleum Demand Restraint Act 1981 (1981 No 12)\nAmendment(s) incorporated in the Act(s).\nPrimary Products Marketing Act 1953 (1953 No 10) (RS Vol 4, p 201)\nAmendment(s) incorporated in the Act(s).\nPublic Finance Act 1977 (1977 No 65)\nAmendment(s) incorporated in the Act(s).\nPublic Safety Conservation Act 1932 (1932 No 3) (RS Vol 4, p 233)\nAmendment(s) incorporated in the Act(s).\nRegulations Act 1936 (1936 No 17) (RS Vol 10, p 723)\nAmendment(s) incorporated in the Act(s).\nStatutes Amendment Act 1936 (1936 No 58) (RS Vol 1, p 31)\nAmendment(s) incorporated in the Act(s).\nTreaty of Waitangi Act 1975 (1975 No 114) (RS Vol 8, p 877)\nAmendment(s) incorporated in the Act(s).\n"
+      },
+      "sch-02": {
+       "label": "Schedule 2",
+       "kind": "schedule",
+       "text": "# Schedule 2 Enactments repealed\ns 28(1)\nDemise of the Crown Act 1908 (1908 No 42) (RS Vol 2, p 323)\nLegislature Amendment Act 1977 (1977 No 22) (RS Vol 6, p 764)\nNew Zealand Constitution Amendment Act 1970 (1970 No 94) (RS Vol 10, p 463)\nNew Zealand Constitution Amendment Act 1973 (1973 No 114) (RS Vol 10, p 463)\nNew Zealand Constitution Amendment (Request and Consent) Act 1947 (1947 No 44) (RS Vol 10, p 461)\nRoyal Powers Act 1983 (1983 No 20)\nStatute of Westminster Adoption Act 1947 (1947 No 38) (RS Vol 11, p 393)\n"
+      }
+     },
+     "credits": {},
+     "note": "Official version as at 2005-05-17 (legislation.govt.nz, archived 20250216): the oldest version archived."
+    },
+    {
+     "from": "2025-11-13",
+     "source_url": "https://web.archive.org/web/20260714164843id_/https://www.legislation.govt.nz/act/public/1986/114/en/latest/",
+     "sha256": "71ac63341b7bea6a29571310d85fb3ef81279c444dff9ceaea03b35eeb25502a",
+     "changes": {
+      "sec-022": {
+       "label": "s 22",
+       "kind": "section",
+       "text": "# 22 Parliamentary control of public finance\nIt shall not be lawful for the Crown, except by or under an Act of Parliament,—\n(a) to levy a tax; or\n(b) to borrow money or to receive money borrowed from any person; or\n(c) to spend any public money.\nCompare: 1977 No 65 ss 53(1), 70; Bill of Rights art 4 (UK)\n"
+      },
+      "sec-025": {
+       "label": "s 25",
+       "kind": "section",
+       "text": "# 25 General Assembly Library to be known as the Parliamentary Library\n[Repealed]\n"
+      }
+     },
+     "credits": {
+      "sec-025": [
+       "act-2025-063"
+      ]
+     },
+     "note": "Official consolidation as at 2025-11-13 (legislation.govt.nz, archived 20260714)."
+    },
+    {
+     "from": "2026-07-10",
+     "source_url": "https://web.archive.org/web/20261005094648id_/https://legislation.govt.nz/act/public/1986/114/en/latest/",
+     "sha256": "728f3769dc46e6ca8304244b2b7a0d32caac36f1dc21f802f822cf9d92c7c474",
+     "changes": {
+      "sec-006": {
+       "label": "s 6",
+       "kind": "section",
+       "text": "# 6 Ministers of Crown to be members of Parliament\n(1) A person may be appointed and may hold office as a member of the Executive Council or as a Minister of the Crown only if that person is a member of Parliament.\n(2) Notwithstanding subsection (1),—\n(a) a person who is not a member of Parliament may be appointed and may hold office as a member of the Executive Council or as a Minister of the Crown if that person was a candidate for election at the general election of members of the House of Representatives held immediately preceding that person's appointment as a member of the Executive Council or as a Minister of the Crown but shall vacate office at the expiration of the period of 40 days beginning with the date of the appointment unless, within that period, that person becomes a member of Parliament; and\n(b) a person who held office both as a member of Parliament and as a member of the Executive Council or as a Minister of the Crown immediately before having to vacate office as a member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 (the Act) may continue to hold office as a member of the Executive Council or as a Minister of the Crown until the close of the day after the day on which the Electoral Commission declares, in accordance with section 193(5)(a) of the Act, the elected list candidates.\n(3) In subsection (2)(b), list candidate has the meaning given to it by section 3(1) of the Electoral Act 1993.\nCompare: 1979 No 33 s 9\n"
+      },
+      "sec-008": {
+       "label": "s 8",
+       "kind": "section",
+       "text": "# 8 Appointment of Parliamentary Under-Secretaries\n(1) The Governor-General may from time to time, by warrant under the Governor-General's hand, appoint any member of Parliament to be a Parliamentary Under-Secretary in relation to such Ministerial office or offices as are specified in that behalf in the warrant of appointment.\n(2) A Parliamentary Under-Secretary holds office at the pleasure of the Governor-General while they are a member of Parliament.\n(3) However, a Parliamentary Under-Secretary may continue to hold office during the period—\n(a) beginning on the day that they must vacate office as a member of Parliament under section 54(1)(b) or (2)(b) of the Electoral Act 1993 (the Act); and\n(b) ending on the close of the day after the day on which the Electoral Commission declares, in accordance with section 193(5)(a) of the Act, the elected list candidates.\n(4) In subsection (3), list candidate has the meaning given to it by section 3(1) of the Electoral Act 1993.\nCompare: 1979 No 33 ss 11, 12; 1985 No 48 s 5\n"
+      }
+     },
+     "credits": {
+      "sec-006": [
+       "act-2026-045"
+      ],
+      "sec-008": [
+       "act-2026-045"
+      ]
+     },
+     "note": "Words from the official consolidation as at 2026-09-04, dated by its history notes (no consolidation as at 2026-07-10 is archived)."
+    },
+    {
+     "from": "2026-09-04",
+     "source_url": "https://web.archive.org/web/20261005094648id_/https://legislation.govt.nz/act/public/1986/114/en/latest/",
+     "sha256": "728f3769dc46e6ca8304244b2b7a0d32caac36f1dc21f802f822cf9d92c7c474",
+     "changes": {
+      "sec-018": {
+       "label": "s 18",
+       "kind": "section",
+       "text": "# 18 Summoning, proroguing, and dissolution of Parliament\n(1) The Governor-General may by Proclamation summon Parliament to meet at such place and time as may be appointed therein, notwithstanding that when the Proclamation is signed or when it takes effect Parliament stands prorogued to a particular date.\n(1A) [Repealed]\n(2) The Governor-General may by Proclamation prorogue or dissolve Parliament.\n(3) A Proclamation summoning, proroguing, or dissolving Parliament shall be effective—\n(a) on being gazetted; or\n(b) on being publicly read, by some person authorised to do so by the Governor-General, in the presence of the Clerk of the House of Representatives and 2 other persons,—\nwhichever occurs first.\n(4) Every Proclamation that takes effect pursuant to subsection (3)(b) shall be gazetted as soon as practicable after it is publicly read.\nCompare: New Zealand Constitution Act 1852 ss 44, 82 (UK)\n"
+      },
+      "sec-018a": {
+       "label": "s 18A",
+       "kind": "section",
+       "text": "# 18A Changing place of meeting of Parliament if appointed place is unsafe or uninhabitable\nGovernor-General may change place of meeting of Parliament\n(1) The Governor-General may, by Proclamation, change the place of meeting of Parliament appointed in the Proclamation summoning Parliament if that place is unsafe or uninhabitable.\nSpeaker may change place of meeting of Parliament\n(2) The Speaker may, by notice in writing, change the place of meeting of Parliament set out in the Proclamation summoning Parliament.\n(3) The Speaker may do so only if—\n(a) the place of meeting of Parliament appointed in the Proclamation is unsafe or uninhabitable; and\n(b) a state of national emergency has been declared under section 115(2) of the Emergency Management Act 2026; and\n(c) the Prime Minister has agreed to the proposed change to the place of meeting of Parliament.\n(4) The notice—\n(a) takes effect at the time at which it is signed by the Speaker; and\n(b) ceases to have effect 14 days after the date on which the state of national emergency is declared; and\n(c) may be amended or withdrawn by the Governor-General by Proclamation.\n(5) The Clerk of the House of Representatives must, as soon as practicable,—\n(a) notify all members of Parliament of the notice; and\n(b) communicate the notice to the public; and\n(c) publish the notice in the Gazette.\n(6) The powers of the Speaker under this section may be exercised by the Speaker within the meaning of that term under section 5 of the Parliament Act 2025.\n"
+      }
+     },
+     "credits": {
+      "sec-018": [
+       "act-2026-053"
+      ],
+      "sec-018a": [
+       "act-2026-053"
+      ]
+     },
+     "note": "Official consolidation as at 2026-09-04 (legislation.govt.nz, archived 20261005)."
+    }
+   ]
+  },
+  {
+   "slug": "bill-of-rights-act",
+   "short": "NZBORA",
+   "title": "New Zealand Bill of Rights Act 1990",
+   "url": "https://www.legislation.govt.nz/act/public/1990/109/en/latest/",
+   "first_law": null,
+   "earlier_laws": [
+    "act-1990-109",
+    "act-1993-082"
+   ],
+   "versions": [
+    {
+     "from": "1994-02-01",
+     "source_url": "https://web.archive.org/web/20130506161514id_/http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html",
+     "sha256": "5cb1d5d6a8faf438f4639c5d33e7ad515a2cf6d5c255ac21c3b2f46d1b0545de",
+     "units": {
+      "long-title": {
+       "label": "Long title",
+       "kind": "title",
+       "text": "An Act—\n(a) to affirm, protect, and promote human rights and fundamental freedoms in New Zealand; and\n(b) to affirm New Zealand's commitment to the International Covenant on Civil and Political Rights\n"
+      },
+      "sec-001": {
+       "label": "s 1",
+       "kind": "section",
+       "text": "# 1 Short Title and commencement\n(1) This Act may be cited as the New Zealand Bill of Rights Act 1990.\n(2) This Act shall come into force on the 28th day after the date on which it receives the Royal assent.\n"
+      },
+      "sec-002": {
+       "label": "s 2",
+       "kind": "section",
+       "text": "# 2 Rights affirmed\nThe rights and freedoms contained in this Bill of Rights are affirmed.\n"
+      },
+      "sec-003": {
+       "label": "s 3",
+       "kind": "section",
+       "text": "# 3 Application\nThis Bill of Rights applies only to acts done—\n(a) by the legislative, executive, or judicial branches of the Government of New Zealand; or\n(b) by any person or body in the performance of any public function, power, or duty conferred or imposed on that person or body by or pursuant to law.\n"
+      },
+      "sec-004": {
+       "label": "s 4",
+       "kind": "section",
+       "text": "# 4 Other enactments not affected\nNo court shall, in relation to any enactment (whether passed or made before or after the commencement of this Bill of Rights),—\n(a) hold any provision of the enactment to be impliedly repealed or revoked, or to be in any way invalid or ineffective; or\n(b) decline to apply any provision of the enactment—\nby reason only that the provision is inconsistent with any provision of this Bill of Rights.\n"
+      },
+      "sec-005": {
+       "label": "s 5",
+       "kind": "section",
+       "text": "# 5 Justified limitations\nSubject to section 4, the rights and freedoms contained in this Bill of Rights may be subject only to such reasonable limits prescribed by law as can be demonstrably justified in a free and democratic society.\n"
+      },
+      "sec-006": {
+       "label": "s 6",
+       "kind": "section",
+       "text": "# 6 Interpretation consistent with Bill of Rights to be preferred\nWherever an enactment can be given a meaning that is consistent with the rights and freedoms contained in this Bill of Rights, that meaning shall be preferred to any other meaning.\n"
+      },
+      "sec-007": {
+       "label": "s 7",
+       "kind": "section",
+       "text": "# 7 Attorney-General to report to Parliament where Bill appears to be inconsistent with Bill of Rights\nWhere any Bill is introduced into the House of Representatives, the Attorney-General shall,—\n(a) in the case of a Government Bill, on the introduction of that Bill; or\n(b) in any other case, as soon as practicable after the introduction of the Bill,—\nbring to the attention of the House of Representatives any provision in the Bill that appears to be inconsistent with any of the rights and freedoms contained in this Bill of Rights.\n"
+      },
+      "sec-008": {
+       "label": "s 8",
+       "kind": "section",
+       "text": "# 8 Right not to be deprived of life\nNo one shall be deprived of life except on such grounds as are established by law and are consistent with the principles of fundamental justice.\n"
+      },
+      "sec-009": {
+       "label": "s 9",
+       "kind": "section",
+       "text": "# 9 Right not to be subjected to torture or cruel treatment\nEveryone has the right not to be subjected to torture or to cruel, degrading, or disproportionately severe treatment or punishment.\n"
+      },
+      "sec-010": {
+       "label": "s 10",
+       "kind": "section",
+       "text": "# 10 Right not to be subjected to medical or scientific experimentation\nEvery person has the right not to be subjected to medical or scientific experimentation without that person's consent.\n"
+      },
+      "sec-011": {
+       "label": "s 11",
+       "kind": "section",
+       "text": "# 11 Right to refuse to undergo medical treatment\nEveryone has the right to refuse to undergo any medical treatment.\n"
+      },
+      "sec-012": {
+       "label": "s 12",
+       "kind": "section",
+       "text": "# 12 Electoral rights\nEvery New Zealand citizen who is of or over the age of 18 years—\n(a) has the right to vote in genuine periodic elections of members of the House of Representatives, which elections shall be by equal suffrage and by secret ballot; and\n(b) is qualified for membership of the House of Representatives.\n"
+      },
+      "sec-013": {
+       "label": "s 13",
+       "kind": "section",
+       "text": "# 13 Freedom of thought, conscience, and religion\nEveryone has the right to freedom of thought, conscience, religion, and belief, including the right to adopt and to hold opinions without interference.\n"
+      },
+      "sec-014": {
+       "label": "s 14",
+       "kind": "section",
+       "text": "# 14 Freedom of expression\nEveryone has the right to freedom of expression, including the freedom to seek, receive, and impart information and opinions of any kind in any form.\n"
+      },
+      "sec-015": {
+       "label": "s 15",
+       "kind": "section",
+       "text": "# 15 Manifestation of religion and belief\nEvery person has the right to manifest that person's religion or belief in worship, observance, practice, or teaching, either individually or in community with others, and either in public or in private.\n"
+      },
+      "sec-016": {
+       "label": "s 16",
+       "kind": "section",
+       "text": "# 16 Freedom of peaceful assembly\nEveryone has the right to freedom of peaceful assembly.\n"
+      },
+      "sec-017": {
+       "label": "s 17",
+       "kind": "section",
+       "text": "# 17 Freedom of association\nEveryone has the right to freedom of association.\n"
+      },
+      "sec-018": {
+       "label": "s 18",
+       "kind": "section",
+       "text": "# 18 Freedom of movement\n(1) Everyone lawfully in New Zealand has the right to freedom of movement and residence in New Zealand.\n(2) Every New Zealand citizen has the right to enter New Zealand.\n(3) Everyone has the right to leave New Zealand.\n(4) No one who is not a New Zealand citizen and who is lawfully in New Zealand shall be required to leave New Zealand except under a decision taken on grounds prescribed by law.\n"
+      },
+      "sec-019": {
+       "label": "s 19",
+       "kind": "section",
+       "text": "# 19 Freedom from discrimination\n(1) Everyone has the right to freedom from discrimination on the grounds of discrimination in the Human Rights Act 1993.\n(2) Measures taken in good faith for the purpose of assisting or advancing persons or groups of persons disadvantaged because of discrimination that is unlawful by virtue of Part 2 of the Human Rights Act 1993 do not constitute discrimination.\n"
+      },
+      "sec-020": {
+       "label": "s 20",
+       "kind": "section",
+       "text": "# 20 Rights of minorities\nA person who belongs to an ethnic, religious, or linguistic minority in New Zealand shall not be denied the right, in community with other members of that minority, to enjoy the culture, to profess and practise the religion, or to use the language, of that minority.\n"
+      },
+      "sec-021": {
+       "label": "s 21",
+       "kind": "section",
+       "text": "# 21 Unreasonable search and seizure\nEveryone has the right to be secure against unreasonable search or seizure, whether of the person, property, or correspondence or otherwise.\n"
+      },
+      "sec-022": {
+       "label": "s 22",
+       "kind": "section",
+       "text": "# 22 Liberty of the person\nEveryone has the right not to be arbitrarily arrested or detained.\n"
+      },
+      "sec-023": {
+       "label": "s 23",
+       "kind": "section",
+       "text": "# 23 Rights of persons arrested or detained\n(1) Everyone who is arrested or who is detained under any enactment—\n(a) shall be informed at the time of the arrest or detention of the reason for it; and\n(b) shall have the right to consult and instruct a lawyer without delay and to be informed of that right; and\n(c) shall have the right to have the validity of the arrest or detention determined without delay by way of habeas corpus and to be released if the arrest or detention is not lawful.\n(2) Everyone who is arrested for an offence has the right to be charged promptly or to be released.\n(3) Everyone who is arrested for an offence and is not released shall be brought as soon as possible before a court or competent tribunal.\n(4) Everyone who is—\n(a) arrested; or\n(b) detained under any enactment—\nfor any offence or suspected offence shall have the right to refrain from making any statement and to be informed of that right.\n(5) Everyone deprived of liberty shall be treated with humanity and with respect for the inherent dignity of the person.\n"
+      },
+      "sec-024": {
+       "label": "s 24",
+       "kind": "section",
+       "text": "# 24 Rights of persons charged\nEveryone who is charged with an offence—\n(a) shall be informed promptly and in detail of the nature and cause of the charge; and\n(b) shall be released on reasonable terms and conditions unless there is just cause for continued detention; and\n(c) shall have the right to consult and instruct a lawyer; and\n(d) shall have the right to adequate time and facilities to prepare a defence; and\n(e) shall have the right, except in the case of an offence under military law tried before a military tribunal, to the benefit of a trial by jury when the penalty for the offence is or includes imprisonment for more than 3 months; and\n(f) shall have the right to receive legal assistance without cost if the interests of justice so require and the person does not have sufficient means to provide for that assistance; and\n(g) shall have the right to have the free assistance of an interpreter if the person cannot understand or speak the language used in court.\n"
+      },
+      "sec-025": {
+       "label": "s 25",
+       "kind": "section",
+       "text": "# 25 Minimum standards of criminal procedure\nEveryone who is charged with an offence has, in relation to the determination of the charge, the following minimum rights:\n(a) the right to a fair and public hearing by an independent and impartial court:\n(b) the right to be tried without undue delay:\n(c) the right to be presumed innocent until proved guilty according to law:\n(d) the right not to be compelled to be a witness or to confess guilt:\n(e) the right to be present at the trial and to present a defence:\n(f) the right to examine the witnesses for the prosecution and to obtain the attendance and examination of witnesses for the defence under the same conditions as the prosecution:\n(g) the right, if convicted of an offence in respect of which the penalty has been varied between the commission of the offence and sentencing, to the benefit of the lesser penalty:\n(h) the right, if convicted of the offence, to appeal according to law to a higher court against the conviction or against the sentence or against both:\n(i) the right, in the case of a child, to be dealt with in a manner that takes account of the child's age.\n"
+      },
+      "sec-026": {
+       "label": "s 26",
+       "kind": "section",
+       "text": "# 26 Retroactive penalties and double jeopardy\n(1) No one shall be liable to conviction of any offence on account of any act or omission which did not constitute an offence by such person under the law of New Zealand at the time it occurred.\n(2) No one who has been finally acquitted or convicted of, or pardoned for, an offence shall be tried or punished for it again.\n"
+      },
+      "sec-027": {
+       "label": "s 27",
+       "kind": "section",
+       "text": "# 27 Right to justice\n(1) Every person has the right to the observance of the principles of natural justice by any tribunal or other public authority which has the power to make a determination in respect of that person's rights, obligations, or interests protected or recognised by law.\n(2) Every person whose rights, obligations, or interests protected or recognised by law have been affected by a determination of any tribunal or other public authority has the right to apply, in accordance with law, for judicial review of that determination.\n(3) Every person has the right to bring civil proceedings against, and to defend civil proceedings brought by, the Crown, and to have those proceedings heard, according to law, in the same way as civil proceedings between individuals.\n"
+      },
+      "sec-028": {
+       "label": "s 28",
+       "kind": "section",
+       "text": "# 28 Other rights and freedoms not affected\nAn existing right or freedom shall not be held to be abrogated or restricted by reason only that the right or freedom is not included in this Bill of Rights or is included only in part.\n"
+      },
+      "sec-029": {
+       "label": "s 29",
+       "kind": "section",
+       "text": "# 29 Application to legal persons\nExcept where the provisions of this Bill of Rights otherwise provide, the provisions of this Bill of Rights apply, so far as practicable, for the benefit of all legal persons as well as for the benefit of all natural persons.\n"
+      }
+     },
+     "credits": {},
+     "note": "Official version as at 1994-02-01 (legislation.govt.nz, archived 20130506): the oldest version archived."
+    },
+    {
+     "from": "2013-07-01",
+     "source_url": "https://web.archive.org/web/20220911064208id_/https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html",
+     "sha256": "e42a9f0f5d410616e2aa8ed68d0712739a76890610460e7ab6f2fb0fe74e7f00",
+     "changes": {
+      "sec-024": {
+       "label": "s 24",
+       "kind": "section",
+       "text": "# 24 Rights of persons charged\nEveryone who is charged with an offence—\n(a) shall be informed promptly and in detail of the nature and cause of the charge; and\n(b) shall be released on reasonable terms and conditions unless there is just cause for continued detention; and\n(c) shall have the right to consult and instruct a lawyer; and\n(d) shall have the right to adequate time and facilities to prepare a defence; and\n(e) shall have the right, except in the case of an offence under military law tried before a military tribunal, to the benefit of a trial by jury when the penalty for the offence is or includes imprisonment for 2 years or more; and\n(f) shall have the right to receive legal assistance without cost if the interests of justice so require and the person does not have sufficient means to provide for that assistance; and\n(g) shall have the right to have the free assistance of an interpreter if the person cannot understand or speak the language used in court.\n"
+      }
+     },
+     "credits": {
+      "sec-024": [
+       "act-2011-092"
+      ]
+     },
+     "note": "Official consolidation as at 2013-07-01 (legislation.govt.nz, archived 20220911)."
+    },
+    {
+     "from": "2022-08-30",
+     "source_url": "https://web.archive.org/web/20261005094754id_/https://legislation.govt.nz/act/public/1990/109/en/latest/",
+     "sha256": "5ad1cd29d91ccdf158432808ed1d219e3868acf3bcfccd1ef01450797a647037",
+     "changes": {
+      "sec-007a": {
+       "label": "s 7A",
+       "kind": "section",
+       "text": "# 7A Attorney-General to notify Parliament of declaration of inconsistency\n(1) This section applies if a declaration made by a senior court that an enactment is inconsistent with this Bill of Rights (and not made under section 92J of the Human Rights Act 1993) becomes final because—\n(a) no appeals, or applications for leave to appeal, against the making of the declaration are lodged in the period for lodging them; or\n(b) all lodged appeals, or applications for leave to appeal, against the making of the declaration are withdrawn or dismissed.\n(2) The Attorney-General must present to the House of Representatives, not later than the sixth sitting day of the House of Representatives after the declaration becomes final, a notice bringing the declaration to the attention of the House of Representatives.\n"
+      },
+      "sec-007b": {
+       "label": "s 7B",
+       "kind": "section",
+       "text": "# 7B Responsible Minister to report to Parliament Government's response to declaration\n(1) If a notice is presented under section 7A of a declaration that an enactment is inconsistent, the Minister responsible for the administration of the enactment must present to the House of Representatives, before the deadline, a report advising of the Government's response to the declaration.\n(2) The deadline is the end of 6 months starting on the date on which the notice is presented, or any earlier or later time—\n(a) specified by a resolution of the House of Representatives; or\n(b) otherwise determined by or on behalf of the House of Representatives, in accordance with its rules and practice.\n"
+      }
+     },
+     "credits": {
+      "sec-007a": [
+       "act-2022-045"
+      ],
+      "sec-007b": [
+       "act-2022-045"
+      ]
+     },
+     "note": "Official consolidation as at 2022-08-30 (legislation.govt.nz, archived 20261005)."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "English is built: New Zealand legislation is enacted in English (some Acts also have te reo Maori text, none in these acts).",
+  "Versions are the official consolidations archived by the Internet Archive; consolidations that were not archived are missing, and their changes are dated by the history notes of the next archived one.",
+  "\"Compare\" notes are kept as printed under each section; the PCO history notes and reprint notes are not law text and are left out of the files (they are used only to date and credit changes).",
+  "Units: the long title, each section and each schedule; Part and cross headings are not separate files.",
+  "A consolidation whose words equal the previous one (an older reprint relabelled by its reprint date) is not a version.",
+  "Where one provision was changed on several dates between two archived consolidations, the first date reads \"[The source does not give the text in force on this date.]\" and the last date has the new words.",
+  "Pages used for constitution-act: as at 2005-05-17 from https://www.legislation.govt.nz/act/public/1986/0114/latest/whole.html (capture 20250216094023); as at 2025-11-13 from https://www.legislation.govt.nz/act/public/1986/114/en/latest/ (capture 20260714164843); as at 2026-09-04 from https://legislation.govt.nz/act/public/1986/114/en/latest/ (capture 20261005094648)",
+  "Pages used for bill-of-rights-act: as at 1994-02-01 from http://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html (capture 20130506161514); as at 2013-07-01 from https://www.legislation.govt.nz/act/public/1990/0109/latest/whole.html (capture 20220911064208); as at 2022-08-30 from https://legislation.govt.nz/act/public/1990/109/en/latest/ (capture 20261005094754)"
+ ],
+ "ai_use": [
+  "Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote ccindex.py, fetch.py and parse.py and chose the sources; it did not write or alter any legal text. parse.py is deterministic and runs no model; every line of law comes from an archived official page in the cache."
+ ]
+}
