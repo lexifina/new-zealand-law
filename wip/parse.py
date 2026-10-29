@@ -176,6 +176,10 @@ def parse_page(raw: bytes) -> dict:
     def in_sched(p):
         return p.name == 'div' and is_cls(p, 'schedule')
 
+    # old reprints append the amending Acts' own transitional provisions ("skeletons"): not part of the Act
+    for t in soup.find_all(class_='skeletons'):
+        t.decompose()
+
     for d in soup.find_all(prov_ok):
         if has_ancestor(d, lambda p: prov_ok(p) or in_sched(p)):
             continue
