@@ -403,7 +403,13 @@ def build_act(spec: dict, caps: list[dict], laws: dict, decisions: list, log: li
 
 def main():
     caps = json.loads((HERE / 'captures.json').read_text(encoding='utf-8'))
-    only = sys.argv[1:]
+    args = sys.argv[1:]
+    out_path = HERE / 'corpus.json'
+    if '--out' in args:  # write elsewhere (to test an act before it goes into corpus.json)
+        i = args.index('--out')
+        out_path = Path(args[i + 1])
+        del args[i:i + 2]
+    only = args
     laws, decisions, log, acts, pages = {}, [], [], [], {}
     for spec in ACTS:
         if only and spec['slug'] not in only:
@@ -478,11 +484,11 @@ def main():
                    'chose the sources; it did not write or alter any legal text. parse.py is deterministic and runs '
                    'no model; every line of law comes from an archived official page in the cache.'],
     }
-    out = HERE / 'corpus.json'
+    out = out_path
     tmp = out.with_suffix('.json.tmp')
     tmp.write_text(json.dumps(corpus, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
     tmp.replace(out)
-    (HERE / 'parse.log').write_text('\n'.join(log) + '\n', encoding='utf-8', newline='\n')
+    (out.parent / 'parse.log').write_text('\n'.join(log) + '\n', encoding='utf-8', newline='\n')
     for a in acts:
         print(a['slug'], len(a['versions']), 'versions', [v['from'] for v in a['versions']])
     print(len(laws), 'laws;', len(log), 'log lines')

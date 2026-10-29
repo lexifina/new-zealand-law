@@ -459,6 +459,1760 @@
    "url": "https://legislation.govt.nz/act/public/1986/114/en/latest/"
   }
  ],
+ "crimes-act": [
+  {
+   "as_at": "2008-10-01",
+   "bytes": 1660941,
+   "kind": "old-latest",
+   "sha256": "fa9046d3aaca5268504a35412cae2f64990a51e23ba680096cebe681cf8c2bed",
+   "timestamp": "20081021013158",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2008-12-25",
+   "bytes": 1670311,
+   "kind": "old-latest",
+   "sha256": "6ac716d23bdd79298f2d5134c2d2f666ef73977d5ab5ac9679c6efc6aab0c7ef",
+   "timestamp": "20090215044345",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2008-12-25",
+   "bytes": 1670315,
+   "kind": "old-latest",
+   "sha256": "86168e694cb78b1f9a775691418c894d5c24c2e1e6e49d6a76315319867bf603",
+   "timestamp": "20090321093136",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2009-12-08",
+   "bytes": 1452521,
+   "kind": "old-latest",
+   "sha256": "943aec87361f22a6d7fd4889683a24f268296edb08d66985730033f3b9a3ebe3",
+   "timestamp": "20100216020611",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2009-12-08",
+   "bytes": 1452587,
+   "kind": "old-latest",
+   "sha256": "a5c2be43588c81d9945b588e8c35d465c06e945231078e8813c22a5a38c6b730",
+   "timestamp": "20100519140444",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html?"
+  },
+  {
+   "as_at": "2009-12-08",
+   "bytes": 1495502,
+   "kind": "old-latest",
+   "sha256": "454d7f98237f7cc37d691b3d31a22feeed6ee14113078ea1585bd7fa44779dda",
+   "timestamp": "20100524054038",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act_building+act_resel"
+  },
+  {
+   "as_at": "2011-07-01",
+   "bytes": 1425998,
+   "kind": "old-latest",
+   "sha256": "1222735ff58e9e0af63c20633df0259b0fb70fa80aa33b178112b809db07613f",
+   "timestamp": "20110716075725",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2011-07-01",
+   "bytes": 1425998,
+   "kind": "old-latest",
+   "sha256": "a5c60e03d034a19dcefc6ebabd519fd71dc6636ca9bcd23879c95295256a9b90",
+   "timestamp": "20110724195927",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2011-07-13",
+   "bytes": 1425084,
+   "kind": "old-latest",
+   "sha256": "d328422ca221fb6add2e68ea0519696848dcf297c93cb93661c5318f6f7592eb",
+   "timestamp": "20110808030053",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2011-07-13",
+   "bytes": 1425080,
+   "kind": "old-latest",
+   "sha256": "d53f2b29577114c4648c796337a9dc1716d7909e57f6ad7a6db1eda7084b9720",
+   "timestamp": "20110929224610",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2011-07-13",
+   "bytes": 1425084,
+   "kind": "old-latest",
+   "sha256": "3f8e692771302b790131ee55eb27c8969983ddf14438f4bd046ec57c2882ac59",
+   "timestamp": "20111213071436",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2011-07-13",
+   "bytes": 1425352,
+   "kind": "old-latest",
+   "sha256": "b9329ba43f9536c8d6b3457ba486a787eb8fc26addee47621296ec9075c9aa56",
+   "timestamp": "20120119031219",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-02-13",
+   "bytes": 1421059,
+   "kind": "old-latest",
+   "sha256": "10167e08cd2e0a4c4b092fa97691a9c8b0b3f6cad289b58cb98a14846240e5d0",
+   "timestamp": "20120224140207",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-03-19",
+   "bytes": 1428245,
+   "kind": "old-latest",
+   "sha256": "a80c5f94d5c8d79c99285c78dc525a80dfa7d7faec3d17013e8b1dd1fb2545fd",
+   "timestamp": "20120403145405",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-04-18",
+   "bytes": 1355446,
+   "kind": "old-latest",
+   "sha256": "ec907a5c0278304716d276b2acfc5972baa3f3e4fa012eedc83df2544a6e10ee",
+   "timestamp": "20120504105807",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-04-18",
+   "bytes": 1355475,
+   "kind": "old-latest",
+   "sha256": "6b754b96ef631a04661e3c7e09a5e05723014201ed2dfcc19f0467531b58efe3",
+   "timestamp": "20120712180735",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-04-18",
+   "bytes": 1355446,
+   "kind": "old-latest",
+   "sha256": "9480a464857222bdd5a88e60ed72d529635ae9754b6ded82413687761435d37b",
+   "timestamp": "20120829034419",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html?"
+  },
+  {
+   "as_at": "2012-04-18",
+   "bytes": 1355475,
+   "kind": "old-latest",
+   "sha256": "43d71c40a936a8c65032a349a53eac2d8647865ed73ab1b2bc0712f0686ea3f0",
+   "timestamp": "20121010184138",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-04-18",
+   "bytes": 1355475,
+   "kind": "old-latest",
+   "sha256": "f4f981876bfc2a2f367d9e569e9c9fe9c8453dc18a5a0aa18309b85b6b37ddf8",
+   "timestamp": "20121023010443",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-04-18",
+   "bytes": 1355446,
+   "kind": "old-latest",
+   "sha256": "dccd7e228d7e33455589bce6dfc703c376760243a2dd6a5a3916621622333cf3",
+   "timestamp": "20121024115201",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1321547,
+   "kind": "old-latest",
+   "sha256": "eb7e0010cef61602729afedac4ed45c38038dd6e2aa83ad692c3d6ed54332848",
+   "timestamp": "20121104191958",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?p=1"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1313407,
+   "kind": "old-latest",
+   "sha256": "84a0919fa160b5845084011cfe713c52a05ea19f95b18c71ba233b43e70edd3d",
+   "timestamp": "20130205192115",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1331188,
+   "kind": "old-latest",
+   "sha256": "d8d994f24ed58e3938a75daf8bf2da61887aa0d6b28c17ad22e914e388638018",
+   "timestamp": "20130518094059",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 1088290,
+   "kind": "old-latest",
+   "sha256": "9a68c527e8c75f97c1dc28c7e33649032609230db88154b73ede75c39a0ecb6a",
+   "timestamp": "20130719185132",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 1088290,
+   "kind": "old-latest",
+   "sha256": "821936832e709e431f853cab4f2065c0d49132f0528bd75bd5a870a840dcdd02",
+   "timestamp": "20130720225602",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-05",
+   "bytes": 1082896,
+   "kind": "old-latest",
+   "sha256": "0787f8b520905443bf02b9da9930c9a734410e94bf66cecd04b69a33fb980adb",
+   "timestamp": "20130823071731",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-05",
+   "bytes": 1082892,
+   "kind": "old-latest",
+   "sha256": "4ce44500417dbc45272ad734bd681fb752f63f63e5e043a0bae29df14597233d",
+   "timestamp": "20130824180047",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-19",
+   "bytes": 1082723,
+   "kind": "old-latest",
+   "sha256": "590dd4c6cb0ffd43ed9e17f9b9cdb016844f1e02983238cb113d7eea12d422f3",
+   "timestamp": "20130901080309",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-19",
+   "bytes": 1083188,
+   "kind": "old-latest",
+   "sha256": "3bea1895c47bc70d75a0d5576eeeb877a2f08aa14d7ce3b81cffc17bcbd94a70",
+   "timestamp": "20130924232006",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-19",
+   "bytes": 1084166,
+   "kind": "old-latest",
+   "sha256": "dac39ba72fc5255b492b15c96e4676d8653108ef4dac0a3639bddc5f26f906a1",
+   "timestamp": "20131102120737",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-19",
+   "bytes": 1013743,
+   "kind": "old-latest",
+   "sha256": "ed281c805830c82b0f09d12abea7957104bb26b459fc9906a7f35cc8af98567f",
+   "timestamp": "20140426042855",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2014-05-11",
+   "bytes": 1014423,
+   "kind": "old-latest",
+   "sha256": "780e8be5a41d9fe31e8598b152279e6fea9fcfd1ea5bc7f4eb74a58fb8469934",
+   "timestamp": "20140704132841",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2014-05-11",
+   "bytes": 1014427,
+   "kind": "old-latest",
+   "sha256": "e4fdb77928e129f60c8742af3afe05c31f602dbb0d6735190cfb2b0bddb5c858",
+   "timestamp": "20141007185953",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2014-05-11",
+   "bytes": 1014693,
+   "kind": "old-latest",
+   "sha256": "3f587e2e59b9afd6460bc4669bbe979bf44c277aacac213f7145266bcf2ea406",
+   "timestamp": "20141209233532",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=qs_act_burglary"
+  },
+  {
+   "as_at": "2014-12-12",
+   "bytes": 1015923,
+   "kind": "old-latest",
+   "sha256": "981f2c5834eecfd725bd00b3677a5f330ef463b86e99c233562467c2dd029e40",
+   "timestamp": "20150109011817",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2013-08-05",
+   "bytes": 1081436,
+   "kind": "old-numbered",
+   "sha256": "bab051fe55f79fc1fc672a311dd4d5a4836ea67fcd5c7e420d5e067dec1150d5",
+   "timestamp": "20150114155727",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/89.0/whole.html"
+  },
+  {
+   "as_at": "2014-12-15",
+   "bytes": 1017705,
+   "kind": "old-latest",
+   "sha256": "f2cc9ce7811c750f6a11cb6718c72cf1aa34b37ca3ec46bcb338f1f38b0bb152",
+   "timestamp": "20150114190710",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2014-12-15",
+   "bytes": 1017141,
+   "kind": "old-latest",
+   "sha256": "6da956bb931ac3fdee22ee091e087cea56623159f94cd5b4d03efbbdf39e4d6c",
+   "timestamp": "20150226153929",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html?"
+  },
+  {
+   "as_at": "2014-12-15",
+   "bytes": 1020435,
+   "kind": "old-latest",
+   "sha256": "b186f4fac35ac727da5ff1df30dffe9e7264b49ae06c7ea7a4d2b4156842a85f",
+   "timestamp": "20150427091818",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-05-07",
+   "bytes": 1224162,
+   "kind": "old-latest",
+   "sha256": "088e818fdbff08fc0aeb95ab66ed957f2da4c6e23cf7ae9bf0843fc2b62de10f",
+   "timestamp": "20150515014511",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-07-03",
+   "bytes": 1225870,
+   "kind": "old-latest",
+   "sha256": "786f45b08f2e1611ae6a60ef61db84f6afd1662bf17b96f17a01ff40bcc20bd3",
+   "timestamp": "20150823011337",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-07-03",
+   "bytes": 1226843,
+   "kind": "old-latest",
+   "sha256": "c3eeb7227f31ed21b283bbc4c718e827a76b933b6beac97b7b4eae1d5e5195a9",
+   "timestamp": "20150910130024",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-07-03",
+   "bytes": 1226842,
+   "kind": "old-latest",
+   "sha256": "541da94228a027da316aafec1aaa919e194662b887f6c60a15d5fdbb87a5a328",
+   "timestamp": "20151007035100",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-07-03",
+   "bytes": 1225869,
+   "kind": "old-latest",
+   "sha256": "c1c0ddecff958b621175809bbd5447be3171bdb361657695955f45075bc833c3",
+   "timestamp": "20151021125734",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1282158,
+   "kind": "old-latest",
+   "sha256": "fe0d968f20005d14cc74dfc5ac0d39f6d5f9bd72346f0909f6a4f3d4fe840b62",
+   "timestamp": "20151121085049",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1282138,
+   "kind": "old-latest",
+   "sha256": "725a5506c79cd644f2b4a6dbf788203d603a48e45bf6c3884b5d219977727bd8",
+   "timestamp": "20160710134115",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1283107,
+   "kind": "old-latest",
+   "sha256": "ec62e45b06fe6cc08ae6749313de8da5f7472b70ce1ad099374c28556ffddb9b",
+   "timestamp": "20161009115839",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1283605,
+   "kind": "old-latest",
+   "sha256": "b152740c941b6ef248ff2473da5c5dcea3b3ba0bb5c6a098a8e14ea4b03dcbf6",
+   "timestamp": "20170113160201",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1283605,
+   "kind": "old-latest",
+   "sha256": "4b35b4f143db93b66c4791c1986e4b0188b542a6e53d31c9b59cebd5e420326d",
+   "timestamp": "20170216215907",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1283605,
+   "kind": "old-latest",
+   "sha256": "4b35b4f143db93b66c4791c1986e4b0188b542a6e53d31c9b59cebd5e420326d",
+   "timestamp": "20170308204736",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1286697,
+   "kind": "old-latest",
+   "sha256": "c76ba8a14f7da933b54e3ce700150703c0e7b58452ac9af51391dfa9fe283a5c",
+   "timestamp": "20170331222448",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1287758,
+   "kind": "old-latest",
+   "sha256": "592c3bdb0028a33c1f3c6cba2d371aecb34c1aa94f5980aca9b0eb9cad54d705",
+   "timestamp": "20170523203742",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html?path=act%2fpublic%2f1961%2f0043%2flatest&amp;col=act&amp;fid=whole"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1286697,
+   "kind": "old-latest",
+   "sha256": "8490a45b5a3796745c5e655ad31d313e25a7bf2658f6cf04a4372b89b93b8ddb",
+   "timestamp": "20170629175529",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1286870,
+   "kind": "old-latest",
+   "sha256": "7d9914eee8af390ea285abf4cc8e06d642d98fb7d13f5a94dc10f874d4a17701",
+   "timestamp": "20170724102136",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1286866,
+   "kind": "old-latest",
+   "sha256": "1b81930fe3ac687d0d8ccae3c25722458c26b1eeeabb67bea883015d98d3cd32",
+   "timestamp": "20170730145251",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287469,
+   "kind": "old-latest",
+   "sha256": "d7eaf21111dd18901c996c967db03e91542eaf0ea7f58ef6d802f275c11e3d8c",
+   "timestamp": "20170825140103",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287465,
+   "kind": "old-latest",
+   "sha256": "cee4358c4079a13ef685a0c0004c5434c6f52a9ae3296e3c6fddffd46a612a43",
+   "timestamp": "20170830104300",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286525,
+   "kind": "old-numbered",
+   "sha256": "3566aa7e4ab504a5b44083393945e1992cb0a28e848b9674f667e04aee0d4799",
+   "timestamp": "20170906203733",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286525,
+   "kind": "old-numbered",
+   "sha256": "58302ba928589ce283d0ba241837fbda0d754c9f3bbea01fdd134401943544b5",
+   "timestamp": "20170909000927",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287638,
+   "kind": "old-latest",
+   "sha256": "ebc954e17a523da4032b2e3be310a2489e6d35d9dad36de4856c42392e58d750",
+   "timestamp": "20171001075733",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287634,
+   "kind": "old-latest",
+   "sha256": "3c6cdc46119030e3bccbe82122900c9b2a77af4c8a76770642585ae39716b758",
+   "timestamp": "20171002054536",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286032,
+   "kind": "old-numbered",
+   "sha256": "2cdc54032431988431fd6dd61a83765fc82a72ac7ae823f4c6fc0f7915d3e409",
+   "timestamp": "20171012093744",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1295295,
+   "kind": "old-latest",
+   "sha256": "b8e2ec97f628bae5c9b9af344728de10a198d703d15b8586a4d5bfd03391919b",
+   "timestamp": "20171101094326",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1295291,
+   "kind": "old-latest",
+   "sha256": "de5706b42f71663b989cd1761b09d6a8a8ff9fa2e4576dc4356ddd26c7c01a8b",
+   "timestamp": "20171102193404",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1294342,
+   "kind": "old-numbered",
+   "sha256": "d22be2cd8ba5a7644a90d374299e271fabfc6cb651944e90e9b5a5d0b3651a37",
+   "timestamp": "20171104235405",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/128.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "f158ba7c180a008c1b29dc848ffce15f77a30579bd10a1f35f926b28e6d22168",
+   "timestamp": "20171113024128",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "ae0b4a3831376ae1099b38f7de198354ce74664a0d6ffb06c1d1a04e020dcf64",
+   "timestamp": "20171216041906",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1325485,
+   "kind": "old-numbered",
+   "sha256": "918041dffb7d1665cee7dc7fd47f1c4eaf9a231869653d6032dbcf7549395c8d",
+   "timestamp": "20171221124504",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/83.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1290642,
+   "kind": "old-latest",
+   "sha256": "e9c6a80568579bf9495c6e2120a0165e13aef8e264fd82cd2e4df3e1d833177f",
+   "timestamp": "20180201195622",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "55c90a089fd7bda9a28bfb40f01e4e705aa6b302a301b2120b1826e1664cb62e",
+   "timestamp": "20180207100706",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1286563,
+   "kind": "old-numbered",
+   "sha256": "b9edef8eb330e4fea1db1843203afd047a48b5ccb7e3fbdab94041891db09dce",
+   "timestamp": "20180216102914",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/122.0/whole.html"
+  },
+  {
+   "as_at": "2015-11-07",
+   "bytes": 1282504,
+   "kind": "old-numbered",
+   "sha256": "110e83db95269e6b1dad07e07fb3d7b84ca999b26aaf21c9c187d3160f465941",
+   "timestamp": "20180216113618",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/119.0/whole.html"
+  },
+  {
+   "as_at": "2015-07-03",
+   "bytes": 1226278,
+   "kind": "old-numbered",
+   "sha256": "d64747803a1a7cffb0a7716e7d00be8e6c4026d6aa4061a6693b8a68a212421f",
+   "timestamp": "20180216124749",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/113.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287333,
+   "kind": "old-numbered",
+   "sha256": "42dff8685a220cb82ad1df3dd901f22bc5999acdb7fb400f3f772ad43b337d24",
+   "timestamp": "20180228011719",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "25333ed7c1cd94d2b4e92dbc44e05ffe05e238afc84df010f9212cabff5ec88a",
+   "timestamp": "20180312164830",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "1751cf066e9b2b3b7b935f075177d8c6dd6142bb477d8e3b2e9fb3b04fcac52e",
+   "timestamp": "20180417192004",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "9733b136b32aa058d58da70dfd2e01b0099d00974fb93bc6f1ef36f269a0dccd",
+   "timestamp": "20180420000247",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "81280ac432e27d8cead2758079feb41b86b5747ae075af45f645bd296e0234ca",
+   "timestamp": "20180521034217",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "9a30751cba31f22048e582ecda3c45db3cd90d835261d78252798b1534c9133c",
+   "timestamp": "20180620191923",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289669,
+   "kind": "old-latest",
+   "sha256": "f9915a96149c776f7af8d7f69d52c5eb1e6ae85d98a10300734266cea4fce2ca",
+   "timestamp": "20180625144105",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "75946c2d004bdf6cede5115ffec99146f4394eda8a9f955017b581b0fd7a72b1",
+   "timestamp": "20180711181707",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "64a7db961dd1ccb2ee37647e198e2aedf5a7a58b917b236acda1bcef05fae7ee",
+   "timestamp": "20180721214919",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "aa1fa358711486a54db9f16f3dfd4d4649cec8a51778ae92caf47e552c329b6d",
+   "timestamp": "20180723042352",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289690,
+   "kind": "old-numbered",
+   "sha256": "6c29921a8d5a674c85ad5d4b8214b6e61516595b02be009e68e66545e9293244",
+   "timestamp": "20180728034117",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "39606c4b7b55f11aa0f86e35cfaf6497a2d45e5af5255120dd54add5860fe114",
+   "timestamp": "20180824162813",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "0cc064c9ee739eb6664e37ab2adc4afbdc1aa5d6b8087cccc686eb740ef8884f",
+   "timestamp": "20180924220839",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289669,
+   "kind": "old-latest",
+   "sha256": "9284b20dd6fcafa57caf8c67cc357b9c8d9fcb405b6b7a2bf392ab332892eefb",
+   "timestamp": "20180928003945",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1288717,
+   "kind": "old-numbered",
+   "sha256": "81e1abb2b432f6c09621daf82165451a58592862445774029389a080f1b7dedb",
+   "timestamp": "20181024112103",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289665,
+   "kind": "old-latest",
+   "sha256": "e67a1918616afa3e576cdf3efced31a4d87d58abeb05c4383233b0535fb9e8c1",
+   "timestamp": "20181107210323",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "94b125a782b3fe8e7eb2f4709b552014eb0144b7482404667a1dd870c2ddd14f",
+   "timestamp": "20181113021724",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289379,
+   "kind": "old-numbered",
+   "sha256": "780d89603b9d530a0afe2546a5a2d2be071b1bad1cbfe0a4e15b6468ccf79cf0",
+   "timestamp": "20181125070104",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2018-12-03",
+   "bytes": 1318877,
+   "kind": "old-latest",
+   "sha256": "78c8832f09ff8b29bce1e9eea6460623385ea847cf9541252f30a9e3c2be3256",
+   "timestamp": "20181206095823",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2018-12-03",
+   "bytes": 1319846,
+   "kind": "old-latest",
+   "sha256": "882d1eb9a0f5a9d6660b8bde40c0ca2b441d5dd39e6303b41338b922c1483c5c",
+   "timestamp": "20181210121837",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "554d188da679454a62a825a52adfd45978eb45368fe880c9c14d470edeca1584",
+   "timestamp": "20181220050836",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "9f810c33b3dcf43067eb8a7016a5ffaba90127253dee030c189bab939ab67c1b",
+   "timestamp": "20190113083608",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "c596ad8f2ada275a452614bd2679fb8ae5941cbbe64b85aa9a0313d47a2a0189",
+   "timestamp": "20190114154141",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2018-11-13",
+   "bytes": 1309731,
+   "kind": "old-numbered",
+   "sha256": "404b20fa90f041fe3406be0d26040b3a8d53b74ed481a794d85b1e8667e90c0e",
+   "timestamp": "20190214010001",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/140.0/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1286563,
+   "kind": "old-numbered",
+   "sha256": "70dc6e08b11e632f5c53bc358e97d6bb6135e55b4ee5eebe40fd5ad956fc82e9",
+   "timestamp": "20190214013407",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/122.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1290018,
+   "kind": "old-numbered",
+   "sha256": "457c8a58fa739f40e08ccc4474d5759bc5747891bb5f74773254421cd88747be",
+   "timestamp": "20190215040819",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "09f398eaf47a18fca0a92e306d84476d46eced1a3ccb52fdf921f00b4d4e2eab",
+   "timestamp": "20190215191134",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287333,
+   "kind": "old-numbered",
+   "sha256": "3b0c96aa7f5176e6cce62532397e8e609a16122a1bdaa9c9eac5eb9d0c63d061",
+   "timestamp": "20190218102523",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2018-12-03",
+   "bytes": 1414337,
+   "kind": "old-latest",
+   "sha256": "7dd2a69d22ff6b7f1fbd7bb362a8ea68cde508f0b821e85e6065de9e8c92921f",
+   "timestamp": "20190221172126",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_resource+management+act+1991_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2018-12-03",
+   "bytes": 1319046,
+   "kind": "old-latest",
+   "sha256": "ceac98d808b1abb367e92df8fc6cc9750599e6c5f1244f5f5f8a3fccc38c49ed",
+   "timestamp": "20190313205506",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2019-03-12",
+   "bytes": 1328810,
+   "kind": "old-latest",
+   "sha256": "da4e3fac231a98d7a4f30ecb2d306221abbc562e1d4e85d3ce7ee9bbe378209d",
+   "timestamp": "20190315005156",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "f7e05d14bc8ead60bc4173f5053a9525897eeb1ed10bf2b9a2ef8af2eecaa7eb",
+   "timestamp": "20190319003001",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "b5455ae766ddabd6b422667f3af8e3b35e9413f0e7941d712e5f936e71d9080b",
+   "timestamp": "20190319022757",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "5df2ebdeefd2efbe8c00cc6167266f2b451ba1250fbe5b99cba4b97f9227ea83",
+   "timestamp": "20190320042308",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "215f021b3e23ad2a2428e541605ef38aec92dfd1cf3eab0a8734a84959e3930f",
+   "timestamp": "20190320050119",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2019-03-12",
+   "bytes": 1329791,
+   "kind": "old-latest",
+   "sha256": "c2e3877e259419e449230ba33fab9b576dd788a7230a3120e14339e3da7ffe7e",
+   "timestamp": "20190322084420",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2019-03-12",
+   "bytes": 1328810,
+   "kind": "old-latest",
+   "sha256": "0d0fc97e3cbf1c01738792b4260d9a48d5ce50e82329e6d0c6446cdcdd282f66",
+   "timestamp": "20190410073754",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "ae3b3b00342249d786e2e36d990021f53366fc800efa5c994a4dcadbcb044ce9",
+   "timestamp": "20190423052243",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "cb9a37130773e4f3b1f8407e95d821242f7d570e0b06065c1046cf445768b3fc",
+   "timestamp": "20190424122149",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2019-03-12",
+   "bytes": 1327834,
+   "kind": "old-numbered",
+   "sha256": "73b899d7475d4c0c26ad63a70f3b154e993907f8fc6dc2ba56fc38b76b9d89bc",
+   "timestamp": "20190503145153",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/146.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "56d18980518084175038bd3830f2e3281d9940a1e80d9974e03a38d31c7955a9",
+   "timestamp": "20190520084944",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "d21ab0ab1003808d9e5455181a269b2e5502b64c4455e300c991b2b081893daf",
+   "timestamp": "20190521122825",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "14b9f885d1665ba35dd5d93e20614a1e4f78066185980c2e0784ac24df61675c",
+   "timestamp": "20190526164151",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2010-06-01",
+   "bytes": 1440218,
+   "kind": "old-numbered",
+   "sha256": "8b9c8892609eaad015b1909d2cb41f511e6dc4263e7665c75c7f8b52c125d852",
+   "timestamp": "20190622075037",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/51.0/whole.html"
+  },
+  {
+   "as_at": "2019-03-12",
+   "bytes": 1328810,
+   "kind": "old-latest",
+   "sha256": "28c129412335657ac08c1da34f43d29435e95d2858daea41176c6c54a666784d",
+   "timestamp": "20190623212239",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "d54d4ca13a6c50ccecc05fe57bdd0dd0a1caec03fea98f7b8787f316cb52cc7d",
+   "timestamp": "20190628084044",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1328323,
+   "kind": "old-latest",
+   "sha256": "41a96fb7bd876755610b5cee1d59419cabc2210a67cb50bd55f5693618232d1a",
+   "timestamp": "20190720060258",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "e2537ed6f62a7592c682eae949d2a5de156badc8da5b6923fb211a12b1b123d4",
+   "timestamp": "20190723041705",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "801edc8e7081ab612ad0b93bfe13f266df00da8d3656dc49e256c058f81a08a3",
+   "timestamp": "20190729000545",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1329300,
+   "kind": "old-latest",
+   "sha256": "60ea2b05f6f674b9aa61a66a5291f428bae68e03c0dafce180c5031177f02ef9",
+   "timestamp": "20190805192311",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2010-06-01",
+   "bytes": 1440218,
+   "kind": "old-numbered",
+   "sha256": "ad37705d7a607803e2107e3e90c02c150623d0162862b11e866e2620ab202489",
+   "timestamp": "20190822003110",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/51.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "cfd1e0b2d3e640fb5584795f03e060c50e47d6ff14c13dabfe5b7a4c99b25bce",
+   "timestamp": "20190830215149",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1328816,
+   "kind": "old-latest",
+   "sha256": "6d2a851ee8bf46958ea4873392ed76de50358b6222bee4acb8db5cbbd2a9a6b5",
+   "timestamp": "20190918162701",
+   "url": "http://legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "f5ba759bf069b80c059cd6f443d06e7b42a5c2f5e0844173559f913cc5865621",
+   "timestamp": "20190922140422",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "84ff36ab84501deb8b637e5fcfb009910b9d5a3e48750afcda4319a38da647ac",
+   "timestamp": "20191001035021",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "41b47314e895745c949cd8dd47c87d7852a77fdf83bf6aac680f40829ad65e0f",
+   "timestamp": "20191012044044",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "d0876312d8281931ae7904f8d2ce4d75b745f26c87d19ff99fb8e0c37d7a3310",
+   "timestamp": "20191022110132",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "4af246757ad87cfbd131fd2a28d2841a4f7c927791c68983c075a13350547dd1",
+   "timestamp": "20191029005539",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286350,
+   "kind": "old-numbered",
+   "sha256": "16fe6168e031b1a7de7ef24fcfe92d08440ffac3659ffb81d702e71e83b44978",
+   "timestamp": "20191102123837",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2010-06-01",
+   "bytes": 1440218,
+   "kind": "old-numbered",
+   "sha256": "051cf0409c31b5e9cc67e7a235c0e08f7130ed6baeff1e40928e6fe056d805c0",
+   "timestamp": "20191104023239",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/51.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289035,
+   "kind": "old-numbered",
+   "sha256": "1c28e5406a8792ab23507edf78fc71c61ac4413310d2dce16a23e58b0ca9771c",
+   "timestamp": "20191129024044",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289037,
+   "kind": "old-numbered",
+   "sha256": "3eaf2b0dd5a248a508b25f749eeed83181daf0c3adc270c0f632f7c85aad54fb",
+   "timestamp": "20191229104819",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2010-06-01",
+   "bytes": 1440220,
+   "kind": "old-numbered",
+   "sha256": "d74519c0e7d10aa060e6a8048199b4cb82146fbeb1e995d22d853a3bf41a6d65",
+   "timestamp": "20200105174126",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/51.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1289037,
+   "kind": "old-numbered",
+   "sha256": "8523f8ff1c73db1598bd4e680bda2ae95de1fba5f6b467c6b290d8a26d8aee99",
+   "timestamp": "20200128181228",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1286352,
+   "kind": "old-numbered",
+   "sha256": "c40e5df3b01bb394023134248c5c64de91a3d203c54893d3a4573750965ab7c8",
+   "timestamp": "20200205012220",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1412855,
+   "kind": "old-latest",
+   "sha256": "b1a2a763e77fe56cd8c5e481a317410af73a2941bb3fdeea1d399c023f5d530f",
+   "timestamp": "20200210144627",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_Crimes+Act+1961_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1329791,
+   "kind": "old-latest",
+   "sha256": "30f1708f829b3eb4910b884c2fa02fc48863c1f05e85f5ea514bc398ee22c942",
+   "timestamp": "20200323015309",
+   "url": "http://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1328991,
+   "kind": "old-latest",
+   "sha256": "f1314b35f8323021634b86a7310dd90f79c3413b75ddb66ec06d53fae20c473c",
+   "timestamp": "20200327071143",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1290018,
+   "kind": "old-numbered",
+   "sha256": "949d45b874c3e3eee20b6b18b6d8c301cabd3b12a1aeb2c41e8c1ed325be0b0e",
+   "timestamp": "20200404211626",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2020-03-24",
+   "bytes": 1326056,
+   "kind": "old-latest",
+   "sha256": "3e1452ab8a31ea7763ff1f0a1bf900c6121537e6cc3beddd06af4a3f18304298",
+   "timestamp": "20200416183543",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-03-24",
+   "bytes": 1326052,
+   "kind": "old-latest",
+   "sha256": "f1e6b484dae89a6d8323e34d8301ec389efc12ce2491c3885a5ffcd86761cb12",
+   "timestamp": "20200517012225",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-03-24",
+   "bytes": 1325075,
+   "kind": "old-latest",
+   "sha256": "69beb6d518ccab1d8d7285f997d49cfb00a3cc0b26dfefd3d58e797062e11b20",
+   "timestamp": "20200526160046",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-03-24",
+   "bytes": 1325075,
+   "kind": "old-latest",
+   "sha256": "0def6710ef88d32ef3f1884c46cc5f8a77b6835f3ddb5e43ee611cd978c80cac",
+   "timestamp": "20200625215803",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-07-01",
+   "bytes": 1319412,
+   "kind": "old-latest",
+   "sha256": "6234d7254da57a28788a9f195ccf96309cb942921009a3ca46ffc19ee0ca6d3a",
+   "timestamp": "20200726015532",
+   "url": "http://www.legislation.govt.nz:80/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-07-01",
+   "bytes": 1320393,
+   "kind": "old-latest",
+   "sha256": "98d123592931728bac373c9cd5dcd2293e44686b4cfa87ca420f1edae6986768",
+   "timestamp": "20200804045342",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-07-01",
+   "bytes": 1048576,
+   "kind": "old-latest",
+   "sha256": "4aa03318a922fd5663a83ac7c1276c2a59f9944e412fbab985fb84a65beb40c9",
+   "timestamp": "20200815053959",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-08-26",
+   "bytes": 1326379,
+   "kind": "old-latest",
+   "sha256": "ace8b5af2ed3008d62dd517634e93da296da6b65b8e16253e10de49a70f30c0d",
+   "timestamp": "20201017153900",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "43cb817647b3ff7da68d4208cee14f5134f6af09936a5c623168a882bc0931d7",
+   "timestamp": "20201025031147",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1290010,
+   "kind": "old-numbered",
+   "sha256": "6e64f623fbaeca72c20799cb0877d4c1d701ec468c1ba2cd77562a71211ab72c",
+   "timestamp": "20201112031701",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1287325,
+   "kind": "old-numbered",
+   "sha256": "fde434e0c6527345bccd337a4fcb6c77234b44931166827398cf5c3e50701b63",
+   "timestamp": "20201123072143",
+   "url": "http://www.legislation.govt.nz/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "e7a28a26525ceac188c60a6051c3a06c4ceae7757117f752388deaf037b4dd4e",
+   "timestamp": "20210301102837",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "be46fd19078a9d185d8422ee570f98ef2fac652f7eb52d623f3c7c297d808d60",
+   "timestamp": "20210506025009",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1326460,
+   "kind": "old-numbered",
+   "sha256": "930e6342f2aab87eabffd4db4ea8d04ed64b30f186f43dac932f9576f5d17dde",
+   "timestamp": "20210511023700",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/83.0/whole.html"
+  },
+  {
+   "as_at": "2020-08-26",
+   "bytes": 1326875,
+   "kind": "old-latest",
+   "sha256": "9b75a01eeaf28ebfed74d80a1398aeda89d87f4b52a50c0b71fd7f598a870ca0",
+   "timestamp": "20210812213639",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2020-08-26",
+   "bytes": 1326879,
+   "kind": "old-latest",
+   "sha256": "4b0c49052c5fc7025722cafea6644ff3cd749c9aec1f7bae48f146f4b9db43b2",
+   "timestamp": "20210914184022",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2021-10-05",
+   "bytes": 1328360,
+   "kind": "old-latest",
+   "sha256": "2c66fb1c81c07e1d85fccc02867d205cf1cbed444574b3320d53118f737dd21d",
+   "timestamp": "20211023115115",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "b700bd1865f510bf8a26474da8ed31472ace4600376f305f3bc16b4c9fb826a7",
+   "timestamp": "20211026050440",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2021-10-05",
+   "bytes": 1328429,
+   "kind": "old-latest",
+   "sha256": "5b2cd557968696a6a8edc3d9d1f22658f5693a14035a1f845fbdf7073c1adde3",
+   "timestamp": "20211119004415",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "2d834bda487e2bcb2f8c82e4f63d6a5ddf96a87713c9db486c6e444116f45880",
+   "timestamp": "20211130002102",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/83.0/whole.html"
+  },
+  {
+   "as_at": "2020-08-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "6700e97f12f8ca879ecc89263720fbb380c59aa435fc64966b088cae11f29aa0",
+   "timestamp": "20211206033109",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/158.0/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1340219,
+   "kind": "old-latest",
+   "sha256": "4d7f753b8d877f5d873e27c32c4c60f4f7d7c40b29c9386b78842f11763e3c0e",
+   "timestamp": "20211209024910",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1290410,
+   "kind": "old-numbered",
+   "sha256": "8767d369bb3d154e22b752710396d819384c6078d61a4fbe93f9e77cf618a6ac",
+   "timestamp": "20211217105016",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1484349,
+   "kind": "old-latest",
+   "sha256": "ac852d74c8400c3bc3cd49a643e02d854111e41b49fcba3e96455c0ce6815210",
+   "timestamp": "20220112101706",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=qs_act%40bill%40regulation%40deemedreg_crimes+act_resel_25_h&p=1"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "c5c902e628e0f649137ab5fa26a78fc251a338886ea69533b86fe842512ed0cc",
+   "timestamp": "20220126054250",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/149.0/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1339397,
+   "kind": "old-latest",
+   "sha256": "ca9eb6fad535d77d8755acbb1fa702c5ae462e072ece60bb1c5b7e9cb2b772cf",
+   "timestamp": "20220131114603",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1339489,
+   "kind": "old-latest",
+   "sha256": "ad26ee7d0279daddf810ddcf78f8429237086b0cebbdc3e1bf37657dd95f4d9b",
+   "timestamp": "20220404092749",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2009-07-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "0810cb3c69ed2465b7c4fbc8b7e6f0236cbdb5d9f3820f536ded1ef131742fed",
+   "timestamp": "20220518141550",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/34.0/whole.html"
+  },
+  {
+   "as_at": "2013-07-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "72eada0ed0b3f9c6aea381771937c9d1d444d219fbf052edb24ed97d832c855d",
+   "timestamp": "20220521022821",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/86.0/whole.html"
+  },
+  {
+   "as_at": "2012-02-25",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "65d28b674d9e0213c85523ebe2514d043eab03cb965b3841ecc2dded35b7f2bb",
+   "timestamp": "20220521030806",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/63.0/whole.html"
+  },
+  {
+   "as_at": "2021-10-05",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "6d2da214af11fcd038b7e6e02056852546940e1adc785ca393033ddcd04637ca",
+   "timestamp": "20220526090756",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/167.0/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "d5e143777133e89ef14e726e883f0a4dfddbae17d5183e35e36fc4a9c2b71baf",
+   "timestamp": "20220705151914",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2007-09-03",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "440fba61b31381c918000c5ad87b5eca4eafbbe4a054ff04cbf361126a085f5f",
+   "timestamp": "20220807214210",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/1.0/whole.html"
+  },
+  {
+   "as_at": "2012-10-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "4b9bf256692a4c329153f9ee52381a56e276b4e0fecc2e3f1c7ed7503ce41aa9",
+   "timestamp": "20220811052306",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/83.0/whole.html"
+  },
+  {
+   "as_at": "2009-06-29",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "f9722bf78b828c4cc41a2297f4462094a6fef0d5b035263e2cbc09f7dec5ce0f",
+   "timestamp": "20220811075606",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/31.0/whole.html"
+  },
+  {
+   "as_at": "2013-08-05",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "d12482f0f01d406d3adfac323aac901a09bdc86c0e8aa7fd2d13853c811b918e",
+   "timestamp": "20220813142437",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/89.0/whole.html"
+  },
+  {
+   "as_at": "2020-07-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "f94e239d1c91972daa9c492384b5a4070e796dbfea0fc4679283848465cbc66c",
+   "timestamp": "20220816094426",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/155.0/whole.html"
+  },
+  {
+   "as_at": "2017-03-01",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "e1a52defa58609c7df46e108fad689de6c47662e05f7e00d6cd96085b6edefa6",
+   "timestamp": "20220925060451",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/122.0/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1422399,
+   "kind": "old-latest",
+   "sha256": "8c37f5f2af0a58a6cee30b2f943d8930eaf4f6be9157d20561e366be4dca69f5",
+   "timestamp": "20221103223354",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_crimes+act_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1291940,
+   "kind": "old-numbered",
+   "sha256": "ac68de4bd4c8f8f1278b0f09f79e9acc687bbb4524385c5cfefad98ba43f0272",
+   "timestamp": "20230113153049",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1430532,
+   "kind": "old-latest",
+   "sha256": "9d0e93f817872d98c56f84acaaf906a02159e387847f21777de591ded16226c8",
+   "timestamp": "20230203083235",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_Crimes+Act+1961_resel_25_a&p=1%2f"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1291940,
+   "kind": "old-numbered",
+   "sha256": "bf82a2fbc30f4cc53b09e86af9c1fb6e61e92e53f69d8743936bd042c0faaf78",
+   "timestamp": "20230226054935",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2021-11-06",
+   "bytes": 1341692,
+   "kind": "old-latest",
+   "sha256": "92fd783263a42783f7450287803fc8b2c4c1d801b8ae6aaa266daad2528acd67",
+   "timestamp": "20230411142023",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2023-04-13",
+   "bytes": 1348474,
+   "kind": "old-latest",
+   "sha256": "82dc2d98c141d92258da5a961f843a4e71cf0ea1e245a5be7c3e890528e9233b",
+   "timestamp": "20230509004752",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1048576,
+   "kind": "old-numbered",
+   "sha256": "71f6b67ba1d1909ed1b4a2c573e5e5409117927cd46944050f0133f4321050b6",
+   "timestamp": "20230528123520",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2023-04-13",
+   "bytes": 1348474,
+   "kind": "old-latest",
+   "sha256": "7d3f158bb8186c18ad9632c797eb802146765b9c01ddaa4d9d29e7c439078f7d",
+   "timestamp": "20230601051252",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1291940,
+   "kind": "old-numbered",
+   "sha256": "e074fc8c55e8530f5d646c3e475260fd232602d074b12d2de2154906c0717ca0",
+   "timestamp": "20230628104728",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/137.0/whole.html"
+  },
+  {
+   "as_at": "2021-10-05",
+   "bytes": 1328608,
+   "kind": "old-numbered",
+   "sha256": "669e5d16556a2db0df805f0f347106fb99fb4b1389e800e4c1e089450378aead",
+   "timestamp": "20240112082707",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/167.0/whole.html"
+  },
+  {
+   "as_at": "2020-07-01",
+   "bytes": 1320116,
+   "kind": "old-numbered",
+   "sha256": "52972f63c60d106a3b324b136c6efebb5aa81176ecb22db7ecf711531479cfb9",
+   "timestamp": "20240610101633",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/155.0/whole.html"
+  },
+  {
+   "as_at": "2013-08-05",
+   "bytes": 1084230,
+   "kind": "old-numbered",
+   "sha256": "5f2e4197d9c163105d1e6722d2d0afb90b1037737c473a0b79e7185f47e72d47",
+   "timestamp": "20240611092330",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/89.0/whole.html"
+  },
+  {
+   "as_at": "2007-09-03",
+   "bytes": 1632315,
+   "kind": "old-numbered",
+   "sha256": "44e19f8bc169c7d3b4dbfefb9f815a5ceb5f3fdf2a60d4fe6de7e5eb16d3c999",
+   "timestamp": "20240615042147",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/1.0/whole.html"
+  },
+  {
+   "as_at": "2017-07-14",
+   "bytes": 1288208,
+   "kind": "old-numbered",
+   "sha256": "e7da076940b330baa61fa6a43482ff4f82c10c11bb0fe6b799f9ac0c7e929e0a",
+   "timestamp": "20240630205423",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/125.0/whole.html"
+  },
+  {
+   "as_at": "2023-04-13",
+   "bytes": 1399768,
+   "kind": "old-latest",
+   "sha256": "a47909a962d97eabf28da32d91a2dca4e3362824de6fc91385d56d86f17e760a",
+   "timestamp": "20240717084150",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=sw_096be8ed81d369a9_105_25_se&p=1"
+  },
+  {
+   "as_at": "2023-04-13",
+   "bytes": 1347596,
+   "kind": "old-latest",
+   "sha256": "163032f0b2cd74dc0a2547f63c9c1f343c0e68da6b85f818a88d7bb3b1a2b97f",
+   "timestamp": "20241005224619",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2024-10-01",
+   "bytes": 1348232,
+   "kind": "old-latest",
+   "sha256": "49f305b1e4f04713ea3351fa982273598f229fdc674d842f155163d21c93e2de",
+   "timestamp": "20241010102918",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2024-10-01",
+   "bytes": 1348232,
+   "kind": "old-latest",
+   "sha256": "6f26790960db7748ab90480c65687c55e5a5537341f26e4d3195ab4fe9d1c1e4",
+   "timestamp": "20241205102747",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2024-10-01",
+   "bytes": 1348232,
+   "kind": "old-latest",
+   "sha256": "b6c0fd657459b0deb216f418dffd243211c454ffac4688eee7ec56dfe6b9cd3c",
+   "timestamp": "20241219190448",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2023-04-13",
+   "bytes": 1346228,
+   "kind": "old-numbered",
+   "sha256": "b8bfa2053b05776f973e3d4601b2a79f52b5bc22aaeb5ff3da2d3740ce96c64e",
+   "timestamp": "20250221135559",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/182.0/whole.html"
+  },
+  {
+   "as_at": "2024-10-01",
+   "bytes": 1348232,
+   "kind": "old-latest",
+   "sha256": "c1a98b161f653b7e5ba98db64162c1ca9ffb4abc73a878004ae8b291571c7f37",
+   "timestamp": "20250303093521",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2025-03-14",
+   "bytes": 1435618,
+   "kind": "old-latest",
+   "sha256": "b974c547cbbb64338a7a828d9720c772cef3a2e993cc49c677c3c0fa3f9bce87",
+   "timestamp": "20250402182740",
+   "url": "https://legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act%40bill%40regulation%40deemedreg_crimes+act_resel_25_a&p=1"
+  },
+  {
+   "as_at": "2025-03-14",
+   "bytes": 1499910,
+   "kind": "old-latest",
+   "sha256": "a088784f6e8c39c8a8ff18bdab2b0ab9f7c5421acf4d9a05d6367423263f2fae",
+   "timestamp": "20250424072218",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=qs_act%40bill%40regulation%40deemedreg_crimes+act_resel_25_h&p=1"
+  },
+  {
+   "as_at": "2025-03-14",
+   "bytes": 1352836,
+   "kind": "old-latest",
+   "sha256": "65648e68f5bfc88da014c30455c0fca54e54a996fbea3d35a880b7d647081d07",
+   "timestamp": "20250424161720",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?ref=kannz.com"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1329992,
+   "kind": "old-numbered",
+   "sha256": "d4e68e423567ef2be2b241b223786fd72afeba878905e92c86af8e9971059abc",
+   "timestamp": "20250508210851",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/149.0/whole.html"
+  },
+  {
+   "as_at": "2025-04-05",
+   "bytes": 1372200,
+   "kind": "old-latest",
+   "sha256": "b5db1f531cd312938385de126df6d23e0cce9304a1e9ef620a63ebc0420eab0d",
+   "timestamp": "20250515225631",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act"
+  },
+  {
+   "as_at": "2025-04-05",
+   "bytes": 1372200,
+   "kind": "old-latest",
+   "sha256": "b0db4698f5ce801a72697cf0e0d14d01a3192fa7b6296dd75b658acdbee5a969",
+   "timestamp": "20250515225830",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act"
+  },
+  {
+   "as_at": "2025-04-05",
+   "bytes": 1383617,
+   "kind": "old-latest",
+   "sha256": "6457cd0614eabe162e1f2b025a79be23d0c0174f6f4fc5d0b2a782f7d238814e",
+   "timestamp": "20250515233108",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html?search=ts_act_crimes+act"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1424025,
+   "kind": "old-latest",
+   "sha256": "2ccf9578368e1feb8c11aebc099da9b50aae1ab9b27166082655177282aa3cc2",
+   "timestamp": "20251227081607",
+   "url": "https://www.legislation.govt.nz/act/public/1961/0043/latest/whole.html"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1945978,
+   "kind": "new-latest",
+   "sha256": "ef93bdb754dac9d6c650cc61f025cb58197e7a9856e4f519f677e421648eaa06",
+   "timestamp": "20260308000841",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1946087,
+   "kind": "new-latest",
+   "sha256": "f2bdec930b9c30022175ee73b1cfee53ab8fef159d96254ae351b8668c8dae4c",
+   "timestamp": "20260317011749",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2025-11-27",
+   "bytes": 1946665,
+   "kind": "new-latest",
+   "sha256": "2c10ea8e277cb341cf760b4a4bd7f5943b642284dc3da6dd131f73aceab79880",
+   "timestamp": "20260325103537",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2026-05-26",
+   "bytes": 2075310,
+   "kind": "new-latest",
+   "sha256": "5bb17f8db1d9e11dcceaefcf127c271ff4f1c9957129d00394e63606b8f8d64b",
+   "timestamp": "20260710235144",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2019-07-01",
+   "bytes": 1955698,
+   "kind": "new-dated",
+   "sha256": "a6ab3330f63e4f8f62e51f5c32238a51d7ef867f1b48a19e8a13291e08a9f36c",
+   "timestamp": "20260712051402",
+   "url": "https://legislation.govt.nz/act/public/1961/43/en/2019-07-01/"
+  },
+  {
+   "as_at": "2026-05-26",
+   "bytes": 2075313,
+   "kind": "new-latest",
+   "sha256": "39348a8850131db9fe040e6c3078e4c71b4569ae4d5524bde6278d36108ed147",
+   "timestamp": "20260713184258",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2017-09-28",
+   "bytes": 1910569,
+   "kind": "new-dated",
+   "sha256": "9c4e31ed22c4931ea9dd675b8db11b8de62485f746fe28c7ad8eec4539c1cc1e",
+   "timestamp": "20260714161245",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/2017-09-28/"
+  },
+  {
+   "as_at": "2026-05-26",
+   "bytes": 2075318,
+   "kind": "new-latest",
+   "sha256": "8f457880dda60061dd2fed81057ba24bb50b09d5f4d2e391a893869ff991a969",
+   "timestamp": "20260714171221",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2026-08-08",
+   "bytes": 2101512,
+   "kind": "new-latest",
+   "sha256": "c6fb58804259826b94ae070211abd6c7695c315b1cf7f9d9a4c8a424c61e1020",
+   "timestamp": "20260906230157",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  },
+  {
+   "as_at": "2026-08-08",
+   "bytes": 2101514,
+   "kind": "new-latest",
+   "sha256": "82dbed9bf838576b45476e6c8ff5418cb0b3beddc2246315750568db72de31d2",
+   "timestamp": "20260926101512",
+   "url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/"
+  }
+ ],
  "privacy-act": [
   {
    "as_at": null,

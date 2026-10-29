@@ -6,12 +6,13 @@
    the same typesetting normalisation parse.py applies).
 3. Every version must come from a cached source whose sha256 matches.
 
-    python -X utf8 verify.py
+    python -X utf8 verify.py [corpus.json]
 """
 from __future__ import annotations
 
 import hashlib
 import json
+import sys
 from pathlib import Path
 
 import parse
@@ -20,7 +21,8 @@ HERE = Path(__file__).resolve().parent
 
 
 def main():
-    corpus = json.loads((HERE / 'corpus.json').read_text(encoding='utf-8'))
+    path = Path(sys.argv[1]) if len(sys.argv) > 1 else HERE / 'corpus.json'
+    corpus = json.loads(path.read_text(encoding='utf-8'))
     caps = json.loads((HERE / 'captures.json').read_text(encoding='utf-8'))
     out = {}
     for a in corpus['acts']:
@@ -47,7 +49,7 @@ def main():
         out[a['slug']] = {'last_version': last, 'newest_capture': newest['timestamp'], 'newest_url': newest['url'],
                           'newest_states': newest['as_at'], 'units': len(state), 'unit_mismatches': diff, 'ok': ok}
         print(a['slug'], 'OK' if ok else 'FAIL', out[a['slug']])
-    (HERE / 'verification.json').write_text(json.dumps(out, indent=1) + '\n', encoding='utf-8', newline='\n')
+    (path.parent / 'verification.json').write_text(json.dumps(out, indent=1) + '\n', encoding='utf-8', newline='\n')
 
 
 if __name__ == '__main__':
