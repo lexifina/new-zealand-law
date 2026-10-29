@@ -237,10 +237,13 @@ def note_events(note: str) -> list[tuple[str, str, str, str]]:
     rest = note[dm.end():]
     out = []
     def clean(s):
+        s = re.split(r'(?<=[."])\s+(?:See\s+)?', s.strip())[-1]
         if ' by ' in ' ' + s:
             s = (' ' + s)[(' ' + s).rfind(' by ') + 4:]
-        s = re.sub(r'^(?:the )?(?:(?:sections?|ss?|clauses?|[Ss]chedules?|Parts?|subparts?|regulations?|rules?|items?|'
-                   r'paragraphs?)\s+[\w().]+(?:(?:,| and| to)\s+[\w().]+)*\s+of\s+)?(?:the\s+)?', '', s.strip())
+        if ' pursuant to ' in ' ' + s:
+            s = (' ' + s)[(' ' + s).rfind(' pursuant to ') + 13:]
+        s = re.sub(r'^(?:pursuant to )?(?:the )?(?:(?:sections?|ss?|clauses?|[Ss]chedules?|Parts?|subparts?|regulations?|rules?|items?|'
+                   r'paragraphs?|clauses?)\s+[A-Za-z0-9().]+(?:(?:,| and| to)\s+[A-Za-z0-9().]+)*\s+(?:of\s+)?)?(?:the\s+)?', '', s.strip())
         if '/' in s:  # bilingual citation, "wehenga 7 o Te Ture ... 2022/section 7 of the ... Act 2022": English half
             s = s.rsplit('/', 1)[1]
         if s[:1].islower() and re.search(r'\bof (?:the )?(?=[A-Z])', s):
@@ -253,6 +256,9 @@ def note_events(note: str) -> list[tuple[str, str, str, str]]:
         name = clean(m.group(1))
         out.append((d, f'{m.group(2).lower()}-{m.group(3)}-{int(m.group(4)):04d}', f'{name} ({m.group(2)} {m.group(3)}/{m.group(4)})',
                     'decree'))
+    # a Commencement Order named beside the amending Act only sets the day: the Act is the author
+    if any(e[3] == 'law' for e in out):
+        out = [e for e in out if not (e[3] == 'decree' and 'Commencement' in e[2])]
     return out
 
 

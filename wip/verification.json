@@ -1,38 +1,55 @@
 {
- "constitution-act": {
-  "last_version": "2026-09-04",
-  "newest_capture": "20261005094648",
-  "newest_url": "https://legislation.govt.nz/act/public/1986/114/en/latest/",
-  "newest_states": "2026-09-04",
-  "units": 38,
-  "unit_mismatches": [],
-  "ok": true
- },
  "bill-of-rights-act": {
   "last_version": "2022-08-30",
   "newest_capture": "20261005094754",
-  "newest_url": "https://legislation.govt.nz/act/public/1990/109/en/latest/",
   "newest_states": "2022-08-30",
-  "units": 32,
+  "newest_url": "https://legislation.govt.nz/act/public/1990/109/en/latest/",
+  "ok": true,
   "unit_mismatches": [],
-  "ok": true
+  "units": 32
  },
- "privacy-act": {
-  "last_version": "2026-05-01",
-  "newest_capture": "20260926101200",
-  "newest_url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/",
-  "newest_states": "2026-05-01",
-  "units": 229,
+ "check": {
+  "acts": 4,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 91
+ },
+ "constitution-act": {
+  "last_version": "2026-09-04",
+  "newest_capture": "20261005094648",
+  "newest_states": "2026-09-04",
+  "newest_url": "https://legislation.govt.nz/act/public/1986/114/en/latest/",
+  "ok": true,
   "unit_mismatches": [],
-  "ok": true
+  "units": 38
  },
  "crimes-act": {
   "last_version": "2026-08-08",
   "newest_capture": "20260926101512",
-  "newest_url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/",
   "newest_states": "2026-08-08",
-  "units": 590,
+  "newest_url": "https://www.legislation.govt.nz/act/public/1961/43/en/latest/",
+  "ok": true,
   "unit_mismatches": [],
-  "ok": true
+  "units": 590
+ },
+ "privacy-act": {
+  "last_version": "2026-05-01",
+  "newest_capture": "20260926101200",
+  "newest_states": "2026-05-01",
+  "newest_url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/",
+  "ok": true,
+  "unit_mismatches": [],
+  "units": 229
+ },
+ "rebuild": {
+  "commits": 112,
+  "history_tip": "7348aa3404e6d0c38346ce720623513140c0e331",
+  "identical": true,
+  "main_identical": true,
+  "tags": 181
  }
 }
