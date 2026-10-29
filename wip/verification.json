@@ -1,46 +1,29 @@
 {
- "bill-of-rights-act": {
-  "last_version": "2022-08-30",
-  "newest_capture": "20261005094754",
-  "newest_states": "2022-08-30",
-  "newest_url": "https://legislation.govt.nz/act/public/1990/109/en/latest/",
-  "ok": true,
-  "unit_mismatches": [],
-  "units": 32
- },
- "check": {
-  "acts": 3,
-  "backwards": 0,
-  "future_dated": 0,
-  "merges": 0,
-  "mismatches": 0,
-  "missing_in_force": 0,
-  "trailer_errors": 0,
-  "versions": 33
- },
  "constitution-act": {
   "last_version": "2026-09-04",
   "newest_capture": "20261005094648",
-  "newest_states": "2026-09-04",
   "newest_url": "https://legislation.govt.nz/act/public/1986/114/en/latest/",
-  "ok": true,
+  "newest_states": "2026-09-04",
+  "units": 38,
   "unit_mismatches": [],
-  "units": 38
+  "ok": true
+ },
+ "bill-of-rights-act": {
+  "last_version": "2022-08-30",
+  "newest_capture": "20261005094754",
+  "newest_url": "https://legislation.govt.nz/act/public/1990/109/en/latest/",
+  "newest_states": "2022-08-30",
+  "units": 32,
+  "unit_mismatches": [],
+  "ok": true
  },
  "privacy-act": {
   "last_version": "2026-05-01",
   "newest_capture": "20260926101200",
-  "newest_states": "2026-05-01",
   "newest_url": "https://www.legislation.govt.nz/act/public/2020/31/en/latest/",
-  "ok": true,
+  "newest_states": "2026-05-01",
+  "units": 229,
   "unit_mismatches": [],
-  "units": 229
- },
- "rebuild": {
-  "commits": 37,
-  "history_tip": "86812c8884f9308afc87b6464beb73fd184c0d9a",
-  "identical": true,
-  "main_identical": true,
-  "tags": 62
+  "ok": true
  }
 }

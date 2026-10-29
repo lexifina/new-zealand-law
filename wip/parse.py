@@ -265,6 +265,11 @@ def build_act(spec: dict, caps: list[dict], laws: dict, decisions: list, log: li
     for c in caps:
         if not c.get('as_at') or not c.get('sha256'):
             continue
+        raw = cache_path(f'https://web.archive.org/web/{c["timestamp"]}id_/{c["url"]}').read_bytes()
+        if b'</html>' not in raw[-4096:].lower():
+            log.append(f'{spec["slug"]}: capture {c["timestamp"]} of {c["url"]} is truncated ({len(raw)} bytes, no '
+                       f'</html>); not used')
+            continue
         rank = (c['kind'].endswith('latest'), c['timestamp'])
         o = by_date.get(c['as_at'])
         if o is None or rank > (o['kind'].endswith('latest'), o['timestamp']):
