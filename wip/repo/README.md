@@ -10,6 +10,7 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: | --- |
 | `constitution-act/` | Constitution Act 1986 | 4 | From the official consolidation as at 17 May 2005 to the one as at 4 September 2026 |
 | `bill-of-rights-act/` | New Zealand Bill of Rights Act 1990 | 3 | From the consolidation as at 1 February 1994 to the one as at 30 August 2022, still current |
+| `privacy-act/` | Privacy Act 2020 | 26 | From the first consolidation after it came into force (as at 9 December 2020) to the one as at 1 May 2026, through 24 amending Acts and Orders and PCO editorial changes on three days |
 
 Every version is an **official consolidation** published by the Parliamentary Counsel Office (PCO) on [legislation.govt.nz](https://www.legislation.govt.nz). Under section 78 of the Legislation Act 2019, an electronic consolidation published there is an official version of the legislation, and each page says so in its notes. The per-act `README.md` in each folder lists every provision, how often it changed and when.
 
@@ -38,7 +39,7 @@ File names: `sec-003a.md` is section 3A, `sch-01.md` is Schedule 1, `long-title.
 
 ## How it is checked
 
-- **Against today's text.** The newest archived page of each Act (captured 5 October 2026) is the current official consolidation. Replaying every version in this record gives that page exactly, provision by provision: all 38 files of the Constitution Act and all 32 of the Bill of Rights. `tools/verify.py` runs this check from the cache. No archived page states a later date.
+- **Against today's text.** The newest archived page of each Act (captured 5 October 2026, and 26 September 2026 for the Privacy Act) is the current official consolidation. Replaying every version in this record gives that page exactly, provision by provision: all 38 files of the Constitution Act, all 32 of the Bill of Rights and all 229 of the Privacy Act. `tools/verify.py` runs this check from the cache. No archived page states a later date.
 - **Every version is a dated official source.** Each version names its source page (an Internet Archive capture of legislation.govt.nz, with the capture time in the address) and the sha256 of the bytes it was read from.
 - Every version of every Act is read back from git on the day it took effect and on the day before (`tools/check_repo.py`); both must match `corpus.json`. Results are in `REPRODUCE.md`.
 - Health checks: no merge commits on `main`, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse with `git interpret-trailers --parse`.
@@ -48,16 +49,19 @@ File names: `sec-003a.md` is section 3A, `sch-01.md` is Schedule 1, `long-title.
 
 The author of a commit is the Act that made the change, with an e-mail address that cannot exist (`act-2026-053@legislation.govt.nz.invalid`), so `git blame` and `git log --author` name it. The committer is always Lexifina.
 
-- **Credits come only from the source.** A provision is credited to the Act its history note names for a day between the two consolidations. A change that no note explains is committed separately by the publisher, labelled "unexplained". There is one: the PCO corrected "or." to "or" in s 22(b) of the Constitution Act between the consolidations as at 17 May 2005 and 13 November 2025.
+- **Credits come only from the source.** A provision is credited to the Act its history note names for a day between the two consolidations. A change that no note explains is committed separately by the publisher, labelled "unexplained". There are two. The PCO corrected "or." to "or" in s 22(b) of the Constitution Act between the consolidations as at 17 May 2005 and 13 November 2025. An information sharing agreement left Schedule 2 of the Privacy Act between the consolidations as at 1 July and 6 December 2023, and no note says by what.
+- **Orders in Council** that amend a schedule, such as the Privacy (Information Sharing Agreement …) Orders that add to Schedule 2 of the Privacy Act, are authors like Acts; their keys are `sl-<year>-<number>` (or `li-…` before 2021).
+- **Editorial changes** the PCO made under the Legislation Act 2019 (subpart 2 of Part 3), which the history notes record ("editorial change made by the PCO, on 8 May 2025"), are credited to `pco-editorial`, "Editorial change by the Parliamentary Counsel Office".
 - **The first commit of each Act** is "oldest version available", credited to the publisher. It is the oldest consolidation archived, not the Act as passed. The Acts that shaped that text, as its history notes name them, are listed in the commit.
 - Blame credits whole lines (one subsection or paragraph per line). Use `git log -p --word-diff` to see exactly which words each Act changed.
 
 ## What it does not show
 
 - **The Acts as passed, and the years before the oldest archived consolidation.** legislation.govt.nz started in 2008 with consolidations then current. The Constitution Act starts as at 17 May 2005, after the Constitution Amendment Acts of 1987, 1999 and 2005 and the other Acts its notes name. The Bill of Rights starts as at 1 February 1994, after the Human Rights Act 1993.
-- **Consolidations nobody archived.** Only pages the Internet Archive captured are used. A change made between two archived consolidations is still dated by the later one's history notes. If a provision changed on two different days in that gap, the text in between is not given: the first day's file reads "[The source does not give the text in force on this date.]".
+- **The Privacy Act before it came into force.** It came into force on 1 December 2020, apart from subpart 2 of Part 3 and ss 213 to 215, which came into force the day after Royal assent (s 2); the PCO's earlier consolidations of it (as at 1 and 7 August 2020) and the as-enacted pages show text not yet in force, so its history starts with the first archived consolidation after that day, as at 9 December 2020. No consolidation as at 1 December 2020 is archived.
+- **Consolidations nobody archived.** Only pages the Internet Archive captured are used. A change made between two archived consolidations is still dated by the later one's history notes. If a provision changed on two different days in that gap, the text in between is not given: the first day's file reads "[The source does not give the text in force on this date.]". This happens five times, all in the Privacy Act: Schedule 4 (1 November 2023), s 138 (30 June 2024), and ss 22, 44 and 49 (24 September 2025, between the Privacy Amendment Act 2025 and the Statutes Amendment Act 2025).
 - **Older renderings.** Pages the PCO later re-issued are not versions. The Constitution page labelled "as at 03 September 2007" (archived 2009 to 2011) is the old reprint layout of the consolidation the PCO now publishes as "as at 17 May 2005", and the same holds for the Bill of Rights.
-- **History notes and reprint notes** are not law text and are not in the files; they are used only to date and credit changes. "Compare" notes are kept as printed.
+- **History notes, reprint notes and the PCO's editorial notes** are not law text and are not in the files; they are used only to date and credit changes. "Compare" notes are kept as printed.
 - **Part and cross headings** are not separate files.
 - **Court rulings.** A declaration of inconsistency under the Bill of Rights changes no words, so it is not in this record.
 

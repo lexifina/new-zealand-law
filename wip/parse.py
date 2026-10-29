@@ -275,7 +275,8 @@ def build_act(spec: dict, caps: list[dict], laws: dict, decisions: list, log: li
     if floor:
         early = sorted(d for d in by_date if d < floor)
         if early:
-            decisions.append(f'{spec["title"]} came into force on {floor} (s 2); the PCO consolidations archived for '
+            decisions.append(f'{spec["title"]} came into force on {floor}, except subpart 2 of Part 3 and ss 213-215, '
+                             f'in force the day after Royal assent (s 2); the PCO consolidations archived for '
                              f'earlier dates ({", ".join(early)}) and the as-enacted pages show text not yet in force, '
                              f'so the history starts with the first archived consolidation on or after {floor}.')
         by_date = {d: c for d, c in by_date.items() if d >= floor}
@@ -458,7 +459,15 @@ def main():
             'not a version.',
             f'Where one provision was changed on several dates between two archived consolidations, the first date '
             f'reads "{PLACEHOLDER}" and the last date has the new words.',
-        ] + [f'Pages used for {s}: ' + '; '.join(f'as at {d} from {u} (capture {t})' for d, u, t in ps)
+            'A history note "editorial change made by the PCO" (Legislation Act 2019, subpart 2 of Part 3) credits the '
+            'change to pco-editorial, a publisher entry, not to the Legislation Act 2019. The PCO editorial notes, the '
+            'reprint notes and the site "secondary legislation" buttons inside provisions are not law text and are '
+            'dropped.',
+            'Orders in Council and other secondary legislation named in history notes are laws of kind decree, keyed '
+            'sl-<year>-<number> (LI and SR citations likewise); Acts are keyed act-<year>-<number>.',
+            'A capture of a "latest" page that a later capture contradicts by stating an earlier "as at" date is an '
+            'older rendering of a consolidation the PCO re-issued, and is not used.',
+        ] + decisions + [f'Pages used for {s}: ' + '; '.join(f'as at {d} from {u} (capture {t})' for d, u, t in ps)
              for s, ps in pages.items()],
         'ai_use': ['Claude Code with Claude Opus 5.5 (claude-opus-5-5) wrote ccindex.py, fetch.py and parse.py and '
                    'chose the sources; it did not write or alter any legal text. parse.py is deterministic and runs '
