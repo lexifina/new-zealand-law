@@ -1,5 +1,7 @@
 # New Zealand: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is New Zealand's national law, which global-law reads at `new-zealand/national/acts/`.
+
 The law of New Zealand as a git history: one file per provision, one commit per Act on the day its change took effect, and the Act that made each change as the commit's author. `git blame` names the Act behind every line; `git log` lists every change to a section; picking a date gives the text in force that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `nz/`.
